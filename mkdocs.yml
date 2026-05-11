@@ -1,0 +1,113 @@
+site_name: Libros Política
+site_description: Plan personal de estudio en pensamiento crítico, filosofía política, sociología y economía.
+site_url: https://mrspagvi.github.io/Libros-Politica/
+repo_url: https://github.com/MrSpagVi/Libros-Politica
+repo_name: MrSpagVi/Libros-Politica
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: cambiar a claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: cambiar a oscuro
+  font:
+    text: JetBrains Mono
+    code: JetBrains Mono
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: es
+  - tags
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/javascripts/extra.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MrSpagVi
+
+nav:
+  - Inicio: index.md
+  - Plan:
+      - Visión general: plan/index.md
+      - Plan maestro: plan/maestro.md
+      - Cómo ejecutar: plan/ejecutar.md
+      - Manual de falacias: plan/falacias.md
+  - Progreso: seguimiento.md
+  - Lecturas:
+      - Mis notas: lecturas/index.md
+      - Plantilla: lecturas/plantilla.md
+  - Ensayos: ensayos/index.md
+  - Oratoria: oratoria/log.md
+  - Plantillas:
+      - Visión general: plantillas/index.md
+      - Log de falacias: plantillas/plantilla-falacia.md
+      - Ensayo propio: plantillas/plantilla-ensayo.md
