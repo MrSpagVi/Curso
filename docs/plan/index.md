@@ -20,13 +20,13 @@ Taxonomía de las 4 familias, ~20 falacias con ejemplos políticos y protocolo d
 Cada fase tiene su propia página detallada con objetivos, libros, vídeos embebidos, recursos verificados, plan semanal sugerido, preguntas de retención (active retrieval) y autoevaluación Bloom.
 
 - :material-book-open: **[Fase 0 — Cimientos](fase-0.md)** *(Mes 1-2)* — lógica, falacias, cómo leer.
-- :material-book-open-outline: Fase 1 — Filosofía clásica y moderna *(Mes 3-8)* — en preparación.
-- :material-book-open-outline: Fase 2 — Economía política *(Mes 9-12)* — en preparación.
-- :material-book-open-outline: Fase 3 — Sociopolítica del siglo XX *(Mes 13-17)* — en preparación.
-- :material-book-open-outline: Fase 4 — Tradiciones iberoamericanas *(Mes 18-22)* — en preparación.
-- :material-book-open-outline: Fase 5 — Síntesis y voz propia *(Mes 23-28)* — en preparación.
+- :material-book-open: **[Fase 1 — Filosofía clásica y moderna](fase-1.md)** *(Mes 3-8)* — Platón → Mill, con Yale Smith.
+- :material-book-open: **[Fase 2 — Economía política](fase-2.md)** *(Mes 9-12)* — Smith, Marx, Mariátegui, con David Harvey.
+- :material-book-open: **[Fase 3 — Sociopolítica del siglo XX](fase-3.md)** *(Mes 13-17)* — Weber + 3 de 5 corrientes.
+- :material-book-open: **[Fase 4 — Tradiciones iberoamericanas](fase-4.md)** *(Mes 18-22)* — Bueno, Dussel, Cusicanqui, Freire.
+- :material-book-open: **[Fase 5 — Síntesis y voz propia](fase-5.md)** *(Mes 23-28)* — Mearsheimer, Mbembe, ensayo final.
 
-Mientras tanto, los detalles de cada fase están en el [Plan maestro](maestro.md).
+Cada página tiene: objetivo de la fase, libros con enlaces a PDFs/HTMLs verificados, vídeos embebidos, plan semanal sugerido, preguntas de retención (active retrieval) y autoevaluación Bloom 1-6.
 
 ## Principio único
 
