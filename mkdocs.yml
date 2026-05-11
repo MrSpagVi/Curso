@@ -1,9 +1,6 @@
 site_name: Curso de Ciencia Política
 site_description: Itinerario personal de formación en filosofía política, sociopolítica, economía y pensamiento crítico.
 site_url: https://mrspagvi.github.io/Libros-Politica/
-repo_url: https://github.com/MrSpagVi/Libros-Politica
-repo_name: MrSpagVi/Libros-Politica
-edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -21,7 +18,6 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
-    - content.action.edit
     - content.tooltips
   palette:
     - media: "(prefers-color-scheme: dark)"
@@ -41,9 +37,6 @@ theme:
   font:
     text: JetBrains Mono
     code: JetBrains Mono
-  icon:
-    repo: fontawesome/brands/github
-
 plugins:
   - search:
       lang: es
@@ -88,11 +81,6 @@ extra_css:
 
 extra_javascript:
   - assets/javascripts/extra.js
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/MrSpagVi
 
 nav:
   - Inicio: index.md
