@@ -2,49 +2,26 @@
 title: Plantilla — ensayo propio
 ---
 
-# Plantilla — ensayo
+# Plantilla — ensayo propio
 
-Convención de nombre: `AAAA-MM-DD_titulo-corto.md` en `docs/ensayos/`.
+Para tus textos en `docs/ensayos/`. Convención de nombre: `AAAA-MM-DD_titulo-corto.md`.
 
-```markdown
----
-title: "[Tu título]"
-date: AAAA-MM-DD
-tags: [fase, tema]
----
-
-# [Tu título]
-
-## Tesis
-
-> Una frase clara de lo que defiendes.
-
-## Argumento
-
-[3-5 párrafos. Razones, ejemplos, citas con número de página.]
-
-## La mejor objeción posible
-
-[1-2 párrafos. El contraargumento más fuerte que se te ocurra, formulado sin caricatura. Esto es lo que separa un ensayo de un alegato.]
-
-## Mi respuesta a esa objeción
-
-[1-2 párrafos.]
-
-## Conclusión
-
-[1 párrafo. ¿Qué cambia tu tesis para quien la acepta?]
-
-## Bibliografía citada
-
-- Autor, *Título*, editorial, año.
-- ...
+[**:material-arrow-left: ir a Plantillas para descargar / copiar / crear en GitHub**](index.md){ .md-button }
 
 ---
 
-**Notas internas (no se publican):**
+## Estructura
 
-- Nivel Bloom que sentí al escribirlo: __
-- ¿Qué autor del plan me ayudó más? __
-- ¿Qué autor me incomodó más? __
-```
+1. **Tesis** (1 párrafo). ¿Qué afirmas?
+2. **Argumento** (3-5 párrafos). Razones, ejemplos, citas con número de página.
+3. **Objeción más fuerte** (1-2 párrafos). El mejor contraargumento posible, sin caricatura. **Esto separa un ensayo de un alegato.**
+4. **Tu respuesta a esa objeción** (1-2 párrafos).
+5. **Conclusión** (1 párrafo). ¿Qué cambia tu tesis para quien la acepta?
+6. **Bibliografía citada.**
+
+## Recordatorios
+
+- Escribe pensando en un lector que no te conoce.
+- Cita: autor, obra, página. Sin esto el ensayo no vale nada.
+- No abuses de las citas. Si la mitad del texto es citas, no es tu ensayo.
+- Vuelve al texto **dos días después** y léelo en voz alta. Lo que suena mal lo está.

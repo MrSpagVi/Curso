@@ -2,39 +2,196 @@
 title: Plantillas
 ---
 
-# Plantillas descargables
+# Plantillas
 
-Las plantillas son archivos markdown. Cuando descargas una, te trae el texto en bruto que puedes abrir en Obsidian o cualquier editor.
+Cada plantilla es un archivo `.md`. Tres formas de usarla:
 
-!!! tip "Cómo descargar"
-    Haz clic en el enlace de descarga (cuando el repo esté en GitHub, descargará el archivo `.md` raw). Mientras tanto, en local, copia el contenido del bloque de código y pégalo en un archivo nuevo en Obsidian.
+- **Descargar** — baja el archivo a tu portátil. Lo abres en Antigravity / cualquier editor.
+- **Copiar** — copia el contenido al portapapeles. Pegas donde quieras.
+- **Crear en GitHub** — abre el editor de GitHub para tu repo con la plantilla ya pegada. Solo escribes lo tuyo y "commit".
 
-## :material-notebook-edit: Plantilla — nota de lectura
+!!! info "¿Por qué `.md` y no `.docx`?"
+    Todo el sistema funciona sobre **markdown**. Es lo que renderiza tu sitio, lo que entiende GitHub, lo que indexa la búsqueda. Word `.docx` es un formato binario que rompería el pipeline.
 
-Para cada libro que termines, en `docs/lecturas/`.
+    **Si necesitas Word de verdad** (para imprimir, compartir con alguien que no usa Markdown): descarga el `.md`, ábrelo en [Pandoc](https://pandoc.org/) o pega el contenido en [dillinger.io](https://dillinger.io) y exporta a `.docx` desde ahí.
 
-[:material-download: Descargar `plantilla-lectura.md`](../lecturas/plantilla.md){ .md-button }
+    En el día a día, no lo vas a necesitar.
 
-??? abstract "Ver contenido"
+---
 
-    ```markdown
-    --8<-- "lecturas/plantilla.md"
-    ```
+## Nota de lectura
 
-## :material-alert-circle-outline: Plantilla — log de falacias
+Una por libro completado. La guardas en `docs/lecturas/[apellido-titulo].md`.
 
-Para registrar capturas diarias. Crea `docs/falacias-log.md` con esta base.
+<div class="template-card" data-template="lectura" data-filename="mi-libro.md" data-path="docs/lecturas">
+  <div class="g-actions template-actions">
+    <button class="g-btn g-btn-primary" data-action="download">descargar .md</button>
+    <button class="g-btn" data-action="copy">copiar al portapapeles</button>
+    <a class="g-btn" data-action="github" target="_blank" rel="noopener">crear en github →</a>
+  </div>
+  <details class="template-content">
+    <summary>ver contenido de la plantilla</summary>
 
-[:material-download: Descargar `plantilla-falacia.md`](plantilla-falacia.md){ .md-button }
+````markdown
+---
+title: "[Título del libro] — [Autor]"
+fase: [0-5]
+fechas: AAAA-MM-DD → AAAA-MM-DD
+edicion: "[editorial, año, traductor]"
+bloom: [1-6]
+---
 
-## :material-feather: Plantilla — ensayo propio
+# [Título del libro] — [Autor]
 
-Para tus textos en `docs/ensayos/`.
+## 1. Tesis central (3 frases)
 
-[:material-download: Descargar `plantilla-ensayo.md`](plantilla-ensayo.md){ .md-button }
+> Si no puedes en 3 frases, no lo entendiste todavía.
 
-## :material-microphone: Plantilla — log de oratoria
+…
 
-Ya está creada en [`oratoria/log.md`](../oratoria/log.md). Si quieres rehacerla en blanco:
+## 2. Cinco ideas que me marcaron
 
-[:material-download: Ver plantilla actual de oratoria](../oratoria/log.md){ .md-button }
+1. **[Idea]** — p. XX. *Por qué me marca:* …
+2. **[Idea]** — p. XX.
+3. **[Idea]** — p. XX.
+4. **[Idea]** — p. XX.
+5. **[Idea]** — p. XX.
+
+## 3. Mi crítica / objeción
+
+¿Qué no me convenció? ¿Dónde podría estar haciendo trampa el autor?
+
+…
+
+## 4. Diálogo con otros autores del plan
+
+- **Coincide con / desarrolla:** [autor + en qué]
+- **Contradice / refuta:** [autor + en qué]
+
+## 5. Citas para releer
+
+> "…" — p. XX
+
+## 6. Notas de práctica
+
+- Se lo expliqué a: [persona / fecha]
+- Lo grabé argumentando: [archivo en `../oratoria/`]
+- Aparece en ensayo: [archivo en `../ensayos/`]
+````
+
+  </details>
+</div>
+
+---
+
+## Ensayo propio
+
+Tus textos en `docs/ensayos/`. Convención de nombre: `AAAA-MM-DD_titulo-corto.md`.
+
+<div class="template-card" data-template="ensayo" data-filename="$DATE_titulo-corto.md" data-path="docs/ensayos">
+  <div class="g-actions template-actions">
+    <button class="g-btn g-btn-primary" data-action="download">descargar .md</button>
+    <button class="g-btn" data-action="copy">copiar al portapapeles</button>
+    <a class="g-btn" data-action="github" target="_blank" rel="noopener">crear en github →</a>
+  </div>
+  <details class="template-content">
+    <summary>ver contenido de la plantilla</summary>
+
+````markdown
+---
+title: "[Tu título]"
+date: AAAA-MM-DD
+tags: [fase, tema]
+---
+
+# [Tu título]
+
+## Tesis
+
+Una frase clara de lo que defiendes.
+
+## Argumento
+
+[3-5 párrafos. Razones, ejemplos, citas con número de página.]
+
+## La mejor objeción posible
+
+[El contraargumento más fuerte que se te ocurra, sin caricatura. Esto separa un ensayo de un alegato.]
+
+## Mi respuesta a esa objeción
+
+[1-2 párrafos.]
+
+## Conclusión
+
+¿Qué cambia tu tesis para quien la acepta?
+
+## Bibliografía
+
+- Autor, *Título*, editorial, año.
+````
+
+  </details>
+</div>
+
+---
+
+## Log de falacias
+
+Para captura semanal/diaria. O usa el [**formulario web**](plantilla-falacia.md) que guarda en navegador y exporta a `.md`.
+
+<div class="template-card" data-template="falacia" data-filename="falacias-log.md" data-path="docs">
+  <div class="g-actions template-actions">
+    <button class="g-btn g-btn-primary" data-action="download">descargar .md</button>
+    <button class="g-btn" data-action="copy">copiar al portapapeles</button>
+    <a class="g-btn" data-action="github" target="_blank" rel="noopener">crear en github →</a>
+  </div>
+  <details class="template-content">
+    <summary>ver contenido de la plantilla</summary>
+
+````markdown
+# Mi log de falacias
+
+Una fila por captura. Familia: Lenguaje / Emoción / Distracción / Inducción defectuosa.
+
+| Fecha | Medio / autor | Cita corta | Familia | Falacia | Mi respuesta en una frase |
+|---|---|---|---|---|---|
+| AAAA-MM-DD | (medio o autor) | "..." | (familia) | (ejemplo: falsa dicotomía) | (cómo responderías) |
+````
+
+  </details>
+</div>
+
+---
+
+## Log de oratoria
+
+Para registrar grabaciones semanales y debates mensuales. Ya tienes uno en [`oratoria/log.md`](../oratoria/log.md).
+
+<div class="template-card" data-template="oratoria" data-filename="oratoria-log.md" data-path="docs/oratoria">
+  <div class="g-actions template-actions">
+    <button class="g-btn g-btn-primary" data-action="download">descargar .md</button>
+    <button class="g-btn" data-action="copy">copiar al portapapeles</button>
+    <a class="g-btn" data-action="github" target="_blank" rel="noopener">crear en github →</a>
+  </div>
+  <details class="template-content">
+    <summary>ver contenido de la plantilla</summary>
+
+````markdown
+# Log de oratoria
+
+## Práctica semanal: grabaciones de 3-5 min
+
+| Fecha | Tema / libro | Duración | Muletillas detectadas | Qué mejorar |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
+## Debates reales (mensual)
+
+| Fecha | Con quién | Tema | Cómo fue | Qué aprendí |
+|---|---|---|---|---|
+|  |  |  |  |  |
+````
+
+  </details>
+</div>

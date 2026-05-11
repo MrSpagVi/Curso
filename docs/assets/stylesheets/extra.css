@@ -640,15 +640,202 @@ body, .md-typeset {
   display: none;
 }
 
+/* ===== Template cards ===== */
+
+.template-card {
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-border);
+  border-radius: 4px;
+  padding: 1rem;
+  margin: 0.8rem 0 1.5rem;
+}
+
+.template-card .template-actions {
+  margin-bottom: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.template-card .template-content summary {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.75rem;
+  color: var(--g-label);
+  cursor: pointer;
+  padding: 0.4rem 0;
+  list-style: none;
+}
+
+.template-card .template-content summary::before {
+  content: "▸ ";
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+
+.template-card .template-content[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.template-card .template-content summary:hover {
+  color: var(--g-accent);
+}
+
+.template-card pre {
+  font-size: 0.72rem;
+  max-height: 400px;
+  overflow: auto;
+  margin: 0.5rem 0 0;
+}
+
+.template-card a.g-btn {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  border-bottom: none;
+}
+
 /* ===== Responsive ===== */
 
+@media (max-width: 960px) {
+  .md-tabs__link {
+    font-size: 0.72rem;
+  }
+}
+
 @media (max-width: 768px) {
-  .glance-grid,
-  .glance-2col {
-    grid-template-columns: 1fr;
+  body, .md-typeset {
+    font-size: 0.78rem;
   }
 
   .md-typeset h1 {
-    font-size: 1.2rem;
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+  }
+
+  .md-typeset h2 {
+    font-size: 0.95rem;
+    margin-top: 1.8rem;
+  }
+
+  .glance-grid,
+  .glance-2col {
+    grid-template-columns: 1fr;
+    gap: 0.55rem;
+  }
+
+  .g-card {
+    padding: 0.85rem 0.95rem;
+  }
+
+  .g-clock-date {
+    font-size: 1.3rem;
+  }
+
+  .g-clock-time {
+    font-size: 0.85rem;
+  }
+
+  .g-streak-num {
+    font-size: 1.9rem;
+  }
+
+  .g-stat-row {
+    font-size: 0.74rem;
+  }
+
+  .g-stat-value {
+    font-size: 0.78rem;
+  }
+
+  .g-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+  }
+
+  .g-actions {
+    gap: 0.35rem;
+  }
+
+  .g-actions .g-btn {
+    flex: 1;
+    min-width: 60px;
+    padding: 0.4rem 0.4rem;
+    font-size: 0.65rem;
+    text-align: center;
+  }
+
+  .g-setup {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+
+  .g-setup label {
+    font-size: 0.72rem;
+  }
+
+  .g-setup-status {
+    text-align: center;
+  }
+
+  .g-links li {
+    padding: 0.55rem 0;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.15rem;
+  }
+
+  .g-link-desc {
+    text-align: left;
+    margin-left: 0;
+    font-size: 0.68rem;
+  }
+
+  .g-mantra {
+    font-size: 0.8rem;
+    line-height: 1.6;
+  }
+
+  .falacia-form {
+    grid-template-columns: 1fr;
+    padding: 0.85rem;
+  }
+
+  .template-card {
+    padding: 0.85rem;
+  }
+
+  .template-card pre {
+    font-size: 0.65rem;
+  }
+
+  .md-typeset table:not([class]) {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .md-header__title {
+    font-size: 0.78rem;
+  }
+
+  .md-tabs__link {
+    font-size: 0.68rem;
+    padding: 0 0.6rem;
+  }
+
+  .g-card {
+    padding: 0.75rem 0.85rem;
+  }
+
+  .g-clock-date {
+    font-size: 1.15rem;
+  }
+
+  .g-streak-num {
+    font-size: 1.7rem;
+  }
+
+  .g-actions .g-btn {
+    font-size: 0.6rem;
+    padding: 0.35rem 0.3rem;
   }
 }

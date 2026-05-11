@@ -388,6 +388,93 @@
     renderFalacias();
   }
 
+  // ---------- Template cards (download / copy / create on GitHub) ----------
+
+  const REPO_URL = 'https://github.com/MrSpagVi/Libros-Politica';
+
+  function getTemplateContent(card) {
+    // Find the first <code> inside the <details><pre><code> structure
+    const code = card.querySelector('.template-content pre code, .template-content code');
+    if (!code) return '';
+    // Strip trailing newlines, preserve internal whitespace
+    return code.textContent.replace(/\n+$/, '') + '\n';
+  }
+
+  function todayDateForFilename() {
+    return todayISO().replace(/-/g, '-');
+  }
+
+  function setupTemplateCards() {
+    const cards = document.querySelectorAll('.template-card');
+    cards.forEach((card) => {
+      const filenameTpl = card.dataset.filename || 'plantilla.md';
+      const path = card.dataset.path || 'docs';
+      // Replace $DATE in filename with today
+      const filename = filenameTpl.replace('$DATE', todayDateForFilename());
+
+      const downloadBtn = card.querySelector('[data-action="download"]');
+      const copyBtn = card.querySelector('[data-action="copy"]');
+      const ghLink = card.querySelector('[data-action="github"]');
+
+      // GitHub "new file" URL — opens editor with filename suggested; user pastes content
+      if (ghLink) {
+        const ghUrl = `${REPO_URL}/new/main/${path}?filename=${encodeURIComponent(filename)}`;
+        ghLink.href = ghUrl;
+      }
+
+      if (downloadBtn) {
+        downloadBtn.addEventListener('click', () => {
+          const content = getTemplateContent(card);
+          if (!content.trim()) {
+            alert('No se pudo leer la plantilla. Recarga la página.');
+            return;
+          }
+          const blob = new Blob([content], { type: 'text/markdown;charset=utf-8' });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = filename;
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          URL.revokeObjectURL(url);
+          flashButton(downloadBtn, 'descargada ✓');
+        });
+      }
+
+      if (copyBtn) {
+        copyBtn.addEventListener('click', async () => {
+          const content = getTemplateContent(card);
+          try {
+            await navigator.clipboard.writeText(content);
+            flashButton(copyBtn, 'copiada ✓');
+          } catch (e) {
+            // Fallback: select the code block text
+            const code = card.querySelector('.template-content code');
+            if (code) {
+              const range = document.createRange();
+              range.selectNodeContents(code);
+              const sel = window.getSelection();
+              sel.removeAllRanges();
+              sel.addRange(range);
+              flashButton(copyBtn, 'seleccionada, Ctrl+C');
+            }
+          }
+        });
+      }
+    });
+  }
+
+  function flashButton(btn, text) {
+    const original = btn.textContent;
+    btn.textContent = text;
+    btn.style.borderColor = 'var(--g-accent)';
+    setTimeout(() => {
+      btn.textContent = original;
+      btn.style.borderColor = '';
+    }, 1500);
+  }
+
   // ---------- Task list persistence ----------
 
   function persistTaskLists() {
@@ -418,6 +505,7 @@
     setupTimeButtons();
     renderThisWeek();
     setupFalacias();
+    setupTemplateCards();
     persistTaskLists();
   }
 
