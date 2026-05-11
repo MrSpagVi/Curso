@@ -35,15 +35,15 @@
 
   function phaseFor(day) {
     if (day == null) return ['—', '—'];
-    if (day < 0) return ['no empezado', '—'];
+    if (day < 0) return ['No empezado', '—'];
     const month = Math.floor(day / 30) + 1;
-    if (month <= 2) return ['0 · cimientos', month];
-    if (month <= 8) return ['1 · filosofía clásica', month];
-    if (month <= 12) return ['2 · economía política', month];
-    if (month <= 17) return ['3 · sociopolítica s.xx', month];
-    if (month <= 22) return ['4 · iberoamericana', month];
-    if (month <= 28) return ['5 · síntesis', month];
-    return ['plan completado', month];
+    if (month <= 2) return ['0 · Cimientos', month];
+    if (month <= 8) return ['1 · Filosofía clásica', month];
+    if (month <= 12) return ['2 · Economía política', month];
+    if (month <= 17) return ['3 · Sociopolítica s. XX', month];
+    if (month <= 22) return ['4 · Iberoamericana', month];
+    if (month <= 28) return ['5 · Síntesis', month];
+    return ['Plan completado', month];
   }
 
   function isoWeek(d) {
@@ -113,7 +113,7 @@
     const day = daysSince(startDate);
 
     if (day != null && day >= 0) {
-      dayEl.textContent = `día ${day + 1} del plan`;
+      dayEl.textContent = `Día ${day + 1} del plan`;
       const [phaseLabel, monthNum] = phaseFor(day);
       phaseEl.textContent = phaseLabel;
       monthEl.textContent = `${monthNum} / 28`;
@@ -122,7 +122,7 @@
       const pct = Math.min(100, ((day + 1) / (28 * 30)) * 100);
       progressBar.style.width = pct.toFixed(1) + '%';
     } else {
-      dayEl.textContent = 'configura tu inicio ↓';
+      dayEl.textContent = 'Configura tu inicio ↓';
       phaseEl.textContent = '—';
       monthEl.textContent = '—';
       weekglobalEl.textContent = '—';
@@ -155,9 +155,9 @@
     const best = loadJSON(STORAGE.bestStreak, 0);
     if (streak > best) {
       saveJSON(STORAGE.bestStreak, streak);
-      streakBestEl.textContent = `récord ${streak}`;
+      streakBestEl.textContent = `Récord ${streak}`;
     } else {
-      streakBestEl.textContent = `récord ${best}`;
+      streakBestEl.textContent = `Récord ${best}`;
     }
   }
 
@@ -194,19 +194,19 @@
     const stored = localStorage.getItem(STORAGE.startDate);
     if (stored) {
       input.value = stored;
-      status.textContent = `guardado: ${fmtDateES(stored)}`;
+      status.textContent = `Guardado: ${fmtDateES(stored)}`;
       status.classList.add('success');
     }
 
     button.addEventListener('click', () => {
       const value = input.value;
       if (!value) {
-        status.textContent = 'elige una fecha';
+        status.textContent = 'Elige una fecha';
         status.classList.remove('success');
         return;
       }
       localStorage.setItem(STORAGE.startDate, value);
-      status.textContent = `guardado: ${fmtDateES(value)}`;
+      status.textContent = `Guardado: ${fmtDateES(value)}`;
       status.classList.add('success');
       renderDashboard();
       renderThisWeek();
@@ -244,7 +244,7 @@
     const startDate = localStorage.getItem(STORAGE.startDate);
     const day = daysSince(startDate);
     if (day == null || day < 0) {
-      box.innerHTML = '<p class="g-empty">configura tu fecha de inicio arriba para ver qué te toca.</p>';
+      box.innerHTML = '<p class="g-empty">Configura tu fecha de inicio arriba para ver qué te toca.</p>';
       return;
     }
 
@@ -255,47 +255,47 @@
 
     if (month <= 2) {
       items = [
-        'avanzar en <em>Cómo leer un libro</em> de Adler',
+        'Avanzar en <em>Cómo leer un libro</em> de Adler',
         '1 vídeo de CrashCourse Philosophy sobre falacias',
         '≥3 falacias en el log esta semana',
-        'ritual diario: 10 min lectura en voz alta',
+        'Ritual diario: 10 min de lectura en voz alta',
       ];
     } else if (month <= 8) {
       items = [
-        'libro primario fase 1 (Platón → Maquiavelo → Hobbes → Rousseau → Mill)',
-        '1 clase Yale PLSC 114 (Steven Smith)',
-        'ficha semanal en <code>lecturas/</code>',
-        'grabación de 3-5 min resumiendo lo leído',
+        'Libro primario fase 1 (Platón → Maquiavelo → Hobbes → Rousseau → Mill)',
+        '1 clase de Yale PLSC 114 (Steven Smith)',
+        'Ficha semanal en <code>lecturas/</code>',
+        'Grabación de 3-5 min resumiendo lo leído',
       ];
     } else if (month <= 12) {
       items = [
-        'fase 2 economía: Chang → Smith → Marx → Mariátegui',
-        'curso David Harvey en YouTube acompañando a Marx',
-        'M3 pluriverso: Said <em>Orientalismo</em> en paralelo',
+        'Fase 2 economía: Chang → Smith → Marx → Mariátegui',
+        'Curso de David Harvey en YouTube acompañando a Marx',
+        'M3 Pluriverso: Said <em>Orientalismo</em> en paralelo',
       ];
     } else if (month <= 17) {
       items = [
-        'fase 3: Weber fijo + 3 de 5 corrientes',
+        'Fase 3: Weber fijo + 3 de 5 corrientes',
         'M3: Fanon <em>Los condenados de la tierra</em>',
-        'informe trimestral: Elcano + V-Dem',
+        'Informe trimestral: Elcano + V-Dem',
       ];
     } else if (month <= 22) {
       items = [
-        'fase 4: Bolívar/Martí → Bueno/Armesilla → Dussel/Quijano/Cusicanqui',
-        'cinco emancipaciones: Freire + Gutiérrez',
+        'Fase 4: Bolívar/Martí → Bueno/Armesilla → Dussel/Quijano/Cusicanqui',
+        'Cinco emancipaciones: Freire + Gutiérrez',
         'fgbueno.es + CLACSO TV + entrevistas a Rivera Cusicanqui',
       ];
     } else if (month <= 28) {
       items = [
-        'fase 5: Mearsheimer + novela política + relectura',
-        'ensayo final 1500-2000 palabras',
-        'grabación 10 min argumentando una tesis',
+        'Fase 5: Mearsheimer + novela política + relectura',
+        'Ensayo final 1500-2000 palabras',
+        'Grabación de 10 min argumentando una tesis',
       ];
     } else {
-      items = ['plan completado · releer mejores notas + nuevo proyecto propio'];
+      items = ['Plan completado · releer mejores notas + nuevo proyecto propio'];
     }
 
-    box.innerHTML = `<p style="font-size: 0.72rem; color: var(--g-label);">semana ${week} · mes ${month}</p><ul>${items.map((i) => `<li>${i}</li>`).join('')}</ul>`;
+    box.innerHTML = `<p style="font-size: 0.72rem; color: var(--g-label);">Semana ${week} · Mes ${month}</p><ul>${items.map((i) => `<li>${i}</li>`).join('')}</ul>`;
   }
 
   // ---------- Falacia capture form ----------
@@ -311,7 +311,7 @@
     if (!list) return;
     const entries = loadJSON(STORAGE.falacias, []);
     if (entries.length === 0) {
-      list.innerHTML = '<p class="g-empty">aún no hay capturas. añade una arriba.</p>';
+      list.innerHTML = '<p class="g-empty">Aún no hay capturas. Añade una arriba.</p>';
       return;
     }
     list.innerHTML = entries.slice().reverse().map((e, i) => `
@@ -320,8 +320,8 @@
           <span>${e.date}</span><span>${escapeHTML(e.source)}</span><span>${escapeHTML(e.family)} · ${escapeHTML(e.name)}</span>
         </div>
         <p class="quote">"${escapeHTML(e.quote)}"</p>
-        <p><strong>respuesta:</strong> ${escapeHTML(e.reply)}</p>
-        <button data-idx="${entries.length - 1 - i}" class="g-btn fal-delete">eliminar</button>
+        <p><strong>Respuesta:</strong> ${escapeHTML(e.reply)}</p>
+        <button data-idx="${entries.length - 1 - i}" class="g-btn fal-delete">Eliminar</button>
       </div>`).join('');
     list.querySelectorAll('.fal-delete').forEach((btn) => {
       btn.addEventListener('click', (ev) => {
@@ -353,14 +353,14 @@
       };
       const status = document.getElementById('fal-status');
       if (!entry.source || !entry.quote || !entry.family) {
-        status.textContent = 'faltan campos: medio, cita y familia.';
+        status.textContent = 'Faltan campos: medio, cita y familia.';
         status.classList.remove('success');
         return;
       }
       const entries = loadJSON(STORAGE.falacias, []);
       entries.push(entry);
       saveJSON(STORAGE.falacias, entries);
-      status.textContent = `guardada (${entries.length})`;
+      status.textContent = `Guardada (${entries.length})`;
       status.classList.add('success');
       ['fal-source', 'fal-quote', 'fal-name', 'fal-reply'].forEach((id) => (document.getElementById(id).value = ''));
       document.getElementById('fal-family').value = '';
@@ -370,7 +370,7 @@
     exportBtn.addEventListener('click', () => {
       const entries = loadJSON(STORAGE.falacias, []);
       if (entries.length === 0) {
-        document.getElementById('fal-status').textContent = 'nada que exportar';
+        document.getElementById('fal-status').textContent = 'Nada que exportar';
         return;
       }
       const header = '| Fecha | Medio / autor | Cita corta | Familia | Falacia | Mi respuesta |\n|---|---|---|---|---|---|\n';
@@ -438,7 +438,7 @@
           a.click();
           document.body.removeChild(a);
           URL.revokeObjectURL(url);
-          flashButton(downloadBtn, 'descargada ✓');
+          flashButton(downloadBtn, 'Descargada ✓');
         });
       }
 
@@ -447,7 +447,7 @@
           const content = getTemplateContent(card);
           try {
             await navigator.clipboard.writeText(content);
-            flashButton(copyBtn, 'copiada ✓');
+            flashButton(copyBtn, 'Copiada ✓');
           } catch (e) {
             // Fallback: select the code block text
             const code = card.querySelector('.template-content code');
@@ -457,7 +457,7 @@
               const sel = window.getSelection();
               sel.removeAllRanges();
               sel.addRange(range);
-              flashButton(copyBtn, 'seleccionada, Ctrl+C');
+              flashButton(copyBtn, 'Seleccionada, Ctrl+C');
             }
           }
         });

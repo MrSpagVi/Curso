@@ -25,12 +25,12 @@ Una por libro completado. La guardas en `docs/lecturas/[apellido-titulo].md`.
 
 <div class="template-card" data-template="lectura" data-filename="mi-libro.md" data-path="docs/lecturas">
   <div class="g-actions template-actions">
-    <button class="g-btn g-btn-primary" data-action="download">descargar .md</button>
-    <button class="g-btn" data-action="copy">copiar al portapapeles</button>
-    <a class="g-btn" data-action="github" target="_blank" rel="noopener">crear en github →</a>
+    <button class="g-btn g-btn-primary" data-action="download">Descargar .md</button>
+    <button class="g-btn" data-action="copy">Copiar al portapapeles</button>
+    <a class="g-btn" data-action="github" target="_blank" rel="noopener">Crear en GitHub →</a>
   </div>
   <details class="template-content">
-    <summary>ver contenido de la plantilla</summary>
+    <summary>Ver contenido de la plantilla</summary>
 
 ````markdown
 ---
@@ -90,12 +90,12 @@ Tus textos en `docs/ensayos/`. Convención de nombre: `AAAA-MM-DD_titulo-corto.m
 
 <div class="template-card" data-template="ensayo" data-filename="$DATE_titulo-corto.md" data-path="docs/ensayos">
   <div class="g-actions template-actions">
-    <button class="g-btn g-btn-primary" data-action="download">descargar .md</button>
-    <button class="g-btn" data-action="copy">copiar al portapapeles</button>
-    <a class="g-btn" data-action="github" target="_blank" rel="noopener">crear en github →</a>
+    <button class="g-btn g-btn-primary" data-action="download">Descargar .md</button>
+    <button class="g-btn" data-action="copy">Copiar al portapapeles</button>
+    <a class="g-btn" data-action="github" target="_blank" rel="noopener">Crear en GitHub →</a>
   </div>
   <details class="template-content">
-    <summary>ver contenido de la plantilla</summary>
+    <summary>Ver contenido de la plantilla</summary>
 
 ````markdown
 ---
@@ -142,12 +142,12 @@ Para captura semanal/diaria. O usa el [**formulario web**](plantilla-falacia.md)
 
 <div class="template-card" data-template="falacia" data-filename="falacias-log.md" data-path="docs">
   <div class="g-actions template-actions">
-    <button class="g-btn g-btn-primary" data-action="download">descargar .md</button>
-    <button class="g-btn" data-action="copy">copiar al portapapeles</button>
-    <a class="g-btn" data-action="github" target="_blank" rel="noopener">crear en github →</a>
+    <button class="g-btn g-btn-primary" data-action="download">Descargar .md</button>
+    <button class="g-btn" data-action="copy">Copiar al portapapeles</button>
+    <a class="g-btn" data-action="github" target="_blank" rel="noopener">Crear en GitHub →</a>
   </div>
   <details class="template-content">
-    <summary>ver contenido de la plantilla</summary>
+    <summary>Ver contenido de la plantilla</summary>
 
 ````markdown
 # Mi log de falacias
@@ -170,12 +170,12 @@ Para registrar grabaciones semanales y debates mensuales. Ya tienes uno en [`ora
 
 <div class="template-card" data-template="oratoria" data-filename="oratoria-log.md" data-path="docs/oratoria">
   <div class="g-actions template-actions">
-    <button class="g-btn g-btn-primary" data-action="download">descargar .md</button>
-    <button class="g-btn" data-action="copy">copiar al portapapeles</button>
-    <a class="g-btn" data-action="github" target="_blank" rel="noopener">crear en github →</a>
+    <button class="g-btn g-btn-primary" data-action="download">Descargar .md</button>
+    <button class="g-btn" data-action="copy">Copiar al portapapeles</button>
+    <a class="g-btn" data-action="github" target="_blank" rel="noopener">Crear en GitHub →</a>
   </div>
   <details class="template-content">
-    <summary>ver contenido de la plantilla</summary>
+    <summary>Ver contenido de la plantilla</summary>
 
 ````markdown
 # Log de oratoria

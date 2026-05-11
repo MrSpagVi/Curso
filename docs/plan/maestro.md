@@ -142,8 +142,11 @@ Plan diseñado para **18-24 meses** (~20 libros base). Modular: si pierdes un me
 
 - :material-file-document: [Weber — *La política como vocación* (Marxists.org, inglés)](https://www.marxists.org/reference/archive/weber/politics-vocation.htm) o búscalo como PDF en español en archive.org.
 - :material-file-document: [Lenin — *El imperialismo, fase superior del capitalismo* (Marxists.org, español)](https://www.marxists.org/espanol/lenin/obras/1910s/imperialismo/index.htm).
-- :material-file-document: [Crenshaw — *"Mapping the Margins"* (1991, accesible en JSTOR / academia.edu)](https://www.racialequitytools.org/resourcefiles/mapping-margins.pdf).
-- :material-file-document: [Mohanty — *"Under Western Eyes"* (PDF gratis)](https://feministlatam.wordpress.com/wp-content/uploads/2019/04/c-mohanty-under-western-eyes-feminist-scholarship-and-colonial-discourses-1984.pdf).
+- :material-file-document: [Crenshaw — *"Mapping the Margins"* (1991, PDF de Columbia Law School)](https://blogs.law.columbia.edu/critique1313/files/2020/02/1229039.pdf).
+- :material-file-document: [Mohanty — *"Under Western Eyes"* (PDF, Simon Fraser University)](https://www.sfu.ca/~decaste/OISE/page2/files/MohantyWesternEyes.pdf).
+- :material-file-document: [bell hooks — *El feminismo es para todo el mundo* (PDF español, Traficantes de Sueños, gratis legal)](https://traficantes.net/sites/default/files/pdfs/TDS_map47_hooks_web.pdf).
+- :material-file-document: [Hayek — *Camino de servidumbre* (PDF español, Cato Institute legal)](https://www.elcato.org/sites/default/files/camino-de-servidumbre-libro-electronico.pdf).
+- :material-file-document: [Fisher — *Realismo capitalista* (PDF Caja Negra Editora, legal)](https://cajanegraeditora.com.ar/wp-content/uploads/2018/12/Realismo.capitalista_Fisher_CajaNegra.pdf).
 - :material-youtube: [Roger Scruton (canal con muchas conferencias)](https://www.youtube.com/results?search_query=roger+scruton+lecture) — la mejor exposición del conservadurismo filosófico.
 
 ---
@@ -190,9 +193,12 @@ La academia latinoamericana agrupa así la ola: Pedagogía + Teología + Depende
 - :material-web: [fgbueno.es — Fundación Gustavo Bueno](https://www.fgbueno.es) (obra completa de Bueno, cientos de vídeos + textos, gratis).
 - :material-youtube: [Santiago Armesilla — canal YouTube](https://www.youtube.com/@SantiagoArmesilla) (directos largos sobre actualidad geopolítica).
 - :material-file-document: [Bolívar — *Carta de Jamaica* (Wikisource)](https://es.wikisource.org/wiki/Carta_de_Jamaica) y [Martí — *Nuestra América* (Wikisource)](https://es.wikisource.org/wiki/Nuestra_América).
-- :material-file-document: [Quijano — *Colonialidad del poder, eurocentrismo y América Latina* (CLACSO, gratis)](http://biblioteca.clacso.edu.ar/clacso/sur-sur/20100708034410/lander.pdf).
-- :material-file-document: [Rivera Cusicanqui — *Ch'ixinakax utxiwa* (Tinta Limón, gratis)](https://www.mxfractal.org/articulos/RevistaFractal73Cusicanqui.php).
-- :material-file-document: [Freire — *Pedagogía del oprimido* (PDF gratis)](https://fhcv.files.wordpress.com/2014/01/freire-pedagogia-del-oprimido.pdf).
+- :material-file-document: [Quijano — *Colonialidad del poder, eurocentrismo y América Latina* (CLACSO, PDF)](https://biblioteca.clacso.edu.ar/clacso/sur-sur/20100708050100/11_quijano.pdf).
+- :material-file-document: [Dussel — *1492: el encubrimiento del Otro* (CLACSO, PDF)](https://biblioteca.clacso.edu.ar/clacso/otros/20111218114130/1942.pdf).
+- :material-file-document: [Freire — *Pedagogía del oprimido* (Servicios Koinonía, PDF español)](https://www.servicioskoinonia.org/biblioteca/general/FreirePedagogiadelOprimido.pdf).
+- :material-file-document: [Gustavo Gutiérrez — *Teología de la liberación* (editorial Sígueme oficial, PDF)](https://www.sigueme.es/docs/libros/teologia-de-la-liberacion-r2022-web.pdf).
+- :material-file-document: [Lugones — "Colonialidad y género" (Revista Tabula Rasa, PDF español)](https://www.revistatabularasa.org/numero-9/05lugones.pdf).
+- :material-file-document: [Martí — *Nuestra América* (CLACSO, PDF)](https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/15321/1/Nuestra_America_Jose_Marti.pdf).
 - :material-library: [CLACSO TV](https://www.clacso.tv) — entrevistas con Rivera Cusicanqui, Segato, Gago, García Linera.
 
 ---
@@ -210,11 +216,13 @@ La academia latinoamericana agrupa así la ola: Pedagogía + Teología + Depende
 
 **Enlaces gratuitos:**
 
-- :material-file-document: [Mearsheimer — *The Tragedy of Great Power Politics* (PDF en archive.org)](https://archive.org/details/tragedyofgreatpo0000mear).
-- :material-file-document: [Mbembe — *Necropolítica* (PDF, varios espejos académicos)](https://es.scribd.com/document/472879283/Achille-Mbembe-Necropolitica).
-- :material-file-document: [Gandhi — *Hind Swaraj* (texto completo gratis)](https://www.mkgandhi.org/ebks/hind_swaraj.pdf).
-- :material-file-document: [Ambedkar — *Aniquilación de las castas* (PDF en español)](http://ambedkar.org/ambcd/02.Annihilation%20of%20Caste.htm).
-- :material-file-document: Confucio — *Analectas*: hay varias traducciones gratuitas; busca "Analectas Confucio PDF".
+- :material-file-document: [Mearsheimer — *The Tragedy of Great Power Politics* (Archive.org, préstamo legal)](https://archive.org/details/tragedyofgreatpo00mear).
+- :material-file-document: [Mbembe — *Necropolítica* (PDF español, editorial Melusina oficial)](https://www.melusina.com/rcs_gene/Necropol_tica.pdf).
+- :material-file-document: [Gandhi — *Hind Swaraj* (PDF español, sitio oficial mkgandhi.org)](https://www.mkgandhi.org/ebks/hind_swaraj_spanish.pdf).
+- :material-file-document: [Ambedkar — *Annihilation of Caste* (PDF inglés, Columbia)](https://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/readings/aoc_print_2004.pdf).
+- :material-file-document: [Said — *Orientalismo* (Archive.org, préstamo)](https://archive.org/details/said-e.-w.-orientalismo-ocr-2008).
+- :material-file-document: [Fanon — *Los condenados de la tierra* (PDF español, marxists.org)](https://www.marxists.org/espanol/fanon/los-condenados-de-la-tierra-franz-fanon.pdf).
+- :material-file-document: Confucio — *Analectas*: traducción Suárez Girard en [CETR](https://cetr.net/files/LUN%20YU%20es.pdf) (verificar licencia); inglés dominio público en [Gutenberg](https://www.gutenberg.org/ebooks/3330).
 - Opcional: blog/Substack/hilos. Escribir para otros disciplina como nada.
 
 ---

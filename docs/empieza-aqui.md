@@ -77,13 +77,14 @@ No esperes al lunes ideal. Hazlo hoy aunque sean 20 min mal hechos. Romper la in
     4. **Capturar tu primera falacia** en el [formulario web](plantillas/plantilla-falacia.md) — la primera que veas hoy en redes, prensa o TV. [3 min]
     5. **Marcar 30 min** en el contador de tiempo del [dashboard](index.md). [10 seg]
 
-### Embebido: Yale PLSC 114 — Clase 1
+### Embebido: Yale PLSC 114 — Clase 1 ("What Is Political Philosophy?")
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1rem 0;">
-<iframe src="https://www.youtube.com/embed/videoseries?list=PL8D95DEA9B7DFE825" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/xhm55mIdSuk?rel=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" title="Yale PLSC 114 Lecture 1 - What Is Political Philosophy?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 [:material-open-in-new: Playlist completa de las 24 clases (gratis, Yale)](https://www.youtube.com/playlist?list=PL8D95DEA9B7DFE825){ .md-button .md-button--primary target="_blank" rel="noopener" }
+[:material-school: Página oficial Open Yale Courses](https://oyc.yale.edu/political-science/plsc-114){ .md-button target="_blank" rel="noopener" }
 
 ---
 

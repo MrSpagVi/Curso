@@ -75,7 +75,6 @@
   font-family: "JetBrains Mono", monospace;
   font-size: 0.78rem;
   font-weight: 400;
-  text-transform: lowercase;
   letter-spacing: 0;
   opacity: 0.7;
 }
@@ -308,7 +307,6 @@ body, .md-typeset {
   font-weight: 500;
   cursor: pointer;
   transition: all 0.12s ease;
-  text-transform: lowercase;
   letter-spacing: 0.02em;
 }
 
@@ -605,7 +603,6 @@ body, .md-typeset {
 .md-button {
   font-family: "JetBrains Mono", monospace;
   font-size: 0.75rem;
-  text-transform: lowercase;
   letter-spacing: 0.02em;
   border-radius: 3px;
   padding: 0.4rem 0.8rem;
