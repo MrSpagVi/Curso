@@ -5,7 +5,13 @@ hide:
   - toc
 ---
 
-# Libros Política
+# Curso de Ciencia Política
+
+<div class="hero-cta">
+  <span class="g-label">¿primera vez aquí?</span>
+  <a href="empieza-aqui/" class="g-btn g-btn-primary hero-cta-link">empezar el curso →</a>
+  <span class="hero-cta-desc">tour de 7 min · qué es · cómo funciona · qué hacer hoy</span>
+</div>
 
 <div class="glance-grid">
 

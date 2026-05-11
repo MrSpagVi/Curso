@@ -640,6 +640,46 @@ body, .md-typeset {
   display: none;
 }
 
+/* ===== Hero CTA (Empieza aquí banner) ===== */
+
+.hero-cta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.85rem 1.1rem;
+  background: var(--g-accent-soft);
+  border: 1px solid var(--g-accent);
+  border-radius: 4px;
+  margin: 0.5rem 0 1.5rem;
+}
+
+.hero-cta .g-label {
+  margin: 0;
+}
+
+.hero-cta-link {
+  font-weight: 500;
+}
+
+.hero-cta-desc {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.72rem;
+  color: var(--g-label);
+  margin-left: auto;
+}
+
+@media (max-width: 600px) {
+  .hero-cta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  .hero-cta-desc {
+    margin-left: 0;
+  }
+}
+
 /* ===== Template cards ===== */
 
 .template-card {

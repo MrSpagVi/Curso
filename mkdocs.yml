@@ -1,5 +1,5 @@
-site_name: Libros Política
-site_description: Plan personal de estudio en pensamiento crítico, filosofía política, sociología y economía.
+site_name: Curso de Ciencia Política
+site_description: Itinerario personal de formación en filosofía política, sociopolítica, economía y pensamiento crítico.
 site_url: https://mrspagvi.github.io/Libros-Politica/
 repo_url: https://github.com/MrSpagVi/Libros-Politica
 repo_name: MrSpagVi/Libros-Politica
@@ -96,6 +96,7 @@ extra:
 
 nav:
   - Inicio: index.md
+  - Empieza aquí: empieza-aqui.md
   - Plan:
       - Visión general: plan/index.md
       - Plan maestro: plan/maestro.md

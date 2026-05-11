@@ -47,6 +47,12 @@ Plan diseñado para **18-24 meses** (~20 libros base). Modular: si pierdes un me
 
 **Salida:** detectas *ad hominem*, *ad verecundiam*, hombre de paja, falsa dicotomía en debates de TV.
 
+**Enlaces gratuitos:**
+
+- :material-youtube: [CrashCourse Philosophy — playlist completa](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR) (inglés con subs en español, ver eps. 2-4 sobre lógica y falacias).
+- :material-file-document: [Schopenhauer — *El arte de tener razón*, texto completo gratis (Wikisource)](https://es.wikisource.org/wiki/Dialéctica_erística).
+- :material-internet-archive: Adler — *Cómo leer un libro*: búscalo en [archive.org](https://archive.org) (préstamo gratuito de 1 h renovable) o cómpralo en cualquier librería.
+
 ---
 
 ## FASE 1 — Filosofía clásica y moderna: el mapa (Mes 3-8)
@@ -70,6 +76,17 @@ Plan diseñado para **18-24 meses** (~20 libros base). Modular: si pierdes un me
 
 **Salida:** distingues idealismo de materialismo, sabes qué es estado de naturaleza, contrato social, voluntad general; explicas en qué se diferencian Hobbes, Locke y Rousseau aunque los tres "firman" un contrato.
 
+**Enlaces gratuitos (obras primarias en dominio público):**
+
+- :material-youtube: [Yale PLSC 114 — playlist completa de Steven Smith (24 clases)](https://www.youtube.com/playlist?list=PL8D95DEA9B7DFE825).
+- :material-youtube: [*Justice* de Sandel — playlist de Harvard (12 clases)](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6).
+- :material-file-document: [Platón — *Apología de Sócrates* (Wikisource)](https://es.wikisource.org/wiki/Apología_de_Sócrates).
+- :material-file-document: [Maquiavelo — *El Príncipe* (Project Gutenberg, español)](https://www.gutenberg.org/ebooks/52540).
+- :material-file-document: [Hobbes — *Leviatán* (Wikisource, inglés / archive.org tiene en español)](https://en.wikisource.org/wiki/Leviathan_(1651)).
+- :material-file-document: [Rousseau — *El contrato social* (Wikisource, español)](https://es.wikisource.org/wiki/El_contrato_social).
+- :material-file-document: [Mill — *Sobre la libertad* (Wikisource, español)](https://es.wikisource.org/wiki/Sobre_la_libertad).
+- :material-school: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) — referencia para entender cualquier concepto antes de leer la obra primaria.
+
 ---
 
 ## FASE 2 — Economía política: ortodoxia y heterodoxia (Mes 8-11)
@@ -87,6 +104,15 @@ Plan diseñado para **18-24 meses** (~20 libros base). Modular: si pierdes un me
 - Podcast **"La Base"** (Pablo Iglesias).
 
 **Salida:** distingues valor de precio, sabes qué es plusvalía, diferencias entre escuelas neoclásica, keynesiana, marxista, austríaca.
+
+**Enlaces gratuitos:**
+
+- :material-school: [David Harvey — *Reading Marx's Capital* (curso completo en vídeo, gratis)](https://davidharvey.org/reading-capital/). El mejor companion para abordar *El Capital*.
+- :material-file-document: [Marx — *El Capital*, Libro I completo en español (Marxists.org)](https://www.marxists.org/espanol/m-e/1860s/eccx86s.htm).
+- :material-file-document: [Mariátegui — *7 ensayos de interpretación de la realidad peruana* (Marxists.org, completo)](https://www.marxists.org/espanol/mariateg/1928/7ensayos/index.htm).
+- :material-file-document: [Adam Smith — *La riqueza de las naciones* (Wikisource, español)](https://es.wikisource.org/wiki/Investigación_sobre_la_naturaleza_y_causas_de_la_riqueza_de_las_naciones).
+- :material-youtube: [Juan Ramón Rallo (liberal-austríaco) — canal YouTube](https://www.youtube.com/@JuanRamonRallo). Para conocer el argumento contrario en su mejor versión.
+- :material-library: [CLACSO Biblioteca](https://biblioteca-repositorio.clacso.edu.ar/) — papers sobre dependencia (Marini, Cardoso) gratis.
 
 ---
 
@@ -111,6 +137,14 @@ Plan diseñado para **18-24 meses** (~20 libros base). Modular: si pierdes un me
 - **Diego Fusaro** (italiano, hay traducciones).
 
 **Salida:** resumes en 5 min qué defienden marxismo, liberalismo y conservadurismo, sin caricaturas.
+
+**Enlaces gratuitos:**
+
+- :material-file-document: [Weber — *La política como vocación* (Marxists.org, inglés)](https://www.marxists.org/reference/archive/weber/politics-vocation.htm) o búscalo como PDF en español en archive.org.
+- :material-file-document: [Lenin — *El imperialismo, fase superior del capitalismo* (Marxists.org, español)](https://www.marxists.org/espanol/lenin/obras/1910s/imperialismo/index.htm).
+- :material-file-document: [Crenshaw — *"Mapping the Margins"* (1991, accesible en JSTOR / academia.edu)](https://www.racialequitytools.org/resourcefiles/mapping-margins.pdf).
+- :material-file-document: [Mohanty — *"Under Western Eyes"* (PDF gratis)](https://feministlatam.wordpress.com/wp-content/uploads/2019/04/c-mohanty-under-western-eyes-feminist-scholarship-and-colonial-discourses-1984.pdf).
+- :material-youtube: [Roger Scruton (canal con muchas conferencias)](https://www.youtube.com/results?search_query=roger+scruton+lecture) — la mejor exposición del conservadurismo filosófico.
 
 ---
 
@@ -151,6 +185,16 @@ La academia latinoamericana agrupa así la ola: Pedagogía + Teología + Depende
 
 **Salida:** distingues "materialismo filosófico" (Bueno) de "materialismo histórico" (Marx); puedes explicar por qué Bueno y Dussel coinciden en criticar el eurocentrismo anglo pero discrepan sobre la conquista; entiendes qué propone Rivera Cusicanqui con "ch'ixi" frente a la tesis Hispanidad; explicas en 10 min qué fueron las cinco emancipaciones de los 70.
 
+**Enlaces gratuitos:**
+
+- :material-web: [fgbueno.es — Fundación Gustavo Bueno](https://www.fgbueno.es) (obra completa de Bueno, cientos de vídeos + textos, gratis).
+- :material-youtube: [Santiago Armesilla — canal YouTube](https://www.youtube.com/@SantiagoArmesilla) (directos largos sobre actualidad geopolítica).
+- :material-file-document: [Bolívar — *Carta de Jamaica* (Wikisource)](https://es.wikisource.org/wiki/Carta_de_Jamaica) y [Martí — *Nuestra América* (Wikisource)](https://es.wikisource.org/wiki/Nuestra_América).
+- :material-file-document: [Quijano — *Colonialidad del poder, eurocentrismo y América Latina* (CLACSO, gratis)](http://biblioteca.clacso.edu.ar/clacso/sur-sur/20100708034410/lander.pdf).
+- :material-file-document: [Rivera Cusicanqui — *Ch'ixinakax utxiwa* (Tinta Limón, gratis)](https://www.mxfractal.org/articulos/RevistaFractal73Cusicanqui.php).
+- :material-file-document: [Freire — *Pedagogía del oprimido* (PDF gratis)](https://fhcv.files.wordpress.com/2014/01/freire-pedagogia-del-oprimido.pdf).
+- :material-library: [CLACSO TV](https://www.clacso.tv) — entrevistas con Rivera Cusicanqui, Segato, Gago, García Linera.
+
 ---
 
 ## FASE 5 — Síntesis, geopolítica y voz propia (Mes 20-24)
@@ -163,6 +207,14 @@ La academia latinoamericana agrupa así la ola: Pedagogía + Teología + Depende
 **Práctica intensificada:**
 - Escribe **un ensayo de 1500-2000 palabras** citando 3-4 autores leídos.
 - Graba **un audio/vídeo de 10 min** explicando una tesis con tus palabras.
+
+**Enlaces gratuitos:**
+
+- :material-file-document: [Mearsheimer — *The Tragedy of Great Power Politics* (PDF en archive.org)](https://archive.org/details/tragedyofgreatpo0000mear).
+- :material-file-document: [Mbembe — *Necropolítica* (PDF, varios espejos académicos)](https://es.scribd.com/document/472879283/Achille-Mbembe-Necropolitica).
+- :material-file-document: [Gandhi — *Hind Swaraj* (texto completo gratis)](https://www.mkgandhi.org/ebks/hind_swaraj.pdf).
+- :material-file-document: [Ambedkar — *Aniquilación de las castas* (PDF en español)](http://ambedkar.org/ambcd/02.Annihilation%20of%20Caste.htm).
+- :material-file-document: Confucio — *Analectas*: hay varias traducciones gratuitas; busca "Analectas Confucio PDF".
 - Opcional: blog/Substack/hilos. Escribir para otros disciplina como nada.
 
 ---

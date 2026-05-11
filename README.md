@@ -1,6 +1,6 @@
-# Libros Política — Mi plan personal de estudio
+# Curso de Ciencia Política
 
-Sitio web personal con mi plan de estudio de pensamiento crítico, filosofía política, sociología y economía, generado con [MkDocs](https://www.mkdocs.org/) + [Material](https://squidfunk.github.io/mkdocs-material/).
+Itinerario personal de formación en filosofía política, sociopolítica, economía y pensamiento crítico. Sitio generado con [MkDocs](https://www.mkdocs.org/) + [Material](https://squidfunk.github.io/mkdocs-material/).
 
 ## Trabajo diario (sin terminal)
 
