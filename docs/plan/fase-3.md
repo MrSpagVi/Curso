@@ -134,6 +134,34 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 
 :material-internet-archive: [Archive.org español](https://archive.org/search?query=adorno+horkheimer+dialectica+ilustracion)
 
+### Herbert Marcuse — *El hombre unidimensional* (1964 · selección caps. 1-4 · ~200 pp · 15-20 h)
+
+**Por qué este libro:** Marcuse **aplica la Escuela de Frankfurt a la sociedad de consumo de masas de los 60**. Su tesis: el capitalismo avanzado produce **hombres unidimensionales** — sujetos sin capacidad crítica, satisfechos con falsas necesidades que el sistema mismo fabrica. Es **el manifiesto filosófico del 68 estudiantil mundial** — leído por la Nueva Izquierda parisina, californiana, mexicana.
+
+**Contexto humano:** California-Frankfurt. Marcuse (1898-1979) era judío alemán de la Escuela de Frankfurt, exiliado en EE.UU. **Profesor en San Diego cuando estalla el 68.** Devino "filósofo gurú" de la Nueva Izquierda — Angela Davis fue su alumna. Murió antes de ver el triunfo del neoliberalismo reaganiano que él mismo predecía.
+
+**Pre-requisitos:** Adorno/Horkheimer (Frankfurt). Marx (ortodoxo del XIX que Marcuse hereda y modifica).
+
+**La pregunta clave:** *¿Cómo el capitalismo avanzado neutraliza el conflicto produciendo sujetos integrados que NO se rebelan?*
+
+**Conceptos clave:**
+
+- **Hombre unidimensional:** el sujeto que ya no tiene capacidad de imaginar alternativas. Su consciencia está colonizada por la lógica del consumo.
+- **Falsas necesidades:** lo que el sistema te hace desear (consumir, competir, exhibir) en oposición a las necesidades reales (autonomía, comunidad, sentido).
+- **Tolerancia represiva:** una forma de represión que opera no prohibiendo sino permitiendo todo siempre que no amenace el sistema.
+- **Gran Rechazo:** la respuesta política — negarse a entrar en la lógica del sistema. Marcuse apostó por minorías "outsider" (negros, estudiantes, intelectuales radicales, Tercer Mundo).
+
+**Vinculación:**
+
+- **Continúa a Adorno/Horkheimer.**
+- **Premisa del 68:** influencia directa sobre estudiantes parisinos, alemanes, californianos, mexicanos.
+- **Continúa por Fisher (*Realismo capitalista*):** "hombre unidimensional" actualizado a la era post-1989.
+- **Discute con Habermas:** Habermas rescata la razón comunicativa; Marcuse dice que ya está colonizada.
+
+**Salida medible:** N3 — identifica "falsas necesidades" producidas por publicidad/redes/cultura pop contemporáneas.
+
+:material-internet-archive: [Archive.org español](https://archive.org/search?query=marcuse+hombre+unidimensional)
+
 ### Ernesto Laclau & Chantal Mouffe — *Hegemonía y estrategia socialista* (1985 · selección caps. 3-4 · ~150 pp · 18-25 h)
 
 **Por qué este libro:** Laclau y Mouffe **actualizan Gramsci para el XXI**. Tesis: la izquierda no debe esperar la unificación de la "clase obrera" — debe **construir hegemonía** articulando demandas diversas (feministas, ecológicas, étnicas, laborales) en cadena equivalencial. Es el marco teórico tras Podemos, Syriza, La France Insoumise, peronismo kirchnerista.
@@ -158,6 +186,89 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 - **Será criticado por Žižek:** olvida lo Real lacaniano.
 
 **Salida medible:** N3 — identificar una cadena equivalencial en un movimiento político actual.
+
+:material-internet-archive: Archive.org préstamo.
+
+### Slavoj Žižek — *En defensa de las causas perdidas* (2008 · selección caps. introductorios · ~200 pp · 15-20 h)
+
+**Por qué este libro:** Žižek **combina Lacan + Hegel + Marx para producir el psicoanálisis político más influyente del XXI**. Su tesis: la izquierda contemporánea ha renunciado a la "causa perdida" (revolución real, ruptura con el orden capitalista) por temor a ser asociada con los crímenes del siglo XX. Žižek dice: **hay que asumir esa filiación, no negarla**, porque sin esa radicalidad la izquierda solo gestiona el neoliberalismo. Polémico y provocador deliberado.
+
+**Contexto humano:** Eslovenia. Žižek (1949-) es filósofo esloveno, formado en Lubliana y París. **Lenin más Lacan en un mismo individuo**. Profesor, polemista, presentador de documentales, productor incansable (~3 libros al año). Su estilo es **deliberadamente provocador** para forzar al lector a tomar posición.
+
+**Pre-requisitos:** Marx, Hegel (mínimo). Lacan ayuda mucho. Si no tienes Lacan, lee sus textos más "accesibles" primero (*Bienvenidos al desierto de lo real*).
+
+**La pregunta clave:** *¿Por qué la izquierda contemporánea es impotente, y qué requeriría recuperar fuerza política real?*
+
+**Conceptos clave:**
+
+- **Lo Real (lacaniano):** lo que NO se puede simbolizar — lo traumático, lo imposible. La política seria tiene que confrontar lo Real, no solo lo simbólico.
+- **Ideología como fantasía:** la ideología no es "creencia falsa" — es **fantasía que estructura el deseo**. Por eso es difícil de cambiar racionalmente.
+- **Causas perdidas:** Lenin, Robespierre, Stalin (controvertido). Žižek dice que la izquierda debe asumir estas filiaciones para tener honestidad.
+- **El sujeto que se supone que sabe:** crítica a las posturas posmodernas — alguien siempre asume saber, aunque diga lo contrario.
+
+**Vinculación:**
+
+- **Critica a Laclau/Mouffe (anteriores):** demasiado discursivos, no asumen lo Real.
+- **Critica a Fisher:** comparte diagnóstico pero discrepa en remedio. Fisher es melancólico; Žižek es militante.
+- **Critica a Habermas:** "acción comunicativa racional" como fantasía.
+
+**Punto de naufragio:** **provocación deliberada**. Žižek dice cosas para shockear. Si te ofendes, no entendiste su método. La pregunta correcta: ¿qué tesis filosófica defiende detrás de la provocación?
+
+**Salida medible:** N4 — sostén una posición política propia tras leer a Žižek sin reproducir sus tics retóricos.
+
+:material-internet-archive: Archive.org préstamo.
+
+### Charles Taylor — *El multiculturalismo y la política del reconocimiento* (1992 · ensayo ~100 pp · 8-12 h)
+
+**Por qué este libro:** Taylor formula **el concepto de "reconocimiento" como categoría política central del XXI**. Su tesis: en sociedades plurales, la justicia distributiva (Rawls) NO basta — las personas y grupos exigen **reconocimiento de su identidad** como condición de dignidad. Esta tesis define todo el debate sobre multiculturalismo, identidades, "guerras culturales" actuales.
+
+**Contexto humano:** Canadá. Taylor (1931-) es filósofo canadiense-anglófono-católico de Montreal, profesor en McGill. Su contexto inmediato es **Quebec dentro de Canadá** — la pregunta multiculturalista no es abstracta para él. Combina filosofía analítica (formación) y comunitarismo (posición política).
+
+**Pre-requisitos:** Rawls (Taylor lo critica). Hegel ayuda (el reconocimiento es hegeliano de origen).
+
+**La pregunta clave:** *¿Cómo puede una sociedad democrática reconocer identidades colectivas distintas sin disolverse?*
+
+**Conceptos clave:**
+
+- **Reconocimiento:** necesidad fundamental humana de ser visto como sujeto pleno. El "mal-reconocimiento" o "no-reconocimiento" causa daño real.
+- **Multiculturalismo:** reconocimiento de identidades culturales colectivas, no solo de individuos.
+- **Política de la diferencia vs política de la dignidad universal:** Taylor distingue dos modelos liberales en tensión.
+- **Comunitarismo:** crítica al individualismo lockeano-rawlsiano. Las personas son **constituidas** por sus comunidades, no preexistentes a ellas.
+
+**Vinculación:**
+
+- **Critica a Rawls:** la "posición original" desencarna al sujeto. Para Taylor, no hay sujeto sin contexto comunitario.
+- **Coincide con Sandel:** comunitarismo norteamericano-canadiense.
+- **Premisa de Honneth (siguiente):** Honneth desarrolla teoría sistemática del reconocimiento.
+- **Anticipa a Crenshaw indirectamente:** las identidades múltiples requieren reconocimientos múltiples.
+
+**Salida medible:** N3 — distingues "redistribución" (Rawls) de "reconocimiento" (Taylor) y los aplicas a un debate político actual.
+
+:material-internet-archive: Archive.org préstamo.
+
+### Axel Honneth — *La lucha por el reconocimiento* (1992 · selección · ~200 pp · 18-22 h)
+
+**Por qué este libro:** Honneth **construye la teoría sistemática del reconocimiento** que Taylor solo esboza. Su tesis: las luchas sociales NO son principalmente por recursos — son por **reconocimiento intersubjetivo**. Hay tres esferas: amor (familia), derecho (institucional), solidaridad (cultural). El daño en cualquiera produce patología social.
+
+**Contexto humano:** Frankfurt. Honneth (1949-) es heredero de Habermas en la dirección del Instituto Frankfurt. **Tercera generación de la Escuela de Frankfurt.** Combina Hegel (joven), Marx temprano, y psicología social (Mead).
+
+**Pre-requisitos:** Hegel (idealmente *Fenomenología del Espíritu* sobre amo/esclavo). Habermas (Honneth lo continúa).
+
+**La pregunta clave:** *¿Por qué la justicia distributiva no basta y qué dimensiones del reconocimiento social debemos pensar?*
+
+**Conceptos clave:**
+
+- **Tres esferas del reconocimiento:** amor (auto-confianza), derecho (auto-respeto), solidaridad (auto-estima). Cada una se daña distinto.
+- **Lucha por el reconocimiento:** los movimientos sociales son interpretables como demandas de reconocimiento, no solo de redistribución.
+- **Patologías sociales:** la sociedad capitalista produce sistemáticamente faltas de reconocimiento en una o varias esferas.
+
+**Vinculación:**
+
+- **Continúa a Taylor (anterior).**
+- **Continúa a Habermas:** la "acción comunicativa" reformulada como "lucha por reconocimiento".
+- **Discute con Nancy Fraser:** Fraser dice "redistribución + reconocimiento + representación" — para Fraser, Honneth subestima la redistribución material.
+
+**Salida medible:** N3 — identifica un conflicto social actual y lo lees desde las tres esferas honnethianas.
 
 :material-internet-archive: Archive.org préstamo.
 
@@ -820,8 +931,35 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 
 **En español:**
 
-- **Silvia Federici — *Calibán y la bruja***: copyright, biblioteca o compra.
-- **Rita Segato — *La guerra contra las mujeres***: copyright, biblioteca o compra.
+#### Silvia Federici — *Calibán y la bruja* (2004 · selección caps. 2-4 · ~250 pp · 18-25 h)
+
+**Por qué este libro:** Federici **demuele el mito de la modernidad como progreso emancipatorio** mostrando que el capitalismo se construyó sobre la **persecución de las mujeres** — la caza de brujas no fue residuo medieval sino **operación moderna fundacional**. Tesis: la acumulación originaria de Marx debe completarse — además de despojo de tierras, fue **despojo del cuerpo femenino** que pasó a ser fuerza de trabajo gratuita reproductiva.
+
+**Contexto humano:** Italia-EE.UU. Federici (1942-) activista del movimiento Salario para el Trabajo Doméstico (años 70). Profesora en Hofstra. **El libro tardó 30 años en escribirse** — combina militancia + investigación histórica meticulosa.
+
+**Pre-requisitos:** Marx (acumulación originaria). Davis o hooks. Mariátegui ayuda.
+
+**La pregunta clave:** *¿Cómo se produjo simultáneamente el capitalismo, la persecución de mujeres y el colonialismo, y por qué son **un solo proceso**?*
+
+**Conceptos clave:**
+
+- **Acumulación originaria del cuerpo femenino:** además de cercados ingleses, el capitalismo cercó el cuerpo femenino. La caza de brujas (1500-1700) destruyó la economía comunal y las redes de saber femeninas.
+- **Trabajo reproductivo gratuito:** el capitalismo necesita que las mujeres reproduzcan trabajadores sin salario.
+- **Cuerpo femenino como territorio colonial:** lo que pasó al cuerpo europeo es **paralelo y conectado** con lo que pasó al cuerpo indígena americano.
+- **Caza de brujas como genocidio:** 50.000-100.000 mujeres ejecutadas en Europa (1500-1700). Marx omitió este componente — Federici lo añade.
+
+**Vinculación:**
+
+- **Completa a Marx:** acumulación originaria con cuerpo femenino añadido.
+- **Conecta con Lugones (F4):** colonialidad del género — mismo proceso aplicado a América.
+- **Conecta con Mariátegui (F2):** misma tesis aplicada al cuerpo, no solo a la tierra.
+- **Premisa de Gago (F4):** "cuerpo-territorio" en Gago es Federici actualizada.
+
+**Salida medible:** N3 — articulas por qué la caza de brujas NO fue irracionalidad medieval sino racionalidad capitalista temprana.
+
+:material-internet-archive: [Archive.org español](https://archive.org/search?query=federici+caliban+bruja)
+
+- **Rita Segato — *La guerra contra las mujeres***: copyright, biblioteca o compra. (Versión deep ya está en bloque feminismo arriba.)
 
 ---
 
@@ -860,6 +998,19 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 | **Corriente C** | 11-15 | (la que elegiste) | Vídeo correspondiente | Ficha de la corriente |
 | **Síntesis** | 16-18 | (relectura cruzada) | (debates entre corrientes) | Mini-ensayo 800 palabras |
 | **Informes** | 19-20 | 1 informe Elcano + 1 V-Dem | — | Resumen breve de cada uno |
+
+## :material-vector-link: Lecturas paralelas integradas (M3 + M4)
+
+| Bloque (semanas) | Lectura principal | M3 — Pluriverso | M4 — Historia |
+|------------------|-------------------|------------------|----------------|
+| **Weber + Bloque XX-Tardío** (1-6) | Weber + Foucault + Rawls + Berlin + Habermas (+ Nozick, Adorno/Horkheimer, Marcuse, Žižek según ritmo) | — | **Hobsbawm — *Era del imperio* caps. 6-7 + *Siglo XX* caps. 1-3** |
+| **Corriente A — Marxismo XX** (7-10) | Lenin / Gramsci | **Fanon — *Condenados de la tierra* cap. 1 "Sobre la violencia"** | **Hobsbawm — *Siglo XX* caps. 3-5** (era de catástrofe) |
+| **Corriente B — Liberalismo** (11-13) | Hayek / Popper | — | **Judt — *Postguerra* Parte I** (1945-53) |
+| **Corriente C — Conservadurismo** (14-15) | Burke / Schmitt | — | **Hobsbawm — *Siglo XX* caps. 6-7** (Weimar, fascismo) |
+| **Transversal Totalitarismo** (paralelo) | Arendt / Fisher / Han | — | **Judt — *Postguerra* Parte II** (1953-71) |
+| **Transversal Feminismo** (paralelo) | hooks / Davis / Collins + Crenshaw + Mohanty + Federici | **Anzaldúa — *Borderlands* selección** | — |
+| **Síntesis + Bourdieu + Honneth + Taylor + Laclau/Mouffe** (16-18) | Recognition + agonismo | (Repaso M3) | **Judt — *Postguerra* Parte III** (1971-89) |
+| **Informes** (19-20) | Elcano + V-Dem | — | — |
 
 ---
 

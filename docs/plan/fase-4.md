@@ -638,6 +638,17 @@ Cientos de vídeos de Bueno y discípulos. Imprescindible en este bloque aunque 
 | **E. Feminismo LATAM** | 17-19 | Lélia + Lugones + Segato/Gago | LASTESIS + Las Igualadas | Ficha |
 | **Síntesis** | 20 | Relectura cruzada | Debate Bueno vs Dussel (busca uno) | **Mini-ensayo de 1000 palabras** comparando 2 tradiciones |
 
+## :material-vector-link: Lecturas paralelas integradas (M3 + M4)
+
+| Bloque (semanas) | Lectura principal | M3 — Pluriverso | M4 — Historia |
+|------------------|-------------------|------------------|----------------|
+| **A. Clásicos** (1-2) | Bolívar + Martí + Rodó | — | **Halperin Donghi** caps. 2-4 (independencias hispanoamericanas) |
+| **B. Bueno + B' Echeverría** (3-7) | Bueno + Echeverría + Vasconcelos (+ Paz) | — | **Judt — *Postguerra*** secciones sobre España; **Halperin Donghi** caps. populismos LATAM |
+| **C. Decolonial** (8-12) | Dussel + Quijano + Cusicanqui | **Spivak — *¿Puede hablar el subalterno?*** (el cuestionamiento más radical) | **Hobsbawm — *Siglo XX*** cap. sobre Tercer Mundo |
+| **D. Cinco emancipaciones** (13-16) | Freire + Gutiérrez (+ Galeano como divulgación) | — | **Halperin Donghi** caps. finales (dictaduras del Cono Sur, 1968-1989); *La batalla de Chile* (documental) |
+| **E. Feminismo LATAM** (17-19) | Lélia González + Lugones + Gago + Segato | — | — |
+| **Síntesis** (20) | Relectura cruzada | (Cierre M3) | (Cierre M4) |
+
 ---
 
 ## :material-help-circle: Preguntas de retención

@@ -283,6 +283,36 @@ Vuelves a un libro de Fases 1-4 con **todo el contexto adquirido**. Vas a leerlo
 
 ### 6. India crítica (opcional, importante)
 
+### 1b. Michael Hardt & Antonio Negri — *Imperio* (2000 · selección caps. 1-3 + 4.3 · ~250 pp · 20-25 h)
+
+**Por qué este libro:** Hardt y Negri formulan **la teoría más ambiciosa del orden mundial post-1989**: ya no hay "imperialismos" (Estados que dominan) — hay un **Imperio** descentralizado, en red, sin un centro identificable. Y su contrapartida es la **multitud** — un sujeto político nuevo, plural, conectado. Es controvertido (¿demasiado optimista?) pero **define el debate académico del XXI sobre globalización y resistencia**.
+
+**Contexto humano:** EE.UU.-Italia. Hardt (1960-) es profesor en Duke; Negri (1933-2023) fue marxista italiano del operaísmo (Potere Operaio, Autonomía Obrera), encarcelado en los 70-80 acusado falsamente del asesinato de Aldo Moro. **El libro lo escribieron mientras Negri estaba preso en Italia**. Salió de la cárcel poco después.
+
+**Pre-requisitos:** Marx, Foucault, Deleuze.
+
+**La pregunta clave:** *¿Qué tipo de poder mundial existe después del fin de los imperios coloniales, y qué sujeto político le corresponde?*
+
+**Conceptos clave:**
+
+- **Imperio:** orden mundial sin centro. NO es imperialismo estadounidense — es red supranacional (FMI, OMC, ONG, multinacionales, internet).
+- **Multitud:** el sujeto político del Imperio. NO es "pueblo" (homogéneo) ni "proletariado clásico" (industrial). Es plural, distribuida, conectada por redes.
+- **Trabajo inmaterial:** la producción capitalista contemporánea es de afectos, conocimiento, relaciones — no de mercancías físicas.
+- **Biopolítica productiva:** Foucault era pesimista sobre biopolítica; Hardt/Negri la leen como productiva — la multitud produce vida común que el capital captura.
+
+**Vinculación:**
+
+- **Continúa a Foucault (biopolítica) y Deleuze (rizoma).**
+- **Discute con Wallerstein:** sistema-mundo aún tiene centro; Imperio no.
+- **Discute con Mearsheimer:** las grandes potencias siguen jugando juegos imperialistas — Hardt/Negri minimizan esto.
+- **Premisa de Occupy, los Indignados, Nuit Debout:** movimientos sin liderazgo, en red, son "multitud" en acción.
+
+**Punto de naufragio:** **demasiado optimista para muchos críticos**. El libro fue publicado en 2000; el 11-S y las guerras de Iraq/Afganistán parecieron desmentirlo. Hardt/Negri respondieron con *Multitud* (2004) y *Commonwealth* (2009).
+
+**Salida medible:** N4 — sostén el debate Imperio vs Imperialismo (Hardt-Negri vs Lenin actualizado).
+
+:material-internet-archive: [Archive.org español](https://archive.org/search?query=hardt+negri+imperio)
+
 #### Wang Hui — *El nuevo orden de China: sociedad, política y economía en transición* (selección · ~200 pp · 15-20 h)
 
 **Por qué este libro:** Wang Hui es **el intelectual público chino más influyente de la "Nueva Izquierda"**. Su tesis: el ascenso económico chino post-Mao NO es "convergencia con Occidente" — es producto de **un proyecto político específico** que combina mercado controlado, planificación, autoridad estatal y herencia cultural confuciana. Sin Wang Hui, la China contemporánea aparece como caja negra. Con él, es proyecto político inteligible.
@@ -302,6 +332,32 @@ Vuelves a un libro de Fases 1-4 con **todo el contexto adquirido**. Vas a leerlo
 **Vinculación:** complementa a Mearsheimer (#1) con perspectiva interna china. Permite leer la rivalidad EE.UU.-China sin orientalismo.
 
 **Salida medible:** N3 — articulas la posición política de China actual sin recurrir a "totalitarismo" simplista ni "comunismo" caricaturizado.
+
+:material-internet-archive: Archive.org préstamo.
+
+#### Maruyama Masao — *El pensamiento político de Japón moderno* (1952 · selección caps. clave · ~200 pp · 18-22 h)
+
+**Por qué este libro:** Maruyama es **el filósofo político japonés más influyente del siglo XX**. Su tesis: el Japón imperial del 30-45 no fue accidente — fue producto de **una modernización política inconclusa** donde las instituciones modernas se montaron sobre una base mental aún feudal. Maruyama explica el militarismo japonés desde dentro, no desde el orientalismo externo.
+
+**Contexto humano:** Tokio. Maruyama (1914-1996) era profesor en la Universidad de Tokio. **Reclutado al ejército imperial en 1944**, sobrevivió la guerra. Su trabajo posterior fue intentar entender qué hizo posible el desastre japonés. **Combina Weber, Hegel, y conocimiento profundo del confucianismo y sintoísmo.** Es el "Weber japonés".
+
+**Pre-requisitos:** Confucio (idealmente). Weber. Mínimo conocimiento de la Restauración Meiji y el Japón imperial.
+
+**La pregunta clave:** *¿Cómo Japón llegó a producir el militarismo de los 30-40 mientras modernizaba económicamente?*
+
+**Conceptos clave:**
+
+- **Modernización inconclusa:** Japón Meiji adoptó instituciones modernas (constitución, ejército, parlamento) **sin reformar las estructuras mentales heredadas**. El resultado es ambivalencia: moderno técnicamente, feudal políticamente.
+- **Sujeto político inmaduro:** los japoneses NO desarrollaron una conciencia ciudadana autónoma. Esto los hizo vulnerables al ultranacionalismo.
+- **Estructura del fascismo japonés:** distinto del fascismo italiano/alemán. Maruyama lo llama "fascismo desde arriba" — sin partido único, sin líder carismático, gestionado por burocracia + ejército + emperador-deidad.
+
+**Vinculación:**
+
+- **Aplica Weber a Asia:** "modernidad incompleta" es Weber traducido.
+- **Discute con Maoísmo y desarrollismo asiático:** ¿es posible modernización política asiática que NO repita las fallas japonesas?
+- **Anticipa a Wang Hui (anterior):** el "Estado-civilización" chino es modernidad inconclusa exitosa.
+
+**Salida medible:** N3 — aplica el marco maruyamiano a otro país asiático (Corea del Sur, Taiwán, China).
 
 :material-internet-archive: Archive.org préstamo.
 
@@ -408,6 +464,19 @@ Escribir para otros disciplina el pensamiento como nada.
 | **E. Relectura activa** | 19-21 | Un libro de Fases 1-4 que te marcó | Nuevas notas, comparación con la primera lectura |
 | **F. Ensayo final** | 22-23 | Escribir 1500-2000 palabras | **Ensayo publicado en `ensayos/`** |
 | **G. Grabación final** | 24 | Preparar + grabar | **Audio de 10 min en `oratoria/`** |
+
+## :material-vector-link: Lecturas paralelas integradas (M3 + M4)
+
+| Bloque (semanas) | Lectura principal | M3 — Pluriverso | M4 — Historia |
+|------------------|-------------------|------------------|----------------|
+| **A. Geopolítica** (1-6) | Wallerstein → Mearsheimer → Hardt/Negri *Imperio* | — | **Hobsbawm — *Siglo XX*** caps. sobre Guerra Fría + **Judt — *Postguerra* Parte IV** (1989-2005) |
+| **B. Crítica decolonial** (7-10) | Agamben → Mbembe | **Said — *Orientalismo* cap. 3 secciones I-II** (completar M3 si quedó pendiente) | **Ferro — *Historia de las colonizaciones* Parte III** (descolonización) |
+| **C. Asia** (11-14) | Confucio o Gandhi o Sen + Wang Hui + Maruyama | (Releer Fanon caps. 3 y 5 para conectar con Ambedkar y Gandhi) | — |
+| **D. India crítica** (15) | Ambedkar | — | — |
+| **E. Novela política** (15-18) | Orwell/Dostoievski/Vargas Llosa | — | Documentales Adam Curtis sobre la era post-1991 (opcional) |
+| **F. Relectura activa** (19-21) | Libro previo que te marcó | — | — |
+| **G. Ensayo final** (22-23) | Escribir 1500-2000 palabras | — | — |
+| **H. Grabación final** (24) | Grabar 10 min | — | — |
 
 ---
 

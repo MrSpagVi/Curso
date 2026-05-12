@@ -31,6 +31,7 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 | 5 | Platón — *Apología de Sócrates* | -399 | Completo | ~40 | 3-5 h | ✅ | [Biblioteca ILCE](https://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/Apologia_de_Socrates-Platon.pdf) |
 | 5b | **Aristóteles — *Política*** *(añadido tras revisión académica)* | -340 | Selección (Libros I, III, VII) | ~80 | 12-18 h | ✅ | [Wikisource](https://es.wikisource.org/wiki/La_política) |
 | 6 | Maquiavelo — *El Príncipe* | 1532 | Completo | ~100 | 8-12 h | ✅ | [Wikisource](https://es.wikisource.org/wiki/Índice:El_príncipe_de_Maquiavelo_(1854).pdf) |
+| 6b | **Pocock — *El momento maquiavélico*** *(añadido — método contextualista)* | 1975 | Selección caps. clave | ~250 | 22-30 h | 📚 | Archive.org |
 | 7 | Hobbes — *Leviatán* | 1651 | Selección (caps. 6, 10-21, 26, 29-30) | ~200 | 25-35 h | ✅ | [Marxists.org español](https://www.marxists.org/espanol/hobbes/1651/leviatan/leviatan.htm) |
 | 8 | Locke — *Segundo tratado del gobierno civil* | 1689 | Completo (énfasis caps. II, V, VII-IX, XI-XIV, XIX) | ~150 | 15-22 h | ✅ | [Internet Archive](https://archive.org/details/locke-segundo-tratado-civil) |
 | 9 | Rousseau — *El contrato social* | 1762 | Completo (Libros I-II nucleares; III gobierno; IV.1-2, 8) | ~120 | 12-18 h | ✅ | [Wikisource](https://es.wikisource.org/wiki/El_contrato_social_(1836)) |
@@ -67,8 +68,13 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 | 21 | Popper — *La sociedad abierta y sus enemigos* | 1945 | Selección (Vol. I caps. 1, 4-6, 10; Vol. II caps. 11-17, 23-24) | ~350 | 35-50 h | 📚 | [Archive.org préstamo](https://archive.org/details/popper-la-sociedad-abierta-y-sus-enemigos-en-2-volumenes) |
 | 21b | **Nozick — *Anarquía, Estado y utopía*** *(añadido — contrapunto a Rawls)* | 1974 | Selección (Partes I + III) | ~200 | 18-25 h | 📚 | [Archive.org](https://archive.org/search?query=nozick+anarquia+estado+utopia) |
 | 21c | **Adorno & Horkheimer — *Dialéctica de la Ilustración*** *(añadido — Frankfurt)* | 1944 | Selección caps. 1-2 | ~100 | 12-15 h | 📚 | [Archive.org](https://archive.org/search?query=adorno+horkheimer+dialectica+ilustracion) |
+| 21cb | **Marcuse — *El hombre unidimensional*** *(añadido — Frankfurt)* | 1964 | Selección caps. 1-4 | ~200 | 15-20 h | 📚 | [Archive.org](https://archive.org/search?query=marcuse+hombre+unidimensional) |
 | 21d | **Bourdieu — *Sobre el Estado* o *La distinción*** *(añadido — puente Weber→cultural)* | 1979/2012 | Selección | ~200 | 18-25 h | 📚 | Archive.org |
 | 21e | **Laclau & Mouffe — *Hegemonía y estrategia socialista*** *(añadido — populismo)* | 1985 | Selección caps. 3-4 | ~150 | 18-25 h | 📚 | Archive.org |
+| 21f | **Žižek — *En defensa de las causas perdidas*** *(añadido — Lacan + Marx)* | 2008 | Selección | ~200 | 15-20 h | 📚 | Archive.org |
+| 21g | **Charles Taylor — *El multiculturalismo y la política del reconocimiento*** *(añadido)* | 1992 | Completo (ensayo) | ~100 | 8-12 h | 📚 | Archive.org |
+| 21h | **Axel Honneth — *La lucha por el reconocimiento*** *(añadido)* | 1992 | Selección | ~200 | 18-22 h | 📚 | Archive.org |
+| 21i | **Federici — *Calibán y la bruja*** *(añadido — feminismo marxista)* | 2004 | Selección caps. 2-4 | ~250 | 18-25 h | 📚 | [Archive.org](https://archive.org/search?query=federici+caliban+bruja) |
 | 22 | Burke — *Reflexiones sobre la Revolución en Francia* | 1790 | Selección (extractos sobre derechos abstractos, tradición, Price) | ~100 | 10-15 h | ✅ | [Inglés completo Gutenberg](https://www.gutenberg.org/ebooks/15679) |
 | 23 | Schmitt — *El concepto de lo político* | 1932 | Completo | ~100 | 12-18 h | 📚 | [Archive.org préstamo](https://archive.org/details/el-concepto-de-lo-politico-carl-schmitt) |
 | 24 | Arendt — *Los orígenes del totalitarismo* | 1951 | Selección (Parte III completa + Parte II cap. 9) | ~300 | 35-45 h | 📚 | [Archive.org préstamo](https://archive.org/details/arendt-hannah.-los-origenes-del-totalitarismo-ocr-2006) |
@@ -112,12 +118,14 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 |---|----------------|-----|-----------|---------|--------|--------|------|
 | 43b | **Wallerstein — *Análisis de sistemas-mundo*** *(añadido — mediador F5)* | 2004 | Selección (intro) | ~150 | 12-15 h | 📚 | [Archive.org](https://archive.org/search?query=wallerstein+sistemas+mundo+espanol) |
 | 44 | Mearsheimer — *The Tragedy of Great Power Politics* | 2001 | Selección (caps. 1-4, 10) | ~250 | 15-22 h | 🌐 | [Archive.org préstamo (inglés)](https://archive.org/details/tragedyofgreatpo00mear) |
+| 44b | **Hardt & Negri — *Imperio*** *(añadido — geopolítica XXI)* | 2000 | Selección caps. 1-3 + 4.3 | ~250 | 20-25 h | 📚 | [Archive.org español](https://archive.org/search?query=hardt+negri+imperio) |
 | 44b | **Agamben — *Homo Sacer* o *Estado de excepción*** *(añadido — vertebra teórica)* | 1995/2003 | Selección (Intro + Parte III) | ~100 | 12-18 h | 📚 | [Archive.org](https://archive.org/search?query=agamben+homo+sacer+espanol) |
 | 45 | Mbembe — *Necropolítica* | 2003/2011 | Completo | ~100 | 3-22 h | ✅ | [PDF Melusina (oficial)](https://www.melusina.com/rcs_gene/Necropol_tica.pdf) |
 | 46 | Confucio — *Analectas* | -500 | Selección (libros I-IV, VI, XII, XV) | ~80 | 8-12 h | ✅ | [PDF CETR](https://cetr.net/files/LUN%20YU%20es.pdf) |
 | 47 | Gandhi — *Hind Swaraj* | 1909 | Completo | ~100 | 6-8 h | ✅ | [PDF mkgandhi.org (oficial)](https://www.mkgandhi.org/ebks/hind_swaraj_spanish.pdf) |
 | 48 | Sen — *Identidad y violencia* | 2006 | Completo | ~200 | 12-15 h | 💰 | — |
 | 48b | **Wang Hui — *El nuevo orden de China*** *(añadido — nueva izquierda china)* | varios | Selección | ~200 | 15-20 h | 📚 | Archive.org |
+| 48c | **Maruyama Masao — *El pensamiento político de Japón moderno*** *(añadido — Japón)* | 1952 | Selección | ~200 | 18-22 h | 📚 | Archive.org |
 | 49 | Ambedkar — *Annihilation of Caste* | 1936 | Completo | ~80 | 5-7 h | 🌐 | [PDF Columbia (inglés)](https://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/readings/aoc_print_2004.pdf) |
 
 ---

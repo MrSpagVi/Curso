@@ -397,6 +397,32 @@ El liberalismo clásico escrito con claridad. El "principio del daño".
 
 :material-file-document: [PDF Wikisource español](https://es.wikisource.org/wiki/La_democracia_en_América)
 
+#### 9. J.G.A. Pocock — *El momento maquiavélico* (1975 · selección caps. clave · ~250 pp · 22-30 h)
+
+**Por qué este libro:** Pocock funda **la Escuela de Cambridge** de historia intelectual. Su tesis: las ideas políticas NO son atemporales — son **eventos lingüísticos en un contexto**. Para entender a Maquiavelo o Locke, hay que entender qué lenguajes políticos estaban disponibles en su momento y qué jugada hicieron con ellos. **Esto cambia el modo de leer toda la filosofía política previa**. Sin Pocock, Maquiavelo es un señor cínico; con Pocock, es una intervención en el debate humanista florentino.
+
+**Contexto humano:** Reino Unido-Nueva Zelanda-EE.UU. John Pocock (1924-2023) fue historiador británico-neozelandés, profesor en Johns Hopkins. **Vivió 99 años produciendo historia intelectual rigurosa.** Junto a Quentin Skinner, fundó la metodología contextualista.
+
+**Pre-requisitos:** Maquiavelo (#3). Conocimiento mínimo del Renacimiento italiano.
+
+**La pregunta clave:** *¿Cómo se debe leer históricamente un texto político clásico para no atribuirle ideas anacrónicas?*
+
+**Conceptos clave:**
+
+- **Momento maquiavélico:** el instante donde una república se confronta con su propia temporalidad finita. Maquiavelo está dentro de ese momento, no fuera.
+- **Republicanismo cívico:** la tradición política alternativa al liberalismo lockeano. Énfasis en participación, virtud cívica, ciudadanía activa.
+- **Lenguajes políticos:** las ideas no flotan — son **movimientos dentro de vocabularios disponibles**. Maquiavelo movió el vocabulario humanista hacia el realismo.
+
+**Vinculación:**
+
+- **Reilumina a Maquiavelo (#3):** lo saca de la caricatura cínica.
+- **Premisa metodológica:** cualquier texto político previo debe leerse así, no anacrónicamente.
+- **Continúa por Skinner** (también Cambridge), que aplica el método a Hobbes.
+
+**Salida medible:** N4 — aplica el método contextualista para leer un autor del plan en su lenguaje político de época.
+
+:material-internet-archive: Archive.org préstamo (en inglés *The Machiavellian Moment*).
+
 Derechos naturales, propiedad, consentimiento. Pieza clave del canon Yale.
 
 - :material-file-document: [PDF selección académica (institucional)](https://filosofiamaterialesyrecursos.es/Antologia_de_textos/12_Locke.pdf)
@@ -449,6 +475,21 @@ Derechos naturales, propiedad, consentimiento. Pieza clave del canon Yale.
 | **F. Síntesis** | 24 | Russell — capítulos selectos no leídos | (Repaso) | Auto-evaluación Bloom |
 
 A ritmo de 3-5 h/semana eso son 6 meses calzados.
+
+## :material-vector-link: Lecturas paralelas integradas (M3 + M4)
+
+Aquí ves qué leer del **Módulo Pluriverso (M3)** y del **Módulo Historia (M4)** en paralelo a cada bloque de Fase 1. NO es lectura extra — es la lectura que el plan ya pedía, ahora distribuida explícitamente.
+
+| Bloque (semanas) | Lectura principal | M3 — Pluriverso | M4 — Historia |
+|------------------|-------------------|------------------|----------------|
+| **A. Antiguos** (1-5) | Platón → Aristóteles | — | Crash Course WH ep. 5 (Grecia); Crash Course Eur ep. 1-2 (Antigüedad) |
+| **B. Renacimiento** (6-9) | Maquiavelo + Pocock | — | Crash Course WH ep. 22 (Renacimiento); Burckhardt cap. 1 |
+| **C. Hobbes** (10-14) | *Leviatán* (sel.) | — | Yale HIST 202 lec. 3-5 (Guerra Civil Inglesa); Hill *El siglo de la revolución* introducción |
+| **D. Rousseau** (15-19) | *Contrato social* | Empezar **Ibn Jaldún** (introducción al pensamiento no-eurocéntrico) | **Hobsbawm — *Era de la revolución* caps. 1-3 + 6** |
+| **E. Mill + Locke** (20-23) | *Sobre la libertad* + *2° Tratado* | (continuar Ibn Jaldún) | **Hobsbawm — *Era del capital* caps. 1-3** |
+| **F. Tocqueville + Síntesis** (24-25) | *Democracia en América* (sel.) | — | (Repaso M4) + Yale HIST 202 últimas lec. del XIX |
+
+**Nota:** Ibn Jaldún funciona como contrapeso no-eurocéntrico desde temprano. Lo lees en Fase 1 para que cuando llegues a Said y Mbembe en F2-F5 ya tengas una referencia comparativa.
 
 ---
 

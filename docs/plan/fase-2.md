@@ -296,6 +296,16 @@ El mejor companion video al *Capital*. Harvey ha dado este curso durante 40 año
 | **D. Marxismo latinoamericano** | 13-15 | Mariátegui — Ensayos II y III | Vídeo seminario Mariátegui | Ficha de Mariátegui |
 | **E. Síntesis** | 16 | Marini o Cardoso & Faletto (opcional) | (Repaso) | Auto-evaluación Bloom + mini-ensayo 500 palabras |
 
+## :material-vector-link: Lecturas paralelas integradas (M3 + M4)
+
+| Bloque (semanas) | Lectura principal | M3 — Pluriverso | M4 — Historia |
+|------------------|-------------------|------------------|----------------|
+| **A. Heterodoxia** (1-3) | Chang | — | Hobsbawm — *Era del capital* (repaso si no terminaste) |
+| **B. Clásica Smith** (4-7) | Smith | **Empezar Walter Rodney — *How Europe Underdeveloped Africa* caps. 1-2** (el contrapunto africano a Smith) | Hobsbawm — *Era del capital* caps. sobre industrialización |
+| **C. Crítica Marx** (8-12) | Marx *El Capital* + David Harvey | **Walter Rodney caps. 3-6** (impacto del capital sobre África) + **empezar Said — *Orientalismo* Intro y cap. 1** | **Hobsbawm — *Era del imperio* caps. 1-2** |
+| **D. Mariátegui** (13-15) | *7 Ensayos* (sel.) | (continuar Said) | **Halperin Donghi — *Historia contemporánea LATAM* caps. 2-4** (independencias + orden neocolonial peruano) |
+| **E. Síntesis** | 16 | Federici **opcional**: empezar *Calibán y la bruja* aquí o esperar a F3 | Síntesis M4 |
+
 ---
 
 ## :material-help-circle: Preguntas de retención
