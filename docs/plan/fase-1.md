@@ -65,9 +65,42 @@ Ver el módulo dedicado: [Historia (M4)](historia.md).
 
 ### Obras primarias (en este orden)
 
-#### 1. Platón — *Apología de Sócrates* (40 pp)
+#### 1. Platón — *Apología de Sócrates* (40 pp · 3-5 h)
 
-Cómo se defiende un argumento bajo presión. El texto que inicia la filosofía occidental.
+**Por qué este libro:** el texto que **inicia la filosofía occidental**. No por sus tesis (que son pocas), sino por su acto: un hombre prefiere morir antes que renunciar a examinar críticamente su vida y su ciudad. Toda la tradición posterior responde a este gesto fundacional.
+
+**Contexto humano:** Sócrates (470-399 a.C.) es juzgado por "corromper a la juventud" e "impiedad" en una Atenas derrotada (post-Guerra del Peloponeso), donde la democracia busca chivos expiatorios. Platón, su discípulo de 28 años, escribe la *Apología* unos años después como acto de fidelidad. **El texto puede ser invención literaria — su poder no depende de su literalidad histórica.**
+
+**Pre-requisitos:** ninguno. Es texto inaugural.
+
+**La pregunta clave:** *¿Por qué la vida no examinada no merece ser vivida?*
+
+**Conceptos clave:**
+
+- **Ironía socrática:** fingir ignorancia para que el interlocutor exponga sus contradicciones.
+- **Examen (*élenchos*):** el método dialéctico de hacer preguntas hasta que el otro descubra que no sabía lo que creía saber.
+- **Demonio (*daimón*):** la voz interior de Sócrates que **solo le dice qué NO hacer**. Anticipo de toda noción de conciencia moral autónoma.
+
+**Lecturas paralelas:**
+
+- :material-youtube: [Yale PLSC 114 Lecture 2-3 (Sócrates)](https://oyc.yale.edu/political-science/plsc-114) (Steven Smith).
+- :material-file-document: Platón — *Critón* (~15 pp): por qué Sócrates rechaza huir. Lectura complementaria.
+
+**Vinculación con otros autores:**
+
+- **Anticipa a Maquiavelo:** los dos preguntan por la relación entre ética individual y orden político — pero llegan a respuestas opuestas.
+- **Contradice a Schopenhauer (#2 Fase 0):** Sócrates encarna la creencia opuesta — que la verdad importa más que ganar. **Lee Apología pensando en Schopenhauer y verás el choque.**
+- **Es premisa de Arendt (Fase 3):** la *Apología* funda la idea de "ciudadano que examina críticamente al poder". Arendt la reinvoca constantemente.
+
+**Punto de naufragio:** ninguno. Es breve, narrativo, accesible. Si te aburre, eres tú leyéndolo mal — relee con voz dramática en mente.
+
+**Salida medible:**
+
+- **N2:** resumes el argumento de Sócrates en 3 frases.
+- **N3:** aplicas el "examen socrático" a una conversación cotidiana sobre política.
+- **N4:** identificas las **premisas de la democracia ateniense** que Sócrates ataca (y por qué fue ejecutado por democracia, no por tiranía).
+
+**Enlaces:**
 
 - :material-file-document: [PDF español (Biblioteca ILCE, México)](https://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/Apologia_de_Socrates-Platon.pdf)
 - :material-file-document: [Edición Azcárate, filosofia.org](https://www.filosofia.org/cla/pla/img/azf01043.pdf)
@@ -91,37 +124,243 @@ Cómo se defiende un argumento bajo presión. El texto que inicia la filosofía 
 
 - :material-file-document: Jill Frank — *"Citizens, Slaves, and Foreigners: Aristotle on Human Nature"* (APSR 2004). Ya está en la sección "Re-leer el canon europeo críticamente" del plan maestro — léelo junto al Libro I de la *Política*. Hace explícito el problema con la esclavitud aristotélica.
 
-#### 3. Maquiavelo — *El Príncipe* (~100 pp)
+#### 3. Maquiavelo — *El Príncipe* (~100 pp · 8-12 h)
 
-Realismo político. Léelo desconfiando: es manual y autocrítica a la vez. **Léelo después de la *Política* de Aristóteles** — verás que Maquiavelo dialoga (y rompe) con la *virtù* clásica.
+**Por qué este libro:** **el primer texto político moderno**. Maquiavelo rompe con la tradición clásica de "espejos de príncipes" (que decían cómo *debería* gobernar un buen rey) y describe cómo *realmente* se gobierna. Es la fundación del **realismo político** que seguirá vivo hasta Mearsheimer (Fase 5).
 
-- :material-file-document: [Wikisource español (Índice 1854)](https://es.wikisource.org/wiki/Índice:El_príncipe_de_Maquiavelo_(1854).pdf)
-- :material-file-document: [Elejandría (PDF/EPUB)](https://www.elejandria.com/libro/el-principe/nicolas-maquiavelo/430)
+**Contexto humano:** Florencia 1513. Maquiavelo, ex-secretario de la República, ha sido encarcelado, torturado y exiliado por los Médici regresantes. Escribe *El Príncipe* desde su casa de campo, intentando volver a la política regalándole al nuevo Médici un "manual práctico". **Nunca volvió.** Murió pensando que su obra era un fracaso aplicado. La ironía es brutal.
 
-#### 4. Hobbes — *Leviatán* (selección caps. 13-21, ~80 pp)
+**Pre-requisitos:** Aristóteles *Política* (la *virtù* clásica que Maquiavelo invierte). Familiaridad con la república florentina (ver vídeo recomendado abajo).
 
-El contrato social desde el miedo. Imprescindible para entender la legitimidad del Estado moderno.
+**La pregunta clave:** *¿Cómo conserva el poder un príncipe nuevo en circunstancias adversas?* — pero la pregunta subterránea es: *¿es posible la política sin moral cristiana?*
 
-- :material-file-document: [Selección con cap. 13 en marxists.org español](https://www.marxists.org/espanol/hobbes/1651/leviatan/leviatan.htm)
-- :material-internet-archive: [Préstamo digital completo, español (Archive.org)](https://archive.org/details/hobbes-thomas.-del-ciudadano-leviatan-epl-fs-2021)
+**Conceptos clave:**
 
-#### 5. Rousseau — *Contrato social* (Libros I y II, ~80 pp)
+- ***Virtù* maquiavélica:** capacidad de actuar eficazmente bajo circunstancias (NO la "virtud" cristiana). Incluye crueldad cuando la situación la requiere.
+- ***Fortuna*:** las circunstancias incontrolables. *Virtù* es lo que se puede oponer a *fortuna*.
+- **El "fin justifica los medios"** — fórmula que NO está en el texto pero captura una tesis real: en política, la moral común no se aplica.
+- **Pueblos vs grandes:** Maquiavelo distingue dos grupos sociales con intereses opuestos; el príncipe prudente se apoya en el pueblo.
+
+**Lecturas paralelas:**
+
+- :material-youtube: [La Fonda Filosófica — Maquiavelo y el Príncipe pt. 1/2](https://www.lafondafilosofica.com/machiavelo-y-el-principe-pt-12/)
+- :material-file-document: Maquiavelo — *Discorsi* (selección Libro I caps. 1-6): muestra que Maquiavelo era republicano, no monarquista. **Indispensable para no caer en la caricatura "maquiavélico = malvado".**
+- :material-file-document: Quentin Skinner — *Maquiavelo* (Cambridge, ~100 pp): la mejor lectura crítica moderna.
+
+**Vinculación con otros autores:**
+
+- **Rompe con Aristóteles:** la *virtù* maquiavélica es la inversión deliberada de la *virtù* aristotélica.
+- **Anticipa a Schmitt (Fase 3):** la distinción amigo/enemigo schmittiana es maquiavelismo destilado.
+- **Es premisa de Mearsheimer (Fase 5):** el realismo geopolítico contemporáneo es Maquiavelo escalado al sistema internacional.
+
+**Punto de naufragio:** la **caricatura**. Casi todos llegan a Maquiavelo creyendo que es un manual de cinismo. Si terminas el libro pensando lo mismo, **no lo leíste — leíste la mitología sobre Maquiavelo**. Relee los *Discorsi* para ver al republicano.
+
+**Salida medible:**
+
+- **N2:** resumes en 3 frases qué es la *virtù* y la *fortuna*.
+- **N3:** aplicas el marco maquiavélico a un líder político actual.
+- **N4:** distingues "maquiavélico vulgar" (lo que la gente dice) de "maquiavélico filosófico" (lo que dice Maquiavelo).
+
+**Enlaces:**
+
+- :material-file-document: [Wikisource español](https://es.wikisource.org/wiki/Índice:El_príncipe_de_Maquiavelo_(1854).pdf)
+- :material-file-document: [Elejandría](https://www.elejandria.com/libro/el-principe/nicolas-maquiavelo/430)
+
+#### 4. Hobbes — *Leviatán* (selección, ~200 pp · 25-35 h)
+
+**Por qué este libro:** el primer modelo riguroso del Estado moderno. Hobbes inventa el contrato social como herramienta conceptual para resolver el problema más urgente de su época: cómo evitar la guerra civil. Toda la teoría posterior del Estado se construye dentro de su marco — incluso quienes lo refutan razonan **contra** él.
+
+**Contexto humano:** Inglaterra 1651, plena Guerra Civil. Hobbes (63 años) escribe desde el exilio en París, donde Carlos I acaba de ser decapitado. **No es teoría desde un cubículo — es terror personal.**
+
+**Pre-requisitos:** Aristóteles *Política* (la concepción clásica del hombre como animal político que Hobbes refuta punto por punto). Método deductivo geométrico (Hobbes imita a Euclides).
+
+**La pregunta clave:** *¿Por qué los humanos necesitan el Estado y qué tipo de Estado deben aceptar?*
+
+**Conceptos clave:**
+
+- **Estado de naturaleza:** ficción metodológica (NO historia) — sin Estado, "vida solitaria, pobre, desagradable, brutal y corta".
+- **Contrato social:** salida del estado de naturaleza renunciando a la propia fuerza a cambio de paz.
+- **Soberano:** quien posee monopolio de la violencia legítima. Hobbes lo prefiere absoluto.
+- **Súbdito:** conserva una sola libertad — salvar su propia vida.
+
+**Capítulos (consenso Yale + Harvard):** Introducción + Parte I caps. 6, 10, 11, **13** (estado de naturaleza), **14-15** (leyes naturales), 16; Parte II caps. **17-18** (generación del soberano), 19, 21, 26, 29-30. **Omitir Partes III-IV (religión).**
+
+**Lecturas paralelas:**
+
+- :material-youtube: [Yale PLSC 114 Lectures 12-14](https://oyc.yale.edu/political-science/plsc-114) — Smith — **ver ANTES de leer los caps. duros**.
+- :material-youtube: [La Fonda Filosófica — Hobbes y el Leviatán](https://www.youtube.com/watch?v=-VGSwAsRCC0)
+- :material-school: [Stanford Encyclopedia of Philosophy — Hobbes](https://plato.stanford.edu/entries/hobbes-moral/)
+
+**Vinculación:**
+
+- **Rompe con Aristóteles:** no hay "naturaleza política" — la sociedad es construcción artificial.
+- **Será refutado por Locke (#7):** los derechos preexisten al Estado.
+- **Será radicalizado por Rousseau (#5):** contrato sin soberano absoluto.
+- **Es premisa de Weber (F3):** "monopolio de la violencia legítima" es Hobbes en sociología.
+- **Anticipa a Schmitt (F3):** el soberano hobbesiano que decide en la emergencia.
+
+**Punto de naufragio:** **CRÍTICO — caps. 13-14**. Ver [puntos-de-naufragio.md → Punto 1](naufragios.md). Estrategia: Yale Smith ANTES de leer, 5 pp/hora máximo, subrayar con tus palabras.
+
+**Salida medible:**
+
+- **N2:** explicas el estado de naturaleza hobbesiano (recordando que es ficción, no historia).
+- **N3:** aplicas Hobbes a un caso actual de Estado fallido (Iraq 2003, Libia post-Gadafi, Sahel).
+- **N4:** identificas las premisas antropológicas de Hobbes y por qué Locke/Rousseau parten de premisas opuestas.
+
+**Enlaces:**
+
+- :material-file-document: [Selección con cap. 13 en marxists.org](https://www.marxists.org/espanol/hobbes/1651/leviatan/leviatan.htm)
+- :material-internet-archive: [Préstamo digital completo (Archive.org)](https://archive.org/details/hobbes-thomas.-del-ciudadano-leviatan-epl-fs-2021)
+
+#### 5. Rousseau — *Contrato social* (Libros I-IV completos · ~120 pp · 12-18 h)
+
+**Por qué este libro:** **inventa el republicanismo democrático moderno**. Rousseau acepta el problema de Hobbes (necesitamos un contrato) pero rechaza su solución (soberano absoluto). Su alternativa — la voluntad general como soberano — es la base intelectual de toda democracia post-1789.
+
+**Contexto humano:** Ginebra 1762. Rousseau (50 años) es un autodidacta sin posición universitaria, despreciado por la *intelligentsia* parisina, que escribe desde la marginalidad. Tras publicar el *Contrato social*, debe huir; el libro es quemado en Ginebra y París. **Su voz es la del outsider — escribe contra el poder, no para él.** Su tono solemne ("El hombre nace libre, y en todas partes está encadenado") era escándalo en el siglo XVIII.
+
+**Pre-requisitos:** Hobbes (Rousseau dialoga con él directamente). Cierto conocimiento de la *polis* griega (Rousseau invoca constantemente a Esparta y Roma).
+
+**La pregunta clave:** *¿Cómo puede una asociación humana ser libre y obediente al mismo tiempo?* — la pregunta más radical de la filosofía política.
+
+**Conceptos clave:**
+
+- **Voluntad general:** NO es la "voluntad de la mayoría" ni la suma de intereses particulares — es lo que la comunidad querría si pensara como tal. Concepto resbaladizo, peligroso, pero indispensable para entender democracia.
+- **Soberanía popular:** el soberano es el pueblo asociado, no un monarca. Inalienable, indivisible.
+- **Legislador:** figura semi-mítica que da las leyes fundacionales. Rousseau no sabe cómo resolver esta circularidad (¿quién forma a quienes deben elegir?).
+- **Religión civil:** un mínimo de creencias compartidas necesarias para la convivencia política. Anticipa todo el debate contemporáneo sobre liberalismo y comunidad.
+
+**Capítulos clave:** Libros I-II son nucleares (especialmente I.6-8 sobre el contrato, II.3 sobre la voluntad general). Libro III (sobre gobierno) y IV.1-2 + IV.8 (religión civil) recomendados.
+
+**Lecturas paralelas:**
+
+- :material-youtube: [Yale PLSC 114 Lectures 18-20 (Rousseau)](https://oyc.yale.edu/political-science/plsc-114)
+- :material-youtube: [El Contrato Social de Rousseau FÁCIL](https://www.youtube.com/watch?v=OrGSx1z4bog)
+- :material-file-document: Rousseau — *Discurso sobre la desigualdad* (recomendado): contrasta con *Contrato social*. El primero diagnostica el problema (la propiedad como origen de la desigualdad); el segundo propone la solución.
+
+**Vinculación:**
+
+- **Refuta a Hobbes y Locke:** Hobbes hace el contrato pesimista, Locke utilitario, Rousseau emancipatorio.
+- **Anticipa a Marx:** la crítica rousseauniana a la propiedad en el *Discurso sobre la desigualdad* es proto-socialista.
+- **Es premisa del jacobinismo de la Revolución Francesa** (los jacobinos lo leían literal — esto producirá El Terror).
+- **Es premisa de Bolívar (Fase 4):** la *Carta de Jamaica* respira Rousseau, pero Bolívar lo modula con realismo americano.
+- **Será criticado por Burke (F3):** la voluntad general como ficción peligrosa que conduce a la tiranía de la mayoría.
+
+**Punto de naufragio:** el concepto **"voluntad general"**. Es genuinamente difícil — Rousseau mismo no lo deja claro. Estrategia: lee Libro II cap. 3 dos veces, separa "voluntad general" de "voluntad de todos" como conceptos distintos.
+
+**Salida medible:**
+
+- **N2:** distingues voluntad general de voluntad de todos.
+- **N3:** aplicas el marco rousseauniano a un debate sobre democracia directa vs representativa.
+- **N4:** identificas las **tensiones internas** del concepto de voluntad general (¿quién lo interpreta? ¿qué pasa con las minorías?).
+- **N5:** sostienes un debate: ¿es el rousseauismo precursor de la democracia moderna o de su deformación totalitaria? (Berlin lo critica desde el segundo lado.)
+
+**Enlaces:**
+
+- :material-file-document: [Wikisource español completo](https://es.wikisource.org/wiki/El_contrato_social_(1836))
+- :material-file-document: [PDF Biblioteca ILCE](https://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/ContratoSocial.pdf)
 
 La voluntad general. Núcleo del republicanismo democrático.
 
 - :material-file-document: [Wikisource español completo](https://es.wikisource.org/wiki/El_contrato_social_(1836))
 - :material-file-document: [PDF Biblioteca ILCE](https://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/ContratoSocial.pdf)
 
-#### 6. Mill — *Sobre la libertad* (~150 pp)
+#### 6. Mill — *Sobre la libertad* (completo · ~150 pp · 10-15 h)
+
+**Por qué este libro:** **el manifiesto más claro del liberalismo clásico**. Mill formula el "principio del daño" — la única razón legítima para limitar la libertad individual es prevenir daño a terceros — que sigue siendo el núcleo del debate liberal contemporáneo. Si quieres entender por qué un liberal defiende la legalización de las drogas Y la libertad de expresión Y el matrimonio gay simultáneamente, Mill te lo explica.
+
+**Contexto humano:** Inglaterra 1859. Mill (53 años) escribe el libro como tributo a su esposa Harriet Taylor, recién fallecida — la influencia intelectual silenciada por su tiempo. Es Inglaterra victoriana en pleno auge industrial e imperial; la libertad de prensa, opinión y costumbres está en debate vivo. Mill teme la "tiranía de la mayoría" democrática tanto como la tiranía absolutista.
+
+**Pre-requisitos:** Locke (el liberalismo de derechos). Cierta familiaridad con utilitarismo (Mill es heredero de Bentham pero lo refina).
+
+**La pregunta clave:** *¿Cuál es el límite legítimo del poder de la sociedad sobre el individuo?*
+
+**Conceptos clave:**
+
+- **Principio del daño (*harm principle*):** la sociedad solo puede limitar la libertad para prevenir daño a terceros. NO para "el propio bien" del individuo, NO para imponer moral.
+- **Libertad de pensamiento y discusión:** la verdad solo emerge del choque de opiniones. **Incluso las opiniones falsas son útiles** porque obligan a defender mejor las verdaderas.
+- **Individualidad:** la diversidad de modos de vida no es defecto sino requisito del progreso humano.
+- **Tiranía de la mayoría:** Mill anticipa que la democracia puede ser tan opresiva como el absolutismo si la opinión pública aplasta la disidencia.
+
+**Capítulos:** completos. Es breve y estructurado: I (introductorio), II (libertad de pensamiento, **el más famoso**), III (individualidad), IV (límites de la autoridad social), V (aplicaciones prácticas).
+
+**Lecturas paralelas:**
+
+- :material-youtube: [Sandel — Justice Ep. 4-5 sobre libertarianismo y Mill](https://justiceharvard.org/)
+- :material-file-document: Isaiah Berlin — "Dos conceptos de libertad" (1958, ~40 pp). **Lo leerás en Fase 3** pero anticipa el debate.
+- :material-file-document: Mill — *El utilitarismo* (~80 pp): complemento. La base ética del *Sobre la libertad*.
+
+**Vinculación:**
+
+- **Es premisa del liberalismo moderno** entero — Rawls, Berlin, Hayek razonan dentro de su marco.
+- **Anticipa el debate Mill vs Sandel (F3):** Sandel argumentará desde el comunitarismo contra el liberalismo procedimental que Mill funda.
+- **Contradice a Rousseau:** Mill privilegia individualidad sobre voluntad general; Rousseau lo opuesto.
+- **Será desafiado por hooks (F3):** el "daño" milleano es físico-tangible; hooks dirá que el patriarcado daña sin "actos" identificables.
+
+**Punto de naufragio:** ninguno técnico, pero **riesgo ideológico**: Mill convence demasiado fácil al lector liberal. **Lee desconfiando**. Pregúntate: ¿qué cuenta como "daño"? ¿quién decide? Esto te prepara para hooks/Crenshaw que van a complicar el concepto.
+
+**Salida medible:**
+
+- **N2:** enuncias el principio del daño.
+- **N3:** aplicas el principio del daño a un debate actual (drogas, lenguaje inclusivo, libertad religiosa).
+- **N4:** identificas qué presupone Mill sobre el sujeto racional autónomo (y por qué autores feministas y decoloniales lo refutarán).
+- **N5:** evalúas: ¿el principio del daño es universalizable o presupone un tipo específico de sociedad?
+
+**Enlaces:**
+
+- :material-file-document: [PDF Universidad de la República Uruguay](https://eva.fder.udelar.edu.uy/pluginfile.php/230580/mod_folder/content/0/Mill,%20John%20Stuart%20-%20Sobre%20la%20libertad%20(2014,%20Akal).pdf)
+- :material-internet-archive: [Internet Archive](https://archive.org/details/stuart-mill-john.-sobre-la-libertad-ocr-1993)
 
 El liberalismo clásico escrito con claridad. El "principio del daño".
 
 - :material-file-document: [PDF Universidad de la República Uruguay (institucional)](https://eva.fder.udelar.edu.uy/pluginfile.php/230580/mod_folder/content/0/Mill,%20John%20Stuart%20-%20Sobre%20la%20libertad%20(2014,%20Akal).pdf)
 - :material-internet-archive: [Internet Archive, edición Sarpe](https://archive.org/details/stuart-mill-john.-sobre-la-libertad-ocr-1993)
 
-#### 7. Locke — *Segundo tratado del gobierno civil* (caps. II, V, VII-IX, XI-XIV, XIX)
+#### 7. Locke — *Segundo tratado del gobierno civil* (caps. II, V, VII-IX, XI-XIV, XIX · ~100 pp · 15-22 h)
 
-**Revisión académica:** Locke pasa de "opcional" a **fuertemente recomendado**. El *Segundo Tratado* es el texto fundacional del liberalismo político: propiedad, consentimiento, derecho de resistencia. Mill sin Locke es Marx sin Hegel.
+**Por qué este libro:** el **texto fundacional del liberalismo político**. Si Hobbes inventa el contrato pesimista, Locke inventa el contrato emancipatorio: el Estado existe para proteger derechos preexistentes (vida, libertad, propiedad), no para crearlos. Esta tesis estructura toda la Modernidad política — la Constitución estadounidense, la Declaración Universal de Derechos Humanos, el constitucionalismo del XIX-XX. **Sin Locke, no entiendes a Mill ni el liberalismo moderno entero.**
+
+**Contexto humano:** Inglaterra 1689, año de la Revolución Gloriosa. Locke (57 años) publica el libro anónimamente — todavía teme represalias por su asociación con los conspiradores contra Jacobo II. **El libro justifica retrospectivamente la deposición de un rey legítimo** — es teología política travestida de filosofía deductiva.
+
+**Pre-requisitos:** Hobbes (Locke responde directamente al *Leviatán*). Cierta familiaridad con el contexto de la Revolución Inglesa de 1688.
+
+**La pregunta clave:** *¿En qué condiciones el pueblo tiene derecho a derrocar a su gobierno?*
+
+**Conceptos clave:**
+
+- **Derechos naturales:** vida, libertad, propiedad. **Preexisten al Estado** — no son creación del soberano (contra Hobbes).
+- **Propiedad como mezcla de trabajo:** mi propiedad es legítima porque mezclé mi trabajo con la naturaleza. Tesis con consecuencias enormes — y con problemas internos serios (¿qué pasa con la propiedad heredada? ¿con la propiedad colonial?).
+- **Consentimiento:** la legitimidad del gobierno depende del consentimiento de los gobernados.
+- **Derecho de resistencia:** cuando el gobierno viola los derechos preexistentes, el pueblo puede (y debe) derrocarlo.
+
+**Capítulos:** II (estado de naturaleza), V (propiedad — **el más influyente**), VII-IX (sociedad política, fines del gobierno), XI-XIV (poderes), XIX (disolución del gobierno). Omitir cap. I (refutación de Filmer, hoy irrelevante).
+
+**Lecturas paralelas:**
+
+- :material-youtube: [Yale PLSC 114 Lectures 15-17 (Locke)](https://oyc.yale.edu/political-science/plsc-114)
+- :material-file-document: C. B. Macpherson — *La teoría política del individualismo posesivo* (selección sobre Locke): crítica marxista clásica. Te enseña a leer Locke con desconfianza.
+
+**Vinculación:**
+
+- **Responde a Hobbes:** mismo punto de partida (estado de naturaleza), conclusión opuesta (Estado limitado, no absoluto).
+- **Es premisa de Mill:** Mill presupone los derechos lockeanos.
+- **Es premisa de la Revolución estadounidense:** Jefferson cita literalmente a Locke en la Declaración de Independencia.
+- **Será criticado por Rousseau:** la propiedad lockeana es la fuente de la desigualdad según el *Discurso* de Rousseau.
+- **Será destrozado por Marx (F2):** la "mezcla de trabajo" lockeana es la mistificación que Marx desmonta en el cap. de acumulación originaria.
+- **Será cuestionado desde el feminismo y la decolonialidad:** ¿quién contaba como "individuo" para Locke? No las mujeres, no los esclavos, no los indígenas. La universalidad lockeana es exclusión disfrazada.
+
+**Punto de naufragio:** el cap. V (propiedad). Es donde Locke hace el truco filosófico más influyente y más cuestionable de la modernidad. Léelo despacio. **Pregúntate: ¿qué cuenta como "trabajo"? ¿qué cuenta como "naturaleza no-poseída"?**
+
+**Salida medible:**
+
+- **N2:** explicas la teoría lockeana de la propiedad por mezcla de trabajo.
+- **N3:** aplicas Locke a un debate actual sobre propiedad intelectual o expropiación.
+- **N4:** identificas las **premisas implícitas** de Locke (sujeto racional, Europa, propiedad como categoría natural).
+- **N5:** evalúas: ¿la teoría lockeana funciona para legitimar el orden colonial o lo deslegitima?
+
+**Enlaces:**
+
+- :material-file-document: [PDF selección académica](https://filosofiamaterialesyrecursos.es/Antologia_de_textos/12_Locke.pdf)
+- :material-internet-archive: [Internet Archive completo](https://archive.org/details/locke-segundo-tratado-civil)
 
 Derechos naturales, propiedad, consentimiento. Pieza clave del canon Yale.
 

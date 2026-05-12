@@ -27,17 +27,89 @@ Al terminar, sabrás:
 
 ### :material-numeric-1-box: Mortimer Adler — *Cómo leer un libro* (1940/1972) — recomendado
 
-Manual fundacional sobre las **4 niveles de lectura**: elemental, inspeccional, analítica y sintópica. Sin este libro vas a leer obras primarias y no vas a saber de qué te estás enterando.
+Manual fundacional sobre las **4 niveles de lectura**: elemental, inspeccional, analítica y sintópica.
 
-- **Páginas relevantes:** Prólogo + Caps. 1-4 (los 4 niveles) + Cap. 11 (lectura analítica). Si te enganchas, lee completo.
-- **Sin versión legal abierta** (sigue en copyright). Opciones: comprar; biblioteca; [Internet Archive — préstamo digital 1 h renovable](https://archive.org/search?query=como+leer+un+libro+adler).
+**Por qué este libro:** sin él vas a leer obras primarias **sin saber qué hacer con ellas**. La diferencia entre subrayar pasivamente y "leer analíticamente" un libro es la diferencia entre acumular páginas y aprender. Adler te entrega un protocolo replicable.
+
+**Contexto humano del autor:** Mortimer Adler fue un filósofo aristotelista de la University of Chicago que pasó toda su vida defendiendo el canon occidental. La obra es producto del programa "Great Books of the Western World" que él co-fundó — un intento explícito de democratizar la lectura del canon clásico. Cuando lo leas notarás que está dirigido al adulto autodidacta como tú.
+
+**Pre-requisitos conceptuales:** ninguno. Es la puerta de entrada.
+
+**La pregunta clave del libro:** *¿Qué significa "leer" un libro cuando ya sabes decodificar las palabras?*
+
+**Conceptos clave que vas a obtener:**
+
+- **Lectura inspeccional:** la "ojeada estructurada" de 30-60 min que haces ANTES de decidir leer un libro completo. Te ahorra meses.
+- **Lectura analítica:** las 4 reglas (clasificar, decir qué dice el libro en una frase, enumerar las partes principales, definir los problemas que el autor intentó resolver).
+- **Lectura sintópica:** leer **múltiples libros sobre un mismo tema** dialogando entre sí. **Es exactamente lo que harás en el plan.**
+
+**Capítulos:** Prólogo + Caps. 1-4 (los 4 niveles) + Cap. 11 (lectura analítica). Si te enganchas, completo.
+
+**Lecturas paralelas recomendadas:**
+
+- :material-youtube: [Vídeo resumen de Adler en YouTube en español](https://www.youtube.com/results?search_query=como+leer+un+libro+adler+resumen) — para anticipar el método antes de meterte en el libro.
+- :material-file-document: Daniel Pennac — *Como una novela* (1992, breve, ~150 pp): contrapeso emocional al rigor de Adler. Te recuerda que leer también es placer.
+
+**Vinculación con otros autores del plan:**
+
+- **Es la metodología que usarás en TODOS los demás libros.** Adler no es contenido, es herramienta.
+- **Coincide con Schopenhauer (#2)** en que la lectura activa es lucha argumentativa — Schopenhauer te enseña a detectar trampas, Adler a no caer.
+
+**Punto de naufragio:** Adler es repetitivo. **Si te aburre, salta a los caps. 1-4 y 11** directamente — son la parte funcional. El resto puede esperar.
+
+**Salida medible:**
+
+- **N2:** puedes nombrar los 4 niveles de lectura y dar la definición de cada uno.
+- **N3:** aplicas lectura inspeccional a un libro nuevo y decides si lo lees completo en 30 min.
+- **N4:** identificas las "partes principales" de un libro de filosofía política tras la lectura analítica.
+
+**Enlaces:**
+
+- **Sin versión legal abierta** (copyright). Opciones: comprar; biblioteca; [Internet Archive — préstamo digital 1 h renovable](https://archive.org/search?query=como+leer+un+libro+adler).
 
 ### :material-numeric-2-box: Arthur Schopenhauer — *Dialéctica erística / El arte de tener razón* (1864)
 
-**100 páginas, 38 estratagemas dialécticas** explicadas con ironía. Te enseña los trucos sucios del debate para que los reconozcas (no para que los uses).
+**100 páginas, 38 estratagemas dialécticas** explicadas con ironía.
 
-- :material-file-document: [Texto completo en español (Wikisource)](https://es.wikisource.org/wiki/Dialéctica_erística) — gratis y legal, dominio público.
-- :material-file-document: [PDF con selección anotada (institucional)](https://www.guao.org/sites/default/files/biblioteca/El%20arte%20de%20tener%20razón.pdf) — alternativa.
+**Por qué este libro:** te enseña los **trucos sucios del debate** desde dentro. Schopenhauer los expone para que los reconozcas, no para que los uses. Complemento práctico al manual de falacias.
+
+**Contexto humano del autor:** Schopenhauer era un cascarrabias amargo que escribió esto al final de su vida tras décadas de ser ignorado por la academia alemana. Manuscrito póstumo nunca pulido. Su ironía es deliberada: sabe que las estratagemas son inmorales y aun así te las da, porque su tesis es que la "verdad" rara vez gana debates — gana quien sabe ganar.
+
+**Pre-requisitos conceptuales:** familiaridad con "argumento" (premisas → conclusión). Si lo tienes después de Adler, basta.
+
+**La pregunta clave:** *¿Por qué tener razón no garantiza ganar un debate, y qué se hace al respecto?*
+
+**Conceptos clave:**
+
+- **Estratagema vs falacia:** la falacia es error lógico (a veces involuntario); la estratagema es **trampa retórica deliberada**.
+- **Ampliación:** distorsionar lo dicho a una versión más extrema para refutarla. La estratagema más usada en redes.
+- **Diversión homonímica:** explotar ambigüedad de palabras.
+- **Ad personam (#38):** "último recurso" — atacar al oponente cuando ya perdiste el argumento.
+
+**Capítulos:** completo. Es brevísimo (~100 pp).
+
+**Lecturas paralelas:**
+
+- :material-file-document: Manual de falacias del plan ([plan/falacias.md](falacias.md)) — léelos en paralelo, mismo combate desde dos ángulos.
+- :material-youtube: Vídeos de debates políticos en YouTube — identifica qué estratagema usa cada uno.
+
+**Vinculación con otros autores del plan:**
+
+- **Anticipa a hooks y Crenshaw (Fase 3):** ellas mostrarán que las estratagemas se ejercen estructuralmente, no solo individualmente.
+- **Contradice a Habermas (Bloque XX-Tardío):** Habermas cree en la "acción comunicativa racional"; Schopenhauer dice que es fantasía.
+
+**Punto de naufragio:** ninguno. Es divertido y corto.
+
+**Salida medible:**
+
+- **N2:** nombras 5 estratagemas con definición.
+- **N3:** identificas estratagemas en debate de TV en tiempo real.
+- **N4:** distingues entre objeción legítima y "ad personam".
+
+**Enlaces:**
+
+- :material-file-document: [Texto completo (Wikisource)](https://es.wikisource.org/wiki/Dialéctica_erística) — gratis legal.
+- :material-file-document: [PDF institucional](https://www.guao.org/sites/default/files/biblioteca/El%20arte%20de%20tener%20razón.pdf).
 
 ### :material-numeric-3-box: *Alternativa más amplia:* Daniel Kahneman — *Pensar rápido, pensar despacio* (2011)
 
