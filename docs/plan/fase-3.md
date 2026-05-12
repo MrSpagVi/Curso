@@ -108,6 +108,59 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 - :material-file-document: [PDF español (UNAM)](http://rmcps.unam.mx/wp-content/uploads/articulos/016_10_politica_weber.pdf)
 - :material-file-document: [PDF alternativo](https://www.memoriapoliticademexico.org/Textos/6Revolucion/IM/Weber-Politica-Vocacion.pdf)
 
+### Escuela de Frankfurt — Adorno & Horkheimer — *Dialéctica de la Ilustración* (1944 · selección caps. 1-2 · ~100 pp · 12-15 h)
+
+**Por qué este libro:** Adorno y Horkheimer formulan **la crítica más radical a la Ilustración desde dentro de ella**. Tesis: la razón ilustrada, lejos de liberar, **se vuelve totalitaria** porque convierte todo en objeto manipulable — naturaleza, sociedad, yo. Explica por qué la "modernidad ilustrada" produjo Auschwitz como culminación lógica, no accidente.
+
+**Contexto humano:** Los Ángeles 1944. Adorno (40 años) y Horkheimer (49) son judíos alemanes exiliados, fundadores de la Escuela de Frankfurt. Escriben **mientras Auschwitz funciona en Europa**. Filosofía desde el exilio del exterminio.
+
+**Pre-requisitos:** Kant (la Ilustración que critican). Marx (su marxismo es heterodoxo). Hegel.
+
+**La pregunta clave:** *¿Por qué el proyecto ilustrado de emancipación produjo barbarie?*
+
+**Conceptos clave:**
+
+- **Dialéctica de la Ilustración:** la razón que iba a liberar se vuelve **razón instrumental** que convierte todo en medio.
+- **Industria cultural:** Hollywood, radio, pop como fabricación de conformismo — no entretenimiento neutral.
+- **Antisemitismo como síntoma de la razón ilustrada:** no es prejuicio antiguo sino producto moderno.
+
+**Vinculación:**
+
+- **Premisa de Foucault:** la razón disciplinaria foucaultiana es Adorno/Horkheimer aplicado a instituciones.
+- **Premisa de Habermas:** Habermas es discípulo crítico que intenta rescatar la razón comunicativa.
+- **Premisa de Marcuse, Fisher:** industria cultural completada = realismo capitalista.
+
+**Salida medible:** N3 — identificar "industria cultural" en streaming, redes sociales, gaming.
+
+:material-internet-archive: [Archive.org español](https://archive.org/search?query=adorno+horkheimer+dialectica+ilustracion)
+
+### Ernesto Laclau & Chantal Mouffe — *Hegemonía y estrategia socialista* (1985 · selección caps. 3-4 · ~150 pp · 18-25 h)
+
+**Por qué este libro:** Laclau y Mouffe **actualizan Gramsci para el XXI**. Tesis: la izquierda no debe esperar la unificación de la "clase obrera" — debe **construir hegemonía** articulando demandas diversas (feministas, ecológicas, étnicas, laborales) en cadena equivalencial. Es el marco teórico tras Podemos, Syriza, La France Insoumise, peronismo kirchnerista.
+
+**Contexto humano:** Reino Unido. Laclau (argentino) y Mouffe (belga) son post-marxistas. Escriben en pleno auge thatcheriano. Asumen que el marxismo clásico está agotado pero rechazan disolver la política emancipatoria.
+
+**Pre-requisitos:** Gramsci (hegemonía). Foucault. Saussure ayuda.
+
+**La pregunta clave:** *¿Cómo construir un proyecto emancipatorio cuando la clase obrera ya no es sujeto unificado?*
+
+**Conceptos clave:**
+
+- **Articulación:** la práctica política conecta demandas dispersas. El sujeto se construye en la articulación, no preexiste.
+- **Cadenas equivalenciales:** demandas distintas (ecológica + feminista + laboral) se vuelven equivalentes contra adversario común.
+- **Significantes vacíos:** términos que adquieren sentido por las cadenas que articulan ("pueblo", "democracia").
+- **Antagonismo constitutivo:** no hay política sin enemigo. Pero el enemigo se construye discursivamente.
+
+**Vinculación:**
+
+- **Aplica Gramsci al XXI.**
+- **Aplicado por Podemos (Errejón), Syriza, La France Insoumise.**
+- **Será criticado por Žižek:** olvida lo Real lacaniano.
+
+**Salida medible:** N3 — identificar una cadena equivalencial en un movimiento político actual.
+
+:material-internet-archive: Archive.org préstamo.
+
 ### Pierre Bourdieu — *Sobre el Estado* o *La distinción* (selección · ~200 pp · 18-25 h)
 
 **Por qué este libro:** Bourdieu es **el sociólogo más influyente del siglo XX después de Weber**. Su tesis radical: el Estado y la cultura producen **distinciones de clase invisibles para sus propios beneficiarios**. La "violencia simbólica" — clasificaciones culturales que las víctimas mismas aceptan — es la forma moderna del poder. **Es el puente Weber → estudios culturales contemporáneos** que el plan necesita.
