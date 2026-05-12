@@ -21,10 +21,11 @@ except ImportError:
 # Edit this list to add/remove sources. Format: (Display name, RSS URL)
 FEEDS = [
     ("Real Instituto Elcano", "https://www.realinstitutoelcano.org/feed/"),
-    ("Nueva Sociedad", "https://nuso.org/feed/"),
-    ("The Conversation — Politics", "https://theconversation.com/global/politics+society/articles.atom"),
-    ("CIDOB", "https://www.cidob.org/es/RSS/publicaciones2"),
-    ("El Salto Diario — Política", "https://www.elsaltodiario.com/seccion/politica/rss"),
+    ("BBC News Mundo", "https://feeds.bbci.co.uk/mundo/rss.xml"),
+    ("El País — Internacional", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"),
+    ("Le Monde Diplomatique (Cono Sur)", "https://www.eldiplo.org/feed/"),
+    ("The Conversation — Global", "https://theconversation.com/articles.atom"),
+    ("Nueva Sociedad", "https://nuso.org/articulo/feed/"),
 ]
 
 MAX_ITEMS_PER_FEED = 5
@@ -37,11 +38,14 @@ def fetch_feed(url, name):
     try:
         feed = feedparser.parse(url)
         if feed.bozo and not feed.entries:
-            print(f"⚠ {name}: feed inválido o vacío ({url})", file=sys.stderr)
+            print(f"[WARN] {name}: feed invalido o vacio ({url})", file=sys.stderr)
+            return None
+        if not feed.entries:
+            print(f"[WARN] {name}: sin entradas ({url})", file=sys.stderr)
             return None
         return feed
     except Exception as e:
-        print(f"⚠ {name}: error ({e})", file=sys.stderr)
+        print(f"[WARN] {name}: error ({e})", file=sys.stderr)
         return None
 
 
@@ -115,7 +119,7 @@ def main():
     print(f"Updating {OUTPUT_FILE}...")
     content = render_markdown()
     OUTPUT_FILE.write_text(content, encoding="utf-8")
-    print(f"✓ Wrote {len(content)} chars to {OUTPUT_FILE}")
+    print(f"[OK] Wrote {len(content)} chars to {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
