@@ -56,35 +56,56 @@ Cómo se defiende un argumento bajo presión. El texto que inicia la filosofía 
 - :material-file-document: [PDF español (Biblioteca ILCE, México)](https://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/Apologia_de_Socrates-Platon.pdf)
 - :material-file-document: [Edición Azcárate, filosofia.org](https://www.filosofia.org/cla/pla/img/azf01043.pdf)
 
-#### 2. Maquiavelo — *El Príncipe* (~100 pp)
+#### 2. Aristóteles — *Política* (selección Libros I, III, VII; ~80 pp)
 
-Realismo político. Léelo desconfiando: es manual y autocrítica a la vez.
+**Adición posterior a la revisión académica:** sin Aristóteles, Fase 1 no es filosofía política clásica, es contractualismo moderno con un pórtico platónico. Aquí está el **concepto de *politeia*** (la mejor constitución), la **tipología de regímenes** (monarquía/aristocracia/politeia vs. sus corrupciones: tiranía/oligarquía/democracia), y la tesis fundacional de que el hombre es *zoon politikón*. **Maquiavelo, Hobbes y Rousseau presuponen este vocabulario.**
+
+**Capítulos clave:**
+
+- **Libro I:** caps. 1-2 (el hombre como animal político), caps. 3-7 (familia, esclavitud — incluyendo la crítica moderna sobre estos pasajes).
+- **Libro III:** caps. 1-9 (qué es un ciudadano, formas de gobierno, mejor régimen).
+- **Libro VII:** caps. 1-3, 13-14 (la mejor vida y la mejor *polis*).
+
+**Enlaces gratuitos:**
+
+- :material-file-document: [Wikisource español](https://es.wikisource.org/wiki/La_política) — traducción de Patricio de Azcárate.
+- :material-file-document: [PDF Biblioteca Filosofía Política UCM](https://web.archive.org/web/2020/https://www.filosofia.org/cla/ari/azc03.htm) — alternativa institucional.
+
+**Lectura crítica complementaria recomendada:**
+
+- :material-file-document: Jill Frank — *"Citizens, Slaves, and Foreigners: Aristotle on Human Nature"* (APSR 2004). Ya está en la sección "Re-leer el canon europeo críticamente" del plan maestro — léelo junto al Libro I de la *Política*. Hace explícito el problema con la esclavitud aristotélica.
+
+#### 3. Maquiavelo — *El Príncipe* (~100 pp)
+
+Realismo político. Léelo desconfiando: es manual y autocrítica a la vez. **Léelo después de la *Política* de Aristóteles** — verás que Maquiavelo dialoga (y rompe) con la *virtù* clásica.
 
 - :material-file-document: [Wikisource español (Índice 1854)](https://es.wikisource.org/wiki/Índice:El_príncipe_de_Maquiavelo_(1854).pdf)
 - :material-file-document: [Elejandría (PDF/EPUB)](https://www.elejandria.com/libro/el-principe/nicolas-maquiavelo/430)
 
-#### 3. Hobbes — *Leviatán* (selección caps. 13-21, ~80 pp)
+#### 4. Hobbes — *Leviatán* (selección caps. 13-21, ~80 pp)
 
 El contrato social desde el miedo. Imprescindible para entender la legitimidad del Estado moderno.
 
 - :material-file-document: [Selección con cap. 13 en marxists.org español](https://www.marxists.org/espanol/hobbes/1651/leviatan/leviatan.htm)
 - :material-internet-archive: [Préstamo digital completo, español (Archive.org)](https://archive.org/details/hobbes-thomas.-del-ciudadano-leviatan-epl-fs-2021)
 
-#### 4. Rousseau — *Contrato social* (Libros I y II, ~80 pp)
+#### 5. Rousseau — *Contrato social* (Libros I y II, ~80 pp)
 
 La voluntad general. Núcleo del republicanismo democrático.
 
 - :material-file-document: [Wikisource español completo](https://es.wikisource.org/wiki/El_contrato_social_(1836))
 - :material-file-document: [PDF Biblioteca ILCE](https://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/ContratoSocial.pdf)
 
-#### 5. Mill — *Sobre la libertad* (~150 pp)
+#### 6. Mill — *Sobre la libertad* (~150 pp)
 
 El liberalismo clásico escrito con claridad. El "principio del daño".
 
 - :material-file-document: [PDF Universidad de la República Uruguay (institucional)](https://eva.fder.udelar.edu.uy/pluginfile.php/230580/mod_folder/content/0/Mill,%20John%20Stuart%20-%20Sobre%20la%20libertad%20(2014,%20Akal).pdf)
 - :material-internet-archive: [Internet Archive, edición Sarpe](https://archive.org/details/stuart-mill-john.-sobre-la-libertad-ocr-1993)
 
-#### 6. *Opcional* — Locke — *Segundo tratado del gobierno civil* (selección caps. 2, 5, 8, 9)
+#### 7. Locke — *Segundo tratado del gobierno civil* (caps. II, V, VII-IX, XI-XIV, XIX)
+
+**Revisión académica:** Locke pasa de "opcional" a **fuertemente recomendado**. El *Segundo Tratado* es el texto fundacional del liberalismo político: propiedad, consentimiento, derecho de resistencia. Mill sin Locke es Marx sin Hegel.
 
 Derechos naturales, propiedad, consentimiento. Pieza clave del canon Yale.
 

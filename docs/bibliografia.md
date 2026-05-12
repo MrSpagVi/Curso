@@ -29,6 +29,7 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 |---|----------------|-----|-----------|---------|--------|--------|------|
 | 4 | Russell — *Historia de la filosofía occidental* | 1945 | **Referencia** (consulta) | N/A | N/A | 📚 | [Archive.org](https://archive.org/details/russell-bertrand-historia-de-la-filosofia-occidental) |
 | 5 | Platón — *Apología de Sócrates* | -399 | Completo | ~40 | 3-5 h | ✅ | [Biblioteca ILCE](https://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/Apologia_de_Socrates-Platon.pdf) |
+| 5b | **Aristóteles — *Política*** *(añadido tras revisión académica)* | -340 | Selección (Libros I, III, VII) | ~80 | 12-18 h | ✅ | [Wikisource](https://es.wikisource.org/wiki/La_política) |
 | 6 | Maquiavelo — *El Príncipe* | 1532 | Completo | ~100 | 8-12 h | ✅ | [Wikisource](https://es.wikisource.org/wiki/Índice:El_príncipe_de_Maquiavelo_(1854).pdf) |
 | 7 | Hobbes — *Leviatán* | 1651 | Selección (caps. 6, 10-21, 26, 29-30) | ~200 | 25-35 h | ✅ | [Marxists.org español](https://www.marxists.org/espanol/hobbes/1651/leviatan/leviatan.htm) |
 | 8 | Locke — *Segundo tratado del gobierno civil* | 1689 | Completo (énfasis caps. II, V, VII-IX, XI-XIV, XIX) | ~150 | 15-22 h | ✅ | [Internet Archive](https://archive.org/details/locke-segundo-tratado-civil) |
@@ -55,6 +56,10 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 | # | Autor — Título | Año | Veredicto | Páginas | Tiempo | Estado | Link |
 |---|----------------|-----|-----------|---------|--------|--------|------|
 | 17 | Weber — *La política como vocación* | 1919 | Completo | ~60 | 5-7 h | ✅ | [PDF UNAM](http://rmcps.unam.mx/wp-content/uploads/articulos/016_10_politica_weber.pdf) |
+| 17b | **Foucault — *Vigilar y castigar*** *(añadido — Bloque XX-Tardío)* | 1975 | Selección (Parte I) | ~80 | 10-14 h | 📚 | [Archive.org](https://archive.org/search?query=foucault+vigilar+castigar+espanol) |
+| 17c | **Rawls — *Teoría de la Justicia*** *(añadido — Bloque XX-Tardío)* | 1971 | Selección (caps. I y III) | ~150 | 18-25 h | 📚 | [Archive.org](https://archive.org/search?query=rawls+teoria+justicia+espanol) |
+| 17d | **Berlin — *Dos conceptos de libertad*** *(añadido — Bloque XX-Tardío, recomendado)* | 1958 | Completo (ensayo) | ~40 | 3-4 h | 🌐 | Buscar PDF académico |
+| 17e | **Habermas — selección sobre esfera pública** *(añadido — recomendado)* | 1962 | Selección | ~60 | 5-8 h | 📚 | Archive.org |
 | 18 | Lenin — *El imperialismo, fase superior…* | 1916 | Completo | ~150 | 10-14 h | ✅ | [PDF Marxists.org](https://www.marxists.org/espanol/lenin/obras/1916/el-imperialismo.pdf) |
 | 19 | Gramsci — *Cuadernos de la cárcel* (antología Hoare-Smith) | 1929-35 | Selección (Intellectuals, Education, Modern Prince, State and Civil Society) | ~250 | 25-35 h | 💰 | [Selección Marxists.org](https://www.marxists.org/espanol/gramsci/) |
 | 20 | Hayek — *Camino de servidumbre* | 1944 | Selección (caps. 1, 3, 5-7, 10, 15) | ~130 | 10-15 h | ✅ | [PDF Cato Institute (legal)](https://www.elcato.org/sites/default/files/camino-de-servidumbre-libro-electronico.pdf) |
@@ -96,6 +101,7 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 | # | Autor — Título | Año | Veredicto | Páginas | Tiempo | Estado | Link |
 |---|----------------|-----|-----------|---------|--------|--------|------|
 | 44 | Mearsheimer — *The Tragedy of Great Power Politics* | 2001 | Selección (caps. 1-4, 10) | ~250 | 15-22 h | 🌐 | [Archive.org préstamo (inglés)](https://archive.org/details/tragedyofgreatpo00mear) |
+| 44b | **Agamben — *Homo Sacer* o *Estado de excepción*** *(añadido — vertebra teórica)* | 1995/2003 | Selección (Intro + Parte III) | ~100 | 12-18 h | 📚 | [Archive.org](https://archive.org/search?query=agamben+homo+sacer+espanol) |
 | 45 | Mbembe — *Necropolítica* | 2003/2011 | Completo | ~100 | 3-22 h | ✅ | [PDF Melusina (oficial)](https://www.melusina.com/rcs_gene/Necropol_tica.pdf) |
 | 46 | Confucio — *Analectas* | -500 | Selección (libros I-IV, VI, XII, XV) | ~80 | 8-12 h | ✅ | [PDF CETR](https://cetr.net/files/LUN%20YU%20es.pdf) |
 | 47 | Gandhi — *Hind Swaraj* | 1909 | Completo | ~100 | 6-8 h | ✅ | [PDF mkgandhi.org (oficial)](https://www.mkgandhi.org/ebks/hind_swaraj_spanish.pdf) |

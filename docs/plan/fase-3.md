@@ -55,6 +55,39 @@ Conferencia que define los conceptos modernos de **Estado, monopolio de la viole
 
 ---
 
+## :material-book-open-page-variant: Bloque XX-Tardío (nuevo · lectura obligatoria)
+
+**Adición tras la revisión académica:** entre Arendt (1951) y los autores contemporáneos (Fisher 2009) había un **agujero negro de 58 años** que omitía a los pensadores que definen el debate contemporáneo. Estos dos son innegociables; Berlin y Habermas son recomendados.
+
+### Michel Foucault — *Vigilar y castigar* (selección Parte I) o *Nacimiento de la biopolítica* (lecciones 1-2)
+
+**~80 pp. Por qué es innegociable:** Mbembe en Fase 5 es **literalmente ininteligible sin biopolítica foucaultiana**. La *Necropolítica* de Mbembe es un comentario crítico a Foucault. Si saltas a Mbembe sin Foucault, lees la mitad del libro.
+
+**Conceptos clave que vas a obtener:** biopolítica, disciplina, gubernamentalidad, panóptico.
+
+- :material-internet-archive: Préstamo digital en [Archive.org](https://archive.org/search?query=foucault+vigilar+castigar+espanol).
+- :material-file-document: *Nacimiento de la biopolítica* — buscar PDF académico institucional.
+
+### John Rawls — *Teoría de la Justicia* (caps. I y III; ~150 pp)
+
+**El texto más citado de filosofía política del siglo XX.** Sin Rawls no hay discusión contemporánea sobre justicia distributiva, posición original ni velo de ignorancia. Sandel (que ya viste en Fase 1) **se construye contra Rawls**: necesitas saber qué refuta.
+
+**Conceptos clave:** posición original, velo de ignorancia, principios de justicia, equilibrio reflexivo.
+
+- :material-internet-archive: Préstamo digital en [Archive.org](https://archive.org/search?query=rawls+teoria+justicia+espanol).
+
+### Isaiah Berlin — *"Dos conceptos de libertad"* (1958, ensayo ~40 pp) — recomendado
+
+Estructura todo el debate posterior sobre libertad positiva vs negativa. Imprescindible si quieres entender el liberalismo de Berlin/Hayek/Popper como **una posición filosófica**, no solo política.
+
+- :material-file-document: PDF disponible en repositorios académicos — buscar.
+
+### Jürgen Habermas — selección sobre esfera pública (recomendado)
+
+Sin Habermas, la crítica de Crenshaw sobre interseccionalidad y esfera pública queda coja: Crenshaw responde **precisamente** al modelo habermasiano. Texto sugerido: el ensayo corto "La esfera pública" o selección de *Historia y crítica de la opinión pública*.
+
+---
+
 ## :material-book-multiple: Elige 3 de 5 corrientes
 
 ### A. Marxismo del siglo XX

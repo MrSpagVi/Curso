@@ -64,6 +64,20 @@ Mercancía, plusvalía, acumulación originaria. Saltar el resto en esta fase.
 - :material-file-document: [Tomo I completo PDF (marxists.org)](https://www.marxists.org/espanol/m-e/capital/karl-marx-el-capital-tomo-i-editorial-progreso.pdf)
 - :material-file-document: [Cap. XXIV "Acumulación originaria" HTML](https://www.marxists.org/espanol/m-e/1860s/eccx86s.htm)
 
+---
+
+### :material-bridge: Ejercicio puente: de Marx a Mariátegui
+
+**Adición tras la revisión pedagógica.** Este es el punto donde la mayoría de autodidactas pierde la cabeza. Acabas de leer Marx (Manchester 1867) y vas a leer Mariátegui (Perú andino 1928). Sin este ejercicio, Mariátegui se lee como "historia regional" y se pierde su tesis: que es **heterodoxia marxista**, no descripción etnográfica.
+
+**Haz esto antes de abrir Mariátegui** (~90 min):
+
+1. **Escribe 300 palabras** aplicando **plusvalía + acumulación originaria** a un conflicto laboral concreto de tu país de los últimos 5 años. Específicamente: ¿quién extrae plusvalor de quién? ¿Hay procesos de acumulación originaria (desposesión, despojo) hoy?
+2. **Pregunta de transición que debes contestar antes de leer Mariátegui:** *"¿En qué se diferencia la **acumulación originaria de Marx** (cercado inglés siglo XVI, separación violenta del campesino de la tierra) de la **acumulación originaria que Mariátegui ve** en el latifundismo peruano de 1928 (servidumbre indígena, hacienda, gamonalismo)? ¿Son el mismo proceso desplazado en el tiempo, o son cualitativamente distintos?"*
+3. Cuando termines Mariátegui, vuelve a leer tus 300 palabras. **Si las reescribirías distinto, el puente funcionó.**
+
+---
+
 ### 4. José Carlos Mariátegui — *7 Ensayos de interpretación de la realidad peruana* (1928)
 
 Selección: Ensayo II "El problema del indio" + Ensayo III "El problema de la tierra" (~80 pp). El texto fundacional del **marxismo latinoamericano**.

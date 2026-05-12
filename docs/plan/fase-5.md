@@ -53,11 +53,29 @@ Realismo ofensivo. Explica el mundo actual (rivalidad EE.UU.-China, guerra de Uc
 - :material-internet-archive: [Préstamo digital (Archive.org, inglés)](https://archive.org/details/tragedyofgreatpo00mear)
 - Lectura sugerida: Cap. 1 (la lógica del realismo ofensivo) + Cap. 2 + Cap. 10 (China rise).
 
-### 2. Achille Mbembe — *Necropolítica* (ensayo, ~100 pp)
+### 2. Giorgio Agamben — *Homo Sacer* (Intro + Parte III) o *Estado de excepción* (~80-100 pp)
 
-Filósofo camerunés. La contraparte decolonial a Mearsheimer: el poder no solo se ejerce gobernando vida sino administrando **muerte y abandono** (fronteras, campos de refugiados, guerras coloniales).
+**Adición tras la revisión académica:** Agamben es la pieza que vertebra Fase 5. Une a **Schmitt** (concepto de soberanía como decisión sobre la excepción, Fase 3), **Foucault** (biopolítica, Bloque XX-Tardío) y **Mbembe** (necropolítica). Sin Agamben, los tres se leen como ideas sueltas; con él, son un linaje teórico.
+
+**Conceptos clave:** vida desnuda (*nuda vita*), estado de excepción permanente, *homo sacer*.
+
+- :material-internet-archive: [Préstamo digital Archive.org](https://archive.org/search?query=agamben+homo+sacer+espanol)
+
+### 3. Achille Mbembe — *Necropolítica* (ensayo, ~100 pp)
+
+Filósofo camerunés. La contraparte decolonial a Mearsheimer: el poder no solo se ejerce gobernando vida sino administrando **muerte y abandono** (fronteras, campos de refugiados, guerras coloniales). **Léelo después de Foucault y Agamben** — solo así entiendes la cadena: soberanía (Schmitt) → biopolítica (Foucault) → estado de excepción permanente (Agamben) → necropolítica (Mbembe).
 
 - :material-file-document: [PDF español (Melusina, editorial oficial)](https://www.melusina.com/rcs_gene/Necropol_tica.pdf)
+
+!!! info "Vertebra teórica de la fase"
+    La aportación más importante de Fase 5 es **trazar conscientemente** el linaje del poder soberano contemporáneo:
+    
+    **Schmitt (1932, Fase 3)** — soberano es quien decide sobre la excepción.  
+    **Foucault (1976, Bloque XX-Tardío)** — el poder ya no solo prohíbe sino que produce y gestiona "la vida".  
+    **Agamben (1995)** — el estado de excepción se vuelve permanente; el "homo sacer" es la vida que puede matarse sin que sea homicidio.  
+    **Mbembe (2003)** — en el sur global, el poder no gestiona vida sino administra muerte: *necropolítica*.
+    
+    Esta cadena no es histórica accidente. Es la mejor herramienta teórica para entender Guantánamo, las fronteras del Mediterráneo, los drones, Gaza, Darién.
 
 ### 3. Una novela política (elige una)
 
