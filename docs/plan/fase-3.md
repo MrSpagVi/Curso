@@ -64,12 +64,49 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 
 ## :material-book-open-variant: Lectura fija de entrada
 
-### Max Weber — *La política como vocación* (1919, ~60 pp)
+### Max Weber — *La política como vocación* (1919 · ~60 pp · 5-7 h)
 
-Conferencia que define los conceptos modernos de **Estado, monopolio de la violencia legítima, tipos de legitimidad** (tradicional/carismática/legal), **ética de la convicción vs ética de la responsabilidad**. Está en TODOS los syllabi serios. Lectura corta, retorno enorme.
+**Por qué este libro:** la **definición moderna del Estado** que toda la sociología y la ciencia política posterior usan, sea explícita o implícitamente. Cuando alguien dice "el Estado tiene el monopolio de la violencia legítima", está citando a Weber sin saberlo. Texto corto pero **lectura imprescindible**.
+
+**Contexto humano:** Múnich, enero de 1919. Weber (54 años, morirá en 1920) da esta conferencia a estudiantes ante una Alemania recién derrotada en la Gran Guerra. La República de Weimar tiene 2 meses; la Revolución espartaquista acaba de ser aplastada. **Weber habla con la urgencia de quien sabe que el mundo se rompió y necesita reformular qué es la política.**
+
+**Pre-requisitos:** Hobbes (la idea del monopolio de la violencia). Conocimiento mínimo de Weimar y la I Guerra Mundial.
+
+**La pregunta clave:** *¿Qué tipo de hombre necesita la democracia moderna para sostenerse?*
+
+**Conceptos clave:**
+
+- **Estado = "monopolio de la violencia física legítima sobre un territorio".** Definición clásica. Es **descriptiva**, no normativa.
+- **3 tipos de legitimidad:** tradicional (poder por costumbre), carismática (poder por cualidad excepcional del líder), legal-racional (poder por reglas y burocracia).
+- **Ética de la convicción vs ética de la responsabilidad:** el político de convicción actúa según principios sin importar consecuencias; el de responsabilidad pesa consecuencias. **Weber dice: la política seria necesita ambas combinadas**, pero la mayoría confunde las dos.
+- **Vocación (Beruf):** la política como llamado, no oficio. Weber distingue "vivir de la política" (oficio) de "vivir para la política" (vocación).
+
+**Capítulos:** completo, es una conferencia.
+
+**Lecturas paralelas:**
+
+- :material-file-document: Weber — *La ciencia como vocación* (conferencia gemela, ~50 pp): complemento natural. Misma estructura para el académico.
+- :material-file-document: Weber — *La ética protestante y el espíritu del capitalismo* (selección): para contextualizar su sociología.
+
+**Vinculación:**
+
+- **Hereda a Hobbes:** "monopolio de la violencia legítima" es Hobbes traducido a sociología.
+- **Será discutido por Schmitt:** ¿qué pasa cuando la legitimidad legal-racional se rompe? Schmitt dice: aparece el soberano de la excepción.
+- **Será leído críticamente por Bourdieu** (ausente del plan): Weber subestima cómo el Estado "produce" la legitimidad que dice tener.
+- **Anticipa a Bueno (F4):** la tesis Hispanidad de Bueno es Weber aplicado al imperio español.
+
+**Punto de naufragio:** ninguno. Texto corto y claro. Solo cuidado con la **densidad de los conceptos por página**.
+
+**Salida medible:**
+
+- **N2:** repites la definición weberiana del Estado y los 3 tipos de legitimidad.
+- **N3:** clasificas un líder político actual por tipo de legitimidad dominante.
+- **N4:** identificas situaciones donde la ética de convicción y de responsabilidad chocan, y articulas cómo Weber las resuelve.
+
+**Enlaces:**
 
 - :material-file-document: [PDF español (UNAM)](http://rmcps.unam.mx/wp-content/uploads/articulos/016_10_politica_weber.pdf)
-- :material-file-document: [PDF alternativo institucional](https://www.memoriapoliticademexico.org/Textos/6Revolucion/IM/Weber-Politica-Vocacion.pdf)
+- :material-file-document: [PDF alternativo](https://www.memoriapoliticademexico.org/Textos/6Revolucion/IM/Weber-Politica-Vocacion.pdf)
 
 ---
 
@@ -77,22 +114,95 @@ Conferencia que define los conceptos modernos de **Estado, monopolio de la viole
 
 **Adición tras la revisión académica:** entre Arendt (1951) y los autores contemporáneos (Fisher 2009) había un **agujero negro de 58 años** que omitía a los pensadores que definen el debate contemporáneo. Estos dos son innegociables; Berlin y Habermas son recomendados.
 
-### Michel Foucault — *Vigilar y castigar* (selección Parte I) o *Nacimiento de la biopolítica* (lecciones 1-2)
+### Michel Foucault — *Vigilar y castigar* (Parte I) o *Nacimiento de la biopolítica* (lecciones 1-2) · ~80 pp · 10-14 h
 
-**~80 pp. Por qué es innegociable:** Mbembe en Fase 5 es **literalmente ininteligible sin biopolítica foucaultiana**. La *Necropolítica* de Mbembe es un comentario crítico a Foucault. Si saltas a Mbembe sin Foucault, lees la mitad del libro.
+**Por qué este libro:** Foucault es el filósofo más importante de la segunda mitad del siglo XX. Cambia radicalmente la pregunta política: en vez de "¿qué es el poder?" pregunta **"¿cómo opera?"**. Su respuesta — el poder no es sólo prohibitivo, es **productivo**: forma sujetos, cuerpos, deseos — abre la teoría política contemporánea entera. **Sin Foucault, Mbembe en Fase 5 es ininteligible.**
 
-**Conceptos clave que vas a obtener:** biopolítica, disciplina, gubernamentalidad, panóptico.
+**Contexto humano:** París 1975. Foucault (49 años) es profesor en el Collège de France, donde da conferencias públicas que son grabadas y transcritas (sus *Cursos* son el archivo más importante del pensamiento contemporáneo). Trabaja en archivos de prisiones, hospitales, manicomios. **Es gay en una Francia que aún penalizaba la homosexualidad** — su análisis de cómo el poder produce sujetos viene de su propia experiencia.
 
-- :material-internet-archive: Préstamo digital en [Archive.org](https://archive.org/search?query=foucault+vigilar+castigar+espanol).
+**Pre-requisitos:** Marx (Foucault dialoga con él aunque no se llame marxista). Nietzsche ayuda (la "genealogía" foucaultiana es nietzscheana).
+
+**La pregunta clave:** *¿Cómo se produce el sujeto moderno y por qué la modernidad disciplinaria sustituye al castigo espectacular?*
+
+**Conceptos clave:**
+
+- **Poder disciplinario:** lo que producen las instituciones modernas (escuela, hospital, prisión, fábrica). NO es represivo principalmente — es **normalizador**.
+- **Panóptico:** la metáfora de Bentham que Foucault recupera. Saber que **podrías** estar siendo observado te disciplina más que la vigilancia real.
+- **Biopolítica:** poder sobre la población como entidad biológica (natalidad, mortalidad, salud). Surge en el XVIII.
+- **Gubernamentalidad:** el "arte de gobernar" en sentido amplio — gestionar conductas, no sólo prohibirlas.
+- **Sujetos producidos por el poder:** la subjetividad NO preexiste al poder. La modernidad fabrica el "individuo".
+
+**Capítulos clave:** *Vigilar y castigar* Parte I caps. 1-2 (sobre el suplicio y su sustitución por la prisión) + selección de Parte III (disciplina). O alternativa: *Nacimiento de la biopolítica* lección 1 (introducción) + 2 (liberalismo como racionalidad gubernamental).
+
+**Lecturas paralelas:**
+
+- :material-school: [Stanford Encyclopedia — Foucault](https://plato.stanford.edu/entries/foucault/)
+- :material-youtube: Buscar "Foucault biopolitics lecture" en YouTube — varias entrevistas suyas con subtítulos.
+
+**Vinculación:**
+
+- **Premisa de Agamben (F5):** *Homo Sacer* aplica Foucault al estado de excepción schmittiano.
+- **Premisa de Mbembe (F5):** *Necropolítica* es crítica directa a la biopolítica foucaultiana.
+- **Discute con Marx:** Foucault dice que el poder no es solo de clase. Marx dijo que es principalmente económico. Ambos tienen razón en partes.
+- **Antagonista de Habermas:** Foucault niega que pueda haber "acción comunicativa racional" libre de poder. Habermas insiste en defenderla.
+
+**Punto de naufragio:** **estilo de prosa**. Foucault escribe largo, espiral, con autoaclaraciones. Si te frustras, **mira primero una conferencia suya en vídeo** — su voz oral es más clara que su voz escrita.
+
+**Salida medible:**
+
+- **N2:** explicas qué es la biopolítica y cómo se distingue del poder soberano clásico.
+- **N3:** aplicas el análisis foucaultiano del panóptico a vigilancia digital contemporánea (redes sociales, métricas).
+- **N4:** identificas la diferencia entre poder disciplinario (s. XIX) y gubernamentalidad neoliberal (s. XXI).
+- **N5:** sostienes: ¿es Foucault útil para la izquierda o sirve igual al neoliberalismo que analiza?
+
+**Enlaces:**
+
+- :material-internet-archive: [Préstamo digital Archive.org](https://archive.org/search?query=foucault+vigilar+castigar+espanol)
 - :material-file-document: *Nacimiento de la biopolítica* — buscar PDF académico institucional.
 
-### John Rawls — *Teoría de la Justicia* (caps. I y III; ~150 pp)
+### John Rawls — *Teoría de la Justicia* (caps. I y III · ~150 pp · 18-25 h)
 
-**El texto más citado de filosofía política del siglo XX.** Sin Rawls no hay discusión contemporánea sobre justicia distributiva, posición original ni velo de ignorancia. Sandel (que ya viste en Fase 1) **se construye contra Rawls**: necesitas saber qué refuta.
+**Por qué este libro:** **el texto más citado de filosofía política del siglo XX**. Cualquier discusión contemporánea sobre justicia distributiva, igualdad de oportunidades, redistribución, mérito, parte de Rawls (a favor o en contra). Sandel (que viste en Fase 1) **se construye contra Rawls** — necesitas el original para entender la crítica.
 
-**Conceptos clave:** posición original, velo de ignorancia, principios de justicia, equilibrio reflexivo.
+**Contexto humano:** Cambridge, Massachusetts, 1971. Rawls (50 años) es profesor en Harvard tras un doctorado en Princeton. Pasó **20 años** trabajando este libro. Es un hombre tímido, reservado, sin glamour académico — Rawls casi nunca daba conferencias, casi no aparecía públicamente. Su esposa Margaret tipiaba los manuscritos. **El libro es producto de una mente solitaria muy paciente.**
 
-- :material-internet-archive: Préstamo digital en [Archive.org](https://archive.org/search?query=rawls+teoria+justicia+espanol).
+**Pre-requisitos:** Locke y Mill (Rawls actualiza el contractualismo liberal). Cierta familiaridad con utilitarismo (Rawls argumenta contra Bentham/Mill).
+
+**La pregunta clave:** *¿Cuáles son los principios de justicia que personas racionales aceptarían si no supieran qué posición ocuparían en la sociedad?*
+
+**Conceptos clave:**
+
+- **Posición original:** el experimento mental fundacional. Imagina elegir las reglas de la sociedad **antes de saber qué seres serás** (clase, raza, género, capacidad).
+- **Velo de ignorancia:** lo que oculta tu identidad en la posición original. Garantiza imparcialidad.
+- **Dos principios de justicia:** (1) libertades básicas iguales; (2) las desigualdades son aceptables solo si benefician a los más desfavorecidos (principio de diferencia) y vienen ligadas a posiciones abiertas a todos en igualdad de oportunidades.
+- **Equilibrio reflexivo:** método de Rawls — ir y venir entre principios abstractos e intuiciones concretas hasta encontrar coherencia.
+
+**Capítulos clave:** Cap. I (introducción + justicia como equidad), Cap. III (la posición original — **el más importante**). Si tiempo: cap. II (principios) + cap. V (instituciones).
+
+**Lecturas paralelas:**
+
+- :material-youtube: [Sandel — *Justice* eps. 7-8 sobre Rawls](https://justiceharvard.org/) — Sandel hace el caso a favor antes de criticar.
+- :material-file-document: Robert Nozick — *Anarquía, Estado y Utopía* (1974, selección): el contraataque libertarian a Rawls.
+
+**Vinculación:**
+
+- **Sandel (F1) lo critica:** la "posición original" presupone un sujeto desencarnado que no existe.
+- **Nozick lo critica:** el principio de diferencia justifica redistribución que viola derechos de propiedad lockeanos.
+- **hooks/Crenshaw lo critican:** el velo de ignorancia no oculta el género/raza, los **invisibiliza**. Hace imposible pensar la justicia interseccional.
+- **Premisa del liberalismo igualitario** entero — Amartya Sen lo continúa, Habermas dialoga con él.
+
+**Punto de naufragio:** el tono **frío y abstracto**. Rawls escribe como matemático. Si te aburre, lee Sandel sobre Rawls antes para tener motivación.
+
+**Salida medible:**
+
+- **N2:** explicas la posición original y el velo de ignorancia.
+- **N3:** aplicas el principio de diferencia a un debate fiscal actual.
+- **N4:** evalúas la crítica comunitarista de Sandel: ¿es decisiva?
+- **N5:** decides desde dónde discutes con Rawls — Nozick liberal, Sandel comunitarista, Crenshaw interseccional, MacIntyre tradicionalista.
+
+**Enlaces:**
+
+- :material-internet-archive: [Préstamo digital Archive.org](https://archive.org/search?query=rawls+teoria+justicia+espanol)
 
 ### Isaiah Berlin — *"Dos conceptos de libertad"* (1958, ensayo ~40 pp) — recomendado
 
