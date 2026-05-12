@@ -204,15 +204,51 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 
 - :material-internet-archive: [Préstamo digital Archive.org](https://archive.org/search?query=rawls+teoria+justicia+espanol)
 
-### Isaiah Berlin — *"Dos conceptos de libertad"* (1958, ensayo ~40 pp) — recomendado
+### Isaiah Berlin — *"Dos conceptos de libertad"* (1958 · ensayo completo ~40 pp · 3-4 h)
 
-Estructura todo el debate posterior sobre libertad positiva vs negativa. Imprescindible si quieres entender el liberalismo de Berlin/Hayek/Popper como **una posición filosófica**, no solo política.
+**Por qué este ensayo:** Berlin formula **la distinción que estructura todo el debate liberal del siglo XX**. Libertad negativa (estar libre **de** algo) vs libertad positiva (ser libre **para** algo). Su tesis: la libertad positiva, aunque parece más profunda, **conduce históricamente al totalitarismo** porque alguien debe decidir qué cuenta como "verdadera" libertad. Un ensayo de 40 pp que vale por libros enteros.
 
-- :material-file-document: PDF disponible en repositorios académicos — buscar.
+**Contexto humano:** Oxford 1958, plena Guerra Fría. Berlin (49 años) es filósofo letón-británico, judío. Conoce el totalitarismo soviético desde dentro (había sido diplomático británico en Moscú durante la guerra). **Su análisis viene de testigo, no de teórico**.
 
-### Jürgen Habermas — selección sobre esfera pública (recomendado)
+**La pregunta clave:** *¿Hay un solo concepto de libertad o varios, y qué consecuencias políticas tienen?*
 
-Sin Habermas, la crítica de Crenshaw sobre interseccionalidad y esfera pública queda coja: Crenshaw responde **precisamente** al modelo habermasiano. Texto sugerido: el ensayo corto "La esfera pública" o selección de *Historia y crítica de la opinión pública*.
+**Conceptos clave:**
+
+- **Libertad negativa:** ausencia de interferencia. Liberalismo clásico (Locke, Mill, Hayek).
+- **Libertad positiva:** autogobierno racional, autorealización. Rousseau, Hegel, Marx.
+- **El "verdadero yo":** Berlin denuncia el truco totalitario — alguien dice saber cuál es tu "verdadero yo" y te fuerza a serlo "por tu propio bien".
+- **Pluralismo de valores:** no hay armonía final entre todos los valores. Algunos chocan. La política seria reconoce esto.
+
+**Vinculación:** Berlin estructura el debate liberalismo-republicanismo. Premisa de Charles Taylor, Skinner, Pettit en sus críticas posteriores.
+
+**Salida medible:** N3 — identifica un programa político actual que invoca "libertad positiva" y evalúa si Berlin tendría razón en sospechar.
+
+:material-file-document: PDF disponible en repositorios académicos — buscar "Berlin Dos conceptos de libertad PDF".
+
+### Jürgen Habermas — selección sobre esfera pública (1962 · ~60 pp · 5-8 h)
+
+**Por qué:** Habermas **defiende la posibilidad de la deliberación racional en sociedades complejas**. Su concepto de **acción comunicativa** — comunicación que busca entendimiento, no manipulación — es la base normativa de cualquier democracia deliberativa. Sin Habermas, no entiendes ni la teoría democrática actual ni por qué Crenshaw lo critica.
+
+**Contexto humano:** Frankfurt, 1962. Habermas (33 años) es heredero de la Escuela de Frankfurt (Horkheimer, Adorno) pero rompe con su pesimismo. **Su biografía está marcada por haber sido adolescente en la Alemania nazi** — escribe filosofía para que no vuelva a pasar.
+
+**La pregunta clave:** *¿Es posible la legitimidad política en sociedades complejas, plurales y modernas?*
+
+**Conceptos clave:**
+
+- **Esfera pública:** espacio social donde se discuten asuntos comunes mediante argumentos. Surge históricamente en cafés y salones del XVIII.
+- **Acción comunicativa:** comunicación orientada al entendimiento mutuo, no a manipular. Es la base de la legitimidad democrática.
+- **Razón comunicativa:** distinta de razón instrumental (medios-fines). Razón que reconoce al otro como interlocutor.
+- **Colonización del mundo de la vida:** la lógica del mercado y la burocracia invaden los espacios de comunicación auténtica.
+
+**Vinculación:**
+
+- **Defiende lo que Foucault niega:** que pueda haber comunicación libre de poder.
+- **Será criticado por Crenshaw (transversal):** la esfera pública habermasiana presupone un sujeto desencarnado (blanco, masculino, sin necesidades materiales).
+- **Será criticado por Mouffe** (post-marxista): el "consenso racional" es ilusión — la política es agonismo permanente.
+
+**Salida medible:** N3 — identifica un caso donde la "razón comunicativa" habermasiana funciona y otro donde fracasa.
+
+:material-internet-archive: Archive.org préstamo.
 
 ---
 
@@ -222,40 +258,450 @@ Sin Habermas, la crítica de Crenshaw sobre interseccionalidad y esfera pública
 
 ### A. Marxismo del siglo XX (OBLIGATORIO)
 
-- **Lenin — *El imperialismo, fase superior del capitalismo*** (~120 pp): :material-file-document: [PDF marxists.org](https://www.marxists.org/espanol/lenin/obras/1916/el-imperialismo.pdf)
-- **Antonio Gramsci — Antología** (selección de los *Cuadernos de la cárcel*): el concepto de **hegemonía cultural** y bloque histórico. :material-file-document: [Selección marxists.org español](https://www.marxists.org/espanol/gramsci/)
+#### Lenin — *El imperialismo, fase superior del capitalismo* (1916 · ~150 pp · 10-14 h)
+
+**Por qué este libro:** Lenin **extiende el análisis de Marx al sistema mundial**. Marx analizó el capitalismo industrial dentro de Europa; Lenin muestra que para 1900 el capitalismo ha mutado en algo nuevo — concentración monopolista + capital financiero + reparto colonial del mundo. **Sin Lenin no entiendes ni la I Guerra Mundial ni las independencias del siglo XX.**
+
+**Contexto humano:** Zúrich 1916, en plena Primera Guerra Mundial. Lenin (46 años) está exiliado mientras millones mueren en las trincheras. Escribe el libro intentando explicar **por qué los partidos socialistas europeos apoyaron a sus gobiernos** en lugar de votar contra la guerra. Su respuesta: porque las clases obreras del centro reciben migajas del saqueo colonial. **Un año después dirigirá la Revolución de Octubre.**
+
+**Pre-requisitos:** Marx (especialmente acumulación originaria + tendencia decreciente de la tasa de beneficio).
+
+**La pregunta clave:** *¿Cómo se transformó el capitalismo competitivo del XIX en el capitalismo monopolista-imperialista del XX?*
+
+**Conceptos clave:**
+
+- **5 rasgos del imperialismo:** concentración monopolista; fusión capital industrial + bancario; exportación de capital (no solo mercancías); reparto del mundo entre cárteles internacionales; reparto territorial entre potencias.
+- **Aristocracia obrera:** las capas obreras del centro que se benefician parcialmente del imperialismo y por eso traicionan la solidaridad internacionalista.
+- **Imperialismo como fase superior:** NO es opcional ni evitable — es la mutación natural del capitalismo cuando satura sus mercados domésticos.
+
+**Lecturas paralelas:**
+
+- :material-file-document: Rosa Luxemburg — *La acumulación del capital* (selección): tesis paralela y rival.
+
+**Vinculación:**
+
+- **Continúa a Marx:** mismo método aplicado al sistema mundial.
+- **Anticipa a Mariátegui (F2):** Mariátegui aplica este marco al Perú andino.
+- **Premisa de la teoría de la dependencia (Marini, Cardoso, F2 opcional).**
+- **Será criticado por Hayek (siguiente bloque):** Hayek niega la "tendencia natural" al monopolio que Lenin afirma.
+
+**Punto de naufragio:** ninguno técnico — texto claro y polémico. Riesgo: leerlo como **mero panfleto**. Es análisis riguroso disfrazado de panfleto por necesidad política.
+
+**Salida medible:**
+
+- **N2:** enumeras los 5 rasgos del imperialismo según Lenin.
+- **N3:** aplicas el marco leninista al sistema actual (BRICS vs G7, China en África, deuda externa LATAM).
+- **N4:** distingues el imperialismo leninista (1900s) del imperialismo neoliberal contemporáneo.
+
+:material-file-document: [PDF marxists.org](https://www.marxists.org/espanol/lenin/obras/1916/el-imperialismo.pdf)
+
+#### Antonio Gramsci — Antología (selección Hoare-Smith · ~250 pp · 25-35 h)
+
+**Por qué este libro:** Gramsci **transforma el marxismo** al descubrir que el poder de clase no es solo coercitivo (Estado, policía, ejército) sino principalmente **hegemónico** — fabricado en cultura, escuelas, religión, sentido común. Esta tesis sobre la **hegemonía cultural** es probablemente la idea política más influyente del siglo XX, leída por izquierdas, derechas y reaccionarios por igual.
+
+**Contexto humano:** prisión fascista, Italia 1929-1937. Gramsci (38 años cuando ingresa) fue líder del PCI; Mussolini lo encarcela con la famosa frase "este cerebro debe dejar de funcionar 20 años". **El cerebro siguió funcionando.** Gramsci escribe sus *Cuadernos* en condiciones brutales (sin libros, con censura, vigilancia constante). Muere en prisión a los 46 años, pero antes produce ~3000 páginas que cambiarán la teoría política.
+
+**Pre-requisitos:** Marx (especialmente teoría de clase). Maquiavelo ayuda (Gramsci dialoga con él en *El Moderno Príncipe*).
+
+**La pregunta clave:** *¿Por qué la clase trabajadora del capitalismo avanzado NO se ha rebelado, contra lo que Marx anticipaba?*
+
+**Conceptos clave:**
+
+- **Hegemonía cultural:** dominación de clase ejercida a través de consenso, no de coacción. Las clases dominadas aceptan el orden como "natural".
+- **Bloque histórico:** alianza específica entre clases que sostiene una hegemonía concreta. NO es solo la burguesía sola — es burguesía + iglesia + intelectuales + capas medias.
+- **Guerra de posición vs guerra de maniobra:** estrategia política. En el Occidente capitalista, la revolución es lenta (guerra de posición en la sociedad civil) — no asalto al palacio de invierno (guerra de maniobra).
+- **Intelectual orgánico:** cada clase produce sus intelectuales propios. La izquierda los necesita.
+
+**Capítulos clave (de la antología Hoare-Smith):** "The Intellectuals", "On Education", "The Modern Prince" completo, "State and Civil Society", "The Study of Philosophy".
+
+**Lecturas paralelas:**
+
+- :material-youtube: [Educatina — Gramsci hegemonía](https://www.youtube.com/watch?v=eVB-7km1XG8)
+- :material-file-document: Stuart Hall — selección sobre Gramsci aplicado a estudios culturales.
+
+**Vinculación:**
+
+- **Premisa de TODA la izquierda contemporánea:** desde Laclau/Mouffe hasta los estudios culturales.
+- **Premisa también de la nueva derecha:** Alain de Benoist y Steve Bannon citan a Gramsci (ironía total).
+- **Anticipa a Crenshaw (transversal feminismo):** matriz de dominación = hegemonía aplicada al género/raza.
+- **Anticipa a Bourdieu** (ausente del plan): habitus + violencia simbólica son herederos de hegemonía.
+
+**Punto de naufragio:** **fragmentariedad**. Los *Cuadernos* no son libro lineal — son fragmentos. La antología te da los más coherentes pero aún así requiere paciencia. Estrategia: lee "The Modern Prince" primero (es el más estructurado), después los demás.
+
+**Salida medible:**
+
+- **N2:** explicas hegemonía cultural con ejemplos contemporáneos.
+- **N3:** identificas un bloque histórico actual (qué alianza de clases sostiene el orden actual de tu país).
+- **N4:** sostienes "guerra de posición" como estrategia política contemporánea y articulas sus diferencias con activismo revolucionario clásico.
+
+:material-file-document: [Selección marxists.org español](https://www.marxists.org/espanol/gramsci/)
 
 ### B. Liberalismo (OBLIGATORIO)
 
-- **Friedrich Hayek — *Camino de servidumbre*** (~250 pp): :material-file-document: [PDF español (Cato Institute, autorizado)](https://www.elcato.org/sites/default/files/camino-de-servidumbre-libro-electronico.pdf)
-- **Karl Popper — *La sociedad abierta y sus enemigos*** (selección Vol. I): :material-internet-archive: [Préstamo digital (Archive.org)](https://archive.org/details/popper-la-sociedad-abierta-y-sus-enemigos-en-2-volumenes)
+#### Friedrich Hayek — *Camino de servidumbre* (1944 · selección caps. 1, 3, 5-7, 10, 15 · ~130 pp · 10-15 h)
+
+**Por qué este libro:** **el manifiesto que define el neoliberalismo del siglo XX**. Hayek argumenta que cualquier planificación económica central — incluso bienintencionada — conduce necesariamente al totalitarismo. Su tesis estructura toda la política económica occidental desde Thatcher-Reagan en adelante. Si quieres entender por qué el "Estado mínimo" se volvió sentido común en 1980, esto es la fuente.
+
+**Contexto humano:** Londres 1944, en plena Segunda Guerra Mundial. Hayek (45 años) es economista austríaco exiliado en la London School of Economics. **Escribe el libro como advertencia a los británicos** que coqueteaban con el socialismo del Partido Laborista. Su tesis: aunque los socialistas son demócratas sinceros, su programa lleva inexorablemente al totalitarismo del que Hayek huyó.
+
+**Pre-requisitos:** Smith (Hayek es el smithianismo radicalizado). Familiaridad con el debate del "cálculo socialista" (Mises-Lange) ayuda.
+
+**La pregunta clave:** *¿Por qué la planificación económica central, aunque busque libertad, produce inevitablemente servidumbre?*
+
+**Conceptos clave:**
+
+- **Imposibilidad del cálculo socialista:** sin precios de mercado, el planificador no tiene información para asignar recursos. El conocimiento está **distribuido en miles de actores**, no concentrado.
+- **Rule of law (Estado de derecho):** garantía formal igual para todos, en contraste con la "justicia social" que requiere discriminar entre casos. Hayek dice que solo el primer concepto es compatible con libertad.
+- **Pendiente totalitaria:** una vez aceptada la planificación parcial, la lógica del sistema fuerza más planificación, hasta el control total.
+- **Orden espontáneo (cosmos vs taxis):** el mercado es orden no diseñado por ningún cerebro — emerge de interacciones locales. Es preferible al orden diseñado precisamente por imprevisible.
+
+**Lecturas paralelas:**
+
+- :material-youtube: Canal Juan Ramón Rallo — su trabajo divulgativo aplica Hayek a debates contemporáneos.
+- :material-file-document: Hayek — *La fatal arrogancia* (1988, selección): la versión madura del argumento.
+
+**Vinculación:**
+
+- **Antagonista directo de Marx, Lenin, Gramsci.**
+- **Será fundamento del neoliberalismo:** Thatcher decía "Hayek fue mi favorito". Pinochet usó hayekianismo aplicado.
+- **Su victoria cultural produce a Fisher (más abajo):** *Realismo capitalista* es diagnóstico de Hayek triunfante.
+- **Premisa de Nozick** (ausente del plan): *Anarquía, Estado y Utopía* es Hayek + Locke en deontología.
+
+**Punto de naufragio:** **disonancia cognitiva** si vienes de simpatía marxista. Lee al adversario en su mejor versión — Hayek NO es un caricato de codicia. Es un pensador serio que aprendió de Mises y vio el fracaso del cálculo soviético desde dentro. Si terminas el libro pensando "este tipo es un idiota", no lo leíste.
+
+**Salida medible:**
+
+- **N2:** explicas el argumento del cálculo socialista en una frase.
+- **N3:** aplicas la crítica hayekiana a un proyecto de planificación actual.
+- **N4:** identificas los límites de Hayek (¿la crítica del cálculo se aplica a planificación parcial o solo a planificación integral?).
+- **N5:** sostienes el debate Hayek-Polanyi: ¿es el mercado "espontáneo" o requiere construcción estatal permanente?
+
+:material-file-document: [PDF español (Cato Institute, autorizado)](https://www.elcato.org/sites/default/files/camino-de-servidumbre-libro-electronico.pdf)
+
+#### Karl Popper — *La sociedad abierta y sus enemigos* (1945 · selección · ~350 pp · 35-50 h)
+
+**Por qué este libro:** Popper formula la **diferencia entre sociedades abiertas y cerradas** que estructura todo el debate liberal-democrático contemporáneo. Su crítica al "historicismo" (la idea de que la historia tiene leyes que predicen el futuro) demuele simultáneamente a Platón, Hegel y Marx. Es el liberalismo en versión filosófico-rigurosa, no económica como Hayek.
+
+**Contexto humano:** Nueva Zelanda 1945. Popper (43 años) es filósofo austríaco exiliado, lejos del centro intelectual europeo, escribiendo durante la Segunda Guerra Mundial. **Dice haberlo escrito como "su contribución a la guerra"** — un análisis de las raíces filosóficas del totalitarismo.
+
+**Pre-requisitos:** Platón (Popper lo critica directamente). Marx (también).
+
+**La pregunta clave:** *¿Cuáles son las raíces filosóficas del totalitarismo y qué tipo de sociedad las puede prevenir?*
+
+**Conceptos clave:**
+
+- **Sociedad abierta:** la que permite la crítica racional, el cambio gradual, la falsabilidad de propuestas. NO es la "democracia liberal" sin más — es un ideal regulativo.
+- **Sociedad cerrada:** la tribal, tradicional, que reprime la crítica. Pero también la "utópica" que reprime el disenso en nombre del fin.
+- **Historicismo:** la creencia falsa de que la historia tiene leyes predecibles. Popper lo critica brutalmente — primero en Platón, después en Hegel, después en Marx.
+- **Ingeniería social fragmentaria vs utópica:** la primera (reformas incrementales) sí es compatible con sociedad abierta; la segunda (revolución totalizadora) lleva al totalitarismo.
+
+**Capítulos clave:** Vol. 1 caps. 1 (historicismo), 4-5 (Platón cambio/naturaleza), 6 (justicia totalitaria), 10 (sociedad abierta y enemigos); Vol. 2 caps. 11-12 (Hegel), 13-17 (Marx método), 23-24 (sociología del conocimiento, racionalismo).
+
+**Lecturas paralelas:**
+
+- :material-file-document: Popper — *La miseria del historicismo* (1957, breve): tesis condensada.
+
+**Vinculación:**
+
+- **Coincide con Hayek** en defensa del liberalismo, pero desde fundamentación filosófica distinta.
+- **Discute con Marx y Hegel** explícitamente.
+- **Premisa de la "tercera vía"** de los 90s (Anthony Giddens).
+- **Será criticado por Foucault** (Bloque XX-Tardío): la "sociedad abierta" presupone un sujeto racional que Foucault niega.
+
+**Punto de naufragio:** la **extensión**. Dos volúmenes ~750 pp completos. **No leas completo** — el consenso académico es selección Vol. 1 sobre Platón + Vol. 2 sobre Marx, saltando Hegel.
+
+**Salida medible:**
+
+- **N2:** distingues sociedad abierta de sociedad cerrada.
+- **N3:** identificas elementos historicistas en discursos políticos actuales.
+- **N4:** evalúas la crítica popperiana a Marx — ¿es decisiva o malinterpreta a Marx?
+
+:material-internet-archive: [Préstamo digital (Archive.org)](https://archive.org/details/popper-la-sociedad-abierta-y-sus-enemigos-en-2-volumenes)
 
 ### C. Conservadurismo (OBLIGATORIO)
 
-- **Edmund Burke — *Reflexiones sobre la Revolución en Francia*** (selección): :material-file-document: [Capítulo de muestra (Alianza)](https://www.alianzaeditorial.es/primer_capitulo/reflexiones-sobre-la-revolucion-en-francia.pdf) + :material-file-document: [Original inglés completo (Gutenberg)](https://www.gutenberg.org/ebooks/15679)
-- **Carl Schmitt — *El concepto de lo político*** (~100 pp): :material-internet-archive: [Préstamo digital (Archive.org)](https://archive.org/details/el-concepto-de-lo-politico-carl-schmitt)
+#### Edmund Burke — *Reflexiones sobre la Revolución en Francia* (1790 · selección ~100 pp · 10-15 h)
+
+**Por qué este libro:** **el manifiesto fundacional del conservadurismo moderno**. Burke critica la Revolución Francesa **mientras está sucediendo** (¡1790, antes del Terror!) y predice con precisión espeluznante que terminará en violencia, dictadura militar y restauración. Su argumento — la sociedad es un organismo lento que NO se rediseña con principios abstractos — sigue siendo la base de todo conservadurismo serio.
+
+**Contexto humano:** Londres 1790. Burke (61 años) es parlamentario whig irlandés. Había apoyado la independencia estadounidense — es importante: NO es un reaccionario en bloque. Es revolucionario en algunos casos, conservador en otros. Su clave: distingue revoluciones que "restauran" tradiciones (EEUU) de las que pretenden inventar desde cero (Francia).
+
+**Pre-requisitos:** Rousseau (Burke lo critica directamente como espíritu de la Revolución). Conocimiento mínimo de la Revolución Francesa.
+
+**La pregunta clave:** *¿Por qué los proyectos políticos basados en principios abstractos universales conducen al desastre?*
+
+**Conceptos clave:**
+
+- **Sociedad como organismo:** la sociedad no es contrato (Rousseau, Locke) — es **tradición acumulada**. Sus instituciones tienen sabiduría que sus diseñadores no comprenden.
+- **Prejuicio (en sentido positivo):** los prejuicios heredados condensan la experiencia de generaciones. NO debe descartarse ligeramente.
+- **Cambio prudente vs revolución:** Burke acepta cambio, pero solo el **gradual**, respetando lo heredado.
+- **Crítica a los derechos abstractos:** los "derechos del hombre" sin contexto son peligrosos — los derechos reales son los heredados de tradiciones concretas.
+
+**Lecturas paralelas:**
+
+- :material-youtube: Roger Scruton — conferencias sobre conservadurismo (inglés con subs).
+
+**Vinculación:**
+
+- **Contradice directamente a Rousseau y Paine** (Thomas Paine respondió con *Rights of Man*).
+- **Premisa del conservadurismo entero:** Oakeshott, Scruton, MacIntyre razonan dentro de Burke.
+- **Será reapropiado por Hayek:** la teoría hayekiana del orden espontáneo es Burke + Smith.
+
+**Punto de naufragio:** prosa del XVIII. Léelo en selección (extractos sobre derechos abstractos, tradición, Price).
+
+**Salida medible:**
+
+- **N2:** enuncias el argumento burkeano contra los derechos abstractos.
+- **N3:** aplicas el marco burkeano a una propuesta política actual de reforma radical.
+- **N4:** identificas dónde Burke acepta cambio (la Revolución estadounidense) y dónde lo rechaza, y por qué.
+
+:material-file-document: [Capítulo de muestra (Alianza)](https://www.alianzaeditorial.es/primer_capitulo/reflexiones-sobre-la-revolucion-en-francia.pdf) + :material-file-document: [Original inglés completo (Gutenberg)](https://www.gutenberg.org/ebooks/15679)
+
+#### Carl Schmitt — *El concepto de lo político* (1932 · completo · ~100 pp · 12-18 h)
+
+**Por qué este libro:** Schmitt formula **la distinción más radical sobre qué es la política**: lo político NO es un dominio (junto a economía, moral, estética) — es una **intensidad** que aparece cuando una distinción se vuelve amigo/enemigo. Su tesis es brutalmente simple y peligrosa: donde hay decisión sobre quién es enemigo, hay política. Esta tesis es ineludible para entender el siglo XX y XXI.
+
+**Contexto humano:** Alemania 1932, último año de Weimar. Schmitt (44 años) es jurista conservador católico que está a meses de afiliarse al Partido Nazi (lo hará en 1933). **Esta complicidad con el nazismo es real y no debe ocultarse** — pero su análisis sobrevive a su biografía: izquierdas (Mouffe, Agamben) y derechas (alt-right contemporánea) lo leen activamente.
+
+**Pre-requisitos:** Weber (Schmitt lo radicaliza). Familiaridad con Weimar.
+
+**La pregunta clave:** *¿Qué es lo político y por qué no se puede reducir a ningún otro dominio?*
+
+**Conceptos clave:**
+
+- **Distinción amigo/enemigo:** **el** criterio de lo político. NO es enemistad personal (psicológica); es enemistad pública (existencial).
+- **Soberano = quien decide sobre la excepción:** Schmitt define la soberanía no por su origen (Dios, pueblo) sino por su función (decidir cuándo la ley se suspende).
+- **Liberalismo como antipolítica:** el liberalismo trata de reducir lo político a discusión racional sin enemigos. Schmitt dice: esto solo es posible si **se oculta** quién es el enemigo real, no si **no hay** enemigo.
+- **Decisionismo:** contra el formalismo legal. En momentos críticos, alguien tiene que **decidir**, y la decisión no se deduce de normas.
+
+**Lecturas paralelas:**
+
+- :material-file-document: Schmitt — *Teología política* (1922, ~80 pp): tesis aún más radical sobre soberanía.
+
+**Vinculación:**
+
+- **Hereda de Hobbes:** el soberano hobbesiano que decide sobre la excepción es ancestro directo.
+- **Premisa de Agamben (F5):** *Estado de excepción* es Schmitt actualizado.
+- **Premisa de Mbembe (F5) vía Agamben:** necropolítica usa la distinción soberano/excepción.
+- **Discute con Habermas:** "acción comunicativa" presupone que se puede salir de la distinción amigo/enemigo; Schmitt dice que no.
+- **Es invocado tanto por derechas (Bannon, alt-right) como izquierdas (Mouffe, Žižek).**
+
+**Punto de naufragio:** **disonancia moral** por la biografía nazi de Schmitt. Lee al pensador, no al hombre — su análisis del poder soberano es preciso aunque su política sea repudiable.
+
+**Salida medible:**
+
+- **N2:** explicas la distinción amigo/enemigo.
+- **N3:** identificas un momento "schmittiano" en política actual (suspensión de la norma, decisión sobre el enemigo).
+- **N4:** sostienes: ¿es la distinción amigo/enemigo descriptiva (así es la política) o normativa (así debe ser)?
+
+:material-internet-archive: [Préstamo digital (Archive.org)](https://archive.org/details/el-concepto-de-lo-politico-carl-schmitt)
 
 ### D. Totalitarismo y crítica cultural (TRANSVERSAL · ~4 semanas en paralelo)
 
-- **Hannah Arendt — *Los orígenes del totalitarismo*** (Parte III, ~250 pp): :material-internet-archive: [Préstamo digital (Archive.org español)](https://archive.org/details/arendt-hannah.-los-origenes-del-totalitarismo-ocr-2006)
-- **Mark Fisher — *Realismo capitalista*** (~90 pp): :material-file-document: [PDF español (Caja Negra, editorial oficial)](https://cajanegraeditora.com.ar/wp-content/uploads/2018/12/Realismo.capitalista_Fisher_CajaNegra.pdf)
-- **Byung-Chul Han — *La sociedad del cansancio*** (~80 pp): copyright vigente, biblioteca o compra.
+#### Hannah Arendt — *Los orígenes del totalitarismo* (1951 · Parte III ~300 pp · 35-45 h)
+
+**Por qué este libro:** Arendt **inventa el concepto de "totalitarismo"** como categoría distinta de dictadura, autoritarismo o tiranía. Sin Arendt, "totalitario" sería adjetivo retórico — con ella, es categoría analítica. **El** texto al que vuelve toda discusión sobre regímenes contemporáneos (Putin, Xi, Trump, Orbán).
+
+**Contexto humano:** Nueva York 1951. Arendt (45 años) es filósofa judía alemana que escapó del nazismo en 1933 y vivió como apátrida 18 años. **Escribe el libro intentando entender lo que casi la mata.** Su mentor doctoral — Heidegger — había sido nazi entusiasta. **Es traición filosófica personal procesada en libro.**
+
+**Pre-requisitos:** mínimo conocimiento de Alemania nazi y URSS estalinista.
+
+**La pregunta clave:** *¿Por qué el XX produjo un régimen radicalmente nuevo que rompe con todas las categorías políticas previas?*
+
+**Conceptos clave:**
+
+- **Totalitarismo ≠ dictadura:** la dictadura controla el poder; el totalitarismo busca **transformar la naturaleza humana** vía terror sistemático.
+- **Ideología totalitaria:** explica todo pasado/presente/futuro desde una sola "ley histórica" (raza, clase).
+- **Sociedad atomizada:** prerrequisito del totalitarismo — individuos desconectados de comunidades reales.
+- **Banalidad del mal** (de *Eichmann*, 1963): ausencia de pensamiento crítico, no malicia demoníaca.
+- **Pluralidad:** opuesto de totalitarismo. Acción entre iguales distintos, no consenso forzado.
+
+**Capítulos:** Parte III completa (caps. 10-13). Parte II cap. 9 (Estado-nación, derechos del hombre) si tiempo.
+
+**Lecturas paralelas:** :material-youtube: [Arendt totalitarismo (vídeo español)](https://www.youtube.com/watch?v=MdefaBhhgaQ); Arendt — *Eichmann en Jerusalén* (1963).
+
+**Vinculación:**
+
+- **Discute con Schmitt:** rechaza la lógica amigo/enemigo.
+- **Discute con Heidegger:** ser sin política es complicidad.
+- **Anticipa el debate contemporáneo sobre populismos.**
+
+**Punto de naufragio:** **densidad histórica**. Asume conocimiento profundo del antisemitismo europeo y el imperialismo africano (Partes I y II). Si te perdés, salta directo a Parte III (la más teórica).
+
+**Salida medible:**
+
+- **N2:** distingues totalitarismo de dictadura.
+- **N3:** evalúas si un régimen actual califica como totalitario o autoritario.
+- **N4:** identificas las condiciones sociales prerrequisito (atomización, crisis del Estado-nación).
+
+:material-internet-archive: [Préstamo digital (Archive.org español)](https://archive.org/details/arendt-hannah.-los-origenes-del-totalitarismo-ocr-2006)
+
+#### Mark Fisher — *Realismo capitalista* (2009 · completo ~80 pp · 4-6 h)
+
+**Por qué:** Fisher diagnostica **la victoria cultural total del capitalismo** post-1989. "Es más fácil imaginar el fin del mundo que el fin del capitalismo" — su frase emblemática captura cómo el neoliberalismo se naturalizó. Es el **negativo fotográfico de Hayek**.
+
+**Contexto humano:** UK 2009, post-crisis financiera. Fisher (41 años) bloguero (k-punk), crítico cultural marxista. **Se suicidó en 2017** tras larga depresión. Inseparable de su análisis del "malestar mental" como sistémico.
+
+**La pregunta clave:** *¿Por qué después de 2008 nadie pudo imaginar una alternativa al capitalismo?*
+
+**Conceptos clave:**
+
+- **Realismo capitalista:** no ideología, **horizonte mental**. "No hay alternativa" (Thatcher).
+- **Burocracia neoliberal:** paradoja — más mercado = MÁS papeleo (auditorías, métricas).
+- **Crisis mental como síntoma sistémico:** depresión y ansiedad como enfermedades del orden, no individuales.
+- **Hauntología:** nostalgia por futuros perdidos. Cultura del XXI es repetición sin novedad.
+
+**Vinculación:** Hayek triunfante → Fisher es el diagnóstico cultural. Anticipa toda la "post-política" contemporánea.
+
+**Salida medible:** N3 — aplicar "realismo capitalista" a un fenómeno cultural reciente (Netflix, gaming, redes).
+
+:material-file-document: [PDF Caja Negra (legal)](https://cajanegraeditora.com.ar/wp-content/uploads/2018/12/Realismo.capitalista_Fisher_CajaNegra.pdf)
+
+#### Byung-Chul Han — *La sociedad del cansancio* (2010 · completo ~80 pp · 4-6 h)
+
+**Por qué:** Han diagnostica una **mutación del poder en el XXI**: ya no opera por prohibición (Foucault) sino por **exigencia de auto-explotación**. El sujeto contemporáneo se sobre-exige voluntariamente. Burnout, depresión, TDAH como síntomas estructurales.
+
+**Contexto humano:** filósofo surcoreano-alemán formado en Friburgo. Prosa breve, aforística. Cada libro ~80 pp.
+
+**La pregunta clave:** *¿Cómo mutó el poder del cuerpo disciplinado al alma agotada?*
+
+**Conceptos clave:** sociedad del rendimiento (no de la disciplina), positividad excesiva, violencia neuronal vs viral, vita activa sin vita contemplativa.
+
+**Vinculación:** continúa y revisa a Foucault. Premisa contemporánea complementaria a Fisher.
+
+**Salida medible:** N3 — aplicar el marco a la cultura "hustle" o productividad obsesiva.
+
+:material-alert-circle: Copyright vigente, biblioteca o compra.
 
 ### E. Feminismo interseccional (TRANSVERSAL · ~4 semanas en paralelo)
 
 **Entrada principal** (elige una):
 
-- **bell hooks — *El feminismo es para todo el mundo*** (~150 pp, la mejor puerta): :material-file-document: [PDF español (Traficantes de Sueños, legal abierto)](https://traficantes.net/sites/default/files/pdfs/TDS_map47_hooks_web.pdf)
-- **Angela Davis — *Mujeres, raza y clase*** (~250 pp, clásico): :material-file-document: [PDF español (marxists.org)](https://www.marxists.org/espanol/tematica/mujer/autores/davis/angela-davis-1981-mujeres-raza-y-clase.pdf)
-- **Patricia Hill Collins — *Black Feminist Thought*** (Cap. 11): :material-internet-archive: [Préstamo digital (Archive.org, inglés)](https://archive.org/details/blackfeministtho0000hill)
+#### bell hooks — *El feminismo es para todo el mundo* (2000 · completo ~150 pp · 6-8 h)
+
+**Por qué este libro:** la **mejor puerta de entrada al feminismo serio**. hooks escribe **para que cualquiera entienda** — no para academia. Su tesis: el feminismo NO es "mujeres contra hombres" — es **un movimiento contra el sistema sexista de dominación**. Tan precisa la definición que **mujeres pueden ser sexistas y hombres pueden ser feministas**. Saber esta distinción te ahorra años de debate confuso.
+
+**Contexto humano:** Estados Unidos. bell hooks (1952-2021) — escribía su nombre en minúsculas para descentrar la importancia del individuo. Nació Gloria Watkins en Kentucky, hija de obreros negros. Profesora durante décadas en universidades públicas (no élite). **Escribe deliberadamente accesible** porque el feminismo académico la había alienado.
+
+**Pre-requisitos:** mínima sensibilidad sobre desigualdad de género.
+
+**La pregunta clave:** *¿Qué es exactamente el feminismo y por qué casi todo el mundo lo malentiende?*
+
+**Conceptos clave:**
+
+- **Patriarcado capitalista supremacista blanco:** la fórmula completa. NO es solo "patriarcado" — es la **intersección** de género + clase + raza.
+- **Feminismo como movimiento contra el sistema sexista:** no contra los hombres individuales. Distinción crítica.
+- **Sororidad política:** alianza estratégica, no afinidad emocional automática.
+- **Educación feminista popular:** el feminismo se aprende, no se siente espontáneamente.
+
+**Vinculación:**
+
+- **Aplica Gramsci al patriarcado:** patriarcado como hegemonía cultural.
+- **Anticipa a Crenshaw:** introducción accesible a interseccionalidad.
+- **Contradice a Mill:** el "daño" milleano es físico-tangible; hooks dice que el patriarcado daña estructuralmente.
+
+**Punto de naufragio:** ninguno. **El libro más accesible de Fase 3 entera.** Empieza por aquí si la fase te abruma.
+
+**Salida medible:**
+
+- **N2:** define "feminismo" según hooks sin caricaturizarlo.
+- **N3:** identifica una práctica patriarcal naturalizada en tu entorno cotidiano.
+- **N4:** distingue feminismo de las simplificaciones mediáticas.
+
+:material-file-document: [PDF español (Traficantes de Sueños, legal abierto)](https://traficantes.net/sites/default/files/pdfs/TDS_map47_hooks_web.pdf)
+
+#### Angela Davis — *Mujeres, raza y clase* (1981 · completo, priorizar caps. 1, 5, 11-13 · ~250 pp · 14-18 h)
+
+**Por qué este libro:** **el clásico interseccional avant la lettre** — Davis escribe esto 10 años ANTES de que Crenshaw acuñara "interseccionalidad". Su análisis del feminismo sufragista estadounidense del XIX demuestra que las primeras feministas blancas tradicionaron a sus aliadas negras. **Sin Davis, no entiendes por qué el feminismo afroamericano desconfía del feminismo blanco institucional.**
+
+**Contexto humano:** California. Davis (1944-) fue militante del Black Panther Party y del PC USA. Acusada de homicidio en 1970 (gunfight relacionado con una toma de rehenes), pasó 18 meses presa antes de ser absuelta. **Escribe el libro como activista con autoridad de quien vivió la cárcel política.** Después fue profesora distinguida.
+
+**Pre-requisitos:** Marx ayuda (Davis es marxista). Sensibilidad sobre racismo estadounidense.
+
+**La pregunta clave:** *¿Por qué los movimientos por la liberación de la mujer y por la liberación negra se han antagonizado históricamente, y cómo se reconstruye la alianza?*
+
+**Conceptos clave:**
+
+- **Traición sufragista:** las feministas blancas del XIX (Stanton, Anthony) optaron por pactar con racismo sureño para ganar el voto femenino. Davis lo documenta despiadadamente.
+- **Trabajo doméstico como categoría política:** quién hace el trabajo reproductivo y por qué. Anticipa el feminismo materialista.
+- **Triple opresión:** raza + género + clase como sistemas que se refuerzan, no se suman.
+
+**Capítulos clave:** 1 (legado de la esclavitud), 5 (sufragio y racismo), 11-13 (violación, racismo, trabajo doméstico). Si tiempo limitado, lee solo estos (~120 pp).
+
+**Vinculación:**
+
+- **Premisa de Collins y Crenshaw:** ambas presuponen el trabajo de Davis.
+- **Premisa de Lélia González (F4):** González aplica Davis a Brasil.
+
+**Salida medible:** N3 — identifica un caso contemporáneo donde "feminismo blanco" y "antirracismo" entran en tensión.
+
+:material-file-document: [PDF español (marxists.org)](https://www.marxists.org/espanol/tematica/mujer/autores/davis/angela-davis-1981-mujeres-raza-y-clase.pdf)
+
+#### Patricia Hill Collins — *Black Feminist Thought* (1990 · selección caps. 1, 2, 5, 11, 12 · ~180 pp · 22-30 h)
+
+**Por qué:** Collins **sistematiza académicamente** lo que hooks divulga. Su concepto de **"matriz de dominación"** es la formulación más rigurosa de cómo raza, género, clase y sexualidad operan juntos como red, no como vectores aditivos. Es **el** texto de la academia feminista negra desde 1990.
+
+**Contexto humano:** socióloga estadounidense (1948-), profesora en University of Maryland y antes Cincinnati. Hija de obreros. **Pasó la mayor parte de su carrera fuera de las universidades de élite** — escribe desde el margen académico aunque su obra acabó en el centro.
+
+**La pregunta clave:** *¿Cuál es la epistemología propia del feminismo negro, y cómo se diferencia de la blanca dominante?*
+
+**Conceptos clave:**
+
+- **Matriz de dominación:** la metáfora es **red**, no vector. Cada eje (raza, género, clase, sexualidad) se entrecruza con los demás. Un sujeto puede ser dominado en uno y dominante en otro.
+- **Epistemología feminista negra:** conocimiento situado, basado en experiencia vivida, validado en comunidad. Crítica al modelo positivista universalista.
+- **Imágenes de control:** los estereotipos sobre mujeres negras (mammy, jezebel, sapphire) son mecanismos de poder, no representaciones inocentes.
+
+**Capítulos clave:** 1 (política del pensamiento feminista negro), 2 (imágenes de control), 5 (rasgos distintivos), 11 (epistemología feminista negra — **el más importante**), 12 (síntesis).
+
+**Vinculación:** Sistematiza a Davis. Premisa de Crenshaw.
+
+**Salida medible:** N4 — distingue interseccionalidad como suma (Crenshaw temprano) y como matriz (Collins).
+
+:material-internet-archive: [Préstamo digital (Archive.org, inglés)](https://archive.org/details/blackfeministtho0000hill)
 
 **Paper fundacional corto (gratis, leer SIEMPRE):**
 
-- **Kimberlé Crenshaw — *"Mapping the Margins"*** (1991): :material-file-document: [PDF Columbia Law School (inglés)](https://blogs.law.columbia.edu/critique1313/files/2020/02/1229039.pdf)
+#### Kimberlé Crenshaw — *"Mapping the Margins"* (1991, Stanford Law Review · paper ~67 pp · 5-7 h)
 
-**Puente con descolonialidad (recomendado):**
+**Por qué:** Crenshaw acuñó "interseccionalidad" en 1989 y la sistematizó en este paper de 1991. **El texto más citado en feminist theory contemporánea.** Sin Crenshaw, no entiendes ni el feminismo del XXI ni las "wars" culturales sobre identidad.
 
-- **Chandra Mohanty — *"Under Western Eyes"***: :material-file-document: [PDF Simon Fraser University](https://www.sfu.ca/~decaste/OISE/page2/files/MohantyWesternEyes.pdf)
+**Contexto humano:** abogada constitucionalista, profesora en UCLA y Columbia. Trabajaba con casos legales de mujeres negras víctimas de violencia doméstica — descubrió que los marcos legales (uno para discriminación racial, otro para discriminación de género) **dejaban afuera** a las mujeres negras porque no podían encajar en ninguno solo.
+
+**La pregunta clave:** *¿Por qué las categorías legales y políticas existentes invisibilizan a quienes sufren múltiples opresiones simultáneas?*
+
+**Conceptos clave:**
+
+- **Interseccionalidad estructural:** cómo los sistemas se entrecruzan.
+- **Interseccionalidad política:** cómo movimientos sociales fallan a quienes están en intersecciones.
+- **Interseccionalidad representacional:** cómo los medios y la cultura reproducen exclusiones.
+
+**Vinculación:** sistematiza el trabajo de Davis, Collins, hooks. **Es lectura OBLIGATORIA** del Bloque feminista.
+
+**Salida medible:** N3 — identifica un caso contemporáneo donde marcos políticos clásicos invisibilizan a sujetos interseccionales.
+
+:material-file-document: [PDF Columbia Law School (inglés)](https://blogs.law.columbia.edu/critique1313/files/2020/02/1229039.pdf)
+
+**Puente con descolonialidad:**
+
+#### Chandra Mohanty — *"Under Western Eyes"* (1984 · paper ~30 pp · 3-4 h)
+
+**Por qué:** Mohanty es **el puente más limpio entre feminismo e investigación decolonial**. Su tesis: el feminismo occidental construye a "la mujer del Tercer Mundo" como objeto victimizado homogéneo, **reproduciendo el colonialismo epistémico** del que decía liberar. Si no lees a Mohanty antes de leer feminismo decolonial latinoamericano (Lugones, González, Segato), te perdes el linaje.
+
+**Contexto humano:** Mohanty es académica india-estadounidense, profesora en Syracuse University. Escribió este paper como crítica a las antologías feministas estadounidenses que homogeneizaban a "las mujeres del Tercer Mundo" como categoría única.
+
+**La pregunta clave:** *¿Cómo el feminismo occidental construye discursivamente al "Tercer Mundo" y por qué eso es problemático?*
+
+**Conceptos clave:**
+
+- **Construcción discursiva del Tercer Mundo:** las mujeres no occidentales aparecen como víctimas pasivas sin agencia.
+- **Colonialismo epistémico:** producir conocimiento desde Occidente sobre el resto del mundo. El feminismo blanco lo reproduce involuntariamente.
+- **Heterogeneidad real:** las mujeres del sur global son **muchas y distintas**, no una categoría.
+
+**Vinculación:** premisa de Lugones, Cusicanqui, Lélia González.
+
+**Salida medible:** N3 — detecta cuándo un análisis feminista occidental sobre situaciones del sur global cae en homogeneización.
+
+:material-file-document: [PDF Simon Fraser University](https://www.sfu.ca/~decaste/OISE/page2/files/MohantyWesternEyes.pdf)
 
 **En español:**
 
