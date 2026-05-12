@@ -22,6 +22,28 @@ Al terminar, sabrás:
 
 ---
 
+## :material-history: Contexto histórico
+
+Esta fase aborda **el mundo actual** (1991-hoy) y **los procesos largos de descolonización**.
+
+- **Descolonización africana y asiática (1945-1975)** — India 1947, Argelia 1962, África subsahariana 1957-75. Es el contexto donde escriben **Fanon, Mbembe, Said**.
+- **Posguerra Fría (1991-hoy)** — caída del Muro, fin de la URSS, hiperglobalización, 11-S, crisis 2008, ascenso chino, COVID, guerra de Ucrania. Es el contexto de **Mearsheimer, Han, Fisher**.
+- **Gandhi (1909)** escribe *Hind Swaraj* desde Sudáfrica, formulando una vía anticolonial no-violenta.
+- **Ambedkar (1936)** discute con Gandhi desde la India misma: el problema NO es solo el colonialismo británico, sino la casta hindú que el nacionalismo gandhiano no resuelve.
+
+**Lecturas/vídeos clave:**
+
+- :material-youtube: [Crash Course WH ep. 40 "Decolonization"](https://www.youtube.com/watch?v=Ev6PqAGLVqo).
+- :material-youtube: Memorias de Pez — series sobre Argelia, Vietnam, India.
+- :material-movie-open: Adam Curtis — *HyperNormalisation* (BBC, 2016). En [Archive.org](https://archive.org/details/HyperNormalisation). Brillante para entender el desorden post-1991.
+- :material-file-document: **Ferro — *Historia de las colonizaciones* Parte III** — procesos de descolonización.
+- :material-file-document: **Hobsbawm — *Historia del siglo XX* cap. 7 "El fin de los imperios"** + **epílogo**.
+- :material-file-document: **Judt — *Postguerra* Parte IV** (1989-2005).
+
+Ver módulo dedicado: [Historia (M4)](historia.md).
+
+---
+
 ## :material-book-open-variant: Libros
 
 ### 1. John Mearsheimer — *The Tragedy of Great Power Politics* (~500 pp, selección)

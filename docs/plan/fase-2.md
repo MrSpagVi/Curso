@@ -22,6 +22,26 @@ Al terminar, sabrás:
 
 ---
 
+## :material-history: Contexto histórico
+
+Esta fase es **incomprensible sin la Revolución Industrial y el 1848 europeo**, más la formación del orden oligárquico-exportador latinoamericano.
+
+- **Smith (1723-1790)** — Escocia ilustrada, génesis del capitalismo manufacturero.
+- **Marx (1818-1883)** — Manchester industrial, revoluciones de 1848, Comuna de París 1871. Escribe *El Capital* (1867) en el momento exacto en que el capitalismo industrial se globaliza.
+- **Mariátegui (1894-1930)** — Perú oligárquico de los años 20, cuestión indígena andina, primer marxismo latinoamericano.
+- **Teoría de la dependencia (1960-70)** — auge del estructuralismo CEPAL en Santiago, dictadura brasileña (Cardoso exiliado), Salvador Allende, golpes militares del Cono Sur.
+
+**Lecturas/vídeos clave:**
+
+- :material-youtube: [Crash Course WH ep. 32-33](https://www.youtube.com/watch?v=zhL5DCizj5c) — Industrial Revolution + Capitalism/Socialism.
+- :material-youtube: [Crash Course WH ep. 31](https://www.youtube.com/watch?v=Y5_4MJTTeZk) — Latin American Revolutions.
+- :material-file-document: **Hobsbawm — *La era de la revolución* cap. 2 "La revolución industrial"** + **Hobsbawm — *La era del capital* caps. 1-3** ([Archive.org](https://archive.org/search?query=hobsbawm)).
+- :material-file-document: **Halperin Donghi caps. 2-4** ([Archive.org](https://archive.org/search?query=halperin+donghi)) — base para entender Mariátegui.
+
+Ver módulo dedicado: [Historia (M4)](historia.md).
+
+---
+
 ## :material-book-open-variant: Libros (en orden)
 
 ### 1. Ha-Joon Chang — *Economía para el 99%* o *23 cosas que no te cuentan sobre el capitalismo*

@@ -22,6 +22,29 @@ Al terminar, sabrás:
 
 ---
 
+## :material-history: Contexto histórico
+
+Esta fase no se entiende sin **dos contextos paralelos**: España posfranquista (Bueno, Armesilla) y América Latina de las dictaduras y la teología de la liberación.
+
+- **Bolívar (1815)** escribe la *Carta de Jamaica* en el exilio, tras el fracaso de la Primera República venezolana. Está a 5 años de Ayacucho.
+- **Martí (1891)** escribe *Nuestra América* desde el exilio en NY, 7 años antes de la guerra hispano-estadounidense que separa Cuba de España.
+- **Mariátegui (1928)** publica los *7 Ensayos* en el Perú oligárquico de Leguía — primer marxismo latinoamericano.
+- **Cinco emancipaciones (1968-1977)** — el **giro latinoamericano simultáneo**: Vaticano II, dictaduras militares del Cono Sur, masacre de Tlatelolco, Allende, Pinochet, Operación Cóndor. Freire publica *Pedagogía del oprimido* en 1968; Gutiérrez funda la Teología de la Liberación en 1971.
+- **Gustavo Bueno** desarrolla el Materialismo Filosófico tras la muerte de Franco (1975) y a lo largo de la Transición española.
+- **Rivera Cusicanqui** escribe desde la Bolivia post-1985 (entrada del Tipnis indígena en política).
+
+**Lecturas/vídeos clave:**
+
+- :material-youtube: [Crash Course WH ep. 31](https://www.youtube.com/watch?v=Y5_4MJTTeZk) — independencias latinoamericanas.
+- :material-youtube: Memorias de Pez — Transición española.
+- :material-movie-open: *La batalla de Chile* (Patricio Guzmán, 1979, documental). Gratis en [Archive.org](https://archive.org/details/labatalladechileiii).
+- :material-file-document: **Halperin Donghi — *Historia contemporánea de América Latina* caps. finales** — populismos y dictaduras del 70.
+- :material-file-document: **Judt — *Postguerra*** secciones sobre España.
+
+Ver módulo dedicado: [Historia (M4)](historia.md).
+
+---
+
 ## :material-book-open-variant: Cinco bloques
 
 ### Bloque A — Clásicos de independencia (apertura, ~25 pp total)

@@ -26,7 +26,12 @@ Cada fase tiene su propia página detallada con objetivos, libros, vídeos embeb
 - :material-book-open: **[Fase 4 — Tradiciones iberoamericanas](fase-4.md)** *(Mes 18-22)* — Bueno, Dussel, Cusicanqui, Freire.
 - :material-book-open: **[Fase 5 — Síntesis y voz propia](fase-5.md)** *(Mes 23-28)* — Mearsheimer, Mbembe, ensayo final.
 
-Cada página tiene: objetivo de la fase, libros con enlaces a PDFs/HTMLs verificados, vídeos embebidos, plan semanal sugerido, preguntas de retención (active retrieval) y autoevaluación Bloom 1-6.
+Cada página tiene: objetivo, **contexto histórico**, libros con enlaces a PDFs/HTMLs verificados, vídeos embebidos, plan semanal sugerido, preguntas de retención (active retrieval) y autoevaluación Bloom 1-6.
+
+## Módulos transversales
+
+- :material-history: **[Módulo Historia (M4)](historia.md)** — Hobsbawm + Halperin Donghi + Judt + Ferro. Lectura paralela durante todo el plan para contextualizar a cada autor.
+- :material-book-open-page-variant: **[Bibliografía completa](../bibliografia.md)** — tabla con los 53 libros del plan: veredicto (completo/selección), páginas, tiempo, estado de disponibilidad y enlaces.
 
 ## Principio único
 

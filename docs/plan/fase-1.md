@@ -22,6 +22,23 @@ Al terminar, sabrás:
 
 ---
 
+## :material-history: Contexto histórico
+
+Esta fase cubre **2400 años** (Grecia clásica del siglo V a.C. → Inglaterra victoriana del XIX), así que la mejor estrategia es **un capítulo o vídeo de contexto por autor**:
+
+| Autor | Momento histórico | Vídeo/lectura recomendada |
+|-------|-------------------|---------------------------|
+| **Platón** (s. V-IV a.C.) | Atenas tras la Guerra del Peloponeso, juicio a Sócrates 399 a.C. | [Crash Course WH ep. 5](https://www.youtube.com/watch?v=Q-mkVSasZIM) (Persas y griegos, 12 min) |
+| **Maquiavelo** (1469-1527) | Florencia republicana, exilio bajo los Médici | [Crash Course WH ep. 22](https://www.youtube.com/watch?v=Vufba_ZcoR0) "Was the Renaissance a Thing?" |
+| **Hobbes** (1588-1679) | **Guerra Civil Inglesa (1642-51)** — Hobbes escribió *Leviatán* aterrorizado por el caos | [Yale HIST 202 lec. 3-5](https://oyc.yale.edu/history/hist-202) (Merriman) |
+| **Locke** (1632-1704) | **Revolución Gloriosa (1688)** — el Estado limitado como respuesta al absolutismo | [Crash Course Eur ep. 14-15](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H) |
+| **Rousseau** (1712-1778) | Ilustración + tensión hacia 1789 | [Crash Course WH ep. 29 "La Revolución Francesa"](https://www.youtube.com/watch?v=lTTvKwCylFY) |
+| **Mill** (1806-1873) | Industrialización británica, era victoriana, expansión imperial | [Hobsbawm *Era del capital* caps. 1-3](https://archive.org/search?query=hobsbawm+era+capital) |
+
+Ver el módulo dedicado: [Historia (M4)](historia.md).
+
+---
+
 ## :material-book-open-variant: Libros
 
 ### Libro guía (paralelo, no cover-to-cover)

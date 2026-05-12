@@ -22,6 +22,28 @@ Al terminar, sabrás:
 
 ---
 
+## :material-history: Contexto histórico
+
+Esta fase cubre el **"siglo XX corto" (1914-1991)** según Hobsbawm: dos guerras mundiales, Holocausto, Guerra Fría, descolonización, movimientos sociales.
+
+- **Weber** escribe *La política como vocación* en 1919, en la Alemania de Weimar recién derrotada, intentando entender qué tipo de político necesita la democracia.
+- **Lenin** escribe *Imperialismo* en 1916 desde el exilio suizo, en plena Primera Guerra Mundial.
+- **Schmitt** (1932) escribe en la última Weimar, anticipando el régimen nazi al que se adhirió.
+- **Hayek** (1944) escribe *Camino de servidumbre* desde el Reino Unido en guerra, advirtiendo contra la planificación.
+- **Arendt** (1951) escribe *Los orígenes del totalitarismo* tras el Holocausto y el inicio del estalinismo.
+- **Crenshaw, hooks, Davis** (1980-90) escriben tras el movimiento por los derechos civiles, el feminismo de la segunda ola y las luchas anti-apartheid.
+
+**Lecturas/vídeos clave:**
+
+- :material-youtube: [Crash Course European History ep. 34-39](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H) — entreguerras + WW2 + Cold War.
+- :material-youtube: Memorias de Pez — series sobre Weimar, nazismo, Guerra Fría.
+- :material-file-document: **Hobsbawm — *Historia del siglo XX* caps. 3-9** ([Archive.org](https://archive.org/search?query=hobsbawm+siglo+xx)) — lectura **central** de esta fase.
+- :material-file-document: **Judt — *Postguerra* Prólogo + Partes I-II** ([Archive.org](https://archive.org/search?query=judt+postwar)) — para la Guerra Fría europea.
+
+Ver módulo dedicado: [Historia (M4)](historia.md).
+
+---
+
 ## :material-book-open-variant: Lectura fija de entrada
 
 ### Max Weber — *La política como vocación* (1919, ~60 pp)
