@@ -182,12 +182,111 @@ Vuelves a un libro de Fases 1-4 con **todo el contexto adquirido**. Vas a leerlo
 - **N2:** explicas swaraj y satyagraha.
 - **N3:** aplicas Gandhi a un debate actual sobre desarrollo, descrecimiento o ecología.
 - **N4:** identificas la tensión Gandhi-Ambedkar como el debate INTERNO indio sobre qué se libera al "descolonizar".
-- **Confucio — *Analectas***: :material-file-document: [Trad. Suárez Girard (CETR)](https://cetr.net/files/LUN%20YU%20es.pdf) (selección de Libros I, II, IV, XII)
-- **Amartya Sen — *Identidad y violencia***: copyright (solo fragmento gratis), buscar biblioteca.
+#### Confucio — *Analectas* (s. V a.C. · selección libros I-IV, VI, XII, XV · ~80 pp · 8-12 h)
+
+**Por qué este libro:** la **base del pensamiento político del este de Asia durante 2500 años**. Sin Confucio, no entiendes China, Corea, Japón ni Vietnam — ni su política moderna. Su tesis fundamental: el orden político descansa en el cultivo moral del gobernante (junzi). NO es democracia ni autocracia — es algo conceptualmente distinto que la filosofía política occidental rara vez incorpora.
+
+**Contexto humano:** China 551-479 a.C. Confucio fue funcionario menor en estados feudales en guerra (período de Primaveras y Otoños). Pasó la vida buscando un príncipe que aplicara sus ideas — nunca lo encontró. **Sus seguidores compilaron las *Analectas* después de su muerte** — son anécdotas y diálogos, no tratado sistemático.
+
+**Pre-requisitos:** ninguno. Familiaridad básica con cultura china ayuda.
+
+**La pregunta clave:** *¿Cuál es la base del orden político sano, y cómo se forma un gobernante virtuoso?*
+
+**Conceptos clave:**
+
+- **Ren (仁):** la "humanidad" o "benevolencia". Virtud cardinal. No es ley moral — es disposición cultivada.
+- **Junzi (君子):** el "hombre superior", el gobernante moral. El ideal no es el rey hereditario sino el cultivado.
+- **Li (禮):** ritualidad, propiedad. La política se sostiene en formas heredadas, no en racionalidad abstracta.
+- **Mandato del Cielo (天命):** legitimidad política descansa en virtud, no en sangre. Si un gobernante falla, pierde el mandato y puede ser depuesto.
+
+**Capítulos clave:** Libros I-IV (sobre ren y junzi), VI (cultivo personal), XII (gobierno), XV (sabiduría).
+
+**Lecturas paralelas:** Mencio (continuación democratizante del confucianismo), Han Fei (legalismo, contraposición).
+
+**Vinculación:**
+
+- **Anticipa a Aristóteles:** ambos creen en virtud política cultivada. Pero Confucio NO desarrolla teoría del régimen.
+- **Contrasta con todo el contractualismo occidental:** Hobbes/Locke/Rousseau parten del individuo aislado; Confucio parte de relaciones (padre-hijo, gobernante-gobernado).
+- **Continúa vivo:** China contemporánea (Xi Jinping invoca "Confucio socialista"); Singapur (Lee Kuan Yew); resurgimiento confuciano en Asia.
+
+**Punto de naufragio:** el formato **fragmentario** te puede frustrar. Es libro para releer, no para terminar.
+
+**Salida medible:**
+
+- **N2:** distingues ren, junzi, li como conceptos.
+- **N3:** identificas un proyecto político actual con resonancias confucianas (Singapur, China contemporánea).
+- **N4:** evalúas: ¿el confucianismo es compatible con democracia liberal, o requiere otra forma política?
+
+:material-file-document: [Trad. Suárez Girard (CETR)](https://cetr.net/files/LUN%20YU%20es.pdf)
+
+#### Amartya Sen — *Identidad y violencia* (2006 · completo ~200 pp · 12-15 h)
+
+**Por qué este libro:** Sen formula la **mejor crítica al "Choque de civilizaciones" de Huntington**. Su tesis: cada ser humano tiene **identidades múltiples** (nacional, religiosa, profesional, lingüística, familiar, de género). Reducir a alguien a UNA identidad — "musulmán", "occidental", "indio" — es violencia analítica que prepara la violencia real. Imprescindible para entender por qué la política identitaria contemporánea es peligrosa.
+
+**Contexto humano:** India-Cambridge-Harvard. Sen (1933-) es economista bengalí, Premio Nobel 1998. **Sobrevivió a la hambruna de Bengala de 1943 cuando tenía 9 años** — un millón de muertes. Su trabajo entero gira en torno a ese trauma: ¿por qué hay hambruna en sociedades con suficiente comida? Su respuesta: por fallos de capacidades (no de producción).
+
+**Pre-requisitos:** ninguno específico. Familiaridad con debates contemporáneos sobre multiculturalismo ayuda.
+
+**La pregunta clave:** *¿Cómo el reduccionismo identitario produce violencia, y cómo se construye política a partir de identidades múltiples?*
+
+**Conceptos clave:**
+
+- **Identidades múltiples:** no se elige UNA identidad — todas las tenemos simultáneamente.
+- **Razonamiento público:** la democracia funciona porque la gente puede deliberar sobre cuál identidad activar en cada momento.
+- **Crítica a Huntington:** el "Choque de civilizaciones" pretende que cada persona ES su civilización. Es falso y peligroso.
+- **Capacidades vs utilidad:** desarrollo no es PIB — es la capacidad efectiva de las personas para hacer y ser lo que valoran.
+
+**Vinculación:**
+
+- **Contradice a Huntington (sin estar en el plan).**
+- **Coincide con Crenshaw:** la interseccionalidad es identidades múltiples desde otro ángulo.
+- **Contrasta con Bueno/Hispanidad:** Sen sospecharía de cualquier "Hispanidad" como reducción identitaria.
+
+**Salida medible:**
+
+- **N3:** identifica un caso contemporáneo donde el reduccionismo identitario está produciendo violencia.
+- **N4:** sostén el debate Sen vs Huntington con argumentos de ambos lados.
+
+:material-alert-circle: Copyright vigente, buscar biblioteca.
 
 ### 6. India crítica (opcional, importante)
 
-- **B.R. Ambedkar — *Annihilation of Caste*** (~80 pp): :material-file-document: [PDF inglés (Columbia)](https://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/readings/aoc_print_2004.pdf). Es a Gandhi lo que Marx a Smith: el crítico interno indispensable.
+#### B.R. Ambedkar — *Annihilation of Caste* (1936 · completo ~80 pp · 5-7 h)
+
+**Por qué este libro:** Ambedkar es **a Gandhi lo que Marx a Smith** — el crítico interno que muestra los puntos ciegos del proyecto fundacional. Su tesis radical: la opresión real de la India NO es el colonialismo británico (Gandhi) — es **el sistema de castas hindú**. Sin abolir las castas, "independencia india" sería solo cambio de amos. Su análisis se vuelve cada vez más leído porque la sociedad india actual sigue dándole la razón.
+
+**Contexto humano:** India 1936. Ambedkar (45 años) era jurista dalit ("intocable" en lengua casta) formado en Columbia (PhD) y London School of Economics. **Único dalit con doctorado en su época**. Fue ministro de justicia del primer gobierno de la India independiente y redactor principal de la Constitución de 1950. **Convertido al budismo** poco antes de morir (1956) en protesta contra el hinduismo.
+
+**El discurso original NUNCA SE PRONUNCIÓ:** Ambedkar lo escribió para una conferencia hindú reformista; cuando los organizadores leyeron el texto, le pidieron suavizarlo. Se negó. **Lo publicó como libro.**
+
+**Pre-requisitos:** Gandhi *Hind Swaraj*. Mínimo conocimiento del sistema de castas indio.
+
+**La pregunta clave:** *¿Puede haber independencia india genuina sin abolir el sistema de castas, y por qué Gandhi no lo enfrenta?*
+
+**Conceptos clave:**
+
+- **Casta NO es solo división del trabajo:** es **división DE LOS TRABAJADORES**. Una división que asigna jerarquías hereditarias inescapables.
+- **Religión hindú como problema, no solución:** Ambedkar argumenta que el hinduismo SOSTIENE la casta — no se puede reformar manteniéndolo.
+- **Brahmanismo:** no solo los sacerdotes — sistema cultural-político de dominación.
+- **Constitucionalismo radical:** la Constitución india debe **abolir** la casta, no negociar con ella.
+
+**Lecturas paralelas:** Ambedkar — *States and Minorities* (selección, sobre constitución).
+
+**Vinculación:**
+
+- **Discute frontalmente con Gandhi:** Gandhi cree que el hinduismo reformado puede coexistir con casta limitada; Ambedkar dice que la única opción es abolir.
+- **Coincide con Marx en método:** análisis material de la opresión, no idealismo.
+- **Anticipa la decolonialidad interna:** la "descolonización" debe enfrentar opresiones autóctonas, no solo coloniales.
+- **Sigue vivo políticamente:** el movimiento dalit contemporáneo invoca Ambedkar; Hindutva (Modi) lo evita o coopta.
+
+**Punto de naufragio:** **disonancia para occidentales** — Ambedkar muestra que no todas las opresiones vienen del Norte global. La opresión india es india. Si llegas creyendo que "todo viene del colonialismo", Ambedkar te recordará que la conquista británica fue **adicional**, no fundadora.
+
+**Salida medible:**
+
+- **N3:** explicas por qué Ambedkar dice que Gandhi NO resuelve el problema real de la India.
+- **N4:** identifica una crítica interna análoga en otro contexto (ej. ¿hay crítica análoga al feminismo desde dentro de movimientos descoloniales?).
+
+:material-file-document: [PDF inglés (Columbia)](https://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/readings/aoc_print_2004.pdf)
 
 ---
 
