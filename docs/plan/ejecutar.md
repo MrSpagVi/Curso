@@ -6,6 +6,9 @@ Basado en el consenso de Open Yale Courses (Steven Smith), syllabi de Oxford/Har
 
 ---
 
+!!! tip "Antes de empezar: monta tu sistema de notas"
+    Este playbook asume que tienes un **sistema de notas** funcionando — sin él, lees pero no aprendes (a los 12 meses recordarás el 10%). Ve a **[Sistema de notas](notas.md)** antes de empezar Fase 0. Tiempo de setup: 2-3 semanas. Coste: ~$8/mes (Readwise) + apps gratis (Obsidian, Zotero, Anki).
+
 ## El principio único
 
 > **Constancia > intensidad.** 4 horas bien distribuidas a la semana, durante 24 meses, te llevan más lejos que sprints heroicos seguidos de meses muertos. El cerebro consolida en el descanso, no en el atracón.

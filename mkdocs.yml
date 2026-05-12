@@ -98,6 +98,7 @@ nav:
       - M3 Pluriverso (autores): plan/pluriverso-autores.md
       - M4 Historia (autores): plan/historia-autores.md
       - Cómo ejecutar: plan/ejecutar.md
+      - Sistema de notas: plan/notas.md
       - Manual de falacias: plan/falacias.md
       - Mapa de conexiones: plan/conexiones.md
       - Rúbricas Bloom: plan/bloom-rubricas.md
@@ -115,3 +116,4 @@ nav:
       - Visión general: plantillas/index.md
       - Log de falacias: plantillas/plantilla-falacia.md
       - Ensayo propio: plantillas/plantilla-ensayo.md
+      - Nota permanente (Zettelkasten): plantillas/plantilla-nota-permanente.md
