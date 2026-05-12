@@ -362,6 +362,41 @@ El liberalismo clásico escrito con claridad. El "principio del daño".
 - :material-file-document: [PDF selección académica](https://filosofiamaterialesyrecursos.es/Antologia_de_textos/12_Locke.pdf)
 - :material-internet-archive: [Internet Archive completo](https://archive.org/details/locke-segundo-tratado-civil)
 
+#### 8. Alexis de Tocqueville — *La democracia en América* (1835/1840 · selección Vol. I caps. 5-7 + Vol. II partes 2-4 · ~250 pp · 18-25 h)
+
+**Por qué este libro:** **el primer gran análisis sociológico de la democracia moderna**. Tocqueville visita Estados Unidos en 1831 y produce el manual sobre cómo funciona realmente una democracia en condiciones reales — no en teoría. Anticipa con precisión sorprendente la **tiranía de la mayoría**, el **individualismo democrático**, la **mediocridad cultural** que la democracia tiende a producir, y el papel de **las asociaciones civiles**. Sin Tocqueville, Mill flota; con él, Mill tiene contexto sociológico.
+
+**Contexto humano:** Francia 1831-1835. Tocqueville (26 años cuando viaja) es aristócrata francés de orientación liberal. Su familia fue diezmada por la guillotina jacobina — su mirada es **liberal-aristocrática inquieta** ante la democracia que ve venir. Viajó a EE.UU. nominalmente para estudiar el sistema penitenciario; **regresó habiendo estudiado el futuro político del mundo entero**.
+
+**Pre-requisitos:** Rousseau y Mill (Tocqueville es liberal post-1789, dialoga con el contractualismo francés).
+
+**La pregunta clave:** *¿Qué tipo de sociedad produce la democracia, y cuáles son sus peligros internos no obvios?*
+
+**Conceptos clave:**
+
+- **Tiranía de la mayoría:** la democracia puede ser tan opresiva como el absolutismo si la opinión pública aplasta la disidencia. Mill aprende esto de Tocqueville.
+- **Individualismo democrático:** la democracia tiende a aislar a los individuos en su esfera privada, debilitando los vínculos comunitarios.
+- **Asociaciones civiles:** Tocqueville observa que los estadounidenses crean asociaciones para todo. **La sociedad civil rica es el contrapeso a la individualización democrática.**
+- **Despotismo blando:** el peligro moderno no es el tirano clásico sino un poder paternalista que infantiliza a los ciudadanos.
+
+**Capítulos clave:** Vol. I caps. 5-7 (administración local, libertad de asociación, libertad de prensa); Vol. II partes 2-4 (influencia de la democracia sobre sentimientos, costumbres, política).
+
+**Vinculación:**
+
+- **Premisa directa de Mill (#6):** la "tiranía de la mayoría" milleana es Tocqueville.
+- **Anticipa a Putnam (capital social) y la teoría democrática contemporánea.**
+- **Continúa vivo en debates sobre Estado de bienestar:** ¿produce ciudadanos pasivos? El "despotismo blando" tocquevilliano.
+- **Discute implícitamente con Rousseau:** la voluntad general puede ser tiranía.
+
+**Punto de naufragio:** la **extensión** (1000 pp completos). Lee solo la selección. Algunos pasajes sobre instituciones estadounidenses son obsoletos; los sociológicos (Vol. II) siguen frescos.
+
+**Salida medible:**
+
+- **N3:** aplicas el concepto "tiranía de la mayoría" a un debate contemporáneo (cancel culture, presión de redes sociales).
+- **N4:** identificas dónde Tocqueville se equivoca sobre EE.UU. (subestima el racismo, la cuestión indígena, la esclavitud).
+
+:material-file-document: [PDF Wikisource español](https://es.wikisource.org/wiki/La_democracia_en_América)
+
 Derechos naturales, propiedad, consentimiento. Pieza clave del canon Yale.
 
 - :material-file-document: [PDF selección académica (institucional)](https://filosofiamaterialesyrecursos.es/Antologia_de_textos/12_Locke.pdf)

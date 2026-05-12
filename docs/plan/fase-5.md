@@ -64,6 +64,38 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 
 ## :material-book-open-variant: Libros
 
+### 0. Immanuel Wallerstein — *Análisis de sistemas-mundo: una introducción* (selección · ~150 pp · 12-15 h)
+
+**Por qué este libro:** Wallerstein formula **la teoría del sistema-mundo** — la única teoría que une coherentemente economía política capitalista + colonialismo + geopolítica moderna. Su tesis: desde el siglo XVI no hay "economías nacionales", hay **una sola economía-mundo capitalista** dividida en centro-semiperiferia-periferia. Sin Wallerstein, Mearsheimer (que sigue) y Mbembe (que viene) no dialogan — Wallerstein es **el mediador imprescindible**.
+
+**Contexto humano:** Yale-Binghamton (NY). Immanuel Wallerstein (1930-2019) era sociólogo estadounidense formado en estudios africanos (descolonización post-1945). Su gran obra *El moderno sistema mundial* tiene 4 tomos (~2000 pp publicados desde 1974). La **introducción de 2004** (~150 pp) es la versión condensada para autodidactas.
+
+**Pre-requisitos:** Marx (Wallerstein es marxista). Mariátegui (las periferias como tesis). Mejor todavía: Rodney (M3).
+
+**La pregunta clave:** *¿Cómo el capitalismo se constituye como sistema-mundo y por qué su unidad de análisis NO es el Estado-nación sino el sistema entero?*
+
+**Conceptos clave:**
+
+- **Sistema-mundo:** unidad de análisis es planetaria, no nacional. Los "países pobres" no son atrasados — están **estructuralmente posicionados** como periferia.
+- **Centro / semiperiferia / periferia:** las tres zonas funcionales del sistema. EE.UU., Europa Occidental, Japón = centro. Brasil, Sudáfrica, India = semiperiferia. África subsahariana, partes de LATAM = periferia.
+- **Ciclos hegemónicos:** Holanda XVII → Reino Unido XIX → EE.UU. XX. Cada hegemonía dura ~100 años. **El siglo XXI sería transición hacia China o un sistema multipolar.**
+- **Movimientos antisistémicos:** las luchas anti-coloniales, feministas, ambientales son síntomas de la crisis estructural del sistema-mundo.
+
+**Vinculación:**
+
+- **Sintetiza Marx + Lenin + Mariátegui + dependencia.**
+- **Premisa de Mbembe (#3):** necropolítica = lo que pasa a las poblaciones de la periferia del sistema-mundo.
+- **Alternativa a Mearsheimer (#1):** mientras Mearsheimer ve Estados que compiten por anarquía, Wallerstein ve un sistema integrado donde la competencia inter-estatal es **función** del sistema.
+- **Anticipa a Arrighi (*El largo siglo XX*)** que sistematiza los ciclos hegemónicos.
+
+**Salida medible:**
+
+- **N3:** ubicas tu país en el sistema-mundo (centro / semiperiferia / periferia) y argumentas por qué.
+- **N4:** evalúas: ¿es Wallerstein descriptivo (así funciona el mundo desde 1500) o reduccionista (omite agencia política nacional)?
+- **N5:** sostén el debate Wallerstein vs Mearsheimer: ¿el sistema produce los Estados, o los Estados producen el sistema?
+
+:material-internet-archive: [Archive.org (varias ediciones)](https://archive.org/search?query=wallerstein+sistemas+mundo+espanol)
+
 ### 1. John Mearsheimer — *The Tragedy of Great Power Politics* (selección caps. 1-4, 10 · ~250 pp · 15-22 h)
 
 **Por qué este libro:** **el manual del realismo geopolítico contemporáneo**. Mearsheimer formaliza por qué las grandes potencias buscan poder relativo, no absoluto — y por qué eso produce conflictos estructurales que las intenciones de los líderes no pueden modificar. **Explica el mundo actual (Ucrania, Taiwán, mar de China meridional, Sahel) mejor que cualquier otra teoría disponible**, aunque sea filosóficamente incómodo.

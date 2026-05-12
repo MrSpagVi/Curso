@@ -146,6 +146,135 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 :material-file-document: [PDF (CLACSO)](https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/15321/1/Nuestra_America_Jose_Marti.pdf)
 :material-file-document: [HTML (Ciudad Seva)](https://ciudadseva.com/texto/nuestra-america/)
 
+#### José Enrique Rodó — *Ariel* (1900 · completo ~120 pp · 8-12 h)
+
+**Por qué este ensayo:** Rodó formula **el "arielismo"** — la respuesta cultural latinoamericana al expansionismo estadounidense post-1898 (guerra hispano-americana). Su tesis: América Latina (representada por **Ariel**, espíritu) debe resistir el utilitarismo materialista estadounidense (**Calibán**, instinto). Define la auto-comprensión cultural de Latinoamérica durante 30 años. **Sin Rodó no entiendes el latinoamericanismo cultural del XX antes de Mariátegui.**
+
+**Contexto humano:** Uruguay 1900. Rodó (29 años) era escritor y crítico literario, profesor en Montevideo. Cuba acababa de "independizarse" bajo tutela estadounidense (1898); Puerto Rico era colonia formal. Rodó escribe pensando en una **juventud universitaria latinoamericana** que debe definirse contra el "neorromanismo" anglosajón.
+
+**Pre-requisitos:** Martí (Rodó lo continúa). Mínimo conocimiento del 98.
+
+**La pregunta clave:** *¿Cómo debe Latinoamérica construir su identidad cultural frente al peso de Estados Unidos?*
+
+**Conceptos clave:**
+
+- **Arielismo:** elevación espiritual, cultura humanista, idealismo. Tradición latina/grecorromana.
+- **Calibanismo:** materialismo, pragmatismo utilitario, ausencia de cultura espiritual. Estados Unidos según Rodó.
+- **Aristocracia del espíritu:** Rodó NO es democrático en sentido moderno. Cree en élites cultivadas que guíen a las masas.
+- **Latinidad:** identidad cultural en común con Italia/Francia/España, en oposición a la cultura sajona.
+
+**Vinculación:**
+
+- **Continúa a Martí pero le da tono espiritualista** que Martí evitaba.
+- **Será criticado por Mariátegui (F2):** Rodó es aristocrático y eurocéntrico; Mariátegui exige incorporar al indio.
+- **Premisa de toda la tradición humanística latinoamericana del XX:** Vasconcelos, Pedro Henríquez Ureña, Alfonso Reyes.
+- **Será disputado por Vasconcelos (siguiente):** ambos defienden Latinoamérica, pero Vasconcelos quiere mestizaje, Rodó quiere latinidad pura.
+
+**Punto de naufragio:** **prosa modernista** del 1900 — florida, retórica, lenta. Si te aburre, lee solo el primer capítulo (la introducción del maestro Próspero a sus discípulos). Captura toda la tesis.
+
+**Salida medible:**
+
+- **N3:** identificas el arielismo en la cultura latinoamericana contemporánea (universidades públicas, defensa del español).
+- **N4:** evalúas: ¿es el arielismo defensa legítima de identidad cultural o nostalgia colonial criolla?
+
+:material-file-document: [Wikisource español completo](https://es.wikisource.org/wiki/Ariel_(Rodó))
+
+#### José Vasconcelos — *La raza cósmica* (1925 · completo ~150 pp · 10-14 h)
+
+**Por qué este libro:** Vasconcelos formula **la teoría más ambiciosa de la identidad latinoamericana mestiza**. Su tesis: el futuro de la humanidad NO es el racismo nórdico (que culminará en el nazismo años después) sino el **mestizaje** del que Latinoamérica es laboratorio mundial. Es polémico — combina ideas hoy problemáticas con intuiciones precisas — pero **define la auto-comprensión mexicana del siglo XX** y la mayor parte de la latinoamericana.
+
+**Contexto humano:** México 1925. Vasconcelos (43 años) fue ministro de educación post-Revolución mexicana. Construyó la SEP (Secretaría de Educación Pública), creó miles de escuelas rurales, encargó murales a Rivera/Orozco/Siqueiros. **Es el arquitecto del México post-revolucionario** culturalmente. Después se radicalizó hacia la derecha y simpatizó con el fascismo italiano en los 30 — biografía moralmente compleja.
+
+**Pre-requisitos:** Bolívar y Martí. Mínimo conocimiento de la Revolución Mexicana.
+
+**La pregunta clave:** *¿Cuál es el destino histórico de las razas y por qué la latinoamericana mestiza es superior?*
+
+**Conceptos clave:**
+
+- **Quinta raza / raza cósmica:** la síntesis futura de las 4 razas históricas (blanca, negra, india, amarilla). El laboratorio es Iberoamérica.
+- **Crítica al supremacismo anglosajón:** Vasconcelos predice (acierta) que el racismo nórdico produce catástrofes. La mezcla es superior.
+- **Latinoamericanismo continental:** la identidad NO es nacional (México, Perú, Argentina) — es panlatinoamericana.
+- **Indigenismo (problemático):** Vasconcelos valoriza al indígena pero como **insumo** del mestizaje, no como sujeto autónomo. Cusicanqui lo critica desde aquí.
+
+**Vinculación:**
+
+- **Continúa a Rodó** desde otra dirección — donde Rodó preserva, Vasconcelos sintetiza.
+- **Premisa del muralismo mexicano y del nacionalismo cultural latinoamericano.**
+- **Será criticado por Mariátegui:** la "raza" es categoría burguesa que oculta la lucha de clases.
+- **Será criticado por Cusicanqui (F4):** ch'ixi rechaza el mestizaje vasconcelista — convivencia, no síntesis.
+
+**Punto de naufragio:** **ideas hoy racistas mezcladas con intuiciones valiosas**. Vasconcelos jerarquiza razas, hace afirmaciones eugenésicas. **Léelo como documento histórico crítico**, no como propuesta actual.
+
+**Salida medible:**
+
+- **N3:** identificas la herencia vasconcelista en discursos nacionales latinoamericanos contemporáneos.
+- **N4:** distinguís lo valioso (crítica al supremacismo nórdico) de lo problemático (jerarquización racial, eugenesia).
+
+:material-internet-archive: [Archive.org](https://archive.org/search?query=vasconcelos+raza+cosmica)
+
+#### Octavio Paz — *El laberinto de la soledad* (1950 · completo ~250 pp · 18-22 h)
+
+**Por qué este libro:** Paz produce **el análisis psico-cultural más influyente sobre la identidad mexicana** y, por extensión, latinoamericana. Su tesis: el mexicano vive en máscaras — proyecta agresividad para ocultar vulnerabilidad histórica (la chingada, el indio derrotado, el huérfano de Cortés y la Malinche). Es **ensayo filosófico vestido de literatura**, comparable a Levinas o Heidegger en profundidad pero con la accesibilidad de la prosa hispana.
+
+**Contexto humano:** París 1950. Paz (36 años) era diplomático mexicano en Francia, en pleno auge del existencialismo (Sartre, Camus). Escribió el libro en un año de exilio voluntario. **Premio Nobel 1990.** Murió en 1998 después de derivar políticamente hacia el liberalismo crítico de Carlos Salinas.
+
+**Pre-requisitos:** Vasconcelos ayuda (Paz dialoga con el mestizaje vasconcelista). Mínimo conocimiento de historia mexicana (conquista, Reforma, Revolución).
+
+**La pregunta clave:** *¿Por qué el mexicano vive enmascarado, y qué dice eso del proyecto político-cultural latinoamericano?*
+
+**Conceptos clave:**
+
+- **Soledad como condición histórica:** los mexicanos viven aislados de sí mismos por la herida de la conquista. La modernidad acelerada agrava la soledad.
+- **Máscaras:** comportamientos sociales como protección. El mexicano se "rajaría" si mostrara su verdadero rostro.
+- **La chingada:** la Malinche como madre fundacional violada. **Los mexicanos son "hijos de la chingada" — culturalmente bastardos.**
+- **Fiesta y muerte:** las dos experiencias donde el mexicano se quita las máscaras. La cultura popular mexicana procesa la herida.
+
+**Vinculación:**
+
+- **Continúa a Vasconcelos** pero pesimista: el mestizaje produjo soledad, no raza cósmica.
+- **Premisa de Fuentes, García Márquez, Vargas Llosa:** el boom latinoamericano respira Paz.
+- **Será criticado desde el feminismo** (Marcela Lagarde, Rita Segato): "la chingada" naturaliza la violencia sexual fundacional como destino, no como sistema actual.
+
+**Punto de naufragio:** **complejidad de la prosa poética**. Si te frustra, lee el cap. 4 "Los hijos de la Malinche" como entrada — concentra toda la tesis.
+
+**Salida medible:**
+
+- **N3:** aplicas la categoría "máscara" a una práctica cultural latinoamericana contemporánea.
+- **N4:** evalúas la crítica feminista a Paz: ¿el simbolismo "chingada" reproduce lo que pretende analizar?
+
+:material-internet-archive: [Archive.org](https://archive.org/search?query=octavio+paz+laberinto+soledad)
+
+#### Eduardo Galeano — *Las venas abiertas de América Latina* (1971 · completo o selección ~350 pp · 18-22 h)
+
+**Por qué este libro:** Galeano produce **el libro de divulgación política más influyente en la historia latinoamericana**. Su tesis: la pobreza latinoamericana NO es destino — es producto del saqueo continuo del subcontinente por intereses extranjeros. **Críticas legítimas a su rigor histórico existen** (Galeano mismo las aceptó al final de su vida), pero su tesis general — Latinoamérica como periferia saqueada — es consenso académico actual. **Lectura formativa imprescindible**, aunque polémica.
+
+**Contexto humano:** Uruguay 1971. Galeano (31 años) era periodista. Escribe el libro en pleno auge de la teoría de la dependencia. El libro será prohibido por las dictaduras del Cono Sur (Brasil, Chile, Argentina, Uruguay). **En 2014 Galeano dijo públicamente que "no podría leer ese libro de nuevo" — admitió simplificaciones**. Pero la admisión no desactivó la influencia del libro.
+
+**Pre-requisitos:** mínimo conocimiento histórico latinoamericano. Funciona como introducción al tema.
+
+**La pregunta clave:** *¿Cómo se produjo la pobreza latinoamericana y quién se enriqueció a costa de ella?*
+
+**Conceptos clave:**
+
+- **Saqueo continuo:** el oro y la plata del XVI, el caucho amazónico del XIX, el petróleo y minerales del XX, los flujos financieros del XXI son **un solo proceso** de extracción.
+- **División internacional del trabajo:** Latinoamérica se especializó en exportar materias primas baratas e importar manufacturas caras — proceso impuesto, no elegido.
+- **Memoria histórica como herramienta política:** el libro mezcla deliberadamente datos académicos con narrativa literaria. **Funciona como literatura de combate.**
+
+**Vinculación:**
+
+- **Versión accesible de la teoría de la dependencia (Marini, Cardoso, F2 opcional).**
+- **Continúa a Mariátegui:** mismo proyecto explicativo en clave más narrativa.
+- **Coincide con Rodney (M3):** "Las venas abiertas" es el equivalente latinoamericano de "How Europe Underdeveloped Africa".
+
+**Punto de naufragio:** **simplificaciones históricas**. Léelo con espíritu crítico — Galeano mezcla anécdotas y datos. Sus tesis macro son correctas; algunos detalles micro fallan. Si te basas SOLO en Galeano para hablar de historia, te vas a equivocar. Como **introducción provocativa**, funciona.
+
+**Salida medible:**
+
+- **N3:** distingues lo que Galeano logra (síntesis política accesible) de lo que omite (matiz histórico).
+- **N4:** sostén el debate sobre Galeano: ¿es vehículo de conciencia o propaganda simplificadora?
+
+:material-internet-archive: [Archive.org (varias ediciones)](https://archive.org/search?query=galeano+venas+abiertas+america+latina)
+
 ### Bloque B — Materialismo Filosófico y Hispanidad (la línea Bueno/Armesilla, ~2 semanas)
 
 **Restructure tras revisión académica:** reducido de 5 a 2 semanas. El Materialismo Filosófico es tradición regional española respetable, pero **darle peso igual al bloque decolonial inflaba artificialmente su importancia académica**. En ningún syllabus de Yale/Oxford/Harvard/UBA/UNAM aparece Bueno como autor central. Mantenemos la tesis pero sin la dosis original.

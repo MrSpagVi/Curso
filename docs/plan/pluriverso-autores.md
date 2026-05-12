@@ -133,6 +133,75 @@ title: M3 Pluriverso — autores en profundidad
 
 ---
 
+## :material-numeric-5-box: Ibn Jaldún — *Muqaddimah / Introducción a la Historia Universal* (1377 · selección caps. 1-3 · ~200 pp · 18-25 h)
+
+**Para leer en:** antes de Fase 1 como puerta no-eurocéntrica, o como adición a Fase 5.
+
+**Por qué este libro:** Ibn Jaldún **inventa la sociología histórica 500 años antes de Comte, Durkheim o Weber**. Su análisis del ciclo de las dinastías, la diferencia entre vida nómada y sedentaria, y la fuerza del *asabiyya* (cohesión grupal) constituye **el primer tratado sistemático de filosofía de la historia y sociología política del mundo**. Era literalmente desconocido en Europa hasta el siglo XIX. **Su ausencia del canon occidental es testimonio del eurocentrismo, no de su valor.**
+
+**Contexto humano:** Túnez/Granada/Egipto, siglo XIV. Ibn Jaldún (1332-1406) era jurista, diplomático y filósofo árabe-andalusí. Vivió en las cortes de varios sultanes (Túnez, Tlemecén, Fez, Granada, El Cairo). **Sobrevivió a la peste negra que mató a su familia entera, a guerras civiles, exilios múltiples.** Escribió la *Muqaddimah* (Introducción) como prólogo a su *Kitab al-Ibar* (Libro de los ejemplos), pero el prólogo se convirtió en obra autónoma de filosofía política.
+
+**Pre-requisitos:** mínima familiaridad con historia del Magreb e Islam medieval. Nada conceptual difícil.
+
+**La pregunta clave:** *¿Por qué las dinastías políticas siguen un ciclo predecible de auge y caída, y qué fuerza social las impulsa?*
+
+**Conceptos clave:**
+
+- ***Asabiyya* (عصبية):** "cohesión grupal" o "espíritu de cuerpo". La fuerza vital que mantiene unido un grupo. Las dinastías nacen con *asabiyya* fuerte (tribu nómada) y mueren cuando se debilita (élite urbana decadente).
+- **Ciclo dinástico:** ~3-4 generaciones. Fundación (vigor), consolidación (refinamiento), declive (lujo), caída.
+- **Nómadas vs sedentarios:** los nómadas tienen *asabiyya* fuerte pero pobreza; los sedentarios tienen riqueza pero *asabiyya* débil. **El ciclo de la historia es alternancia entre ambos.**
+- **Historia como ciencia, no como crónica:** Ibn Jaldún quiere **leyes** de la historia, no relatos. Es metodológicamente moderno 600 años antes.
+
+**Vinculación:**
+
+- **Anticipa a Maquiavelo (F1):** el ciclo de los regímenes maquiavélico es Ibn Jaldún con menos profundidad.
+- **Anticipa a Weber (F3):** legitimidad carismática + tradicional como sucesión histórica.
+- **Anticipa a Marx:** la materialidad de la base social que produce las superestructuras políticas.
+- **Es referencia obligada para entender el mundo islámico** sin orientalismo.
+
+**Punto de naufragio:** **densidad del lenguaje del XIV**. Lee selección. Cap. 1 (geografía), cap. 2 (nómadas), cap. 3 (dinastías) son nucleares.
+
+**Salida medible:**
+
+- **N3:** aplicas el ciclo de *asabiyya* a una dinastía política contemporánea (familias políticas brasileñas, mexicanas, libanesas).
+- **N4:** evalúas: ¿la teoría del ciclo dinástico funciona en el siglo XXI o requiere modificación?
+
+:material-internet-archive: [Archive.org (varias ediciones)](https://archive.org/search?query=ibn+jaldun+muqaddimah)
+
+---
+
+## :material-numeric-6-box: Gayatri Chakravorty Spivak — *"Can the Subaltern Speak?"* (1988 · ensayo ~80 pp · 8-12 h)
+
+**Para leer en:** complemento a Said y Fanon en M3 Pluriverso.
+
+**Por qué este ensayo:** Spivak formula **la pregunta más incómoda del pensamiento decolonial**: ¿pueden los oprimidos hablar **por sí mismos** o cuando intentan hacerlo, los académicos del Norte global ya los han traducido a sus categorías y borrado su voz? Su respuesta — "no, no pueden, no en las estructuras actuales del conocimiento" — es **provocación deliberada** para forzar a los intelectuales descoloniales a examinar su propia complicidad.
+
+**Contexto humano:** Calcuta-Columbia. Gayatri Spivak (1942-) es académica bengalí formada en Cornell. Traductora al inglés de *De la gramatología* de Derrida. **Profesora distinguida en Columbia.** Es la intelectual más sofisticada de los Subaltern Studies indios. Su prosa es **deliberadamente difícil** — quiere obligar al lector a pensar, no a consumir.
+
+**Pre-requisitos:** Foucault, Derrida, Said.
+
+**La pregunta clave:** *¿Pueden los oprimidos del sur global "hablar" dentro de las estructuras académicas y políticas occidentales, o son siempre representados por otros?*
+
+**Conceptos clave:**
+
+- **Subalterno:** categoría de Gramsci aplicada al sur global. NO es solo "oprimido" — es quien no tiene voz reconocida en los discursos hegemónicos.
+- **Violencia epistémica:** cuando los intelectuales del Norte global "estudian" a los del Sur, **borran** sus voces incluso cuando creen darlas.
+- **Esencialismo estratégico:** táctica política — usar categorías esencializadas (como "mujer india") aunque sean ficciones teóricas, porque son **necesarias para la lucha política**. El uso estratégico, no la creencia.
+
+**Vinculación:**
+
+- **Aplica Foucault y Derrida** al pensamiento poscolonial.
+- **Crítica interna a Said y Fanon:** ambos siguen siendo voces masculinas de élite hablando POR el subalterno.
+- **Premisa de Cusicanqui (F4):** Cusicanqui aplica esta crítica a la academia decolonial gringa.
+
+**Punto de naufragio:** **prosa extremadamente densa**. Si te frustra, ve primero una entrevista de Spivak en YouTube — su voz oral es algo más clara.
+
+**Salida medible:** N4 — identifica un caso donde "dar voz al subalterno" termina silenciándolo más.
+
+:material-file-document: [PDF inglés (varios repositorios académicos)](https://www.google.com/search?q=spivak+can+the+subaltern+speak+pdf)
+
+---
+
 ## :material-numeric-4-box: Gloria Anzaldúa — *Borderlands / La Frontera* (1987 · selección Parte I caps. 1-7 · ~120 pp · 10-14 h)
 
 **Para leer en:** Fase 3 (transversal feminismo) o como complemento de Cusicanqui en Fase 4.

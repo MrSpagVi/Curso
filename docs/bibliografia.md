@@ -35,6 +35,7 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 | 8 | Locke — *Segundo tratado del gobierno civil* | 1689 | Completo (énfasis caps. II, V, VII-IX, XI-XIV, XIX) | ~150 | 15-22 h | ✅ | [Internet Archive](https://archive.org/details/locke-segundo-tratado-civil) |
 | 9 | Rousseau — *El contrato social* | 1762 | Completo (Libros I-II nucleares; III gobierno; IV.1-2, 8) | ~120 | 12-18 h | ✅ | [Wikisource](https://es.wikisource.org/wiki/El_contrato_social_(1836)) |
 | 10 | Mill — *Sobre la libertad* | 1859 | Completo | ~150 | 10-15 h | ✅ | [Universidad de la República UY (PDF)](https://eva.fder.udelar.edu.uy/pluginfile.php/230580/mod_folder/content/0/Mill,%20John%20Stuart%20-%20Sobre%20la%20libertad%20(2014,%20Akal).pdf) |
+| 10b | **Tocqueville — *La democracia en América*** *(añadido — Yale canon)* | 1835-40 | Selección (Vol I 5-7, Vol II 2-4) | ~250 | 18-25 h | ✅ | [Wikisource](https://es.wikisource.org/wiki/La_democracia_en_América) |
 
 ---
 
@@ -64,6 +65,8 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 | 19 | Gramsci — *Cuadernos de la cárcel* (antología Hoare-Smith) | 1929-35 | Selección (Intellectuals, Education, Modern Prince, State and Civil Society) | ~250 | 25-35 h | 💰 | [Selección Marxists.org](https://www.marxists.org/espanol/gramsci/) |
 | 20 | Hayek — *Camino de servidumbre* | 1944 | Selección (caps. 1, 3, 5-7, 10, 15) | ~130 | 10-15 h | ✅ | [PDF Cato Institute (legal)](https://www.elcato.org/sites/default/files/camino-de-servidumbre-libro-electronico.pdf) |
 | 21 | Popper — *La sociedad abierta y sus enemigos* | 1945 | Selección (Vol. I caps. 1, 4-6, 10; Vol. II caps. 11-17, 23-24) | ~350 | 35-50 h | 📚 | [Archive.org préstamo](https://archive.org/details/popper-la-sociedad-abierta-y-sus-enemigos-en-2-volumenes) |
+| 21b | **Nozick — *Anarquía, Estado y utopía*** *(añadido — contrapunto a Rawls)* | 1974 | Selección (Partes I + III) | ~200 | 18-25 h | 📚 | [Archive.org](https://archive.org/search?query=nozick+anarquia+estado+utopia) |
+| 21c | **Bourdieu — *Sobre el Estado* o *La distinción*** *(añadido — puente Weber→cultural)* | 1979/2012 | Selección | ~200 | 18-25 h | 📚 | Archive.org |
 | 22 | Burke — *Reflexiones sobre la Revolución en Francia* | 1790 | Selección (extractos sobre derechos abstractos, tradición, Price) | ~100 | 10-15 h | ✅ | [Inglés completo Gutenberg](https://www.gutenberg.org/ebooks/15679) |
 | 23 | Schmitt — *El concepto de lo político* | 1932 | Completo | ~100 | 12-18 h | 📚 | [Archive.org préstamo](https://archive.org/details/el-concepto-de-lo-politico-carl-schmitt) |
 | 24 | Arendt — *Los orígenes del totalitarismo* | 1951 | Selección (Parte III completa + Parte II cap. 9) | ~300 | 35-45 h | 📚 | [Archive.org préstamo](https://archive.org/details/arendt-hannah.-los-origenes-del-totalitarismo-ocr-2006) |
@@ -83,6 +86,10 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 |---|----------------|-----|-----------|---------|--------|--------|------|
 | 32 | Bolívar — *Carta de Jamaica* | 1815 | Completo | ~15 | 2-3 h | ✅ | [PDF Columbia](http://www.columbia.edu/cu/spanish/courses/spanish3350/02independencia/pdf/jamaica.pdf) |
 | 33 | Martí — *Nuestra América* | 1891 | Completo | ~10 | 1-2 h | ✅ | [HTML Ciudad Seva](https://ciudadseva.com/texto/nuestra-america/) |
+| 33b | **Rodó — *Ariel*** *(añadido — arielismo)* | 1900 | Completo | ~120 | 8-12 h | ✅ | [Wikisource](https://es.wikisource.org/wiki/Ariel_(Rodó)) |
+| 33c | **Vasconcelos — *La raza cósmica*** *(añadido — mestizaje)* | 1925 | Completo | ~150 | 10-14 h | 📚 | [Archive.org](https://archive.org/search?query=vasconcelos+raza+cosmica) |
+| 33d | **Paz — *El laberinto de la soledad*** *(añadido — psico-cultural)* | 1950 | Completo | ~250 | 18-22 h | 📚 | [Archive.org](https://archive.org/search?query=octavio+paz+laberinto+soledad) |
+| 33e | **Galeano — *Las venas abiertas***  *(añadido — divulgación)* | 1971 | Completo o selección | ~350 | 18-22 h | 📚 | [Archive.org](https://archive.org/search?query=galeano+venas+abiertas+america+latina) |
 | 34 | Bueno — *El mito de la izquierda* | 2003 | Selección (reducido tras revisión) | ~150 | 18-25 h | 💰 | — |
 | 35 | **Bolívar Echeverría — *Modernidad y blanquitud*** *(añadido — alternativa rigurosa a Bueno)* | 2010 | Selección | ~200 | 15-22 h | 📚 | [Buscar CLACSO](https://biblioteca-repositorio.clacso.edu.ar/?query=bolivar+echeverria) |
 | 35b | Bueno — *España frente a Europa* *(opcional)* | 1999 | Selección/Referencia | ~150 | 15-20 h | 💰 | — |
@@ -101,6 +108,7 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 
 | # | Autor — Título | Año | Veredicto | Páginas | Tiempo | Estado | Link |
 |---|----------------|-----|-----------|---------|--------|--------|------|
+| 43b | **Wallerstein — *Análisis de sistemas-mundo*** *(añadido — mediador F5)* | 2004 | Selección (intro) | ~150 | 12-15 h | 📚 | [Archive.org](https://archive.org/search?query=wallerstein+sistemas+mundo+espanol) |
 | 44 | Mearsheimer — *The Tragedy of Great Power Politics* | 2001 | Selección (caps. 1-4, 10) | ~250 | 15-22 h | 🌐 | [Archive.org préstamo (inglés)](https://archive.org/details/tragedyofgreatpo00mear) |
 | 44b | **Agamben — *Homo Sacer* o *Estado de excepción*** *(añadido — vertebra teórica)* | 1995/2003 | Selección (Intro + Parte III) | ~100 | 12-18 h | 📚 | [Archive.org](https://archive.org/search?query=agamben+homo+sacer+espanol) |
 | 45 | Mbembe — *Necropolítica* | 2003/2011 | Completo | ~100 | 3-22 h | ✅ | [PDF Melusina (oficial)](https://www.melusina.com/rcs_gene/Necropol_tica.pdf) |
@@ -119,6 +127,8 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 | 51 | Said — *Orientalismo* | 1978 | Selección (Intro + caps. 1 + 3.I-II) | ~200 | 18-25 h | 📚 | [Archive.org préstamo](https://archive.org/details/said-e.-w.-orientalismo-ocr-2008) |
 | 52 | Fanon — *Los condenados de la tierra* | 1961 | Selección (Prefacio + caps. 1, 3, 5) | ~200 | 18-25 h | ✅ | [PDF Marxists.org](https://www.marxists.org/espanol/fanon/los-condenados-de-la-tierra-franz-fanon.pdf) |
 | 53 | Anzaldúa — *Borderlands / La Frontera* | 1987 | Selección (Parte I caps. 1-7) | ~120 | 10-14 h | 💰 | — |
+| 53b | **Ibn Jaldún — *Muqaddimah*** *(añadido — sociología árabe pre-moderna)* | 1377 | Selección caps. 1-3 | ~200 | 18-25 h | 📚 | [Archive.org](https://archive.org/search?query=ibn+jaldun+muqaddimah) |
+| 53c | **Spivak — *"Can the Subaltern Speak?"*** *(añadido — Subaltern Studies)* | 1988 | Completo (ensayo) | ~80 | 8-12 h | 🌐 | Repositorios académicos |
 
 ---
 

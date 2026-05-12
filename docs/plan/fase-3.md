@@ -108,6 +108,37 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 - :material-file-document: [PDF español (UNAM)](http://rmcps.unam.mx/wp-content/uploads/articulos/016_10_politica_weber.pdf)
 - :material-file-document: [PDF alternativo](https://www.memoriapoliticademexico.org/Textos/6Revolucion/IM/Weber-Politica-Vocacion.pdf)
 
+### Pierre Bourdieu — *Sobre el Estado* o *La distinción* (selección · ~200 pp · 18-25 h)
+
+**Por qué este libro:** Bourdieu es **el sociólogo más influyente del siglo XX después de Weber**. Su tesis radical: el Estado y la cultura producen **distinciones de clase invisibles para sus propios beneficiarios**. La "violencia simbólica" — clasificaciones culturales que las víctimas mismas aceptan — es la forma moderna del poder. **Es el puente Weber → estudios culturales contemporáneos** que el plan necesita.
+
+**Contexto humano:** Francia. Bourdieu (1930-2002) fue hijo de cartero pueblerino que llegó al Collège de France. Su biografía es su sociología: vivió **el ascenso por la educación** y entendió cómo ese sistema reproduce desigualdad al mismo tiempo que pretende corregirla. Fue militante público en los 90 contra el neoliberalismo.
+
+**Pre-requisitos:** Weber, Marx, Foucault.
+
+**La pregunta clave:** *¿Cómo el Estado y la cultura producen y reproducen jerarquías sociales que se sienten "naturales"?*
+
+**Conceptos clave:**
+
+- **Habitus:** estructuras mentales-corporales que naturalizan las jerarquías. NO se eligen — se incorporan desde la infancia.
+- **Campo:** espacio social estructurado (campo académico, artístico, político). Cada uno con sus reglas y capitales.
+- **Violencia simbólica:** la dominación más eficaz es la que la víctima percibe como orden natural.
+- **Capital cultural, social, simbólico:** además del económico, hay otras formas de capital que se transmiten en familia y educación.
+- **Estado como banco central simbólico:** el Estado moderno fabrica las clasificaciones que estructuran toda la sociedad.
+
+**Vinculación:**
+
+- **Continúa Weber:** legitimidad como producción cultural, no don.
+- **Premisa de los estudios culturales contemporáneos.**
+- **Discute con Foucault:** Bourdieu cree que se puede mapear sistemáticamente lo que Foucault dispersa.
+
+**Salida medible:**
+
+- **N3:** identifica una "violencia simbólica" naturalizada en tu sociedad.
+- **N4:** distingues "capital cultural" en sentido bourdieuano de uso común.
+
+:material-internet-archive: Archive.org préstamo.
+
 ---
 
 ## :material-book-open-page-variant: Bloque XX-Tardío (nuevo · lectura obligatoria)
@@ -417,6 +448,37 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 - **N4:** evalúas la crítica popperiana a Marx — ¿es decisiva o malinterpreta a Marx?
 
 :material-internet-archive: [Préstamo digital (Archive.org)](https://archive.org/details/popper-la-sociedad-abierta-y-sus-enemigos-en-2-volumenes)
+
+#### Robert Nozick — *Anarquía, Estado y utopía* (1974 · selección Parte I + III · ~200 pp · 18-25 h)
+
+**Por qué este libro:** Nozick **radicaliza el liberalismo en dirección libertarian**. Su tesis: cualquier Estado que vaya más allá de proteger contra fuerza y fraude (Estado mínimo) viola derechos lockeanos. Es **el contraataque más serio a Rawls** — los dos publicaron sus libros en 1971 y 1974 desde Harvard y se respondieron mutuamente. Sin Nozick, el liberalismo de Fase 3 carece de su rama radical norteamericana.
+
+**Contexto humano:** Cambridge, MA 1974. Nozick (35 años) era prodigio académico de Harvard. **Anarquista en su juventud**, devino libertarian sofisticado. Escribe el libro como tour de force filosófico — no es manifiesto político simple sino filosofía analítica rigurosa que **defiende posiciones políticamente extremas con argumentos académicamente impecables**.
+
+**Pre-requisitos:** Locke (Nozick es lockeano radical). Rawls (Nozick lo critica directamente).
+
+**La pregunta clave:** *¿Puede haber un Estado más extenso que el mínimo (proteger contra fuerza y fraude) sin violar derechos individuales?*
+
+**Conceptos clave:**
+
+- **Estado mínimo:** policía + tribunales + ejército. Cualquier cosa más es ilegítima.
+- **Teoría de la justicia como derechos:** la justicia NO es distributiva (Rawls) — es procedimental. Si las adquisiciones son legítimas (no robo, no fraude), su distribución resultante es justa.
+- **Argumento de Wilt Chamberlain:** si la distribución D1 es justa y la gente paga voluntariamente a Wilt por verlo jugar, la distribución resultante D2 es **igualmente** justa — aunque sea más desigual. Cualquier intento de "restaurar" D1 violaría libertades.
+- **Utopía:** Nozick imagina una sociedad libertarian como **meta-utopía** donde coexisten comunidades de todo tipo voluntariamente.
+
+**Vinculación:**
+
+- **Antagonista directo de Rawls:** publicado un año antes (1974 vs 1971); **lectura obligatoria en pareja**.
+- **Continúa Locke:** los derechos lockeanos llevados al extremo.
+- **Continúa Hayek:** Nozick filosóficamente lo que Hayek economicamente.
+- **Será criticado por Cohen (G. A. Cohen, *If You're an Egalitarian, How Come You're So Rich?*):** marxismo analítico que desmonta el argumento de Wilt Chamberlain.
+
+**Salida medible:**
+
+- **N3:** aplicas Nozick para evaluar una propuesta fiscal progresista actual.
+- **N4:** sostén el debate Nozick vs Rawls sin caricaturizar a ninguno.
+
+:material-internet-archive: [Préstamo digital (Archive.org, inglés)](https://archive.org/search?query=nozick+anarquia+estado+utopia)
 
 ### C. Conservadurismo (OBLIGATORIO)
 
