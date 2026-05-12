@@ -19,11 +19,25 @@ Cada plantilla es un archivo `.md`. Tres formas de usarla:
 
 ---
 
-## :material-brain: Nota permanente (Zettelkasten)
+## :material-notebook-multiple: Sistema de notas — elige tu workflow
 
-**La pieza central del sistema de notas.** Una idea atómica TUYA, conectada a otras. Diferente de la nota de lectura — esta es donde piensas, no donde resumes. Ver [Sistema de notas](../plan/notas.md) para la distinción.
+La pieza central del curso. Tres caminos válidos según prefieras papel, digital, o híbrido. **Todos son gratuitos o casi.**
 
-[:material-arrow-right: Plantilla completa con ejemplo](plantilla-nota-permanente.md){ .md-button .md-button--primary }
+[:material-school: Guía completa del sistema de notas](../plan/notas.md){ .md-button .md-button--primary }
+
+### Plantillas por workflow
+
+[:material-notebook: __Cuaderno papel (commonplace book)__  
+Sistema de Locke/Newton/Jefferson · Leuchtturm A5 + índice · 25-50€ una vez](plantilla-cuaderno-papel.md){ .card }
+
+[:material-card-text: __Fichas Zettelkasten papel__  
+Sistema de Luhmann · A6 + caja · sistema numérico jerárquico · 10-30€ una vez](plantilla-zettelkasten-papel.md){ .card }
+
+[:material-monitor: __Setup Notion (gratis)__  
+Plan personal sin pagar · 4 databases · sin instalar nada](plantilla-notion-setup.md){ .card }
+
+[:material-file-document: __Nota permanente Markdown__  
+Para Obsidian / Logseq / cualquier editor markdown · ejemplo Rawls/Crenshaw](plantilla-nota-permanente.md){ .card }
 
 ## Nota de lectura
 

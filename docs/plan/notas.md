@@ -10,333 +10,464 @@ title: Sistema de notas
 
 ## :material-target: Por qué importa especialmente en tu caso
 
-Tres condiciones específicas tuyas hacen esto crítico:
+Tres condiciones tuyas hacen esto crítico:
 
-1. **Lees en ebook** — no puedes anotar márgenes físicos. Necesitas un workflow digital deliberado.
-2. **70+ autores en 28 meses** — el volumen es alto. Sin sistema, los últimos meses olvidas los primeros.
-3. **Quieres pensar, no solo leer** — el objetivo del plan es producir un ensayo propio en F5 y haberlo formado tu criterio. Eso requiere **archivar tus propias ideas**, no las ajenas.
-
----
-
-## :material-school: El sistema híbrido: Zettelkasten + Adler + Anki
-
-Tras investigar Zettelkasten (Luhmann/Ahrens), PARA (Forte), Cornell, Anki, los notebooks de Benjamin/Arendt/Wittgenstein/Barthes, y workflows de doctorandos en humanidades, lo que **mejor te sirve** es una versión disciplinada del Zettelkasten + lectura analítica de Adler + Anki quirúrgico. **No es marketing — es lo que hacen los doctorandos serios en filosofía hoy.**
-
-### Los 4 tipos de notas
-
-| Tipo | Qué es | Cuándo se crea | Dónde vive |
-|------|--------|-----------------|-------------|
-| **Fleeting** (al vuelo) | Idea suelta capturada mientras lees, ves vídeo, paseas. Texto rápido y desechable. | En cualquier momento | App móvil / inbox |
-| **Literature** (de lectura) | Notas SOBRE el libro: lo que **dice el autor**, citado con página, en frases cortas con tus palabras. Una por libro o por capítulo. | Al terminar la sesión de lectura | `lecturas/<autor>-<titulo>.md` |
-| **Permanent** (permanente) ⭐ | **Lo que TÚ piensas**, no lo que dice el autor. Una idea atómica autosuficiente, título declarativo, enlazada a otras notas permanentes. | Al destilar literature notes | `permanent/` o `conceptos/` |
-| **Structure / Index** | Mapa que conecta varias permanent notes sobre un tema. Es donde ocurre el pensamiento sintópico (varios autores sobre un mismo problema). | Cuando ya tienes 5-10 permanents sobre un tema | `mapas/` |
-
-**La regla crítica:** una literature note dice "Marx argumenta que..." (con cita). Una permanent note dice "**El velo de ignorancia presupone un sujeto desencarnado que la crítica feminista refuta**" — sin "Rawls dice", sin "según...", sino tu posición. **Sin esta distinción, el sistema no funciona.**
-
-### Por qué este sistema y no otros
-
-- **PARA de Tiago Forte** (Projects/Areas/Resources/Archives): bueno para knowledge workers corporativos, **mediocre para humanidades**. Su "Progressive Summarization" (resaltar lo ya resaltado) es uno de los métodos peor evaluados por la investigación pedagógica (Dunlosky et al., 2013).
-- **Cornell Notes**: bueno para clases en vivo + texto STEM. **Insuficiente** para filosofía política densa: no captura red de conceptos ni escala a 70 autores.
-- **Solo Anki**: atomiza tanto que pierdes el argumento. Es bisturí, no aspiradora.
-- **Solo "tomar notas a mano en cuaderno"**: bonito pero NO compounding. A los 18 meses no encuentras lo que escribiste hace 12.
+1. **Lees en ebook** — no puedes anotar márgenes físicos del libro. Necesitas un workflow externo deliberado.
+2. **Te gusta escribir a mano en papel** — escribir activa procesamiento cognitivo distinto al de teclear (investigación de Mueller & Oppenheimer, *The Pen Is Mightier Than the Keyboard*, 2014). Aprovecharlo es ventaja, no atraso.
+3. **70+ autores en 28 meses** — el volumen es alto. Sin sistema, los últimos meses olvidas los primeros.
 
 ---
 
-## :material-tools: Stack técnico recomendado (~225€ total para 28 meses)
+## :material-arrow-decision: Elige tu workflow
 
-### Lectura
+Hay **tres caminos válidos**. Lee los tres y elige el que mejor te encaje. **Todos son gratuitos** (o casi).
 
-| App | Para qué | Coste |
-|-----|----------|-------|
-| **Kindle app en iPad** | Libros comerciales en español (Akal, Alianza, FCE) | Gratis (libros aparte) |
-| **PDF Expert / Apple Books** | PDFs académicos sueltos | Gratis (Apple) / ~$10 |
-| **MarginNote 4** *(opcional)* | Los 8-12 libros vertebrales del curso. Outline + mindmap + flashcards. | ~$60-100 one-time |
-| *Más adelante*: Boox e-ink | Descansar la vista | 400-700€ (no necesario ahora) |
+| Workflow | Para quién | Coste | Setup |
+|----------|------------|-------|-------|
+| **A — Papel** (Commonplace + fichas) | Te gusta escribir a mano, quieres romper con pantallas, te atrae la tradición clásica (Locke, Newton, Luhmann). | 30-60€ (cuaderno + fichas + caja) | 1 tarde |
+| **B — Notion** (gratis, cloud) | Quieres digital fácil sin instalar nada, sin pagar, con acceso desde móvil. | **0€** (plan free personal) | 2-3 h |
+| **C — Híbrido papel + digital** (recomendado) | Quieres lo mejor de ambos: pensar a mano + buscar/backup digital. | 30-60€ + 0€ digital | 1-2 días |
 
-### Captura automática
-
-| App | Para qué | Coste |
-|-----|----------|-------|
-| **Readwise** ⭐ | Aspira automáticamente highlights de Kindle, Apple Books, Kobo, Twitter, web. **Daily Review** con spaced repetition de highlights antiguos. Plugin Obsidian nativo. | ~$8/mes · ~225€ en 28 meses |
-| **Zotero** + Better BibTeX | Gestor bibliográfico académico. **Estándar real de doctorandos.** | Gratis |
-
-### Procesado y conocimiento
-
-| App | Para qué | Coste |
-|-----|----------|-------|
-| **Obsidian** ⭐ | Tu cuaderno principal. Markdown plano, archivos locales (no lock-in), enlaces bidireccionales, grafo, plugins. | Gratis |
-| Plugins esenciales | Readwise Official, Obsidian-Git, Templater, Dataview, Zotero Integration | Gratis |
-| **Anki** | Spaced repetition quirúrgico (15-30 tarjetas por libro vertebral, no más) | Gratis |
-
-### Publicación
-
-Tu sitio MkDocs en GitHub Pages ya está. **No necesitas Obsidian Publish** ni nada más.
+**Importante:** los **principios** del sistema son los mismos en los tres workflows. Lo que cambia es el medio. Mira la sección "Los 4 tipos de notas" — aplica igual en papel que en Notion.
 
 ---
 
-## :material-cog: Workflow paso a paso (por autor)
+## :material-school: Los 4 tipos de notas (aplica a los 3 workflows)
 
-### Antes de empezar (una vez)
+| Tipo | Qué es | Cuándo se crea |
+|------|--------|----------------|
+| **Fleeting** (al vuelo) | Idea suelta capturada al pasar (lees, ves vídeo, paseas). Texto rápido y desechable. | En cualquier momento — móvil, post-it, app de notas |
+| **Literature** (de lectura) | Notas SOBRE el libro: lo que **dice el autor**, citado con página, en frases cortas. Una por libro o por capítulo. | Al terminar cada sesión de lectura |
+| **Permanent** (permanente) ⭐ | **Lo que TÚ piensas**, no lo que dice el autor. Una idea atómica autosuficiente, título declarativo, enlazada a otras notas permanentes. | Al destilar literature notes (semanal) |
+| **Structure / Index** | Mapa que conecta varias permanent notes sobre un tema. Es donde ocurre el pensamiento sintópico. | Cuando ya tienes 5-10 permanents sobre un tema |
 
-1. Crear Vault Obsidian en `c:\Users\vicen\Documents\Libros Politica\` (el mismo repo).
-2. Carpetas: `inbox/`, `lecturas/` (que ya tienes en docs/), `permanent/`, `mapas/`.
-3. En `.gitignore` decidir si `permanent/` se publica o queda privado.
-4. Configurar Readwise → conectar Kindle → instalar plugin Readwise en Obsidian.
-5. Configurar Zotero con Better BibTeX.
+**La regla crítica:** una literature note dice "*Marx argumenta que…*" (con cita). Una permanent note dice "**El velo de ignorancia presupone un sujeto desencarnado que la crítica feminista refuta**" — sin "según…", sin atribución pasiva, sino TU posición. Sin esta distinción, **el sistema es Pinterest filosófico** — tienes archivo, no pensamiento.
 
-### Por cada autor (~3 semanas para autor mayor)
-
-#### Semana 1 — Lectura inspeccional (Adler nivel 1)
-
-- 1-2 días: índice, prólogo, capítulos clave. Velocidad alta.
-- **Salida:** una `lecturas/<autor>-<titulo>.md` vacía con:
-  - Frontmatter (autor, año, fase, bloom: 0)
-  - Sección "Preguntas que voy a responder" (3-5 preguntas)
-  - Sección "Tesis central (mi hipótesis previa)"
-
-#### Semana 1-2 — Lectura analítica (Adler nivel 2)
-
-- Lees subrayando con **criterio**. Máximo ~15-25 highlights por libro denso. Si vas pasando de 50, estás subrayando, no leyendo.
-- Readwise importa todos los highlights a `inbox/Readwise/<libro>.md` automáticamente.
-- **Cada sesión termina con la pregunta de cierre obligatoria**: "En una frase, ¿qué he aprendido hoy que no sabía esta mañana?" (cierre Adler).
-
-#### Semana 2 — Destilación (lo crítico)
-
-- Abres tu literature note y los highlights de Readwise.
-- Escribes la **literature note completa**: tesis del autor en 3 frases, 5 ideas clave con página, citas memorables.
-- **Identifica entre 5 y 15 ideas que TE inspiran a pensar**. Cada una se vuelve una **permanent note**.
-
-**Anatomía de una permanent note bien hecha:**
-
-```markdown
----
-fecha: 2026-05-14
-fuente: lecturas/rawls-teoria-justicia.md
-tags: [justicia, liberalismo, contractualismo]
-bloom: 4
 ---
 
-# El velo de ignorancia presupone un sujeto sin género ni raza
+## :material-notebook: WORKFLOW A — Papel (commonplace book + fichas)
 
-Rawls construye la posición original eliminando atributos
-contingentes (clase, género, raza, talento). El supuesto operativo:
-si quitas esos atributos, lo que queda es **el sujeto racional moral**
-de base, capaz de elegir principios universales.
+Este es el camino que Locke describió en *New Method of Making Common-place-Books* (1706). Lo usaron Newton, Jefferson, Emerson, Marcus Aurelius. Luhmann lo usó hasta 1997 con 90.000 fichas y produjo 70 libros. **No es nostalgia — es tradición probada de 500 años.**
 
-**Crítica feminista (Crenshaw, Mohanty):** ese "sujeto sin atributos"
-no es neutralidad — es **el sujeto liberal blanco varonado**
-universalizado. El velo no oculta el género; lo invisibiliza.
+### Materiales (~30-60€ total)
 
-**Crítica decolonial (Quijano, Cusicanqui):** el sujeto contractualista
-es producto histórico del 1492. No preexiste — fue producido por
-la colonialidad.
+- **Un cuaderno bueno para *commonplace book*:**
+  - Leuchtturm1917 A5 numerado con índice (~25€). Estándar de Bullet Journal pero perfecto para esto.
+  - Alternativas: Moleskine, Mnemosyne, cualquiera con ~200 páginas + papel decente para tinta.
+- **Fichas A6 (o tarjetas 4x6")** para **permanent notes** estilo Luhmann:
+  - 500-1000 fichas blancas A6 — ~10€ en cualquier papelería.
+  - **Una caja o fichero** — caja de zapatos sirve. Si quieres elegancia, fichero de madera (~30€) o de cartón rígido (~15€).
+- **Bolígrafo o pluma cómodo** para sesiones largas (cualquiera, pero pluma estilográfica reduce fatiga).
+- *Opcional:* índice tabulado con tabuladores autoadhesivos para el cuaderno.
 
-**Mi posición:** la posición original NO es desencarnación —
-es una desencarnación específica (la occidental moderna). Útil para
-diagnósticos intra-occidentales, inválida para situaciones donde
-las categorías mismas están en disputa colonial.
+### Estructura del commonplace book
 
-**Conecta con:**
-- [[Crenshaw - Mapping the Margins]]
-- [[Quijano - colonialidad del poder]]
-- [[Sandel - critica comunitarista a Rawls]]
-- [[Sujeto racional moderno como ficción]]
+Sigue la lógica de Locke (adaptada):
+
+1. **Páginas 1-10 — Índice / Tabla de temas.** Reserva. Vas a usarlo todo el plan.
+2. **Páginas 11+ — Entradas en orden cronológico.** Cada vez que lees, escribes ahí. NO organizado por tema, organizado por **cuándo lo leíste**. El índice del frente te lleva por tema.
+
+**Anatomía de una entrada (una página por sección de lectura):**
+
+```
+─────────────────────────────────────
+Fecha: 14 May 2026   |   Libro p. 47-89
+RAWLS — Teoría de la Justicia, cap. 3
+─────────────────────────────────────
+
+CITA 1 — p. 56
+"Los principios de justicia se eligen
+detrás de un velo de ignorancia."
+
+[Mi reacción al margen: ¿Quién está detrás
+del velo? ¿Qué presuponemos sobre ese
+sujeto? Compárese Crenshaw — interseccional.]
+
+CITA 2 — p. 62
+[…]
+
+PREGUNTA QUE ME QUEDA:
+Si el velo es ya un sujeto, ¿no estamos
+escondiendo el problema en lugar de
+neutralizarlo?
+
+→ Llevar a ficha permanente: "El velo
+   de ignorancia presupone un sujeto"
+─────────────────────────────────────
 ```
 
-**Reglas inviolables:**
+**Al final de cada entrada apunta el tema en el índice del frente** con el número de página. Ej. en página 2 (índice): "Justicia · velo ignorancia · pp. 47, 89, 142, 201…". Así puedes saltar a todo lo que has anotado sobre el tema cuando lo necesites.
 
-- **Una idea por nota.** Si son dos, parte.
-- **Título declarativo** (afirmación completa, no "Rawls").
-- **En tus palabras**, no copia.
-- **Mínimo 2 enlaces** a otras notas existentes (o créalas si no existen).
-- **Sin enlaces, la nota NO existe en el sistema**.
+### Las fichas (permanent notes) — sistema Luhmann
 
-#### Semana 2-3 — Tarjetas Anki quirúrgicas
+Cuando destiles tus literature notes (semanal), las **ideas tuyas** van a **fichas separadas**.
 
-Tras destilar permanent notes, identifica **5-8 conceptos** que querrás recordar en 18 meses:
+**Anatomía de una ficha permanent:**
 
-- Vocabulario técnico (qué es *phronesis*, *Aufhebung*, plusvalía, ch'ixi).
-- Distinciones pareadas (libertad negativa vs positiva, ética de la convicción vs responsabilidad).
-- Fechas de pivote (Schmitt → 1933, *El Capital* → 1867).
+```
+┌─────────────────────────────────────┐
+│ 12a  [Número Luhmann jerárquico]     │
+│                                       │
+│ El velo de ignorancia presupone      │
+│ un sujeto sin género ni raza,        │
+│ y eso lo descalifica como herramienta│
+│ universal                             │
+│                                       │
+│ Rawls construye la posición original │
+│ eliminando atributos contingentes.   │
+│ Pero esa "desencarnación" no es      │
+│ neutralidad: es el sujeto liberal    │
+│ blanco varonado universalizado.      │
+│ El velo no oculta el género — lo     │
+│ invisibiliza como categoría analítica│
+│ (Crenshaw, Mohanty).                 │
+│                                       │
+│ ─── conexiones ───                   │
+│ → 12b (Crenshaw - interseccionalidad)│
+│ → 7c (Quijano - colonialidad)        │
+│ → 12a1 (Sandel critica comunitarista)│
+│                                       │
+│ ─── fuente ───                       │
+│ Rawls *Teoría justicia* §3, p.27 FCE │
+└─────────────────────────────────────┘
+```
 
-Plugin **Obsidian to Anki**: marcas conceptos con sintaxis cloze y se exportan a tu mazo de Anki.
+**El sistema de numeración Luhmann:**
 
-**No más de 8 tarjetas por libro.** En 28 meses tendrás ~500 tarjetas de las que vale la pena acordarse. Mejor 500 cards que valen la pena que 3000 que ignoras.
+- La primera ficha es `1`.
+- La segunda independiente es `2`.
+- Si la tercera ficha **comenta o profundiza** la 1, es `1a`. Si la cuarta sigue comentando es `1b`. Si quieres meter una ficha entre `1a` y `1b`, es `1a1`.
+- Así no rompes la estructura: siempre puedes intercalar sin renumerar todo.
 
-#### Mensual — Ritual Feynman
+**Tu primera ficha es `1`. Luego va creciendo orgánicamente.** En 28 meses tendrás 500-1500 fichas.
 
-**Una vez al mes** (último domingo): escribe un **ensayo corto** (500-800 palabras) explicando a un lector NO-filósofo el autor del mes. Lo guardas en `docs/ensayos/`.
+### Índice del fichero (mantén una ficha separada)
 
-A los 28 meses tendrás ~28 ensayos. **Eso es el borrador de un libro.**
+Una ficha por **tema o autor** que liste números de fichas relacionadas:
 
-#### Trimestral — Revisión sintópica (lectura cruzada de Adler nivel 3)
+```
+JUSTICIA: 1, 1a, 1b, 12a, 12a1, 47, 89…
+RAWLS: 12, 12a, 12a1, 12a2…
+INTERSECCIONALIDAD: 12b, 23, 89…
+SOBERANÍA: 7, 7a, 7b, 14, 14a…
+```
 
-Cada 3 meses:
+### Plan semanal con papel
 
-1. Abres el **grafo de Obsidian**. Ves dónde han crecido los clusters.
-2. Identificas **nodos huérfanos** (notas sin conexiones). O las conectas o las archivas.
-3. Encuentras **clusters temáticos** (ej. todo lo que has acumulado sobre "justicia distributiva" o "soberanía") y creas una **structure note** que los une.
-4. **Decides el siguiente autor del plan** en función de qué preguntas tienes abiertas.
+- **Día a día (15 min):** leer en ebook (Kindle/iPad), escribir **literature note en cuaderno** al final de la sesión.
+- **Fin de semana (60-90 min):** destilar la semana — releer literature notes, escribir 3-7 **permanent notes en fichas**, archivarlas, actualizar índice.
+- **Mensual (1-2 h):** ritual Feynman — escribir un ensayo corto (~500 palabras) en hojas sueltas o en cuaderno separado de "ensayos".
+
+### Por qué papel funciona especialmente bien para filosofía política
+
+- **Procesamiento cognitivo profundo:** escribir a mano fuerza síntesis. No puedes "subrayar y olvidar".
+- **Concentración:** sin notificaciones, sin tentación de abrir Twitter.
+- **Permanencia:** el papel dura 100+ años. Los formatos digitales mutan.
+- **Reorganización física:** las fichas se reordenan en la mesa. El pensamiento es kinestésico (Barthes lo usaba).
+- **Distinción tactil de tipos de notas:** cuaderno = literature, fichas = permanent. Tu mano sabe la diferencia.
+
+### Las debilidades reales del papel
+
+- **No es buscable.** Si quieres encontrar todas las menciones de "soberanía", tienes que ir al índice manualmente.
+- **No hay backup.** Una inundación, un incendio, y se pierde todo. (Soluciones abajo.)
+- **No se comparte fácilmente.** Para publicar en tu sitio MkDocs, tienes que transcribir.
+
+**Solución:** workflow C híbrido (abajo).
+
+[:material-arrow-right: Plantilla detallada para cuaderno commonplace book](../plantillas/plantilla-cuaderno-papel.md){ .md-button }
+[:material-arrow-right: Plantilla detallada para fichas Zettelkasten](../plantillas/plantilla-zettelkasten-papel.md){ .md-button }
 
 ---
 
-## :material-warning: Las trampas que matan el sistema
+## :material-monitor: WORKFLOW B — Notion (gratis, sin instalar)
+
+**Notion plan gratuito personal:** unlimited bloques. Acceso desde web, móvil, escritorio. Sin instalar nada. Sin pagar nada (mientras seas un único usuario personal — y eso es tu caso).
+
+### Setup en Notion (2-3 h primera vez)
+
+Vas a crear **una página principal** ("Curso de Ciencia Política") con varias **databases dentro**.
+
+#### Database 1 — Lecturas (literature notes)
+
+**Propiedades** (columnas):
+
+| Propiedad | Tipo | Valores |
+|-----------|------|---------|
+| Título | Title | Ej. "Rawls — Teoría de la Justicia" |
+| Autor | Text | Rawls, John |
+| Año | Number | 1971 |
+| Fase | Select | 0, 1, 2, 3, 4, 5, M3, M4 |
+| Estado | Select | Por leer · En curso · Terminado |
+| Bloom | Number | 0-6 |
+| Tags | Multi-select | justicia, liberalismo, contractualismo, ... |
+| Fecha terminado | Date | |
+
+Plantilla de página (configurable):
+
+- **Tesis central (3 frases)**
+- **Capítulos leídos y notas por capítulo**
+- **5 ideas que me marcaron** (con número de página)
+- **Mi crítica / objeción**
+- **Diálogo con otros autores** (links a otras entradas de la database)
+- **Citas para releer**
+- **Permanent notes generadas** (links a la database 2)
+
+#### Database 2 — Permanent notes (ideas tuyas)
+
+**Propiedades:**
+
+| Propiedad | Tipo |
+|-----------|------|
+| Título (declarativo) | Title |
+| Fecha creada | Created time |
+| Fecha modificada | Last edited time |
+| Fuente | Relation → Database 1 (Lecturas) |
+| Tags | Multi-select |
+| Bloom | Number |
+| Conexiones | Relation → Database 2 (a sí misma, para enlazar entre notas) |
+
+Plantilla de página:
+
+- **Cuerpo:** la idea desarrollada en tus palabras (100-300 palabras).
+- **Crítica / objeción que detecto:** opcional.
+- **Conexiones explícitas:** menciona qué otras permanent notes dialogan.
+
+#### Database 3 — Autores
+
+**Propiedades:**
+
+- Nombre, fase, libros leídos (relation a database 1), conceptos clave (text), una posición central del autor (text), línea histórica.
+
+#### Database 4 — Ensayos Feynman
+
+Mensual. Una entrada por ensayo (~500-800 palabras explicando a no-filósofo).
+
+### Vista "Daily Review" en Notion (sustituto gratis de Readwise)
+
+1. En la database de **Permanent notes**, crea una vista filtrada: "Notas creadas hace exactamente X días" (180 días, 90 días, 30 días, 7 días).
+2. Cada mañana abre esa vista. Lee 3-5 notas viejas. Si alguna te sigue golpeando, actualízala o crea una nueva a partir de ella.
+
+**Esto replica gratis lo que Readwise cobra $8/mes.** No es automatizado, pero funciona.
+
+### Importar highlights de Kindle a Notion (gratis)
+
+1. Termina un libro en Kindle.
+2. Ve a [read.amazon.com/notebook](https://read.amazon.com/notebook) (web).
+3. Instala **Bookcision** (bookmarklet gratis): https://readwise.io/bookcision
+4. Click en el bookmarklet → exporta todos los highlights del libro a TXT/JSON.
+5. Copia y pega en una nueva entrada de la database "Lecturas" en Notion. Listo.
+
+### Ventajas de Notion
+
+- **Buscable.** Ctrl+P encuentra cualquier cosa al instante.
+- **Móvil + escritorio.** Notas accesibles desde cualquier lugar.
+- **Relations entre databases.** Equivalente decente a enlaces bidireccionales.
+- **Plantillas reutilizables.** Una vez configurado, abrir nueva entrada es 1 clic.
+- **Gratis.**
+
+### Limitaciones honestas de Notion
+
+- **Cloud lock-in.** Tus notas viven en servidores de Notion. Si Notion sube precios o cierra, debes exportar a Markdown (Notion sí permite export). Pero la organización con databases se pierde.
+- **Sin grafo visual real.** Las "relations" entre páginas son lista, no grafo navegable como Obsidian.
+- **Notion AI cuesta extra.** Lo gratuito es la base. La IA es paga ($8-20/mes).
+- **Privacidad mediana.** Notion ve todo lo que escribes (no es local).
+
+### Cuándo elegir Notion
+
+Si valoras: **simplicidad de setup**, **acceso móvil**, **plantillas visuales bonitas**, **no instalar nada local**. Para tu caso, es una opción legítima.
+
+[:material-arrow-right: Plantilla detallada para setup de Notion](../plantillas/plantilla-notion-setup.md){ .md-button }
+
+---
+
+## :material-vector-link: WORKFLOW C — Híbrido papel + digital (recomendado)
+
+**Por qué este probablemente sea tu mejor opción:** te gusta escribir a mano (ventaja cognitiva) pero también quieres buscar/respaldar/publicar. La combinación es vieja como el commonplace book digitalizado.
+
+### El principio
+
+- **Papel = donde piensas** (literature + permanent notes nacen aquí).
+- **Digital = donde archivas, buscas, publicas** (transcripción semanal de lo mejor).
+
+### Stack (gratis)
+
+| Función | Herramienta | Coste |
+|---------|-------------|-------|
+| Cuaderno (literature notes) | Leuchtturm1917 A5 o similar | 25€ |
+| Fichas (permanent notes) | A6 + caja | 15-30€ |
+| Backup digital + búsqueda | **Notion (gratis)** O **Obsidian (gratis, archivos locales)** | 0€ |
+| Importar Kindle | Bookcision (bookmarklet gratis) | 0€ |
+| Bibliografía | Zotero | 0€ |
+| Spaced repetition (opcional) | Anki | 0€ |
+| Publicación en tu sitio | MkDocs (ya tienes) | 0€ |
+
+**Coste total real: 40-60€ inicial + 0€ recurrente.** Cero suscripciones.
+
+### Rutina semanal
+
+| Día | Donde | Qué haces |
+|-----|-------|-----------|
+| Lun-Vie | **Papel** | Leer en ebook + escribir literature note del día en cuaderno (~15 min/día). |
+| Sábado | **Papel** | Destilar la semana: 3-7 permanent notes en fichas. |
+| Domingo | **Digital** | Transcribir las 3-7 fichas más importantes al digital (Notion u Obsidian). Tomar foto opcional del cuaderno. |
+| Mensual | **Digital** | Ensayo Feynman 500-800 palabras directamente en digital (porque va a publicarse). |
+
+### El truco para no duplicar trabajo
+
+**No transcribas todo a digital.** Solo:
+
+1. **Permanent notes** que te parecen las mejores (las que más te llegan).
+2. **Ensayos Feynman** (van a publicarse al sitio).
+3. **Citas memorables** que vas a citar en ensayos futuros.
+
+Las literature notes del cuaderno se quedan **solo en papel**. Si necesitas consultarlas, abres el cuaderno. El índice del cuaderno te lleva.
+
+### Backup
+
+- **Foto del cuaderno cada fin de mes** subida a Google Drive o iCloud. Costo: 0€. Tiempo: 5 min/mes.
+- **Las fichas físicas** las puedes fotografiar también, o si te animas, escanearlas con app gratis (Adobe Scan).
+
+### Cuándo el digital gana sobre el papel
+
+- Necesitas buscar "todas las menciones de Crenshaw en todo lo que he leído". Solo digital.
+- Quieres publicar un ensayo en el sitio. Solo digital (MkDocs).
+- Has olvidado dónde anotaste algo. El cuaderno tiene índice, pero buscar texto libre es más rápido en digital.
+
+### Cuándo el papel gana sobre el digital
+
+- **Cuando estás pensando una idea nueva.** El papel obliga a desarrollarla lentamente. Teclear es más rápido pero más superficial.
+- **En sesiones largas de lectura.** Pantalla cansa más.
+- **Cuando quieres reorganizar.** Reordenar fichas en una mesa es kinestésico — Notion no replica eso.
+
+---
+
+## :material-cog: Obsidian como alternativa digital (gratis, local)
+
+Si prefieres digital pero quieres **archivos locales tuyos para siempre** (no cloud), **Obsidian es gratis** para uso personal. No requiere Readwise ni suscripción.
+
+### Stack Obsidian gratis
+
+| Componente | Coste |
+|------------|-------|
+| **Obsidian core app** | Gratis para uso personal |
+| Plugins (todos) | Gratis |
+| Sincronización opcional | Obsidian Sync $4/mes O **alternativa gratis: tu repo Git ya hace backup**, o iCloud/Syncthing |
+| Readwise | NO LO NECESITAS. Usa Bookcision (gratis) para Kindle. |
+| Anki + plugin obsidian-to-anki | Gratis |
+
+**Solo pagas Obsidian si quieres la sincronización oficial o publish. Ninguna es necesaria** — tu repo GitHub ya es backup y publicación.
+
+### Workflow Obsidian completamente gratis
+
+1. Lees en Kindle/iPad.
+2. Cuando terminas un libro, vas a read.amazon.com/notebook + Bookcision → descargas TXT con highlights.
+3. Pegas el TXT en una nota `lecturas/<autor>-<titulo>.md` en tu vault Obsidian (que ES tu repo GitHub).
+4. Destilas literature → permanent notes con plantilla.
+5. Commit + push (con Obsidian-Git plugin o GitHub Desktop). Las permanent notes públicas aparecen en tu sitio.
+
+**Coste: 0€.** Lo único que sacrificás vs Readwise: no tienes Daily Review automático. **Lo replicas:** un plugin gratis llamado "Spaced Repetition" en Obsidian hace exactamente eso, gratis.
+
+[:material-arrow-right: Plantilla nota permanente (Markdown)](../plantillas/plantilla-nota-permanente.md){ .md-button }
+
+---
+
+## :material-warning: Las trampas que matan cualquier sistema (papel o digital)
 
 ### 1. Collector's Fallacy
 
 > Creer que **tener** la nota equivale a **saber**.
 
-Capturas highlights de Kindle, los pasas a Readwise, los importas a Obsidian, te sientes productivo. **Pero no has hecho nada cognitivamente.** Las literature notes capturadas son archivo, no pensamiento. **Sin permanent notes propias, el sistema es Pinterest filosófico.**
+Capturas highlights o copias citas, te sientes productivo. **Pero no has hecho nada cognitivamente.** Sin **permanent notes propias**, el sistema es archivo, no pensamiento.
 
-**Test:** revisa tu Obsidian a las 4 semanas de leer un libro. Si todo lo que tienes son highlights, fallaste. Vuelve a destilar.
+**Test:** revisa tu cuaderno/Notion a las 4 semanas de leer un libro. Si todo lo que tienes son citas, fallaste. Vuelve a destilar.
 
 ### 2. Sistema sin output
 
 El sistema sirve a la escritura, no al revés. **Si en 6 meses no has producido un ensayo Feynman, el sistema está roto, no tú.**
 
-### 3. Demasiadas tarjetas Anki
+### 3. Demasiados subrayados o citas
 
-200 cards por libro no es virtud — es ruido. **5-8 cards por autor**, máximo 15 para los vertebrales. El umbral mental: *"¿voy a necesitar recordar esto en frío dentro de 18 meses?"* Si no, no es card.
+Si en un libro de 250 pp subrayás 100 párrafos, no leíste — coloreaste. **Máximo ~15-25 citas bien elegidas por libro.**
 
 ### 4. Sobreoptimización del setup
 
-Pasarse 3 semanas eligiendo el plugin perfecto antes de leer una sola página. **Empieza con setup mínimo viable y mejóralo después de leer 3 libros.**
+Pasarse 3 semanas eligiendo el cuaderno perfecto o el plugin perfecto antes de leer una sola página. **Empieza con setup mínimo viable y mejóralo después de leer 3 libros.**
 
 ### 5. Notas demasiado largas o demasiado cortas
 
-- **Demasiado largas** (>500 palabras): no son ideas atómicas, son ensayos. Pártelas.
+- **Demasiado largas** (>500 palabras en una permanent): no son ideas atómicas, son ensayos. Pártelas.
 - **Demasiado cortas** (<50 palabras): no tienen suficiente argumento para enlazar. Profundízalas.
-
-### 6. Highlighting pasivo en exceso
-
-Si en un libro de 250 pp tienes 100 highlights, no leíste — coloreaste. **Máximo ~15-25 highlights bien elegidos por libro.**
 
 ---
 
-## :material-format-list-checks: Higiene mensual
+## :material-format-list-checks: Higiene mensual (cualquier workflow)
 
 Última hora del último domingo del mes:
 
-- [ ] Revisar `inbox/` — procesar todo lo pendiente o archivar.
+- [ ] Revisar inbox / fichas pendientes — procesar todo o archivar.
 - [ ] Cada literature note nueva debe haber generado ≥3 permanent notes. Si no, ¿qué leíste?
-- [ ] Buscar nodos huérfanos en el grafo. Conectar o archivar.
+- [ ] Buscar conexiones huérfanas (notas sin enlaces). Conectarlas o archivarlas.
 - [ ] Escribir el ensayo Feynman del mes.
-- [ ] Revisar Daily Review de Readwise — ¿hay highlights antiguos que ahora ves distinto? Convertir en nueva permanent note.
+- [ ] Foto del cuaderno (si es papel) para backup.
 
 ---
 
-## :material-arrow-right: Integración con el resto del curso
+## :material-arrow-right: Integración con el curso
 
-| Elemento del curso | Cómo se integra |
-|--------------------|------------------|
-| **[Plantilla de lectura](../lecturas/plantilla.md)** | Es la **literature note** que abres al empezar cada autor. Ya está calibrada. |
-| **[Ritual diario](ejecutar.md)** | El paso "20-30 min escribir en `lecturas/`" es la destilación de literature → permanent. |
-| **[Rúbricas Bloom](bloom-rubricas.md)** | Una permanent note bien hecha está en Bloom N3-N4 (aplicar/analizar). Tu autoevaluación Bloom mide la calidad de tus notas. |
-| **[Mapa de conexiones](conexiones.md)** | Las structure notes son la versión personal de este mapa. El plan te da las conexiones canónicas; tú las reconstruyes en tu vault. |
-| **[Sitio MkDocs](../index.md)** | Cuando una permanent note esté madura, la mueves a `docs/conceptos/`. Se publica con el próximo push. |
-| **Anki** | Plugin obsidian-to-anki sincroniza tu vault con tu mazo Anki. |
-
----
-
-## :material-bookmark-multiple: Tres plantillas que necesitas
-
-### 1. Plantilla de literature note (por libro)
-
-Ya existe: [`docs/lecturas/plantilla.md`](../lecturas/plantilla.md). Cópiala al empezar cada libro.
-
-### 2. Plantilla de permanent note (por idea)
-
-```markdown
----
-fecha: AAAA-MM-DD
-fuente: [[lecturas/autor-titulo]]
-tags: [tag1, tag2]
-bloom: N
----
-
-# [Título declarativo: una afirmación completa en una frase]
-
-[Cuerpo: 100-300 palabras desarrollando la idea con TUS palabras]
-
-**Crítica / objeción que detecto:** [opcional pero recomendado]
-
-**Conecta con:**
-- [[otra-nota-permanente-1]]
-- [[otra-nota-permanente-2]]
-- [[otra-nota-permanente-3]]
-```
-
-### 3. Plantilla de structure note (por tema)
-
-```markdown
----
-tema: [nombre del tema]
-fecha-creada: AAAA-MM-DD
-fecha-actualizada: AAAA-MM-DD
----
-
-# Mapa: [tema]
-
-## Pregunta central
-[La pregunta que estructura este tema]
-
-## Posiciones encontradas
-1. **[Autor X]:** [resumen en 1 frase + enlace a permanent note]
-2. **[Autor Y]:** ...
-3. ...
-
-## Lo que pienso ahora
-[Tu posición provisional]
-
-## Notas conectadas
-- [[permanent-1]]
-- [[permanent-2]]
-- ...
-
-## Lecturas pendientes para profundizar
-- ...
-```
-
----
-
-## :material-clock-fast: Tiempos realistas
-
-- **Setup técnico inicial** (Obsidian + Zotero + Readwise + plantillas + primer autor): **2-3 semanas**.
-- **Fluidez** (ya no piensas en el sistema, solo lees y escribes): **3-4 meses**.
-- **Primer retorno no obvio** (conexión que descubres entre dos autores que no buscabas): **mes 6-8**.
-- **Compounding real** (el grafo te enseña cosas): **mes 12+**.
-- **A 28 meses**: ~700-1.500 permanent notes, ~400-600 cards de Anki, ~25 ensayos Feynman, dominio operativo comparable al final de un máster bien hecho.
+| Elemento | Cómo se integra |
+|----------|------------------|
+| **[Plantilla de lectura](../lecturas/plantilla.md)** | Es la base de la literature note. Funciona tanto en papel (la copias al cuaderno) como en Notion/Obsidian. |
+| **[Plantilla cuaderno papel](../plantillas/plantilla-cuaderno-papel.md)** | El layout exacto del commonplace book + sistema de índice. |
+| **[Plantilla fichas Zettelkasten papel](../plantillas/plantilla-zettelkasten-papel.md)** | Anatomía de una ficha + sistema de numeración Luhmann. |
+| **[Plantilla setup Notion](../plantillas/plantilla-notion-setup.md)** | Configuración paso a paso de las 4 databases en Notion. |
+| **[Plantilla nota permanente Markdown](../plantillas/plantilla-nota-permanente.md)** | Para Obsidian o cualquier editor markdown. |
+| **[Ritual diario](ejecutar.md)** | La sesión semanal de destilación es donde papel/digital cobran sentido. |
+| **[Rúbricas Bloom](bloom-rubricas.md)** | Una permanent note bien hecha está en Bloom N3-N4. Mide la calidad de tus notas. |
+| **[Mapa de conexiones](conexiones.md)** | Las structure notes son la versión personal de este mapa. |
 
 ---
 
 ## :material-link-variant: Recursos verificados
 
-### Documentación canónica
+### Documentación clásica (gratis)
 
-- **Sönke Ahrens — *How to Take Smart Notes* (2017):** [soenkeahrens.de/en/takesmartnotes](https://www.soenkeahrens.de/en/takesmartnotes). El libro que sistematizó el Zettelkasten digital. Léelo entero (180 pp).
-- **Mortimer Adler — *Cómo leer un libro* (1940/1972):** ya en tu plan (Fase 0). Define lectura inspeccional, analítica, sintópica.
-- **Andy Matuschak — Evergreen notes:** [notes.andymatuschak.org/Evergreen_notes](https://notes.andymatuschak.org/Evergreen_notes). El análisis más serio de notas conceptuales.
-- **Zettelkasten.de — Introduction:** [zettelkasten.de/introduction](https://zettelkasten.de/introduction/). Comunidad activa, debates serios.
-- **Critique al hype:** [Zettelkasten as a coping mechanism](https://forum.zettelkasten.de/discussion/1069/zettelkasten-as-a-coping-mechanism-or-why-i-abdicate-the-zettelkasten-method). Léelo para no caer en la trampa de productividad.
+- **John Locke — *A New Method of Making Common-place-Books* (1706):** [Archive.org](https://archive.org/details/newmethodofmakin00lock). El método original. Sí, ese Locke. Sí, papel.
+- **Sönke Ahrens — *How to Take Smart Notes* (2017):** [soenkeahrens.de](https://www.soenkeahrens.de/en/takesmartnotes). El libro que sistematizó el Zettelkasten para digital. Aplica igual a papel.
+- **Mortimer Adler — *Cómo leer un libro*:** ya está en tu Fase 0.
+- **Andy Matuschak — Evergreen notes:** [notes.andymatuschak.org/Evergreen_notes](https://notes.andymatuschak.org/Evergreen_notes). El análisis serio de notas conceptuales (digital).
+- **Zettelkasten.de — Introduction:** [zettelkasten.de/introduction](https://zettelkasten.de/introduction/).
+- **Robert Greene — How I Take Notes** (papel + fichas): [ryanholiday.net/the-notecard-system](https://ryanholiday.net/the-notecard-system-the-key-for-remembering-organizing-and-using-everything-you-read/). El sistema de fichas que usa para escribir libros.
+- **Ryan Holiday — Commonplace Book:** [ryanholiday.net/notebook](https://ryanholiday.net/the-notebook-i-built-to-organize-my-best-ideas-and-the-systems-i-use-to-actually-do-something-with-them/). Versión moderna del método.
 
-### Apps y herramientas
+### Apps y herramientas gratuitas
 
-- **Obsidian:** [obsidian.md](https://obsidian.md/)
-- **Readwise:** [readwise.io](https://readwise.io/) (~$8/mes, vale para tu volumen)
-- **Zotero:** [zotero.org](https://zotero.org/) (gratis)
-- **Anki:** [apps.ankiweb.net](https://apps.ankiweb.net/) (gratis)
-- **Plugin Readwise-Obsidian:** [github.com/readwiseio/obsidian-readwise](https://github.com/readwiseio/obsidian-readwise)
-- **Plugin Obsidian-Git:** [github.com/Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)
-- **Plugin Obsidian-to-Anki:** [github.com/Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-- **Calibre:** [calibre-ebook.com](https://calibre-ebook.com/) (gestor de biblioteca, gratis)
-- **MarginNote 4** *(opcional, $60-100):* [marginnote.com](https://marginnote.com/) — solo si vas a tratar 8-12 PDFs vertebrales con outline + mindmap.
+- **Notion** (plan personal gratis): [notion.so](https://www.notion.so/)
+- **Obsidian** (gratis para uso personal): [obsidian.md](https://obsidian.md/)
+- **Logseq** (gratis, open source, alternativa a Obsidian): [logseq.com](https://logseq.com/)
+- **Zotero** (gratis, gestor bibliográfico): [zotero.org](https://zotero.org/)
+- **Anki** (gratis, spaced repetition): [apps.ankiweb.net](https://apps.ankiweb.net/)
+- **Bookcision** (Kindle highlights export, gratis): [readwise.io/bookcision](https://readwise.io/bookcision)
+- **Calibre** (gestor de biblioteca, gratis): [calibre-ebook.com](https://calibre-ebook.com/)
 
-### Humanidades digitales
+### Material físico
 
-- **Regina Martínez Ponciano — Research methods for a Humanities PhD:** [martinezponciano.es/2021/04/05/research-methods-and-tools-for-a-humanities-phd-zettelkasten-obsidian-zotero-and-pandoc](https://martinezponciano.es/2021/04/05/research-methods-and-tools-for-a-humanities-phd-zettelkasten-obsidian-zotero-and-pandoc/). El workflow real de doctorandos en humanidades.
+- **Leuchtturm1917 A5 numerado:** ~25€ — Amazon, papelerías.
+- **Fichas A6 blancas:** ~10€ por pack de 500 — papelerías.
+- **Caja de madera para fichas:** ~30€ — Amazon "wooden index card box" o equivalente.
+
+---
+
+## :material-clock-fast: Tiempos realistas
+
+- **Setup inicial** (cuaderno + fichas comprados + plantillas leídas + primer autor): **1 tarde para papel, 2-3 h para Notion, 1 día para híbrido**.
+- **Fluidez** (no piensas en el sistema, solo lees y escribes): **6-8 semanas**.
+- **Primer retorno no obvio** (conexión que descubres entre dos autores que no buscabas): **mes 4-6**.
+- **Compounding real**: **mes 12+**.
+- **A 28 meses:** ~500-1500 fichas permanent, ~25-30 ensayos Feynman, cuaderno lleno o casi.
 
 ---
 
 [:material-arrow-left: Volver al Plan](index.md){ .md-button }
-[:material-notebook-edit: Plantilla literature note](../lecturas/plantilla.md){ .md-button }
-[:material-download: Plantillas descargables](../plantillas/index.md){ .md-button .md-button--primary }
+[:material-notebook: Plantilla cuaderno papel](../plantillas/plantilla-cuaderno-papel.md){ .md-button }
+[:material-card-text: Plantilla fichas papel](../plantillas/plantilla-zettelkasten-papel.md){ .md-button }
+[:material-monitor: Plantilla setup Notion](../plantillas/plantilla-notion-setup.md){ .md-button .md-button--primary }

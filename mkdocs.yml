@@ -116,4 +116,7 @@ nav:
       - Visión general: plantillas/index.md
       - Log de falacias: plantillas/plantilla-falacia.md
       - Ensayo propio: plantillas/plantilla-ensayo.md
-      - Nota permanente (Zettelkasten): plantillas/plantilla-nota-permanente.md
+      - Nota permanente (markdown): plantillas/plantilla-nota-permanente.md
+      - Cuaderno papel (commonplace book): plantillas/plantilla-cuaderno-papel.md
+      - Fichas Zettelkasten papel: plantillas/plantilla-zettelkasten-papel.md
+      - Setup Notion (gratis): plantillas/plantilla-notion-setup.md
