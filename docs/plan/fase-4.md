@@ -108,12 +108,43 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 - :material-file-document: [PDF (Columbia University)](http://www.columbia.edu/cu/spanish/courses/spanish3350/02independencia/pdf/jamaica.pdf)
 - :material-file-document: [Edición conmemorativa Venezuela](https://albaciudad.org/wp-content/uploads/2015/09/08072015-Carta-de-Jamaica-WEB.pdf)
 
-#### José Martí — *Nuestra América* (1891, ~10 pp)
+#### José Martí — *Nuestra América* (1891 · completo ~10 pp · 1-2 h)
 
-El ensayo fundacional del latinoamericanismo. Cortísimo y de retorno máximo.
+**Por qué este ensayo:** **el manifiesto fundacional del latinoamericanismo moderno**. En 10 páginas Martí inventa "Nuestra América" como **categoría política distinta** de "la otra América" (anglosajona, Estados Unidos). Su tesis — que hay un proyecto civilizatorio propio mestizo-indígena-criollo que no debe imitar a Europa ni someterse a EEUU — es el ADN ideológico de toda la izquierda y de mucho del progresismo latinoamericano del XX-XXI.
 
-- :material-file-document: [PDF (CLACSO)](https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/15321/1/Nuestra_America_Jose_Marti.pdf)
-- :material-file-document: [HTML (Ciudad Seva)](https://ciudadseva.com/texto/nuestra-america/)
+**Contexto humano:** Nueva York 1891. Martí (38 años) lleva 11 años exiliado en EEUU mientras prepara la independencia de Cuba (que estallará en 1895; Martí muere en la primera batalla). **Es periodista, no académico** — escribe en *La Revista Ilustrada* de NY para públicos amplios. **Conoce EEUU desde dentro y desconfía de él** justamente por eso. Predijo con precisión el imperialismo estadounidense que llegaría en 1898 (Cuba, Filipinas, Puerto Rico).
+
+**Pre-requisitos:** Bolívar (Martí lo continúa). Conocimiento mínimo de fines del XIX latinoamericano.
+
+**La pregunta clave:** *¿Qué tipo de proyecto político-cultural debe construir "Nuestra América" para no ser apéndice de Europa ni colonia de Estados Unidos?*
+
+**Conceptos clave:**
+
+- **Nuestra América:** categoría política. NO geográfica simple — es proyecto contra otras Américas.
+- **"Trincheras de ideas valen más que trincheras de piedra":** el combate principal es cultural-intelectual antes que militar.
+- **Mestizo-indígena-criollo:** la población real, no la imaginada europea. La política debe reconocerla.
+- **Anti-imperialismo preventivo:** anticipa el rol futuro de EEUU como amenaza al subcontinente.
+
+**Lecturas paralelas:** :material-file-document: Martí — Cartas escogidas, especialmente desde NY.
+
+**Vinculación:**
+
+- **Continúa a Bolívar:** *Nuestra América* es la *Carta de Jamaica* 76 años después.
+- **Anticipa a Mariátegui (F2):** el indigenismo socialista mariateguiano respira Martí.
+- **Premisa de toda izquierda latinoamericana:** Chávez, Allende, López Obrador citan a Martí.
+- **Premisa de Bueno (Bloque B):** la Hispanidad buenista construye sobre Martí.
+- **Discute con la modernización liberal:** Martí rechaza el modelo Sarmiento ("civilización vs barbarie") — la "barbarie" indígena es parte del proyecto.
+
+**Punto de naufragio:** ninguno técnico — texto breve y poético. Riesgo: leer como **literatura patriótica** y no como filosofía política. Es las dos cosas a la vez.
+
+**Salida medible:**
+
+- **N2:** explicas qué es "Nuestra América" como categoría política.
+- **N3:** aplicas Martí a la geopolítica latinoamericana actual (CELAC, OEA, BRICS).
+- **N4:** identificas las tensiones internas (Martí defiende mestizaje y al mismo tiempo respeto a "lo indígena puro" — ¿son compatibles?).
+
+:material-file-document: [PDF (CLACSO)](https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/15321/1/Nuestra_America_Jose_Marti.pdf)
+:material-file-document: [HTML (Ciudad Seva)](https://ciudadseva.com/texto/nuestra-america/)
 
 ### Bloque B — Materialismo Filosófico y Hispanidad (la línea Bueno/Armesilla, ~2 semanas)
 
@@ -160,11 +191,44 @@ El ensayo fundacional del latinoamericanismo. Cortísimo y de retorno máximo.
 
 **Adición tras revisión académica:** Echeverría es probablemente la **laguna más sangrante** de Fase 4 original. Su concepto de **"modernidad barroca"** hace exactamente el trabajo que Bueno pretende (defender una matriz iberoamericana frente a la anglosajona) pero **con rigor marxista** y **sin la deriva hispano-nacionalista** de Bueno.
 
-- **Bolívar Echeverría — *Modernidad y blanquitud*** (~200 pp, selección) o *La modernidad de lo barroco* (selección).
-- :material-file-document: Buscar en biblioteca CLACSO — varios de sus textos están en acceso abierto.
-- :material-youtube: Conferencias suyas en YouTube — busca "Bolívar Echeverría modernidad barroca".
+**Bolívar Echeverría — *Modernidad y blanquitud* o *La modernidad de lo barroco*** (~200 pp, selección · 15-22 h)
 
-**Por qué leerlo:** Bueno y Echeverría coinciden en que **algo distinto pasa en la matriz hispánica**, pero Echeverría no lo lee como superioridad civilizatoria sino como **modo barroco de habitar la modernidad capitalista**. Te permite leer Bueno críticamente sin caer en su trampa nacionalista.
+**Por qué este libro:** Echeverría formula la **tesis latinoamericana más sofisticada sobre la modernidad capitalista**. Su concepto de "ethos barroco" — un modo histórico de habitar el capitalismo distinto del puritano calvinista anglosajón (que Weber estudió) y del cínico contemporáneo — explica por qué Latinoamérica no se "occidentaliza" del todo. **Es alternativa rigurosa a Bueno: ambos defienden la especificidad iberoamericana, pero Echeverría sin nacionalismo ni cristianismo militante.**
+
+**Contexto humano:** quiteño-mexicano. Echeverría (1941-2010) era ecuatoriano que vivió en México desde los 60. Profesor en la UNAM. Marxista heterodoxo formado en Alemania (estudió con Adorno). Murió con ~70 años habiendo producido una obra densa pero relativamente desconocida fuera del mundo hispanohablante. **Es probablemente el filósofo marxista latinoamericano más subestimado del siglo XX.**
+
+**Pre-requisitos:** Marx (Echeverría es marxista). Weber (la *Ética protestante* es referencia central de Echeverría).
+
+**La pregunta clave:** *¿Por qué la modernidad capitalista produce distintos "ethos" según las regiones donde se asienta, y por qué la matriz iberoamericana barroca es una de ellas?*
+
+**Conceptos clave:**
+
+- **Cuatro ethos del capitalismo:** Echeverría identifica 4 modos históricos de habitar el capitalismo — **realista** (Europa norte, calvinista), **clásico** (burguesía culta), **romántico** (revolucionario), **barroco** (Iberoamérica). Cada uno hace funcional al capital pero les pone marcos culturales distintos.
+- **Ethos barroco:** el modo iberoamericano. Acepta el capitalismo en lo económico mientras lo **resignifica** simbólicamente. Permite "vivir el capitalismo sin ser capitalista del todo".
+- **Modernidad y blanquitud:** la modernidad capitalista exige "blanqueamiento" cultural — pero también produce sus resistencias barrocas, indígenas, mestizas.
+- **Crítica al Estado nación:** Echeverría es marxista pero rechaza el estatismo. Su utopía es una "modernidad alternativa" desde lo barroco.
+
+**Lecturas paralelas:**
+
+- :material-youtube: Buscar "Bolívar Echeverría modernidad barroca" en YouTube — varias conferencias.
+- :material-file-document: Echeverría — *Vuelta de siglo* (selección): texto más breve introducción.
+
+**Vinculación:**
+
+- **Coincide con Bueno y Armesilla:** algo distinto pasa en la matriz hispano-americana frente a la anglo-protestante.
+- **Discrepa con Bueno:** Echeverría no defiende imperialismo español ni catolicismo como superiores. Su tesis es DESCRIPTIVA (qué pasa históricamente), no PRESCRIPTIVA (qué debe ser).
+- **Continúa a Mariátegui:** marxismo heterodoxo aplicado a Latinoamérica.
+- **Continúa a Weber:** "ethos barroco" es la categoría que Weber omitió en *Ética protestante*.
+- **Anticipa a Cusicanqui (siguiente):** habitar contradicciones no resueltas (ethos barroco ≈ ch'ixi en otro registro).
+
+**Punto de naufragio:** **densidad teórica**. Echeverría escribe denso. Estrategia: ve primero un vídeo de él hablando, después aborda el texto.
+
+**Salida medible:**
+
+- **N3:** identifica una práctica cultural latinoamericana contemporánea como "barroca" en el sentido de Echeverría (acepta el capitalismo en superficie y lo resignifica simbólicamente).
+- **N4:** distingues "barroco" de Echeverría de "barroco" como estilo artístico simple.
+
+:material-file-document: [Buscar en biblioteca CLACSO](https://biblioteca-repositorio.clacso.edu.ar/?query=bolivar+echeverria)
 
 **Recurso audiovisual gratuito clave:**
 
@@ -209,7 +273,39 @@ Cientos de vídeos de Bueno y discípulos. Imprescindible en este bloque aunque 
 - **N2:** explicas la tesis "la modernidad nace en 1492".
 - **N3:** aplicas el concepto de "encubrimiento" a un debate actual sobre memoria histórica.
 - **N4:** identificas dónde Dussel coincide con Bueno y dónde discrepa radicalmente. Esta es la pregunta-eje de Fase 4.
-- **Aníbal Quijano — *Colonialidad del poder, eurocentrismo y América Latina*** (ensayo): :material-file-document: [PDF (CLACSO)](https://biblioteca.clacso.edu.ar/clacso/sur-sur/20100708050100/11_quijano.pdf)
+#### Aníbal Quijano — *Colonialidad del poder* (2000 · paper ~30 pp · 3-5 h)
+
+**Por qué este paper:** Quijano sistematiza en 30 páginas **la categoría central de la teoría decolonial latinoamericana**. Su tesis: la conquista española de América NO solo fue evento histórico — fue **el origen del sistema-mundo capitalista moderno** y de la **matriz racial que sigue operando hoy** aunque las colonias formales hayan desaparecido. Si lees un solo paper decolonial en tu vida, que sea este.
+
+**Contexto humano:** Lima/Buenos Aires. Quijano (1928-2018) fue sociólogo peruano formado en CEPAL. Su trabajo crítica desde dentro tanto el desarrollismo cepalino como el marxismo ortodoxo. **Pasó 50 años produciendo una obra coherente** que solo en sus últimos 20 años recibió reconocimiento internacional (irónicamente, en universidades estadounidenses).
+
+**Pre-requisitos:** Mariátegui (Quijano lo continúa). Wallerstein (sistema-mundo, ausente del plan).
+
+**La pregunta clave:** *¿Por qué la "raza" se inventó en 1492 y por qué sigue estructurando el poder mundial 500 años después?*
+
+**Conceptos clave:**
+
+- **Colonialidad del poder:** estructura de dominación que sobrevive al colonialismo formal. No requiere imperios — vive en categorías cognitivas, instituciones, jerarquías raciales naturalizadas.
+- **Raza como invención colonial:** la categoría "raza" no existía antes de 1492. La conquista la INVENTA para clasificar y jerarquizar poblaciones.
+- **Patrón mundial de poder:** raza + control del trabajo + control de la autoridad + control de la subjetividad/conocimiento + control del género/sexualidad. Es una sola red de categorías que se sostienen mutuamente.
+- **Eurocentrismo:** Europa como centro epistémico universal. Quijano lo trata como **producto** de la colonialidad, no como malentendido moral.
+
+**Vinculación:**
+
+- **Continúa a Mariátegui:** sistematiza lo que Mariátegui intuyó.
+- **Premisa de toda la decolonialidad anglosajona:** Mignolo, Walsh, Maldonado-Torres, Grosfoguel parten de aquí.
+- **Premisa de Lugones (siguiente):** colonialidad del género es Quijano + Crenshaw aplicado a género.
+- **Será criticado por Cusicanqui:** demasiado académico-europeo en su forma de hablar (irónico, dada la tesis).
+
+**Punto de naufragio:** **densidad conceptual**. 30 pp con muchos conceptos nuevos. Estrategia: léelo dos veces. La primera para mapa general, la segunda para detalle.
+
+**Salida medible:**
+
+- **N2:** explicas qué es "colonialidad del poder" y la distingues de "colonialismo".
+- **N3:** identifica una práctica racial naturalizada en tu sociedad y muestra cómo sigue lógica colonial.
+- **N4:** evalúas la categoría "raza como invención colonial" — ¿hay tipologías raciales pre-colombinas? Si sí, ¿desactivan la tesis de Quijano?
+
+:material-file-document: [PDF (CLACSO)](https://biblioteca.clacso.edu.ar/clacso/sur-sur/20100708050100/11_quijano.pdf)
 - **Silvia Rivera Cusicanqui — *Ch'ixinakax utxiwa*** (~60 pp · 6-8 h): copyright en español; :material-file-document: [versión inglesa abierta](https://criticaltheoryworkshop.com/wp-content/uploads/2018/05/rivera-cusicanqui-chixinakax-eng.pdf)
 
 **Por qué este libro:** Cusicanqui formula un concepto — **ch'ixi** — que **rompe** simultáneamente con (a) las teorías del mestizaje (Vasconcelos, García Canclini), (b) la academia decolonial anglosajona, y (c) el indianismo esencialista. Es probablemente **la propuesta conceptual más original de Latinoamérica en los últimos 20 años**.
@@ -285,14 +381,92 @@ Cientos de vídeos de Bueno y discípulos. Imprescindible en este bloque aunque 
 - **N2:** explicas educación bancaria vs liberadora.
 - **N3:** identificas dónde en tu propio plan de estudio te estás "bancarizando" (acumulando sin diálogo).
 - **N4:** evalúas: ¿puede el autodidacta hacer educación liberadora sin un educador? (Freire dice: sí, si hay diálogo con los textos y con otros).
-- **Gustavo Gutiérrez — *Teología de la liberación*** (Cap. 11, ~40 pp): :material-file-document: [PDF español (editorial Sígueme oficial)](https://www.sigueme.es/docs/libros/teologia-de-la-liberacion-r2022-web.pdf)
+#### Gustavo Gutiérrez — *Teología de la liberación* (1971 · selección ~200 pp · 18-25 h)
+
+**Por qué:** Gutiérrez **funda la Teología de la Liberación** — transforma al catolicismo latinoamericano. Tesis radical: la pobreza NO es destino divino, es **producto del pecado social estructural**. La fe cristiana exige **opción preferencial por los pobres** y compromiso político transformador.
+
+**Contexto humano:** Perú 1971. Gutiérrez (43 años) sacerdote dominico peruano, mestizo. Asistió a Vaticano II (1962-65) y a Medellín (1968) donde el episcopado latinoamericano formuló la "opción preferencial por los pobres". **Roma lo investigó 20 años por sospechas de marxismo; nunca lo condenaron pero presión constante.**
+
+**Pre-requisitos:** mínima familiaridad con cristianismo. Marx ayuda.
+
+**La pregunta clave:** *¿Cómo debe ser la teología cristiana si toma en serio la situación de los pobres como realidad histórica, no metafísica?*
+
+**Conceptos clave:**
+
+- **Opción preferencial por los pobres:** la fe NO es neutral — exige tomar partido.
+- **Pecado social estructural:** la pobreza es producto de estructuras económicas pecaminosas, no destino individual.
+- **Liberación como categoría teológica:** la liberación histórica forma parte del proyecto de salvación.
+- **Praxis liberadora:** la fe se demuestra en acción, no solo en oración.
+
+**Capítulos clave:** Intro + Parte I (teología como reflexión) + Parte IV (pobreza y liberación).
+
+**Vinculación:**
+
+- **Aplica Marx críticamente:** Gutiérrez usa categorías marxistas (clase, estructura) sin abandonar la fe.
+- **Coincide con Freire:** ambos forman las cinco emancipaciones de los 70.
+- **Influye Vaticano II y Medellín.**
+- **Atacada por Juan Pablo II y Ratzinger** durante décadas.
+- **Anticipa al Papa Francisco:** primer papa latinoamericano viene de esta tradición.
+
+**Punto de naufragio:** **disonancia ideológica** — si vienes con prejuicios anti-religiosos o anti-marxistas, te bloqueás. La Teología de la Liberación es genuinamente ambas cosas simultáneamente.
+
+**Salida medible:**
+
+- **N2:** explicas "opción preferencial por los pobres" como tesis teológica.
+- **N3:** identificas una iniciativa religiosa contemporánea que continúe la tradición liberacionista.
+- **N4:** evalúas: ¿marxismo disfrazado, cristianismo radical, o síntesis nueva?
+
+:material-file-document: [PDF español (editorial Sígueme oficial)](https://www.sigueme.es/docs/libros/teologia-de-la-liberacion-r2022-web.pdf)
 
 ### Bloque E — Feminismo latinoamericano
 
-- **Lélia González — *Por un feminismo afrolatinoamericano*** (paper, ~25 pp): :material-file-document: [PDF original en portugués](https://www.patriciamagno.com.br/wp-content/uploads/2021/04/GONZAL3.pdf) — busca traducciones españolas en bibliotecas.
-- **María Lugones — *Colonialidad y género*** (paper, ~30 pp): :material-file-document: [PDF español (Revista Tabula Rasa)](https://www.revistatabularasa.org/numero-9/05lugones.pdf)
-- **Verónica Gago — *La potencia feminista*** o *La razón neoliberal*: copyright, busca en biblioteca.
-- **Rita Segato — *La guerra contra las mujeres***: copyright, biblioteca o compra.
+#### Lélia González — *Por un feminismo afrolatinoamericano* (1988 · ~25 pp · 2-3 h)
+
+**Por qué:** González inventa **"Améfrica Ladina"** — Latinoamérica vista desde la matriz afroindígena, no eurocriolla. Tesis: el feminismo latinoamericano NO debe imitar al feminismo blanco norteamericano porque las mujeres del subcontinente son mayoritariamente negras, mestizas, indígenas con opresiones múltiples desde 1492.
+
+**Contexto:** Brasil. González (1935-1994) — filósofa, antropóloga, militante del Movimiento Negro Unificado brasileño. Una de las primeras académicas negras en universidades brasileñas.
+
+**Conceptos clave:** Améfrica Ladina (categoría política-cultural); pretoguês (lengua negra-portuguesa como práctica política); racismo y sexismo como matriz única.
+
+**Vinculación:** aplica Davis y Crenshaw a Brasil/LATAM. Anticipa Lugones.
+
+:material-file-document: [PDF portugués original](https://www.patriciamagno.com.br/wp-content/uploads/2021/04/GONZAL3.pdf)
+
+#### María Lugones — *Heterosexualismo y sistema de género colonial moderno* (2008 · ~30 pp · 3-4 h)
+
+**Por qué:** Lugones formaliza la **"colonialidad del género"** — el patriarcado tal como lo conocemos NO preexistía a la conquista. Fue impuesto como tecnología colonial. Las mujeres indígenas vivían en otras matrices de poder/género que la conquista destruyó.
+
+**Contexto:** Argentina-EE.UU. Lugones (1944-2020) filósofa argentina que migró a EE.UU. en los 60. Activista lesbiana y decolonial.
+
+**Conceptos clave:** sistema de género colonial moderno; jerarquía dimorfa/heterosexual impuesta; coloniality of gender (extiende Quijano al género).
+
+**Vinculación:** Crenshaw + Quijano + González. Lectura imprescindible para feminismo decolonial.
+
+:material-file-document: [PDF español (Revista Tabula Rasa)](https://www.revistatabularasa.org/numero-9/05lugones.pdf)
+
+#### Verónica Gago — *La potencia feminista* (2019 · ~200 pp · 12-18 h)
+
+**Por qué:** Gago captura **el feminismo latinoamericano del XXI en su momento más potente**. Tesis: las huelgas feministas (8M argentino, Ni Una Menos) son **insurrecciones contra el neoliberalismo entero** — porque las mujeres sostienen la reproducción social que el neoliberalismo precariza.
+
+**Contexto:** Buenos Aires. Gago (1976-) socióloga UBA, militante del Colectivo Ni Una Menos. **Escribe desde dentro del movimiento.**
+
+**Conceptos clave:** potencia feminista; huelga feminista (suspender trabajo productivo + reproductivo + afectivo); cuerpo-territorio (luchas feministas y extractivistas son la misma); razón neoliberal en lo cotidiano.
+
+**Vinculación:** continúa Crenshaw/Collins desde Argentina. Conecta Federici (acumulación capitalista vía cuerpo femenino) y Segato.
+
+:material-alert-circle: Copyright vigente, biblioteca.
+
+#### Rita Segato — *La guerra contra las mujeres* (2016 · ~250 pp · 15-20 h)
+
+**Por qué:** Segato formula **la mejor teoría sobre el feminicidio contemporáneo**. Tesis: el feminicidio no es desviación individual — es **lenguaje del poder patriarcal** que comunica algo a otros hombres. La violencia sexual es **expresiva**, no instrumental.
+
+**Contexto:** Argentina-Brasil. Segato (1951-) antropóloga que trabajó como peritaje en casos de feminicidios de Ciudad Juárez. **Su teoría viene del campo, no del libro.**
+
+**Conceptos clave:** mandato de masculinidad (performance ante audiencia masculina); pedagogía de la crueldad (la violencia sexual entrena a la sociedad en aceptar otras crueldades); patriarcado colonial moderno (extiende Lugones).
+
+**Vinculación:** Lugones, González, Crenshaw. **Es la teoría más aplicada hoy en políticas públicas latinoamericanas contra violencia de género.**
+
+:material-alert-circle: Copyright vigente, biblioteca o compra.
 
 ---
 
