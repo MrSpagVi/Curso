@@ -10,6 +10,43 @@ title: Empieza Aquí
 
 ---
 
+## :material-alert-circle: ORDEN del curso (importante)
+
+El curso tiene **un paso obligatorio ANTES de Fase 0**. Sin esto, lees y olvidas. Es el sistema de notas.
+
+```
+🔧 SETUP — Sistema de notas        ← AQUÍ EMPIEZAS (1-2 días)
+       ↓
+📚 FASE 0 — Cimientos (Mes 1-2)
+       ↓
+📖 FASE 1 → 2 → 3 → 4 → 5 con M3 y M4 embebidos en cada fase
+```
+
+### Paso 1: SETUP del sistema de notas (1-2 días, antes de leer NADA)
+
+**No empieces a leer libros sin este sistema montado.** Sin él, en 12 meses recordarás el 10% de lo leído (literatura pedagógica probada). Es la diferencia entre "leí muchos libros" y "aprendí de ellos".
+
+1. **Lee la guía completa** de [Sistema de notas](plan/notas.md) (~15 min).
+2. **Elige tu workflow** entre los 3 posibles:
+   - **Papel** (Locke + Luhmann, recomendado si te gusta escribir a mano) — 30-60€ una vez.
+   - **Notion** (gratis cloud) — 0€.
+   - **Híbrido papel + digital** (recomendado para ti) — 40-60€ una vez.
+3. **Compra material** si elegiste papel o híbrido: cuaderno + fichas + caja. Una mañana.
+4. **Configura tu setup digital** si aplica: Notion o Obsidian. ~2-3 h.
+5. **Lee y entiende** [la distinción literature note vs permanent note](plantillas/plantilla-nota-permanente.md) — es la clave de todo.
+
+**Después** de esto, empiezas Fase 0.
+
+### Paso 2: Fase 0 (Mes 1-2)
+
+Lógica, falacias, cómo leer. Ya usas tu sistema de notas con Adler y Schopenhauer.
+
+### Paso 3: Fases 1-5 con M3 y M4 embebidos
+
+Las **5 fases secuenciales** del canon filosófico. Cada una incluye **dentro de sí** lecturas paralelas del Módulo M3 (Pluriverso, autores no-eurocéntricos) y M4 (Historia, contexto histórico) — NO son fases separadas. Cada fase tiene una **caja al principio** y una **tabla detallada al final** indicando qué leer en paralelo de M3 y M4.
+
+---
+
 ## ¿Qué es este curso?
 
 Un **itinerario personal de formación** en filosofía política, sociopolítica, economía y pensamiento crítico. No es una carrera universitaria — es la dieta intelectual de alguien que quiere **saber de lo que habla** sin pretensión académica.
@@ -38,26 +75,25 @@ Para ti si reconoces algo de esto:
 
 ```mermaid
 flowchart TB
+    SETUP["🔧 SETUP — Sistema de notas<br/>1-2 días · OBLIGATORIO antes de F0<br/><i>Papel · Notion · Híbrido</i>"]
     F0["FASE 0 — Cimientos<br/>Mes 1-2<br/><i>Lógica · falacias · cómo leer</i>"]
-    F1["FASE 1 — Filosofía clásica<br/>Mes 3-8<br/><i>Platón → Aristóteles → Maquiavelo →<br/>Hobbes → Locke → Rousseau → Mill → Tocqueville</i>"]
-    F2["FASE 2 — Economía política<br/>Mes 9-12<br/><i>Chang · Smith · Marx · Mariátegui</i>"]
-    F3["FASE 3 — Sociopolítica s. XX<br/>Mes 13-17<br/><i>Weber + Bloque XX-Tardío +<br/>3 corrientes obligatorias + 2 transversales</i>"]
-    F4["FASE 4 — Tradición iberoamericana<br/>Mes 18-22<br/><i>Bolívar · Bueno · Echeverría · Dussel ·<br/>Cusicanqui · Freire · Gutiérrez · feminismo LATAM</i>"]
-    F5["FASE 5 — Síntesis global<br/>Mes 23-28<br/><i>Wallerstein · Mearsheimer · Mbembe · Hardt/Negri ·<br/>Asia (Confucio, Gandhi, Sen, Wang Hui, Maruyama, Ambedkar)</i>"]
+    F1["FASE 1 — Filosofía clásica<br/>Mes 3-8<br/><i>Platón → Aristóteles → Maquiavelo →<br/>Hobbes → Locke → Rousseau → Mill → Tocqueville<br/><b>+ M3: Ibn Jaldún · + M4: Hobsbawm Era de la revolución</b></i>"]
+    F2["FASE 2 — Economía política<br/>Mes 9-12<br/><i>Chang · Smith · Marx · Mariátegui<br/><b>+ M3: Rodney + Said · + M4: Hobsbawm Era del capital + Halperin</b></i>"]
+    F3["FASE 3 — Sociopolítica s. XX<br/>Mes 13-17<br/><i>Weber + Bloque XX-Tardío + 3 corrientes + transversales<br/><b>+ M3: Fanon + Anzaldúa · + M4: Hobsbawm Siglo XX + Judt</b></i>"]
+    F4["FASE 4 — Tradición iberoamericana<br/>Mes 18-22<br/><i>Bolívar · Bueno · Echeverría · Dussel · Cusicanqui · Freire<br/><b>+ M3: Spivak · + M4: Halperin caps. 70-90 + Judt sobre España</b></i>"]
+    F5["FASE 5 — Síntesis global<br/>Mes 23-28<br/><i>Wallerstein · Mearsheimer · Mbembe · Asia (Gandhi, Sen, Wang Hui, Ambedkar)<br/><b>+ M3: Said cap. 3 · + M4: Ferro Parte III (descolonización) + Judt Parte IV</b></i>"]
 
-    M1["M1 — Oratoria<br/>(transversal, todo el plan)"]
-    M2["M2 — Cuaderno de notas<br/>(transversal, todo el plan)"]
-    M3["M3 — Pluriverso<br/>(Ibn Jaldún · Said · Rodney ·<br/>Fanon · Anzaldúa · Spivak)<br/>EMBEBIDO en cada fase"]
-    M4["M4 — Historia<br/>(Hobsbawm tetralogía · Halperin Donghi ·<br/>Judt · Ferro)<br/>EMBEBIDO en cada fase"]
+    M1["M1 — Oratoria · transversal"]
+    M2["M2 — Cuaderno · transversal"]
 
-    F0 --> F1 --> F2 --> F3 --> F4 --> F5
+    SETUP --> F0 --> F1 --> F2 --> F3 --> F4 --> F5
     M1 -.- F0
     M2 -.- F0
-    M3 -.- F2
-    M4 -.- F1
 ```
 
-Los módulos transversales **M3 (Pluriverso)** y **M4 (Historia)** ya NO son separados — están **embebidos en cada fase con una tabla mes a mes** que te dice qué leer en paralelo. Mira al final de cada fase la sección "Lecturas paralelas integradas (M3 + M4)".
+**Los módulos M3 (Pluriverso) y M4 (Historia) están EMBEBIDOS dentro de cada fase**, no son fases separadas. En el diagrama ves qué autor de M3 y qué libro de M4 corresponde a cada fase. Cuando abres una fase, hay una **caja prominente al principio** con las lecturas paralelas, y una **tabla detallada al final** con la distribución semanal.
+
+Las páginas dedicadas [M3 Pluriverso autores](plan/pluriverso-autores.md) y [M4 Historia autores](plan/historia-autores.md) tienen las tarjetas profundas; las **fases te dicen CUÁNDO leer cada uno**.
 
 ## Cómo usar este sitio (tour)
 

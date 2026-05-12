@@ -22,6 +22,23 @@ Al terminar, sabrás:
 
 ---
 
+!!! abstract "Lecturas paralelas en Fase 3 (M3 + M4 embebidos)"
+    Mientras lees Weber + Bloque XX-Tardío + 3 corrientes + transversales, lees también:
+    
+    **Módulo M3 — Pluriverso (2 autores):**
+    
+    - **Frantz Fanon — *Los condenados de la tierra*** (caps. 1, 3, 5) — durante corriente Marxismo (bloque sem. 7-10). "Sobre la violencia" + cultura nacional + trastornos coloniales.
+    - **Gloria Anzaldúa — *Borderlands / La Frontera*** (Parte I caps. 1-7) — durante transversal Feminismo. Frontera EE.UU.-México como concepto político y feminismo chicano.
+    
+    Ver tarjetas profundas: [pluriverso-autores.md](pluriverso-autores.md).
+    
+    **Módulo M4 — Historia:**
+    
+    - **Hobsbawm — *Historia del siglo XX* caps. 3-9** — distribuido en toda la fase (era de catástrofe + Guerra Fría). **El acompañamiento histórico más importante de F3.**
+    - **Judt — *Postguerra* partes I-III** (1945-1989) — desde el bloque Liberalismo en adelante.
+    
+    Ver tabla detallada al final. Tarjetas: [historia-autores.md](historia-autores.md).
+
 ## :material-replay: Checkpoint de retrieval (antes de empezar)
 
 Responde sin consultar:

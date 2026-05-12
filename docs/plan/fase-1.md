@@ -22,6 +22,22 @@ Al terminar, sabrás:
 
 ---
 
+!!! abstract "Lecturas paralelas en Fase 1 (M3 + M4 embebidos)"
+    Mientras lees a Platón → Mill → Tocqueville en esta fase, lees también:
+    
+    **Módulo M3 — Pluriverso (1 autor):**
+    
+    - **Ibn Jaldún — *Muqaddimah*** (selección caps. 1-3, ~200 pp) — empezar en bloque D (Rousseau, sem. 15-19). Da una referencia no-eurocéntrica desde el siglo XIV para todo lo que viene después. Ver [tarjeta profunda](pluriverso-autores.md).
+    
+    **Módulo M4 — Historia (Hobsbawm y otros):**
+    
+    - **Crash Course World History** episodios 5, 22, 29 (Grecia, Renacimiento, Revolución Francesa) — distribuidos en bloques A, B, D.
+    - **Yale HIST 202** lecciones 3-5 (Guerra Civil Inglesa) — bloque C (Hobbes).
+    - **Hobsbawm — *La era de la revolución* caps. 1-3 y 6** — bloque D (Rousseau) y E (Mill).
+    - **Hobsbawm — *Era del capital* caps. 1-3** — bloque E (Mill, era victoriana).
+    
+    Ver tabla detallada al final de la página. Tarjetas profundas: [pluriverso-autores.md](pluriverso-autores.md) · [historia-autores.md](historia-autores.md).
+
 ## :material-replay: Checkpoint de retrieval (antes de empezar)
 
 **Adición tras revisión pedagógica:** antes de empezar Fase 1, responde estas 3 preguntas de Fase 0 **sin consultar tus notas**. Si fallas 2+, dedica una semana a relectura selectiva de Fase 0.

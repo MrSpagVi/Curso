@@ -22,6 +22,24 @@ Al terminar, sabrás:
 
 ---
 
+!!! abstract "Lecturas paralelas en Fase 5 (M3 + M4 embebidos)"
+    Mientras lees Wallerstein → Mearsheimer → Hardt/Negri → Agamben → Mbembe → Asia (Confucio, Gandhi, Sen, Wang Hui, Maruyama, Ambedkar), lees también:
+    
+    **Módulo M3 — Pluriverso (cierre):**
+    
+    - **Edward Said — *Orientalismo* cap. 3 secciones I-II** — si no completaste Said en F2, ciérralo aquí en bloque B (Mbembe). El orientalismo latente vs manifiesto.
+    
+    Ver [tarjeta profunda](pluriverso-autores.md).
+    
+    **Módulo M4 — Historia (cierre):**
+    
+    - **Marc Ferro — *Historia de las colonizaciones* Parte III** — durante bloque B (Agamben, Mbembe) y C (Asia). El proceso histórico de las descolonizaciones del siglo XX.
+    - **Hobsbawm — *Siglo XX* caps. sobre Guerra Fría + epílogo** — bloque A (geopolítica).
+    - **Judt — *Postguerra* Parte IV** (1989-2005) — bloque A (Mearsheimer + Hardt/Negri).
+    - **Documentales Adam Curtis** sobre post-1991 (opcional).
+    
+    Tarjetas profundas: [pluriverso-autores.md](pluriverso-autores.md) · [historia-autores.md](historia-autores.md).
+
 ## :material-replay: Checkpoint de retrieval (antes de empezar)
 
 Responde sin consultar:

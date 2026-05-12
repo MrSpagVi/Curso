@@ -22,6 +22,24 @@ Al terminar, sabrás:
 
 ---
 
+!!! abstract "Lecturas paralelas en Fase 2 (M3 + M4 embebidos)"
+    Mientras lees Chang → Smith → Marx → Mariátegui, lees también:
+    
+    **Módulo M3 — Pluriverso (2 autores):**
+    
+    - **Walter Rodney — *How Europe Underdeveloped Africa*** (caps. 1-6, ~250 pp) — empezar en bloque B (Smith, sem. 4-7) y continuar con Marx. El contrapunto africano a la economía política clásica.
+    - **Edward Said — *Orientalismo*** (Introducción + cap. 1) — bloque C-D (con Marx → Mariátegui). Recontextualiza la economía política mostrando lo que omite.
+    
+    Ver tarjetas profundas: [pluriverso-autores.md](pluriverso-autores.md).
+    
+    **Módulo M4 — Historia:**
+    
+    - **Hobsbawm — *Era del capital* caps. 1-3** — durante Smith (bloque B).
+    - **Hobsbawm — *Era del imperio* caps. 1-2** — durante Marx (bloque C).
+    - **Halperin Donghi — *Historia contemporánea de América Latina* caps. 2-4** — durante Mariátegui (bloque D). Independencias + orden neocolonial peruano.
+    
+    Ver tabla detallada al final de la página. Tarjetas profundas: [historia-autores.md](historia-autores.md).
+
 ## :material-replay: Checkpoint de retrieval (antes de empezar)
 
 Responde sin consultar:

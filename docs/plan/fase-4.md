@@ -22,6 +22,24 @@ Al terminar, sabrás:
 
 ---
 
+!!! abstract "Lecturas paralelas en Fase 4 (M3 + M4 embebidos)"
+    Mientras lees Bolívar → Bueno → Echeverría → Dussel → Cusicanqui → Freire → feminismo LATAM, lees también:
+    
+    **Módulo M3 — Pluriverso (1 autor):**
+    
+    - **Gayatri Spivak — *¿Puede hablar el subalterno?*** (paper, ~80 pp) — durante bloque C (decolonial: Dussel, Quijano, Cusicanqui, sem. 8-12). Cuestionamiento radical interno al pensamiento decolonial mismo.
+    
+    Ver [tarjeta profunda](pluriverso-autores.md).
+    
+    **Módulo M4 — Historia:**
+    
+    - **Halperin Donghi — *Historia contemporánea de América Latina* caps. 2-4** — bloque A (independencias hispanoamericanas).
+    - **Judt — *Postguerra*** secciones sobre España — bloque B (Bueno/Armesilla en la Transición).
+    - **Halperin Donghi caps. finales** — bloque D (cinco emancipaciones, dictaduras del Cono Sur).
+    - **Documental *La batalla de Chile* (Patricio Guzmán)** — bloque D.
+    
+    Tarjetas profundas: [pluriverso-autores.md](pluriverso-autores.md) · [historia-autores.md](historia-autores.md).
+
 ## :material-replay: Checkpoint de retrieval (antes de empezar)
 
 Responde sin consultar:
