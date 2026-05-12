@@ -19,6 +19,12 @@ Cada plantilla es un archivo `.md`. Tres formas de usarla:
 
 ---
 
+## :material-brain: Nota permanente (Zettelkasten)
+
+**La pieza central del sistema de notas.** Una idea atómica TUYA, conectada a otras. Diferente de la nota de lectura — esta es donde piensas, no donde resumes. Ver [Sistema de notas](../plan/notas.md) para la distinción.
+
+[:material-arrow-right: Plantilla completa con ejemplo](plantilla-nota-permanente.md){ .md-button .md-button--primary }
+
 ## Nota de lectura
 
 Una por libro completado. La guardas en `docs/lecturas/[apellido-titulo].md`.
