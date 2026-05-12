@@ -64,12 +64,50 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 
 ## :material-book-open-variant: Libros
 
-### 1. John Mearsheimer — *The Tragedy of Great Power Politics* (~500 pp, selección)
+### 1. John Mearsheimer — *The Tragedy of Great Power Politics* (selección caps. 1-4, 10 · ~250 pp · 15-22 h)
 
-Realismo ofensivo. Explica el mundo actual (rivalidad EE.UU.-China, guerra de Ucrania, Taiwán) mejor que casi cualquier otra teoría.
+**Por qué este libro:** **el manual del realismo geopolítico contemporáneo**. Mearsheimer formaliza por qué las grandes potencias buscan poder relativo, no absoluto — y por qué eso produce conflictos estructurales que las intenciones de los líderes no pueden modificar. **Explica el mundo actual (Ucrania, Taiwán, mar de China meridional, Sahel) mejor que cualquier otra teoría disponible**, aunque sea filosóficamente incómodo.
+
+**Contexto humano:** Chicago, 2001. Mearsheimer (54 años) es profesor en University of Chicago, escuela realista por antonomasia. **Publica el libro un mes antes del 11-S** — el momento cuando la teoría política contemporánea creía en el "fin de la historia" y la "comunidad internacional cooperativa". Mearsheimer dice: nada de eso. Las grandes potencias siguen jugando el mismo juego que en 1914.
+
+**Pre-requisitos:** Hobbes (la anarquía como condición primaria). Maquiavelo (el realismo político). Cierta familiaridad con historia del siglo XX.
+
+**La pregunta clave:** *¿Por qué las grandes potencias siempre buscan más poder, incluso cuando saben que provoca contra-equilibrios costosos?*
+
+**Conceptos clave:**
+
+- **Anarquía internacional:** no hay autoridad superior a los Estados. Cada uno depende de su poder propio.
+- **Realismo ofensivo (vs defensivo):** Mearsheimer dice que los Estados NO solo buscan sobrevivir (Waltz) — buscan **maximizar poder relativo**. Diferencia con el "realismo defensivo" clásico.
+- **Hegemonía regional:** el objetivo realista alcanzable. Hegemonía global es imposible (los océanos lo impiden); hegemonía regional sí.
+- **Stopping power of water:** los océanos hacen muy difícil proyectar poder convencional terrestre. Por eso EE.UU. es hegemonía hemisférica pero no global.
+
+**Capítulos clave:** Cap. 1 (introducción, lógica del realismo ofensivo), Cap. 2 (anarquía y lucha por poder), Cap. 3 (riqueza y poder), Cap. 4 (poder terrestre primario), Cap. 10 (China rise). Opcional Cap. 9 (estrategias).
+
+**Lecturas paralelas:**
+
+- :material-youtube: [Mearsheimer — Why is China unlikely to rise peacefully?](https://www.youtube.com/results?search_query=mearsheimer+china+lecture) — conferencia clásica.
+- :material-file-document: Mearsheimer & Walt — *The Israel Lobby* (2007): controvertido pero metodológicamente realista.
+- :material-file-document: Henry Kissinger — *Diplomacia* (selección): el realismo aplicado por un practicante.
+
+**Vinculación:**
+
+- **Hereda de Hobbes y Maquiavelo** trasladados al sistema internacional.
+- **Antagonista de Habermas:** Habermas cree en acción comunicativa global; Mearsheimer dice que es fantasía.
+- **Será desafiado por Mbembe (#3):** Mearsheimer ve a Estados que compiten; Mbembe ve a Estados que **producen poblaciones desechables** en el sur global. Las dos miradas son complementarias, no excluyentes.
+- **Premisa de la geopolítica multipolar contemporánea:** Putin, Xi, Modi, Lula razonan en términos mearsheimerianos (aunque no lo citen).
+
+**Punto de naufragio:** **disonancia moral**. Si tu orientación es cosmopolita/liberal, Mearsheimer puede parecer cínico. **Lee como diagnóstico, no como prescripción.** Mearsheimer dice "así funciona el mundo", no "así debe funcionar".
+
+**Salida medible:**
+
+- **N2:** explicas la diferencia entre realismo ofensivo y defensivo.
+- **N3:** aplicas el marco mearsheimeriano para analizar la guerra de Ucrania.
+- **N4:** identificas dónde el realismo deja de explicar (intereses internos de los Estados, factores ideológicos, opinión pública).
+- **N5:** sostienes: ¿es el realismo descripción universal o producto de un sistema histórico (Westfaliano) específico?
+
+**Enlaces:**
 
 - :material-internet-archive: [Préstamo digital (Archive.org, inglés)](https://archive.org/details/tragedyofgreatpo00mear)
-- Lectura sugerida: Cap. 1 (la lógica del realismo ofensivo) + Cap. 2 + Cap. 10 (China rise).
 
 ### 2. Giorgio Agamben — *Homo Sacer* (Intro + Parte III) o *Estado de excepción* (~80-100 pp)
 
@@ -109,7 +147,41 @@ Vuelves a un libro de Fases 1-4 con **todo el contexto adquirido**. Vas a leerlo
 
 ### 5. Asia (elige uno, opcional pero recomendado)
 
-- **Gandhi — *Hind Swaraj*** (~80 pp): :material-file-document: [PDF español oficial (mkgandhi.org)](https://www.mkgandhi.org/ebks/hind_swaraj_spanish.pdf)
+- **Gandhi — *Hind Swaraj*** (~100 pp · 6-8 h): :material-file-document: [PDF español oficial (mkgandhi.org)](https://www.mkgandhi.org/ebks/hind_swaraj_spanish.pdf)
+
+**Por qué este libro:** la primera **teoría política sistemática anticolonial no occidental** del siglo XX. Gandhi formula una crítica radical a la civilización industrial occidental Y al nacionalismo indio convencional. Su tesis sorprendente: la independencia india no debe consistir en "expulsar a los británicos y hacer un Estado moderno indio" — debe consistir en **rechazar la civilización industrial entera**.
+
+**Contexto humano:** Sudáfrica → barco a India, 1909. Gandhi (40 años) está volviendo a India tras 20 años en Sudáfrica desarrollando la satyagraha (resistencia no violenta). Escribe *Hind Swaraj* en gujarati durante el viaje en barco entre Londres y Cape Town — en 10 días, como diálogo. **Es el manifiesto que define el resto de su vida política.**
+
+**Pre-requisitos:** mínima familiaridad con India colonial. Útil saber qué fue el Imperio Británico.
+
+**La pregunta clave:** *¿Qué tipo de independencia merece la pena buscar?*
+
+**Conceptos clave:**
+
+- **Swaraj:** "autogobierno". Pero NO solo independencia política — es **autogobierno personal y comunitario**. Implica disciplina ascética.
+- **Satyagraha:** "fuerza de la verdad". Resistencia no violenta como método político superior, no como segundo recurso por debilidad.
+- **Crítica a la civilización moderna:** Gandhi rechaza ferrocarriles, hospitales modernos, abogados, parlamentos. Posición radical y aparentemente reaccionaria que en realidad **anticipa la crítica ecológica del siglo XXI**.
+- **No-violencia como fuerza, no como debilidad:** la no-violencia gandhiana no es pacifismo cobarde — exige más coraje que la violencia.
+
+**Lecturas paralelas:**
+
+- :material-file-document: Gandhi — *Mi experimento con la verdad* (autobiografía, selección): contexto biográfico.
+- :material-file-document: Ambedkar — *Annihilation of Caste* (#6 en esta fase): la crítica interna india a Gandhi. **Léelos en pareja.**
+
+**Vinculación:**
+
+- **Discute con Fanon (M3):** Fanon dice que la violencia revolucionaria es necesaria; Gandhi dice que reproduce el orden colonial. **Las dos posiciones son defendibles** — ahí está la riqueza.
+- **Discute con Ambedkar:** Gandhi quería independencia preservando estructuras tradicionales (incluida casta); Ambedkar dice que la opresión real es la casta, no el colonialismo británico.
+- **Anticipa la crítica ecológica:** la posición anti-industrial de Gandhi es proto-ecologismo.
+
+**Punto de naufragio:** el **rechazo de la civilización moderna**. Suena reaccionario al lector moderno. Tómalo como **experimento conceptual** ("¿qué pasaría si rechazáramos los presupuestos de la modernidad?") antes que como literal.
+
+**Salida medible:**
+
+- **N2:** explicas swaraj y satyagraha.
+- **N3:** aplicas Gandhi a un debate actual sobre desarrollo, descrecimiento o ecología.
+- **N4:** identificas la tensión Gandhi-Ambedkar como el debate INTERNO indio sobre qué se libera al "descolonizar".
 - **Confucio — *Analectas***: :material-file-document: [Trad. Suárez Girard (CETR)](https://cetr.net/files/LUN%20YU%20es.pdf) (selección de Libros I, II, IV, XII)
 - **Amartya Sen — *Identidad y violencia***: copyright (solo fragmento gratis), buscar biblioteca.
 
