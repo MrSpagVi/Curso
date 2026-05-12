@@ -283,6 +283,28 @@ Vuelves a un libro de Fases 1-4 con **todo el contexto adquirido**. Vas a leerlo
 
 ### 6. India crítica (opcional, importante)
 
+#### Wang Hui — *El nuevo orden de China: sociedad, política y economía en transición* (selección · ~200 pp · 15-20 h)
+
+**Por qué este libro:** Wang Hui es **el intelectual público chino más influyente de la "Nueva Izquierda"**. Su tesis: el ascenso económico chino post-Mao NO es "convergencia con Occidente" — es producto de **un proyecto político específico** que combina mercado controlado, planificación, autoridad estatal y herencia cultural confuciana. Sin Wang Hui, la China contemporánea aparece como caja negra. Con él, es proyecto político inteligible.
+
+**Contexto humano:** Beijing. Wang Hui (1959-) es profesor en Tsinghua. **Su trabajo es leído tanto por izquierdas occidentales que admiran a China como por críticos chinos del régimen.** Lo extraordinario: critica al Partido desde dentro de China — no en exilio. Eso le ha costado periodos de marginación.
+
+**Pre-requisitos:** Confucio (idealmente). Marx. Mínimo conocimiento de la Revolución China de 1949 y el Gran Salto Adelante.
+
+**La pregunta clave:** *¿Qué tipo de proyecto político es la China contemporánea, y cómo se sostiene su combinación de mercado capitalista + Estado autoritario + herencia revolucionaria?*
+
+**Conceptos clave:**
+
+- **"Estado-civilización":** China NO es un Estado-nación moderno occidental. Es **continuidad civilizatoria** de 3000 años. Esto cambia las categorías analíticas.
+- **Despolitización post-1989:** tras Tiananmen, el régimen produjo crecimiento económico DESACTIVANDO el debate político. **El precio del crecimiento fue la apatía cívica.**
+- **Universalismo confuciano-marxista:** posibilidad de proyecto emancipatorio mundial que NO sea occidental.
+
+**Vinculación:** complementa a Mearsheimer (#1) con perspectiva interna china. Permite leer la rivalidad EE.UU.-China sin orientalismo.
+
+**Salida medible:** N3 — articulas la posición política de China actual sin recurrir a "totalitarismo" simplista ni "comunismo" caricaturizado.
+
+:material-internet-archive: Archive.org préstamo.
+
 #### B.R. Ambedkar — *Annihilation of Caste* (1936 · completo ~80 pp · 5-7 h)
 
 **Por qué este libro:** Ambedkar es **a Gandhi lo que Marx a Smith** — el crítico interno que muestra los puntos ciegos del proyecto fundacional. Su tesis radical: la opresión real de la India NO es el colonialismo británico (Gandhi) — es **el sistema de castas hindú**. Sin abolir las castas, "independencia india" sería solo cambio de amos. Su análisis se vuelve cada vez más leído porque la sociedad india actual sigue dándole la razón.

@@ -231,7 +231,7 @@ Ver módulo dedicado: [Historia (M4)](historia.md).
 
 - :material-youtube: [Una lectura de los Siete Ensayos (seminario)](https://www.youtube.com/watch?v=8f2KSrRNHzQ)
 - :material-file-document: Alberto Flores Galindo — *Buscando un Inca* (1986, cap. 1): continúa el proyecto mariateguiano una generación después.
-- :material-file-document: **HACER ANTES**: el [ejercicio puente Marx→Mariátegui](#material-bridge-ejercicio-puente-de-marx-a-mariategui) que está arriba en esta página. **Sin ese ejercicio, Mariátegui se lee como historia local en lugar de heterodoxia marxista.**
+- :material-file-document: **HACER ANTES**: el **Ejercicio puente: de Marx a Mariátegui** (justo arriba en esta misma página, después de la sección de Marx). **Sin ese ejercicio, Mariátegui se lee como historia local en lugar de heterodoxia marxista.**
 
 **Vinculación:**
 

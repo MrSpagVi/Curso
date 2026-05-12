@@ -66,7 +66,9 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 | 20 | Hayek — *Camino de servidumbre* | 1944 | Selección (caps. 1, 3, 5-7, 10, 15) | ~130 | 10-15 h | ✅ | [PDF Cato Institute (legal)](https://www.elcato.org/sites/default/files/camino-de-servidumbre-libro-electronico.pdf) |
 | 21 | Popper — *La sociedad abierta y sus enemigos* | 1945 | Selección (Vol. I caps. 1, 4-6, 10; Vol. II caps. 11-17, 23-24) | ~350 | 35-50 h | 📚 | [Archive.org préstamo](https://archive.org/details/popper-la-sociedad-abierta-y-sus-enemigos-en-2-volumenes) |
 | 21b | **Nozick — *Anarquía, Estado y utopía*** *(añadido — contrapunto a Rawls)* | 1974 | Selección (Partes I + III) | ~200 | 18-25 h | 📚 | [Archive.org](https://archive.org/search?query=nozick+anarquia+estado+utopia) |
-| 21c | **Bourdieu — *Sobre el Estado* o *La distinción*** *(añadido — puente Weber→cultural)* | 1979/2012 | Selección | ~200 | 18-25 h | 📚 | Archive.org |
+| 21c | **Adorno & Horkheimer — *Dialéctica de la Ilustración*** *(añadido — Frankfurt)* | 1944 | Selección caps. 1-2 | ~100 | 12-15 h | 📚 | [Archive.org](https://archive.org/search?query=adorno+horkheimer+dialectica+ilustracion) |
+| 21d | **Bourdieu — *Sobre el Estado* o *La distinción*** *(añadido — puente Weber→cultural)* | 1979/2012 | Selección | ~200 | 18-25 h | 📚 | Archive.org |
+| 21e | **Laclau & Mouffe — *Hegemonía y estrategia socialista*** *(añadido — populismo)* | 1985 | Selección caps. 3-4 | ~150 | 18-25 h | 📚 | Archive.org |
 | 22 | Burke — *Reflexiones sobre la Revolución en Francia* | 1790 | Selección (extractos sobre derechos abstractos, tradición, Price) | ~100 | 10-15 h | ✅ | [Inglés completo Gutenberg](https://www.gutenberg.org/ebooks/15679) |
 | 23 | Schmitt — *El concepto de lo político* | 1932 | Completo | ~100 | 12-18 h | 📚 | [Archive.org préstamo](https://archive.org/details/el-concepto-de-lo-politico-carl-schmitt) |
 | 24 | Arendt — *Los orígenes del totalitarismo* | 1951 | Selección (Parte III completa + Parte II cap. 9) | ~300 | 35-45 h | 📚 | [Archive.org préstamo](https://archive.org/details/arendt-hannah.-los-origenes-del-totalitarismo-ocr-2006) |
@@ -115,6 +117,7 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 | 46 | Confucio — *Analectas* | -500 | Selección (libros I-IV, VI, XII, XV) | ~80 | 8-12 h | ✅ | [PDF CETR](https://cetr.net/files/LUN%20YU%20es.pdf) |
 | 47 | Gandhi — *Hind Swaraj* | 1909 | Completo | ~100 | 6-8 h | ✅ | [PDF mkgandhi.org (oficial)](https://www.mkgandhi.org/ebks/hind_swaraj_spanish.pdf) |
 | 48 | Sen — *Identidad y violencia* | 2006 | Completo | ~200 | 12-15 h | 💰 | — |
+| 48b | **Wang Hui — *El nuevo orden de China*** *(añadido — nueva izquierda china)* | varios | Selección | ~200 | 15-20 h | 📚 | Archive.org |
 | 49 | Ambedkar — *Annihilation of Caste* | 1936 | Completo | ~80 | 5-7 h | 🌐 | [PDF Columbia (inglés)](https://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/readings/aoc_print_2004.pdf) |
 
 ---
