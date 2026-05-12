@@ -22,6 +22,24 @@ Al terminar, sabrás:
 
 ---
 
+## :material-replay: Checkpoint de retrieval (antes de empezar)
+
+Responde sin consultar:
+
+1. ¿Qué es la **biopolítica** (Foucault) y cómo se distingue del poder disciplinario?
+2. Resume el argumento principal de **Hayek** en *Camino de servidumbre* en 3 frases.
+3. ¿Cuál es la diferencia entre la **ética de la convicción** y la **ética de la responsabilidad** según Weber?
+
+Si fallas 2+, una semana de relectura selectiva de Fase 3.
+
+---
+
+## :material-clock-outline: Carga horaria realista
+
+**5-7 h/semana** durante 5 meses. La fase más cargada de **tensión interna** (Bueno vs Dussel vs Cusicanqui vs feminismo latinoamericano). Léelas en orden — no las cruces simultáneamente o pierdes el matiz.
+
+---
+
 ## :material-history: Contexto histórico
 
 Esta fase no se entiende sin **dos contextos paralelos**: España posfranquista (Bueno, Armesilla) y América Latina de las dictaduras y la teología de la liberación.
@@ -63,11 +81,22 @@ El ensayo fundacional del latinoamericanismo. Cortísimo y de retorno máximo.
 - :material-file-document: [PDF (CLACSO)](https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/15321/1/Nuestra_America_Jose_Marti.pdf)
 - :material-file-document: [HTML (Ciudad Seva)](https://ciudadseva.com/texto/nuestra-america/)
 
-### Bloque B — Materialismo Filosófico y Hispanidad (Bueno/Armesilla)
+### Bloque B — Materialismo Filosófico y Hispanidad (la línea Bueno/Armesilla, ~2 semanas)
 
-- **Gustavo Bueno — *El mito de la izquierda*** (~250 pp): copyright vigente, biblioteca o compra.
-- **Gustavo Bueno — *España frente a Europa*** (selección): copyright vigente.
-- **Santiago Armesilla — *Iberofonía y panhispanismo*** **o** *Hispanoamericanismo, marxismo y socialismo bolivariano*: copyright vigente.
+**Restructure tras revisión académica:** reducido de 5 a 2 semanas. El Materialismo Filosófico es tradición regional española respetable, pero **darle peso igual al bloque decolonial inflaba artificialmente su importancia académica**. En ningún syllabus de Yale/Oxford/Harvard/UBA/UNAM aparece Bueno como autor central. Mantenemos la tesis pero sin la dosis original.
+
+- **Gustavo Bueno — *El mito de la izquierda*** (selección, ~150 pp): lectura central del bloque. Copyright vigente, biblioteca o compra.
+- *Opcional:* **Bueno — *España frente a Europa*** (selección) y/o **Armesilla — *Iberofonía y panhispanismo***, solo si quieres la línea a fondo. Copyright vigente.
+
+### Bloque B' — Modernidad barroca: Bolívar Echeverría (NUEVO · ~2 semanas)
+
+**Adición tras revisión académica:** Echeverría es probablemente la **laguna más sangrante** de Fase 4 original. Su concepto de **"modernidad barroca"** hace exactamente el trabajo que Bueno pretende (defender una matriz iberoamericana frente a la anglosajona) pero **con rigor marxista** y **sin la deriva hispano-nacionalista** de Bueno.
+
+- **Bolívar Echeverría — *Modernidad y blanquitud*** (~200 pp, selección) o *La modernidad de lo barroco* (selección).
+- :material-file-document: Buscar en biblioteca CLACSO — varios de sus textos están en acceso abierto.
+- :material-youtube: Conferencias suyas en YouTube — busca "Bolívar Echeverría modernidad barroca".
+
+**Por qué leerlo:** Bueno y Echeverría coinciden en que **algo distinto pasa en la matriz hispánica**, pero Echeverría no lo lee como superioridad civilizatoria sino como **modo barroco de habitar la modernidad capitalista**. Te permite leer Bueno críticamente sin caer en su trampa nacionalista.
 
 **Recurso audiovisual gratuito clave:**
 

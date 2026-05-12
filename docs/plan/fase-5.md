@@ -22,6 +22,24 @@ Al terminar, sabrás:
 
 ---
 
+## :material-replay: Checkpoint de retrieval (antes de empezar)
+
+Responde sin consultar:
+
+1. ¿Qué es el **ch'ixi** de Silvia Rivera Cusicanqui y en qué se diferencia de la síntesis hegeliana?
+2. Articula la diferencia entre **Bueno y Dussel** sobre la Conquista española.
+3. ¿Qué son las **cinco emancipaciones latinoamericanas** de los 70?
+
+Si fallas 2+, una semana de relectura selectiva de Fase 4.
+
+---
+
+## :material-clock-outline: Carga horaria realista
+
+**5-7 h/semana** durante 6 meses, pero **el peso se desplaza de lectura a escritura/grabación**. Las últimas 6-8 semanas son producir tu ensayo de 1500-2000 palabras y tu grabación de 10 min. Esta fase es donde demuestras que el plan funcionó.
+
+---
+
 ## :material-history: Contexto histórico
 
 Esta fase aborda **el mundo actual** (1991-hoy) y **los procesos largos de descolonización**.

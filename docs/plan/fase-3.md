@@ -22,6 +22,24 @@ Al terminar, sabrás:
 
 ---
 
+## :material-replay: Checkpoint de retrieval (antes de empezar)
+
+Responde sin consultar:
+
+1. ¿Qué es la **plusvalía** y cómo se distingue del beneficio empresarial ortodoxo?
+2. ¿Qué dice Mariátegui sobre la "cuestión indígena" y por qué su marxismo es heterodoxo?
+3. Explica la **teoría de la dependencia** y su crítica al modelo de desarrollo lineal.
+
+Si fallas 2+, una semana de relectura selectiva de Fase 2 (especialmente el ejercicio puente Marx→Mariátegui).
+
+---
+
+## :material-clock-outline: Carga horaria realista
+
+**6-8 h/semana** durante 5 meses. **La fase más densa del plan.** Weber (obligatorio) + Bloque XX-Tardío (Foucault + Rawls, obligatorios) + 3 corrientes obligatorias (Marxismo + Liberalismo + Conservadurismo) + 2 transversales en paralelo (Feminismo + Totalitarismo). Si la vida te impide sostener este ritmo: completa primero las 3 obligatorias y deja las transversales para repetir el bucle más tarde.
+
+---
+
 ## :material-history: Contexto histórico
 
 Esta fase cubre el **"siglo XX corto" (1914-1991)** según Hobsbawm: dos guerras mundiales, Holocausto, Guerra Fría, descolonización, movimientos sociales.
@@ -88,30 +106,32 @@ Sin Habermas, la crítica de Crenshaw sobre interseccionalidad y esfera pública
 
 ---
 
-## :material-book-multiple: Elige 3 de 5 corrientes
+## :material-book-multiple: 3 corrientes OBLIGATORIAS + 2 transversales
 
-### A. Marxismo del siglo XX
+**Restructure tras revisión académica:** las 3 corrientes obligatorias (marxismo, liberalismo, conservadurismo) son las que definen el outcome principal de la fase ("explicar las 3 grandes corrientes sin caricaturas"). Antes el plan permitía elegir 3 de 5 y saltar liberalismo o conservadurismo — eso desactivaba el outcome. Ahora las 3 son obligatorias y feminismo + totalitarismo pasan a **transversales** (módulos cortos, ~4 semanas cada uno, paralelos a la fase).
+
+### A. Marxismo del siglo XX (OBLIGATORIO)
 
 - **Lenin — *El imperialismo, fase superior del capitalismo*** (~120 pp): :material-file-document: [PDF marxists.org](https://www.marxists.org/espanol/lenin/obras/1916/el-imperialismo.pdf)
 - **Antonio Gramsci — Antología** (selección de los *Cuadernos de la cárcel*): el concepto de **hegemonía cultural** y bloque histórico. :material-file-document: [Selección marxists.org español](https://www.marxists.org/espanol/gramsci/)
 
-### B. Liberalismo
+### B. Liberalismo (OBLIGATORIO)
 
 - **Friedrich Hayek — *Camino de servidumbre*** (~250 pp): :material-file-document: [PDF español (Cato Institute, autorizado)](https://www.elcato.org/sites/default/files/camino-de-servidumbre-libro-electronico.pdf)
 - **Karl Popper — *La sociedad abierta y sus enemigos*** (selección Vol. I): :material-internet-archive: [Préstamo digital (Archive.org)](https://archive.org/details/popper-la-sociedad-abierta-y-sus-enemigos-en-2-volumenes)
 
-### C. Conservadurismo
+### C. Conservadurismo (OBLIGATORIO)
 
 - **Edmund Burke — *Reflexiones sobre la Revolución en Francia*** (selección): :material-file-document: [Capítulo de muestra (Alianza)](https://www.alianzaeditorial.es/primer_capitulo/reflexiones-sobre-la-revolucion-en-francia.pdf) + :material-file-document: [Original inglés completo (Gutenberg)](https://www.gutenberg.org/ebooks/15679)
 - **Carl Schmitt — *El concepto de lo político*** (~100 pp): :material-internet-archive: [Préstamo digital (Archive.org)](https://archive.org/details/el-concepto-de-lo-politico-carl-schmitt)
 
-### D. Totalitarismo y crítica cultural
+### D. Totalitarismo y crítica cultural (TRANSVERSAL · ~4 semanas en paralelo)
 
 - **Hannah Arendt — *Los orígenes del totalitarismo*** (Parte III, ~250 pp): :material-internet-archive: [Préstamo digital (Archive.org español)](https://archive.org/details/arendt-hannah.-los-origenes-del-totalitarismo-ocr-2006)
 - **Mark Fisher — *Realismo capitalista*** (~90 pp): :material-file-document: [PDF español (Caja Negra, editorial oficial)](https://cajanegraeditora.com.ar/wp-content/uploads/2018/12/Realismo.capitalista_Fisher_CajaNegra.pdf)
 - **Byung-Chul Han — *La sociedad del cansancio*** (~80 pp): copyright vigente, biblioteca o compra.
 
-### E. Feminismo interseccional
+### E. Feminismo interseccional (TRANSVERSAL · ~4 semanas en paralelo)
 
 **Entrada principal** (elige una):
 

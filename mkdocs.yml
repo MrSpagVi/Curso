@@ -97,6 +97,10 @@ nav:
       - Módulo Historia (M4): plan/historia.md
       - Cómo ejecutar: plan/ejecutar.md
       - Manual de falacias: plan/falacias.md
+      - Mapa de conexiones: plan/conexiones.md
+      - Rúbricas Bloom: plan/bloom-rubricas.md
+      - Puntos de naufragio: plan/naufragios.md
+      - Salidas honorables: plan/salidas-honorables.md
   - Bibliografía: bibliografia.md
   - Actualidad: actualidad.md
   - Progreso: seguimiento.md

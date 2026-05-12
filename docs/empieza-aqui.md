@@ -146,6 +146,61 @@ Investigación robusta sobre formación de hábitos (BJ Fogg, James Clear) coinc
 - **[Juan Ramón Rallo](https://www.youtube.com/@JuanRamonRallo)** — el lado liberal-austríaco. Para conocer al adversario y debatir.
 - **[Quantum Fracture](https://www.youtube.com/@QuantumFracture)** — vídeos cortos sobre lógica y falacias (entre otros temas).
 
+## :material-clipboard-question: Diagnóstico de entrada (opcional)
+
+**Adición tras revisión pedagógica:** alguien que ya leyó *El Príncipe* y *El Capital* no debería empezar Fase 0 igual que alguien que jamás abrió filosofía. Responde estas 12 preguntas honestamente para auto-ubicarte.
+
+??? question "1. ¿Puedes definir 'falacia lógica' y dar 3 ejemplos concretos?"
+    **Si NO:** empieza en Fase 0 (Schopenhauer + manual de falacias).
+    **Si SÍ:** salta Fase 0 directo a Fase 1, manteniendo el log de falacias diario.
+
+??? question "2. ¿Has leído al menos un libro entero de filosofía política antes? (no resumen, no Wikipedia — el libro)"
+    **Si NO:** Fase 1 es para ti — empieza por Adler en Fase 0.
+    **Si SÍ — uno o dos:** Fase 1 sigue siendo para ti.
+    **Si SÍ — varios (>3):** ve a la pregunta 3.
+
+??? question "3. ¿Puedes distinguir Hobbes / Locke / Rousseau sin caricaturizar a ninguno?"
+    **Si NO:** Fase 1 obligatoria.
+    **Si SÍ:** salta Fase 1 a evaluación (responde sus 6 preguntas de retención sin consultar). Si fallas 2+, vuelves. Si pasas, vas a Fase 2.
+
+??? question "4. ¿Sabes qué es la plusvalía y puedes aplicarla a un caso concreto?"
+    **Si NO:** Fase 2 obligatoria, sin atajos.
+    **Si SÍ:** Fase 2 puede ser relectura crítica, no descubrimiento.
+
+??? question "5. ¿Puedes nombrar las 4 grandes escuelas económicas (clásica, neoclásica, keynesiana, marxista)?"
+    **Si NO:** Fase 2 te desbloquea esto.
+
+??? question "6. ¿Sabes quién es Weber y qué es 'monopolio de la violencia legítima'?"
+    **Si NO:** Fase 3 imprescindible.
+
+??? question "7. ¿Puedes explicar 'hegemonía' (Gramsci) o 'biopolítica' (Foucault)?"
+    **Si SÍ a ambos:** sólido en teoría política contemporánea.
+
+??? question "8. ¿Sabes quiénes son Crenshaw / Patricia Hill Collins y qué es interseccionalidad?"
+    **Si NO:** la corriente transversal feminista de Fase 3 es para ti.
+
+??? question "9. ¿Has oído de Gustavo Bueno y el Materialismo Filosófico?"
+    **Si SÍ:** Fase 4 te servirá pero ya tienes ventaja.
+
+??? question "10. ¿Conoces a Aníbal Quijano, Enrique Dussel o Silvia Rivera Cusicanqui?"
+    **Si SÍ a alguno:** el bloque decolonial de Fase 4 te aportará el resto.
+
+??? question "11. ¿Has escrito un ensayo de 1500+ palabras citando 3+ filósofos políticos?"
+    **Si NO:** la práctica de escritura de Fase 5 es crítica. No la subestimes.
+
+??? question "12. ¿Tienes ahora mismo un ritual diario establecido (cualquiera, no necesariamente de estudio)?"
+    **Si SÍ:** engancha el plan a ese ritual.
+    **Si NO:** empieza por construir el ritual mínimo de 10 min ANTES de comprar un solo libro.
+
+### Cómo interpretar tus respuestas
+
+- **0-3 SÍ:** empieza en Fase 0 sin atajos. Es tu plan completo (28 meses).
+- **4-7 SÍ:** Fase 0 abreviada (2-3 semanas). Acelera.
+- **8-11 SÍ:** salta Fase 0, evalúa Fase 1 respondiendo sus 6 preguntas. Si pasas, empiezas en Fase 2.
+- **12 SÍ:** este plan no es tu nivel. Necesitas algo más avanzado (literatura secundaria, doctorado).
+
+---
+
 ## FAQ corta
 
 ??? question "¿Qué hago si esta semana no me da tiempo?"

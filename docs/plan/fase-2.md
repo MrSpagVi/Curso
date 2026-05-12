@@ -22,6 +22,24 @@ Al terminar, sabrás:
 
 ---
 
+## :material-replay: Checkpoint de retrieval (antes de empezar)
+
+Responde sin consultar:
+
+1. Compara Hobbes vs Locke vs Rousseau en su concepción del estado de naturaleza.
+2. Aplica el principio del daño de Mill a un debate político actual.
+3. ¿Cuál es la tesis principal de Aristóteles sobre la *politeia* (Libro III de la *Política*)?
+
+Si fallas 2+, una semana de relectura selectiva de Fase 1.
+
+---
+
+## :material-clock-outline: Carga horaria realista
+
+**4-6 h/semana** durante 4 meses. Marx Capital es exigente (esperar 50-70 h solo para esa lectura). David Harvey y Rallo en YouTube ayudan a mantener el ritmo.
+
+---
+
 ## :material-history: Contexto histórico
 
 Esta fase es **incomprensible sin la Revolución Industrial y el 1848 europeo**, más la formación del orden oligárquico-exportador latinoamericano.

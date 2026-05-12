@@ -83,9 +83,10 @@ Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**,
 |---|----------------|-----|-----------|---------|--------|--------|------|
 | 32 | Bolívar — *Carta de Jamaica* | 1815 | Completo | ~15 | 2-3 h | ✅ | [PDF Columbia](http://www.columbia.edu/cu/spanish/courses/spanish3350/02independencia/pdf/jamaica.pdf) |
 | 33 | Martí — *Nuestra América* | 1891 | Completo | ~10 | 1-2 h | ✅ | [HTML Ciudad Seva](https://ciudadseva.com/texto/nuestra-america/) |
-| 34 | Bueno — *El mito de la izquierda* | 2003 | Selección | ~150 | 18-25 h | 💰 | — |
-| 35 | Bueno — *España frente a Europa* | 1999 | Selección/Referencia | ~150 | 15-20 h | 💰 | — |
-| 36 | Armesilla — *Iberofonía y panhispanismo* | 2018 | Completo | ~250 | 12-18 h | 💰 | — |
+| 34 | Bueno — *El mito de la izquierda* | 2003 | Selección (reducido tras revisión) | ~150 | 18-25 h | 💰 | — |
+| 35 | **Bolívar Echeverría — *Modernidad y blanquitud*** *(añadido — alternativa rigurosa a Bueno)* | 2010 | Selección | ~200 | 15-22 h | 📚 | [Buscar CLACSO](https://biblioteca-repositorio.clacso.edu.ar/?query=bolivar+echeverria) |
+| 35b | Bueno — *España frente a Europa* *(opcional)* | 1999 | Selección/Referencia | ~150 | 15-20 h | 💰 | — |
+| 36 | Armesilla — *Iberofonía y panhispanismo* *(ahora opcional)* | 2018 | Completo | ~250 | 12-18 h | 💰 | — |
 | 37 | Dussel — *1492: el encubrimiento del Otro* | 1992 | Completo | ~150 | 18-25 h | ✅ | [PDF CLACSO](https://biblioteca.clacso.edu.ar/clacso/otros/20111218114130/1942.pdf) |
 | 38 | Quijano — *Colonialidad del poder…* | 2000 | Completo (paper) | ~30 | 3-5 h | ✅ | [PDF CLACSO](https://biblioteca.clacso.edu.ar/clacso/sur-sur/20100708050100/11_quijano.pdf) |
 | 39 | Rivera Cusicanqui — *Ch'ixinakax utxiwa* | 2010 | Completo | ~80 | 6-8 h | 🌐💰 | [Inglés abierto](https://criticaltheoryworkshop.com/wp-content/uploads/2018/05/rivera-cusicanqui-chixinakax-eng.pdf) |

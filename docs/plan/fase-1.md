@@ -22,6 +22,22 @@ Al terminar, sabrás:
 
 ---
 
+## :material-replay: Checkpoint de retrieval (antes de empezar)
+
+**Adición tras revisión pedagógica:** antes de empezar Fase 1, responde estas 3 preguntas de Fase 0 **sin consultar tus notas**. Si fallas 2+, dedica una semana a relectura selectiva de Fase 0.
+
+1. Nombra las 4 familias de falacias y da un ejemplo de cada una.
+2. Explica las 4 reglas de la lectura analítica según Adler.
+3. ¿En qué se diferencia una *estratagema dialéctica* (Schopenhauer) de una falacia lógica?
+
+---
+
+## :material-clock-outline: Carga horaria realista
+
+**5-7 h/semana** durante 6 meses (no 3-5 como el plan general). Esta fase es densa: 7 obras primarias + Yale Smith + Sandel + Russell como referencia. Si vas más lento, **no aceleres**. Mejor terminar Fase 1 bien en 8 meses que mal en 6.
+
+---
+
 ## :material-history: Contexto histórico
 
 Esta fase cubre **2400 años** (Grecia clásica del siglo V a.C. → Inglaterra victoriana del XIX), así que la mejor estrategia es **un capítulo o vídeo de contexto por autor**:
