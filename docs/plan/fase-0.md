@@ -8,10 +8,17 @@ title: Fase 0 — Cimientos
 
 > Antes de leer a Platón o a Marx necesitas saber **cómo se lee** un libro denso y **cómo se detecta** un mal argumento. Esta fase te da las dos herramientas en 6-8 semanas.
 
-!!! danger "Prerrequisito OBLIGATORIO antes de Fase 0: Sistema de notas"
-    No abras Adler sin haber montado tu sistema de notas (1-2 días). Sin sistema, lees y olvidas. **Ve primero a [Sistema de notas](notas.md)** y elige uno de los 3 workflows (papel, Notion gratis, o híbrido). **Después** vuelves aquí y empezás.
+!!! danger "Prerrequisito OBLIGATORIO antes de Fase 0: Sistema + Habilidad de notas"
+    **No abras Adler sin esto:**
     
-    El primer libro (Adler) lo procesas YA usando el sistema completo — es tu ejercicio de calibración. Si te resistís a este paso, no terminás el plan.
+    1. **Sistema montado** (1-2 días): elige workflow en [Sistema de notas](notas.md) — papel, Notion o híbrido.
+    2. **Habilidad entrenada** (4 semanas): completa el [Tutorial — Aprender a tomar notas](notas-tutorial.md) con sus 15 ejercicios graduados y plan de 30 días.
+    
+    Sin sistema: lees y olvidas. Sin habilidad: tienes formato pero las notas son archivo, no pensamiento.
+    
+    Pasa el **examen final del día 30** (escribir 300 palabras con tesis propia usando solo tus notas, sin volver a los libros). Si lo pasas, empezás Fase 0 con confianza. Si no, repite la semana 2 del tutorial.
+    
+    El primer libro (Adler) lo procesas YA usando el sistema completo — es tu ejercicio de calibración real.
 
 ---
 

@@ -22,20 +22,32 @@ El curso tiene **un paso obligatorio ANTES de Fase 0**. Sin esto, lees y olvidas
 📖 FASE 1 → 2 → 3 → 4 → 5 con M3 y M4 embebidos en cada fase
 ```
 
-### Paso 1: SETUP del sistema de notas (1-2 días, antes de leer NADA)
+### Paso 1: SETUP del sistema de notas (1 mes antes de Fase 0)
 
-**No empieces a leer libros sin este sistema montado.** Sin él, en 12 meses recordarás el 10% de lo leído (literatura pedagógica probada). Es la diferencia entre "leí muchos libros" y "aprendí de ellos".
+**No empieces a leer libros del curso sin la habilidad y el sistema montados.** Sin sistema, en 12 meses recordarás el 10% de lo leído.
 
-1. **Lee la guía completa** de [Sistema de notas](plan/notas.md) (~15 min).
+#### 1a. Elige tu workflow (1-2 días)
+
+1. **Lee la guía** de [Sistema de notas](plan/notas.md) (~15 min).
 2. **Elige tu workflow** entre los 3 posibles:
    - **Papel** (Locke + Luhmann, recomendado si te gusta escribir a mano) — 30-60€ una vez.
    - **Notion** (gratis cloud) — 0€.
    - **Híbrido papel + digital** (recomendado para ti) — 40-60€ una vez.
-3. **Compra material** si elegiste papel o híbrido: cuaderno + fichas + caja. Una mañana.
-4. **Configura tu setup digital** si aplica: Notion o Obsidian. ~2-3 h.
-5. **Lee y entiende** [la distinción literature note vs permanent note](plantillas/plantilla-nota-permanente.md) — es la clave de todo.
+3. **Compra material** si elegiste papel o híbrido.
+4. **Configura tu setup digital** si aplica: Notion o Obsidian.
 
-**Después** de esto, empiezas Fase 0.
+#### 1b. APRENDE LA HABILIDAD (4 semanas, paralelo a 1a)
+
+Tener el sistema NO basta — necesitas aprender los 7 movimientos del experto. Sigue el **[Tutorial — Aprender a tomar notas](plan/notas-tutorial.md)** con su **plan de 30 días**:
+
+- Día 1-7: movimientos básicos (frase declarativa, reformular, identificar tesis).
+- Día 8-14: producir notas reales (literature note de memoria, destilación, conexiones).
+- Día 15-21: profundizar y auto-criticar (Feynman, detección de no-comprensión, auto-objeción).
+- Día 22-30: integración y examen final (escribir 300 palabras usando solo tus permanent notes).
+
+**Cuando pases el examen del día 30** (escribir con tesis propia usando solo tus notas, sin volver a los libros), tienes la habilidad instalada. **Hasta entonces, no empieces Fase 0.**
+
+Después de eso, empiezas Fase 0.
 
 ### Paso 2: Fase 0 (Mes 1-2)
 
@@ -75,7 +87,7 @@ Para ti si reconoces algo de esto:
 
 ```mermaid
 flowchart TB
-    SETUP["🔧 SETUP — Sistema de notas<br/>1-2 días · OBLIGATORIO antes de F0<br/><i>Papel · Notion · Híbrido</i>"]
+    SETUP["🔧 SETUP — Sistema + HABILIDAD de notas<br/>1 mes · OBLIGATORIO antes de F0<br/><i>3 workflows + tutorial 30 días</i>"]
     F0["FASE 0 — Cimientos<br/>Mes 1-2<br/><i>Lógica · falacias · cómo leer</i>"]
     F1["FASE 1 — Filosofía clásica<br/>Mes 3-8<br/><i>Platón → Aristóteles → Maquiavelo →<br/>Hobbes → Locke → Rousseau → Mill → Tocqueville<br/><b>+ M3: Ibn Jaldún · + M4: Hobsbawm Era de la revolución</b></i>"]
     F2["FASE 2 — Economía política<br/>Mes 9-12<br/><i>Chang · Smith · Marx · Mariátegui<br/><b>+ M3: Rodney + Said · + M4: Hobsbawm Era del capital + Halperin</b></i>"]

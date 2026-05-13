@@ -6,6 +6,9 @@ title: Sistema de notas
 
 > La diferencia entre "leí muchos libros" y "aprendí de ellos" es exactamente esto. Sin sistema de notas, en 12 meses recordarás el 10% de lo leído. Con sistema, el conocimiento **compounding**: cada libro nuevo te da más porque dialoga con los anteriores que tienes archivados.
 
+!!! tip "¿Buscas la habilidad concreta, no solo el sistema?"
+    Esta página explica **QUÉ es** el sistema (la infraestructura). Si quieres **APRENDER A TOMAR NOTAS** con ejercicios graduados, ejemplos trabajados (mal/decente/excelente), los 7 movimientos del experto y un plan de 30 días, ve a **[Tutorial — Aprender a tomar notas](notas-tutorial.md)**.
+
 ---
 
 ## :material-target: Por qué importa especialmente en tu caso
