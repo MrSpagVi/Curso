@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-05-16 08:00 UTC_
+_Última actualización: 2026-05-17 08:17 UTC_
 
 ## Real Instituto Elcano
 
@@ -23,29 +23,29 @@ _Última actualización: 2026-05-16 08:00 UTC_
 
 ## BBC News Mundo
 
-- **[Por qué Italia se está convirtiendo en un refugio para los ultrarricos](https://www.bbc.com/mundo/articles/c3exl8qevw8o?at_medium=RSS&at_campaign=rss)** · *2026-05-16*
-  - Las ventajas fiscales italianas están haciendo que muchos adinerados extranjeros se instalen allí.
-- **[Cómo operaba desde México la red de tráfico de migrantes de "Doña Lupe", condenada en EE.UU. a 11 años de cárcel](https://www.bbc.com/mundo/articles/cwy21yzl07po?at_medium=RSS&at_campaign=rss)** · *2026-05-15*
-  - Detenida en México 2023 y extraditada a EE.UU., Ofelia Hernández Salas fue sentenciada por liderar una "prolífica" organización que operó en la zona fronteriza durante años.
-- **[Qué es la trampa de Tucídides y por qué Xi cree que define la relación de EE.UU. con China](https://www.bbc.com/mundo/articles/cjdpy7xv4mdo?at_medium=RSS&at_campaign=rss)** · *2026-05-15*
-  - Una idea nacida en la antigua Grecia que Xi Jinping mencionó frente a Donald Trump expresa los temores a una posible guerra entre la potencia emergente, China, y la hegemónica, Estados Unidos.
-- **[La trágica muerte de 5 buceadores italianos mientras exploraban unas cuevas en Maldivas](https://www.bbc.com/mundo/articles/cx21n9xgdedo?at_medium=RSS&at_campaign=rss)** · *2026-05-15*
-  - Se cree que es el peor accidente de buceo registrado en el país.
-- **[Las hermanas adolescentes de Gaza que ganaron un premio por convertir escombros de la guerra en ladrillos](https://www.bbc.com/mundo/articles/c8r8y88l80zo?at_medium=RSS&at_campaign=rss)** · *2026-05-15*
-  - Farah y Tala, dos adolescentes desplazadas múltiples veces de su hogar, querían "transformar la destrucción en algo útil".
+- **[El gobierno de Venezuela extradita a EE.UU. al empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro](https://www.bbc.com/mundo/articles/c4gvnw3gv4vo?at_medium=RSS&at_campaign=rss)** · *2026-05-16*
+  - El empresario colombiano, a quien Maduro nombró ministro de Industria, ha sido acusado por EE.UU. de haber lavado hasta US$350 millones supuestamente defraudados a través del sistema de control cambiario en Venezuela.
+- **[Qué fue la Revolución Cultural de Mao Zedong y cómo marcó la historia de China hace 60 años](https://www.bbc.com/mundo/articles/c042rd5kvpqo?at_medium=RSS&at_campaign=rss)** · *2026-05-17*
+  - Millones de jóvenes fueron movilizados en China para atacar las “viejas ideas”, en una campaña de purgas, violencia y culto a la personalidad impulsada por Mao Zedong que transformó el país y dejó profundas cicatrices políticas y sociales.
+- **["En la ruina y profundamente endeudado": así murió, hace 100 años, Mehmed VI, el último sultán del Imperio otomano](https://www.bbc.com/mundo/articles/c242vdde9m0o?at_medium=RSS&at_campaign=rss)** · *2026-05-16*
+  - Mehmed VI Vahideddin había llegado al poder, en 1918, tras la muerte de su hermano. Ante sí, tenía un imperio, de casi 600 años de historia, que se tambaleaba.
+- **[Suiza abrirá sus archivos secretos sobre Joseph Mengele, pero ¿cuál es la relación del "Ángel de la muerte nazi" con ese país?](https://www.bbc.com/mundo/articles/c4g47vvyv4qo?at_medium=RSS&at_campaign=rss)** · *2026-05-16*
+  - Mengele huyó de Europa tras la guerra, pero durante años circularon rumores de que pasó un tiempo en Suiza.
+- **[Muere un buzo que intentaba rescatar los cuerpos de los 5 italianos que se ahogaron en las Maldivas](https://www.bbc.com/mundo/articles/clypqewj69qo?at_medium=RSS&at_campaign=rss)** · *2026-05-16*
+  - El sargento Mohamed Mahdhee falleció mientras buceaba durante una operación de búsqueda y rescate, según informó el gobierno de Maldivas a la BBC.
 
 ## El País — Internacional
 
-- **[Estados Unidos y Cuba intensifican las negociaciones, mientras la isla entra en colapso](https://elpais.com/us/2026-05-15/estados-unidos-y-cuba-intensifican-las-negociaciones-en-medio-de-una-isla-colapsada.html)** · *2026-05-15*
-  - La insólita reunión entre el director de la CIA y el ministro del Interior cubano supone el mayor hito en dos meses de opacas conversaciones marcadas por la asfixia del país
-- **[El sector petrolero de Irán resiste la presión por el cierre estadounidense de Ormuz](https://elpais.com/internacional/2026-05-16/el-sector-petrolero-de-iran-resiste-la-presion-por-el-cierre-estadounidense-de-ormuz.html)** · *2026-05-16*
-  - La capacidad de refinado, el tipo de yacimiento y la experiencia en ese ámbito ofrecen a Teherán un margen de meses antes de sufrir daños graves, afirman expertos
-- **[El corazón de medio kilo de Maradona, en el centro del juicio por su muerte](https://elpais.com/argentina/2026-05-16/argentina-a-la-espera-de-respuestas-sobre-maradona-y-su-corazon-de-503-gramos.html)** · *2026-05-16*
-  - Han pasado cinco años y medio de la muerte del ídolo popular y la Justicia todavía no ha dictado si hubo responsables o fue inevitable
-- **[Pormenores del infierno](https://elpais.com/opinion/2026-05-16/pormenores-del-infierno.html)** · *2026-05-16*
-  - Que haya israelíes con decencia para denunciar tantos crímenes resalta el envilecimiento de esa mayoría que según las encuestas apoya una campaña de exterminio
-- **[Por qué Xi aludió a la trampa de Tucídides](https://elpais.com/internacional/2026-05-15/por-que-xi-aludio-a-la-trampa-de-tucidides.html)** · *2026-05-15*
-  - La referencia, que simboliza el riesgo de conflicto entre una potencia en ascenso y la hegemónica, muestra voluntad de estabilidad pero también confianza en el ascenso chino
+- **[Trump repite el guion de la operación de Venezuela para forzar el cambio en Cuba](https://elpais.com/us/2026-05-17/trump-repite-el-guion-de-la-operacion-de-venezuela-para-forzar-el-cambio-en-cuba.html)** · *2026-05-17*
+  - El director de la CIA planteó a La Habana exigencias similares a las que formuló a Caracas en enero. La amenaza de llevar a juicio a Raúl Castro evoca la captura de Maduro
+- **[Jorge Mas, líder anticastrista: “Lo que hizo Trump con Venezuela funciona en Venezuela, pero no sirve para Cuba”](https://elpais.com/us/2026-05-17/jorge-mas-lider-anticastrista-en-el-exilio-lo-que-hizo-trump-con-venezuela-funciona-alli-pero-no-sirve-en-cuba.html)** · *2026-05-17*
+  - El empresario, dueño del Inter de Messi y referente del exilio de Miami, trabaja en sintonía con la Casa Blanca para acelerar el cambio en la isla. Su fundación ha diseñado un plan económico y una “ley fundamental de transición”
+- **[La cumbre entre Trump y Xi: la reunión en la que China y Estados Unidos acordaron tratarse como iguales](https://elpais.com/internacional/2026-05-17/la-cumbre-entre-trump-y-xi-la-reunion-en-la-que-china-y-estados-unidos-acordaron-tratarse-como-iguales.html)** · *2026-05-17*
+  - Las dos superpotencias sellan en Pekín su reconciliación y lanzan una era de “estabilidad estratégica”, pero siguen vigilándose de reojo
+- **[Protocolos para una decadencia](https://elpais.com/opinion/2026-05-17/protocolos-para-una-decadencia.html)** · *2026-05-17*
+  - Sustituida en Bruselas por el procedimiento y en Pekín por el puro reflejo personalista de Trump, la política occidental carece de proyecto
+- **[Obsequioso Trump, exigente Xi](https://elpais.com/opinion/2026-05-17/obsequioso-trump-exigente-xi.html)** · *2026-05-17*
+  - La cumbre entre ambos mandatarios marca otro paso en el ascenso de China como superpotencia y el declive de EE UU
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -53,16 +53,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Eaten, used as taxis and vomited up: how bees support other animals](https://theconversation.com/eaten-used-as-taxis-and-vomited-up-how-bees-support-other-animals-283005)** · *2026-05-15*
-  - Ahead of world bee day on May 20, the author looks at how other animals rely on bees for food and shelter and even transport.
-- **[Supreme Court preserves access to mifepristone via telehealth – at least for now](https://theconversation.com/supreme-court-preserves-access-to-mifepristone-via-telehealth-at-least-for-now-282376)** · *2026-05-15*
-  - The court’s decision sends the mifepristone case back to a lower court, which has signaled that it will continue its challenge to the legality of mailing the abortion pill.
-- **[Why has PCOS been given a new name?](https://theconversation.com/why-has-pcos-been-given-a-new-name-282979)** · *2026-05-15*
-  - Polyendocrine metabolic ovarian syndrome, or PMOS, will now be used to describe the condition that affects around one in eight women.
-- **[Donald Trump left Beijing empty-handed – but avoided something worse](https://theconversation.com/donald-trump-left-beijing-empty-handed-but-avoided-something-worse-282663)** · *2026-05-15*
-  - While the Trump-Xi summit led to few tangible returns, the two leaders did not clash and agreed to continue talking.
-- **[The puppet shows bringing storytelling and solace to bomb shelters in Ukraine](https://theconversation.com/the-puppet-shows-bringing-storytelling-and-solace-to-bomb-shelters-in-ukraine-280186)** · *2026-05-15*
-  - In Ukraine puppet shows have become tools of resistance, support and relief for a country at war.
+- **[A football World Cup is a global cultural exchange. How will that work in Trump’s America?](https://theconversation.com/a-football-world-cup-is-a-global-cultural-exchange-how-will-that-work-in-trumps-america-282426)** · *2026-05-17*
+  - On the field, football has the power to bring cultural unity. But crackdowns on immigrants and soaring costs will make it more difficult to attend.
+- **[The World Bank wants to change the way it manages complaints: the fixes that could make it better](https://theconversation.com/the-world-bank-wants-to-change-the-way-it-manages-complaints-the-fixes-that-could-make-it-better-282695)** · *2026-05-17*
+  - The World Bank Group’s integration process must at least maintain the current independence, accessibility and effectiveness of its three accountability mechanisms.
+- **[DRC is sending in the military to guard mines and critical minerals. Will it be enough?](https://theconversation.com/drc-is-sending-in-the-military-to-guard-mines-and-critical-minerals-will-it-be-enough-282273)** · *2026-05-17*
+  - Security measures alone are insufficient to resolve resource governance challenges in the DRC.
+- **[Water tank delivery in South Africa has stopped pipes getting fixed and opened the door to corruption – research](https://theconversation.com/water-tank-delivery-in-south-africa-has-stopped-pipes-getting-fixed-and-opened-the-door-to-corruption-research-281752)** · *2026-05-17*
+  - Water tankers are meant for emergencies but are fast becoming the norm for many communities.
+- **[Starmer’s troubles may be self-inflicted. But voters everywhere are fed up with leaders lacking courage](https://theconversation.com/starmers-troubles-may-be-self-inflicted-but-voters-everywhere-are-fed-up-with-leaders-lacking-courage-283056)** · *2026-05-17*
+  - The expectations of voters in the UK – like those elsewhere – may simply have become too great and too complex for any leader to satisfy them.
 
 ## Nueva Sociedad
 
