@@ -6,10 +6,12 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-05-17 08:17 UTC_
+_Última actualización: 2026-05-18 09:56 UTC_
 
 ## Real Instituto Elcano
 
+- **[Reaprender el idioma del poder: el comercio como disuasión geoeconómica en manos de la UE](https://www.realinstitutoelcano.org/analisis/reaprender-el-idioma-del-poder-el-comercio-como-disuasion-geoeconomica-en-manos-de-la-ue/)** · *2026-05-18*
+  - Mensajes clave Análisis El Geostrategic Europe Taskforce, un grupo de expertos de alto nivel compuesto por representantes de 10 Estados miembros de la UE, acaba de publicar el informe Relearning the Language of Power. Ese documento…
 - **[No es sólo fútbol, es geopolítica: un mes para la Copa del Mundo 2026](https://www.realinstitutoelcano.org/comentarios/no-es-solo-futbol-es-geopolitica-un-mes-para-la-copa-del-mundo-2026/)** · *2026-05-13*
   - El –cada vez más– próximo 11 de junio comenzará la 23ª Copa del Mundo de fútbol en el Estadio Azteca de Ciudad de México. El mismo lugar en el que Diego Armando Maradona se consagró como estrella en 1986 al marcar dos goles a Inglaterra…
 - **[Lo que los ataques del 25 de abril revelan sobre el conflicto en Malí](https://www.realinstitutoelcano.org/comentarios/lo-que-los-ataques-del-25-de-abril-revelan-sobre-el-conflicto-en-mali/)** · *2026-05-12*
@@ -18,30 +20,28 @@ _Última actualización: 2026-05-17 08:17 UTC_
   - Mensajes clave Análisis La Ley de Servicios Digitales (Digital Services Act, DSA) introdujo algo inédito en la regulación de plataformas digitales: la obligación de gestionar los riesgos que su propio diseño genera para los procesos…
 - **[Una breve historia reciente de la integración sudamericana: auge y caída de UNASUR](https://www.realinstitutoelcano.org/comentarios/una-breve-historia-reciente-de-la-integracion-sudamericana-auge-y-caida-de-unasur/)** · *2026-05-11*
   - La Unión de Naciones Suramericanas (UNASUR) nació como una iniciativa de integración regional que, en la segunda década del presente siglo, contaba con ingentes recursos e infraestructura física y normativa. La valía de la historia…
-- **[AccelerateEU: respuestas europeas a una nueva crisis energética](https://www.realinstitutoelcano.org/analisis/accelerateeu-respuestas-europeas-a-una-nueva-crisis-energetica/)** · *2026-05-11*
-  - Mensajes clave Análisis La Comunicación de la Comisión Europea “AccelerateEU ​​- Unión Energética: energía asequible y segura mediante acciones aceleradas” pretende responder a corto y largo plazo con un conjunto de orientaciones y medidas…
 
 ## BBC News Mundo
 
-- **[El gobierno de Venezuela extradita a EE.UU. al empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro](https://www.bbc.com/mundo/articles/c4gvnw3gv4vo?at_medium=RSS&at_campaign=rss)** · *2026-05-16*
+- **[El nuevo monumento en Pyongyang que revela cuántos soldados de Corea del Norte han muerto en la guerra entre Rusia y Ucrania](https://www.bbc.com/mundo/articles/c2021076jkno?at_medium=RSS&at_campaign=rss)** · *2026-05-18*
+  - Se calcula que unos 11.000 soldados norcoreanos fueron enviados a luchar en la guerra de Rusia contra Ucrania.
+- **[El "cazador de dictadores": "Siempre me agrada ver a un dictador esposado, pero no a cualquier costo"](https://www.bbc.com/mundo/articles/c2e2n3rg2wno?at_medium=RSS&at_campaign=rss)** · *2026-05-17*
+  - El abogado y autor Reed Brody, conocido como el “cazador de dictadores”, habló con BBC Mundo sobre su trayectoria y los desafíos para romper la impunidad y lograr justicia frente a regímenes autoritarios.
+- **[Quién es el empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro al que Venezuela extraditó a EE.UU.](https://www.bbc.com/mundo/articles/c4gvnw3gv4vo?at_medium=RSS&at_campaign=rss)** · *2026-05-17*
   - El empresario colombiano, a quien Maduro nombró ministro de Industria, ha sido acusado por EE.UU. de haber lavado hasta US$350 millones supuestamente defraudados a través del sistema de control cambiario en Venezuela.
-- **[Qué fue la Revolución Cultural de Mao Zedong y cómo marcó la historia de China hace 60 años](https://www.bbc.com/mundo/articles/c042rd5kvpqo?at_medium=RSS&at_campaign=rss)** · *2026-05-17*
-  - Millones de jóvenes fueron movilizados en China para atacar las “viejas ideas”, en una campaña de purgas, violencia y culto a la personalidad impulsada por Mao Zedong que transformó el país y dejó profundas cicatrices políticas y sociales.
-- **["En la ruina y profundamente endeudado": así murió, hace 100 años, Mehmed VI, el último sultán del Imperio otomano](https://www.bbc.com/mundo/articles/c242vdde9m0o?at_medium=RSS&at_campaign=rss)** · *2026-05-16*
-  - Mehmed VI Vahideddin había llegado al poder, en 1918, tras la muerte de su hermano. Ante sí, tenía un imperio, de casi 600 años de historia, que se tambaleaba.
-- **[Suiza abrirá sus archivos secretos sobre Joseph Mengele, pero ¿cuál es la relación del "Ángel de la muerte nazi" con ese país?](https://www.bbc.com/mundo/articles/c4g47vvyv4qo?at_medium=RSS&at_campaign=rss)** · *2026-05-16*
-  - Mengele huyó de Europa tras la guerra, pero durante años circularon rumores de que pasó un tiempo en Suiza.
-- **[Muere un buzo que intentaba rescatar los cuerpos de los 5 italianos que se ahogaron en las Maldivas](https://www.bbc.com/mundo/articles/clypqewj69qo?at_medium=RSS&at_campaign=rss)** · *2026-05-16*
-  - El sargento Mohamed Mahdhee falleció mientras buceaba durante una operación de búsqueda y rescate, según informó el gobierno de Maldivas a la BBC.
+- **[Vehículos espías: la enorme cantidad de datos que tu auto recopila de ti (y qué puedes hacer para limitarla)](https://www.bbc.com/mundo/articles/c89304w4p44o?at_medium=RSS&at_campaign=rss)** · *2026-05-18*
+  - Los autos modernos dejaron de ser solo medios de transporte: hoy funcionan como computadoras sobre ruedas.
+- **["Apareció un mundo de ensueño": la historia del químico suizo que experimentó el primer viaje con LSD montado en una bicicleta](https://www.bbc.com/mundo/articles/c0e1qzp8xw5o?at_medium=RSS&at_campaign=rss)** · *2026-05-17*
+  - El doctor Albert Hofmann descubrió accidentalmente los efectos alucinógenos del LSD en 1943. En 1986, le contó a la BBC lo que ocurrió.
 
 ## El País — Internacional
 
-- **[Trump repite el guion de la operación de Venezuela para forzar el cambio en Cuba](https://elpais.com/us/2026-05-17/trump-repite-el-guion-de-la-operacion-de-venezuela-para-forzar-el-cambio-en-cuba.html)** · *2026-05-17*
-  - El director de la CIA planteó a La Habana exigencias similares a las que formuló a Caracas en enero. La amenaza de llevar a juicio a Raúl Castro evoca la captura de Maduro
-- **[Jorge Mas, líder anticastrista: “Lo que hizo Trump con Venezuela funciona en Venezuela, pero no sirve para Cuba”](https://elpais.com/us/2026-05-17/jorge-mas-lider-anticastrista-en-el-exilio-lo-que-hizo-trump-con-venezuela-funciona-alli-pero-no-sirve-en-cuba.html)** · *2026-05-17*
-  - El empresario, dueño del Inter de Messi y referente del exilio de Miami, trabaja en sintonía con la Casa Blanca para acelerar el cambio en la isla. Su fundación ha diseñado un plan económico y una “ley fundamental de transición”
-- **[La cumbre entre Trump y Xi: la reunión en la que China y Estados Unidos acordaron tratarse como iguales](https://elpais.com/internacional/2026-05-17/la-cumbre-entre-trump-y-xi-la-reunion-en-la-que-china-y-estados-unidos-acordaron-tratarse-como-iguales.html)** · *2026-05-17*
-  - Las dos superpotencias sellan en Pekín su reconciliación y lanzan una era de “estabilidad estratégica”, pero siguen vigilándose de reojo
+- **[El fin de la era Orbán reduce la parálisis institucional en la UE](https://elpais.com/internacional/2026-05-18/el-fin-de-la-era-orban-reduce-la-paralisis-institucional-en-la-ue.html)** · *2026-05-18*
+  - El cambio en el Gobierno de Hungría desbloquea sanciones contra Rusia y los colonos israelíes, reactiva fondos para Ucrania y reabre el debate en la Unión sobre el uso del veto y la ampliación del bloque
+- **[Canadá y la UE, mucho más que un matrimonio de conveniencia](https://elpais.com/internacional/2026-05-18/canada-y-la-ue-mucho-mas-que-un-matrimonio-de-conveniencia.html)** · *2026-05-18*
+  - Las amenazas y bandazos de Trump han provocado un nuevo acercamiento transatlántico entre dos aliados históricos dispuestos a cooperar frente a Washington
+- **[Hungría, un crisol de minorías que despierta de la era Orbán](https://elpais.com/internacional/2026-05-18/hungria-un-crisol-de-minorias-que-despierta-de-la-era-orban.html)** · *2026-05-18*
+  - El ex primer ministro defendió durante 16 años el cerrojazo de las fronteras, pero su sucesor, Péter Magyar, no es más progresista en materia de inmigración
 - **[Protocolos para una decadencia](https://elpais.com/opinion/2026-05-17/protocolos-para-una-decadencia.html)** · *2026-05-17*
   - Sustituida en Bruselas por el procedimiento y en Pekín por el puro reflejo personalista de Trump, la política occidental carece de proyecto
 - **[Obsequioso Trump, exigente Xi](https://elpais.com/opinion/2026-05-17/obsequioso-trump-exigente-xi.html)** · *2026-05-17*
@@ -53,16 +53,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[A football World Cup is a global cultural exchange. How will that work in Trump’s America?](https://theconversation.com/a-football-world-cup-is-a-global-cultural-exchange-how-will-that-work-in-trumps-america-282426)** · *2026-05-17*
-  - On the field, football has the power to bring cultural unity. But crackdowns on immigrants and soaring costs will make it more difficult to attend.
-- **[The World Bank wants to change the way it manages complaints: the fixes that could make it better](https://theconversation.com/the-world-bank-wants-to-change-the-way-it-manages-complaints-the-fixes-that-could-make-it-better-282695)** · *2026-05-17*
-  - The World Bank Group’s integration process must at least maintain the current independence, accessibility and effectiveness of its three accountability mechanisms.
-- **[DRC is sending in the military to guard mines and critical minerals. Will it be enough?](https://theconversation.com/drc-is-sending-in-the-military-to-guard-mines-and-critical-minerals-will-it-be-enough-282273)** · *2026-05-17*
-  - Security measures alone are insufficient to resolve resource governance challenges in the DRC.
-- **[Water tank delivery in South Africa has stopped pipes getting fixed and opened the door to corruption – research](https://theconversation.com/water-tank-delivery-in-south-africa-has-stopped-pipes-getting-fixed-and-opened-the-door-to-corruption-research-281752)** · *2026-05-17*
-  - Water tankers are meant for emergencies but are fast becoming the norm for many communities.
-- **[Starmer’s troubles may be self-inflicted. But voters everywhere are fed up with leaders lacking courage](https://theconversation.com/starmers-troubles-may-be-self-inflicted-but-voters-everywhere-are-fed-up-with-leaders-lacking-courage-283056)** · *2026-05-17*
-  - The expectations of voters in the UK – like those elsewhere – may simply have become too great and too complex for any leader to satisfy them.
+- **[Ebola outbreak declared a global health emergency – what you need to know](https://theconversation.com/ebola-outbreak-declared-a-global-health-emergency-what-you-need-to-know-283130)** · *2026-05-18*
+  - Everything you need to know about the Bundibugyo virus outbreak that has prompted the WHO to declare it a global health emergency.
+- **[The Pennine hills are full of holes – here’s how they’re helping fight climate change](https://theconversation.com/the-pennine-hills-are-full-of-holes-heres-how-theyre-helping-fight-climate-change-282925)** · *2026-05-18*
+  - A new project is transforming badly affected peatlands from dark moonscapes to vibrant green moss-scapes.
+- **[Why European households throw away so much food – and how to curb the waste mountain](https://theconversation.com/why-european-households-throw-away-so-much-food-and-how-to-curb-the-waste-mountain-282198)** · *2026-05-18*
+  - Wastage of edible food means lost calories, lost money and a growing climate problem.
+- **[Raghu Rai: the trailblazing photographer who documented the vast diversity of a changing India](https://theconversation.com/raghu-rai-the-trailblazing-photographer-who-documented-the-vast-diversity-of-a-changing-india-282934)** · *2026-05-18*
+  - For more than 60 years, India’s foremost photographer created a continuous visual record of the nation after independence.
+- **[Ebola survivors struggle to return to normal lives: what I found out in Sierra Leone and Liberia](https://theconversation.com/ebola-survivors-struggle-to-return-to-normal-lives-what-i-found-out-in-sierra-leone-and-liberia-281678)** · *2026-05-18*
+  - 10 years after official end of the Ebola pandemic, very few people know that survivors have struggled to continue with their lives.
 
 ## Nueva Sociedad
 
