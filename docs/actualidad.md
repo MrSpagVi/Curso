@@ -6,46 +6,37 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-05-19 09:37 UTC_
+_Última actualización: 2026-05-20 09:25 UTC_
 
 ## Real Instituto Elcano
 
-- **[Reaprender el idioma del poder: el comercio como disuasión geoeconómica en manos de la UE](https://www.realinstitutoelcano.org/analisis/reaprender-el-idioma-del-poder-el-comercio-como-disuasion-geoeconomica-en-manos-de-la-ue/)** · *2026-05-18*
-  - Mensajes clave Análisis El Geostrategic Europe Taskforce, un grupo de expertos de alto nivel compuesto por representantes de 10 Estados miembros de la UE, acaba de publicar el informe Relearning the Language of Power. Ese documento…
-- **[No es sólo fútbol, es geopolítica: un mes para la Copa del Mundo 2026](https://www.realinstitutoelcano.org/comentarios/no-es-solo-futbol-es-geopolitica-un-mes-para-la-copa-del-mundo-2026/)** · *2026-05-13*
-  - El –cada vez más– próximo 11 de junio comenzará la 23ª Copa del Mundo de fútbol en el Estadio Azteca de Ciudad de México. El mismo lugar en el que Diego Armando Maradona se consagró como estrella en 1986 al marcar dos goles a Inglaterra…
-- **[Lo que los ataques del 25 de abril revelan sobre el conflicto en Malí](https://www.realinstitutoelcano.org/comentarios/lo-que-los-ataques-del-25-de-abril-revelan-sobre-el-conflicto-en-mali/)** · *2026-05-12*
-  - El pasado 25 de abril, siete localidades malienses, entre las que se encuentran Bamako y tres capitales provinciales, amanecieron bajo una ofensiva coordinada de una magnitud inédita desde el inicio del conflicto en 2012. La filial de…
-- **[El dilema de aplicación del DSA: regulación sistémica en un entorno geopolítico adverso](https://www.realinstitutoelcano.org/analisis/el-dilema-de-aplicacion-del-dsa-regulacion-sistemica-en-un-entorno-geopolitico-adverso/)** · *2026-05-12*
-  - Mensajes clave Análisis La Ley de Servicios Digitales (Digital Services Act, DSA) introdujo algo inédito en la regulación de plataformas digitales: la obligación de gestionar los riesgos que su propio diseño genera para los procesos…
-- **[Una breve historia reciente de la integración sudamericana: auge y caída de UNASUR](https://www.realinstitutoelcano.org/comentarios/una-breve-historia-reciente-de-la-integracion-sudamericana-auge-y-caida-de-unasur/)** · *2026-05-11*
-  - La Unión de Naciones Suramericanas (UNASUR) nació como una iniciativa de integración regional que, en la segunda década del presente siglo, contaba con ingentes recursos e infraestructura física y normativa. La valía de la historia…
+_Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.org/feed/](https://www.realinstitutoelcano.org/feed/)_
 
 ## BBC News Mundo
 
-- **[¿Se está volviendo ingobernable Reino Unido?](https://www.bbc.com/mundo/articles/cy02kpj7e5lo?at_medium=RSS&at_campaign=rss)** · *2026-05-19*
-  - Como ocurre en otros países, el descontento con la clase política en Reino Unido es mayor que nunca, algo que se ve en la crisis que afronta el actual gobierno. ¿A qué se debe y qué significa para el rumbo de la nación?
-- **[La preocupación de los propietarios de hoteles en EE.UU. ante la poca cantidad de reservas antes del inicio del Mundial 2026](https://www.bbc.com/mundo/articles/c9wed142e8po?at_medium=RSS&at_campaign=rss)** · *2026-05-18*
-  - Una encuesta realizada por una asociación del sector reveló que los hoteles de las ciudades anfitrionas del Mundial consideran el torneo como un "acontecimiento irrelevante".
-- **[Qué es lo que realmente une a China y Rusia y cómo se manifiesta en la inminente visita de Putin a Xi](https://www.bbc.com/mundo/articles/cp3p94j2q1lo?at_medium=RSS&at_campaign=rss)** · *2026-05-19*
-  - La visita de Putin a China esta semana muestra que la relación entre Pekín y Moscú perdura a pesar de un desequilibrio de poder entre ambos países.
-- **[Hallan los cuerpos de los otros 4 buceadores italianos que se ahogaron mientras exploraban una cueva en Maldivas](https://www.bbc.com/mundo/articles/c1w29nqqjveo?at_medium=RSS&at_campaign=rss)** · *2026-05-18*
-  - Los cuerpos de los cinco buceadores italianos que murieron en las Maldivas la semana pasada ya han sido encontrados, según informaron las autoridades a la BBC.
-- **[Shakira gana su batalla de 8 años contra la Hacienda española, que deberá devolverle 60 millones de euros](https://www.bbc.com/mundo/articles/cy82j4lr9vpo?at_medium=RSS&at_campaign=rss)** · *2026-05-18*
-  - Un tribunal ha dado la razón a la cantante colombiana que alegaba que en 2011 no era residente fiscal en España.
+- **["Esta puede ser la última vez que escuches mi voz": el preocupante aumento de las ejecuciones políticas en Irán desde el inicio de la guerra](https://www.bbc.com/mundo/articles/ce9p1jzzjzeo?at_medium=RSS&at_campaign=rss)** · *2026-05-20*
+  - Desde que Estados Unidos e Israel atacaron Irán el 28 de febrero, la ONU afirma haber verificado la ejecución de al menos 32 presos políticos.
+- **[Qué tan preocupante es el brote de ébola que ya causó 130 muertes y se está propagando más rápido de lo que se pensaba, según la OMS](https://www.bbc.com/mundo/articles/c62xvx744x9o?at_medium=RSS&at_campaign=rss)** · *2026-05-19*
+  - Una cepa poco conocida y para la que no hay tratamiento es la responsable del brote actual de ébola.
+- **["Gasolina basura" y otros 3 motivos que explican las crecientes protestas en Bolivia que el gobierno atribuye a Evo Morales y su entorno](https://www.bbc.com/mundo/articles/cx2131g09rlo?at_medium=RSS&at_campaign=rss)** · *2026-05-19*
+  - Las últimas decisiones del gobierno de Rodrigo Paz han provocado una ola de protestas y cortes de ruta que generan desabastecimiento de combustible y alimentos.
+- **[Acusan al hijo del fundador de Mango del homicidio de su padre, quien murió al caer por una montaña cuando ambos hacían senderismo en Barcelona](https://www.bbc.com/mundo/articles/ckgpmp99zx7o?at_medium=RSS&at_campaign=rss)** · *2026-05-19*
+  - Las declaraciones contradictorias del hijo mayor de Isak Andic, Jonathan Andic, hicieron sospechar a la policía. Según medios, la exclusión del primogénito de la cúpula de la empresa habría despertado cierto resentimiento hacia su padre.
+- **[Cómo 5 minutos de ejercicio al día pueden mejorar y alargar nuestras vidas](https://www.bbc.com/mundo/articles/crmpd3l082xo?at_medium=RSS&at_campaign=rss)** · *2026-05-19*
+  - El ejercicio tiene efectos positivos en el cuerpo, el cerebro, la memoria y el bienestar general. Y no hace falta que sean largos entrenamientos para tener impacto.
 
 ## El País — Internacional
 
-- **[Ucrania frena a Rusia en el frente, pero carece de recursos para dar un vuelco a la guerra](https://elpais.com/internacional/2026-05-19/ucrania-frena-a-rusia-en-el-frente-pero-carece-de-recursos-para-dar-un-vuelco-a-la-guerra.html)** · *2026-05-19*
-  - Ambos países prosiguen con los ataques de largo alcance después del bombardeo del sábado sobre Moscú
-- **[Los drones de Ucrania se cuelan entre los anillos de defensa de Moscú](https://elpais.com/internacional/2026-05-19/los-drones-de-ucrania-se-cuelan-entre-los-anillos-de-defensa-de-moscu.html)** · *2026-05-19*
-  - Los sistemas antiaéreos de la capital rusa no logran frenar las oleadas ucranias. En el Kremlin se preguntan qué puede hacer una potencia nuclear ante ataques convencionales
-- **[La confesión de Raúl Castro por la que podría ser juzgado en Estados Unidos: “Tumben las avionetas en el mar cuando se aparezcan”](https://elpais.com/america/2026-05-19/la-confesion-de-raul-castro-por-la-que-podria-ser-juzgado-en-estados-unidos-tumben-las-avionetas-en-el-mar-cuando-se-aparezcan.html)** · *2026-05-19*
-  - La Fiscalía de Miami prepara una acusación contra el expresidente cubano por ordenar derribar dos avionetas de una ONG y matar a las cuatro personas que iban a bordo
+- **[La imputación contra Raúl Castro, el gran golpe de Estados Unidos contra el régimen castrista](https://elpais.com/us/2026-05-20/la-imputacion-contra-raul-castro-el-gran-golpe-de-estados-unidos-contra-el-regimen-castrista.html)** · *2026-05-20*
+  - Donald Trump ha vuelto a abrir la puerta a un acuerdo diplomático con La Habana para forzar concesiones políticas y económicas a cambio de ayuda
+- **[Xi insta a Putin a construir un mundo “más justo y equitativo” frente a la hegemonía de EE UU](https://elpais.com/internacional/2026-05-20/xi-exhibe-buena-sintonia-con-putin-tras-la-visita-de-trump-y-le-insta-a-construir-juntos-un-mundo-mas-justo-y-equitativo.html)** · *2026-05-20*
+  - El líder chino defiende una cooperación estratégica más estrecha entre Pekín y Moscú, cinco días después de la visita de Trump. Sobre la mesa, un gasoducto que permitiría enviar a China hasta 50.000 millones de metros cúbicos de gas
+- **[La UE intensifica su diplomacia en Groenlandia en medio de una nueva ofensiva de Trump para controlar la isla](https://elpais.com/internacional/2026-05-20/la-ue-intensifica-su-diplomacia-en-groenlandia-en-medio-de-una-nueva-ofensiva-de-trump-para-controlar-la-isla.html)** · *2026-05-20*
+  - Bruselas busca afianzar las relaciones políticas y comerciales con Nuuk, punto clave para su nueva estrategia para la región del Ártico, en plena rivalidad de China, Rusia y EE UU
+- **[Madres y ataúdes en Oriente Próximo](https://elpais.com/internacional/2026-05-20/madres-y-ataudes-en-oriente-proximo.html)** · *2026-05-20*
+  - Netanyahu repite la estrategia bélica que algunos historiadores llaman el “gran error de Sharon”. Su superioridad aérea es incontestable pero puede encontrar dificultades si el conflicto terrestre prolongado y con múltiples frentes abiertos
 - **[Rosas rojas para la CIA en La Habana](https://elpais.com/us/2026-05-19/rosas-rojas-para-la-cia-en-la-habana.html)** · *2026-05-19*
   - Estados Unidos está a punto de zamparse un menú que el castrismo diligentemente le preparó, aunque no parece del todo contento, sino más bien contrariado por compartir lo que hasta ahora se había merendado solo
-- **[Protocolos para una decadencia](https://elpais.com/opinion/2026-05-17/protocolos-para-una-decadencia.html)** · *2026-05-17*
-  - Sustituida en Bruselas por el procedimiento y en Pekín por el puro reflejo personalista de Trump, la política occidental carece de proyecto
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -53,16 +44,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Fish can pass Pfas safety limits one chemical at a time, but cocktail effects reveal a bigger unseen risk – new study](https://theconversation.com/fish-can-pass-pfas-safety-limits-one-chemical-at-a-time-but-cocktail-effects-reveal-a-bigger-unseen-risk-new-study-282797)** · *2026-05-19*
-  - An organism can appear compliant under single chemical regulation while still carrying a potentially concerning mixture burden.
-- **[Elon Musk sued OpenAI and lost. But the core question of the case remains unanswered](https://theconversation.com/elon-musk-sued-openai-and-lost-but-the-core-question-of-the-case-remains-unanswered-283256)** · *2026-05-19*
-  - OpenAI now has a clear path to take its next big step in the AI race.
-- **[Leah Purcell continues exploring The Drover’s Wife – and opera might be its perfect form](https://theconversation.com/leah-purcell-continues-exploring-the-drovers-wife-and-opera-might-be-its-perfect-form-282258)** · *2026-05-19*
-  - Leah Purcell has told the story of The Drover’s Wife across play, novel, film and now opera. Each form has extended its political and emotional reach.
-- **[The government has blocked funding to 13 research projects for security reasons. What happens now?](https://theconversation.com/the-government-has-blocked-funding-to-13-research-projects-for-security-reasons-what-happens-now-283265)** · *2026-05-19*
-  - Federal Education Minister Jason Clare vetoed research funding to 13 projects ‘for reasons relevant to the security, defence or international relations’.
-- **[Geothermal 2.0: how superhot rocks underground could help power Australia](https://theconversation.com/geothermal-2-0-how-superhot-rocks-underground-could-help-power-australia-280277)** · *2026-05-19*
-  - Geothermal power used to be limited to volcanic areas. But advances in exploration and drilling technology mean huge new areas can be tapped.
+- **[Why early medieval Ireland had laws for bees](https://theconversation.com/why-early-medieval-ireland-had-laws-for-bees-283168)** · *2026-05-20*
+  - Medieval Irish bees had a legal status because they were classified as domestic livestock.
+- **[How switching to smarter lighting can cut energy bills and boost your health](https://theconversation.com/how-switching-to-smarter-lighting-can-cut-energy-bills-and-boost-your-health-283085)** · *2026-05-20*
+  - Technology, planning and management can reduce lighting energy use by over 60%.
+- **[How does street lighting impact wildlife and when should we turn off the lights?](https://theconversation.com/how-does-street-lighting-impact-wildlife-and-when-should-we-turn-off-the-lights-282757)** · *2026-05-20*
+  - For biodiversity, it’s not just about switching off street lighting, it’s about knowing when and where to turn the lights off.
+- **[For decades, Australian institutions have displayed stolen human remains. But there’s a way forward](https://theconversation.com/for-decades-australian-institutions-have-displayed-stolen-human-remains-but-theres-a-way-forward-283287)** · *2026-05-20*
+  - The Tasmanian government has apologised for body parts being collected and displayed without consent. This is not the first time this has happened in Australia.
+- **[New ‘AI scientists’ are improving – but reveal their fundamental limits](https://theconversation.com/new-ai-scientists-are-improving-but-reveal-their-fundamental-limits-283281)** · *2026-05-20*
+  - More ‘natural’ collaboration between scientists and computers won’t necessarily be more effective.
 
 ## Nueva Sociedad
 
