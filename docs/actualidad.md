@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-05-21 09:35 UTC_
+_Última actualización: 2026-05-22 08:56 UTC_
 
 ## Real Instituto Elcano
 
@@ -14,29 +14,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Raúl Castro, el último gran símbolo de la Revolución cubana en el punto de mira de Estados Unidos](https://www.bbc.com/mundo/articles/cdrpe566evno?at_medium=RSS&at_campaign=rss)** · *2026-05-21*
-  - Combatiente revolucionario, jefe militar, sucesor de Fidel y protagonista del deshielo con Obama: así fue la trayectoria del dirigente cubano que ahora enfrenta cargos en EE.UU.
-- **[El derribo de dos avionetas de Hermanos al Rescate por el que EE.UU. acusa de asesinato a Raúl Castro 30 años después](https://www.bbc.com/mundo/articles/cp3p4yq491vo?at_medium=RSS&at_campaign=rss)** · *2026-05-20*
-  - El ataque de cazas cubanos contra aeronaves de un grupo de exiliados en Miami en 1996 desató una crisis diplomática que sigue teniendo consecuencias tres décadas después.
-- **[La brutal redada en la fiesta de cumpleaños de una mujer que revela el auge de un grupo ultranacionalista en Rusia](https://www.bbc.com/mundo/articles/c70716dg68lo?at_medium=RSS&at_campaign=rss)** · *2026-05-21*
-  - El grupo Russkaya Obshina organiza redadas en busca de actividades que consideran contravienen los "valores tradicionales rusos".
-- **[Isak Andic: quién era el fundador de Mango y cómo se produjo su muerte, de la que acusan a su hijo](https://www.bbc.com/mundo/articles/c62d0g4lqqjo?at_medium=RSS&at_campaign=rss)** · *2026-05-20*
-  - El auto de la jueza que ordenó la prisión provisional bajo fianza del hijo recoge numerosas indicios que podrían implicar a Jonathan Andic en la muerte de su padre.
-- **["Escapé de la machosfera y otros hombres también pueden hacerlo"](https://www.bbc.com/mundo/articles/c62dqg7l7gjo?at_medium=RSS&at_campaign=rss)** · *2026-05-21*
-  - De adolescente, Will Adolphy estuvo envuelto en una red de machismo tóxico hasta que tomó consciencia y ahora aconseja a jóvenes y chicos para eludir ese mundo.
+- **[El desafío de Irán a EE.UU. al aumentar el área del estrecho de Ormuz sobre la que reclama control militar](https://www.bbc.com/mundo/articles/cyv25r5g8rro?at_medium=RSS&at_campaign=rss)** · *2026-05-22*
+  - El gobierno iraní publicó un mapa en el que asegura que sus fuerzas armadas "supervisan" un área de más de 22.000 kilómetros cuadrados de esa vía navegable.
+- **[El trágico caso de Yulixa Toloza, la mujer que apareció muerta en una cuneta después de someterse a un procedimiento estético en Colombia](https://www.bbc.com/mundo/articles/czj2gkppp97o?at_medium=RSS&at_campaign=rss)** · *2026-05-21*
+  - El caso pone una luz sobre las llamadas "clínicas de garaje" en las que se llevan a cabo cirugías plásticas de manera ilegal en Colombia.
+- **[Marco Rubio afirma que Cuba es una amenaza para EE.UU. y ve poco probable un acuerdo diplomático](https://www.bbc.com/mundo/articles/c052vpv77gmo?at_medium=RSS&at_campaign=rss)** · *2026-05-22*
+  - El ministro de Relaciones Exteriores de Cuba acusó a Rubio de mentir e intentar "instigar una agresión militar".
+- **[Por qué México importa más del 50% de la gasolina que consume, pese a ser uno de los mayores productores de petróleo de América Latina](https://www.bbc.com/mundo/articles/cdxdldjenpvo?at_medium=RSS&at_campaign=rss)** · *2026-05-21*
+  - El país lucha desde hace años con unas refinerías obsoletas que obliga al país a importar del extranjero el 50% de su consumo de gasolina.
+- **["EE.UU. se beneficia de la estabilidad en América Latina, que se produce mediante el desarrollo y las clases medias. Debería promover eso en lugar de intervenciones"](https://www.bbc.com/mundo/articles/c93x5k9l4xzo?at_medium=RSS&at_campaign=rss)** · *2026-05-21*
+  - El periodista y escritor estadounidense, Stephen Kinzer, repasa las veces que Estados Unidos intervino en países de América Latina y cuáles fueron las consecuencias
 
 ## El País — Internacional
 
-- **[Raúl Castro, imputado en Estados Unidos por el derribo de avionetas de Hermanos al Rescate](https://elpais.com/us/2026-05-20/raul-castro-a-la-espera-de-ser-imputado-en-estados-unidos-por-el-derribo-de-avionetas-de-hermanos-al-rescate.html)** · *2026-05-20*
-  - La acusación de asesinato del Departamento de Justicia contra el expresidente cubano se remite a hechos de 1996 y llega en medio de una escalada de tensión entre Washington y La Habana
-- **[La imputación a Raúl Castro arrincona al castrismo y expone que Trump está dispuesto a todo en Cuba](https://elpais.com/us/2026-05-21/la-imputacion-a-raul-castro-arrincona-al-castrismo-y-expone-que-trump-esta-dispuesto-a-todo-en-cuba.html)** · *2026-05-21*
-  - La justicia estadounidense acusa al expresidente, de 94 años, de la muerte de cuatro personas en el derribo de dos avionetas en 1996 y da un paso contundente en los planes de Estados Unidos de forzar un cambio de régimen en la isla
-- **[El exilio de Miami celebra la imputación a Raúl Castro: “Donald Trump ha hecho que el pueblo recupere la esperanza”](https://elpais.com/us/2026-05-21/el-exilio-de-miami-celebra-la-imputacion-a-raul-castro-donald-trump-ha-hecho-que-el-pueblo-recupere-la-esperanza.html)** · *2026-05-21*
-  - En el corazón de la comunidad cubana en Estados Unidos, hay apoyo unánime a la estrategia de presión máxima de Washington contra La Habana
+- **[Los primeros miembros de la flotilla a Gaza liberados denuncian palizas brutales: “Podíamos oír los gritos desde fuera”](https://elpais.com/internacional/2026-05-21/los-primeros-miembros-de-la-flotilla-a-gaza-liberados-denuncian-palizas-salvajes-podiamos-oir-los-gritos-desde-fuera.html)** · *2026-05-21*
+  - Varios activistas han sido hospitalizados a su llegada a Estambul, y decenas presentan fracturas en brazos, piernas y costillas, según denuncian los abogados
+- **[Ben Gvir, el ministro ultra israelí al que el ejército rechazó por su extremismo](https://elpais.com/internacional/2026-05-22/ben-gvir-el-ministro-ultra-israeli-al-que-el-ejercito-rechazo-por-su-extremismo.html)** · *2026-05-22*
+  - El titular de Seguridad Nacional de Israel está en el ojo del huracán por el maltrato a los integrantes de la flotilla. Sus ideas supremacistas han pasado de ser extraparlamentarias a marcar al Gobierno
+- **[El fallido viaje del enviado especial de Trump a Groenlandia](https://elpais.com/internacional/2026-05-21/el-fallido-viaje-del-enviado-especial-de-trump-a-groenlandia.html)** · *2026-05-21*
+  - Jeff Landry abandona la isla danesa sin asistir a la inauguración de un nuevo consulado después de que la población local expresara rechazo a su presencia
+- **[Rusia impone la memoria de los verdugos del estalinismo a la de sus víctimas](https://elpais.com/internacional/2026-05-22/rusia-impone-la-memoria-de-los-verdugos-del-estalinismo-a-la-de-sus-victimas.html)** · *2026-05-22*
+  - La ilegalización de la organización Memorial, premio Nobel de la Paz, es un paso cualitativo del Kremlin para monopolizar la interpretación de la historia
 - **[Madres y ataúdes en Oriente Próximo](https://elpais.com/internacional/2026-05-20/madres-y-ataudes-en-oriente-proximo.html)** · *2026-05-20*
   - Netanyahu repite la estrategia bélica que algunos historiadores llaman el “gran error de Sharon”. Su superioridad aérea es incontestable pero puede encontrar dificultades si el conflicto terrestre prolongado y con múltiples frentes abiertos
-- **[Rosas rojas para la CIA en La Habana](https://elpais.com/us/2026-05-19/rosas-rojas-para-la-cia-en-la-habana.html)** · *2026-05-19*
-  - Estados Unidos está a punto de zamparse un menú que el castrismo diligentemente le preparó, aunque no parece del todo contento, sino más bien contrariado por compartir lo que hasta ahora se había merendado solo
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -44,16 +44,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Why talking like Yoda can help you to master British Sign Language](https://theconversation.com/why-talking-like-yoda-can-help-you-to-master-british-sign-language-282789)** · *2026-05-21*
-  - Yoda’s word order mirrors the syntax of British Sign Language.
-- **[Grattan on Friday: As Labor struggles with budget backwash, One Nation surfs a wave](https://theconversation.com/grattan-on-friday-as-labor-struggles-with-budget-backwash-one-nation-surfs-a-wave-282996)** · *2026-05-21*
-  - The Albanese government has found itself on the thorny end of a social media campaign post-budget as it watches One Nation ride a wave.
-- **[Taunting and degrading civilians in armed conflict is a clear violation of international law](https://theconversation.com/taunting-and-degrading-civilians-in-armed-conflict-is-a-clear-violation-of-international-law-283472)** · *2026-05-21*
-  - Israeli treatment of the detained flotilla activists has outraged the world. This is why international law matters in conflicts.
-- **[How journalism can serve the greater good](https://theconversation.com/how-journalism-can-serve-the-greater-good-283284)** · *2026-05-21*
-  - Can you support The Conversation in 2026?
-- **[Why has the US indicted former Cuban President Raúl Castro?](https://theconversation.com/why-has-the-us-indicted-former-cuban-president-raul-castro-283467)** · *2026-05-21*
-  - Castro’s alleged crimes happened 30 years ago. Here’s why the charges have been levelled now.
+- **[First Trump, now Putin – all roads lead to Xi Jinping](https://theconversation.com/first-trump-now-putin-all-roads-lead-to-xi-jinping-283515)** · *2026-05-22*
+  - A steady stream of world leaders has travelled to Beijing to visit the Chinese president.
+- **[Why does motor neurone disease take so long to diagnose? And can it be treated?](https://theconversation.com/why-does-motor-neurone-disease-take-so-long-to-diagnose-and-can-it-be-treated-283468)** · *2026-05-22*
+  - Motor neurone disease can strike people who are young and fit. And there’s no cure.
+- **[A meteor exploded in the sky above New South Wales. An astronomer explains where it might have come from](https://theconversation.com/a-meteor-exploded-in-the-sky-above-new-south-wales-an-astronomer-explains-where-it-might-have-come-from-283575)** · *2026-05-22*
+  - Astronomers will investigate this fireball to help disentangle the heritage and history of the Solar System’s formation.
+- **[What do the Commonwealth Writers Prize AI allegations mean for prizes – and short stories?](https://theconversation.com/what-do-the-commonwealth-writers-prize-ai-allegations-mean-for-prizes-and-short-stories-283470)** · *2026-05-22*
+  - Advances in AI platforms have been oddly benchmarked through their engagements with the short story form. What does the latest literary AI scandal tell us?
+- **[Do Australians really ‘work half the week’ just to pay their income tax? See for yourself](https://theconversation.com/do-australians-really-work-half-the-week-just-to-pay-their-income-tax-see-for-yourself-283147)** · *2026-05-22*
+  - Do some people work ‘Monday, Tuesday, and half of Wednesday for yourself, and then Wednesday, Thursday, and Friday for the government’? No, they don’t.
 
 ## Nueva Sociedad
 
