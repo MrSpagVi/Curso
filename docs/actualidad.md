@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-05-22 08:56 UTC_
+_Última actualización: 2026-05-23 08:13 UTC_
 
 ## Real Instituto Elcano
 
@@ -14,25 +14,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[El desafío de Irán a EE.UU. al aumentar el área del estrecho de Ormuz sobre la que reclama control militar](https://www.bbc.com/mundo/articles/cyv25r5g8rro?at_medium=RSS&at_campaign=rss)** · *2026-05-22*
-  - El gobierno iraní publicó un mapa en el que asegura que sus fuerzas armadas "supervisan" un área de más de 22.000 kilómetros cuadrados de esa vía navegable.
-- **[El trágico caso de Yulixa Toloza, la mujer que apareció muerta en una cuneta después de someterse a un procedimiento estético en Colombia](https://www.bbc.com/mundo/articles/czj2gkppp97o?at_medium=RSS&at_campaign=rss)** · *2026-05-21*
-  - El caso pone una luz sobre las llamadas "clínicas de garaje" en las que se llevan a cabo cirugías plásticas de manera ilegal en Colombia.
-- **[Marco Rubio afirma que Cuba es una amenaza para EE.UU. y ve poco probable un acuerdo diplomático](https://www.bbc.com/mundo/articles/c052vpv77gmo?at_medium=RSS&at_campaign=rss)** · *2026-05-22*
-  - El ministro de Relaciones Exteriores de Cuba acusó a Rubio de mentir e intentar "instigar una agresión militar".
-- **[Por qué México importa más del 50% de la gasolina que consume, pese a ser uno de los mayores productores de petróleo de América Latina](https://www.bbc.com/mundo/articles/cdxdldjenpvo?at_medium=RSS&at_campaign=rss)** · *2026-05-21*
-  - El país lucha desde hace años con unas refinerías obsoletas que obliga al país a importar del extranjero el 50% de su consumo de gasolina.
-- **["EE.UU. se beneficia de la estabilidad en América Latina, que se produce mediante el desarrollo y las clases medias. Debería promover eso en lugar de intervenciones"](https://www.bbc.com/mundo/articles/c93x5k9l4xzo?at_medium=RSS&at_campaign=rss)** · *2026-05-21*
-  - El periodista y escritor estadounidense, Stephen Kinzer, repasa las veces que Estados Unidos intervino en países de América Latina y cuáles fueron las consecuencias
+- **["Vendí a mi hija de 5 años para que recibiera tratamiento médico": las familias que se enfrentan a decisiones imposibles en Afganistán](https://www.bbc.com/mundo/articles/cn4p2z14pewo?at_medium=RSS&at_campaign=rss)** · *2026-05-23*
+  - En Afganistán, actualmente, tres de cada cuatro personas no pueden satisfacer sus necesidades básicas.
+- **[Al menos 90 personas murieron en una explosión en una mina de carbón en China, según medios estatales](https://www.bbc.com/mundo/articles/cp9pm3329ryo?at_medium=RSS&at_campaign=rss)** · *2026-05-23*
+  - El suceso ocurrió la noche del viernes en una región conocida como la capital minera del carbón del gigante asiático.
+- **[Los buceadores italianos que murieron en Maldivas carecían de equipos adecuados, según un rescatista](https://www.bbc.com/mundo/articles/cdrp22kl57mo?at_medium=RSS&at_campaign=rss)** · *2026-05-22*
+  - Las imágenes de una cueva donde se encontraron los buceadores italianos revelan las dificultades que tuvieron los equipos de rescate para recuperar sus cuerpos.
+- **[El director ejecutivo de un banco pide disculpas tras describir a sus trabajadores como "capital humano de menor valor"](https://www.bbc.com/mundo/articles/c7v9jmqn2p8o?at_medium=RSS&at_campaign=rss)** · *2026-05-22*
+  - El director de Standard Chartered afirmó que valora a todos sus colegas y se compromete a ayudarlos a afrontar los cambios.
+- **[Lo que los británicos realmente quieren decir cuando dicen "sorry"](https://www.bbc.com/mundo/articles/c8e892njw4wo?at_medium=RSS&at_campaign=rss)** · *2026-05-23*
+  - "Sorry" es mucho más que "discúlpeme": es un reflejo cultural, una válvula de escape de cinco letras.
 
 ## El País — Internacional
 
-- **[Los primeros miembros de la flotilla a Gaza liberados denuncian palizas brutales: “Podíamos oír los gritos desde fuera”](https://elpais.com/internacional/2026-05-21/los-primeros-miembros-de-la-flotilla-a-gaza-liberados-denuncian-palizas-salvajes-podiamos-oir-los-gritos-desde-fuera.html)** · *2026-05-21*
-  - Varios activistas han sido hospitalizados a su llegada a Estambul, y decenas presentan fracturas en brazos, piernas y costillas, según denuncian los abogados
-- **[Ben Gvir, el ministro ultra israelí al que el ejército rechazó por su extremismo](https://elpais.com/internacional/2026-05-22/ben-gvir-el-ministro-ultra-israeli-al-que-el-ejercito-rechazo-por-su-extremismo.html)** · *2026-05-22*
-  - El titular de Seguridad Nacional de Israel está en el ojo del huracán por el maltrato a los integrantes de la flotilla. Sus ideas supremacistas han pasado de ser extraparlamentarias a marcar al Gobierno
-- **[El fallido viaje del enviado especial de Trump a Groenlandia](https://elpais.com/internacional/2026-05-21/el-fallido-viaje-del-enviado-especial-de-trump-a-groenlandia.html)** · *2026-05-21*
-  - Jeff Landry abandona la isla danesa sin asistir a la inauguración de un nuevo consulado después de que la población local expresara rechazo a su presencia
+- **[Relato en primera persona del maltrato israelí a la flotilla: “Colocaron una bandera israelí frente a mí y me dieron dos bofetadas”](https://elpais.com/internacional/2026-05-22/relato-en-primera-persona-del-maltrato-israeli-a-la-flotilla-colocaron-un-bandera-israeli-frente-a-mi-me-quitaron-los-calcetines-y-me-abofetearon.html)** · *2026-05-22*
+  - Un periodista colaborador de EL PAÍS a bordo de uno de los barcos describe el trato vejatorio sufrido por los miembros de la misión humanitaria
+- **[Parte médico de la flotilla: huesos fracturados, heridas de balines y agresiones sexuales](https://elpais.com/internacional/2026-05-22/cuatro-de-los-espanoles-de-la-flotilla-detenidos-por-israel-han-necesitado-atencion-medica.html)** · *2026-05-22*
+  - Cuatro de los 44 españoles que viajaban en la misión humanitaria a Gaza han requerido atención médica. España confía en que la UE apruebe sanciones contra el ministro de Seguridad israelí
+- **[Una explosión en una mina de carbón en China causa al menos 90 muertos](https://elpais.com/internacional/2026-05-23/una-explosion-en-una-mina-de-carbon-en-china-causa-al-menos-82-muertos.html)** · *2026-05-23*
+  - En el momento del accidente había 247 trabajadores bajo tierra. Las operaciones de búsqueda y rescate en la provincia de Shanxi, en el centro del país, están en marcha
 - **[Rusia impone la memoria de los verdugos del estalinismo a la de sus víctimas](https://elpais.com/internacional/2026-05-22/rusia-impone-la-memoria-de-los-verdugos-del-estalinismo-a-la-de-sus-victimas.html)** · *2026-05-22*
   - La ilegalización de la organización Memorial, premio Nobel de la Paz, es un paso cualitativo del Kremlin para monopolizar la interpretación de la historia
 - **[Madres y ataúdes en Oriente Próximo](https://elpais.com/internacional/2026-05-20/madres-y-ataudes-en-oriente-proximo.html)** · *2026-05-20*
@@ -44,16 +44,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[First Trump, now Putin – all roads lead to Xi Jinping](https://theconversation.com/first-trump-now-putin-all-roads-lead-to-xi-jinping-283515)** · *2026-05-22*
-  - A steady stream of world leaders has travelled to Beijing to visit the Chinese president.
-- **[Why does motor neurone disease take so long to diagnose? And can it be treated?](https://theconversation.com/why-does-motor-neurone-disease-take-so-long-to-diagnose-and-can-it-be-treated-283468)** · *2026-05-22*
-  - Motor neurone disease can strike people who are young and fit. And there’s no cure.
-- **[A meteor exploded in the sky above New South Wales. An astronomer explains where it might have come from](https://theconversation.com/a-meteor-exploded-in-the-sky-above-new-south-wales-an-astronomer-explains-where-it-might-have-come-from-283575)** · *2026-05-22*
-  - Astronomers will investigate this fireball to help disentangle the heritage and history of the Solar System’s formation.
-- **[What do the Commonwealth Writers Prize AI allegations mean for prizes – and short stories?](https://theconversation.com/what-do-the-commonwealth-writers-prize-ai-allegations-mean-for-prizes-and-short-stories-283470)** · *2026-05-22*
-  - Advances in AI platforms have been oddly benchmarked through their engagements with the short story form. What does the latest literary AI scandal tell us?
-- **[Do Australians really ‘work half the week’ just to pay their income tax? See for yourself](https://theconversation.com/do-australians-really-work-half-the-week-just-to-pay-their-income-tax-see-for-yourself-283147)** · *2026-05-22*
-  - Do some people work ‘Monday, Tuesday, and half of Wednesday for yourself, and then Wednesday, Thursday, and Friday for the government’? No, they don’t.
+- **[The network watching the world’s oceans is under pressure – just when it’s needed most](https://theconversation.com/the-network-watching-the-worlds-oceans-is-under-pressure-just-when-its-needed-most-283365)** · *2026-05-22*
+  - The Global Ocean Observing System informs weather forecasts and climate projections. But funding pressures could create data gaps leaving the world blind.
+- **[The Enhanced Games: ‘dangerous clown show’ or a wake-up call for traditional sport?](https://theconversation.com/the-enhanced-games-dangerous-clown-show-or-a-wake-up-call-for-traditional-sport-283348)** · *2026-05-22*
+  - These games should compel traditional sport to solve its fundamental problems and reflect upon the true value of sport and athletes.
+- **[John of John: weaving an island tale of secrets that lie beneath repression and shame](https://theconversation.com/john-of-john-weaving-an-island-tale-of-secrets-that-lie-beneath-repression-and-shame-283390)** · *2026-05-22*
+  - The high drama of Douglas Stuart’s new novel sometimes feels like a soap opera – but his lyrical prose and atmospheric narrative elevate the genre.
+- **[Could sodium replace lithium as the dominant ingredient in batteries?](https://theconversation.com/could-sodium-replace-lithium-as-the-dominant-ingredient-in-batteries-283105)** · *2026-05-22*
+  - Sodium-ion batteries use more abundant raw materials but don’t currently perform as well as those made with lithium.
+- **[Ageing with purpose: the surprising science of frailty reversal](https://theconversation.com/ageing-with-purpose-the-surprising-science-of-frailty-reversal-283099)** · *2026-05-22*
+  - Two people of the same age can age very differently. Frailty helps explain why, and what can be done to reduce risk.
 
 ## Nueva Sociedad
 
