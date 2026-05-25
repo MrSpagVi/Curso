@@ -10,7 +10,10 @@ Construir criterio propio inspirado parcialmente por Santiago Armesilla (sociól
 
 Condiciones: **3-5 h/semana**, lector ocasional, enfoque **pluralista amplio**, libros + vídeos + podcasts + práctica activa + MOOCs.
 
-Plan diseñado para **18-24 meses** (~20 libros base). Modular: si pierdes un mes, retomas; si aceleras, avanzas. **No es una carrera; es una dieta intelectual sostenible.**
+Plan diseñado para **27-29 meses** (~70 autores entre fases y módulos transversales). Modular: si pierdes un mes, retomas; si aceleras, avanzas. **No es una carrera; es una dieta intelectual sostenible.**
+
+!!! info "Ampliación opcional: Ciclo III (Mes 29-36)"
+    Si terminas Fase 5 y querés profundizar en **política social** y **desarrollo cultural** + producir un texto propio publicable, existe el [Ciclo III](ciclo-iii.md) — 7 meses extra (total ~36 meses) con curso integrado + temas-bisagra + tesina corta. **Es opcional**: terminar Fase 5 ya es una salida honorable completa.
 
 ---
 
@@ -121,10 +124,18 @@ Plan diseñado para **18-24 meses** (~20 libros base). Modular: si pierdes un me
 **Lectura fija de entrada (la haces sí o sí):**
 - **Max Weber — *La política como vocación*** (~60 pp, conferencia de 1919). Define los conceptos modernos de Estado, monopolio de la violencia legítima, tipos de legitimidad (tradicional/carismática/legal), ética de la convicción vs ética de la responsabilidad. Está en TODOS los syllabi serios. Lectura corta, retorno enorme.
 
-**Elige 3 de 5 corrientes:**
+**Bloque XX-Tardío (OBLIGATORIO, agregado tras revisión académica):**
+- **Foucault** — *Vigilar y castigar* (Parte I) o *Nacimiento de la biopolítica* (lecciones 1-2), ~80 pp. Sin Foucault, Mbembe en F5 es ininteligible.
+- **Rawls** — *Teoría de la Justicia* (caps. I y III), ~150 pp. El texto más citado del s. XX.
+- **Recomendados:** Isaiah Berlin "Dos conceptos de libertad" (~40 pp); Habermas selección esfera pública (~60 pp); Bourdieu *La distinción* o *Sobre el Estado* (selección, ~200 pp); Adorno/Horkheimer "Industria cultural" (~100 pp); Laclau/Mouffe *Hegemonía* (caps. 3-4); Žižek selección; Taylor/Honneth sobre reconocimiento.
+- Ver tarjetas profundas y "punto de naufragio" por autor en [fase-3.md](fase-3.md).
+
+**3 corrientes OBLIGATORIAS** (antes "elige 3 de 5" — desactivaba la salida principal):
 - **Marxismo s. XX:** Lenin — *El imperialismo, fase superior del capitalismo* (~120 pp) **o** Gramsci — *Antología*.
-- **Liberalismo:** Hayek — *Camino de servidumbre* **o** Popper — *La sociedad abierta y sus enemigos* (selección Vol. I).
+- **Liberalismo:** Hayek — *Camino de servidumbre* + opcional Popper — *La sociedad abierta* (selección Vol. I) y/o Nozick — *Anarquía, Estado y utopía* (Parte I + III) como contrapeso a Rawls.
 - **Conservadurismo:** Burke — *Reflexiones sobre la Revolución en Francia* (selección) **o** Schmitt — *El concepto de lo político* (~100 pp).
+
+**Transversales (paralelos a las corrientes, ~4 sem cada uno):**
 - **Totalitarismo y crítica cultural:** Hannah Arendt — *Los orígenes del totalitarismo* (Parte III, ~250 pp; la más relevante para entender el presente) **o** Byung-Chul Han — *La sociedad del cansancio* (80 pp) **o** Mark Fisher — *Realismo capitalista* (90 pp).
 - **Feminismo (con énfasis interseccional):** elige una entrada principal +1 paper corto:
   - **Entradas principales:** bell hooks — *El feminismo es para todo el mundo* (~150 pp, la mejor puerta) **o** Angela Davis — *Mujeres, raza y clase* (~250 pp, clásico) **o** Patricia Hill Collins — *Black Feminist Thought* (Cap. 11 "Black Feminist Epistemology", el texto más citado en syllabi 2025).
@@ -203,7 +214,7 @@ La academia latinoamericana agrupa así la ola: Pedagogía + Teología + Depende
 
 ---
 
-## FASE 5 — Síntesis, geopolítica y voz propia (Mes 20-24)
+## FASE 5 — Síntesis, geopolítica y voz propia (Mes 23-28)
 
 **Libros:**
 - **John Mearsheimer — *La tragedia de la política de las grandes potencias***.
