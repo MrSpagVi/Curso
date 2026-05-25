@@ -127,6 +127,7 @@ Las páginas dedicadas [M3 Pluriverso autores](plan/pluriverso-autores.md) y [M4
 | **[Plan → M5 Política Social](plan/m5-politica-social.md)** | Esping-Andersen, Marshall, Polanyi, Sen, Fraser, CEPAL | Dentro del Ciclo III |
 | **[Plan → M6 Desarrollo Cultural](plan/m6-cultura.md)** | Bourdieu, Hall, Williams, García Canclini, Fisher, Sarlo | Dentro del Ciclo III |
 | **[Plan → Temas-bisagra](plan/temas-bisagra.md)** | 6 temas que cruzan economía + política + política social + cultura | Para los ensayos integradores del Ciclo III |
+| **[Plan → Lecturas complementarias](plan/lecturas-complementarias.md)** | Historia social + periodismo narrativo mapeado a fases del plan | Cuando descargues libros fuera del plan y quieras saber dónde integrarlos |
 | **[Bibliografía](bibliografia.md)** | Tabla completa con los 70+ libros del plan | Para planear compras o consultas en biblioteca |
 | **[Progreso](seguimiento.md)** | Checklist por fase + autoevaluación trimestral | Una vez al mes para marcar y reflexionar |
 | **[Lecturas](lecturas/index.md)** | Tus notas, una por libro completado | Al terminar cada libro |
