@@ -63,7 +63,7 @@ Las **5 fases secuenciales** del canon filosófico. Cada una incluye **dentro de
 
 Un **itinerario personal de formación** en filosofía política, sociopolítica, economía y pensamiento crítico. No es una carrera universitaria — es la dieta intelectual de alguien que quiere **saber de lo que habla** sin pretensión académica.
 
-- **Duración:** 27-29 meses a un ritmo de **3-5 h/semana** (con picos de 6-8 h en Fase 3). Ajustable.
+- **Duración:** 27-29 meses a un ritmo de **3-5 h/semana** (con picos de 6-8 h en Fase 3). Ajustable. **Opcional:** un [Ciclo III](plan/ciclo-iii.md) de 7 meses extra (total ~36) cubre política social, desarrollo cultural y tesina propia publicable.
 - **Lecturas:** **~70 autores** entre fases y módulos transversales, mezclando obras primarias completas, selecciones de capítulos y papers fundacionales.
 - **Coste:** prácticamente cero. ~70% de las lecturas tienen versión gratuita legal online; el resto se consigue en biblioteca pública o por ~100-150 € si lo compras todo.
 - **Modalidad:** autodidacta con verificación pedagógica:
@@ -123,6 +123,10 @@ Las páginas dedicadas [M3 Pluriverso autores](plan/pluriverso-autores.md) y [M4
 | **[Plan → Puntos de naufragio](plan/naufragios.md)** | 7 puntos donde se cae la gente + protocolos | Antes de cada bloque complicado |
 | **[Plan → Salidas honorables](plan/salidas-honorables.md)** | Qué ganaste si no terminas | Si dudas, recuerda que terminar es opcional |
 | **[Plan → Mapa de conexiones](plan/conexiones.md)** | Líneas verticales y debates horizontales entre autores | Para construir las conexiones que el plan pide |
+| **[Plan → Ciclo III (opcional)](plan/ciclo-iii.md)** | Mes 29-36: política social + cultura + tesina propia | Si terminás Fase 5 y querés ir más lejos |
+| **[Plan → M5 Política Social](plan/m5-politica-social.md)** | Esping-Andersen, Marshall, Polanyi, Sen, Fraser, CEPAL | Dentro del Ciclo III |
+| **[Plan → M6 Desarrollo Cultural](plan/m6-cultura.md)** | Bourdieu, Hall, Williams, García Canclini, Fisher, Sarlo | Dentro del Ciclo III |
+| **[Plan → Temas-bisagra](plan/temas-bisagra.md)** | 6 temas que cruzan economía + política + política social + cultura | Para los ensayos integradores del Ciclo III |
 | **[Bibliografía](bibliografia.md)** | Tabla completa con los 70+ libros del plan | Para planear compras o consultas en biblioteca |
 | **[Progreso](seguimiento.md)** | Checklist por fase + autoevaluación trimestral | Una vez al mes para marcar y reflexionar |
 | **[Lecturas](lecturas/index.md)** | Tus notas, una por libro completado | Al terminar cada libro |
