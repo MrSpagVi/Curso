@@ -85,6 +85,12 @@ extra_javascript:
 nav:
   - Inicio: index.md
   - Empieza aquí: empieza-aqui.md
+  - Cursos:
+      - "Portal · 4 itinerarios": cursos/index.md
+      - "📚 Filosofía": cursos/filosofia.md
+      - "🏛 Ciencias Políticas": cursos/ciencias-politicas.md
+      - "💰 Economía Política": cursos/economia.md
+      - "🌐 Política Social y Cultura": cursos/politica-cultura.md
   - Plan:
       - Visión general: plan/index.md
       - Plan maestro: plan/maestro.md

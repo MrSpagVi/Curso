@@ -5,13 +5,38 @@ hide:
   - toc
 ---
 
-# Curso de Ciencia Política
+# Cursos · Filosofía · Ciencias Políticas · Economía · Política Social y Cultura
 
 <div class="hero-cta">
   <span class="g-label">¿Primera vez aquí?</span>
-  <a href="empieza-aqui/" class="g-btn g-btn-primary hero-cta-link">Empezar el curso →</a>
-  <span class="hero-cta-desc">Tour de 7 min · qué es · cómo funciona · qué hacer hoy</span>
+  <a href="cursos/" class="g-btn g-btn-primary hero-cta-link">Ver los 4 cursos →</a>
+  <span class="hero-cta-desc">Elegí itinerario · 4 puertas al mismo corpus · plan integrado opcional</span>
 </div>
+
+<section class="g-section">
+  <span class="g-label">Cursos disponibles</span>
+  <div class="glance-2col">
+    <section class="g-card">
+      <strong><a href="cursos/filosofia/">📚 Filosofía</a></strong>
+      <p style="font-size:0.85rem;margin:0.3rem 0 0;">Aristóteles · Kant · Hegel · Nietzsche · Wittgenstein · Foucault.<br><span style="opacity:0.7;">22-24 meses · sistemas de pensamiento</span></p>
+    </section>
+    <section class="g-card">
+      <strong><a href="cursos/ciencias-politicas/">🏛 Ciencias Políticas</a></strong>
+      <p style="font-size:0.85rem;margin:0.3rem 0 0;">Weber · Arendt · Tilly · Dahl · Linz · Levitsky · Mearsheimer.<br><span style="opacity:0.7;">18-22 meses · Estado, regímenes, RR.II.</span></p>
+    </section>
+    <section class="g-card">
+      <strong><a href="cursos/economia/">💰 Economía Política</a></strong>
+      <p style="font-size:0.85rem;margin:0.3rem 0 0;">Smith · Marx · Keynes · Hayek · Prebisch · Diamand · Shaikh.<br><span style="opacity:0.7;">14-18 meses · 3 niveles hasta publicar</span></p>
+    </section>
+    <section class="g-card">
+      <strong><a href="cursos/politica-cultura/">🌐 Política Social y Cultura</a></strong>
+      <p style="font-size:0.85rem;margin:0.3rem 0 0;">Marshall · Esping-Andersen · Bourdieu · Hall · García Canclini · Fraser.<br><span style="opacity:0.7;">~12 meses · welfare + hegemonía + plataformas</span></p>
+    </section>
+  </div>
+  <p style="font-size:0.85rem;margin-top:0.7rem;opacity:0.8;">
+    ¿Querés el corpus completo con cruces deliberados? <a href="plan/maestro/">Plan integrado</a> (27-29 meses + <a href="plan/ciclo-iii/">Ciclo III</a> opcional). · ¿Primera vez? <a href="empieza-aqui/">Empieza aquí</a> (tour 7 min).
+  </p>
+</section>
 
 <div class="glance-grid">
 
@@ -67,8 +92,9 @@ hide:
   <section class="g-card">
     <span class="g-label">Atajos</span>
     <ul class="g-links">
+      <li><a href="cursos/">Cursos · itinerarios</a><span class="g-link-desc">Elegir uno de los 4</span></li>
       <li><a href="empieza-aqui/">Empieza aquí</a><span class="g-link-desc">Tour de 7 min para empezar hoy</span></li>
-      <li><a href="plan/maestro/">Plan maestro</a><span class="g-link-desc">5 fases, libros, recursos</span></li>
+      <li><a href="plan/maestro/">Plan integrado (maestro)</a><span class="g-link-desc">Corpus completo · 5 fases · Ciclo III</span></li>
       <li><a href="plan/ejecutar/">Cómo ejecutarlo</a><span class="g-link-desc">Cadencia + Bloom</span></li>
       <li><a href="seguimiento/">Mi progreso</a><span class="g-link-desc">Checklist + hitos</span></li>
       <li><a href="plan/falacias/">Manual de falacias</a><span class="g-link-desc">Detectar, registrar</span></li>

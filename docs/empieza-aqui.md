@@ -8,6 +8,9 @@ title: Empieza Aquí
 
 **Tiempo de lectura:** 10 min. **Tiempo del Día 1 que verás abajo:** 30 min.
 
+!!! tip "Si todavía no decidiste qué cursar"
+    Hay [4 itinerarios disponibles](cursos/index.md) (Filosofía, Ciencias Políticas, Economía, Política Social y Cultura) más el plan integrado completo. Cada itinerario es una "puerta" distinta al mismo corpus, con énfasis distinto. **Esta página vale para los 5 caminos** — el setup del sistema de notas, el ritual diario y la pedagogía son comunes.
+
 ---
 
 ## :material-alert-circle: ORDEN del curso (importante)
