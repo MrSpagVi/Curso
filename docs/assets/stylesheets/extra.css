@@ -1006,3 +1006,96 @@ body, .md-typeset {
 :root {
   --g-success: #6b8e6b;
 }
+
+
+/* ============================================================
+   UX-V3 — Tronco común visible + hero único
+   ============================================================ */
+
+/* Hero rediseñado: una sola decisión */
+.hero-primary.hero-single {
+  align-items: center;
+  text-align: center;
+  padding: 2.2rem 1.5rem;
+}
+
+.hero-primary.hero-single .hero-statement {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.hero-cta-xl {
+  font-size: 1.05rem !important;
+  padding: 1rem 2rem !important;
+  margin: 0.5rem 0 !important;
+}
+
+.hero-promise {
+  font-family: "Inter", sans-serif;
+  font-size: 0.85rem;
+  color: var(--g-label);
+  margin: 0.5rem 0 0;
+  font-style: italic;
+}
+
+.hero-secondary-row {
+  text-align: center;
+  font-size: 0.78rem;
+  margin: 0.8rem 0 1.5rem;
+  color: var(--g-label);
+}
+
+/* Badge de estado del tronco común / fase / ruta */
+.panel-badge {
+  border-radius: 4px;
+  padding: 0.9rem 1.2rem;
+  margin: 1rem 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  border-left-width: 4px;
+  border-left-style: solid;
+}
+
+.panel-badge-tronco {
+  background: rgba(184, 121, 78, 0.08);
+  border-left-color: var(--g-accent);
+}
+
+.panel-badge-fase {
+  background: rgba(107, 142, 107, 0.08);
+  border-left-color: var(--g-success);
+}
+
+.panel-badge-ruta {
+  background: rgba(21, 101, 192, 0.08);
+  border-left-color: #1565c0;
+}
+
+.panel-badge .badge-label {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--g-accent);
+  font-weight: 600;
+}
+
+.panel-badge-fase .badge-label { color: var(--g-success); }
+.panel-badge-ruta .badge-label { color: #1565c0; }
+
+.panel-badge .badge-text {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color);
+}
+
+.panel-badge .badge-next {
+  font-family: "Inter", sans-serif;
+  font-size: 0.78rem;
+  color: var(--g-label);
+}
+
+.panel-badge .badge-next a {
+  color: var(--g-accent);
+}

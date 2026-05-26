@@ -7,15 +7,27 @@ hide:
 
 # Itinerarios — pensamiento político, social y económico
 
-<div class="hero-primary">
-  <p class="hero-statement">Un sistema de <strong>autoestudio adulto</strong> para leer ~70 autores fundamentales, escribir lo tuyo y discutir con criterio. 3-5 h/sem.</p>
-  <a href="empieza-aqui/" class="g-btn g-btn-primary hero-cta-link">▶ Empezar el tour (5 min) →</a>
-  <a href="#mi-panel" class="hero-secondary-link">¿Ya estás avanzando? → ir a tu panel ↓</a>
+<div class="hero-primary hero-single">
+  <p class="hero-statement">Autoestudio adulto. ~70 autores. 27 meses. Método propio (lectura + notas + IA con guardrails).</p>
+  <a href="empieza-aqui/" class="g-btn g-btn-primary hero-cta-link hero-cta-xl">▶ Empezar — Tour de 15 min →</a>
+  <p class="hero-promise">Las primeras 4 semanas son iguales para todos. La primera decisión grande llega al mes 4.</p>
 </div>
+
+<p class="hero-secondary-row">
+  <a href="#mi-panel" class="hero-secondary-link">¿Ya estás cursando? → Mi panel ↓</a> ·
+  <a href="mapa/" class="hero-secondary-link">Ver el mapa completo antes</a> ·
+  <a href="como-se-aprende/" class="hero-secondary-link">Entender el método</a>
+</p>
 
 ---
 
-<h2 id="mi-panel">Tu panel</h2>
+## Tu panel { #mi-panel }
+
+<div class="panel-badge panel-badge-tronco">
+  <span class="badge-label">TRONCO COMÚN</span>
+  <span class="badge-text">Semana 1 de 4 · setup del sistema de notas</span>
+  <span class="badge-next">→ próximo hito: <a href="checkpoint-semana-4/">Checkpoint semana 4</a></span>
+</div>
 
 <div class="glance-grid">
 
@@ -75,26 +87,26 @@ hide:
 
 ---
 
-## Explorar
+## Después del tronco común (mes 4 en adelante)
 
-Cuando ya entendiste de qué va esto:
+Cuando termines el tronco y elijas en el [checkpoint del mes 4](checkpoint-mes-4.md), tenés 3 caminos:
 
 <div class="glance-2col">
   <section class="g-card">
-    <strong>▸ <a href="ruta-esencial/">Ruta esencial</a></strong>
-    <p style="font-size:0.85rem;margin:0.3rem 0 0;">12 libros, 6 meses. Lo mínimo viable serio.<br><span style="opacity:0.7;">Recomendada si es tu primera vez.</span></p>
+    <strong>▸ <a href="ruta-esencial/">Camino B — Ruta esencial</a></strong>
+    <p style="font-size:0.85rem;margin:0.3rem 0 0;">Libros 3-12 de la lista corta. ~4 meses más.<br><span style="opacity:0.7;">Salida: base general sólida.</span></p>
   </section>
   <section class="g-card">
-    <strong>▸ <a href="plan/maestro/">Plan integrado</a></strong>
-    <p style="font-size:0.85rem;margin:0.3rem 0 0;">27-36 meses, ~70 autores, todo cruzado.<br><span style="opacity:0.7;">Para el corpus completo.</span></p>
+    <strong>▸ <a href="plan/maestro/">Camino A — Plan integrado</a></strong>
+    <p style="font-size:0.85rem;margin:0.3rem 0 0;">Fase 1-5 completa, ~23 meses más.<br><span style="opacity:0.7;">Corpus completo cruzado.</span></p>
   </section>
   <section class="g-card">
-    <strong>▸ <a href="ramas/">Las 7 ramas</a></strong>
-    <p style="font-size:0.85rem;margin:0.3rem 0 0;">Filosofía · CC.PP. · Economía · Pol. Social · Cultura · Sociología · RR.II.<br><span style="opacity:0.7;">Si ya tenés interés disciplinar.</span></p>
+    <strong>▸ <a href="ramas/">Camino C — Especialización</a></strong>
+    <p style="font-size:0.85rem;margin:0.3rem 0 0;">Una de las 7 ramas (Filosofía · CC.PP. · Economía · Pol. Social · Cultura · Sociología · RR.II.).<br><span style="opacity:0.7;">Si ya tenés interés disciplinar.</span></p>
   </section>
   <section class="g-card">
     <strong>▸ <a href="mapa/">Mapa visual del corpus</a></strong>
-    <p style="font-size:0.85rem;margin:0.3rem 0 0;">Bases + 7 ramas + temas-bisagra, todo en un diagrama clicable.<br><span style="opacity:0.7;">Vista general rápida.</span></p>
+    <p style="font-size:0.85rem;margin:0.3rem 0 0;">Vista general clicable de los ~70 autores y sus cruces.<br><span style="opacity:0.7;">Referencia abierta.</span></p>
   </section>
 </div>
 

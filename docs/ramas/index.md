@@ -4,13 +4,16 @@ title: Ramas · 7 puertas
 
 # Las 7 ramas
 
-> Siete maneras de entrar al mismo corpus. La bibliografía no se duplica: cada rama reordena lo que ya está en el [plan integrado](../plan/maestro.md), agrega lo que su disciplina específica exige, y propone una secuencia con énfasis propio. Si terminás las 7 hiciste el plan integrado entero por puertas distintas.
+!!! warning "Las ramas son para el mes 4 en adelante"
+    Esta página es **referencia**. Las ramas se eligen en el [Checkpoint mes 4](../checkpoint-mes-4.md), después del **tronco común** (setup notas + Fase 0 + 2 libros). Si recién empezás, [arrancá por el tour](../empieza-aqui.md) — no por acá.
 
-[:material-graph: Ver mapa visual del conocimiento](../index.md){ .md-button .md-button--primary }
+Siete maneras de entrar al mismo corpus. La bibliografía no se duplica: cada rama reordena lo que ya está en el [plan integrado](../plan/maestro.md), agrega lo que su disciplina específica exige, y propone una secuencia con énfasis propio. Si terminás las 7 hiciste el plan integrado entero por puertas distintas.
+
+[:material-graph: Ver mapa visual del conocimiento](../mapa.md){ .md-button .md-button--primary }
 
 ---
 
-## :material-help-circle: ¿Cuál elijo?
+## :material-help-circle: ¿Cuál elijo? (si ya estás en el mes 4)
 
 | Si te interesa principalmente... | Vas a... | Duración aprox. |
 |---|---|---|
@@ -25,21 +28,20 @@ title: Ramas · 7 puertas
 
 ---
 
-## :material-school: Cómo se usan las ramas
+## :material-school: Cómo se usa una rama
 
-**Tres modos posibles:**
+Una vez que elegiste tu rama en el [checkpoint mes 4](../checkpoint-mes-4.md): la recorrés lineal de bloque 1 a bloque N. **Una sola rama a la vez** (no en paralelo — solo si tenés 8-10 h/sem firmes, NO recomendado).
 
-### Modo 1 — Lineal (recomendado primera vez)
-Elegís UNA rama y la recorrés. Cuando terminés, sumás otra. Empezar por la de menor barrera:
+Cuando terminés esa rama, podés:
 
-- **Si nunca leíste filosofía:** [Política Social](politica-social.md) o [Sociología](sociologia.md) (más empíricas, casos concretos).
-- **Si querés algo intenso desde el día 1:** [Economía](economia.md) o [Filosofía](filosofia.md).
+- **Sumar otra rama** (ya tenés el tronco común, vas más rápido).
+- **Volver al plan integrado** y hacer las fases que te faltan.
+- **Pasar al Ciclo III** (política social + cultura + tesina) si terminaste rama y querés producir texto propio largo.
 
-### Modo 2 — Integrado con énfasis
-Hacés el [plan integrado](../plan/maestro.md) (Fase 0 → Fase 5 + Ciclo III opcional) y usás las ramas como **guías de relectura** cuando termines.
+**Recomendaciones por nivel de entrada:**
 
-### Modo 3 — Ramas en paralelo
-Solo si tenés 8-10 h/sem firmes. NO recomendado para empezar.
+- Sin base previa: [Política Social](politica-social.md) o [Sociología](sociologia.md) (más empíricas, casos concretos).
+- Con tiempo y ganas de intensidad: [Economía](economia.md) o [Filosofía](filosofia.md).
 
 ---
 
