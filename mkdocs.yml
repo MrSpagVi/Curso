@@ -77,6 +77,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
+  - https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap
   - assets/stylesheets/extra.css
 
 extra_javascript:
@@ -84,6 +85,13 @@ extra_javascript:
 
 nav:
   - Inicio: index.md
+  - Empezar acá:
+      - "Tour de 5 pasos": empieza-aqui.md
+      - "Diagnóstico de entrada (12 preguntas)": empieza-aqui/diagnostico.md
+      - "FAQ y hábito": empieza-aqui/faq.md
+      - "Recursos gratuitos": empieza-aqui/recursos.md
+  - "Ruta esencial (12 libros)": ruta-esencial.md
+  - "Mapa del corpus": mapa.md
   - Ramas:
       - "Portal · 7 puertas": ramas/index.md
       - "📚 Filosofía": ramas/filosofia.md
@@ -93,9 +101,8 @@ nav:
       - "🎭 Estudios Culturales y Comunicación": ramas/estudios-culturales.md
       - "👥 Sociología": ramas/sociologia.md
       - "🌐 Relaciones Internacionales": ramas/relaciones-internacionales.md
+  - "Cómo se aprende acá": como-se-aprende.md
   - Plan integrado:
-      - "Empieza aquí": empieza-aqui.md
-      - "Cómo se aprende acá": como-se-aprende.md
       - "Plan maestro": plan/maestro.md
       - "Visión general": plan/index.md
       - "Fase 0 — Cimientos": plan/fase-0.md

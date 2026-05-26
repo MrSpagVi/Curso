@@ -876,3 +876,133 @@ body, .md-typeset {
     padding: 0.35rem 0.3rem;
   }
 }
+
+
+/* ============================================================
+   UX-V2 — sans para prosa larga, mono solo en UI/labels/datos
+   ============================================================ */
+
+/* Prosa larga: Inter (sans humanist) para lectura cómoda */
+.md-typeset p,
+.md-typeset li,
+.md-typeset blockquote,
+.md-typeset td,
+.md-typeset th,
+.md-typeset details,
+.md-typeset .admonition p,
+.md-typeset .admonition li {
+  font-family: "Inter", "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.72;
+}
+
+/* Mantener mono en headers, code, labels, botones, valores dashboard */
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6,
+.md-typeset code, .md-typeset pre,
+.g-label, .g-btn, .g-stat-value, .g-stat-row,
+.g-clock-date, .g-clock-time, .g-clock-sub,
+.g-streak-num, .g-streak-label, .g-streak-best,
+.g-link-desc, .step-meta {
+  font-family: "JetBrains Mono", monospace;
+}
+
+/* ============================================================
+   Hero primary — un solo CTA, jerarquía clara
+   ============================================================ */
+
+.hero-primary {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+  padding: 1.5rem;
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-border);
+  border-left: 3px solid var(--g-accent);
+  border-radius: 4px;
+}
+
+.hero-primary .hero-statement {
+  font-family: "Inter", sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.55;
+  color: var(--md-default-fg-color);
+  max-width: 65ch;
+  margin: 0;
+}
+
+.hero-primary .g-btn-primary {
+  font-size: 0.95rem;
+  padding: 0.75rem 1.5rem;
+}
+
+.hero-secondary-link {
+  font-size: 0.78rem;
+  color: var(--g-label);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--g-border);
+  padding-bottom: 1px;
+}
+
+.hero-secondary-link:hover {
+  color: var(--g-accent);
+  border-bottom-color: var(--g-accent);
+}
+
+/* ============================================================
+   Wizard steps — Empieza Aquí
+   ============================================================ */
+
+.wizard-step {
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-border);
+  border-left: 3px solid var(--g-accent);
+  border-radius: 4px;
+  padding: 1.5rem 1.8rem;
+  margin: 1.8rem 0;
+}
+
+.wizard-step .step-meta {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--g-label);
+  font-family: "JetBrains Mono", monospace;
+  margin-bottom: 0.6rem;
+  display: block;
+}
+
+.wizard-step h2 {
+  border: none;
+  margin-top: 0.2rem;
+  margin-bottom: 1rem;
+}
+
+.wizard-step .step-footer {
+  margin-top: 1.4rem;
+  padding-top: 1rem;
+  border-top: 1px dotted var(--g-border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.78rem;
+  color: var(--g-label);
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.wizard-step .step-footer a {
+  color: var(--g-accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.wizard-step .step-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Color de éxito tenue para futuros checkboxes completados */
+:root {
+  --g-success: #6b8e6b;
+}
