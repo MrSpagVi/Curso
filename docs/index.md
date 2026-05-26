@@ -5,18 +5,27 @@ hide:
   - toc
 ---
 
-# Itinerarios — pensamiento político, social y económico
+# Política, filosofía y economía — leídos en serio
 
 <div class="hero-primary hero-single">
-  <p class="hero-statement">Autoestudio adulto. ~70 autores. Syllabus de etapas en orden. Método propio (lectura + notas + IA con guardrails).</p>
-  <a href="curso/" class="g-btn g-btn-primary hero-cta-link hero-cta-xl">▶ EMPEZAR EL CURSO →</a>
-  <p class="hero-promise">Las primeras 11 etapas son iguales para todos. En la Etapa 11 elegís entre 3 caminos.</p>
+  <p class="hero-statement">Un plan de 18-24 meses curado por JV (Buenos Aires). Pensamiento crítico, filosofía política, economía y cultura — con método propio (lectura + notas + IA con guardrails).</p>
+  <div class="hero-cta-pair">
+    <a href="curso/" class="g-btn g-btn-primary hero-cta-link hero-cta-xl">▶ Empezar el plan</a>
+    <a href="bibliografia/" class="g-btn hero-cta-link hero-cta-xl">Solo mirar la biblioteca</a>
+  </div>
 </div>
 
+<section class="g-section">
+  <span class="g-label">¿Cuánto tiempo tenés hoy?</span>
+  <ul class="g-links">
+    <li><strong>5 minutos</strong> → <a href="empieza-aqui/">leé "Cómo usar este sitio"</a><span class="g-link-desc">Para qué sirve esto, para quién, qué NO es.</span></li>
+    <li><strong>1 hora</strong> → <a href="curso/">arrancá el plan: Etapa 1, lectura 1</a><span class="g-link-desc">Setup del sistema de notas + primera captura de falacia.</span></li>
+    <li><strong>Ya leíste mucho</strong> → <a href="bibliografia/">andá a Biblioteca y buscá por autor</a><span class="g-link-desc">Lista plana de los ~70 autores del plan.</span></li>
+  </ul>
+</section>
+
 <p class="hero-secondary-row">
-  <a href="#mi-panel" class="hero-secondary-link">¿Ya estás cursando? → Mi panel ↓</a> ·
-  <a href="empieza-aqui/" class="hero-secondary-link">¿Por qué este método? (tour 15 min)</a> ·
-  <a href="mapa/" class="hero-secondary-link">Mapa del corpus</a>
+  <a href="#mi-panel" class="hero-secondary-link">¿Ya estás cursando? → Mi panel ↓</a>
 </p>
 
 ---

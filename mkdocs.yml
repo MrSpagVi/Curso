@@ -85,13 +85,25 @@ extra_javascript:
 
 nav:
   - Inicio: index.md
-  - "▶ EL CURSO (etapas en orden)": curso.md
-  - Empezar acá:
-      - "Tour de 5 pasos (por qué este método)": empieza-aqui.md
-      - "✅ Checkpoint semana 4 (Hito 1)": checkpoint-semana-4.md
-      - "🎯 Checkpoint mes 4 — elegí ruta (Hito 2)": checkpoint-mes-4.md
+  - Cómo usar este sitio:
+      - "Tour de 5 pasos": empieza-aqui.md
       - "FAQ + diagnóstico + recursos": empieza-aqui/faq.md
-  - Método:
+  - El plan (18-24 meses):
+      - "Visión general del plan (etapas en orden)": curso.md
+      - "Plan maestro (detalle)": plan/maestro.md
+      - "Fase 0 — Cimientos": plan/fase-0.md
+      - "Fase 1 — Filosofía clásica": plan/fase-1.md
+      - "Fase 2 — Economía política": plan/fase-2.md
+      - "Fase 3 — Sociopolítica s. XX": plan/fase-3.md
+      - "Fase 4 — Iberoamericana (tu rama)": plan/fase-4.md
+      - "Fase 5 — Síntesis": plan/fase-5.md
+      - "Checkpoint semana 4": checkpoint-semana-4.md
+      - "Checkpoint mes 4 (elegí ruta)": checkpoint-mes-4.md
+      - "Ciclo III (opcional, post Fase 5)": plan/ciclo-iii.md
+      - "M5 — Política Social": plan/m5-politica-social.md
+      - "M6 — Desarrollo Cultural": plan/m6-cultura.md
+      - "Ruta esencial (versión corta, 12 libros)": ruta-esencial.md
+  - Método de lectura:
       - "Método — cómo estudiar acá": metodo.md
       - "Sistema de notas": plan/notas.md
       - "Tutorial — tomar notas (30 días)": plan/notas-tutorial.md
@@ -102,45 +114,35 @@ nav:
           - "Práctica + auto-test": plan/falacias/practica.md
       - "Rúbricas Bloom": plan/bloom-rubricas.md
       - "Puntos de naufragio": plan/naufragios.md
-  - Caminos:
-      - "Camino B · Ruta esencial (12 libros)": ruta-esencial.md
-      - "Camino A · Plan integrado (overview)": plan/maestro.md
-      - "Camino C · Portal de las 7 ramas": ramas/index.md
+  - Biblioteca:
+      - "Bibliografía completa (todos los autores)": bibliografia.md
       - "Mapa visual del corpus": mapa.md
-      - "📚 Filosofía": ramas/filosofia.md
-      - "🏛 Ciencias Políticas": ramas/ciencias-politicas.md
-      - "💰 Economía Política": ramas/economia.md
-      - "🤝 Política Social": ramas/politica-social.md
-      - "🎭 Estudios Culturales y Comunicación": ramas/estudios-culturales.md
-      - "👥 Sociología": ramas/sociologia.md
-      - "🌐 Relaciones Internacionales": ramas/relaciones-internacionales.md
-  - Referencia:
-      - "Fase 0 — Cimientos": plan/fase-0.md
-      - "Fase 1 — Filosofía clásica": plan/fase-1.md
-      - "Fase 2 — Economía política": plan/fase-2.md
-      - "Fase 3 — Sociopolítica s. XX": plan/fase-3.md
-      - "Fase 4 — Iberoamericana": plan/fase-4.md
-      - "Fase 5 — Síntesis": plan/fase-5.md
-      - "Temas-bisagra": plan/temas-bisagra.md
-      - "Canon ampliado (universidades top)": plan/canon-ampliado.md
-      - "Lecturas complementarias": plan/lecturas-complementarias.md
-      - "Módulo Historia (M4)": plan/historia.md
-      - "M4 Historia — autores": plan/historia-autores.md
-      - "M3 Pluriverso — autores": plan/pluriverso-autores.md
-      - "Bibliografía completa": bibliografia.md
+      - Tu rama (elegida en Fase 4):
+          - "Portal de las 7 ramas": ramas/index.md
+          - "📚 Filosofía": ramas/filosofia.md
+          - "🏛 Ciencias Políticas": ramas/ciencias-politicas.md
+          - "💰 Economía Política": ramas/economia.md
+          - "🤝 Política Social": ramas/politica-social.md
+          - "🎭 Estudios Culturales y Comunicación": ramas/estudios-culturales.md
+          - "👥 Sociología": ramas/sociologia.md
+          - "🌐 Relaciones Internacionales": ramas/relaciones-internacionales.md
+      - Temas y autores extras:
+          - "Temas-bisagra": plan/temas-bisagra.md
+          - "Canon ampliado (universidades top)": plan/canon-ampliado.md
+          - "Lecturas complementarias": plan/lecturas-complementarias.md
+          - "Módulo Historia (M4)": plan/historia.md
+          - "M4 Historia — autores": plan/historia-autores.md
+          - "M3 Pluriverso — autores": plan/pluriverso-autores.md
+      - "Mapa de conexiones (entre autores)": plan/conexiones.md
       - "Actualidad (titulares)": actualidad.md
-      - "Mapa de conexiones": plan/conexiones.md
-  - "Ciclo III (opcional)":
-      - "Ciclo III — Overview": plan/ciclo-iii.md
-      - "M5 — Política Social": plan/m5-politica-social.md
-      - "M6 — Desarrollo Cultural": plan/m6-cultura.md
-  - Mi práctica:
+  - Mi panel:
       - "Progreso (seguimiento)": seguimiento.md
       - "Mis lecturas": lecturas/index.md
-      - "Plantilla de lectura": lecturas/plantilla.md
       - "Mis ensayos": ensayos/index.md
       - "Oratoria — log": oratoria/log.md
-      - "Plantillas": plantillas/index.md
+  - Plantillas:
+      - "Plantillas (índice)": plantillas/index.md
+      - "Plantilla de lectura": lecturas/plantilla.md
       - "Plantilla — falacia": plantillas/plantilla-falacia.md
       - "Plantilla — ensayo": plantillas/plantilla-ensayo.md
       - "Plantilla — nota permanente": plantillas/plantilla-nota-permanente.md

@@ -1099,3 +1099,28 @@ body, .md-typeset {
 .panel-badge .badge-next a {
   color: var(--g-accent);
 }
+
+
+/* ============================================================
+   UX-V4 — Par de CTAs (Empezar plan + Biblioteca)
+   ============================================================ */
+
+.hero-cta-pair {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0.5rem 0;
+}
+
+.hero-cta-pair .g-btn {
+  flex: 1 1 auto;
+  min-width: 220px;
+}
+
+/* Mobile: stack vertical */
+@media (max-width: 540px) {
+  .hero-cta-pair {
+    flex-direction: column;
+  }
+}
