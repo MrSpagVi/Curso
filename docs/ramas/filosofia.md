@@ -113,6 +113,8 @@ Para todas: existen ediciones gratuitas legales en español (Wikisource, edicion
 
 - **[CC.PP.](ciencias-politicas.md)** usa los mismos Hobbes/Locke/Rousseau pero leídos como **teoría del Estado**, no como antropología filosófica. Comparten temas-bisagra: contractualismo, legitimidad.
 - **[Economía](economia.md)** usa el mismo Marx pero leído como **economía política**, no como crítica filosófica al fetichismo. Tema-bisagra: dialéctica amo-esclavo de Hegel (te lo agradecerán para entender la sección sobre trabajo alienado).
-- **[Política Social y Cultura](politica-cultura.md)** comparte Foucault, Adorno, Benjamin, Bourdieu — pero el itinerario filosofía los lee desde su sistema, el de Cultura los lee como herramientas para analizar la industria cultural.
+- **[Estudios Culturales](estudios-culturales.md)** comparte Foucault, Adorno, Benjamin, Bourdieu — pero filosofía los lee desde su sistema, cultura los lee como herramientas para analizar la industria cultural.
+- **[Sociología](sociologia.md)** comparte Bourdieu, Foucault, Luhmann — misma obra, distinta puerta (filosofía las trata como sistemas; sociología como instrumento empírico).
+- **[Política Social](politica-social.md)** y **[RR.II.](relaciones-internacionales.md)** usan tu filosofía como base (justicia, contrato social, paz perpetua).
 
 Si querés profundizar después del itinerario filosofía, los huecos honestos son: **Spinoza, Hume completo, Kant *Crítica de la razón pura* completa, Husserl, Sartre, Derrida, Deleuze, Rorty**. El plan integrado tampoco los cubre — son post-plan para todos.

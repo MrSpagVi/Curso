@@ -1,5 +1,5 @@
-site_name: Curso de Ciencia Política
-site_description: Itinerario personal de formación en filosofía política, sociopolítica, economía y pensamiento crítico.
+site_name: Itinerarios — Pensamiento Político, Social y Económico
+site_description: Autoestudio en filosofía, ciencias políticas, economía, política social y cultura. Cuatro itinerarios sobre un mismo corpus + plan integrado opcional.
 site_url: https://mrspagvi.github.io/Libros-Politica/
 
 theme:
@@ -84,51 +84,56 @@ extra_javascript:
 
 nav:
   - Inicio: index.md
-  - Empieza aquí: empieza-aqui.md
-  - Cursos:
-      - "Portal · 4 itinerarios": cursos/index.md
-      - "📚 Filosofía": cursos/filosofia.md
-      - "🏛 Ciencias Políticas": cursos/ciencias-politicas.md
-      - "💰 Economía Política": cursos/economia.md
-      - "🌐 Política Social y Cultura": cursos/politica-cultura.md
-  - Plan:
-      - Visión general: plan/index.md
-      - Plan maestro: plan/maestro.md
-      - Fase 0 — Cimientos: plan/fase-0.md
-      - Fase 1 — Filosofía clásica: plan/fase-1.md
-      - Fase 2 — Economía política: plan/fase-2.md
-      - Fase 3 — Sociopolítica s. XX: plan/fase-3.md
-      - Fase 4 — Iberoamericana: plan/fase-4.md
-      - Fase 5 — Síntesis: plan/fase-5.md
-      - Módulo Historia (M4): plan/historia.md
-      - M3 Pluriverso (autores): plan/pluriverso-autores.md
-      - M4 Historia (autores): plan/historia-autores.md
+  - Ramas:
+      - "Portal · 7 puertas": ramas/index.md
+      - "📚 Filosofía": ramas/filosofia.md
+      - "🏛 Ciencias Políticas": ramas/ciencias-politicas.md
+      - "💰 Economía Política": ramas/economia.md
+      - "🤝 Política Social": ramas/politica-social.md
+      - "🎭 Estudios Culturales y Comunicación": ramas/estudios-culturales.md
+      - "👥 Sociología": ramas/sociologia.md
+      - "🌐 Relaciones Internacionales": ramas/relaciones-internacionales.md
+  - Plan integrado:
+      - "Empieza aquí": empieza-aqui.md
+      - "Cómo se aprende acá": como-se-aprende.md
+      - "Plan maestro": plan/maestro.md
+      - "Visión general": plan/index.md
+      - "Fase 0 — Cimientos": plan/fase-0.md
+      - "Fase 1 — Filosofía clásica": plan/fase-1.md
+      - "Fase 2 — Economía política": plan/fase-2.md
+      - "Fase 3 — Sociopolítica s. XX": plan/fase-3.md
+      - "Fase 4 — Iberoamericana": plan/fase-4.md
+      - "Fase 5 — Síntesis": plan/fase-5.md
       - "Ciclo III (opcional)": plan/ciclo-iii.md
-      - M5 Política Social: plan/m5-politica-social.md
-      - M6 Desarrollo Cultural: plan/m6-cultura.md
-      - Temas-bisagra: plan/temas-bisagra.md
-      - Lecturas complementarias: plan/lecturas-complementarias.md
-      - Cómo ejecutar: plan/ejecutar.md
-      - Sistema de notas: plan/notas.md
-      - Tutorial - aprender a tomar notas: plan/notas-tutorial.md
-      - Manual de falacias: plan/falacias.md
-      - Mapa de conexiones: plan/conexiones.md
-      - Rúbricas Bloom: plan/bloom-rubricas.md
-      - Puntos de naufragio: plan/naufragios.md
-      - Salidas honorables: plan/salidas-honorables.md
-  - Bibliografía: bibliografia.md
-  - Actualidad: actualidad.md
-  - Progreso: seguimiento.md
-  - Lecturas:
-      - Mis notas: lecturas/index.md
-      - Plantilla: lecturas/plantilla.md
-  - Ensayos: ensayos/index.md
-  - Oratoria: oratoria/log.md
-  - Plantillas:
-      - Visión general: plantillas/index.md
-      - Log de falacias: plantillas/plantilla-falacia.md
-      - Ensayo propio: plantillas/plantilla-ensayo.md
-      - Nota permanente (markdown): plantillas/plantilla-nota-permanente.md
-      - Cuaderno papel (commonplace book): plantillas/plantilla-cuaderno-papel.md
-      - Fichas Zettelkasten papel: plantillas/plantilla-zettelkasten-papel.md
-      - Setup Notion (gratis): plantillas/plantilla-notion-setup.md
+      - "M5 Política Social": plan/m5-politica-social.md
+      - "M6 Desarrollo Cultural": plan/m6-cultura.md
+      - "Temas-bisagra": plan/temas-bisagra.md
+      - "Lecturas complementarias": plan/lecturas-complementarias.md
+      - "Salidas honorables": plan/salidas-honorables.md
+  - Método de estudio:
+      - "Cómo ejecutar": plan/ejecutar.md
+      - "Sistema de notas": plan/notas.md
+      - "Tutorial — aprender a tomar notas": plan/notas-tutorial.md
+      - "Manual de falacias": plan/falacias.md
+      - "Rúbricas Bloom": plan/bloom-rubricas.md
+      - "Puntos de naufragio": plan/naufragios.md
+      - "Mapa de conexiones": plan/conexiones.md
+  - Mi práctica:
+      - "Progreso (seguimiento)": seguimiento.md
+      - "Mis lecturas": lecturas/index.md
+      - "Plantilla de lectura": lecturas/plantilla.md
+      - "Mis ensayos": ensayos/index.md
+      - "Oratoria — log": oratoria/log.md
+      - "Plantillas (índice)": plantillas/index.md
+      - "Plantilla — falacia": plantillas/plantilla-falacia.md
+      - "Plantilla — ensayo": plantillas/plantilla-ensayo.md
+      - "Plantilla — nota permanente": plantillas/plantilla-nota-permanente.md
+      - "Plantilla — cuaderno papel": plantillas/plantilla-cuaderno-papel.md
+      - "Plantilla — Zettelkasten papel": plantillas/plantilla-zettelkasten-papel.md
+      - "Plantilla — setup Notion": plantillas/plantilla-notion-setup.md
+  - Recursos:
+      - "Bibliografía completa": bibliografia.md
+      - "Actualidad (titulares)": actualidad.md
+      - "Módulo Historia (M4)": plan/historia.md
+      - "M3 Pluriverso — autores": plan/pluriverso-autores.md
+      - "M4 Historia — autores": plan/historia-autores.md

@@ -20,7 +20,7 @@ Recomendado si te interesa leer prensa internacional con marco propio, discutir 
 
 !!! warning "No es para vos si"
     - Buscás filosofía política normativa (Rawls, Nozick, Sandel) → ver [itinerario Filosofía](filosofia.md).
-    - Buscás política social aplicada (welfare, AUH, focalización) → ver [itinerario Política Social y Cultura](politica-cultura.md).
+    - Buscás política social aplicada (welfare, AUH, focalización) → ver [rama Política Social](politica-social.md).
     - Buscás teoría económica → ver [itinerario Economía](economia.md).
 
 ---
@@ -169,9 +169,12 @@ Recomendado si te interesa leer prensa internacional con marco propio, discutir 
 
 - **[Filosofía](filosofia.md)** — comparten Bloque 1 (clásicos) y parte del Bloque 2 (Weber, Foucault, Arendt). Filosofía profundiza Rawls/Nozick/Habermas/Honneth que acá se saltan; ciencia política agrega Tilly/Dahl/Linz/Sartori/Levitsky que filosofía omite.
 - **[Economía](economia.md)** — comparten Wallerstein y la lógica centro-periferia. Economía profundiza Smith/Marx/Hayek/Chang; ciencia política los toca solo de pasada.
-- **[Política Social y Cultura](politica-cultura.md)** — comparten Foucault y Weber como bases. Política Social profundiza Esping-Andersen, Marshall, Polanyi, Sen (ver [M5](../plan/m5-politica-social.md)) que acá no aparecen; ciencia política agrega la dimensión geopolítica y de regímenes que Política Social no cubre.
+- **[Política Social](politica-social.md)** — comparten Weber. Política social profundiza Esping-Andersen, Marshall, Polanyi, Sen que acá apenas aparecen.
+- **[Estudios Culturales](estudios-culturales.md)** — comparten Gramsci. Cultura agrega Bourdieu, Hall, García Canclini.
+- **[Sociología](sociologia.md)** — comparten Weber + Foucault como bases compartidas; sociología agrega Bourdieu, Wacquant, Goffman, etnografías.
+- **[RR.II.](relaciones-internacionales.md)** — comparten Mearsheimer. RR.II. agrega Waltz, Keohane, Wallerstein, Mbembe.
 
-Los cuatro itinerarios usan el **mismo corpus base**. Cambian las puertas y los énfasis.
+Las siete ramas usan el **mismo corpus base**. Cambian las puertas y los énfasis.
 
-[:material-arrow-left: Volver a cursos](index.md){ .md-button }
+[:material-arrow-left: Volver a ramas](index.md){ .md-button }
 [:material-map: Ver plan maestro](../plan/maestro.md){ .md-button }

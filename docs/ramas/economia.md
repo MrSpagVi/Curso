@@ -175,10 +175,10 @@ Acá pasás de lector a productor. La cocina del nivel 3.
 
 Los **temas-bisagra** del Ciclo III cruzan economía con todo:
 
-- **Trabajo** (con [Itinerario Política Social y Cultura](politica-cultura.md)): Esping-Andersen + Standing *Precariat* + Kalecki + Aglietta.
-- **Neoliberalismo** (con [Itinerario CC.PP.](ciencias-politicas.md) y [Filosofía](filosofia.md)): Foucault *Nacimiento de la biopolítica* + Hayek + Mazzucato + Fisher *Realismo capitalista*.
-- **Crisis** (con [Itinerario CC.PP.](ciencias-politicas.md)): Polanyi + Aglietta + Basualdo + Reinert.
-- **Desarrollo/dependencia** (con [Itinerario Política Social y Cultura](politica-cultura.md) y CC.PP.): Mariátegui + Prebisch + Furtado + Marini + Quijano.
+- **Trabajo** (con [Política Social](politica-social.md) y [Sociología](sociologia.md)): Esping-Andersen + Standing *Precariat* + Kalecki + Aglietta.
+- **Neoliberalismo** (con [CC.PP.](ciencias-politicas.md), [Filosofía](filosofia.md) y [Estudios Culturales](estudios-culturales.md)): Foucault *Nacimiento de la biopolítica* + Hayek + Mazzucato + Fisher *Realismo capitalista*.
+- **Crisis** (con [CC.PP.](ciencias-politicas.md) y [RR.II.](relaciones-internacionales.md)): Polanyi + Aglietta + Basualdo + Reinert.
+- **Desarrollo/dependencia** (con [Política Social](politica-social.md), [CC.PP.](ciencias-politicas.md) y [RR.II.](relaciones-internacionales.md)): Mariátegui + Prebisch + Furtado + Marini + Quijano.
 
 Si arrancás por Economía pero después saltás a Política Social, el solapamiento (Esping-Andersen, Polanyi, Sen, Fraser) está pensado: **no releés, profundizás**.
 

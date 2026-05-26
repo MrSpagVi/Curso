@@ -8,8 +8,9 @@ title: Empieza Aquí
 
 **Tiempo de lectura:** 10 min. **Tiempo del Día 1 que verás abajo:** 30 min.
 
-!!! tip "Si todavía no decidiste qué cursar"
-    Hay [4 itinerarios disponibles](cursos/index.md) (Filosofía, Ciencias Políticas, Economía, Política Social y Cultura) más el plan integrado completo. Cada itinerario es una "puerta" distinta al mismo corpus, con énfasis distinto. **Esta página vale para los 5 caminos** — el setup del sistema de notas, el ritual diario y la pedagogía son comunes.
+!!! tip "Antes de empezar — dos páginas que sí o sí"
+    1. **[Cómo se aprende acá](como-se-aprende.md)** — el método: ciclo semanal, 5 prompts de IA, anti-patrones. 5 min de lectura.
+    2. **[Las 7 ramas](ramas/index.md)** — Filosofía, Ciencias Políticas, Economía, Política Social, Estudios Culturales, Sociología, Relaciones Internacionales. Cada una es una "puerta" distinta al mismo corpus. **Esta página vale para las 8 rutas** (7 ramas + plan integrado) — el setup del sistema de notas, el ritual diario y la pedagogía son comunes.
 
 ---
 
@@ -126,6 +127,8 @@ Las páginas dedicadas [M3 Pluriverso autores](plan/pluriverso-autores.md) y [M4
 | **[Plan → Puntos de naufragio](plan/naufragios.md)** | 7 puntos donde se cae la gente + protocolos | Antes de cada bloque complicado |
 | **[Plan → Salidas honorables](plan/salidas-honorables.md)** | Qué ganaste si no terminas | Si dudas, recuerda que terminar es opcional |
 | **[Plan → Mapa de conexiones](plan/conexiones.md)** | Líneas verticales y debates horizontales entre autores | Para construir las conexiones que el plan pide |
+| **[Cómo se aprende acá](como-se-aprende.md)** | Ciclo semanal + 5 prompts de IA + reglas de uso | Antes de empezar cualquier rama |
+| **[Las 7 ramas](ramas/index.md)** | Filosofía · CC.PP. · Economía · Política Social · Cultura · Sociología · RR.II. | Para elegir tu puerta |
 | **[Plan → Ciclo III (opcional)](plan/ciclo-iii.md)** | Mes 29-36: política social + cultura + tesina propia | Si terminás Fase 5 y querés ir más lejos |
 | **[Plan → M5 Política Social](plan/m5-politica-social.md)** | Esping-Andersen, Marshall, Polanyi, Sen, Fraser, CEPAL | Dentro del Ciclo III |
 | **[Plan → M6 Desarrollo Cultural](plan/m6-cultura.md)** | Bourdieu, Hall, Williams, García Canclini, Fisher, Sarlo | Dentro del Ciclo III |
