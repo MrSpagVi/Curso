@@ -102,6 +102,17 @@ Es la rama más cruzada con todas las demás: Weber es a la vez sociólogo y pol
 
 ---
 
+!!! tip ":material-medal: Tier 1 del [canon ampliado](../plan/canon-ampliado.md)"
+    Tres autores **críticos** para Sociología identificados al investigar syllabi de Harvard, LSE, Stanford, UBA Sociales, UNAM, Colmex 2024-2026:
+
+    - **Gino Germani** — *Estructura social de la Argentina* (1955). Padre de la sociología argentina moderna. Sin él no se entiende el debate fundacional Germani-Murmis/Portantiero sobre el peronismo. Catálogo Gino Germani UBA / archive.org.
+    - **Pablo González Casanova** — *La democracia en México* (1965). Concepto fundacional de **"colonialismo interno"** — explica el NOA argentino, no solo México. [PDF completo gratis CLACSO](https://biblioteca.clacso.edu.ar/clacso/coediciones/20150112055252/05.pdf).
+    - **Florestan Fernandes** — *La revolución burguesa en Brasil* (1975). Padre sociología brasilera. Sin él, Marini/Cardoso quedan sin base sociológica de clase. USP parcial.
+
+    Bonus relacionado: **James C. Scott** *Seeing Like a State* — también clave para Sociología (compartido con CC.PP.). Ver [canon-ampliado.md](../plan/canon-ampliado.md) para los demás 6 complementarios.
+
+---
+
 ## :material-flag-checkered: Salidas verificables
 
 1. Explicar la diferencia entre la mirada de Marx, Weber y Durkheim sobre la modernidad en 10 min.

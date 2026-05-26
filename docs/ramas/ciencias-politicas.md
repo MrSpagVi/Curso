@@ -137,6 +137,15 @@ Recomendado si te interesa leer prensa internacional con marco propio, discutir 
 
 **Opcional:** Raymond Aron — *Paix et guerre entre les nations* (selección) si querés la versión europea-conservadora.
 
+!!! tip ":material-medal: Tier 1 del [canon ampliado](../plan/canon-ampliado.md)"
+    Tres autores **críticos** para esta rama identificados al investigar syllabi de Harvard, Oxford, LSE, UBA, UTDT, UNAM, Colmex 2024-2026:
+
+    - **Guillermo O'Donnell** — *El Estado burocrático-autoritario* (1982). El politólogo argentino más citado mundialmente. Sin él, autoritarismo cono-sureño es ininteligible. Conceptos canónicos: democracia delegativa, BA, dependencia política. PDFs CLACSO / Memoria Académica UNLP.
+    - **Natalio Botana** — *El orden conservador* (1977). Régimen 1880-1916 — base de toda la historia política argentina posterior. [Scan completo Internet Archive](https://archive.org/details/elordenconservad0000bota).
+    - **James C. Scott** — *Seeing Like a State* (1998). Crítica anarquista al modernismo estatal — diálogo con Foucault y con Bueno. PDF libcom.org.
+
+    Ver los demás 7 complementarios para CC.PP. en [canon-ampliado.md](../plan/canon-ampliado.md).
+
 **Salida bloque 5:** analizás un conflicto internacional actual (Ucrania, Taiwán, Gaza, Sahel) desde las tres escuelas y sostenés cuál explica mejor qué.
 
 ---

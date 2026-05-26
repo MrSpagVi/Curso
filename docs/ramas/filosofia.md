@@ -102,6 +102,14 @@ Las que el plan integrado no tiene y la disciplina filosofía sí pide. Máximo 
 
 Para todas: existen ediciones gratuitas legales en español (Wikisource, ediciones académicas en repositorios universitarios). Verificá en su momento.
 
+!!! tip ":material-medal: Tier 1 del [canon ampliado](../plan/canon-ampliado.md)"
+    Dos autores **críticos** identificados al investigar syllabi de Harvard Phil, Oxford PPE/MPhil, LSE, UNAM, FLACSO 2024-2026 — el hueco más sangrante del corpus actual era la **filosofía política analítica post-Rawls**:
+
+    - **Will Kymlicka** — *Filosofía política contemporánea* (Oxford UP, 2002). Manual estándar que mapea TODO el debate post-Rawls (Nozick libertarianismo, Sandel comunitarismo, Young/Fraser multiculturalismo, Pettit republicanismo) en un solo libro. **Reemplaza 4-5 lecturas dispersas con una sola.** Asignado en literalmente todas las cátedras anglo de teoría política.
+    - **Bolívar Echeverría** — *Modernidad y blanquitud* (Era, 2010). Filosofía LATAM viva. Concepto "blanquitud" como identidad civilizatoria capitalista — racismo estructural sin biologicismo. Filósofo central UNAM/Colmex. [Seminario UNAM](https://www.seminariomodernidad.unam.mx/index.php/component/content/article/109-modernidad-y-blanquitud).
+
+    Ver 8 complementarios más (Skinner, Pettit, Cohen, Young, Williams, Scanlon, Parfit, Roig) en [canon-ampliado.md](../plan/canon-ampliado.md).
+
 ## Salidas verificables (4 hitos)
 
 1. **Mes 6:** explicás en 5 min la diferencia entre **ética eudaimonista, ética del deber y ética utilitarista** con un ejemplo de cada una.

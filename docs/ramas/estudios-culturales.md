@@ -118,6 +118,13 @@ Más allá del corpus tradicional, estos son los autores vivos que definen el ca
 
 ---
 
+!!! tip ":material-medal: Tier 1 del [canon ampliado](../plan/canon-ampliado.md)"
+    **Bolívar Echeverría** — *Modernidad y blanquitud* (Era, 2010) es Tier 1 también para Estudios Culturales (compartido con Filosofía). Concepto **"blanquitud"** como identidad civilizatoria del capitalismo — la mejor herramienta para pensar racismo cultural estructural sin caer en biologicismo ni en moralismo. Central en programas UNAM/Colmex/FLACSO Ecuador. [Seminario UNAM parcial](https://www.seminariomodernidad.unam.mx/index.php/component/content/article/109-modernidad-y-blanquitud).
+
+    Complementarios Tier 2 destacados: **Eliseo Verón** *La semiosis social* (semiólogo argentino fundacional), **Roberto Schwarz** *Las ideas fuera de lugar* (cómo se importan ideas a sociedades periféricas, [UNAM PDF](https://www.filosoficas.unam.mx/docs/880/files/Roberto%20Shwartz%20-%20Las%20Ideas%20Fuera%20De%20Lugar.pdf)), **Roger Bartra** *La jaula de la melancolía*, **Safiya Umoja Noble** *Algorithms of Oppression*. Ver [canon-ampliado.md](../plan/canon-ampliado.md).
+
+---
+
 ## :material-flag-checkered: Salidas verificables
 
 1. Explicar en 5 min sin notas: diferencia entre "cultura" en Williams, "industria cultural" en Adorno, "cultura objetiva" en Bueno.

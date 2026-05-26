@@ -15,6 +15,9 @@ Plan diseñado para **27-29 meses** (~70 autores entre fases y módulos transver
 !!! info "Ampliación opcional: Ciclo III (Mes 29-36)"
     Si terminas Fase 5 y querés profundizar en **política social** y **desarrollo cultural** + producir un texto propio publicable, existe el [Ciclo III](ciclo-iii.md) — 7 meses extra (total ~36 meses) con curso integrado + temas-bisagra + tesina corta. **Es opcional**: terminar Fase 5 ya es una salida honorable completa.
 
+!!! tip "Lectura histórica recomendada todo el plan"
+    **Tulio Halperin Donghi — *Historia contemporánea de América Latina*** (1969). Manual canónico usado en TODAS las cátedras serias de historia LATAM. Léelo en paralelo a las fases — un capítulo cada 1-2 meses. Sin un marco histórico común, los autores LATAM del plan (Mariátegui, Marini, Quijano, Dussel, Bueno) flotan. Ver también [canon ampliado](canon-ampliado.md) con los 10 autores Tier 1 críticos identificados al cruzar syllabi de Harvard, Oxford, LSE, UBA, UNAM, Colmex.
+
 ---
 
 ## Principios de diseño

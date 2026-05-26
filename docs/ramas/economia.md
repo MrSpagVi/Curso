@@ -162,6 +162,15 @@ Acá pasás de lector a productor. La cocina del nivel 3.
 
 ---
 
+!!! tip ":material-medal: Tier 1 del [canon ampliado](../plan/canon-ampliado.md)"
+    Un autor **crítico** para Economía identificado al investigar syllabi UBA Económicas, UTDT, FLACSO, UNAM 2024-2026:
+
+    - **Aldo Ferrer** — *La economía argentina* (1963, varias ediciones ampliadas). Historia económica argentina de largo plazo desde la colonia. **Complemento desarrollista** a Diamand (estructuralista) y Basualdo (heterodoxo). Sin Ferrer, los economistas argentinos que ya tenés son fragmentos sin panorama. [PDF biblioteca FCE](https://bibliotecafrancisco.files.wordpress.com/2016/06/aldo-ferrer-la-economc3ada-argentina-desde-sus-orc3adgenes-hasta-principios-del-siglo-xxi1.pdf).
+
+    Bonus: **Pablo Gerchunoff & Lucas Llach** *El ciclo de la ilusión y el desencanto* (1998/2018) — versión liberal-republicana de la historia económica argentina, contrapunto necesario a Basualdo. Ver [canon-ampliado.md](../plan/canon-ampliado.md) para 3 complementarios más (Ostrom, Sen *Collective Choice*, F. de Oliveira).
+
+---
+
 ## :material-flag-checkered: Salidas verificables (4 hitos)
 
 1. **Hito 1 (final bloque 2, ~mes 5):** explicar en audio de 15 min las diferencias entre teoría del valor de Smith, Marx y la teoría de la demanda efectiva de Keynes, con un ejemplo cotidiano de cada una.
