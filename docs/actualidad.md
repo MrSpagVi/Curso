@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-05-25 09:59 UTC_
+_Última actualización: 2026-05-26 09:47 UTC_
 
 ## Real Instituto Elcano
 
@@ -14,29 +14,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Por qué China apoya de manera limitada a su aliada Cuba en medio de las presiones de Estados Unidos](https://www.bbc.com/mundo/articles/cr7pjkkr1z0o?at_medium=RSS&at_campaign=rss)** · *2026-05-25*
-  - Pekín es un socio histórico de La Habana, pero en medio de una de las peores crisis de la isla caribeña y ante la escalada de tensión con Washington, el país asiático ha optado por la cautela.
-- **[Cómo es Bután, el remoto reino del Himalaya que ahora se abre al mundo](https://www.bbc.com/mundo/articles/cj9plrwkm73o?at_medium=RSS&at_campaign=rss)** · *2026-05-24*
-  - El espiritual Bután se abre a recibir más visitantes sin sucumbir al turismo de masas.
-- **[Por qué las ideas de un gran estratega de las Guerras Napoleónicas siguen vigentes para entender el actual conflicto en Irán](https://www.bbc.com/mundo/articles/cn5pl432676o?at_medium=RSS&at_campaign=rss)** · *2026-05-24*
-  - El estratega y filósofo de guerra prusiano Carl von Clausewitz ha influido en otros líderes militares desde el siglo XIX. ¿Cómo se refleja su teoría en la actual guerra en Irán?
-- **["Todos los que se han ido están aquí": por qué 1980 es un año clave para entender la crisis migratoria que conecta a Centroamérica y EE.UU.](https://www.bbc.com/mundo/articles/cq5p8wpv1n1o?at_medium=RSS&at_campaign=rss)** · *2026-05-24*
-  - Jonathan Blitzer es periodista de The New Yorker y autor del libro "Todos los que se han ido están aquí".
-- **[Por qué el divorcio en Japón separa a padres e hijos y cómo una reforma podría cambiarlo](https://www.bbc.com/mundo/articles/cgrpl424pvjo?at_medium=RSS&at_campaign=rss)** · *2026-05-25*
-  - El país asiático era el único del G7 que no contemplaba en su legislación la custodia compartida en caso de divorcio.
+- **[Por qué llegó a su fin el gasto de cientos de miles de millones de dólares de Arabia Saudita en ideas futuristas y extravagantes](https://www.bbc.com/mundo/articles/c78qqw3ze55o?at_medium=RSS&at_campaign=rss)** · *2026-05-25*
+  - El proyecto Visión 2030 de Mohammed bin Salman parecía sacado de la ciencia ficción. Ahora la realidad golpeó al reino.
+- **[EE.UU. ataca objetivos en el sur de Irán e Israel inicia una nueva campaña de bombardeos en Líbano](https://www.bbc.com/mundo/articles/c0e22q23yd1o?at_medium=RSS&at_campaign=rss)** · *2026-05-26*
+  - El ejército de Estados Unidos llevó a cabo ataques este lunes en el sur de Irán contra objetivos que incluían embarcaciones que intentaban colocar minas y emplazamientos de lanzamiento de misiles.
+- **[León XIV pide en su primera encíclica como papa "desarmar" a la inteligencia artificial y advierte de sus peligros](https://www.bbc.com/mundo/articles/czr22v6ddk6o?at_medium=RSS&at_campaign=rss)** · *2026-05-25*
+  - El pontífice compara los riesgos de la inteligencia artificial con las tragedias históricas de la esclavitud y alerta sobre nuevas formas de explotación digital.
+- **["La hipersexualización de los senos les causa ansiedad a muchas mujeres": lo que una socióloga descubrió al investigar sobre los pechos](https://www.bbc.com/mundo/articles/ce94ynrgym1o?at_medium=RSS&at_campaign=rss)** · *2026-05-25*
+  - Tras someterse a una mastectomía, la socióloga Sarah Thornton se adentró en una investigación sobre los senos que duró cuatro años y que la llevó a hablar con cientos de mujeres.
+- **[Por qué las mujeres viven más que los hombres](https://www.bbc.com/mundo/articles/cwy221qgkzqo?at_medium=RSS&at_campaign=rss)** · *2026-05-26*
+  - En todo el mundo, las mujeres viven en promedio cinco años más que los hombres. Los científicos creen que esto puede deberse a variaciones en nuestro comportamiento, así como a algunas diferencias que están incorporadas en nuestra biología.
 
 ## El País — Internacional
 
-- **[Estados Unidos ve al alcance de la mano un acuerdo con Irán para reabrir el estrecho de Ormuz](https://elpais.com/internacional/2026-05-24/ee-uu-ve-al-alcance-de-la-mano-un-acuerdo-con-iran-para-reabrir-el-estrecho-de-ormuz.html)** · *2026-05-24*
-  - Trump rebaja las expectativas sobre un anuncio inminente, pero su Administración cree que se producirá en los próximos días
-- **[Ucrania refuerza la frontera con Bielorrusia por el temor a una nueva ofensiva rusa sobre Kiev](https://elpais.com/internacional/2026-05-25/ucrania-refuerza-la-frontera-con-bielorrusia-por-el-temor-a-una-nueva-ofensiva-rusa-sobre-kiev.html)** · *2026-05-25*
-  - Zelenski advierte de que Putin quiere que Lukashenko entre en la guerra
-- **[Gibraltar, europeo y sin verja: “Se acaba una incertidumbre que era muy dañina”](https://elpais.com/internacional/2026-05-25/gibraltar-europeo-y-sin-verja-se-acaba-una-incertidumbre-que-era-muy-danina.html)** · *2026-05-25*
-  - La valla empezará a caer a mediados de julio y el acuerdo entre Londres y la UE cambia ya la geografía económica de la zona
+- **[Estados Unidos ataca objetivos iraníes “en legítima defensa” en plenas negociaciones de paz](https://elpais.com/internacional/2026-05-26/estados-unidos-ataca-objetivos-iranies-en-legitima-defensa-en-plenas-negociaciones-de-paz.html)** · *2026-05-26*
+  - Un alto cargo del Gobierno de Trump asegura que este incidente no pone en peligro el alto el fuego
+- **[Las conversaciones con Irán desatan una nueva guerra entre los republicanos: “Mike Pompeo debería cerrar su estúpida boca”](https://elpais.com/internacional/2026-05-25/las-conversaciones-con-iran-desatan-una-nueva-guerra-entre-los-republicanos-mike-pompeo-deberia-cerrar-su-estupida-boca.html)** · *2026-05-25*
+  - Trump carga contra sus compañeros de partido que ven el pacto como una capitulación y trata de aprovechar la coyuntura para que los países árabes se acerquen a Israel
+- **[La ultraderecha toma vuelo en Colombia](https://elpais.com/america-colombia/elecciones-presidenciales/2026-05-26/la-ultraderecha-toma-vuelo-en-colombia.html)** · *2026-05-26*
+  - Abelardo de la Espriella enarbola la bandera de la derecha radical en una sociedad descontenta con la política tradicional y los partidos moderados
+- **[Cómo derrotar a Putin](https://elpais.com/opinion/2026-05-26/como-derrotar-a-putin.html)** · *2026-05-26*
+  - La paciencia estratégica, la confianza en el sistema a largo plazo, ha sido siempre la mejor arma de las democracias liberales
 - **[Peor que una victoria pírrica](https://elpais.com/internacional/2026-05-24/peor-que-una-victoria-pirrica.html)** · *2026-05-24*
   - Solo una incierta y arriesgada invasión militar a gran escala de Irán permitiría a Trump salvar momentáneamente la cara, pero entonces perdería la economía, a continuación las elecciones y al final quizás la guerra
-- **[Trump, Xi y Putin: la estabilización del triunvirato imperialista](https://elpais.com/internacional/2026-05-24/trump-xi-y-putin-la-estabilizacion-del-triunvirato-imperialista.html)** · *2026-05-24*
-  - Las cumbres de China con EE UU y Rusia evidencian una dinámica de entendimiento. Esto reduce algunos riesgos, como los geoeconómicos, pero eleva el peligro para el orden basado en reglas y derechos humanos
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -44,16 +44,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Controversy-ridden NACC chief Paul Brereton quits two years short of his term’s end](https://theconversation.com/controversy-ridden-nacc-chief-paul-brereton-quits-two-years-short-of-his-terms-end-283680)** · *2026-05-25*
-  - The move comes amid an ongoing investigation into Brereton by the NACC Inspector, and a day before he’ll appear at Senate estimates.
-- **[View from The Hill: would a ‘party of independents’ be a contradiction in terms?](https://theconversation.com/view-from-the-hill-would-a-party-of-independents-be-a-contradiction-in-terms-283679)** · *2026-05-25*
-  - The flirtation by some “teals” with the idea of forming a new party is part of the major shakeup underway in our political system.
-- **[Neale Daniher was ferocious and inspirational, whether on the footy field or fighting ‘the Beast’](https://theconversation.com/neale-daniher-was-ferocious-and-inspirational-whether-on-the-footy-field-or-fighting-the-beast-248533)** · *2026-05-25*
-  - Neale Daniher has lost his brave fight against motor neurone disease, but his legacy will live on.
-- **[Nuclear powers are expanding their arsenals instead of disarming. Australia doesn’t have to be complicit in this](https://theconversation.com/nuclear-powers-are-expanding-their-arsenals-instead-of-disarming-australia-doesnt-have-to-be-complicit-in-this-283676)** · *2026-05-25*
-  - A recent conference to review the most comprehensive nuclear weapons treaty fell flat due to ‘aggressive diplomatic’ tactics.
-- **[Many biofuels haven’t panned out. Could algae make the clean diesel and aviation fuel Australia needs?](https://theconversation.com/many-biofuels-havent-panned-out-could-algae-make-the-clean-diesel-and-aviation-fuel-australia-needs-281872)** · *2026-05-25*
-  - Algae species can grow remarkably fast and produce oil able to be turned into diesel or aviation fuel.
+- **[Independent MPs are considering forming a party. The money helps explain why](https://theconversation.com/independent-mps-are-considering-forming-a-party-the-money-helps-explain-why-283777)** · *2026-05-26*
+  - The party may never happen - but independents do face genuine financial barriers.
+- **[Why are retail power prices finally falling?](https://theconversation.com/why-are-retail-power-prices-finally-falling-283760)** · *2026-05-26*
+  - Retail power prices are set to fall, as renewables pile in – even though transmission costs are rising.
+- **[How to encourage a friend to get therapy (without blowing up your friendship)](https://theconversation.com/how-to-encourage-a-friend-to-get-therapy-without-blowing-up-your-friendship-281851)** · *2026-05-26*
+  - You want to be a good friend. A psychologist explains when it’s time to suggest therapy and what to say to make a difference.
+- **[From purling to puzzles, these hobbies could reduce your dementia risk](https://theconversation.com/from-purling-to-puzzles-these-hobbies-could-reduce-your-dementia-risk-283140)** · *2026-05-26*
+  - Do you knit or solve puzzles for fun? Research suggests hobbies such as these could help keep your brain healthy, particularly in older age.
+- **[An AI solution to an 80-year-old problem has shocked mathematicians](https://theconversation.com/an-ai-solution-to-an-80-year-old-problem-has-shocked-mathematicians-283686)** · *2026-05-26*
+  - Hungarian mathematician Paul Erdős’ ‘planar unit distance conjecture’ has stood since 1946 – but an AI disproof has made mathematicians pay attention.
 
 ## Nueva Sociedad
 
