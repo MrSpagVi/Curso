@@ -1124,3 +1124,61 @@ body, .md-typeset {
     flex-direction: column;
   }
 }
+
+
+/* ============================================================
+   UX-V5 — Barra de progreso del curso
+   ============================================================ */
+
+.curso-progress-box {
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-border);
+  border-left: 3px solid var(--g-success, #6b8e6b);
+  border-radius: 4px;
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.curso-progress-box .g-label {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--g-success, #6b8e6b);
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+.curso-progress-text {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+  color: var(--md-default-fg-color);
+}
+
+.curso-progress-text strong {
+  color: var(--g-success, #6b8e6b);
+}
+
+.curso-progress-box .g-progress {
+  height: 8px;
+  background: var(--md-default-bg-color--light, #eee);
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 0.4rem 0;
+}
+
+.curso-progress-box .g-progress-bar {
+  height: 100%;
+  background: var(--g-success, #6b8e6b);
+  transition: width 0.3s ease;
+}
+
+.curso-progress-note {
+  font-family: "Inter", sans-serif;
+  font-size: 0.75rem;
+  color: var(--g-label);
+  font-style: italic;
+  margin-top: 0.4rem;
+}

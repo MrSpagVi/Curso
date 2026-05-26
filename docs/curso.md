@@ -6,6 +6,15 @@ title: El curso — etapas en orden
 
 > Tu syllabus completo. Hacés las etapas en orden. Cada etapa lleva entre 1 día y 1 semana — sin calendario rígido. Marcá los checkboxes para no perderte. Si abandonás 3 días, **no atrases el calendario** — seguí desde donde quedaste.
 
+<div class="curso-progress-box" id="curso-progress" style="display:none;">
+  <span class="g-label">Tu progreso</span>
+  <div class="curso-progress-text">
+    <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas completadas (<span id="curso-pct">0%</span>)
+  </div>
+  <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
+  <div class="curso-progress-note">Los checkboxes se guardan automáticamente en tu navegador (localStorage). Si cambiás de máquina perdés el progreso.</div>
+</div>
+
 !!! tip "Cómo se usa"
     - Empezás por la **Etapa 1**. Avanzás secuencial.
     - Cada etapa tiene tareas concretas (☐) y un link al material.

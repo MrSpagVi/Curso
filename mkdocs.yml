@@ -43,6 +43,7 @@ plugins:
   - tags
 
 markdown_extensions:
+  - abbr
   - admonition
   - attr_list
   - def_list
@@ -60,7 +61,11 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+      base_path:
+        - docs
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid

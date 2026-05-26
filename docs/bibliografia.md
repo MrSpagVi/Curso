@@ -4,12 +4,65 @@ title: Bibliografía
 
 # Bibliografía completa
 
-Lista de todos los libros del plan. **Veredicto** indica si se lee **completo**, en **selección** de capítulos, o como **referencia** (consulta puntual). Verificado contra syllabi de Yale (PLSC 114), Harvard (Gov 1061), Oxford PPE, MIT OCW, UNAM y UBA.
+> **Lista plana de todos los autores del plan.** Sirve como índice de consulta si ya conocés autores y querés saber dónde aparecen — o si querés ver el corpus completo sin la estructura pedagógica del [plan](plan/maestro.md).
 
-!!! tip "Cómo usar esta tabla"
+!!! tip "Cómo usar esta página"
+    - **¿Buscás un autor específico?** Ctrl+F (Cmd+F en Mac) sobre el índice alfabético abajo, o sobre las tablas por fase.
+    - **¿Querés ver el corpus completo?** Bajá a las tablas por fase — están en el orden de lectura sugerido.
+    - **¿Querés saber cómo leer cada uno?** Cada fila linkea al autor con: páginas, tiempo, link gratis (✅), o préstamo (📚).
     - **Estado:** ✅ = PDF/HTML legal y gratis · 💰 = Compra · 📚 = Préstamo en biblioteca · 🌐 = Versión inglesa abierta solamente.
-    - **Tiempo** es estimación a ritmo de **5-8 pp/h** (filosofía densa) o **15-20 pp/h** (texto fluido).
+    - **Tiempo:** estimación a ritmo de **5-8 pp/h** (filosofía densa) o **15-20 pp/h** (texto fluido).
     - **Total del plan completo:** ~750-1000 horas de lectura. A 3-5 h/semana = 27-29 meses.
+
+---
+
+## :material-format-list-bulleted-type: Índice alfabético
+
+<div style="column-count: 3; column-gap: 1.5rem; font-size: 0.85rem; line-height: 1.7;">
+
+**A** — Adler · Adorno & Horkheimer · Arendt · Aristóteles · Armesilla
+
+**B** — Berlin · Bolívar · Bourdieu · Bueno · Burke
+
+**C** — Cardoso & Faletto · Chang · Crenshaw · Cusicanqui · CrashCourse
+
+**D** — Davis · Dussel
+
+**E** — Echeverría (Bolívar)
+
+**F** — Fanon · Federici · Foucault · Fraser
+
+**G** — Gago · García Canclini · Germani · González Casanova · Gramsci · Gutiérrez
+
+**H** — Habermas · Hayek · Hill Collins · Hobbes · hooks · Honneth · Halperin Donghi
+
+**K** — Kahneman · Kymlicka
+
+**L** — Laclau & Mouffe · Lenin · Locke · Lugones
+
+**M** — Maquiavelo · Marcuse · Mariátegui · Marini · Martí · Mbembe · Mearsheimer · Mill · Mohanty
+
+**N** — Nozick
+
+**O** — O'Donnell
+
+**P** — Patricia Hill Collins · Platón · Pocock · Popper
+
+**Q** — Quijano
+
+**R** — Rawls · Russell · Rodney · Rousseau
+
+**S** — Scott (James C.) · Schmitt · Schopenhauer · Said · Segato · Sen · Smith
+
+**T** — Taylor (Charles) · Tocqueville
+
+**W** — Weber
+
+**Z** — Žižek
+
+</div>
+
+> **Nota honesta:** este índice cubre los ~70 autores **principales** del plan (Fase 0-5 + Bloque XX-Tardío). Los autores del **Ciclo III opcional** (M5 Política Social, M6 Cultura) y del **canon ampliado** (universidades top) viven en sus páginas dedicadas. Si no encontrás un autor acá, probá [Canon ampliado](plan/canon-ampliado.md), [M5](plan/m5-politica-social.md), [M6](plan/m6-cultura.md), o [Lecturas complementarias](plan/lecturas-complementarias.md).
 
 ---
 

@@ -496,6 +496,33 @@
     });
   }
 
+  // ---------- Curso progress meter ----------
+
+  function setupCursoProgress() {
+    const box = document.getElementById('curso-progress');
+    if (!box) return;
+    const items = document.querySelectorAll('.md-typeset .task-list-item input[type="checkbox"]');
+    if (items.length === 0) return;
+    const total = items.length;
+    const elCompleted = document.getElementById('curso-completed');
+    const elTotal = document.getElementById('curso-total');
+    const elPct = document.getElementById('curso-pct');
+    const elBar = document.getElementById('curso-bar');
+    if (elTotal) elTotal.textContent = total;
+    box.style.display = '';
+
+    function update() {
+      const checked = document.querySelectorAll('.md-typeset .task-list-item input[type="checkbox"]:checked').length;
+      const pct = total > 0 ? Math.round((checked / total) * 100) : 0;
+      if (elCompleted) elCompleted.textContent = checked;
+      if (elPct) elPct.textContent = pct + '%';
+      if (elBar) elBar.style.width = pct + '%';
+    }
+    items.forEach(cb => cb.addEventListener('change', update));
+    // Run once on boot in case localStorage already restored some checks
+    setTimeout(update, 50);
+  }
+
   // ---------- Boot ----------
 
   function boot() {
@@ -507,6 +534,7 @@
     setupFalacias();
     setupTemplateCards();
     persistTaskLists();
+    setupCursoProgress();
   }
 
   if (typeof document$ !== 'undefined') {
