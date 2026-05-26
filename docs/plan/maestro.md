@@ -407,7 +407,7 @@ Esto NO es teoría sino diagnóstico del presente. Lee 2-3 informes al año, sin
 Para no convertir esto en un canon más, hay dos manuales operativos en archivos aparte:
 
 - [falacias.md](falacias.md) — manual de detección de falacias con taxonomía, ejemplos políticos reales y protocolo diario de práctica.
-- [ejecutar.md](ejecutar.md) — playbook de ejecución (cadencia diaria/semanal/mensual) + sistema de autoevaluación de 6 niveles basado en la taxonomía de Bloom.
+- [Método (cómo estudiar)](../metodo.md) — playbook de ejecución (cadencia diaria/semanal/mensual) + sistema de autoevaluación de 6 niveles basado en la taxonomía de Bloom.
 
 ---
 

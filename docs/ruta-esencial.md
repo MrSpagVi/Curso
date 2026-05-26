@@ -22,7 +22,7 @@ Adler lo dice en el libro 1 de la ruta: **la mayoría de los lectores leen demas
 Profundidad sobre amplitud. Releer sobre acumular. Doce que conversen entre sí sobre cien sueltos.
 
 !!! tip "Cómo se enchufa con el método"
-    Esta ruta usa el mismo método que el sitio: leer → ficha permanente → IA solo después de leer. Si no viste [Cómo se aprende acá](como-se-aprende.md), dedicale media hora antes del libro 1. Sin eso, los 12 libros rinden la mitad.
+    Esta ruta usa el mismo método que el sitio: leer → ficha permanente → IA solo después de leer. Si no viste [Método — cómo estudiar acá](metodo.md), dedicale media hora antes del libro 1. Sin eso, los 12 libros rinden la mitad.
 
 ## El camino — 12 libros en 6 meses
 

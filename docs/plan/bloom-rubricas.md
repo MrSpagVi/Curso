@@ -83,4 +83,4 @@ Si en mes 18 todavía estás en N2 con todos los libros, **el problema NO es lee
 
 ---
 
-[:material-arrow-left: Volver al Plan](index.md){ .md-button }
+[:material-arrow-left: Volver al Inicio](../index.md){ .md-button }

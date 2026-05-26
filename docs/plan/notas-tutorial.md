@@ -460,4 +460,4 @@ Test final: a los 30 días, ¿tu sistema te permite formular una pregunta filos�
 
 [:material-arrow-left: Volver al Sistema de notas](notas.md){ .md-button }
 [:material-school: Plantillas concretas](../plantillas/index.md){ .md-button }
-[:material-home: Volver al Plan](index.md){ .md-button .md-button--primary }
+[:material-home: Volver al Inicio](../index.md){ .md-button .md-button--primary }

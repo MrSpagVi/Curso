@@ -176,5 +176,5 @@ title: M4 Historia — autores en profundidad
 
 ---
 
-[:material-arrow-left: Volver al Plan](index.md){ .md-button }
+[:material-arrow-left: Volver al Inicio](../index.md){ .md-button }
 [:material-history: Módulo Historia M4 (visión general)](historia.md){ .md-button }

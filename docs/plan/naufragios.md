@@ -155,4 +155,4 @@ Si te encuentras atascado y no es uno de los 7 puntos arriba:
 
 ---
 
-[:material-arrow-left: Volver al Plan](index.md){ .md-button }
+[:material-arrow-left: Volver al Inicio](../index.md){ .md-button }

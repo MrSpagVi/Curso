@@ -16,7 +16,7 @@ hide:
 <p class="hero-secondary-row">
   <a href="#mi-panel" class="hero-secondary-link">¿Ya estás cursando? → Mi panel ↓</a> ·
   <a href="mapa/" class="hero-secondary-link">Ver el mapa completo antes</a> ·
-  <a href="como-se-aprende/" class="hero-secondary-link">Entender el método</a>
+  <a href="metodo/" class="hero-secondary-link">Entender el método</a>
 </p>
 
 ---
@@ -118,9 +118,9 @@ Cuando termines el tronco y elijas en el [checkpoint del mes 4](checkpoint-mes-4
   <section class="g-card">
     <span class="g-label">El método</span>
     <ul class="g-links">
-      <li><a href="como-se-aprende/">Cómo se aprende acá</a><span class="g-link-desc">Ciclo semanal + 5 prompts IA</span></li>
+      <li><a href="metodo/">Método — cómo estudiar acá</a><span class="g-link-desc">Ciclo semanal + 5 prompts IA + cadencias</span></li>
       <li><a href="plan/notas/">Sistema de notas</a><span class="g-link-desc">Zettelkasten papel/Notion/híbrido</span></li>
-      <li><a href="plan/ejecutar/">Cómo ejecutar</a><span class="g-link-desc">Cadencia + Bloom</span></li>
+      <li><a href="plan/falacias/">Manual de falacias</a><span class="g-link-desc">Detectar, registrar</span></li>
     </ul>
   </section>
   <section class="g-card">

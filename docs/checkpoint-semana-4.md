@@ -76,7 +76,7 @@ NO te fuerces. Tres posibilidades reales:
 
 1. **El plan no era para vos en este momento de tu vida** — tiempo, energía, prioridades. Está bien dejarlo y volver en 6 meses.
 2. **El método no es para vos** — quizás necesitás un curso con clases sincrónicas, grupo, cohorte. Este sitio es autoestudio puro y eso no le funciona a todo el mundo. Probá [Coursera / edX](https://www.coursera.org) con un curso de cohorte.
-3. **Faltó algo del setup que no resolvimos** — releé [Sistema de notas](plan/notas.md) y [Cómo se aprende acá](como-se-aprende.md). Si después seguís en rojo, no insistas: probá otra cosa.
+3. **Faltó algo del setup que no resolvimos** — releé [Sistema de notas](plan/notas.md) y [Método](metodo.md). Si después seguís en rojo, no insistas: probá otra cosa.
 
 **El éxito del plan se mide en años, no en meses.** Si no es tu momento, dejalo. Cierra honesta, mejor que martirio.
 

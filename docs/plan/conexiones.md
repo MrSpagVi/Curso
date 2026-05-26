@@ -185,4 +185,4 @@ Si al final de Fase 5 puedes plantear estos cruces, has entendido qué es leer f
 
 ---
 
-[:material-arrow-left: Volver al Plan](index.md){ .md-button }
+[:material-arrow-left: Volver al Inicio](../index.md){ .md-button }

@@ -89,16 +89,19 @@ nav:
       - "Tour de 5 pasos": empieza-aqui.md
       - "✅ Checkpoint semana 4 (Hito 1)": checkpoint-semana-4.md
       - "🎯 Checkpoint mes 4 — elegí ruta (Hito 2)": checkpoint-mes-4.md
-      - "Diagnóstico de entrada (12 preguntas)": empieza-aqui/diagnostico.md
-      - "FAQ y hábito": empieza-aqui/faq.md
-      - "Recursos gratuitos": empieza-aqui/recursos.md
-  - "Cómo se aprende acá": como-se-aprende.md
-  - Caminos (post mes 4):
+      - "FAQ + diagnóstico + recursos": empieza-aqui/faq.md
+  - Método:
+      - "Método — cómo estudiar acá": metodo.md
+      - "Sistema de notas": plan/notas.md
+      - "Tutorial — tomar notas (30 días)": plan/notas-tutorial.md
+      - "Manual de falacias": plan/falacias.md
+      - "Rúbricas Bloom": plan/bloom-rubricas.md
+      - "Puntos de naufragio": plan/naufragios.md
+  - Caminos:
       - "Camino B · Ruta esencial (12 libros)": ruta-esencial.md
       - "Camino A · Plan integrado (overview)": plan/maestro.md
       - "Camino C · Portal de las 7 ramas": ramas/index.md
       - "Mapa visual del corpus": mapa.md
-      - "── Ramas individuales ──": ramas/index.md
       - "📚 Filosofía": ramas/filosofia.md
       - "🏛 Ciencias Políticas": ramas/ciencias-politicas.md
       - "💰 Economía Política": ramas/economia.md
@@ -107,45 +110,35 @@ nav:
       - "👥 Sociología": ramas/sociologia.md
       - "🌐 Relaciones Internacionales": ramas/relaciones-internacionales.md
   - Referencia:
-      - "Plan maestro": plan/maestro.md
-      - "Visión general": plan/index.md
       - "Fase 0 — Cimientos": plan/fase-0.md
       - "Fase 1 — Filosofía clásica": plan/fase-1.md
       - "Fase 2 — Economía política": plan/fase-2.md
       - "Fase 3 — Sociopolítica s. XX": plan/fase-3.md
       - "Fase 4 — Iberoamericana": plan/fase-4.md
       - "Fase 5 — Síntesis": plan/fase-5.md
-      - "Ciclo III (opcional)": plan/ciclo-iii.md
-      - "M5 Política Social": plan/m5-politica-social.md
-      - "M6 Desarrollo Cultural": plan/m6-cultura.md
       - "Temas-bisagra": plan/temas-bisagra.md
-      - "Lecturas complementarias": plan/lecturas-complementarias.md
       - "Canon ampliado (universidades top)": plan/canon-ampliado.md
-      - "Salidas honorables": plan/salidas-honorables.md
-  - Método de estudio:
-      - "Cómo ejecutar": plan/ejecutar.md
-      - "Sistema de notas": plan/notas.md
-      - "Tutorial — aprender a tomar notas": plan/notas-tutorial.md
-      - "Manual de falacias": plan/falacias.md
-      - "Rúbricas Bloom": plan/bloom-rubricas.md
-      - "Puntos de naufragio": plan/naufragios.md
+      - "Lecturas complementarias": plan/lecturas-complementarias.md
+      - "Módulo Historia (M4)": plan/historia.md
+      - "M4 Historia — autores": plan/historia-autores.md
+      - "M3 Pluriverso — autores": plan/pluriverso-autores.md
+      - "Bibliografía completa": bibliografia.md
+      - "Actualidad (titulares)": actualidad.md
       - "Mapa de conexiones": plan/conexiones.md
+  - "Ciclo III (opcional)":
+      - "Ciclo III — Overview": plan/ciclo-iii.md
+      - "M5 — Política Social": plan/m5-politica-social.md
+      - "M6 — Desarrollo Cultural": plan/m6-cultura.md
   - Mi práctica:
       - "Progreso (seguimiento)": seguimiento.md
       - "Mis lecturas": lecturas/index.md
       - "Plantilla de lectura": lecturas/plantilla.md
       - "Mis ensayos": ensayos/index.md
       - "Oratoria — log": oratoria/log.md
-      - "Plantillas (índice)": plantillas/index.md
+      - "Plantillas": plantillas/index.md
       - "Plantilla — falacia": plantillas/plantilla-falacia.md
       - "Plantilla — ensayo": plantillas/plantilla-ensayo.md
       - "Plantilla — nota permanente": plantillas/plantilla-nota-permanente.md
       - "Plantilla — cuaderno papel": plantillas/plantilla-cuaderno-papel.md
       - "Plantilla — Zettelkasten papel": plantillas/plantilla-zettelkasten-papel.md
       - "Plantilla — setup Notion": plantillas/plantilla-notion-setup.md
-  - Recursos:
-      - "Bibliografía completa": bibliografia.md
-      - "Actualidad (titulares)": actualidad.md
-      - "Módulo Historia (M4)": plan/historia.md
-      - "M3 Pluriverso — autores": plan/pluriverso-autores.md
-      - "M4 Historia — autores": plan/historia-autores.md

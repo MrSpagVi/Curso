@@ -112,7 +112,7 @@ Al leer Aristóteles, Kant, Mill, Maquiavelo en sus fases respectivas, complemen
 
 ## Autoevaluación trimestral (escala Bloom)
 
-Tras cada libro completado, anota en su ficha de [lecturas/](lecturas/index.md) un nivel Bloom 1-6 (ver [plan/ejecutar.md](plan/ejecutar.md)). Cada trimestre, revisa la distribución:
+Tras cada libro completado, anota en su ficha de [lecturas/](lecturas/index.md) un nivel Bloom 1-6 (ver [Método](metodo.md) y [Rúbricas Bloom](plan/bloom-rubricas.md)). Cada trimestre, revisa la distribución:
 
 - [ ] Trimestre 1 — distribución Bloom: …
 - [ ] Trimestre 2 — distribución Bloom: …

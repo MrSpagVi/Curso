@@ -49,12 +49,11 @@ Cuando terminés esa rama, podés:
 
 Sin importar qué rama elijas, esto corre en paralelo desde día 1:
 
-- **[Cómo se aprende acá](../como-se-aprende.md)** — ciclo semanal + 5 prompts de IA + reglas de uso. Léelo antes de empezar cualquier rama.
+- **[Método — cómo estudiar acá](../metodo.md)** — ciclo semanal + 5 prompts de IA + cadencia diaria/semanal/trimestral. Léelo antes de empezar cualquier rama.
 - **[Setup del sistema de notas](../plan/notas.md)** — 1 mes antes. Sin esto, en 12 meses recordás el 10% de lo leído.
 - **M1 — Oratoria** — 30-45 min/sem.
 - **[Manual de falacias](../plan/falacias.md)** — captura diaria.
-- **[Cómo ejecutar](../plan/ejecutar.md)** — cadencia + autoevaluación Bloom 1-6.
-- **[Salidas honorables](../plan/salidas-honorables.md)** — qué ganaste si no terminás cada rama.
+- **[Salidas honorables (en checkpoint mes 4)](../checkpoint-mes-4.md#salidas-honorables-por-fase)** — qué ganaste si no terminás cada rama.
 
 ---
 

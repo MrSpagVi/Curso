@@ -36,7 +36,7 @@ Tres reglas que separan este sitio de un MOOC:
 2. **Una nota permanente por semana** — no resúmenes copiados, una idea tuya conectada a otras notas.
 3. **Constancia > intensidad.** 4 h/sem × 24 meses te lleva más lejos que 12 h en un fin de semana × 2 meses.
 
-Detalle del método (5 prompts canónicos de IA, ciclo semanal, anti-patrones): **[Cómo se aprende acá (5 min)](como-se-aprende.md)**.
+Detalle del método (5 prompts canónicos de IA, ciclo semanal, anti-patrones): **[Método — cómo estudiar acá (5 min)](metodo.md)**.
 
 <div class="step-footer">
 <span>Al terminar: sabés el método.</span>
@@ -139,6 +139,4 @@ Para entonces vas a tener Fase 0 cerrada + 2 libros leídos. Vas a poder elegir 
 
 ## Más allá del tour
 
-- **[Diagnóstico de entrada (12 preguntas)](empieza-aqui/diagnostico.md)** — auto-ubicación si ya leíste algo de filosofía/política.
-- **[FAQ y construir el hábito](empieza-aqui/faq.md)** — qué hacer si perdés una semana, si no entendés.
-- **[Recursos gratuitos imprescindibles](empieza-aqui/recursos.md)** — cursos universitarios abiertos, bibliotecas digitales.
+- **[FAQ + diagnóstico + recursos](empieza-aqui/faq.md)** — auto-ubicación con 12 preguntas, FAQ de hábito, recursos gratuitos (cursos universitarios, bibliotecas digitales).

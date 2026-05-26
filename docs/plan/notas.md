@@ -424,7 +424,7 @@ Pasarse 3 semanas eligiendo el cuaderno perfecto o el plugin perfecto antes de l
 | **[Plantilla fichas Zettelkasten papel](../plantillas/plantilla-zettelkasten-papel.md)** | Anatomía de una ficha + sistema de numeración Luhmann. |
 | **[Plantilla setup Notion](../plantillas/plantilla-notion-setup.md)** | Configuración paso a paso de las 4 databases en Notion. |
 | **[Plantilla nota permanente Markdown](../plantillas/plantilla-nota-permanente.md)** | Para Obsidian o cualquier editor markdown. |
-| **[Ritual diario](ejecutar.md)** | La sesión semanal de destilación es donde papel/digital cobran sentido. |
+| **[Ritual diario](../metodo.md)** | La sesión semanal de destilación es donde papel/digital cobran sentido. |
 | **[Rúbricas Bloom](bloom-rubricas.md)** | Una permanent note bien hecha está en Bloom N3-N4. Mide la calidad de tus notas. |
 | **[Mapa de conexiones](conexiones.md)** | Las structure notes son la versión personal de este mapa. |
 
@@ -470,7 +470,7 @@ Pasarse 3 semanas eligiendo el cuaderno perfecto o el plugin perfecto antes de l
 
 ---
 
-[:material-arrow-left: Volver al Plan](index.md){ .md-button }
+[:material-arrow-left: Volver al Inicio](../index.md){ .md-button }
 [:material-notebook: Plantilla cuaderno papel](../plantillas/plantilla-cuaderno-papel.md){ .md-button }
 [:material-card-text: Plantilla fichas papel](../plantillas/plantilla-zettelkasten-papel.md){ .md-button }
 [:material-monitor: Plantilla setup Notion](../plantillas/plantilla-notion-setup.md){ .md-button .md-button--primary }

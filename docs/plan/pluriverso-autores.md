@@ -241,4 +241,4 @@ title: M3 Pluriverso — autores en profundidad
 
 ---
 
-[:material-arrow-left: Volver al Plan](index.md){ .md-button }
+[:material-arrow-left: Volver al Inicio](../index.md){ .md-button }

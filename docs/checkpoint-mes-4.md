@@ -91,5 +91,37 @@ No es una elección de por vida. Las rutas comparten ~80% de los libros base. Ca
 
 ---
 
+## :material-trophy: Salidas honorables por fase
+
+Si en algún momento del camino la vida interfiere y abandonás, **esto es lo que ya tenés**. Saber dónde estás — incluso si te detuviste — es la diferencia entre haber leído libros y haberse formado.
+
+### :material-check-decagram: Salida tras Fase 0 (Mes 2)
+**Invertido:** ~25 h. **Sabés hacer:** identificar las 4 familias de falacias en TV en tiempo real · lectura analítica de texto denso · detectar al menos 5 falacias por nombre técnico · diferenciar argumento sólido de estratagema dialéctica.
+**Estás por encima del 70% de la población general en pensamiento crítico básico.** No es completar el plan, pero no es nada.
+
+### :material-check-decagram: Salida tras Fase 1 (Mes 8)
+**Invertido:** ~85 h. **Sabés hacer:** explicar las 3 teorías del contrato social (Hobbes/Locke/Rousseau) sin caricaturas · vocabulario fundacional (estado naturaleza, soberanía, voluntad general, libertad negativa) · aplicar principio del daño de Mill a debate actual · reconocer tradición intelectual de un columnista solo por vocabulario.
+**Cerca del nivel de estudiante de segundo año en Filosofía política.** Mejor lector que la mayoría de opinadores con micrófono público.
+
+### :material-check-decagram: Salida tras Fase 2 (Mes 12)
+**Invertido:** ~140 h. **Sabés hacer:** distinguir valor de precio, explicar plusvalía · identificar 4 escuelas económicas + austríaca · detectar sesgo de escuela en columna de economía · aplicar teoría de la dependencia para analizar tu país · articular Marx vs Mariátegui.
+**Diagnosticás el debate político-económico contemporáneo mejor que el 95% de los consumidores de noticias.** Corte más honorable si descubrís que no querés 16 meses más.
+
+### :material-check-decagram: Salida tras Fase 3 (Mes 17)
+**Invertido:** ~210 h. **Sabés hacer:** resumir marxismo/liberalismo/conservadurismo s.XX sin caricaturas · explicar biopolítica (Foucault), hegemonía (Gramsci), totalitarismo (Arendt), interseccionalidad (Crenshaw) con casos · libertad positiva vs negativa de Berlin · Rawls + crítica comunitarista de Sandel · sostener debate 30 min defendiendo cualquier corriente.
+**A la altura de estudiante avanzado de licenciatura.** Podés leer Foucault y Habermas sin manual auxiliar.
+
+### :material-check-decagram: Salida tras Fase 4 (Mes 22)
+**Invertido:** ~285 h. **Sabés hacer:** distinguir materialismo filosófico (Bueno) de materialismo histórico (Marx) · Bueno vs Dussel sobre la Conquista · Rivera Cusicanqui con "ch'ixi" · las 5 emancipaciones latinoamericanas de los 70 · conversación 30 min con intelectual latinoamericano sin pasar por extranjero.
+**Integraste una tradición intelectual ENTERA que la academia anglosajona ignora.** Pocos en Europa o EE.UU. tienen este horizonte.
+
+### :material-trophy: Plan completo (Mes 28)
+**Invertido:** ~360 h. **Producido:** ensayo propio 1500-2000 pal con tesis defendible · grabación 10 min argumentando con coherencia · 53 fichas de lectura · cuaderno de falacias con cientos de capturas · cuaderno de notas con conexiones propias.
+**Lector autónomo + interlocutor real para profesionales + voz política con criterio propio.** No sos doctor en Filosofía Política, pero sabés de filosofía política. Era el objetivo del plan desde el día 1.
+
+> "El verdadero peligro no es que los autodidactas no terminen el plan. Es que terminen sin saber qué hicieron."
+
+---
+
 [:material-arrow-left: Volver al panel](index.md#mi-panel){ .md-button }
 [:material-school: Ver plan integrado](plan/maestro.md){ .md-button }
