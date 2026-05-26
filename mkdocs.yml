@@ -94,7 +94,11 @@ nav:
       - "Método — cómo estudiar acá": metodo.md
       - "Sistema de notas": plan/notas.md
       - "Tutorial — tomar notas (30 días)": plan/notas-tutorial.md
-      - "Manual de falacias": plan/falacias.md
+      - Falacias:
+          - "Empezar acá (5 min)": plan/falacias.md
+          - "Las 5 más frecuentes (30 min)": plan/falacias/top-5.md
+          - "Manual completo (referencia)": plan/falacias/manual.md
+          - "Práctica + auto-test": plan/falacias/practica.md
       - "Rúbricas Bloom": plan/bloom-rubricas.md
       - "Puntos de naufragio": plan/naufragios.md
   - Caminos:
