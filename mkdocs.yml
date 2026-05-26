@@ -85,8 +85,9 @@ extra_javascript:
 
 nav:
   - Inicio: index.md
+  - "▶ EL CURSO (etapas en orden)": curso.md
   - Empezar acá:
-      - "Tour de 5 pasos": empieza-aqui.md
+      - "Tour de 5 pasos (por qué este método)": empieza-aqui.md
       - "✅ Checkpoint semana 4 (Hito 1)": checkpoint-semana-4.md
       - "🎯 Checkpoint mes 4 — elegí ruta (Hito 2)": checkpoint-mes-4.md
       - "FAQ + diagnóstico + recursos": empieza-aqui/faq.md

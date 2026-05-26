@@ -8,15 +8,15 @@ hide:
 # Itinerarios — pensamiento político, social y económico
 
 <div class="hero-primary hero-single">
-  <p class="hero-statement">Autoestudio adulto. ~70 autores. 27 meses. Método propio (lectura + notas + IA con guardrails).</p>
-  <a href="empieza-aqui/" class="g-btn g-btn-primary hero-cta-link hero-cta-xl">▶ Empezar — Tour de 15 min →</a>
-  <p class="hero-promise">Las primeras 4 semanas son iguales para todos. La primera decisión grande llega al mes 4.</p>
+  <p class="hero-statement">Autoestudio adulto. ~70 autores. Syllabus de etapas en orden. Método propio (lectura + notas + IA con guardrails).</p>
+  <a href="curso/" class="g-btn g-btn-primary hero-cta-link hero-cta-xl">▶ EMPEZAR EL CURSO →</a>
+  <p class="hero-promise">Las primeras 11 etapas son iguales para todos. En la Etapa 11 elegís entre 3 caminos.</p>
 </div>
 
 <p class="hero-secondary-row">
   <a href="#mi-panel" class="hero-secondary-link">¿Ya estás cursando? → Mi panel ↓</a> ·
-  <a href="mapa/" class="hero-secondary-link">Ver el mapa completo antes</a> ·
-  <a href="metodo/" class="hero-secondary-link">Entender el método</a>
+  <a href="empieza-aqui/" class="hero-secondary-link">¿Por qué este método? (tour 15 min)</a> ·
+  <a href="mapa/" class="hero-secondary-link">Mapa del corpus</a>
 </p>
 
 ---
@@ -24,9 +24,9 @@ hide:
 ## Tu panel { #mi-panel }
 
 <div class="panel-badge panel-badge-tronco">
-  <span class="badge-label">TRONCO COMÚN</span>
-  <span class="badge-text">Semana 1 de 4 · setup del sistema de notas</span>
-  <span class="badge-next">→ próximo hito: <a href="checkpoint-semana-4/">Checkpoint semana 4</a></span>
+  <span class="badge-label">TRONCO COMÚN · ETAPA 1 DE 11</span>
+  <span class="badge-text">Setup del sistema de notas</span>
+  <span class="badge-next">▶ <a href="curso/#etapa-1-setup-del-sistema-de-notas"><strong>Continuar — Etapa 1</strong></a></span>
 </div>
 
 <div class="glance-grid">
@@ -87,9 +87,9 @@ hide:
 
 ---
 
-## Después del tronco común (mes 4 en adelante)
+## Después del tronco común (a partir de la Etapa 12)
 
-Cuando termines el tronco y elijas en el [checkpoint del mes 4](checkpoint-mes-4.md), tenés 3 caminos:
+Cuando termines las 11 etapas del tronco común y hagas el [checkpoint del mes 4](checkpoint-mes-4.md), elegís entre 3 caminos. **Estos son los caminos** — la secuencia paso a paso está en el [syllabus del curso](curso.md):
 
 <div class="glance-2col">
   <section class="g-card">
