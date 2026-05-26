@@ -35,9 +35,9 @@ Entendido "nota permanente" según [el sistema](plan/notas.md): una idea propia 
 
 ### 4. ¿Capturé al menos 5 falacias en el log durante el mes?
 
-- **Sí, 5+.** → Práctica de pensamiento crítico en marcha.
-- **2-4.** → Bandera amarilla.
-- **0-1.** → Bandera roja — la captura diaria es el ejercicio más barato del plan.
+- **Sí, 5+.** → Práctica de pensamiento crítico en marcha. **Si tenés 20+**, hacé el [auto-test de 10 casos](plan/falacias/practica.md) para ver si estás calibrado.
+- **2-4.** → Bandera amarilla. Releé [Falacias — Empezar acá (5 min)](plan/falacias.md) — quizás te confundís de familia.
+- **0-1.** → Bandera roja — la captura diaria es el ejercicio más barato del plan. Si no leíste la entrada de falacias, [empezá acá ahora](plan/falacias.md).
 
 ### 5. ¿Lo disfruté lo suficiente como para querer seguir?
 

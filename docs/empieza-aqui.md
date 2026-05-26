@@ -105,9 +105,10 @@ Aprender la habilidad (4 semanas en paralelo a tu lectura): **[Tutorial — Apre
 No esperes al lunes ideal. Hacé esto hoy aunque sean 20 min mal hechos. **Romper la inercia es lo único que importa hoy.**
 
 - [ ] **Poné tu fecha de inicio** en el [panel](../#mi-panel) (2 min).
+- [ ] **Leé la entrada de [Falacias — Empezar acá](plan/falacias.md)** — 5 min. Te deja con las 4 familias y podés capturar tu primera falacia.
 - [ ] **Mirá los primeros 10 min** de Yale PLSC 114 — embed abajo (10 min).
 - [ ] **Empezá** Adler — *Cómo leer un libro*, prólogo + cap. 1 (10 min).
-- [ ] **Capturá tu primera falacia** del día en el [formulario](plantillas/plantilla-falacia.md) (3 min).
+- [ ] **Capturá tu primera falacia** del día en el [formulario](plantillas/plantilla-falacia.md) (3 min). Si dudás, miralo en la entrada de falacias que acabás de leer — solo necesitás identificar **familia**, el nombre exacto viene después.
 - [ ] **Marcá 30 min** en el contador del [panel](../#mi-panel) (10 seg).
 
 ### Embebido: Yale PLSC 114 — Clase 1
