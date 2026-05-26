@@ -8,6 +8,13 @@ title: Fase 4 — Tradiciones políticas iberoamericanas
 
 > Aquí el plan se pone interesante. La línea **Bueno/Armesilla** queda como UNA posición entre varias — no la lente única sobre Iberoamérica. Aprender a ver dialogar las tradiciones (Hispanidad, decolonial, liberacionista, feminista latinoamericana) es lo que da criterio.
 
+!!! tip "Cómo se estudia esta fase"
+    - **Énfasis del método:** tradiciones rivales sin elegir bando rápido. Acá también podés elegir [tu rama disciplinar](../ramas/index.md) si querés profundizar.
+    - **Ritmo:** 4-5 h/semana. Bloques de 4-6 semanas cada uno (clásicos · Hispanidad · decolonial · 5 emancipaciones · feminismo LATAM).
+    - **Producción:** 1 ensayo 1500 pal por bloque que tome posición sobre el debate interno del bloque.
+    - **IA:** prompt "devil's advocate" entre Bueno y Dussel (mismo tema, lecturas opuestas).
+    - **Hito:** [checkpoint mes 4 (decisión de ruta)](../checkpoint-mes-4.md) si todavía no elegiste · y al cerrar la fase, distinguís materialismo filosófico (Bueno) de materialismo histórico (Marx) sin confundirlos.
+
 ---
 
 ## :material-target: Objetivo de la fase

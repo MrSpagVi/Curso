@@ -8,6 +8,13 @@ title: Fase 0 — Cimientos
 
 > Antes de leer a Platón o a Marx necesitas saber **cómo se lee** un libro denso y **cómo se detecta** un mal argumento. Esta fase te da las dos herramientas en 6-8 semanas.
 
+!!! tip "Cómo se estudia esta fase"
+    - **Énfasis del método:** aprender a leer + a desconfiar. No te apures.
+    - **Ritmo:** 5 pp/hora de Adler (lectura analítica activa) + capturar 1 falacia/día.
+    - **Producción:** 1 literature note por capítulo de Adler + auto-test de falacias al cerrar.
+    - **IA:** solo prompt "caza-falacia" ([ver detalle](../metodo/prompts-ia.md#3-caza-falacia-en-captura-diaria)) sobre pasajes que vos ya analizaste.
+    - **Hito:** [checkpoint semana 4](../checkpoint-semana-4.md) cierra la fase con 5 preguntas de calibración.
+
 !!! danger "Prerrequisito OBLIGATORIO antes de Fase 0: Sistema + Habilidad de notas"
     **No abras Adler sin esto:**
     

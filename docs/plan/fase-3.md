@@ -8,6 +8,13 @@ title: Fase 3 — Sociopolítica del siglo XX
 
 > Las grandes corrientes del siglo XX que siguen vivas en el debate actual. **Weber fijo** como pieza fundacional + eliges 3 de 5 corrientes (marxismo, liberalismo, conservadurismo, totalitarismo, feminismo) para conocer el espectro sin caricaturas.
 
+!!! tip "Cómo se estudia esta fase"
+    - **Énfasis del método:** pluralismo deliberado. Si solo te convencen 2 corrientes, no leíste las 3.
+    - **Ritmo:** la fase más densa. **6-8 h/semana firmes** o aceptás que dura más de 5 meses.
+    - **Producción:** 1 nota permanente por corriente + 1 ensayo trimestral comparativo de 1000 pal.
+    - **IA:** prompts "devil's advocate" después de cada autor + "detector de sesgo propio" trimestral.
+    - **Hito:** sostener debate de 30 min defendiendo cualquier corriente leída, incluso las que no compartís.
+
 ---
 
 ## :material-target: Objetivo de la fase

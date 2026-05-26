@@ -8,6 +8,13 @@ title: Fase 2 — Economía política
 
 > Entender por qué la gente discute sobre el mercado, el Estado y la desigualdad **sin que te vendan ideología disfrazada de técnica**. Mezcla deliberada de ortodoxia (Smith), crítica clásica (Marx), heterodoxia accesible (Chang) y voz latinoamericana (Mariátegui).
 
+!!! tip "Cómo se estudia esta fase"
+    - **Énfasis del método:** distinguir escuelas económicas, no aprender modelos técnicos.
+    - **Ritmo:** Chang ágil (8h total), Marx selectivo + curso Harvey en paralelo (más lento), Mariátegui contemplativo.
+    - **Producción:** **ejercicio puente Marx → Mariátegui** obligatorio (300 pal escritas).
+    - **IA:** prompt "steelman comparado" Marx vs Hayek sobre 1 tema concreto (inflación argentina, vivienda).
+    - **Hito:** poder identificar de qué escuela económica habla un columnista en 2 minutos.
+
 ---
 
 ## :material-target: Objetivo de la fase

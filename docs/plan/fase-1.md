@@ -8,6 +8,13 @@ title: Fase 1 — Filosofía clásica y moderna
 
 > El mapa mental de la historia del pensamiento occidental. Vas a leer a **Platón, Maquiavelo, Hobbes, Rousseau, Mill** acompañado del mejor curso universitario abierto del mundo (Yale, Steven Smith).
 
+!!! tip "Cómo se estudia esta fase"
+    - **Énfasis del método:** lectura primaria de obras cortas + 1 clase Yale por semana en paralelo.
+    - **Ritmo:** 5-8 pp/hora (filosofía bien leída es lenta). Una obra por 4-6 semanas.
+    - **Producción:** 1 literature note por obra + 1 nota permanente por mes ([cómo escribir una](../metodo/discutir-con-un-libro.md#material-numeric-5-box-nota-permanente-1-por-semana)).
+    - **IA:** prompts "examen socrático" después de cada obra y "steelman comparado" entre Hobbes vs Locke vs Rousseau ([ver detalle](../metodo/prompts-ia.md)).
+    - **Hito:** poder explicar las 3 teorías del contrato social sin caricaturizar.
+
 ---
 
 ## :material-target: Objetivo de la fase

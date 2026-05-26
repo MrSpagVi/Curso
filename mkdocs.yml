@@ -105,6 +105,8 @@ nav:
       - "Ruta esencial (versión corta, 12 libros)": ruta-esencial.md
   - Método de lectura:
       - "Método — cómo estudiar acá": metodo.md
+      - "Cómo discutir con un libro": metodo/discutir-con-un-libro.md
+      - "Prompts para usar con IA": metodo/prompts-ia.md
       - "Sistema de notas": plan/notas.md
       - "Tutorial — tomar notas (30 días)": plan/notas-tutorial.md
       - Falacias:
@@ -149,3 +151,7 @@ nav:
       - "Plantilla — cuaderno papel": plantillas/plantilla-cuaderno-papel.md
       - "Plantilla — Zettelkasten papel": plantillas/plantilla-zettelkasten-papel.md
       - "Plantilla — setup Notion": plantillas/plantilla-notion-setup.md
+  - Sobre JV:
+      - "Quién soy": sobre-jv/quien-soy.md
+      - "Por qué este sitio": sobre-jv/por-que-este-sitio.md
+      - "Cambios recientes": sobre-jv/cambios-recientes.md

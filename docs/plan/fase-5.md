@@ -8,6 +8,13 @@ title: Fase 5 — Síntesis y voz propia
 
 > Integrar lo aprendido y empezar a **producir tu propio pensamiento**. Menos lectura nueva, más síntesis. Es la fase donde demuestras que el plan funcionó: ya no necesitas más libros para tener algo que decir.
 
+!!! tip "Cómo se estudia esta fase"
+    - **Énfasis del método:** producción, no consumo. Si seguís queriendo "leer más", todavía no estás listo para cerrar.
+    - **Ritmo:** 60% escritura, 40% lectura. Mearsheimer + Mbembe + 1 novela política como insumos.
+    - **Producción:** **ensayo final 1500-2000 pal** citando 3-4 autores + **grabación oral 10 min** sin notas explicando una tesis tuya.
+    - **IA:** prompt "detector de sesgo propio" sobre el borrador del ensayo final + "examen socrático" antes de grabar.
+    - **Hito final:** voz propia con criterio. **Opcional:** seguir al [Ciclo III](ciclo-iii.md) para tesina de 8-10k pal sobre un tema-bisagra.
+
 ---
 
 ## :material-target: Objetivo de la fase
