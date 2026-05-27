@@ -71,6 +71,9 @@ Las primeras 7 etapas son tu primera **fase de prueba** (~4 semanas). Después u
 - [ ] Capturar 1 falacia más
 - [ ] Marcar 30 min en el contador del [panel](index.md#mi-panel)
 
+!!! tip "Cómo se estudia esta etapa"
+    **Lectura activa**: subrayá MÁXIMO 2-3 frases por página. Al margen, reformulá con tus palabras (no copies). **Ritmo:** Adler es ágil, 10-15 pp/h. **Al cerrar el libro hoy:** una frase en voz alta — "¿qué aprendí que no sabía esta mañana?". Si no sale, releé la última subrayada.
+
 **Salida:** ya empezaste a leer el primer libro. **El curso está en marcha.**
 
 [:material-youtube: Yale PLSC clase 1](https://www.youtube.com/watch?v=xhm55mIdSuk){ .md-button target="_blank" }
@@ -84,6 +87,9 @@ Las primeras 7 etapas son tu primera **fase de prueba** (~4 semanas). Después u
 - [ ] Yale PLSC clase 2
 - [ ] 3 falacias capturadas durante la semana
 - [ ] Tutorial de notas: avanzar a días 8-14
+
+!!! tip "Cómo se estudia esta etapa"
+    Adler enseña las **4 preguntas que se le hacen a un libro** — practicalas con el propio Adler: ¿de qué trata?, ¿qué dice en detalle?, ¿es verdad?, ¿qué importancia tiene? Anotalas para CADA capítulo. Esto es el target final del [método](metodo.md) — empezá a entrenarlo desde ya, no esperes a Hobbes.
 
 **Salida:** entendés las 4 preguntas que un libro responde + estás capturando falacias con cierta soltura.
 
@@ -133,6 +139,9 @@ Cuatro etapas más hasta el segundo checkpoint donde sí elegís ruta.
 - [ ] Identificar 5 estratagemas de Schopenhauer en un debate real
 - [ ] Ya tenés ~10-15 capturas de falacias en tu log
 
+!!! tip "Cómo se estudia esta etapa"
+    Schopenhauer NO se lee como filosofía — se lee como **manual de combate**. Cada estratagema es una receta práctica: leela → buscá un ejemplo real (en TV, redes, una conversación) → anotalo con la cita literal en tu log de falacias. **Producción:** 5 estratagemas con caso real cada una. Si no encontrás casos, no entendiste la estratagema.
+
 **Salida:** Fase 0 cerrada. Vacuna contra trampas retóricas.
 
 ---
@@ -155,6 +164,9 @@ Cuatro etapas más hasta el segundo checkpoint donde sí elegís ruta.
 - [ ] Ficha de lectura completa en `lecturas/maquiavelo.md`
 - [ ] 1 nota permanente sobre *virtù vs fortuna*
 
+!!! tip "Cómo se estudia esta etapa"
+    **Primer libro primario de filosofía política — el método entra en escena completo.** Ritmo: 10-12 pp/h. Cada sesión cerrá con literature note (usá la [plantilla de lectura](lecturas/plantilla.md) que ya tiene ejemplo resuelto). **Al final del libro:** UNA nota permanente sobre *virtù vs fortuna* (no resumen — tu lectura propia, con conexiones; ver [ejemplo Rawls+Crenshaw](plantillas/plantilla-nota-permanente.md#ejemplo-real-rawls-justicia)). **Sábado IA:** prompt "Devil's advocate" sobre tu nota — pedile que la refute.
+
 **Salida:** primer libro de filosofía política primaria leído con criterio.
 
 ---
@@ -165,6 +177,9 @@ Cuatro etapas más hasta el segundo checkpoint donde sí elegís ruta.
 - [ ] Yale PLSC clases 9-11 (Hobbes)
 - [ ] Ficha de lectura + 1 nota permanente sobre el monopolio de la violencia
 - [ ] Auto-test de falacias (si tenés 20+ capturas): [Práctica + auto-test](plan/falacias/practica.md)
+
+!!! tip "Cómo se estudia esta etapa"
+    **Primer texto técnicamente difícil del plan** — ver [Punto de naufragio #1](plan/naufragios.md). Ritmo bajá a 5 pp/h en caps 13-14 (estado de naturaleza). **Antes del cap 13:** Yale Smith clase 12 o entrada Stanford Encyclopedia. **No avances al cap 14** sin entender que el "estado de naturaleza" es ficción metodológica, no historia. La literature note va al final (usá la plantilla con ejemplo Hobbes XIII ya resuelta). **Producción:** 1 nota permanente propia + grabación de 5 min sin notas.
 
 **Salida:** segundo libro leído, tenés vocabulario para discutir el Estado moderno. **Estás listo para elegir ruta.**
 
