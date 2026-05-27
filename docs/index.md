@@ -13,6 +13,7 @@ hide:
     <a href="curso/" class="g-btn g-btn-primary hero-cta-link hero-cta-xl">▶ Empezar el plan</a>
     <a href="bibliografia/" class="g-btn hero-cta-link hero-cta-xl">Solo mirar la biblioteca</a>
   </div>
+  <p class="hero-promise">Diseñado para pausarse y retomarse. Si parás 3 semanas, hay <a href="metodo/#llevo-3-semanas-sin-abrir-el-libro">protocolo para volver sin re-leer</a>. Sin culpa.</p>
 </div>
 
 <section class="g-section">
@@ -147,6 +148,6 @@ Cuando termines las 11 etapas del tronco común y hagas el [checkpoint del mes 4
 <section class="g-section">
   <span class="g-label">Mantra del Plan</span>
   <blockquote class="g-mantra">
-    Constancia &gt; intensidad. Cuatro horas bien distribuidas a la semana, durante 24 meses, te llevan más lejos que sprints heroicos seguidos de meses muertos. Si una semana no puedes con todo, mantén el ritual diario de 10 min y suspende lo demás.
+    Constancia &gt; intensidad. <strong>3-5 h/sem sostenidas</strong> durante 24 meses te llevan más lejos que sprints heroicos seguidos de meses muertos. <strong>2 h/sem también vale</strong>: el plan se estira, no se rompe. Si una semana no podés con todo, mantené el ritual diario de 10 min y suspendé lo demás.
   </blockquote>
 </section>

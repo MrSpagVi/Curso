@@ -17,6 +17,9 @@ Autoestudio adulto guiado en pensamiento sociopolítico, económico y filosófic
 
 No es un curso de videos. Es un sistema con lectura, escritura, IA con guardrails y producción propia.
 
+!!! info "Pausarse está previsto"
+    Diseñado para pausarse y retomarse. Si frenás 3 semanas, hay [protocolo para volver sin re-leer](metodo.md#llevo-3-semanas-sin-abrir-el-libro). **Sin culpa.** El plan se estira, no se rompe.
+
 <div class="step-footer">
 <span>Al terminar: sabés si te sirve.</span>
 <a href="#paso-2">Sigo → Paso 2</a>
@@ -34,7 +37,7 @@ Tres reglas que separan este sitio de un MOOC:
 
 1. **Leés primero, escribís, después usás IA.** Nunca al revés. Evidencia 2025: usarla antes acelera la falsa sensación de comprensión.
 2. **Una nota permanente por semana** — no resúmenes copiados, una idea tuya conectada a otras notas.
-3. **Constancia > intensidad.** 4 h/sem × 24 meses te lleva más lejos que 12 h en un fin de semana × 2 meses.
+3. **Constancia > intensidad.** 3-5 h/sem sostenidas te llevan más lejos que 12 h en un fin de semana × 2 meses. **2 h/sem también vale** — el plan se estira, no se rompe.
 
 Detalle del método (5 prompts canónicos de IA, ciclo semanal, anti-patrones): **[Método — cómo estudiar acá (5 min)](metodo.md)**.
 
