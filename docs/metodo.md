@@ -65,6 +65,18 @@ Asumiendo el margen bajo de 3-5 h/sem.
 !!! warning "Regla anti-Dunning-Kruger"
     **La IA aparece SOLO el sábado**, después de que ya leíste (lun-mié), escribiste literatura notes (mié) y produjiste una nota permanente (vie). **Nunca antes**. Esa secuencia es la diferencia entre aprender y sentir que aprendés.
 
+??? danger "Qué pasa si invertís el orden — ejemplo concreto"
+    **Antipatrón**: lunes, abrís el libro de Hobbes y antes de leer un párrafo pegás el cap. 13 en Claude pidiendo "explicámelo simple". Recibís un resumen claro de la guerra de todos contra todos, lo sentís "entendido", anotás una literature note de 3 líneas con las palabras de la IA y cerrás.
+
+    **Qué se rompió**:
+
+    - La literature note no es tuya — es la del modelo. Cuando vuelvas en 6 meses no vas a poder reconstruir el argumento porque nunca lo construiste.
+    - La nota permanente del viernes va a salir vacía o copy-paste. Sin lectura activa propia no hay materia prima para conectar con otras notas.
+    - El sábado ya no hay nada que confrontar — la IA "ya te explicó". Perdés la sesión de devil's advocate.
+    - Llegás al checkpoint trimestral creyendo que entendiste Hobbes. La prueba ("¿podés explicarlo a un colega sin abrir Claude?") falla. Reverse Dunning-Kruger: sobreestimás tu competencia porque la IA hizo el trabajo.
+
+    **El test simple**: si cerrás el libro y no podés reformular una idea con tus palabras antes de tocar la IA, el sábado no es sábado todavía. Volvé al texto.
+
 ## :material-calendar-month: Cadencia mensual (1-2 h, último domingo)
 
 1. **Releer tus propias notas del mes** (`lecturas/` + `falacias_log.md`).

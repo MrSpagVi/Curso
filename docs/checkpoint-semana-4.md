@@ -23,6 +23,21 @@ Respondé en voz alta (o por escrito) antes de mirar la decisión recomendada.
 
 Entendido "nota permanente" según [el sistema](plan/notas.md): una idea propia de 100-300 palabras, con tu interpretación, conectada al menos a otra nota o lectura. **NO** es resumen ni cita copiada.
 
+??? example "Ejemplo concreto: qué cuenta vs qué no cuenta"
+    **NO cuenta** (resumen disfrazado):
+
+    > *"Adler dice que hay 4 niveles de lectura: elemental, inspeccional, analítica y sintópica. La analítica es la más importante porque te permite responder las 4 preguntas. Hay que subrayar y hacer preguntas al texto."*
+
+    Es un resumen del autor con sus propias categorías. Lo escribí yo pero no hay **interpretación propia** ni **conexión a nada más**.
+
+    **SÍ cuenta** (interpretación + conexión):
+
+    > *"La lectura analítica de Adler funciona como un protocolo de auditoría: las 4 preguntas son las mismas que hago en Power BI para validar un dashboard ajeno (¿qué claim hace? ¿con qué datos? ¿qué deja afuera? ¿tiene sentido en mi contexto?). Esto sugiere que la 'lectura activa' que Adler define como específica de libros es en realidad una forma de pensamiento crítico transferible — la diferencia con leer un dashboard es solo el formato del input. Conecta con: [[falacias-familia-distraccion]] (cherry-picking es lo que detecta la pregunta 3 de Adler) y con [[metodo-pensar-vs-consumir]]."*
+
+    Acá hay (a) **una tesis propia** ("las 4 preguntas son protocolo de auditoría transferible"), (b) **una analogía** con tu vida real, (c) **dos conexiones explícitas** a otras notas. Eso es lo que la convierte en nota permanente.
+
+    **Test rápido**: si pudiera escribirla un compañero que leyó el mismo libro pero no sabe nada de vos, **no es nota permanente** — es resumen.
+
 - **Sí, escribí 1+ nota permanente que defiendo como mía.** → Método operativo.
 - **Tengo notas pero son resúmenes/citas.** → Bandera amarilla. Releé tutorial.
 - **No escribí ninguna.** → Bandera roja.

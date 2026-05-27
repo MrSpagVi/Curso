@@ -281,11 +281,28 @@ Las primeras 11 etapas son iguales. Acá se bifurca según lo que decidiste en e
 
 ---
 
+## :material-check-decagram: Salidas honorables — qué ganaste si parás acá
+
+Si en cualquier punto decidís parar, **no es fracaso**: cada fase tiene una salida con valor propio.
+
+| Si parás tras... | Inversión | Lo que sabés hacer |
+|---|---|---|
+| **Etapa 11** (mes 4) | ~50 h | Diagnosticar argumentos · 4 familias de falacias · vocabulario Maquiavelo+Hobbes |
+| **Fase 1** (mes 8) | ~85 h | 3 teorías del contrato social · vocabulario fundacional · principio del daño de Mill |
+| **Fase 2** (mes 12) | ~140 h | Valor vs precio · 4+ escuelas económicas · teoría de la dependencia |
+| **Fase 3** (mes 17) | ~210 h | Marxismo / liberalismo / conservadurismo XX · biopolítica · interseccionalidad · Berlin |
+| **Fase 4** (mes 22) | ~285 h | Bueno vs Dussel · Cusicanqui ch'ixi · 5 emancipaciones latinoamericanas |
+| **Plan completo** (mes 28) | ~360 h | Ensayo propio · grabación 10 min · 53 fichas · voz política con criterio |
+
+→ Detalle por fase: [Salidas honorables](checkpoint-mes-4.md#salidas-honorables-por-fase).
+
+---
+
 ## :material-help-circle: Si te perdés
 
 - **¿No sabés qué etapa hacés?** Mirá el [panel](index.md#mi-panel) — el badge te dice la actual.
 - **¿Necesitás ayuda con el método?** [Método — cómo estudiar acá](metodo.md) tiene el ciclo semanal y los 5 prompts de IA.
 - **¿Una etapa te resultó imposible?** Mirá [Puntos de naufragio](plan/naufragios.md) — los 7 momentos donde se cae el 80% de los autodidactas con protocolo de rescate.
-- **¿Querés abandonar?** Mirá [Salidas honorables](checkpoint-mes-4.md#salidas-honorables-por-fase) — qué ganaste si te detenés acá.
+- **¿Querés abandonar?** Mirá la tabla de arriba ↑ — qué ganaste si te detenés acá.
 
 [:material-arrow-left: Volver al inicio](index.md){ .md-button }

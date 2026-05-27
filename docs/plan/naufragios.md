@@ -134,12 +134,17 @@ Haz el [Ejercicio puente Marx→Mariátegui](fase-2.md) que está en Fase 2. Esp
 - Si ya tenías una orientación política antes del plan (izquierda o derecha), leer **al mejor enemigo en su mejor versión** produce **crisis ideológica** (transformative learning, Mezirow).
 - Síntomas: rechazo emocional al texto, leer mal a propósito, saltarse capítulos, "este autor está manipulando".
 
-**Cómo navegarlo:**
+**Cómo navegarlo — protocolo concreto de 5 pasos:**
 
-1. **Acepta la crisis como dato.** Es señal de que el plan está funcionando: estás dejando de pensar tribalmente.
-2. **Norma:** lee al adversario como si fueras a defender su posición en un debate público. Si no puedes resumir su mejor argumento sin trampa, no terminaste el libro.
-3. **Cuando termines:** escribe 500 palabras "Lo que aprendí del autor que rechazo". Honestidad brutal. Nadie las va a leer.
-4. Si te quedas paralizado, **alterna**: una semana Hayek, una semana Marx, una semana sin lectura ideológica (relectura de literatura, Fase 5 novela).
+1. **Parar la lectura.** El día que te das cuenta de que estás leyendo con rechazo (saltando párrafos, glosando mal, pensando "este tipo es un X"), cerrá el libro. No avances enojado: consolidás distorsión.
+2. **Nombrarlo en una nota permanente forzada** (es uno de los pocos "obligatorios" del plan). Título: *"Qué me hizo ruido en [autor] y por qué"*. 200-400 palabras. Honestidad brutal. Nadie las va a leer. Sin esta nota, el momento de quiebre se evapora y volvés tribal.
+3. **Ejecutar el prompt "Detector de sesgo propio"** del [método](../metodo.md#5-detector-de-sesgo-propio) sobre esa nota. Pedile a la IA que liste qué autores/argumentos importantes estás ignorando porque chocan con tu posición previa. Anotá los 2-3 que más te incomoden.
+4. **Volver al libro con esta norma:** leelo como si tuvieras que defender al autor en un debate público mañana. Si no podés resumir su mejor argumento sin trampa, no terminaste el capítulo.
+5. **Al cerrar el libro:** escribí 500 palabras *"Lo que aprendí del autor que rechazo"*. Si no podés escribir esto sin caricatura, releé los capítulos clave antes de avanzar.
+
+**Si te quedás paralizado más de 1 semana:** alterná — una semana Hayek, una semana Marx, una semana sin lectura ideológica (Fase 5 novela o módulo M3 historia). La pausa estructurada es legítima; la pausa por evitación no.
+
+**Por qué este protocolo y no "leé y aguantá":** la crisis ideológica es la fase *disorienting dilemma* de Mezirow. Sin scaffolding explícito produce dos fallas: reactancia (rechazo del autor sin entenderlo) o capitulación acrítica (conversión sin examen). Las dos te sacan del plan.
 
 ---
 
