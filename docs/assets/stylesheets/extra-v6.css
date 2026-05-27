@@ -1,0 +1,407 @@
+/* ============================================================
+   UX-V6 — Refinamiento visual
+   Cascada sobre extra.css. Mantiene clases existentes intactas.
+   ============================================================ */
+
+/* === Paleta ajustada (sutilezas) === */
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #fbf8f3;
+  --md-default-bg-color--light: #f4eee0;
+  --md-default-fg-color: #1c1814;
+  --md-default-fg-color--light: #4a4339;
+  --md-accent-fg-color: #9c5a36;
+  --md-typeset-a-color: #6b4830;
+  --g-border: #e4dcc8;
+  --g-card-bg: #f4eee0;
+  --g-accent: #9c5a36;
+  --g-accent-soft: rgba(156, 90, 54, 0.10);
+  --g-secondary-accent: #1f3a5f;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #0d0e11;
+  --md-default-bg-color--light: #16181c;
+  --md-default-fg-color: #e0dac8;
+  --g-border: #2d2a24;
+  --g-card-bg: #16181c;
+  --g-accent: #d4ad7e;
+  --g-secondary-accent: #6b9bd1;
+}
+
+/* === Tipografía: serif para headers académicos === */
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: "Crimson Pro", "Source Serif Pro", Georgia, serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+}
+
+.md-typeset h1 {
+  font-size: 2.1rem;
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset h2 {
+  font-size: 1.5rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--g-border);
+}
+
+.md-typeset h3 {
+  font-size: 1.2rem;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+}
+
+.md-typeset h4 {
+  font-family: "Inter", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--md-default-fg-color--light);
+  margin-top: 1.4rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Prosa: más respiración */
+.md-typeset p,
+.md-typeset li {
+  line-height: 1.75;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset p strong,
+.md-typeset li strong {
+  color: var(--md-default-fg-color);
+}
+
+/* === Cards: border-radius generoso + sombra sutil + hover === */
+
+.g-card {
+  border-radius: 8px;
+  border: 1px solid var(--g-border);
+  background: var(--g-card-bg);
+  padding: 1.25rem 1.4rem;
+  box-shadow:
+    0 1px 2px rgba(28, 24, 20, 0.04),
+    0 1px 1px rgba(28, 24, 20, 0.02);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.g-card:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 4px 12px rgba(28, 24, 20, 0.08),
+    0 2px 4px rgba(28, 24, 20, 0.04);
+  border-color: var(--g-accent-soft);
+}
+
+/* === Botones: refinamiento === */
+
+.g-btn,
+.md-button {
+  border-radius: 6px;
+  padding: 0.55rem 1.1rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 0.85rem;
+  letter-spacing: 0.01em;
+  transition: all 0.18s ease;
+  border: 1px solid var(--g-border);
+  background: transparent;
+  color: var(--md-default-fg-color);
+  cursor: pointer;
+}
+
+.g-btn:hover,
+.md-button:hover {
+  background: var(--g-accent-soft);
+  border-color: var(--g-accent);
+  color: var(--g-accent);
+  transform: translateY(-1px);
+}
+
+.g-btn-primary,
+.md-button--primary {
+  background: var(--g-accent);
+  color: #fff;
+  border-color: var(--g-accent);
+}
+
+.g-btn-primary:hover,
+.md-button--primary:hover {
+  background: var(--md-typeset-a-color);
+  border-color: var(--md-typeset-a-color);
+  color: #fff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(156, 90, 54, 0.2);
+}
+
+.hero-cta-xl {
+  padding: 0.9rem 1.8rem !important;
+  font-size: 1rem !important;
+  letter-spacing: 0.02em;
+}
+
+/* === Links: underline animado === */
+
+.md-typeset a {
+  color: var(--md-typeset-a-color);
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  transition: background-size 0.25s ease, color 0.18s ease;
+  padding-bottom: 1px;
+}
+
+.md-typeset a:hover {
+  background-size: 100% 1px;
+  color: var(--g-accent);
+}
+
+/* Excluir botones del underline animado */
+.md-typeset a.md-button,
+.md-typeset a.g-btn,
+.md-typeset a.hero-cta-link,
+.md-typeset a.hero-secondary-link {
+  background-image: none;
+}
+
+/* === Admonitions: refinamiento === */
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 8px;
+  border-left-width: 3px;
+  box-shadow:
+    0 1px 2px rgba(28, 24, 20, 0.04);
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+}
+
+/* === Tablas: refinamiento === */
+
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--g-border);
+  box-shadow: 0 1px 3px rgba(28, 24, 20, 0.04);
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--g-card-bg);
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color);
+  border-bottom: 2px solid var(--g-border);
+}
+
+.md-typeset table:not([class]) tr {
+  transition: background-color 0.15s ease;
+}
+
+.md-typeset table:not([class]) tr:hover {
+  background-color: var(--g-accent-soft);
+}
+
+/* === Hero: refinamiento === */
+
+.hero-primary {
+  border-radius: 12px;
+  border-left-width: 4px;
+  padding: 2rem 2.2rem;
+  box-shadow:
+    0 2px 8px rgba(28, 24, 20, 0.05),
+    0 1px 2px rgba(28, 24, 20, 0.03);
+}
+
+.hero-primary .hero-statement {
+  font-family: "Crimson Pro", Georgia, serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--md-default-fg-color);
+  max-width: 70ch;
+}
+
+/* === Wizard steps: refinamiento === */
+
+.wizard-step {
+  border-radius: 10px;
+  border-left-width: 4px;
+  padding: 1.8rem 2rem;
+  margin: 2rem 0;
+  box-shadow:
+    0 2px 6px rgba(28, 24, 20, 0.04),
+    0 1px 2px rgba(28, 24, 20, 0.02);
+  transition: box-shadow 0.18s ease;
+}
+
+.wizard-step:hover {
+  box-shadow:
+    0 4px 14px rgba(28, 24, 20, 0.06),
+    0 1px 3px rgba(28, 24, 20, 0.03);
+}
+
+.wizard-step h2 {
+  font-size: 1.4rem;
+  border-bottom: none;
+  margin-top: 0.5rem;
+}
+
+/* === Panel badges: refinamiento === */
+
+.panel-badge {
+  border-radius: 8px;
+  padding: 1.1rem 1.4rem;
+  box-shadow:
+    0 1px 3px rgba(28, 24, 20, 0.05),
+    0 1px 1px rgba(28, 24, 20, 0.02);
+}
+
+/* === Curso progress: refinamiento === */
+
+.curso-progress-box {
+  border-radius: 10px;
+  padding: 1.3rem 1.6rem;
+  box-shadow:
+    0 2px 6px rgba(28, 24, 20, 0.05);
+}
+
+.curso-progress-box .g-progress {
+  height: 10px;
+  border-radius: 5px;
+}
+
+/* === Inputs y selects === */
+
+.g-input {
+  border-radius: 6px;
+  border: 1px solid var(--g-border);
+  padding: 0.5rem 0.7rem;
+  font-family: "Inter", sans-serif;
+  font-size: 0.85rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  transition: border-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+.g-input:focus {
+  outline: none;
+  border-color: var(--g-accent);
+  box-shadow: 0 0 0 3px var(--g-accent-soft);
+}
+
+/* === Code inline === */
+
+.md-typeset code {
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+  font-size: 0.85em;
+  background: var(--md-default-bg-color--light);
+  border: 1px solid var(--g-border);
+}
+
+/* === Code blocks === */
+
+.md-typeset pre > code {
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  font-size: 0.85em;
+  line-height: 1.6;
+  border: 1px solid var(--g-border);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+/* === Blockquotes === */
+
+.md-typeset blockquote {
+  border-left: 3px solid var(--g-accent);
+  background: var(--g-accent-soft);
+  border-radius: 0 8px 8px 0;
+  padding: 0.8rem 1.2rem;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset blockquote:not(.g-mantra) {
+  font-family: "Crimson Pro", Georgia, serif;
+  font-size: 1.02rem;
+}
+
+/* === Focus visible para accesibilidad === */
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--g-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* === Scrollbar refinamiento (Webkit) === */
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--md-default-bg-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--g-border);
+  border-radius: 5px;
+  border: 2px solid var(--md-default-bg-color);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--g-accent);
+}
+
+/* === Mantra: refinamiento === */
+
+.g-mantra {
+  border-radius: 10px;
+  padding: 1.2rem 1.6rem !important;
+  font-style: italic;
+  border-left-width: 4px !important;
+  background: var(--g-accent-soft) !important;
+  font-family: "Crimson Pro", Georgia, serif !important;
+  font-size: 1.05rem !important;
+}
+
+/* === Tooltips de abbr (glosario) === */
+
+abbr[title] {
+  text-decoration: none;
+  border-bottom: 1px dotted var(--g-accent);
+  cursor: help;
+  transition: background-color 0.18s ease;
+}
+
+abbr[title]:hover {
+  background-color: var(--g-accent-soft);
+  border-bottom-style: solid;
+}
