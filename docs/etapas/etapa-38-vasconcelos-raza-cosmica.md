@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Etapa 38 — Vasconcelos — La raza cósmica"
 ---
 
 # Etapa 38 — Vasconcelos — La raza cósmica
 
-> _Microsummary a completar — qué se hace en esta etapa y por qué importa._
+> En 1925, el arquitecto cultural del México post-revolucionario propone que el mestizaje latinoamericano es el futuro de la humanidad y predice (acertadamente) que el supremacismo nórdico producirá catástrofes. El libro mezcla intuiciones valiosas con eugenesia hoy indefendible.
 
 <div class="etapa-meta">
 <span>:material-clock-outline: 10-14 h</span> · <span>:material-progress-check: Etapa 38/84</span> · <span>:material-bookmark: Libro</span>
@@ -18,25 +18,66 @@ title: "Etapa 38 — Vasconcelos — La raza cósmica"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
-## Contexto
+## Contexto histórico y teórico
 
-_Contenido teórico/histórico completo — a completar en el Lote B._
+Cuarta etapa del **bloque A — Clásicos LATAM**. Vasconcelos continúa la línea Rodó pero en clave de **síntesis mestiza** en vez de latinidad pura. Es el momento del libro más ambicioso (y problemático) sobre la identidad latinoamericana.
+
+**Quién era Vasconcelos en 1925**. José Vasconcelos (1882-1959), mexicano, abogado, ex-ministro de Educación Pública (1921-1924) bajo el gobierno de Obregón post-Revolución. **Construyó la SEP** — Secretaría de Educación Pública —, creó miles de escuelas rurales, alfabetizó masivamente, encargó los **murales** a Diego Rivera, José Clemente Orozco y David Alfaro Siqueiros. Es **el arquitecto cultural del México post-revolucionario**. El lema de la UNAM ("Por mi raza hablará el espíritu") es suyo.
+
+**Biografía moralmente compleja**. Después de 1925 se radicalizó hacia la derecha, perdió las elecciones de 1929, se exilió, simpatizó con el fascismo italiano en los 30 y con el nazismo en sus inicios. Murió en 1959 amargado. **Este detalle importa para leer el libro críticamente**: las ideas eugenésicas presentes en *La raza cósmica* no son accidente — son coherentes con su deriva posterior.
+
+**Qué pasaba en 1925**. La Revolución Mexicana acaba (constitución 1917, último estallido villista 1923). El mundo entero discute sobre razas: leyes de cuotas raciales en EE.UU. (Immigration Act 1924), ascenso del Klan, eugenesia en universidades europeas y estadounidenses como ciencia respetable. Mussolini ya tomó el poder (1922). El nazismo está fermentando. **Vasconcelos escribe pensando contra el supremacismo nórdico** — y eso es lo que tiene de visionario.
+
+**Por qué importa el libro**. Define la auto-comprensión mexicana del siglo XX y mucho de la latinoamericana. Sin Vasconcelos no entendés el muralismo, el nacionalismo cultural mexicano, ni la idea (todavía dominante) de que "Latinoamérica es el continente del mestizaje".
+
+**Conceptos clave**:
+
+- **Quinta raza / raza cósmica**: la síntesis futura de las 4 razas históricas (blanca, negra, india, amarilla). Iberoamérica es el laboratorio mundial.
+- **Crítica al supremacismo anglosajón**: lo nórdico produce catástrofes. La mezcla es superior.
+- **Latinoamericanismo continental**: la identidad NO es nacional (México, Perú, Argentina) — es panlatinoamericana.
+- **Indigenismo problemático**: Vasconcelos valoriza al indígena pero como **insumo** del mestizaje, no como sujeto autónomo. Cusicanqui (etapa 45) lo demolerá desde aquí.
+
+## Las ideas clave del libro
+
+1. **Las razas se fusionan, no se preservan**. La historia camina hacia la mezcla, no hacia la purificación.
+2. **El supremacismo nórdico es callejón sin salida**. Vasconcelos predice catástrofes para los proyectos racistas anglosajones — predicción cumplida con creces (Holocausto).
+3. **Iberoamérica tiene el material humano para la quinta raza**. Mestizaje histórico continuo desde la conquista.
+4. **Las jerarquías raciales son provisionales y se disolverán en la síntesis**. Pero en el camino, Vasconcelos las usa (jerarquiza razas en el proceso) — contradicción del libro.
+5. **El "tercer estado" del espíritu**: tras lo material y lo intelectual, vendrá lo estético-espiritual donde el mestizaje culmina.
+6. **Latinoamérica debe pensarse continental, no nacional**. Anti-balcanización.
+
+## Qué pregunta responde
+
+*¿Cuál es el destino histórico de las razas y por qué la latinoamericana mestiza es superior?* Vasconcelos responde con una **filosofía de la historia raciológica** que mezcla biología decimonónica, espiritualismo bergsoniano y nacionalismo cultural mexicano.
 
 ## Tareas
 
-- [ ] Tarea 1 — placeholder
-- [ ] Tarea 2 — placeholder
-- [ ] Tarea 3 — placeholder
+- [ ] Tarea 1 — Leer prólogo + ensayo central completo (~150 pp). Si solo querés la tesis, alcanza con prólogo + capítulo 1 (~50 pp).
+- [ ] Tarea 2 — Nota Zettelkasten: *"Vasconcelos: lo visionario (crítica al supremacismo nórdico) y lo indefendible (eugenesia, jerarquía racial provisional)"*. Conectá con Rodó (etapa 37): ¿qué diferencia hay entre "latinidad" rodoniana y "raza cósmica" vasconcelista?
+- [ ] Tarea 3 — Ficha de 400 palabras: ¿qué partes del libro son utilizables hoy y cuáles hay que descartar críticamente? Distinguí núcleo defendible / lastre indefendible.
+- [ ] Tarea 4 — Pregunta de retención: ¿por qué Mariátegui (etapa 24) y Cusicanqui (etapa 45) van a criticar duro a Vasconcelos? Anticipá las dos críticas.
 
 ## Cómo se estudia esta etapa
 
 !!! tip ""
-    Pendiente.
+    **Ritmo**: 10-14 h. Si te seca, alcanza con el ensayo introductorio (50 pp, 3-4 h) para captar la tesis.
+
+    **Anti-patrón clave**: leerlo *literal* como propuesta actual. Es **documento histórico** que hay que leer críticamente — la jerarquización racial y las afirmaciones eugenésicas son del 1925, no del 2026. Vasconcelos jerarquiza razas, hace afirmaciones racistas hoy indefendibles. Si te molesta, esa es la reacción correcta — pero no descartes el libro entero; tiene núcleo visionario.
+
+    **Conexiones hacia atrás**: Rodó (etapa 37) — Vasconcelos lo continúa por otro camino (síntesis mestiza vs preservación latina). Martí (etapa 36) — el mestizaje político está en germen.
+
+    **Conexiones hacia adelante**: Paz (etapa 39) será pesimista sobre el resultado del mestizaje — produjo soledad, no raza cósmica. Cusicanqui (etapa 45) demolerá el mestizaje vasconcelista desde el ch'ixi (convivencia sin síntesis). Echeverría (etapa 42) ofrecerá una alternativa más sofisticada con "ethos barroco".
+
+    **Tip de lectura crítico**: cuando Vasconcelos afirma superioridad de unas razas sobre otras en el camino hacia la fusión, anotá literalmente esas frases. Vas a usarlas en la Tarea 3 para la distinción núcleo / lastre.
 
 ## Salida
 
-_Qué sabés / qué tenés al cerrar esta etapa._
+- **Nivel 3**: identificás la herencia vasconcelista en discursos nacionales latinoamericanos contemporáneos (México, Brasil, Cuba — la idea de "país mestizo" como identidad).
+- **Nivel 4**: distinguís críticamente lo valioso (anti-supremacismo nórdico, latinoamericanismo continental) de lo problemático (jerarquización racial provisional, eugenesia, indigenismo paternalista).
 
 ## Recursos
 
-_Links a versiones gratuitas (Wikisource · Project Gutenberg · Yale Open Courses · archive.org · Marxists.org)._
+- [Archive.org — Vasconcelos La raza cósmica](https://archive.org/search?query=vasconcelos+raza+cosmica) — varias ediciones digitalizadas gratis.
+- [Wikisource — Autor Vasconcelos](https://es.wikisource.org/wiki/Autor:Jos%C3%A9_Vasconcelos) — textos sueltos.
+- *Crítico*: leer en paralelo (o después) el ensayo de Cusicanqui (etapa 45) para ver la demolición del mestizaje.
+- *Histórico*: documental sobre Vasconcelos (Canal 22, México) — biografía con énfasis en la SEP.

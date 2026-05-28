@@ -28,5 +28,3 @@
 *[Steelman]: Lo opuesto al hombre de paja: construir la versión más fuerte del argumento del adversario antes de refutarlo. Práctica intelectual exigente, útil con IA como sparring.
 *[FORJA]: Fuerza Orientadora Radical de la Joven Argentina (1935). Movimiento intelectual argentino con Scalabrini Ortiz, Jauretche, Hernández Arregui. Origen del pensamiento nacional-popular argentino.
 *[AUH]: Asignación Universal por Hijo. Política social argentina creada en 2009. Caso paradigmático del welfare argentino post-2003 (transferencia condicionada). Estudios canónicos: CEPAL/Cecchini, CIPPEC.
-*[Tronco común]: En este sitio: las primeras 11 etapas del [curso](curso.md), iguales para todos (setup + falacias + Adler + Schopenhauer + Maquiavelo + Hobbes). Vocabulario sucesor de "Fase 0" + parte de Fase 1.
-*[Tu rama]: En este sitio: la decisión que tomás en el [checkpoint mes 4](checkpoint-mes-4.md) sobre cuál disciplina profundizar (filosofía, ciencias políticas, economía, política social, cultura, sociología o RR.II.). Vive en [Biblioteca → Tu rama](ramas/index.md).
