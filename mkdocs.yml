@@ -6,7 +6,6 @@ theme:
   name: material
   language: es
   features:
-    - navigation.sections
     - navigation.prune
     - navigation.path
     - navigation.footer
@@ -90,13 +89,14 @@ extra_javascript:
 
 nav:
   - Inicio: index.md
-  - Etapas (en orden):
+  - "Fase 0 — Métodos (etapas 1-6)":
       - "1 · Setup del sistema de notas": etapas/etapa-01-setup-sistema-de-notas.md
       - "2 · Tutorial — aprender a tomar notas (30 días)": etapas/etapa-02-tutorial-tomar-notas.md
       - "3 · Adler — Cómo leer un libro": etapas/etapa-03-adler-como-leer-un-libro.md
       - "4 · Schopenhauer — El arte de tener razón": etapas/etapa-04-schopenhauer-arte-tener-razon.md
       - "5 · CrashCourse Philosophy — falacias": etapas/etapa-05-crashcourse-falacias.md
       - "6 · Manual de falacias — captura diaria 30 días": etapas/etapa-06-manual-falacias.md
+  - "Fase 1 — Filosofía clásica (etapas 7-19)":
       - "7 · Platón — Apología de Sócrates": etapas/etapa-07-platon-apologia.md
       - "8 · Aristóteles — Política (selección)": etapas/etapa-08-aristoteles-politica.md
       - "9 · Maquiavelo — El Príncipe": etapas/etapa-09-maquiavelo-principe.md
@@ -110,11 +110,13 @@ nav:
       - "17 · Locke — Segundo tratado del gobierno civil": etapas/etapa-17-locke-segundo-tratado.md
       - "18 · Tocqueville — La democracia en América": etapas/etapa-18-tocqueville-democracia-en-america.md
       - "19 · Pocock — El momento maquiavélico": etapas/etapa-19-pocock-momento-maquiavelico.md
+  - "Fase 2 — Economía política (etapas 20-24)":
       - "20 · Chang — Economía para el 99%": etapas/etapa-20-chang-economia-99.md
       - "21 · Smith — La riqueza de las naciones": etapas/etapa-21-smith-riqueza-naciones.md
       - "22 · Marx — El Capital (Libro I)": etapas/etapa-22-marx-capital.md
       - "23 · Harvey — Reading Marx's Capital (13 clases)": etapas/etapa-23-harvey-reading-marx.md
       - "24 · Mariátegui — 7 Ensayos (II-III)": etapas/etapa-24-mariategui-7-ensayos.md
+  - "Fase 3 — Sociopolítica s.XX (etapas 25-34)":
       - "25 · Weber — La política como vocación": etapas/etapa-25-weber-politica-vocacion.md
       - "26 · Foucault — Vigilar y castigar / Biopolítica": etapas/etapa-26-foucault.md
       - "27 · Rawls — Teoría de la Justicia (caps. I y III)": etapas/etapa-27-rawls-teoria-justicia.md
@@ -125,6 +127,7 @@ nav:
       - "32 · Hayek — Camino de servidumbre": etapas/etapa-32-hayek-camino-servidumbre.md
       - "33 · Popper — La sociedad abierta y sus enemigos": etapas/etapa-33-popper-sociedad-abierta.md
       - "34 · Nozick — Anarquía, Estado y utopía": etapas/etapa-34-nozick-anarquia-estado-utopia.md
+  - "Fase 4 — Iberoamericana (etapas 35-51)":
       - "35 · Bolívar — Carta de Jamaica": etapas/etapa-35-bolivar-carta-jamaica.md
       - "36 · Martí — Nuestra América": etapas/etapa-36-marti-nuestra-america.md
       - "37 · Rodó — Ariel": etapas/etapa-37-rodo-ariel.md
@@ -142,6 +145,7 @@ nav:
       - "49 · Lugones — Heterosexualismo y sistema de género colonial": etapas/etapa-49-lugones-heterosexualismo.md
       - "50 · Gago — La potencia feminista": etapas/etapa-50-gago-potencia-feminista.md
       - "51 · Segato — La guerra contra las mujeres": etapas/etapa-51-segato-guerra-mujeres.md
+  - "Fase 5 — Síntesis global (etapas 52-66)":
       - "52 · Wallerstein — Análisis de sistemas-mundo": etapas/etapa-52-wallerstein-sistemas-mundo.md
       - "53 · Mearsheimer — The Tragedy of Great Power Politics": etapas/etapa-53-mearsheimer-great-power.md
       - "54 · Agamben — Homo Sacer / Estado de excepción": etapas/etapa-54-agamben.md
@@ -157,11 +161,13 @@ nav:
       - "64 · Ambedkar — Annihilation of Caste": etapas/etapa-64-ambedkar-annihilation-caste.md
       - "65 · Ensayo final integrador (1500-2000 palabras)": etapas/etapa-65-ensayo-final.md
       - "66 · Grabación oral final (10 min, sin notas)": etapas/etapa-66-grabacion-final.md
+  - "Ciclo III · M5 — Política social (etapas 67-71)":
       - "67 · Marshall — Ciudadanía y clase social": etapas/etapa-67-marshall-ciudadania.md
       - "68 · Polanyi — La gran transformación": etapas/etapa-68-polanyi-gran-transformacion.md
       - "69 · Esping-Andersen — Tres mundos del Estado del bienestar": etapas/etapa-69-esping-andersen.md
       - "70 · Filgueira — Universalismo básico en AL": etapas/etapa-70-filgueira-universalismo-basico.md
       - "71 · Tesina M5 — ¿Qué welfare es el argentino?": etapas/etapa-71-tesina-m5.md
+  - "Ciclo III · M6 — Cultura (etapas 72-78)":
       - "72 · Williams — Marxismo y literatura": etapas/etapa-72-williams-marxismo-literatura.md
       - "73 · Benjamin — La obra de arte en la época de su reproductibilidad": etapas/etapa-73-benjamin-obra-arte.md
       - "74 · Bourdieu — La distinción": etapas/etapa-74-bourdieu-distincion.md
@@ -169,6 +175,7 @@ nav:
       - "76 · García Canclini — Culturas híbridas": etapas/etapa-76-garcia-canclini-culturas-hibridas.md
       - "77 · Martín-Barbero — De los medios a las mediaciones": etapas/etapa-77-martin-barbero.md
       - "78 · Zuboff — La era del capitalismo de la vigilancia": etapas/etapa-78-zuboff-vigilancia.md
+  - "Cierre — Temas-bisagra + tesina (etapas 79-84)":
       - "79 · Ensayo tema-bisagra — Neoliberalismo": etapas/etapa-79-ensayo-neoliberalismo.md
       - "80 · Ensayo tema-bisagra — Ciudadanía": etapas/etapa-80-ensayo-ciudadania.md
       - "81 · Ensayo tema-bisagra — Trabajo": etapas/etapa-81-ensayo-trabajo.md
