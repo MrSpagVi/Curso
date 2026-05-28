@@ -133,7 +133,7 @@ Si te enganchás, completo. Si no, los 6 capítulos arriba bastan para el plan.
 - [ ] **Lectura inspeccional de Adler**: prólogo + índice + caps. 1-4 hojeados (30-60 min). Decidir si seguís analítico.
 - [ ] **Lectura analítica de los 4 niveles**: Prólogo + Cap. 1 + Cap. 2-4 (lectura inspeccional + analítica). Aplicar las 4 reglas mientras leés.
 - [ ] **Lectura analítica de los caps. 5-7** (términos, proposiciones, argumentos) + Cap. 11 (analizar un argumento).
-- [ ] **Literature note completa** del libro en el cuaderno o en Notion: tesis central en 3 frases, 5 ideas que te marcaron con página, mi crítica, citas memorables. Plantilla en [plantilla-nota-permanente.md](../plantillas/plantilla-nota-permanente.md).
+- [ ] **Literature note completa** del libro en el cuaderno o en Notion: tesis central en 3 frases, 5 ideas que te marcaron con página, mi crítica, citas memorables. Usá la plantilla del sistema de notas (etapa 1).
 - [ ] **Nota permanente** sobre **las 4 preguntas que le hacés a un libro**: título declarativo, en tus palabras, mínimo 2 conexiones (con Schopenhauer y con tu sistema de notas).
 
 ## Cómo se estudia esta etapa
@@ -161,7 +161,5 @@ Si te enganchás, completo. Si no, los 6 capítulos arriba bastan para el plan.
 - **Adler & Van Doren (1972)** — *How to Read a Book* / *Cómo leer un libro*. Sin versión legal abierta (sigue en copyright).
 - Opciones: comprar en librería o digital · pedirlo en biblioteca · [Internet Archive — préstamo digital 1 h renovable](https://archive.org/search?query=como+leer+un+libro+adler).
 - **Vídeo resumen en español (YouTube):** [búsqueda actualizada](https://www.youtube.com/results?search_query=como+leer+un+libro+adler+resumen) — útil para anticipar el método antes de meterte en el libro.
-- **Steven Smith, Yale Open Courses — Introduction to Political Philosophy, Lecture 1** (~46 min, inglés con subtítulos): [embed en plan/fase-0](../plan/fase-0.md). Orientación general para todo lo que viene después.
+- **Steven Smith, Yale Open Courses — Introduction to Political Philosophy, Lecture 1** (~46 min, inglés con subtítulos): [oyc.yale.edu/political-science/plsc-114](https://oyc.yale.edu/political-science/plsc-114). Orientación general para todo lo que viene después.
 - **Contrapeso emocional:** Daniel Pennac — *Como una novela* (1992, ~150 pp). Te recuerda que leer también es placer.
-- [Plantilla nota permanente](../plantillas/plantilla-nota-permanente.md) — para producir el output de esta etapa.
-- [Fase 0 en el plan — referencia complementaria](../plan/fase-0.md).

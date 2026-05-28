@@ -204,7 +204,7 @@ Esto NO se lee entero. Se consulta cuando capturás algo y querés ponerle nombr
 
 - [ ] **Leer las 4 familias** (sección "Manual completo" arriba) y reconocer la familia a la que pertenece cada falacia.
 - [ ] **Leer las 5 más frecuentes** con sus tarjetas detalladas (ad hominem, hombre de paja, falsa dicotomía, ad verecundiam, generalización apresurada) — definición + 2 ejemplos + cómo responder + caso límite.
-- [ ] **Capturar 1 falacia diaria durante 30 días** (mínimo 30 capturas totales). Usar el [log con plantilla](../plantillas/plantilla-falacia.md). Cita corta + familia + nombre concreto + respuesta en una frase.
+- [ ] **Capturar 1 falacia diaria durante 30 días** (mínimo 30 capturas totales). Usar el log que armaste en la etapa 1 (campos: cita corta + familia + nombre concreto + respuesta en una frase).
 - [ ] **Auto-test de 10 casos** al final de los 30 días. Calibrar contra las respuestas. Objetivo: 7+/10.
 - [ ] **Nota permanente** con título declarativo sobre la diferencia entre objeción legítima y ad hominem (ej.: *"El ad hominem genuino ataca al hablante para evadir el argumento; la crítica al hablante es legítima cuando su credencial o sesgo afecta directamente la validez técnica del argumento"*) — conectada con Schopenhauer (estratagema #38) y con tu sistema de captura.
 
@@ -231,12 +231,6 @@ Esto NO se lee entero. Se consulta cuando capturás algo y querés ponerle nombr
 
 ## Recursos
 
-- [Falacias — entrada principal en el sitio](../plan/falacias.md) (5 min, regla del 1/4).
-- [Manual completo de falacias](../plan/falacias/manual.md) (referencia, ~22 falacias).
-- [Las 5 falacias más frecuentes](../plan/falacias/top-5.md) (30 min, una vez en la vida).
-- [Práctica + auto-test](../plan/falacias/practica.md) (protocolo + 10 casos).
-- [Plantilla de log de falacias (con formulario web)](../plantillas/plantilla-falacia.md).
-- [Plantilla nota permanente](../plantillas/plantilla-nota-permanente.md).
 - **Schopenhauer — *El arte de tener razón*** (etapa 4) — 38 estratagemas dialécticas, complemento cínico al manual lógico.
 - **Madsen Pirie — *Cómo discutir y vencer***. Manual práctico, lúdico.
 - **Douglas Walton — *Informal Logic***. Si querés profundidad académica.

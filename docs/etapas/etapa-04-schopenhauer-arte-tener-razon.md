@@ -117,6 +117,3 @@ Las dos categorías se solapan. Una ampliación (estratagema #1) suele instancia
 - **PDF institucional alternativo:** [El arte de tener razón — guao.org](https://www.guao.org/sites/default/files/biblioteca/El%20arte%20de%20tener%20razón.pdf).
 - **Audiolibro en español (YouTube):** búsqueda *"Schopenhauer arte de tener razón audiolibro"* — útil si querés escucharlo mientras hacés otra cosa antes de la lectura analítica.
 - **Como ejercicio de aplicación:** un debate político de 20-30 min en YouTube de cualquier canal — identificar 5 estratagemas en tiempo real.
-- [Plantilla nota permanente](../plantillas/plantilla-nota-permanente.md).
-- [Plantilla log de falacias](../plantillas/plantilla-falacia.md) — usá la columna "Falacia concreta" para anotar "estratagema #N".
-- [Fase 0 en el plan — referencia complementaria](../plan/fase-0.md).

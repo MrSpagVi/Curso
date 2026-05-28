@@ -129,6 +129,3 @@ Las tres juntas te dejan en N3 (aplicar) en detección de falacias.
   </div>
 - **Subtítulos en español:** YouTube auto-genera; usalos. Si te molestan los errores, mirá en inglés con CC y pausá más.
 - **Canal en español alternativo:** [La Fonda Filosófica](https://www.lafondafilosofica.com/) (Darin McNabb, México) — divulgación filosófica de alta calidad si querés todo en castellano.
-- [Plantilla nota permanente](../plantillas/plantilla-nota-permanente.md).
-- [Plantilla log de falacias](../plantillas/plantilla-falacia.md).
-- [Fase 0 en el plan — referencia complementaria](../plan/fase-0.md).

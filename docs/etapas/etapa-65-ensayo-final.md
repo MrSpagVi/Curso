@@ -73,7 +73,7 @@ Si la respuesta es sí, el plan funcionó. Si la respuesta es no, todavía sos l
 
 - [ ] Tarea 1 — **Definí tu tesis en UNA frase**. Si no podés hacerlo, no estás listo para escribir — releé tus notas hasta que la tesis emerja. Anotá esa frase en un lugar visible. Va a ser tu brújula durante todo el proceso. Definí también el debate específico al que la tesis interviene.
 - [ ] Tarea 2 — **Esquema del ensayo (1 página).** Estructura mínima: (a) Tesis (1 frase); (b) 3-5 argumentos (1 frase cada uno + autor que lo apoya); (c) la mejor objeción posible (1 frase + autor que la formula); (d) tu respuesta a la objeción (1 frase); (e) implicación (1 frase). Compartilo con alguien antes de escribir el borrador, si podés.
-- [ ] Tarea 3 — **Borrador completo (1500-2000 palabras).** Usá la [plantilla de ensayo](../plantillas/plantilla-ensayo.md). Citas con autor + obra + número de página. Bibliografía mínima de 4-5 autores. Tomá descansos entre secciones — no escribas todo de un tirón.
+- [ ] Tarea 3 — **Borrador completo (1500-2000 palabras).** Usá la plantilla mínima de más abajo en esta etapa. Citas con autor + obra + número de página. Bibliografía mínima de 4-5 autores. Tomá descansos entre secciones — no escribas todo de un tirón.
 - [ ] Tarea 4 — **Pasada de auto-revisión con prompt "detector de sesgo propio".** Pegá tu borrador en una IA (Claude, ChatGPT, etc.) con el prompt: *"Soy autor de este ensayo. Detectá: (a) supuestos no examinados; (b) afirmaciones sin evidencia; (c) hombres de paja; (d) citas dudosas o sin contexto; (e) lugares donde la objeción contraria es más fuerte de lo que reconozco. Sé brutal — quiero mejorar."* Anotá los 3 puntos más importantes y reescribí.
 - [ ] Tarea 5 — **Versión final + publicación en `ensayos/`**. Publicá. Si tenés blog/Substack/Medium, publicá ahí también. Compartilo con 1-2 personas de confianza para feedback. La publicación es parte del ejercicio — escribir para gaveta es práctica de calentamiento, no entrega.
 
@@ -139,7 +139,6 @@ Al cerrar: tenés **un ensayo argumentativo de 1500-2000 palabras escrito, revis
 
 ## Recursos
 
-- :material-file-document: [Plantilla de ensayo](../plantillas/plantilla-ensayo.md) — usar esta estructura.
 - :material-file-document: George Orwell — *Politics and the English Language* (1946, ensayo corto, gratis online): el mejor manual de honestidad en prosa política. Releelo antes de empezar.
 - :material-file-document: William Strunk & E.B. White — *The Elements of Style* (libro corto, ~100 pp): manual clásico de economía en escritura.
 - :material-file-document: Helen Sword — *Stylish Academic Writing* (Harvard UP): cómo escribir con argumentación seria sin caer en jerga.

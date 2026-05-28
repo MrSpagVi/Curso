@@ -378,9 +378,6 @@ Al cerrar la etapa:
 
 ## Recursos
 
-- [Tutorial completo en el sitio](../plan/notas-tutorial.md)
-- [Sistema de notas — referencia](../plan/notas.md)
-- [Plantilla nota permanente](../plantillas/plantilla-nota-permanente.md)
 - **Slamecka & Graf (1978)** — *The generation effect*. JEP:HLM, 4(6), 592-604.
 - **Bjork (2011)** — *Making things hard on yourself, but in a good way*.
 - **Roediger & Karpicke (2006)** — *Test-enhanced learning*. Psychological Science 17(3), 249-255.

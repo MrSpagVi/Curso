@@ -240,11 +240,6 @@ Ya podés meter el tutorial de la etapa 2 sin sentir que improvisás dónde guar
 
 ## Recursos
 
-- [Sistema de notas — referencia completa en el sitio](../plan/notas.md)
-- [Plantilla cuaderno papel (commonplace book)](../plantillas/plantilla-cuaderno-papel.md)
-- [Plantilla fichas Zettelkasten papel](../plantillas/plantilla-zettelkasten-papel.md)
-- [Plantilla setup Notion paso a paso](../plantillas/plantilla-notion-setup.md)
-- [Plantilla nota permanente (Markdown)](../plantillas/plantilla-nota-permanente.md)
 - **Locke (1706)** — *A New Method of Making Common-place-Books*: [Archive.org](https://archive.org/details/newmethodofmakin00lock).
 - **Ahrens (2017)** — *How to Take Smart Notes*: [soenkeahrens.de](https://www.soenkeahrens.de/en/takesmartnotes).
 - **Matuschak** — *Evergreen notes*: [notes.andymatuschak.org/Evergreen_notes](https://notes.andymatuschak.org/Evergreen_notes).
