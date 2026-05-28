@@ -1,201 +1,54 @@
 ---
-title: El curso — etapas en orden
+title: El curso — visión general
 ---
 
-# El curso — etapas en orden
+# El curso — visión general
 
-> Tu syllabus completo. Hacés las etapas en orden. Cada etapa lleva entre 1 día y 1 semana — sin calendario rígido. Marcá los checkboxes para no perderte. Si abandonás 3 días, **no atrases el calendario** — seguí desde donde quedaste.
+> Tu syllabus completo. **Las primeras 11 etapas son iguales para todos** (tronco común). Al cerrarlas elegís entre Camino A (Plan integrado completo), Camino B (Ruta esencial) o Camino C (Una rama). Cada etapa lleva entre 1 día y 1 semana — sin calendario rígido.
 
 <div class="curso-progress-box" id="curso-progress" style="display:none;">
-  <span class="g-label">Tu progreso</span>
+  <span class="g-label">Progreso del tronco común</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas completadas (<span id="curso-pct">0%</span>)
   </div>
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
-  <div class="curso-progress-note">Los checkboxes se guardan automáticamente en tu navegador (localStorage). Si cambiás de máquina perdés el progreso.</div>
+  <div class="curso-progress-note">Suma los checkboxes de las 11 etapas. Se guarda automáticamente en tu navegador (localStorage). Si cambiás de máquina, se pierde.</div>
 </div>
 
 !!! tip "Cómo se usa"
-    - Empezás por la **Etapa 1**. Avanzás secuencial.
-    - Cada etapa tiene tareas concretas (☐) y un link al material.
-    - Al terminar una etapa, marcá los checkboxes y pasá a la siguiente.
-    - **Las primeras 11 etapas son iguales para todos** — es el tronco común.
-    - **Al cerrar Etapa 11** elegís entre Camino A (Plan integrado completo), Camino B (Ruta esencial), o Camino C (Una rama).
+    - Empezás por la **Etapa 1** y avanzás secuencial. El sidebar izquierdo te lleva a la siguiente.
+    - Cada etapa tiene tareas concretas (☐) y links al material.
+    - Después de la **Etapa 7** hacés el [checkpoint de semana 4](checkpoint-semana-4.md) — chequeo del método.
+    - Después de la **Etapa 11** hacés el [checkpoint del mes 4](checkpoint-mes-4.md) — acá sí elegís ruta.
+    - Si abandonás 3 días, **no atrases el calendario** — seguí desde donde quedaste.
 
 ---
 
-## :material-tree: TRONCO COMÚN — todos pasan por acá
+## :material-tree: TRONCO COMÚN — las 11 etapas
 
-Las primeras 7 etapas son tu primera **fase de prueba** (~4 semanas). Después un checkpoint corto. Si seguís, las etapas 8-11 cierran el tronco con Fase 0 + 2 libros.
+| # | Etapa | Tiempo aprox. |
+|---|---|---|
+| 1 | [Setup del sistema de notas](etapas/etapa-01-setup-notas.md) | 30 min |
+| 2 | [Aprender a tomar notas](etapas/etapa-02-tutorial-notas.md) | 3 h + paralelo |
+| 3 | [4 familias de falacias](etapas/etapa-03-falacias-familias.md) | 30 min + diario |
+| 4 | [Día 1 real con Adler](etapas/etapa-04-dia-1-adler.md) | 1.5 h hoy |
+| 5 | [Adler caps 2-4](etapas/etapa-05-adler-2-4.md) | 5-6 h |
+| 6 | [Primera ficha de lectura](etapas/etapa-06-primera-ficha.md) | 6 h |
+| 7 | [Primera nota permanente](etapas/etapa-07-primera-nota-permanente.md) | 5 h |
+| ➤ | **[Checkpoint semana 4 — ¿el método funciona?](checkpoint-semana-4.md)** | 15 min |
+| 8 | [Schopenhauer — cierre de Fase 0](etapas/etapa-08-schopenhauer.md) | 3 h |
+| 9 | [Las 5 falacias más frecuentes](etapas/etapa-09-falacias-top-5.md) | 45 min |
+| 10 | [Maquiavelo (libro 1 del curso real)](etapas/etapa-10-maquiavelo.md) | 10 h |
+| 11 | [Hobbes selección (libro 2)](etapas/etapa-11-hobbes.md) | 12 h |
+| ➤ | **[Checkpoint mes 4 — elegí ruta](checkpoint-mes-4.md)** | 30 min |
 
-### :material-numeric-1-box: Etapa 1 — Setup del sistema de notas
-
-- [ ] Leer la página [Sistema de notas](plan/notas.md) (~15 min)
-- [ ] Elegir **un** workflow: papel · Notion · híbrido (recomendado)
-- [ ] Comprar materiales si elegiste papel/híbrido (cuaderno A5 + fichas + carpeta · 30-60 €)
-- [ ] Configurar setup digital si elegiste Notion/Obsidian (gratis)
-- [ ] Poner fecha de inicio en el [panel](index.md#mi-panel)
-
-**Salida:** sistema listo para empezar a leer. **NO LEER LIBROS TODAVÍA.**
-
-[:material-arrow-right-bold: Ir a Sistema de notas](plan/notas.md){ .md-button .md-button--primary }
-
----
-
-### :material-numeric-2-box: Etapa 2 — Aprender a tomar notas (en paralelo a Etapa 3+)
-
-- [ ] Tutorial de 30 días, hacer **días 1-7** (movimientos básicos): frase declarativa, reformular, identificar tesis
-- [ ] Los días 8-30 se hacen en paralelo a las próximas etapas
-
-**Salida:** sabés escribir una literature note básica.
-
-[:material-arrow-right-bold: Ir al Tutorial de 30 días](plan/notas-tutorial.md){ .md-button }
+[:material-rocket-launch: Empezar por la Etapa 1](etapas/etapa-01-setup-notas.md){ .md-button .md-button--primary }
 
 ---
 
-### :material-numeric-3-box: Etapa 3 — Conocer las 4 familias de falacias
+## :material-call-split: Los 3 caminos — elegís UNO al cerrar Etapa 11
 
-- [ ] Leer entrada [Falacias — Empezar acá (5 min)](plan/falacias.md)
-- [ ] Capturar tu **primera falacia** del día en el [formulario](plantillas/plantilla-falacia.md)
-
-**Salida:** sabés identificar familia (Lenguaje / Emoción / Distracción / Inducción defectuosa) y ya tenés 1 captura.
-
-[:material-arrow-right-bold: Empezar Falacias](plan/falacias.md){ .md-button .md-button--primary }
-
----
-
-### :material-numeric-4-box: Etapa 4 — Día 1 real con Adler
-
-- [ ] Mirar primeros 10 min de Yale PLSC clase 1 ([embed en Empezar acá](empieza-aqui.md#paso-5))
-- [ ] Empezar **Adler — *Cómo leer un libro*** (prólogo + cap. 1, ~30 pp)
-- [ ] Capturar 1 falacia más
-- [ ] Marcar 30 min en el contador del [panel](index.md#mi-panel)
-
-!!! tip "Cómo se estudia esta etapa"
-    **Lectura activa**: subrayá MÁXIMO 2-3 frases por página. Al margen, reformulá con tus palabras (no copies). **Ritmo:** Adler es ágil, 10-15 pp/h. **Al cerrar el libro hoy:** una frase en voz alta — "¿qué aprendí que no sabía esta mañana?". Si no sale, releé la última subrayada.
-
-**Salida:** ya empezaste a leer el primer libro. **El curso está en marcha.**
-
-[:material-youtube: Yale PLSC clase 1](https://www.youtube.com/watch?v=xhm55mIdSuk){ .md-button target="_blank" }
-[:material-book-open: Adler en archive.org](https://archive.org){ .md-button target="_blank" }
-
----
-
-### :material-numeric-5-box: Etapa 5 — Adler caps 2-4
-
-- [ ] Adler caps 2-4 (lectura analítica + sintópica)
-- [ ] Yale PLSC clase 2
-- [ ] 3 falacias capturadas durante la semana
-- [ ] Tutorial de notas: avanzar a días 8-14
-
-!!! tip "Cómo se estudia esta etapa"
-    Adler enseña las **4 preguntas que se le hacen a un libro** — practicalas con el propio Adler: ¿de qué trata?, ¿qué dice en detalle?, ¿es verdad?, ¿qué importancia tiene? Anotalas para CADA capítulo. Esto es el target final del [método](metodo.md) — empezá a entrenarlo desde ya, no esperes a Hobbes.
-
-**Salida:** entendés las 4 preguntas que un libro responde + estás capturando falacias con cierta soltura.
-
----
-
-### :material-numeric-6-box: Etapa 6 — Primera ficha de lectura
-
-- [ ] Adler caps 5-7
-- [ ] Yale PLSC clase 3
-- [ ] **Escribir tu primera literature note completa** sobre Adler usando la [plantilla](plantillas/plantilla-nota-permanente.md): tesis del libro · 5 ideas · 1 crítica · conexiones
-- [ ] Tutorial de notas: días 15-21
-
-**Salida:** tu primera ficha de lectura completa.
-
-[:material-file-document: Plantilla de ficha](plantillas/plantilla-nota-permanente.md){ .md-button }
-
----
-
-### :material-numeric-7-box: Etapa 7 — Primera nota permanente
-
-- [ ] Adler cap 8 (síntesis)
-- [ ] **Escribir tu primera nota permanente real**: 100-300 palabras de una idea propia, conectada a otra nota o lectura. NO resumen.
-- [ ] Grabarte 5-10 min explicando una idea de Adler **sin notas, sin guión**.
-- [ ] Tutorial de notas: días 22-30 (examen final del tutorial)
-
-**Salida:** tenés tu primera nota permanente y una grabación oral de diagnóstico.
-
----
-
-### :material-flag-checkered: ➤ CHECKPOINT — ¿el método funciona?
-
-5 preguntas para verificar si el método engancha o si hay que ajustar cadencia. **NO elegís ruta acá.**
-
-[:material-clipboard-check: Hacer el checkpoint](checkpoint-semana-4.md){ .md-button .md-button--primary }
-
-Después del checkpoint, seguís con la Etapa 8.
-
----
-
-## :material-book-open-page-variant: Cerrar Fase 0 + libros 1-2 (camino al mes 4)
-
-Cuatro etapas más hasta el segundo checkpoint donde sí elegís ruta.
-
-### :material-numeric-8-box: Etapa 8 — Schopenhauer y cierre de Fase 0
-
-- [ ] **Schopenhauer — *El arte de tener razón*** (~80 pp, 2-3 h). [Gratis Wikisource](https://es.wikisource.org/wiki/Dial%C3%A9ctica_er%C3%ADstica)
-- [ ] Identificar 5 estratagemas de Schopenhauer en un debate real
-- [ ] Ya tenés ~10-15 capturas de falacias en tu log
-
-!!! tip "Cómo se estudia esta etapa"
-    Schopenhauer NO se lee como filosofía — se lee como **manual de combate**. Cada estratagema es una receta práctica: leela → buscá un ejemplo real (en TV, redes, una conversación) → anotalo con la cita literal en tu log de falacias. **Producción:** 5 estratagemas con caso real cada una. Si no encontrás casos, no entendiste la estratagema.
-
-**Salida:** Fase 0 cerrada. Vacuna contra trampas retóricas.
-
----
-
-### :material-numeric-9-box: Etapa 9 — Las 5 falacias más frecuentes (lectura única)
-
-- [ ] Leer [Las 5 más frecuentes (30 min)](plan/falacias/top-5.md) — una sola vez
-- [ ] Releer tus capturas previas e identificar nombre concreto
-
-**Salida:** pasás de identificar familia a nombrar falacia específica.
-
-[:material-bookshelf: Top 5 falacias](plan/falacias/top-5.md){ .md-button }
-
----
-
-### :material-numeric-10-box: Etapa 10 — Maquiavelo (libro 1 del curso real)
-
-- [ ] **Maquiavelo — *El Príncipe*** (~100 pp, 4 h). [Project Gutenberg](https://www.gutenberg.org/ebooks/52540)
-- [ ] Yale PLSC clases 6-8 (Maquiavelo)
-- [ ] Ficha de lectura completa en `lecturas/maquiavelo.md`
-- [ ] 1 nota permanente sobre *virtù vs fortuna*
-
-!!! tip "Cómo se estudia esta etapa"
-    **Primer libro primario de filosofía política — el método entra en escena completo.** Ritmo: 10-12 pp/h. Cada sesión cerrá con literature note (usá la [plantilla de lectura](lecturas/plantilla.md) que ya tiene ejemplo resuelto). **Al final del libro:** UNA nota permanente sobre *virtù vs fortuna* (no resumen — tu lectura propia, con conexiones; ver [ejemplo Rawls+Crenshaw](plantillas/plantilla-nota-permanente.md#ejemplo-real-rawls-justicia)). **Sábado IA:** prompt "Devil's advocate" sobre tu nota — pedile que la refute.
-
-**Salida:** primer libro de filosofía política primaria leído con criterio.
-
----
-
-### :material-numeric-11-box: Etapa 11 — Hobbes selección (libro 2)
-
-- [ ] **Hobbes — *Leviatán*** (selección caps. 13-21, ~80 pp). [PDF español en archive.org](https://archive.org/search?query=hobbes+leviatan+espanol)
-- [ ] Yale PLSC clases 9-11 (Hobbes)
-- [ ] Ficha de lectura + 1 nota permanente sobre el monopolio de la violencia
-- [ ] Auto-test de falacias (si tenés 20+ capturas): [Práctica + auto-test](plan/falacias/practica.md)
-
-!!! tip "Cómo se estudia esta etapa"
-    **Primer texto técnicamente difícil del plan** — ver [Punto de naufragio #1](plan/naufragios.md). Ritmo bajá a 5 pp/h en caps 13-14 (estado de naturaleza). **Antes del cap 13:** Yale Smith clase 12 o entrada Stanford Encyclopedia. **No avances al cap 14** sin entender que el "estado de naturaleza" es ficción metodológica, no historia. La literature note va al final (usá la plantilla con ejemplo Hobbes XIII ya resuelta). **Producción:** 1 nota permanente propia + grabación de 5 min sin notas.
-
-**Salida:** segundo libro leído, tenés vocabulario para discutir el Estado moderno. **Estás listo para elegir ruta.**
-
----
-
-### :material-target: ➤ CHECKPOINT MES 4 — ¿qué camino elegís?
-
-Ahora sí. 5 preguntas + tabla comparativa de los 3 caminos.
-
-[:material-compass: Hacer el checkpoint del mes 4](checkpoint-mes-4.md){ .md-button .md-button--primary }
-
----
-
-## :material-call-split: Los 3 caminos — elegí UNO
-
-Las primeras 11 etapas son iguales. Acá se bifurca según lo que decidiste en el checkpoint mes 4.
+Las primeras 11 etapas son iguales. Acá se bifurca según lo que decidas en el [checkpoint mes 4](checkpoint-mes-4.md).
 
 ??? note ":material-alpha-b-box: CAMINO B — Ruta esencial (10 libros restantes, ~4 meses más)"
 

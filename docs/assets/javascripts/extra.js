@@ -496,11 +496,13 @@
     });
   }
 
-  // ---------- Curso progress meter ----------
+  // ---------- Curso progress meter (per-page fallback) ----------
 
   function setupCursoProgress() {
     const box = document.getElementById('curso-progress');
     if (!box) return;
+    // If global progress already rendered into this box, skip.
+    if (box.dataset.globalRendered === '1') return;
     const items = document.querySelectorAll('.md-typeset .task-list-item input[type="checkbox"]');
     if (items.length === 0) return;
     const total = items.length;
@@ -519,13 +521,196 @@
       if (elBar) elBar.style.width = pct + '%';
     }
     items.forEach(cb => cb.addEventListener('change', update));
-    // Run once on boot in case localStorage already restored some checks
     setTimeout(update, 50);
+  }
+
+  // ---------- Tronco común — global progress (11 etapas) ----------
+  // Source of truth: localStorage keys `lp.tasks.<path>` written by persistTaskLists.
+  // Totals are hardcoded — if you edit checkbox counts in an etapa file, update here too.
+  const ETAPAS = [
+    { slug: 'etapa-01-setup-notas',            total: 5 },
+    { slug: 'etapa-02-tutorial-notas',         total: 2 },
+    { slug: 'etapa-03-falacias-familias',      total: 3 },
+    { slug: 'etapa-04-dia-1-adler',            total: 4 },
+    { slug: 'etapa-05-adler-2-4',              total: 4 },
+    { slug: 'etapa-06-primera-ficha',          total: 4 },
+    { slug: 'etapa-07-primera-nota-permanente',total: 4 },
+    { slug: 'etapa-08-schopenhauer',           total: 3 },
+    { slug: 'etapa-09-falacias-top-5',         total: 2 },
+    { slug: 'etapa-10-maquiavelo',             total: 4 },
+    { slug: 'etapa-11-hobbes',                 total: 4 }
+  ];
+
+  function etapaPathCandidates(slug) {
+    // MkDocs builds with directory URLs by default → `/etapas/etapa-XX-foo/`.
+    // Site is served under `/Libros-Politica/` on GitHub Pages. We accept both
+    // shapes (with and without trailing slash, with and without base) so the
+    // logic also works on local `mkdocs serve` at `/etapas/...`.
+    const base = location.pathname.match(/^(\/[^/]+)\/?$/) ||
+                 location.pathname.match(/^(\/[^/]+)\//);
+    const prefixes = ['', '/Libros-Politica'];
+    if (base && base[1] && !prefixes.includes(base[1])) prefixes.push(base[1]);
+    const paths = [];
+    prefixes.forEach(p => {
+      paths.push(`${p}/etapas/${slug}/`);
+      paths.push(`${p}/etapas/${slug}`);
+    });
+    return paths;
+  }
+
+  function countCompletedForEtapa(slug) {
+    for (const path of etapaPathCandidates(slug)) {
+      const state = loadJSON(`lp.tasks.${path}`, null);
+      if (state && typeof state === 'object') {
+        return Object.values(state).filter(Boolean).length;
+      }
+    }
+    return 0;
+  }
+
+  function renderGlobalProgressInto(box) {
+    if (!box) return;
+    const elCompleted = box.querySelector('#curso-completed');
+    const elTotal = box.querySelector('#curso-total');
+    const elPct = box.querySelector('#curso-pct');
+    const elBar = box.querySelector('#curso-bar');
+    const total = ETAPAS.reduce((s, e) => s + e.total, 0);
+    const completed = ETAPAS.reduce((s, e) => s + Math.min(countCompletedForEtapa(e.slug), e.total), 0);
+    const pct = total > 0 ? Math.round((completed / total) * 100) : 0;
+    if (elCompleted) elCompleted.textContent = completed;
+    if (elTotal) elTotal.textContent = total;
+    if (elPct) elPct.textContent = pct + '%';
+    if (elBar) elBar.style.width = pct + '%';
+    box.style.display = '';
+    box.dataset.globalRendered = '1';
+  }
+
+  function setupCursoGlobalProgress() {
+    const boxes = [
+      document.getElementById('curso-progress'),
+      document.getElementById('curso-progress-mini')
+    ].filter(Boolean);
+    if (boxes.length === 0) return;
+    boxes.forEach(renderGlobalProgressInto);
+    // Re-render after any checkbox toggle on this page (state lives in localStorage,
+    // and persistTaskLists' change handler runs first because it was registered first).
+    const items = document.querySelectorAll('.md-typeset .task-list-item input[type="checkbox"]');
+    items.forEach(cb => cb.addEventListener('change', () => boxes.forEach(renderGlobalProgressInto)));
+  }
+
+  // ---------- Legacy migration: curso.md monolith → 11 etapas ----------
+  // The old /curso/ page held all 11 etapas' checkboxes. After the split, those
+  // localStorage entries are orphan. We translate them into the new per-etapa keys
+  // using substrings of the task text (stable across the migration).
+  function migrateCursoTaskState() {
+    const FLAG = 'lp.tasks.migrated.v1';
+    if (localStorage.getItem(FLAG)) return;
+    const oldCandidates = [
+      'lp.tasks./Libros-Politica/curso/',
+      'lp.tasks./curso/',
+      'lp.tasks./Libros-Politica/curso',
+      'lp.tasks./curso'
+    ];
+    let oldKey = null;
+    let oldState = null;
+    for (const k of oldCandidates) {
+      const raw = localStorage.getItem(k);
+      if (raw) {
+        try {
+          const parsed = JSON.parse(raw);
+          if (parsed && typeof parsed === 'object' && Object.keys(parsed).length > 0) {
+            oldKey = k;
+            oldState = parsed;
+            break;
+          }
+        } catch (e) { /* ignore */ }
+      }
+    }
+    if (!oldState) {
+      localStorage.setItem(FLAG, '1');
+      return;
+    }
+
+    // Each entry: substring(s) that appear in old text → target etapa slug + index in the new file.
+    const MAP = [
+      // Etapa 1
+      { match: 'Sistema de notas',          slug: 'etapa-01-setup-notas',             newIdx: 0, newText: 'Leer la página Sistema de notas (~15 min)' },
+      { match: 'Elegir un workflow',        slug: 'etapa-01-setup-notas',             newIdx: 1, newText: 'Elegir un workflow: papel · Notion · híbrido (recomendado)' },
+      { match: 'Comprar materiales',        slug: 'etapa-01-setup-notas',             newIdx: 2, newText: 'Comprar materiales si elegiste papel/híbrido' },
+      { match: 'Configurar setup digital',  slug: 'etapa-01-setup-notas',             newIdx: 3, newText: 'Configurar setup digital si elegiste Notion/Obsidian' },
+      { match: 'Poner fecha de inicio',     slug: 'etapa-01-setup-notas',             newIdx: 4, newText: 'Poner fecha de inicio en el panel' },
+      // Etapa 2
+      { match: 'Tutorial de 30 días, hacer días 1-7', slug: 'etapa-02-tutorial-notas', newIdx: 0, newText: 'Tutorial de 30 días: hacer días 1-7' },
+      { match: 'días 8-30 se hacen en paralelo',      slug: 'etapa-02-tutorial-notas', newIdx: 1, newText: 'Los días 8-30 se hacen en paralelo' },
+      // Etapa 3
+      { match: 'Leer entrada Falacias',     slug: 'etapa-03-falacias-familias',       newIdx: 0, newText: 'Leer entrada Falacias — Empezar acá' },
+      { match: 'primera falacia',           slug: 'etapa-03-falacias-familias',       newIdx: 1, newText: 'Capturar tu primera falacia' },
+      // Etapa 4
+      { match: 'Yale PLSC clase 1',         slug: 'etapa-04-dia-1-adler',             newIdx: 0, newText: 'Mirar primeros 10 min de Yale PLSC clase 1' },
+      { match: 'Cómo leer un libro',        slug: 'etapa-04-dia-1-adler',             newIdx: 1, newText: 'Empezar Adler — Cómo leer un libro' },
+      { match: 'Capturar 1 falacia más',    slug: 'etapa-04-dia-1-adler',             newIdx: 2, newText: 'Capturar 1 falacia más' },
+      { match: 'Marcar 30 min en el contador', slug: 'etapa-04-dia-1-adler',          newIdx: 3, newText: 'Marcar 30 min en el contador del panel' },
+      // Etapa 5
+      { match: 'Adler caps 2-4',            slug: 'etapa-05-adler-2-4',               newIdx: 0, newText: 'Adler caps 2-4 (lectura analítica + sintópica)' },
+      { match: 'Yale PLSC clase 2',         slug: 'etapa-05-adler-2-4',               newIdx: 1, newText: 'Yale PLSC clase 2' },
+      { match: '3 falacias capturadas',     slug: 'etapa-05-adler-2-4',               newIdx: 2, newText: '3 falacias capturadas durante la semana' },
+      { match: 'días 8-14',                 slug: 'etapa-05-adler-2-4',               newIdx: 3, newText: 'Tutorial de notas: avanzar a días 8-14' },
+      // Etapa 6
+      { match: 'Adler caps 5-7',            slug: 'etapa-06-primera-ficha',           newIdx: 0, newText: 'Adler caps 5-7' },
+      { match: 'Yale PLSC clase 3',         slug: 'etapa-06-primera-ficha',           newIdx: 1, newText: 'Yale PLSC clase 3' },
+      { match: 'primera literature note',   slug: 'etapa-06-primera-ficha',           newIdx: 2, newText: 'Escribir tu primera literature note completa sobre Adler' },
+      { match: 'días 15-21',                slug: 'etapa-06-primera-ficha',           newIdx: 3, newText: 'Tutorial de notas: días 15-21' },
+      // Etapa 7
+      { match: 'Adler cap 8',               slug: 'etapa-07-primera-nota-permanente', newIdx: 0, newText: 'Adler cap 8 (síntesis)' },
+      { match: 'primera nota permanente real', slug: 'etapa-07-primera-nota-permanente', newIdx: 1, newText: 'Escribir tu primera nota permanente real' },
+      { match: 'Grabarte 5-10 min',         slug: 'etapa-07-primera-nota-permanente', newIdx: 2, newText: 'Grabarte 5-10 min explicando una idea de Adler' },
+      { match: 'días 22-30',                slug: 'etapa-07-primera-nota-permanente', newIdx: 3, newText: 'Tutorial de notas: días 22-30' },
+      // Etapa 8
+      { match: 'Schopenhauer',              slug: 'etapa-08-schopenhauer',            newIdx: 0, newText: 'Schopenhauer — El arte de tener razón' },
+      { match: '5 estratagemas de Schopenhauer', slug: 'etapa-08-schopenhauer',       newIdx: 1, newText: 'Identificar 5 estratagemas de Schopenhauer en un debate real' },
+      { match: '10-15 capturas',            slug: 'etapa-08-schopenhauer',            newIdx: 2, newText: 'Ya tenés ~10-15 capturas de falacias en tu log' },
+      // Etapa 9
+      { match: 'Las 5 más frecuentes',      slug: 'etapa-09-falacias-top-5',          newIdx: 0, newText: 'Leer Las 5 más frecuentes' },
+      { match: 'Releer tus capturas previas', slug: 'etapa-09-falacias-top-5',        newIdx: 1, newText: 'Releer tus capturas previas e identificar nombre concreto' },
+      // Etapa 10
+      { match: 'Maquiavelo — El Príncipe',  slug: 'etapa-10-maquiavelo',              newIdx: 0, newText: 'Maquiavelo — El Príncipe' },
+      { match: 'Yale PLSC clases 6-8',      slug: 'etapa-10-maquiavelo',              newIdx: 1, newText: 'Yale PLSC clases 6-8 (Maquiavelo)' },
+      { match: 'lecturas/maquiavelo',       slug: 'etapa-10-maquiavelo',              newIdx: 2, newText: 'Ficha de lectura completa en lecturas/maquiavelo.md' },
+      { match: 'virtù vs fortuna',          slug: 'etapa-10-maquiavelo',              newIdx: 3, newText: '1 nota permanente sobre virtù vs fortuna' },
+      // Etapa 11
+      { match: 'Hobbes — Leviatán',         slug: 'etapa-11-hobbes',                  newIdx: 0, newText: 'Hobbes — Leviatán (selección caps. 13-21)' },
+      { match: 'Yale PLSC clases 9-11',     slug: 'etapa-11-hobbes',                  newIdx: 1, newText: 'Yale PLSC clases 9-11 (Hobbes)' },
+      { match: 'monopolio de la violencia', slug: 'etapa-11-hobbes',                  newIdx: 2, newText: 'Ficha de lectura + 1 nota permanente sobre el monopolio de la violencia' },
+      { match: 'Auto-test de falacias',     slug: 'etapa-11-hobbes',                  newIdx: 3, newText: 'Auto-test de falacias (si tenés 20+ capturas)' }
+    ];
+
+    // Build per-etapa new state objects.
+    const newStates = {};
+    Object.entries(oldState).forEach(([oldKey, val]) => {
+      if (!val) return;
+      const rule = MAP.find(r => oldKey.indexOf(r.match) !== -1);
+      if (!rule) return;
+      const newKey = `${rule.newIdx}::${rule.newText.slice(0, 80)}`;
+      if (!newStates[rule.slug]) newStates[rule.slug] = {};
+      newStates[rule.slug][newKey] = true;
+    });
+
+    // Write — pick the prefix used by the current host (matches what persistTaskLists writes today).
+    const prefix = location.pathname.startsWith('/Libros-Politica') ? '/Libros-Politica' : '';
+    Object.entries(newStates).forEach(([slug, state]) => {
+      const target = `lp.tasks.${prefix}/etapas/${slug}/`;
+      const existing = loadJSON(target, {});
+      saveJSON(target, Object.assign({}, existing, state));
+    });
+
+    localStorage.setItem(FLAG, '1');
+    // Note: we keep the old key for one more release as a safety net.
   }
 
   // ---------- Boot ----------
 
   function boot() {
+    migrateCursoTaskState();
     startClock();
     renderDashboard();
     setupStartDate();
@@ -534,6 +719,7 @@
     setupFalacias();
     setupTemplateCards();
     persistTaskLists();
+    setupCursoGlobalProgress();
     setupCursoProgress();
   }
 

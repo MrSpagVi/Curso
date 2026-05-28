@@ -279,6 +279,47 @@
     0 1px 1px rgba(28, 24, 20, 0.02);
 }
 
+/* === Etapas (Coursera-style lesson header) === */
+
+.etapa-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  align-items: center;
+  margin: 0.3rem 0 1.4rem 0;
+  padding: 0.6rem 0.9rem;
+  border-radius: 8px;
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-border);
+  font-family: "Inter", sans-serif;
+  font-size: 0.82rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.etapa-meta > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.etapa-meta .twemoji,
+.etapa-meta svg {
+  width: 1em;
+  height: 1em;
+  color: var(--g-accent);
+}
+
+.etapa-hero {
+  border-left: 4px solid var(--g-accent);
+  padding: 1rem 1.2rem;
+  background: var(--g-accent-soft);
+  border-radius: 0 8px 8px 0;
+  margin: 0.5rem 0 1.4rem 0;
+  font-family: "Crimson Pro", Georgia, serif;
+  font-size: 1.08rem;
+  line-height: 1.55;
+}
+
 /* === Curso progress: refinamiento === */
 
 .curso-progress-box {

@@ -36,7 +36,7 @@ hide:
 <div class="panel-badge panel-badge-tronco">
   <span class="badge-label">TRONCO COMÚN · ETAPA 1 DE 11</span>
   <span class="badge-text">Setup del sistema de notas</span>
-  <span class="badge-next">▶ <a href="curso/#etapa-1-setup-del-sistema-de-notas"><strong>Continuar — Etapa 1</strong></a></span>
+  <span class="badge-next">▶ <a href="etapas/etapa-01-setup-notas/"><strong>Continuar — Etapa 1</strong></a></span>
 </div>
 
 <div class="glance-grid">

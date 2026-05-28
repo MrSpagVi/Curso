@@ -9,7 +9,9 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.expand
+    - navigation.prune
+    - navigation.path
+    - navigation.footer
     - navigation.top
     - navigation.tracking
     - navigation.indexes
@@ -95,7 +97,21 @@ nav:
       - "Tour de 5 pasos": empieza-aqui.md
       - "FAQ + diagnóstico + recursos": empieza-aqui/faq.md
   - El plan (18-24 meses):
-      - "Visión general del plan (etapas en orden)": curso.md
+      - "Visión general (landing)": curso.md
+      - Tronco común (11 etapas):
+          - "Etapa 1 — Setup del sistema de notas": etapas/etapa-01-setup-notas.md
+          - "Etapa 2 — Aprender a tomar notas": etapas/etapa-02-tutorial-notas.md
+          - "Etapa 3 — 4 familias de falacias": etapas/etapa-03-falacias-familias.md
+          - "Etapa 4 — Día 1 con Adler": etapas/etapa-04-dia-1-adler.md
+          - "Etapa 5 — Adler caps 2-4": etapas/etapa-05-adler-2-4.md
+          - "Etapa 6 — Primera ficha de lectura": etapas/etapa-06-primera-ficha.md
+          - "Etapa 7 — Primera nota permanente": etapas/etapa-07-primera-nota-permanente.md
+          - "→ Checkpoint semana 4": checkpoint-semana-4.md
+          - "Etapa 8 — Schopenhauer": etapas/etapa-08-schopenhauer.md
+          - "Etapa 9 — Top 5 falacias": etapas/etapa-09-falacias-top-5.md
+          - "Etapa 10 — Maquiavelo (libro 1)": etapas/etapa-10-maquiavelo.md
+          - "Etapa 11 — Hobbes (libro 2)": etapas/etapa-11-hobbes.md
+          - "→ Checkpoint mes 4 (elegí ruta)": checkpoint-mes-4.md
       - "Plan maestro (detalle)": plan/maestro.md
       - "Fase 0 — Cimientos": plan/fase-0.md
       - "Fase 1 — Filosofía clásica": plan/fase-1.md
@@ -103,8 +119,6 @@ nav:
       - "Fase 3 — Sociopolítica s. XX": plan/fase-3.md
       - "Fase 4 — Iberoamericana (tu rama)": plan/fase-4.md
       - "Fase 5 — Síntesis": plan/fase-5.md
-      - "Checkpoint semana 4": checkpoint-semana-4.md
-      - "Checkpoint mes 4 (elegí ruta)": checkpoint-mes-4.md
       - "Ciclo III (opcional, post Fase 5)": plan/ciclo-iii.md
       - "M5 — Política Social": plan/m5-politica-social.md
       - "M6 — Desarrollo Cultural": plan/m6-cultura.md
