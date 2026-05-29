@@ -7,11 +7,11 @@ title: "Etapa 4 — Schopenhauer — El arte de tener razón"
 > Manual irónico con 38 estratagemas para ganar discusiones siendo deshonesto. Schopenhauer las expone para que las reconozcas, no para que las uses. Es vacuna contra el combate retórico de redes, TV y debates políticos.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 6-8 h de lectura</span> · <span>:material-progress-check: Etapa 4/84</span> · <span>:material-book: Libro corto + práctica</span>
+<span>:material-clock-outline: 6-8 h de lectura</span> · <span>:material-progress-check: Etapa 4/85</span> · <span>:material-book: Libro corto + práctica</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (84 etapas)</span>
+  <span class="g-label">Progreso global (85 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -64,7 +64,7 @@ Las dos categorías se solapan. Una ampliación (estratagema #1) suele instancia
 
 ### Vinculación con otros autores del plan
 
-- **Anticipa a Foucault (etapa 26):** Foucault mostrará que las estratagemas son ejercicios de poder, no solo trucos individuales.
+- **Anticipa a Foucault (etapa 27):** Foucault mostrará que las estratagemas son ejercicios de poder, no solo trucos individuales.
 - **Anticipa a Crenshaw, hooks (Fase 3):** estas autoras mostrarán que las estratagemas se ejercen estructuralmente — quién tiene permiso de usarlas y a quién se le castiga por usarlas no es uniforme.
 - **Contradice a Habermas** (Bloque XX-tardío): Habermas defenderá la "acción comunicativa racional" — Schopenhauer dice que es fantasía.
 - **Coincide con Adler (etapa 3)** en que leer/discutir es trabajo, no recepción pasiva.

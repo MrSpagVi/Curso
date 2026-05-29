@@ -7,11 +7,11 @@ title: "Etapa 1 — Setup del sistema de notas"
 > Antes de leer un solo libro hay que montar dónde van a vivir las notas. Sin sistema, en 12 meses recordás el 10% de lo leído. Con sistema, cada libro nuevo se apoya en los anteriores.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 2 días (1 tarde + setup)</span> · <span>:material-progress-check: Etapa 1/84</span> · <span>:material-bookmark: Método</span>
+<span>:material-clock-outline: 2 días (1 tarde + setup)</span> · <span>:material-progress-check: Etapa 1/85</span> · <span>:material-bookmark: Método</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (84 etapas)</span>
+  <span class="g-label">Progreso global (85 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

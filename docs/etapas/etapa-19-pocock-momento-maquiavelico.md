@@ -7,11 +7,11 @@ title: "Etapa 19 — Pocock — El momento maquiavélico (selección)"
 > Texto fundacional de la Escuela de Cambridge de historia intelectual. Tesis: las ideas políticas no son atemporales — son eventos lingüísticos en un contexto. Cambia el modo de leer toda la filosofía política previa. Es el libro más denso de Fase 1.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 22-30 h</span> · <span>:material-progress-check: Etapa 19/84</span> · <span>:material-bookmark: Libro · nivel avanzado</span>
+<span>:material-clock-outline: 22-30 h</span> · <span>:material-progress-check: Etapa 19/85</span> · <span>:material-bookmark: Libro · nivel avanzado</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (84 etapas)</span>
+  <span class="g-label">Progreso global (85 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -79,6 +79,7 @@ Por dos razones complementarias:
 - [ ] Leer Parte III caps. 12-13 (Harrington y la tradición republicana inglesa). Saltar el resto en primera lectura.
 - [ ] Capturar literature note (tesis + 5 ideas + 1 crítica fuerte + conexiones con Maquiavelo, Aristóteles, Locke contrastado, debate sobre fundación EE.UU.).
 - [ ] Escribir nota permanente sobre **lenguajes políticos como herramienta metodológica** (100-300 palabras, conectada — aplicarlo retroactivamente a un autor ya leído).
+- [ ] **Steelman de fin de fase — defendé al autor de Fase 1 que MENOS te convenció (o el que peor entendés).** En 500 palabras, sostené su postura como si fuera tuya, sin disclaimers ni "pero en realidad", con sus mejores argumentos. Candidatos según tu inclinación: si sos liberal, defendé el **realismo amoral de Maquiavelo** (la política como es, no como debería ser) o el **soberano absoluto de Hobbes** (sin Leviatán, guerra de todos contra todos); si sos hobbesiano-realista, defendé la **voluntad general de Rousseau** o el **gobierno limitado de Locke**; si desconfiás de la democracia de masas, defendé la **libertad de los modernos de Mill** o el **autogobierno participativo del republicanismo cívico de Pocock**. Si no podés sostenerla con sus mejores argumentos, no la entendiste.
 
 ## Cómo se estudia esta etapa
 
@@ -98,6 +99,15 @@ Por dos razones complementarias:
     - **No confundir contextualismo con relativismo.** Pocock no dice que las ideas no tengan valor universal — dice que para entenderlas hay que reconstruir su contexto **primero**.
 
     **Cuándo recurrir a comentaristas.** Stanford Encyclopedia, entradas "Republicanism" y "Civic Humanism". Quentin Skinner — *Liberty Before Liberalism* (Cambridge, 1998, breve) — versión más accesible del programa contextualista aplicado al republicanismo. Reseñas académicas de *The Machiavellian Moment* (en JSTOR, Google Scholar).
+
+!!! question "Antes de avanzar — recuperá sin notas"
+    Cerrás Fase 1 (filosofía política clásica). Contestá de memoria, sin abrir los apuntes:
+
+    - **Platón vs. Aristóteles:** ¿por qué Platón quiere reyes-filósofos y Aristóteles desconfía del gobierno de uno solo? ¿Qué es para Aristóteles el "animal político"?
+    - **Maquiavelo:** ¿qué quiere decir que separó la política de la moral? ¿Qué son *virtù* y *fortuna* y cómo se relacionan?
+    - **El contractualismo:** ¿en qué se diferencian el estado de naturaleza de Hobbes (guerra de todos contra todos) del de Locke (con derechos previos) y del de Rousseau (hombre bueno corrompido por la sociedad)? ¿Qué tipo de Estado justifica cada uno?
+    - **Mill y la libertad:** ¿qué es el "principio del daño" y qué teme Mill de la "tiranía de la mayoría"?
+    - **Tocqueville y Pocock:** ¿qué riesgo le ve Tocqueville a la igualdad democrática? ¿Por qué Pocock dice que un texto político hay que leerlo como jugada situada en su época y no como verdad atemporal?
 
 ## Salida
 

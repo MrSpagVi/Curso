@@ -7,11 +7,11 @@ title: "Etapa 6 — Manual de falacias — captura diaria 30 días"
 > Cierre de Fase 0. Manual completo con las 4 familias, las 5 más frecuentes, ~22 falacias canónicas con definición + ejemplo + cómo refutar, y práctica diaria de 30 días con auto-test. Acá pasás de "identificar familia" a "nombrar la falacia y responderla en una frase".
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 4 semanas (10-15 min/día)</span> · <span>:material-progress-check: Etapa 6/84</span> · <span>:material-bookmark: Manual + práctica</span>
+<span>:material-clock-outline: 4 semanas (10-15 min/día)</span> · <span>:material-progress-check: Etapa 6/85</span> · <span>:material-bookmark: Manual + práctica</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (84 etapas)</span>
+  <span class="g-label">Progreso global (85 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

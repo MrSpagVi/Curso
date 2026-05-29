@@ -7,11 +7,11 @@ title: "Etapa 21 — Smith — La riqueza de las naciones (Libros I y IV)"
 > Leer al verdadero Smith — filósofo moral, no apologeta del egoísmo — directamente en su prosa, desactivando 200 años de caricatura liberal y marxista.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 35-45 h</span> · <span>:material-progress-check: Etapa 21/84</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 35-45 h</span> · <span>:material-progress-check: Etapa 21/85</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (84 etapas)</span>
+  <span class="g-label">Progreso global (85 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -65,7 +65,7 @@ La respuesta corta de Smith: por la **productividad creciente que genera la divi
 
 ## Salida
 
-Quedás con dos cosas: (1) capacidad de **citar a Smith directamente** sin recurrir a divulgación de segunda mano, lo que te da autoridad en cualquier discusión sobre liberalismo económico; (2) entendimiento de la **teoría del valor-trabajo en su forma embrionaria**, prerrequisito directo para entrar a Marx en la etapa 22 sin perderte. Si alguien te dice "Smith dijo que el mercado se autorregula", podés responder con cita y página.
+Quedás con dos cosas: (1) capacidad de **citar a Smith directamente** sin recurrir a divulgación de segunda mano, lo que te da autoridad en cualquier discusión sobre liberalismo económico; (2) entendimiento de la **teoría del valor-trabajo en su forma embrionaria**, prerrequisito directo para entrar a Marx en la etapa 23 sin perderte. Si alguien te dice "Smith dijo que el mercado se autorregula", podés responder con cita y página.
 
 ## Recursos
 

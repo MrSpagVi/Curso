@@ -88,6 +88,14 @@ def render_markdown():
         "",
         f"_Última actualización: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}_",
         "",
+        '!!! tip "Ritual mensual — #actualidad"',
+        "    El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí "
+        "**300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? "
+        "¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que "
+        "venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. "
+        "Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a "
+        "Maquiavelo, es leer el presente con él.",
+        "",
     ]
 
     for name, url in FEEDS:

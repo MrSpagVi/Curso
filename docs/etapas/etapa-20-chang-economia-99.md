@@ -7,11 +7,11 @@ title: "Etapa 20 — Chang — Economía para el 99% (10 caps. seleccionados)"
 > Antídoto contra la economía-mito: aprendés a ver la economía como **decisiones políticas con consecuencias técnicas**, no como ciencia natural neutra.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 6-8 h</span> · <span>:material-progress-check: Etapa 20/84</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 6-8 h</span> · <span>:material-progress-check: Etapa 20/85</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (84 etapas)</span>
+  <span class="g-label">Progreso global (85 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -22,7 +22,7 @@ title: "Etapa 20 — Chang — Economía para el 99% (10 caps. seleccionados)"
 
 **Ha-Joon Chang** (Seúl, 1963) es economista coreano formado en Cambridge UK, donde enseñó durante tres décadas. Hoy es probablemente el economista heterodoxo más influyente vivo. Su experiencia personal lo marca: Corea del Sur pasó de tercer mundo a primer mundo entre 1960 y 1990 con políticas **activamente proteccionistas e industriales**, no con libre mercado. Eso le permitió detectar la **brecha entre lo que las economías centrales practicaron históricamente y lo que predican hoy a las periferias**.
 
-Esta etapa abre la Fase 2 (Economía política) y funciona como **puerta de entrada heterodoxa**: antes de meterte con Smith (etapa 21) y Marx (etapa 22) en su prosa original, Chang te entrena a desconfiar de los axiomas que la divulgación liberal presenta como "técnicos". La tesis central recorre toda su obra: la economía nunca fue una ciencia natural neutra; siempre fue política con disfraz técnico.
+Esta etapa abre la Fase 2 (Economía política) y funciona como **puerta de entrada heterodoxa**: antes de meterte con Smith (etapa 21) y Marx (etapa 23) en su prosa original, Chang te entrena a desconfiar de los axiomas que la divulgación liberal presenta como "técnicos". La tesis central recorre toda su obra: la economía nunca fue una ciencia natural neutra; siempre fue política con disfraz técnico.
 
 El libro existe en dos versiones equivalentes para este propósito: *23 cosas que no te cuentan sobre el capitalismo* (2010) y *Economía para el 99%* (2014). Cualquiera sirve. La selección de capítulos abajo está basada en *23 cosas*.
 

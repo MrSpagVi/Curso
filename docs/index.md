@@ -12,7 +12,7 @@ hide:
   <div class="hero-cta-pair">
     <a href="etapas/etapa-01-setup-sistema-de-notas/" class="g-btn g-btn-primary hero-cta-link hero-cta-xl">▶ Empezar — Etapa 1</a>
   </div>
-  <p class="hero-promise">Una sola ruta lineal — sin elecciones, sin ramas, sin atajos. 84 etapas en orden. Cada etapa: leé todo el contenido, marcá los checkboxes, pasás a la siguiente. Diseñado para pausarse y retomarse: si parás 3 semanas, retomás donde quedaste.</p>
+  <p class="hero-promise">Una sola ruta lineal — sin elecciones, sin ramas, sin atajos. 85 etapas en orden. Cada etapa: leé todo el contenido, marcá los checkboxes, pasás a la siguiente. Diseñado para pausarse y retomarse: si parás 3 semanas, retomás donde quedaste.</p>
 </div>
 
 ---
@@ -21,7 +21,7 @@ hide:
 
 Un curso completo de autoestudio para construir cultura política, filosófica, económica y social desde cero — al nivel de un estudiante avanzado de licenciatura más un módulo de especialización (Ciclo III).
 
-**No es un MOOC con videos**. Es un syllabus secuencial donde leés libros primarios (Maquiavelo · Hobbes · Locke · Rousseau · Mill · Marx · Weber · Foucault · Rawls · Gramsci · Mariátegui · Bueno · Dussel · Cusicanqui · Polanyi · Bourdieu · Hall · Zuboff · etc.) con un método propio que combina:
+**No es un MOOC con videos**. Es un syllabus secuencial donde leés libros primarios (Maquiavelo · Hobbes · Locke · Rousseau · Mill · Hegel · Marx · Weber · Foucault · Rawls · Gramsci · Mariátegui · Bueno · Dussel · Cusicanqui · Polanyi · Bourdieu · Hall · Zuboff · etc.) con un método propio que combina:
 
 - **Lectura activa** (Adler — *Cómo leer un libro*) — subrayar 2-3 frases por página, reformular al margen, las 4 preguntas que se le hacen a un libro.
 - **Sistema de notas Zettelkasten** — literature notes por libro + notas permanentes propias conectadas entre sí.
@@ -33,7 +33,7 @@ Un curso completo de autoestudio para construir cultura política, filosófica, 
 
 ## Objetivo final
 
-Al cerrar las 84 etapas (~36 meses a 3-5 h/semana):
+Al cerrar las 85 etapas (~36 meses a 3-5 h/semana):
 
 1. **Vocabulario sólido** en pensamiento político, filosófico, económico y cultural occidental e iberoamericano.
 2. **Capacidad de leer textos primarios densos** sin necesidad de intermediarios (Hobbes, Marx, Foucault, Rawls, Bourdieu).
@@ -54,7 +54,7 @@ Al cerrar las 84 etapas (~36 meses a 3-5 h/semana):
 - **Salida** (qué sabés/tenés al cerrarla).
 - **Recursos** (links a versiones gratuitas: Wikisource · Project Gutenberg · Yale Open Courses · archive.org · Marxists.org).
 
-La barra de progreso global suma los checkboxes de las 84 etapas y se guarda en tu navegador (localStorage).
+La barra de progreso global suma los checkboxes de las 85 etapas y se guarda en tu navegador (localStorage).
 
 ---
 
@@ -64,13 +64,13 @@ La barra de progreso global suma los checkboxes de las 84 etapas y se guarda en 
 |---|---|---|
 | **Métodos didácticos** | 1-6 | Setup notas · Tutorial 30 días · Adler · Schopenhauer · CrashCourse falacias · Manual falacias |
 | **Fase 1 — Filosofía clásica** | 7-19 | Platón · Aristóteles · Maquiavelo · Hobbes · Rousseau · Mill · Locke · Tocqueville · Pocock |
-| **Fase 2 — Economía política** | 20-24 | Chang · Smith · Marx · Harvey · Mariátegui |
-| **Fase 3 — Sociopolítica s.XX** | 25-34 | Weber · Foucault · Rawls · Berlin · Habermas · Lenin · Gramsci · Hayek · Popper · Nozick |
-| **Fase 4 — Iberoamericana** | 35-51 | Bolívar · Martí · Rodó · Vasconcelos · Paz · Galeano · Bueno · Echeverría · Dussel · Quijano · Cusicanqui · Freire · Gutiérrez · González · Lugones · Gago · Segato |
-| **Fase 5 — Síntesis global + tesina** | 52-66 | Wallerstein · Mearsheimer · Agamben · Mbembe · novela · relectura · Gandhi · Confucio · Sen · Hardt/Negri · Wang Hui · Maruyama · Ambedkar · ensayo + grabación |
-| **Ciclo III M5 — Política social** | 67-71 | Marshall · Polanyi · Esping-Andersen · Filgueira · tesina M5 |
-| **Ciclo III M6 — Cultura** | 72-78 | Williams · Benjamin · Bourdieu · Hall · García Canclini · Martín-Barbero · Zuboff |
-| **Temas-bisagra + tesina final** | 79-84 | Neoliberalismo · Ciudadanía · Trabajo · Estado · Desigualdad · Tesina 8-10k |
+| **Fase 2 — Economía política** | 20-25 | Chang · Smith · Hegel · Marx · Harvey · Mariátegui |
+| **Fase 3 — Sociopolítica s.XX** | 26-35 | Weber · Foucault · Rawls · Berlin · Habermas · Lenin · Gramsci · Hayek · Popper · Nozick |
+| **Fase 4 — Iberoamericana** | 36-52 | Bolívar · Martí · Rodó · Vasconcelos · Paz · Galeano · Bueno · Echeverría · Dussel · Quijano · Cusicanqui · Freire · Gutiérrez · González · Lugones · Gago · Segato |
+| **Fase 5 — Síntesis global + tesina** | 53-67 | Wallerstein · Mearsheimer · Agamben · Mbembe · novela · relectura · Gandhi · Confucio · Sen · Hardt/Negri · Wang Hui · Maruyama · Ambedkar · ensayo + grabación |
+| **Ciclo III M5 — Política social** | 68-72 | Marshall · Polanyi · Esping-Andersen · Filgueira · tesina M5 |
+| **Ciclo III M6 — Cultura** | 73-79 | Williams · Benjamin · Bourdieu · Hall · García Canclini · Martín-Barbero · Zuboff |
+| **Temas-bisagra + tesina final** | 80-85 | Neoliberalismo · Ciudadanía · Trabajo · Estado · Desigualdad · Tesina 8-10k |
 
 ---
 

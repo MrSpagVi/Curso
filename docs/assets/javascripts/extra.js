@@ -46,93 +46,94 @@
     });
   }
 
-  // ---------- Tronco único — global progress (84 etapas) ----------
-  // Totals are hardcoded — if you edit checkbox counts in an etapa file, update here too.
+  // ---------- Tronco único — global progress (85 etapas) ----------
+  // Totales curados (excluyen checkboxes de rúbrica). Regenerar con scripts/regen_etapas_js.py.
   const ETAPAS = [
-    { slug: 'etapa-01-setup-sistema-de-notas',                total: 6 },
-    { slug: 'etapa-02-tutorial-tomar-notas',                  total: 4 },
-    { slug: 'etapa-03-adler-como-leer-un-libro',              total: 5 },
-    { slug: 'etapa-04-schopenhauer-arte-tener-razon',         total: 4 },
-    { slug: 'etapa-05-crashcourse-falacias',                  total: 4 },
-    { slug: 'etapa-06-manual-falacias',                       total: 5 },
-    { slug: 'etapa-07-platon-apologia',                       total: 4 },
-    { slug: 'etapa-08-aristoteles-politica',                  total: 4 },
-    { slug: 'etapa-09-maquiavelo-principe',                   total: 5 },
-    { slug: 'etapa-10-yale-maquiavelo',                       total: 3 },
-    { slug: 'etapa-11-hobbes-leviatan',                       total: 5 },
-    { slug: 'etapa-12-yale-hobbes',                           total: 3 },
-    { slug: 'etapa-13-rousseau-contrato-social',              total: 5 },
-    { slug: 'etapa-14-yale-rousseau',                         total: 3 },
-    { slug: 'etapa-15-mill-sobre-la-libertad',                total: 5 },
-    { slug: 'etapa-16-sandel-justice',                        total: 3 },
-    { slug: 'etapa-17-locke-segundo-tratado',                 total: 5 },
-    { slug: 'etapa-18-tocqueville-democracia-en-america',     total: 5 },
-    { slug: 'etapa-19-pocock-momento-maquiavelico',           total: 5 },
-    { slug: 'etapa-20-chang-economia-99',                     total: 4 },
-    { slug: 'etapa-21-smith-riqueza-naciones',                total: 5 },
-    { slug: 'etapa-22-marx-capital',                          total: 5 },
-    { slug: 'etapa-23-harvey-reading-marx',                   total: 3 },
-    { slug: 'etapa-24-mariategui-7-ensayos',                  total: 4 },
-    { slug: 'etapa-25-weber-politica-vocacion',               total: 4 },
-    { slug: 'etapa-26-foucault',                              total: 5 },
-    { slug: 'etapa-27-rawls-teoria-justicia',                 total: 5 },
-    { slug: 'etapa-28-berlin-dos-conceptos',                  total: 4 },
-    { slug: 'etapa-29-habermas-esfera-publica',               total: 4 },
-    { slug: 'etapa-30-lenin-imperialismo',                    total: 4 },
-    { slug: 'etapa-31-gramsci-cuadernos',                     total: 5 },
-    { slug: 'etapa-32-hayek-camino-servidumbre',              total: 4 },
-    { slug: 'etapa-33-popper-sociedad-abierta',               total: 5 },
-    { slug: 'etapa-34-nozick-anarquia-estado-utopia',         total: 4 },
-    { slug: 'etapa-35-bolivar-carta-jamaica',                 total: 4 },
-    { slug: 'etapa-36-marti-nuestra-america',                 total: 4 },
-    { slug: 'etapa-37-rodo-ariel',                            total: 4 },
-    { slug: 'etapa-38-vasconcelos-raza-cosmica',              total: 4 },
-    { slug: 'etapa-39-paz-laberinto-soledad',                 total: 5 },
-    { slug: 'etapa-40-galeano-venas-abiertas',                total: 5 },
-    { slug: 'etapa-41-bueno-mito-izquierda',                  total: 5 },
-    { slug: 'etapa-42-echeverria-modernidad-blanquitud',      total: 4 },
-    { slug: 'etapa-43-dussel-1492',                           total: 5 },
-    { slug: 'etapa-44-quijano-colonialidad',                  total: 3 },
-    { slug: 'etapa-45-cusicanqui-chixinakax',                 total: 4 },
-    { slug: 'etapa-46-freire-pedagogia-oprimido',             total: 5 },
-    { slug: 'etapa-47-gutierrez-teologia-liberacion',         total: 4 },
-    { slug: 'etapa-48-gonzalez-feminismo-afrolatinoamericano',total: 3 },
-    { slug: 'etapa-49-lugones-heterosexualismo',              total: 3 },
-    { slug: 'etapa-50-gago-potencia-feminista',               total: 4 },
-    { slug: 'etapa-51-segato-guerra-mujeres',                 total: 4 },
-    { slug: 'etapa-52-wallerstein-sistemas-mundo',            total: 4 },
-    { slug: 'etapa-53-mearsheimer-great-power',               total: 5 },
-    { slug: 'etapa-54-agamben',                               total: 4 },
-    { slug: 'etapa-55-mbembe-necropolitica',                  total: 4 },
-    { slug: 'etapa-56-novela-politica',                       total: 3 },
-    { slug: 'etapa-57-relectura-activa',                      total: 3 },
-    { slug: 'etapa-58-gandhi-hind-swaraj',                    total: 4 },
-    { slug: 'etapa-59-confucio-analectas',                    total: 4 },
-    { slug: 'etapa-60-sen-identidad-violencia',               total: 4 },
-    { slug: 'etapa-61-hardt-negri-imperio',                   total: 5 },
-    { slug: 'etapa-62-wang-hui',                              total: 4 },
-    { slug: 'etapa-63-maruyama',                              total: 4 },
-    { slug: 'etapa-64-ambedkar-annihilation-caste',           total: 4 },
-    { slug: 'etapa-65-ensayo-final',                          total: 5 },
-    { slug: 'etapa-66-grabacion-final',                       total: 4 },
-    { slug: 'etapa-67-marshall-ciudadania',                   total: 4 },
-    { slug: 'etapa-68-polanyi-gran-transformacion',           total: 5 },
-    { slug: 'etapa-69-esping-andersen',                       total: 4 },
-    { slug: 'etapa-70-filgueira-universalismo-basico',        total: 4 },
-    { slug: 'etapa-71-tesina-m5',                             total: 5 },
-    { slug: 'etapa-72-williams-marxismo-literatura',          total: 4 },
-    { slug: 'etapa-73-benjamin-obra-arte',                    total: 4 },
-    { slug: 'etapa-74-bourdieu-distincion',                   total: 5 },
-    { slug: 'etapa-75-hall-encoding-decoding',                total: 3 },
-    { slug: 'etapa-76-garcia-canclini-culturas-hibridas',     total: 4 },
-    { slug: 'etapa-77-martin-barbero',                        total: 4 },
-    { slug: 'etapa-78-zuboff-vigilancia',                     total: 5 },
-    { slug: 'etapa-79-ensayo-neoliberalismo',                 total: 4 },
-    { slug: 'etapa-80-ensayo-ciudadania',                     total: 4 },
-    { slug: 'etapa-81-ensayo-trabajo',                        total: 4 },
-    { slug: 'etapa-82-ensayo-estado',                         total: 4 },
-    { slug: 'etapa-83-ensayo-desigualdad',                    total: 4 },
-    { slug: 'etapa-84-tesina-final',                          total: 6 }
+    { slug: 'etapa-01-setup-sistema-de-notas', total: 6 },
+    { slug: 'etapa-02-tutorial-tomar-notas', total: 4 },
+    { slug: 'etapa-03-adler-como-leer-un-libro', total: 5 },
+    { slug: 'etapa-04-schopenhauer-arte-tener-razon', total: 4 },
+    { slug: 'etapa-05-crashcourse-falacias', total: 4 },
+    { slug: 'etapa-06-manual-falacias', total: 5 },
+    { slug: 'etapa-07-platon-apologia', total: 4 },
+    { slug: 'etapa-08-aristoteles-politica', total: 4 },
+    { slug: 'etapa-09-maquiavelo-principe', total: 5 },
+    { slug: 'etapa-10-yale-maquiavelo', total: 3 },
+    { slug: 'etapa-11-hobbes-leviatan', total: 5 },
+    { slug: 'etapa-12-yale-hobbes', total: 3 },
+    { slug: 'etapa-13-rousseau-contrato-social', total: 5 },
+    { slug: 'etapa-14-yale-rousseau', total: 3 },
+    { slug: 'etapa-15-mill-sobre-la-libertad', total: 5 },
+    { slug: 'etapa-16-sandel-justice', total: 3 },
+    { slug: 'etapa-17-locke-segundo-tratado', total: 5 },
+    { slug: 'etapa-18-tocqueville-democracia-en-america', total: 5 },
+    { slug: 'etapa-19-pocock-momento-maquiavelico', total: 6 },
+    { slug: 'etapa-20-chang-economia-99', total: 4 },
+    { slug: 'etapa-21-smith-riqueza-naciones', total: 5 },
+    { slug: 'etapa-22-hegel-fenomenologia', total: 5 },
+    { slug: 'etapa-23-marx-capital', total: 5 },
+    { slug: 'etapa-24-harvey-reading-marx', total: 3 },
+    { slug: 'etapa-25-mariategui-7-ensayos', total: 5 },
+    { slug: 'etapa-26-weber-politica-vocacion', total: 4 },
+    { slug: 'etapa-27-foucault', total: 5 },
+    { slug: 'etapa-28-rawls-teoria-justicia', total: 6 },
+    { slug: 'etapa-29-berlin-dos-conceptos', total: 4 },
+    { slug: 'etapa-30-habermas-esfera-publica', total: 5 },
+    { slug: 'etapa-31-lenin-imperialismo', total: 4 },
+    { slug: 'etapa-32-gramsci-cuadernos', total: 5 },
+    { slug: 'etapa-33-hayek-camino-servidumbre', total: 4 },
+    { slug: 'etapa-34-popper-sociedad-abierta', total: 5 },
+    { slug: 'etapa-35-nozick-anarquia-estado-utopia', total: 5 },
+    { slug: 'etapa-36-bolivar-carta-jamaica', total: 4 },
+    { slug: 'etapa-37-marti-nuestra-america', total: 4 },
+    { slug: 'etapa-38-rodo-ariel', total: 4 },
+    { slug: 'etapa-39-vasconcelos-raza-cosmica', total: 4 },
+    { slug: 'etapa-40-paz-laberinto-soledad', total: 5 },
+    { slug: 'etapa-41-galeano-venas-abiertas', total: 5 },
+    { slug: 'etapa-42-bueno-mito-izquierda', total: 5 },
+    { slug: 'etapa-43-echeverria-modernidad-blanquitud', total: 4 },
+    { slug: 'etapa-44-dussel-1492', total: 5 },
+    { slug: 'etapa-45-quijano-colonialidad', total: 3 },
+    { slug: 'etapa-46-cusicanqui-chixinakax', total: 4 },
+    { slug: 'etapa-47-freire-pedagogia-oprimido', total: 5 },
+    { slug: 'etapa-48-gutierrez-teologia-liberacion', total: 4 },
+    { slug: 'etapa-49-gonzalez-feminismo-afrolatinoamericano', total: 3 },
+    { slug: 'etapa-50-lugones-heterosexualismo', total: 3 },
+    { slug: 'etapa-51-gago-potencia-feminista', total: 4 },
+    { slug: 'etapa-52-segato-guerra-mujeres', total: 5 },
+    { slug: 'etapa-53-wallerstein-sistemas-mundo', total: 4 },
+    { slug: 'etapa-54-mearsheimer-great-power', total: 5 },
+    { slug: 'etapa-55-agamben', total: 4 },
+    { slug: 'etapa-56-mbembe-necropolitica', total: 4 },
+    { slug: 'etapa-57-novela-politica', total: 3 },
+    { slug: 'etapa-58-relectura-activa', total: 3 },
+    { slug: 'etapa-59-gandhi-hind-swaraj', total: 4 },
+    { slug: 'etapa-60-confucio-analectas', total: 4 },
+    { slug: 'etapa-61-sen-identidad-violencia', total: 4 },
+    { slug: 'etapa-62-hardt-negri-imperio', total: 5 },
+    { slug: 'etapa-63-wang-hui', total: 4 },
+    { slug: 'etapa-64-maruyama', total: 4 },
+    { slug: 'etapa-65-ambedkar-annihilation-caste', total: 5 },
+    { slug: 'etapa-66-ensayo-final', total: 5 },
+    { slug: 'etapa-67-grabacion-final', total: 4 },
+    { slug: 'etapa-68-marshall-ciudadania', total: 4 },
+    { slug: 'etapa-69-polanyi-gran-transformacion', total: 5 },
+    { slug: 'etapa-70-esping-andersen', total: 4 },
+    { slug: 'etapa-71-filgueira-universalismo-basico', total: 4 },
+    { slug: 'etapa-72-tesina-m5', total: 5 },
+    { slug: 'etapa-73-williams-marxismo-literatura', total: 4 },
+    { slug: 'etapa-74-benjamin-obra-arte', total: 4 },
+    { slug: 'etapa-75-bourdieu-distincion', total: 5 },
+    { slug: 'etapa-76-hall-encoding-decoding', total: 3 },
+    { slug: 'etapa-77-garcia-canclini-culturas-hibridas', total: 4 },
+    { slug: 'etapa-78-martin-barbero', total: 4 },
+    { slug: 'etapa-79-zuboff-vigilancia', total: 5 },
+    { slug: 'etapa-80-ensayo-neoliberalismo', total: 4 },
+    { slug: 'etapa-81-ensayo-ciudadania', total: 4 },
+    { slug: 'etapa-82-ensayo-trabajo', total: 4 },
+    { slug: 'etapa-83-ensayo-estado', total: 4 },
+    { slug: 'etapa-84-ensayo-desigualdad', total: 4 },
+    { slug: 'etapa-85-tesina-final', total: 6 },
   ];
 
   function etapaPathCandidates(slug) {
@@ -230,10 +231,47 @@
     localStorage.setItem(FLAG, '1');
   }
 
+  // ---------- Migration v2 → v3 (insercion de Hegel en etapa 22) ----------
+  // Al insertar Hegel como etapa 22, las etapas 22-84 pasaron a 23-85 (slug = num+1,
+  // mismo sufijo). El slug viejo de cada etapa >=23 es (num-1) con identico sufijo.
+  function migrateCursoTaskStateV3() {
+    const FLAG = 'lp.tasks.migrated.v3';
+    if (localStorage.getItem(FLAG)) return;
+    const prefix = location.pathname.startsWith('/Libros-Politica') ? '/Libros-Politica' : '';
+    ETAPAS.forEach(e => {
+      const m = e.slug.match(/^etapa-(\d+)-(.+)$/);
+      if (!m) return;
+      const num = parseInt(m[1], 10);
+      if (num < 23) return; // 1-21 no se movieron; 22 es Hegel nuevo (sin datos previos)
+      const oldSlug = `etapa-${String(num - 1).padStart(2, '0')}-${m[2]}`;
+      const candidates = [
+        `lp.tasks.${prefix}/etapas/${oldSlug}/`,
+        `lp.tasks.${prefix}/etapas/${oldSlug}`,
+        `lp.tasks./etapas/${oldSlug}/`,
+        `lp.tasks./etapas/${oldSlug}`
+      ];
+      for (const k of candidates) {
+        const raw = localStorage.getItem(k);
+        if (!raw) continue;
+        try {
+          const old = JSON.parse(raw);
+          if (old && typeof old === 'object' && Object.keys(old).length > 0) {
+            const target = `lp.tasks.${prefix}/etapas/${e.slug}/`;
+            const existing = loadJSON(target, {});
+            saveJSON(target, Object.assign({}, existing, old));
+          }
+        } catch (err) { /* ignore */ }
+      }
+      // No borramos las claves viejas — red de seguridad.
+    });
+    localStorage.setItem(FLAG, '1');
+  }
+
   // ---------- Boot ----------
 
   function boot() {
     migrateCursoTaskState();
+    migrateCursoTaskStateV3();
     persistTaskLists();
     setupCursoGlobalProgress();
   }

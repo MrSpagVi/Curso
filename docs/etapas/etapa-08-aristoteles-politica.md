@@ -7,11 +7,11 @@ title: "Etapa 8 — Aristóteles — Política (selección Libros I, III, VII)"
 > El vocabulario fundacional de la filosofía política: hombre como *zoon politikón*, tipología de regímenes y concepto de *politeia*. Sin Aristóteles, Maquiavelo, Hobbes y Rousseau quedan sin marco de referencia.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 8/84</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 8/85</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (84 etapas)</span>
+  <span class="g-label">Progreso global (85 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

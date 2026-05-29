@@ -7,11 +7,11 @@ title: "Etapa 13 — Rousseau — Contrato social (Libros I-IV)"
 > El texto que inventa el republicanismo democrático moderno. Rousseau acepta el problema de Hobbes (necesitamos un contrato) pero rechaza su solución (soberano absoluto). Su alternativa — la voluntad general como soberano — es la base intelectual de toda democracia post-1789.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 12-18 h</span> · <span>:material-progress-check: Etapa 13/84</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 12-18 h</span> · <span>:material-progress-check: Etapa 13/85</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (84 etapas)</span>
+  <span class="g-label">Progreso global (85 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

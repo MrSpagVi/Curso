@@ -7,11 +7,11 @@ title: "Etapa 5 — CrashCourse Philosophy — falacias"
 > Serie de YouTube de Hank Green sobre filosofía. Cubre lógica, argumentación y falacias en episodios de 8-12 min. Es la primera vez en el plan que la herramienta es **video**, no texto. Sirve como repaso visual y rápido antes del manual escrito de la etapa 6.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 4 h (8-10 videos + notas)</span> · <span>:material-progress-check: Etapa 5/84</span> · <span>:material-bookmark: Video curso</span>
+<span>:material-clock-outline: 4 h (8-10 videos + notas)</span> · <span>:material-progress-check: Etapa 5/85</span> · <span>:material-bookmark: Video curso</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (84 etapas)</span>
+  <span class="g-label">Progreso global (85 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

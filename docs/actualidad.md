@@ -8,6 +8,9 @@ title: Actualidad
 
 _Última actualización: 2026-05-28 09:56 UTC_
 
+!!! tip "Ritual mensual — #actualidad"
+    El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
+
 ## Real Instituto Elcano
 
 _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.org/feed/](https://www.realinstitutoelcano.org/feed/)_
