@@ -18,6 +18,21 @@ title: "Etapa 11 — Hobbes — Leviatán (selección caps. 13-21)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Leviathan</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1651</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Cambridge University Press (ed. Richard Tuck) / *Leviatán* (Alianza Editorial / Tecnos)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 ### Quién fue Hobbes

@@ -18,6 +18,21 @@ title: "Etapa 21 — Smith — La riqueza de las naciones (Libros I y IV)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Wealth of Nations</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1776</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">University of Chicago Press (ed. Edwin Cannan) / *La riqueza de las naciones* (Alianza Editorial)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Adam Smith** (Kirkcaldy, Escocia, 1723 — Edimburgo, 1790) era profesor de filosofía moral en Glasgow, no economista (la disciplina aún no existía). *An Inquiry into the Nature and Causes of the Wealth of Nations* se publica en **1776**, el mismo año de la independencia de EE.UU. Smith tiene 53 años y arrastra una obra anterior decisiva: *La teoría de los sentimientos morales* (1759), donde sostenía que la **simpatía** — la capacidad de ponerse en el lugar del otro — es el motor moral fundamental del ser humano. Sin ese libro previo, *Wealth of Nations* se malinterpreta.

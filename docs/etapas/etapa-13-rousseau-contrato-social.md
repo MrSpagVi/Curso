@@ -18,6 +18,21 @@ title: "Etapa 13 — Rousseau — Contrato social (Libros I-IV)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Social Contract</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1762</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Cambridge University Press / *El contrato social* (Alianza Editorial)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 ### Quién fue Rousseau

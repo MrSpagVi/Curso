@@ -18,6 +18,21 @@ title: "Etapa 55 — Agamben — Homo Sacer / Estado de excepción"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Homo Sacer: Sovereign Power and Bare Life</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1995</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Stanford University Press / *Homo Sacer: El poder soberano y la nuda vida* (Pre-Textos)</span>
+  </div>
+</div>
+
 !!! info "Bloque temático — bisagra B (crítica decolonial del poder soberano)"
     Esta etapa abre el bloque B de Fase 5: **la crítica al poder soberano contemporáneo**. Agamben construye el puente entre Schmitt (Fase 3), Foucault (Bloque XX-Tardío) y Mbembe (etapa siguiente). Sin él, los tres se leen sueltos; con él, son una sola cadena teórica para entender Guantánamo, las fronteras del Mediterráneo, los campos de refugiados, Gaza, el Darién.
 

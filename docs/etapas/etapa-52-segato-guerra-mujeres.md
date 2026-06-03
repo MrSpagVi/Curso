@@ -18,6 +18,21 @@ title: "Etapa 52 — Segato — La guerra contra las mujeres"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The War Against Women</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2016</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Prometeo Libros (Original en español)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Cierre del **bloque E — Feminismo LATAM (etapas 48-51)** y cierre de toda la **Fase 4**. Segato es probablemente **la antropóloga latinoamericana viva más influyente** y su teoría del feminicidio es **la más aplicada hoy en políticas públicas latinoamericanas contra violencia de género**.

@@ -18,6 +18,21 @@ title: "Etapa 22 — Hegel — Fenomenología del Espíritu + Filosofía del der
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Phenomenology of Spirit</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1807</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Oxford University Press (trad. A.V. Miller) / *Fenomenología del espíritu* (FCE)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Georg Wilhelm Friedrich Hegel** (Stuttgart, 1770 — Berlín, 1831, muerto en una epidemia de cólera) es el cierre del **idealismo alemán**, la corriente que arranca con Kant y pasa por Fichte y Schelling. Es, junto a Kant, el filósofo más influyente del siglo XIX, y la bisagra obligada para entender lo que viene después: Marx, el existencialismo, la fenomenología del siglo XX, buena parte del pensamiento de izquierda y de derecha. No se puede leer a Marx en serio sin haber pasado por Hegel, porque Marx escribió *El Capital* con un método que tomó prestado de acá y dijo explícitamente haber "invertido".

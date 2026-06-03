@@ -18,6 +18,21 @@ title: "Etapa 66 — Maruyama — Pensamiento político de Japón moderno"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Studies in the Intellectual History of Tokugawa Japan</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1952 (en japonés)</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Princeton University Press (trad. Mikiso Hane)</span>
+  </div>
+</div>
+
 !!! info "Bloque temático — Japón moderno dentro del bloque no-occidental"
     Bloque no-occidental, etapa 6 de 7. Tras Confucio (fundación clásica del este de Asia) y Wang Hui (China contemporánea), **Maruyama es Japón**. La pregunta es brutal: cómo un país que adoptó instituciones modernas (constitución, parlamento, ejército) **terminó produciendo el militarismo ultranacionalista de los años 30-40, las masacres en China y el ataque a Pearl Harbor**. Maruyama responde desde dentro — no desde el orientalismo de los vencedores. Tras esta etapa cierra el bloque con Ambedkar (India crítica) y arranca la producción propia.
 

@@ -18,6 +18,21 @@ title: "Etapa 61 — Gandhi — Hind Swaraj"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Hind Swaraj or Indian Home Rule</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1909</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Cambridge University Press (ed. Anthony J. Parel) / *Hind Swaraj o el autogobierno de la India* (Navajivan Trust)</span>
+  </div>
+</div>
+
 !!! info "Bloque temático — apertura del bloque no-occidental de Fase 5 (etapas 58-64)"
     Empieza el bloque más ambicioso de Fase 5: **salir definitivamente del eje euro-iberoamericano** y mirar el mundo no-occidental. La secuencia es coherente:
     

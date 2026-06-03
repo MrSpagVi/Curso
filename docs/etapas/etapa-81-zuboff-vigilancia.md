@@ -18,6 +18,21 @@ title: "Etapa 81 — Zuboff — La era del capitalismo de la vigilancia (selecci
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Age of Surveillance Capitalism</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2019</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">PublicAffairs / *La era del capitalismo de la vigilancia* (Ediciones Paidós)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Shoshana Zuboff** (1951- ) es profesora emérita de Harvard Business School, especialista en transformación digital del trabajo desde los 80 (*In the Age of the Smart Machine*, 1988). *The Age of Surveillance Capitalism* (2019) es su libro mayor: ~700 pp construyendo el concepto de capitalismo de vigilancia como **nueva lógica de acumulación**, distinta del capitalismo industrial clásico y del posfordismo de servicios.

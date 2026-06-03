@@ -18,6 +18,21 @@ title: "Etapa 19 — Pocock — El momento maquiavélico (selección)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Machiavellian Moment</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1975</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Princeton University Press / *El momento maquiavélico* (Editorial Tecnos)</span>
+  </div>
+</div>
+
 !!! warning "Nivel licenciatura avanzada"
     Esta etapa es la más densa de Fase 1. **Requisitos previos no negociables:** haber leído *El Príncipe* y los *Discursos* (Etapa 9-10), tener referencias claras de Aristóteles (Etapa 8), Hobbes (Etapa 11) y Locke (Etapa 17). Familiaridad mínima con el Renacimiento italiano y la Inglaterra del XVII. Si llegás sin eso, Pocock será incomprensible — no por su prosa, sino por la cantidad de referencias que asume conocidas. **Considerá hacer esta etapa al final de Fase 1**, no en medio.
 

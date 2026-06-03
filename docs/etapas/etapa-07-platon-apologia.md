@@ -18,6 +18,21 @@ title: "Etapa 7 — Platón — Apología de Sócrates"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Apology of Socrates (or *Apology*)</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">c. 399 a.C.</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Hackett Publishing (*Plato: Complete Works*) / *Apología de Sócrates* (Gredos)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 ### Quién fue Sócrates (y por qué Platón lo escribe)

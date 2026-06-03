@@ -18,6 +18,21 @@ title: "Etapa 71 — Polanyi — La gran transformación (caps. 4, 6, 11-14)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Great Transformation</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1944</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Beacon Press / *La gran transformación* (Fondo de Cultura Económica)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Karl Polanyi (1886-1964)** era economista e historiador húngaro-vienés, formado en la Viena roja de entreguerras, exiliado en Inglaterra y luego en Estados Unidos. *La gran transformación* la escribió en **1944** en EE.UU., en plena Segunda Guerra. El libro es a la vez **explicación histórica** del siglo XIX y **diagnóstico** del colapso 1914-1944: las dos guerras mundiales y la Gran Depresión son, para Polanyi, **el costo de haber intentado un mercado totalmente autorregulado**.

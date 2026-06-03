@@ -18,6 +18,21 @@ title: "Etapa 56 — Frantz Fanon — Los condenados de la tierra"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Wretched of the Earth</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1961</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Grove Press (trad. Richard Philcox) / *Los condenados de la tierra* (Fondo de Cultura Económica)</span>
+  </div>
+</div>
+
 ## Contexto
 
 ### Quién fue Frantz Fanon y el contexto de 1961

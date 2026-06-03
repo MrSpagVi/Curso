@@ -18,6 +18,21 @@ title: "Etapa 54 — Mearsheimer — The Tragedy of Great Power Politics"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Tragedy of Great Power Politics</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2001</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">W. W. Norton & Company / *La tragedia de la política de las grandes potencias* (Malpaso)</span>
+  </div>
+</div>
+
 !!! info "Bloque temático — geopolítica del bloque A de Fase 5"
     Wallerstein (etapa 53) dio el plano sistémico. Mearsheimer pone los actores: Estados que compiten por poder relativo dentro de un sistema sin autoridad superior. **Es el contrapunto realista a Hobbes (estado de naturaleza) y al Estado moderno (Maquiavelo, Hobbes, Weber) aplicado al sistema internacional.** Después vendrán Agamben y Mbembe a mostrar lo que esta mirada deja afuera (las vidas administradas como muerte). Las tres miradas, juntas, son la geopolítica del siglo XXI.
 

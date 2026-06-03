@@ -18,6 +18,21 @@ title: "Etapa 48 — Gutiérrez — Teología de la liberación (selección)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>A Theology of Liberation: History, Politics, and Salvation</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1971</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Orbis Books (trad. Caridad Inda & John Eagleton) / *Teología de la liberación: Perspectivas* (CEP / Centro de Estudios y Publicaciones)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Cierre del **bloque D — Las cinco emancipaciones (etapas 46-47)**. Junto a Freire (pedagogía), Gutiérrez (teología) son las dos puertas para entender el momento latinoamericano de los 70 — momento de creación intelectual original tan denso como el europeo de los 60.

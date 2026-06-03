@@ -18,6 +18,21 @@ title: "Etapa 18 — Tocqueville — La democracia en América (selección)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Democracy in America</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">Vol. I (1835), Vol. II (1840)</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">University of Chicago Press (trad. Harvey Mansfield & Delba Winthrop) / *La democracia en América* (Alianza / Trotta)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 ### Quién fue Tocqueville

@@ -89,6 +89,7 @@ extra_javascript:
 
 nav:
   - Inicio: index.md
+  - Mejoras Académicas: mejoras_academicas.md
   - Actualidad: actualidad.md
   - "Fase 0 — Métodos (etapas 1-6)":
       - "1 · Setup del sistema de notas": etapas/etapa-01-setup-sistema-de-notas.md

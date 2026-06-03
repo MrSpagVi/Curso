@@ -18,6 +18,21 @@ title: "Etapa 20 — Chang — Economía para el 99% (10 caps. seleccionados)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Economics: The User's Guide</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2014</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Pelican Books / *Economía: Instrucciones de uso* (Debate)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Ha-Joon Chang** (Seúl, 1963) es economista coreano formado en Cambridge UK, donde enseñó durante tres décadas. Hoy es probablemente el economista heterodoxo más influyente vivo. Su experiencia personal lo marca: Corea del Sur pasó de tercer mundo a primer mundo entre 1960 y 1990 con políticas **activamente proteccionistas e industriales**, no con libre mercado. Eso le permitió detectar la **brecha entre lo que las economías centrales practicaron históricamente y lo que predican hoy a las periferias**.

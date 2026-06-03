@@ -18,6 +18,21 @@ title: "Etapa 15 — Mill — Sobre la libertad"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>On Liberty</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1859</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Oxford World's Classics / *Sobre la libertad* (Alianza Editorial)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 ### Quién fue Mill

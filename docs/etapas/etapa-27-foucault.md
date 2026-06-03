@@ -18,6 +18,21 @@ title: "Etapa 27 — Foucault — Vigilar y castigar / Nacimiento de la biopolí
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Discipline and Punish: The Birth of the Prison</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1975</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Vintage Books / *Vigilar y castigar: Nacimiento de la prisión* (Siglo XXI Editores)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Michel Foucault (1926-1984)** fue filósofo, historiador y crítico francés, probablemente el pensador más influyente de la segunda mitad del siglo XX. Hijo de una familia burguesa de Poitiers, formado en la École Normale Supérieure de París (donde también enseñaron Sartre, Althusser, Derrida), pasó por una juventud psicológicamente turbulenta (intentos de suicidio, terapia, descubrimiento de su homosexualidad en una Francia que aún la penalizaba parcialmente). Su carrera intelectual atravesó tres "fases" reconocibles: la **arqueología** (años 60: *Las palabras y las cosas*, *La arqueología del saber*), la **genealogía** (años 70: *Vigilar y castigar*, *Historia de la sexualidad I*, cursos del Collège de France) y la **ética del sujeto** (años 80: *Historia de la sexualidad II y III*, cursos finales sobre el cuidado de sí). Murió en 1984 por complicaciones del sida, uno de los primeros intelectuales públicos en hacerlo.

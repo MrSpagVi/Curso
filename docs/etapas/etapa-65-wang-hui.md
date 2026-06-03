@@ -18,6 +18,21 @@ title: "Etapa 65 — Wang Hui — El nuevo orden de China"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>China's New Order</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2003</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Harvard University Press / *El nuevo orden de China* (Fondo de Cultura Económica)</span>
+  </div>
+</div>
+
 !!! info "Bloque temático — China contemporánea dentro del bloque no-occidental"
     Bloque no-occidental, etapa 5 de 7. Tras Confucio (fundación China, 2500 años atrás), Wang Hui es **China hoy**. Lo emparejás con Mearsheimer (etapa 54) para entender la **rivalidad EE.UU.-China sin orientalismo**: la mirada de un intelectual chino crítico al propio régimen pero también a la lectura occidental simplista (totalitarismo vs democracia, mercado vs Estado). Después viene Maruyama (Japón moderno, etapa 64), cerrando la mirada al este de Asia.
 

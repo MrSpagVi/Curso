@@ -18,6 +18,21 @@ title: "Etapa 41 — Galeano — Las venas abiertas de América Latina"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Open Veins of Latin America: Five Centuries of the Pillage of a Continent</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1971</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Monthly Review Press (trad. Cedric Belfrage) / *Las venas abiertas de América Latina* (Siglo XXI Editores)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Cierre del **bloque A — Clásicos LATAM**. Galeano traduce a divulgación masiva la **teoría de la dependencia** (Marini, Cardoso, Furtado) que circulaba en círculos académicos desde los 60.

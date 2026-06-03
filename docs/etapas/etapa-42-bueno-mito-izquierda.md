@@ -18,6 +18,21 @@ title: "Etapa 42 — Bueno — El mito de la izquierda (selección)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Myth of the Left (No official English translation)</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2003</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Ediciones Pentalfa (Original en español)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Apertura del **bloque B — Materialismo Filosófico (etapas 41-42)**: la tradición ibero-marxista. Bueno y Echeverría leen Latinoamérica desde una posición filosófica robusta que **no es ni decolonialidad ni liberalismo anglosajón**. Materialismo Filosófico (con mayúsculas) es la escuela; **es nombre propio, no descripción genérica**. Bueno la fundó en Oviedo en los 70 y produjo discípulos (Carlos Madrid, Pedro Insua, Santiago Armesilla, Iván Vélez).

@@ -18,6 +18,21 @@ title: "Etapa 73 — Filgueira et al. — Universalismo básico en América Lati
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Basic Universalism in Latin America</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2004</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Documento de Trabajo del BID (Original en español)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Fernando Filgueira** (1965- ) es sociólogo uruguayo, ex-subsecretario de Educación de Uruguay (gobierno Mujica), investigador en CIESU y consultor de CEPAL, BID y UNICEF. Es la voz teórica más sólida del **universalismo básico** como propuesta de política social para América Latina.

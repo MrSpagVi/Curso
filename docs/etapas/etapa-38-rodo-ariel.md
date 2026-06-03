@@ -18,6 +18,21 @@ title: "Etapa 38 — Rodó — Ariel"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Ariel</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1900</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">University of Texas Press (trad. Margaret Sayers Peden) / *Ariel* (Colección Cátedra / Biblioteca Ayacucho)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Tercera etapa del **bloque A — Clásicos LATAM**. Rodó continúa la línea Bolívar → Martí pero la inflexa hacia el **espiritualismo culturalista** que Martí había evitado.

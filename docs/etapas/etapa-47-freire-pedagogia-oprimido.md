@@ -18,6 +18,21 @@ title: "Etapa 47 — Freire — Pedagogía del oprimido (caps. 1-2)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Pedagogy of the Oppressed</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1968 (en manuscrito portugués), 1970 (primera publicación oficial)</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Continuum (trad. Myra Bergman Ramos) / *Pedagogía del oprimido* (Siglo XXI Editores)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Apertura del **bloque D — Las cinco emancipaciones (etapas 46-47)**: el giro latinoamericano simultáneo de los 70 que produjo pedagogía, teología, dependencia, comunicología y filosofía de la liberación. Las dos etapas (Freire + Gutiérrez) son la entrada a esa onda.

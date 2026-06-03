@@ -18,6 +18,21 @@ title: "Etapa 32 — Gramsci — Cuadernos desde la prisión (selección Hoare-S
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Prison Notebooks</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">Escritos entre 1929-1935 (publicados póstumamente 1948-1951)</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">International Publishers (trad. Quintin Hoare) / *Cuadernos de la cárcel* (Ediciones Era)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Antonio Gramsci (1891-1937)** fue intelectual, periodista y dirigente comunista italiano, fundador del Partido Comunista Italiano (PCI) en 1921 y su Secretario General desde 1924. Nacido en Cerdeña en una familia modesta, con una deformidad en la columna producto de un accidente o enfermedad infantil que le causó dolor permanente y baja estatura, ascendió por mérito intelectual hasta la Universidad de Turín, donde se sumergió en el movimiento obrero industrial del norte italiano. Vivió el "Biennio Rosso" (1919-1920) — la oleada de huelgas, ocupaciones de fábricas y consejos obreros que casi llegó a la revolución en Italia — y vio su derrota a manos del fascismo de Mussolini. Diputado del PCI en 1924, fue arrestado en 1926 a pesar de su inmunidad parlamentaria. El fiscal Michele Isgrò dijo en el juicio: **"Debemos impedir que este cerebro funcione durante veinte años."** Lo condenaron a 20 años, 4 meses y 5 días.

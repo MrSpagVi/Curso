@@ -18,6 +18,21 @@ title: "Etapa 35 — Nozick — Anarquía, Estado y utopía (Partes I y III)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Anarchy, State, and Utopia</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1974</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Basic Books / *Anarquía, Estado y utopía* (Fondo de Cultura Económica)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Robert Nozick (1938-2002)** fue filósofo estadounidense, profesor en Harvard desde 1969 hasta su muerte. Hijo de un inmigrante judío ruso fabricante de pantalones en Brooklyn, prodigio académico desde temprano. Estudió en Columbia (BA) y Princeton (PhD bajo Carl Hempel, filosofía analítica de la ciencia), llegó a Harvard a los 30 años — uno de los profesores más jóvenes en obtener la cátedra (tenure) en la historia del departamento. Activista de la nueva izquierda en su juventud (anarquista, opositor a la guerra de Vietnam), derivó hacia el libertarismo después de leer a Mises, Hayek, Rothbard y Ayn Rand. **Anarquía, Estado y utopía (1974) fue su primer libro y único trabajo de filosofía política**; después se dedicó a epistemología, metafísica y filosofía de la mente (*Philosophical Explanations* 1981, *The Examined Life* 1989, *The Nature of Rationality* 1993). Murió a los 63 años de cáncer de estómago.

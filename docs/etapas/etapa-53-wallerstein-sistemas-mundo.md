@@ -18,6 +18,21 @@ title: "Etapa 53 — Wallerstein — Análisis de sistemas-mundo (selección)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>World-Systems Analysis: An Introduction</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2004</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Duke University Press / *Análisis de sistemas-mundo: Una introducción* (Siglo XXI Editores)</span>
+  </div>
+</div>
+
 !!! info "Arranque del bloque temático — Fase 5: síntesis global y voz propia"
     Esta es la etapa de apertura de la fase de cierre. Las próximas 14 etapas tienen un objetivo común: **salir del eje euro-iberoamericano que dominó las Fases 1-4 y mirar el mundo entero** (geopolítica, África, Asia, novela política), para terminar produciendo material propio (ensayo + grabación). Wallerstein es el plano de coordenadas que ordena todo lo que viene.
 

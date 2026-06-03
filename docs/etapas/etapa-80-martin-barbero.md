@@ -18,6 +18,21 @@ title: "Etapa 80 — Martín-Barbero — De los medios a las mediaciones (Parte 
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Communication, Culture and Hegemony: From the Media to Mediations</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1987</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">SAGE Publications (trad. Elizabeth Fox & Robert A. White) / *De los medios a las mediaciones* (Gustavo Gili / Convenio Andrés Bello)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Jesús Martín-Barbero (1937-2021)** era español-colombiano, profesor en la Universidad del Valle (Cali) durante décadas, después en ITESO (Guadalajara). Junto con García Canclini (etapa 77) fundó la **escuela latinoamericana de comunicación y cultura**.

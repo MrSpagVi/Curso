@@ -18,6 +18,21 @@ title: "Etapa 33 — Hayek — Camino de servidumbre (caps. 1, 3, 5-7)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Road to Serfdom</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1944</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">University of Chicago Press (Definitive Edition) / *Camino de servidumbre* (Alianza Editorial)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Friedrich August von Hayek (1899-1992)** fue economista, jurista y filósofo político austríaco-británico, premio Nobel de Economía 1974 (compartido con Gunnar Myrdal), figura clave de la **Escuela Austríaca de Economía** y del neoliberalismo del siglo XX. Nacido en Viena en una familia de la nobleza académica imperial, combatió en el frente italiano durante la Primera Guerra Mundial, estudió en la Universidad de Viena con Friedrich von Wieser y conoció tempranamente a **Ludwig von Mises**, el austríaco que sería su maestro filosófico. En los años 20-30 trabajó en Viena como director del Instituto Austríaco de Investigación Económica; emigró a Londres en 1931 invitado por Lionel Robbins a la London School of Economics, donde mantuvo durante esa década **el debate más importante de la historia de la economía del siglo XX con John Maynard Keynes**.

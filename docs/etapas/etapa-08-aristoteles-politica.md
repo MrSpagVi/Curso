@@ -18,6 +18,21 @@ title: "Etapa 8 — Aristóteles — Política (selección Libros I, III, VII)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Politics</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">c. 350 a.C.</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Oxford World's Classics / *Política* (Gredos)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 ### Quién fue Aristóteles

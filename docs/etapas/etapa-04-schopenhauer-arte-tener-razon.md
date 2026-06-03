@@ -18,6 +18,21 @@ title: "Etapa 4 — Schopenhauer — El arte de tener razón"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Art of Being Right (also published as *The Art of Controversy*)</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1831 (publicado póstumamente en 1864)</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Gibson Square / *El arte de tener razón* (Alianza Editorial)</span>
+  </div>
+</div>
+
 ## Contexto
 
 ### El libro

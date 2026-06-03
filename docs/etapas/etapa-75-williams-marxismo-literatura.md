@@ -18,6 +18,21 @@ title: "Etapa 75 — Williams — Marxismo y literatura"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Marxism and Literature</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1977</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Oxford University Press / *Marxismo y literatura* (Editorial Península)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Raymond Williams (1921-1988)** era profesor de literatura en Cambridge, hijo de obrero ferroviario galés. Junto con Richard Hoggart y E.P. Thompson fundó los **Cultural Studies** ingleses — la tradición de Birmingham que después continúa Stuart Hall. *Marxismo y literatura* (1977) es su libro más teórico: el intento de reconciliar herencia marxista con una concepción robusta de la cultura.

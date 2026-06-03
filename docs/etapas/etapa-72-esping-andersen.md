@@ -18,6 +18,21 @@ title: "Etapa 72 — Esping-Andersen — Los tres mundos del Estado del bienesta
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Three Worlds of Welfare Capitalism</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1990</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Princeton University Press / *Los tres mundos del Estado del bienestar* (Institución Alfonso el Magnánimo)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Gøsta Esping-Andersen** (1947- ) es sociólogo danés formado entre Copenhague y la Universidad de Wisconsin-Madison. Publica *The Three Worlds of Welfare Capitalism* en **1990**, después de una década de Reagan-Thatcher y en el momento en que el "fin de la historia" amenaza con borrar las diferencias entre modelos sociales. Su tesis va a contracorriente: **las variedades importan más que nunca**, porque revelan que el welfare no es destino económico sino **elección política cristalizada en instituciones**.

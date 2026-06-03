@@ -18,6 +18,21 @@ title: "Etapa 39 — Vasconcelos — La raza cósmica"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Cosmic Race</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1925</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Johns Hopkins University Press (trad. Didier T. Jaén) / *La raza cósmica* (Espasa-Calpe)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Cuarta etapa del **bloque A — Clásicos LATAM**. Vasconcelos continúa la línea Rodó pero en clave de **síntesis mestiza** en vez de latinidad pura. Es el momento del libro más ambicioso (y problemático) sobre la identidad latinoamericana.

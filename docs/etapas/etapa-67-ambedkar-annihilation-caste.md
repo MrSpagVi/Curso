@@ -18,6 +18,21 @@ title: "Etapa 67 — Ambedkar — Annihilation of Caste"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Annihilation of Caste</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1936</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Verso Books (Definitive Annotated Critical Edition, ed. S. Anand)</span>
+  </div>
+</div>
+
 !!! info "Bloque temático — cierre del bloque no-occidental (etapa 65, última del bloque)"
     Última etapa del bloque no-occidental (58-64). Ambedkar es el **contrapunto INTERNO** a Gandhi (etapa 59): el debate más serio dentro de India sobre qué significa descolonización real. Después de esta etapa empieza la producción propia: ensayo final (etapa 66) y grabación oral (etapa 67). Comprometete con leer este libro — es corto (~80 pp) pero **redefine** cómo leés todo el bloque India y todo el debate decolonial del plan.
 

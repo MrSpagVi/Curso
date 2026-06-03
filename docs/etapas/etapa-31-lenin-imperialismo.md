@@ -18,6 +18,21 @@ title: "Etapa 31 — Lenin — El imperialismo, fase superior del capitalismo"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Imperialism, the Highest Stage of Capitalism</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1917</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">International Publishers / *El imperialismo, fase superior del capitalismo* (Akal / Progreso)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Vladímir Ilich Uliánov, "Lenin" (1870-1924)** fue revolucionario, teórico y estadista ruso, líder del Partido Bolchevique y arquitecto de la Revolución de Octubre de 1917. Nacido en Simbirsk en una familia de clase media educada, su hermano mayor Aleksandr fue ejecutado en 1887 por conspirar para asesinar al zar Alejandro III — episodio que marcó al joven Lenin para siempre. Formado como abogado, leyó a Marx en su juventud y abandonó la práctica jurídica para dedicarse a la militancia revolucionaria. Pasó largos años en exilio (Londres, Suiza, París, Cracovia), produciendo una obra teórica monumental — *¿Qué hacer?* (1902), *Materialismo y empiriocriticismo* (1909), *El imperialismo, fase superior del capitalismo* (1916), *El Estado y la revolución* (1917). Tras la Revolución de Octubre dirigió el primer Estado socialista durante seis años, hasta los derrames cerebrales sucesivos que lo incapacitaron y mataron en 1924.

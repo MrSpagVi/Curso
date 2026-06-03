@@ -18,6 +18,21 @@ title: "Etapa 34 — Popper — La sociedad abierta y sus enemigos"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Open Society and Its Enemies</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1945</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Princeton University Press / *La sociedad abierta y sus enemigos* (Paidós)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Karl Raimund Popper (1902-1994)** fue filósofo de la ciencia y filósofo político austríaco-británico, una de las figuras intelectuales más importantes del siglo XX. Nacido en Viena en una familia judía asimilada de origen burgués (su padre era abogado y bibliófilo apasionado), pasó la juventud en círculos socialistas vieneses pero rompió con el marxismo a los 17 años tras presenciar un episodio violento. Estudió matemáticas, física y filosofía en la Universidad de Viena; participó tangencialmente en el Círculo de Viena (positivismo lógico) aunque su filosofía de la ciencia — el **falsacionismo** de *La lógica de la investigación científica* (1934) — los criticaba. Tras el Anschluss nazi de 1938 huyó con su esposa a Nueva Zelanda, donde dio clases en el Canterbury College de Christchurch entre 1937 y 1945. Tras la guerra se mudó a Londres (London School of Economics, invitado por Hayek), donde permaneció hasta su muerte. Fue maestro de generaciones de filósofos políticos y de la ciencia (Lakatos, Feyerabend, John Watkins, William Bartley) y figura central de la Sociedad Mont Pelerin con Hayek.

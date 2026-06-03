@@ -18,6 +18,21 @@ title: "Etapa 62 — Confucio — Analectas (selección)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Analects of Confucius (or *The Analects*)</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">c. 500 - 400 a.C.</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Penguin Classics (trad. D.C. Lau) / *Analectas* (EDAF / Alianza Editorial)</span>
+  </div>
+</div>
+
 !!! info "Bloque temático — segunda etapa del bloque no-occidental (etapas 58-64)"
     Tras Gandhi (India anticolonial moderna, etapa 59), salto temporal y geográfico enorme: **2500 años atrás, en China feudal**. Confucio es la base sobre la que se construyeron las civilizaciones políticas del este de Asia. Sin él, Wang Hui (China contemporánea, etapa 63) y Maruyama (Japón moderno, etapa 64) son ilegibles. Es un anclaje de larga duración para entender la mitad del mundo.
 

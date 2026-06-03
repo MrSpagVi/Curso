@@ -18,6 +18,21 @@ title: "Etapa 40 — Paz — El laberinto de la soledad"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Labyrinth of Solitude</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1950</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Grove Press (trad. Lysander Kemp) / *El laberinto de la soledad* (Cátedra / Fondo de Cultura Económica)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Quinta etapa del **bloque A — Clásicos LATAM**. Si Vasconcelos (etapa 39) celebró el mestizaje como destino glorioso, Paz lo lee 25 años después en clave pesimista: el mestizaje produjo soledad, no raza cósmica. La herida sigue abierta.

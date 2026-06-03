@@ -18,6 +18,21 @@ title: "Etapa 23 — Marx — El Capital Libro I (caps. 1, 4, 24)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Capital: Volume I</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1867</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Penguin Classics (trad. Ben Fowkes) / *El Capital: Tomo I* (Siglo XXI Editores)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Karl Marx** (Tréveris, Prusia renana, 1818 — Londres, 1883) publica el Libro I de *Das Kapital* en **Hamburgo, septiembre de 1867**. Tiene 49 años y llega a esa publicación tras dos décadas de exilio londinense, pobreza extrema (tres hijos muertos por enfermedades de la miseria) y sostén económico de Friedrich Engels, que le pasa dinero mientras él pasa años enteros en la sala de lectura del British Museum. Marx murió en 1883 sin terminar los Libros II y III, que Engels publicó póstumamente reconstruyéndolos de manuscritos.

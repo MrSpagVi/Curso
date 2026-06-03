@@ -18,6 +18,21 @@ title: "Etapa 51 — Gago — La potencia feminista"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Feminist International: How to Change Everything</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2019</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Verso Books (trad. Liz Mason-Deese) / *La potencia feminista, o el deseo de cambiarlo todo* (Tinta Limón)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Tercera etapa del **bloque E — Feminismo LATAM (etapas 48-51)**. Si González (etapa 49) y Lugones (etapa 50) fueron los marcos teóricos fundantes, Gago captura **el feminismo latinoamericano del XXI en su momento más potente**: Ni Una Menos, las huelgas feministas, las marchas masivas, el aborto legal en Argentina.

@@ -18,6 +18,21 @@ title: "Etapa 77 — Bourdieu — La distinción (caps. 1 y 3)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Distinction: A Social Critique of the Judgement of Taste</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1979</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Harvard University Press (trad. Richard Nice) / *La distinción: Criterios y bases sociales del gusto* (Taurus)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Pierre Bourdieu (1930-2002)**, hijo de cartero pueblerino del Béarn rural, llegó al Collège de France a partir del sistema educativo francés meritocrático de posguerra. **Su biografía es su sociología**: vivió el ascenso por la educación y entendió cómo ese sistema reproduce desigualdad **al mismo tiempo** que pretende corregirla.

@@ -18,6 +18,21 @@ title: "Etapa 64 — Hardt and Negri — Imperio (caps. 1-4)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Empire</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2000</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Harvard University Press / *Imperio* (Paidós)</span>
+  </div>
+</div>
+
 !!! info "Bloque temático — síntesis posmarxista occidental dentro del bloque no-occidental"
     Bloque no-occidental, etapa 4 de 7 (58-64). Después de Gandhi, Confucio y Sen, **Hardt y Negri son la pieza occidental** — pero no para volver al centro: para mostrar cómo la teoría posmarxista occidental contemporánea **dialoga con el sur global**. *Imperio* fue best-seller mundial, traducido a 20 lenguas, leído tanto en Buenos Aires como en Tokio. Es el contrapunto de **síntesis** a Mearsheimer (etapa 54): donde el realismo ve grandes potencias compitiendo, Hardt/Negri ven una red sin centro identificable.
 

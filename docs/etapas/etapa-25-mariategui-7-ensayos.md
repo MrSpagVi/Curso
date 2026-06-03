@@ -18,6 +18,21 @@ title: "Etapa 25 — Mariátegui — 7 Ensayos de interpretación (II-III)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Seven Interpretive Essays on Peruvian Reality</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1928</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">University of Texas Press (trad. Marjory Urquidi) / *7 ensayos de interpretación de la realidad peruana* (Biblioteca Ayacucho / Amauta)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **José Carlos Mariátegui** (Moquegua, Perú, 1894 — Lima, 1930) escribió y publicó los *7 ensayos de interpretación de la realidad peruana* en **Lima, 1928**. Tenía 34 años. Moriría dos años después, a los 35, de complicaciones de la tuberculosis que arrastraba desde la infancia. Su biografía pesa en la lectura: era **autodidacta sin estudios universitarios** (la enfermedad le impidió escolarización completa), había trabajado de tipógrafo y periodista desde los 14 años, perdió una pierna por una osteomielitis infantil mal tratada, **escribió la mayor parte de los 7 Ensayos con medio cuerpo paralizado y dolor crónico**. Es probablemente el intelectual latinoamericano más brillante del siglo XX, y construyó su obra en condiciones físicas que aniquilarían a cualquiera.

@@ -18,6 +18,21 @@ title: "Etapa 79 — García Canclini — Culturas híbridas (selección)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Hybrid Cultures: Strategies for Entering and Leaving Modernity</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1989</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">University of Minnesota Press (trad. Christopher L. Chiappari & Silvia L. López) / *Culturas híbridas* (Grijalbo / FCE)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Néstor García Canclini** (1939- ) es antropólogo y sociólogo argentino, exiliado en México desde 1976. Profesor en la UAM-Iztapalapa, formado entre Buenos Aires, La Plata y París (donde estudió con Ricoeur). Es la voz teórica más influyente de los **estudios culturales latinoamericanos** contemporáneos.

@@ -18,6 +18,21 @@ title: "Etapa 30 — Habermas — Esfera pública (selección)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Structural Transformation of the Public Sphere</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1962</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">MIT Press / *Historia y crítica de la opinión pública* (Editorial Gustavo Gili)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Jürgen Habermas (1929-)** es filósofo y sociólogo alemán, heredero crítico de la Escuela de Frankfurt y probablemente el intelectual público europeo más influyente desde los años 60 hasta hoy. Nació en Düsseldorf, fue **adolescente bajo el nazismo** (afiliado a las Juventudes Hitlerianas como casi todos los chicos de su generación; rechazó violentamente esa identificación después de la guerra al conocer la magnitud del Holocausto). Esta biografía explica el corazón de su obra: **filosofía construida para que el nazismo no vuelva a pasar**. Estudió con Adorno y Horkheimer en Frankfurt en los años 50, pero rompió con su pesimismo radical: donde Adorno veía razón irrecuperablemente colonizada por el dominio (la *Dialéctica de la Ilustración*), Habermas insiste en que hay un tipo de razón — la **comunicativa** — que puede fundamentar normativamente una democracia genuina. Activo intelectualmente más de seis décadas, autor de obras mayores como *Historia y crítica de la opinión pública* (1962, este libro), *Teoría de la acción comunicativa* (1981), *Facticidad y validez* (1992).

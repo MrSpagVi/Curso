@@ -18,6 +18,21 @@ title: "Etapa 44 — Dussel — 1492: el encubrimiento del Otro"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>The Invention of the Americas: Eclipse of "the Other" and the Myth of Modernity</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1992</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Continuum (trad. Michael D. Barber) / *1492: El encubrimiento del Otro* (Plural Editores)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 Apertura del **bloque C — Decolonial (etapas 43-45)**. Estas tres se leen como conjunto: Dussel funda la Filosofía de la Liberación, Quijano sistematiza la "colonialidad del poder", Cusicanqui **critica desde dentro** a los decoloniales tipo Mignolo. La tensión interna del bloque es la clave.

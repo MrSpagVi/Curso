@@ -18,6 +18,21 @@ title: "Etapa 63 — Sen — Identidad y violencia"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Identity and Violence: The Illusion of Destiny</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">2006</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">W. W. Norton & Company / *Identidad y violencia: La ilusión del destino* (Taurus)</span>
+  </div>
+</div>
+
 !!! info "Bloque temático — síntesis liberal-asiática del bloque no-occidental"
     Sen es la **síntesis liberal indio-bengalí** del bloque: viene tras Gandhi (anticolonialismo radical) y Confucio (jerarquía moral), y antes de Hardt/Negri (síntesis posmarxista occidental). Aporta una mirada que no es ni decolonial radical ni realista cínica: liberalismo cosmopolita con anclaje no-occidental, crítico tanto del "Choque de civilizaciones" de Huntington como de los nacionalismos identitarios contemporáneos (incluido el Hindutva en su propio país).
 

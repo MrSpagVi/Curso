@@ -18,6 +18,21 @@ title: "Etapa 28 — Rawls — Teoría de la Justicia (caps. I y III)"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>A Theory of Justice</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1971</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Harvard University Press (Revised Edition) / *Teoría de la justicia* (Fondo de Cultura Económica)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **John Rawls (1921-2002)** fue filósofo político estadounidense, profesor en Princeton, Cornell, MIT y Harvard (desde 1962 hasta su retiro). Hijo de un abogado de Baltimore, perdió a dos hermanos menores en su infancia (uno contagiado por difteria suya, otro por neumonía) — experiencia que él mencionó como origen de su preocupación por la suerte arbitraria. Combatió en el Pacífico durante la Segunda Guerra Mundial, vio Hiroshima poco después de la bomba, y abandonó el plan original de estudiar teología tras la guerra. Pasó **veinte años** trabajando *Teoría de la Justicia* (publicada en 1971, cuando tenía 50 años); el libro fue revisado y ampliado después en *Liberalismo político* (1993) y *Justicia como equidad: una reformulación* (2001). Hombre extremadamente tímido, casi nunca daba conferencias públicas, raramente concedía entrevistas. Su esposa Margaret tipeaba los manuscritos. **Rawls es el caso paradigmático del filósofo solitario, paciente, sin vida pública** — su obra es producto de dos décadas de pensamiento obsesivo.

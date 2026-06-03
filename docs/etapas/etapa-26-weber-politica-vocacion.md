@@ -18,6 +18,21 @@ title: "Etapa 26 — Weber — La política como vocación"
   <div class="g-progress"><div class="g-progress-bar" id="curso-bar" style="width:0%"></div></div>
 </div>
 
+<div class="book-details-box">
+  <div class="book-detail-item">
+    <span class="book-detail-label">Título en inglés:</span>
+    <span class="book-detail-val"><em>Politics as a Vocation (published in *From Max Weber*)</em></span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Primera publicación:</span>
+    <span class="book-detail-val">1919</span>
+  </div>
+  <div class="book-detail-item">
+    <span class="book-detail-label">Edición recomendada:</span>
+    <span class="book-detail-val">Hackett Publishing (*The Vocation Lectures*) / *La política como vocación* (Alianza Editorial)</span>
+  </div>
+</div>
+
 ## Contexto histórico y teórico
 
 **Max Weber (1864-1920)** fue sociólogo, jurista y economista alemán, uno de los padres fundadores de la sociología moderna junto con Marx y Durkheim. Hijo de un parlamentario nacional-liberal y de una madre calvinista intensa, vivió una crisis nerviosa severa en torno a 1897 que lo dejó incapacitado para enseñar durante años. De esa crisis emergió su obra mayor: *La ética protestante y el espíritu del capitalismo* (1905), *Economía y sociedad* (póstuma, 1922) y las dos conferencias gemelas de Múnich — *La ciencia como vocación* (1917) y **La política como vocación** (enero de 1919).
