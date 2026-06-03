@@ -7,11 +7,11 @@ title: "Etapa 24 — Harvey — Reading Marx's Capital (13 clases video)"
 > El curso companion estándar mundial para no naufragar en *El Capital*. 13 clases de 2 horas cada una, gratis en YouTube, para mirar **en paralelo** a la lectura de Marx (etapa 23).
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 26 h</span> · <span>:material-progress-check: Etapa 24/85</span> · <span>:material-bookmark: Audiovisual</span>
+<span>:material-clock-outline: 26 h</span> · <span>:material-progress-check: Etapa 24/87</span> · <span>:material-bookmark: Audiovisual</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -51,10 +51,10 @@ La regla de oro de esta etapa: **mirá Harvey en paralelo a leer Marx, no antes 
 Harvey es **andamiaje**: te sostiene la lectura, te orienta cuando te perdés, te marca qué importa y qué es relleno argumentativo del XIX. No reemplaza a Marx — lo hace **legible**. Sin Harvey, la tasa de abandono de Marx autodidacta es brutal. Con Harvey, terminás el Libro I.
 
 ## Tareas
-
-- [ ] **Tarea 1 — Mirar clases 1-2 ANTES de abrir Marx (4-5 h):** estas dos clases son **prerrequisito absoluto** de toda la etapa 23. La clase 1 te da el método de lectura; la clase 2 desarma el pasaje más difícil del cap. 1 (la forma del valor). No las saltees ni mires "en diagonal". Tomá notas como si fueras a una clase universitaria — porque lo es.
-- [ ] **Tarea 2 — Mirar clases 3-12 en paralelo a la lectura de Marx (18-20 h):** una clase de Harvey por cada bloque que leés de Marx (etapa 23). Secuencia recomendada: clase 11-12 (acumulación originaria) primero, en paralelo a leer el cap. 24 — porque la etapa 23 te propone arrancar Marx por ahí. Después clase 3 con cap. 4. Después clases 1-2 (releídas) con cap. 1. El resto de clases (4-10) las mirás si decidís ampliar la selección de Marx más allá de los caps. 1, 4, 24 — son opcionales si te quedás con la selección mínima.
-- [ ] **Tarea 3 — Clase 13 al cierre + ficha integradora (3-4 h):** mirá la clase 13 cuando termines Marx. Después escribí una **ficha integradora** de 600 palabras respondiendo: (a) qué tres conceptos de Marx te quedan más claros gracias a Harvey, (b) en qué punto Harvey "moderniza" a Marx (su concepto de **acumulación por desposesión**, su geografía urbana del capital), (c) una crítica al estilo pedagógico de Harvey si la tenés (algunos lo encuentran lento; otros, indispensable).
+- [ ] Ver las 13 videoclases de David Harvey correspondientes a los caps. 1, 4 y 24 de El Capital.
+- [ ] **El Capitaloceno (Jason W. Moore):** Desarrollar en 300 palabras la diferencia entre la tesis del "Antropoceno" y la del "Capitaloceno" de Jason W. Moore, explicando cómo la acumulación por desposesión de Harvey opera a través del despojo y apropiación de "naturalezas baratas".
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Marx, Wallerstein).
+- [ ] Escribir nota permanente sobre **acumulación por desposesión en Harvey** (100-300 palabras, conectada — la acumulación originaria como proceso continuo, no histórico del pasado).
 
 ## Cómo se estudia esta etapa
 

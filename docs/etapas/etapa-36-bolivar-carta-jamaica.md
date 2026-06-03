@@ -7,11 +7,11 @@ title: "Etapa 36 — Bolívar — Carta de Jamaica"
 > El documento fundacional de Hispanoamérica pensándose a sí misma. En 15 páginas, un derrotado de 32 años inventa la categoría política "americanos" y predice con precisión cómo serán las repúblicas que todavía no existen.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 2-3 h</span> · <span>:material-progress-check: Etapa 36/85</span> · <span>:material-bookmark: Documento histórico</span>
+<span>:material-clock-outline: 2-3 h</span> · <span>:material-progress-check: Etapa 36/87</span> · <span>:material-bookmark: Documento histórico</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -50,9 +50,10 @@ Esta etapa abre el **bloque A — Clásicos LATAM (etapas 35-40)**: independenci
 *¿Qué destino político posible tienen las repúblicas que están naciendo del imperio español?* Bolívar contesta con un diagnóstico estructural (qué condiciona) y una apuesta (federación continental con ejecutivos fuertes). El texto opera en dos registros simultáneos: análisis sociopolítico y manifiesto programático.
 
 ## Tareas
-
 - [ ] Tarea 1 — Leer la *Carta de Jamaica* completa (PDF Columbia, ~15 pp) en una sola sentada. Marcá las 3 frases que más te llaman la atención.
+- [ ] Tarea 1.5 (Rigor) — Leer fragmentos seleccionados del *Discurso de Angostura* (1819, ~10 pp) analizando la propuesta bolivariana de un poder moral y un senado hereditario frente a Montesquieu.
 - [ ] Tarea 2 — Nota Zettelkasten: *"Bolívar: 'somos un pequeño género humano' — qué significa políticamente"*. Conectá con Rousseau (etapa 13) sobre voluntad general y con futura etapa 37 (Martí).
+- [ ] Tarea 2.5 (Debate Decolonial) — Nota de lectura sobre la exclusión del sujeto indígena y afro en la Carta de Jamaica: ¿cómo dialoga la categoría continental "americanos" con el silenciamiento de las rebeliones indígenas andinas previas (ej. Túpac Amaru II)?
 - [ ] Tarea 3 — Ficha de 300 palabras: ¿qué predijo Bolívar que se cumplió y qué no? Listá 3 aciertos y 1 fallo.
 - [ ] Tarea 4 — Pregunta de retención (sin consultar): explicá en 3 minutos por qué Bolívar quería repúblicas pero temía la "democracia popular". ¿Es contradicción o tensión productiva?
 

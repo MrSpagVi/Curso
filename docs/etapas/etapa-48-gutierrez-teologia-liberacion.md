@@ -7,11 +7,11 @@ title: "Etapa 48 — Gutiérrez — Teología de la liberación (selección)"
 > Perú 1971. Un sacerdote dominico peruano funda la Teología de la Liberación y reescribe el catolicismo latinoamericano. La pobreza no es destino divino — es producto del pecado social estructural. La fe exige opción preferencial por los pobres y compromiso político. Roma lo investigó 20 años sin condenarlo.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 48/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 48/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -53,11 +53,10 @@ Cierre del **bloque D — Las cinco emancipaciones (etapas 46-47)**. Junto a Fre
 *¿Cómo debe ser la teología cristiana si toma en serio la situación de los pobres como realidad histórica, no metafísica?* Gutiérrez responde con una **teología desde la praxis liberadora** que articula fe cristiana, análisis crítico de la realidad y compromiso político transformador.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leer Introducción + Parte I (teología como reflexión) + Parte IV (pobreza y liberación). ~200 pp de la selección. 18-25 h.
-- [ ] Tarea 2 — Nota Zettelkasten: *"Opción preferencial por los pobres — qué hace teológico al concepto (no es solo política de izquierda con palabras religiosas)"*. Conectá con Freire (etapa 47) y con la pareja Bueno/Dussel (etapas 41 y 43).
-- [ ] Tarea 3 — Ficha de 500 palabras: identificá una iniciativa religiosa contemporánea que continúe la tradición liberacionista (Francisco como papa, CEBs activas en Brasil, jesuitas en Centroamérica, comedores comunitarios parroquiales en Argentina). Analizala con categorías de Gutiérrez.
-- [ ] Tarea 4 — Pregunta de retención: ¿la teología de la liberación es "marxismo disfrazado", "cristianismo radical" o "síntesis nueva"? Argumentá. ¿Por qué Roma la persiguió sin condenarla nunca formalmente?
+- [ ] Leer Introducción + Parte I (teología como reflexión) + Parte IV (pobreza y liberación). ~200 pp de la selección.
+- [ ] **Laudato si' (Ecoliberalismo y Fe):** Leer fragmentos clave de la Encíclica *Laudato si'* (2015) del Papa Francisco. Escribir una nota de 300 palabras comparando la noción clásica de "pecado estructural" de Gutiérrez con la noción contemporánea de "crisis social y ambiental integrada" (el clamor de los pobres y el clamor de la tierra).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Freire, Dussel).
+- [ ] Escribir nota permanente sobre **la opción preferencial por los pobres** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

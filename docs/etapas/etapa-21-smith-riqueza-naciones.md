@@ -7,11 +7,11 @@ title: "Etapa 21 — Smith — La riqueza de las naciones (Libros I y IV)"
 > Leer al verdadero Smith — filósofo moral, no apologeta del egoísmo — directamente en su prosa, desactivando 200 años de caricatura liberal y marxista.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 35-45 h</span> · <span>:material-progress-check: Etapa 21/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 35-45 h</span> · <span>:material-progress-check: Etapa 21/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -46,12 +46,10 @@ La selección Libro I + Libro IV es el **consenso académico** (MIT 17.100J, Ada
 La respuesta corta de Smith: por la **productividad creciente que genera la división del trabajo**, sostenida por mercados libres de monopolios y regulada por un Estado que garantiza justicia, infraestructura y educación. El libro es un ataque al mercantilismo y a las élites comerciales privilegiadas, **no al Estado en sí**. Leerlo en primera persona deshace tres siglos de simplificación.
 
 ## Tareas
-
-- [ ] **Tarea 1 — Lectura Libro I caps. 1-5 + 7-8 + 10 (15-18 h):** los fundamentos teóricos. División del trabajo, dinero, valor, salarios y desigualdades laborales. Tomá notas en una sola ficha de Smith. Ritmo realista: **15-18 páginas por hora** de prosa ilustrada del XVIII (es densa por la longitud de las oraciones, no por los conceptos).
-- [ ] **Tarea 2 — Lectura Libro IV cap. 2 + cap. 9 (8-10 h):** el corazón polémico del libro. Cap. 2 contiene la mano invisible; cap. 9 demuele el sistema mercantilista y físiócrata. Leelos con calma — los pasajes citados durante 250 años están acá.
-- [ ] **Tarea 3 — Lectura Libro V cap. 1 partes I y III (6-8 h):** Smith sobre el gasto público y la educación. **Acá está el Smith que la divulgación liberal del XX silenció**: defensa de la educación pública, crítica al embrutecimiento por división del trabajo, justificación de impuestos progresivos.
-- [ ] **Tarea 4 — Ficha de lectura (3-4 h):** una sola ficha con (a) tesis general en 5 líneas, (b) qué es exactamente la mano invisible y en qué contexto aparece, (c) tres pasajes que contradicen la caricatura liberal de Smith con cita textual y referencia (libro/cap), (d) en qué se diferencia el Smith de *Wealth* del Smith de *Sentimientos morales*.
-- [ ] **Tarea 5 — Aplicación contemporánea (3-5 h):** escribí 500 palabras respondiendo: ¿el "neoliberalismo" del siglo XX (Friedman, Thatcher, Reagan, el Consenso de Washington) es Smith puro, Smith deformado o Smith ignorado? Argumentá con citas concretas del Libro IV y del Libro V. Esta pregunta no tiene respuesta única; lo que importa es defenderla con texto.
+- [ ] **Lectura de Selección:** Leer La Riqueza de las Naciones Libro I: Caps. 1 a 3 (división del trabajo), 5 a 8 (precios y salarios); Libro IV: Caps. 1-2 y 9; Libro V: Cap. 1 (gastos del soberano).
+- [ ] **Crítica Feminista (Federici):** Escribir una nota de 300 palabras contrastando la descripción de la división del trabajo en la fábrica de alfileres de Smith con la crítica de la economía política feminista de Silvia Federici (*Calibán y la bruja*) sobre la división sexual y el confinamiento gratuito de las mujeres al trabajo reproductivo doméstico.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Locke, Marx, Chang).
+- [ ] Escribir nota permanente sobre **la división del trabajo en Smith** (100-300 palabras, conectada — las ganancias de productividad y sus límites humanos).
 
 ## Cómo se estudia esta etapa
 

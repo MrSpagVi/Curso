@@ -7,11 +7,11 @@ title: "Etapa 28 — Rawls — Teoría de la Justicia (caps. I y III)"
 > El texto más citado de la filosofía política del siglo XX. Posición original, velo de ignorancia, dos principios de justicia. La base de todo debate contemporáneo sobre justicia distributiva.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 28/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 28/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -65,13 +65,11 @@ Rawls responde a **¿cuáles son los principios de justicia que personas raciona
 Más profundamente, responde a: **¿cómo se justifica filosóficamente una sociedad liberal-democrática redistributiva?** En 1971, esa pregunta era urgente. La izquierda marxista decía que el liberalismo era fachada de la burguesía; la derecha conservadora decía que la redistribución violaba la libertad. Rawls quiere mostrar que **el liberalismo igualitario (libertades + redistribución) tiene fundamento racional propio**, no es un compromiso entre dos extremos.
 
 ## Tareas
-
-- [ ] **Tarea 1 — Lectura del Capítulo I completo** (~6-8 h). "La justicia como equidad" — la introducción donde Rawls expone la idea central, la estrategia del libro, la distinción con utilitarismo. Es el capítulo más legible y absolutamente esencial. Subrayá las definiciones de los dos principios y de los conceptos clave (bienes primarios, posición original, velo). **Ritmo objetivo: 3-4 páginas por hora.** Si vas más rápido, no estás procesando.
-- [ ] **Tarea 2 — Lectura del Capítulo III completo** (~7-10 h). "La posición original" — el corazón teórico del libro. Acá Rawls justifica por qué las partes detrás del velo elegirían sus dos principios y no el utilitarismo. Es más denso que el cap. I. Leélo con la entrada de la Stanford Encyclopedia abierta como apoyo. Apuntá las objeciones que Rawls anticipa y cómo las responde.
-- [ ] **Tarea 3 — Stanford Encyclopedia of Philosophy: entrada "Original Position"** (~2 h). Leéla completa antes o durante el Capítulo III. Es la mejor síntesis disponible y aclara muchas dudas que el libro deja abiertas. En inglés, pero accesible.
-- [ ] **Tarea 4 — Nota permanente sobre los dos principios + principio de diferencia** (~1-2 h). 400-500 palabras. Enunciá ambos principios con tus palabras, explicá por qué la prioridad léxica de la libertad importa, y dá un ejemplo concreto de aplicación del principio de diferencia a un debate fiscal actual (impuesto a la riqueza, asignación universal, herencia). Enlazá con Locke (etapa 17 — propiedad), Mill (etapa 15 — libertad), Sandel (etapa 16 — crítica comunitarista).
-- [ ] **Tarea 5 — Ensayo comparativo Rawls vs. Sandel vs. utilitarismo** (~2-3 h). 700-900 palabras. ¿Qué dice cada uno sobre cómo distribuir bienes en una sociedad justa? Identificá las premisas antropológicas (qué presupone cada uno sobre la naturaleza del sujeto). Cerrá con tu posición provisional argumentada. Este ensayo va a ser referencia cuando llegues a Nozick (etapa 35) — completalo bien.
-- [ ] **Tarea 6 — Companion Kymlicka: el mapa del bloque** (~3-4 h). Leé en paralelo el **capítulo introductorio** de Kymlicka, *Filosofía política contemporánea* (qué es la igualdad como valor común a todas las teorías) **más el capítulo sobre el liberalismo igualitario de Rawls**. No lo leas después de Rawls — leélo *junto* al cap. I. Al terminar, anotá en una sola página las casillas del debate (utilitarismo, Rawls, libertarismo, comunitarismo, feminismo) con una frase por cada una; vas a usar ese mapa de acá hasta Nozick (etapa 35).
+- [ ] **Lectura de Selección:** Leer Teoría de la Justicia Capítulos I (Justicia como equidad), II (Principios), III (Posición original) y secciones selectas de IV y VIII.
+- [ ] **Crítica de Género (Okin):** Leer el Cap. 5 de Susan Moller Okin (*Justice, Gender, and the Family*) y responder en 400 palabras: Si el velo de ignorancia fuera radical e incluyera que las partes no saben su género, ¿por qué estarían obligadas a reestructurar la familia como parte de la "estructura básica de la sociedad", garantizando la remuneración y reparto equitativo del trabajo doméstico?
+- [ ] **Crítica de la Tradición (MacIntyre):** Escribir una nota de 300 palabras evaluando la crítica de Alasdair MacIntyre (*Tras la virtud*) a Rawls: ¿Es posible definir principios de justicia distributiva universales sin partir de una noción compartida de la "vida buena" y de las tradiciones históricas de una comunidad?
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Locke, Rousseau, Nozick, Sandel).
+- [ ] Escribir nota permanente sobre **el velo de ignorancia en Rawls** (100-300 palabras, conectada — el experimento mental de justicia imparcial).
 
 ## Cómo se estudia esta etapa
 

@@ -1,17 +1,17 @@
 ---
-title: "Etapa 76 — Hall — Encoding/Decoding"
+title: "Etapa 78 — Hall — Encoding/Decoding"
 ---
 
-# Etapa 76 — Hall — Encoding/Decoding
+# Etapa 78 — Hall — Encoding/Decoding
 
 > El paper de 15 páginas que rompió el modelo lineal de comunicación. Hall demuestra que el receptor no es pasivo — **negocia activamente** el sentido. Tres posiciones posibles: dominante, negociada, oposicional. Sin Hall, hablar de "consumo cultural" o "audiencias" es asumir audiencia pasiva.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 3-4 h</span> · <span>:material-progress-check: Etapa 76/85</span> · <span>:material-bookmark: Paper</span>
+<span>:material-clock-outline: 3-4 h</span> · <span>:material-progress-check: Etapa 78/87</span> · <span>:material-bookmark: Paper</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -49,10 +49,10 @@ title: "Etapa 76 — Hall — Encoding/Decoding"
 *¿Por qué el mismo mensaje produce reacciones tan distintas en distintas audiencias?* Respuesta de Hall: porque la decodificación es operación activa que depende de las condiciones de producción del receptor, no operación pasiva que recibe el sentido tal cual fue codificado. Esto cambia completamente el estudio de medios — y por extensión, de plataformas.
 
 ## Tareas
-
-- [ ] Leer el paper completo (~15 pp). Dos veces. Primera vuelta para el argumento; segunda para los matices del esquema.
-- [ ] **1 nota permanente** sobre el esquema completo (codificación → mensaje → decodificación con sus 3 posiciones) con diagrama propio.
-- [ ] Aplicar el esquema a **1 mensaje cultural argentino contemporáneo**: ej. un discurso de Milei en cadena, un spot del Banco Nación, una publicidad de YPF. Describir las 3 lecturas posibles (dominante, negociada, oposicional) con audiencias-tipo. Texto de 250 palabras.
+- [ ] **Lectura Completa:** Leer el paper completo (*Encoding/Decoding*, ~15 pp) dos veces.
+- [ ] **Codificación Algorítmica y Plataformas:** Analizar cómo se reconfigura el circuito de codificación/decodificación cuando la distribución cultural está mediada por **algoritmos de optimización de engagement** y burbujas de filtrado (hiper-personalización).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Williams, Benjamin, Bourdieu, Canclini).
+- [ ] Escribir nota permanente sobre **el circuito de codificación/decodificación** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

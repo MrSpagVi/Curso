@@ -7,11 +7,11 @@ title: "Etapa 15 — Mill — Sobre la libertad"
 > El manifiesto más claro del liberalismo clásico. Mill formula el "principio del daño" — la única razón legítima para limitar la libertad individual es prevenir daño a terceros — que sigue siendo el núcleo del debate liberal contemporáneo.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 10-15 h</span> · <span>:material-progress-check: Etapa 15/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 10-15 h</span> · <span>:material-progress-check: Etapa 15/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -60,12 +60,11 @@ Porque Mill cierra Fase 1 con el liberalismo moderno explícito. Porque su tesis
 *¿Cuál es el límite legítimo del poder de la sociedad sobre el individuo?* No de "el Estado" — Mill incluye explícitamente la presión social informal, la opinión pública y la moral imperante como fuentes de coacción. La respuesta — el principio del daño — es la fórmula liberal más influyente jamás escrita.
 
 ## Tareas
-
-- [ ] Leer *Sobre la libertad* completo (~150 pp · texto breve y muy bien estructurado).
-- [ ] Leer al menos los primeros 30 pp de *El utilitarismo* para entender la base ética del libro.
-- [ ] Ver Sandel — Justice Ep. 5 sobre libertarianismo y Mill.
-- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica desde feminismo / decolonialidad + conexiones con Tocqueville, Locke, Berlin, Sandel).
-- [ ] Escribir nota permanente sobre el **principio del daño aplicado a un debate actual** (drogas / lenguaje inclusivo / libertad religiosa) — 100-300 palabras, conectada.
+- [ ] **Lectura Completa:** Leer *Sobre la libertad* completo de principio a fin (es un texto breve, ~100 páginas en ediciones modernas).
+- [ ] **Lectura de Selección (Utilitarismo):** Leer los primeros capítulos de *El utilitarismo* (~30 pp) para comprender la base de utilidad en el sentido más amplio.
+- [ ] **Crítica al Sesgo Imperial/Colonial:** Redactar una nota de 300 palabras respondiendo: ¿Cómo justifica Mill en el Capítulo 1 que el principio del daño (harm principle) y la libertad individual no se aplican a las sociedades "atrasadas" o no civilizadas (ej. India, donde Mill trabajaba para la Compañía de las Indias Orientales)? Contrastalo con la crítica de Uday Mehta en *Liberalism and Empire*.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Hobbes, Locke, Rousseau, Tocqueville, Berlin, Popper, Rawls).
+- [ ] Escribir nota permanente sobre **el principio del daño en Mill** (100-300 palabras, conectada — distinguir de simple "hacer lo que querés").
 
 ## Cómo se estudia esta etapa
 

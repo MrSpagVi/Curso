@@ -7,11 +7,11 @@ title: "Etapa 31 — Lenin — El imperialismo, fase superior del capitalismo"
 > Lenin extiende Marx al sistema mundial. Capitalismo monopolista + capital financiero + reparto colonial. Sin este libro no se entiende la Primera Guerra Mundial ni las descolonizaciones del XX.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 10-14 h</span> · <span>:material-progress-check: Etapa 31/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 10-14 h</span> · <span>:material-progress-check: Etapa 31/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

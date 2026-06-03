@@ -7,11 +7,11 @@ title: "Etapa 29 — Berlin — Dos conceptos de libertad"
 > Un ensayo de 40 páginas que estructura todo el debate liberal del siglo XX. Libertad negativa vs. libertad positiva, y por qué Berlin advierte que la segunda puede conducir al totalitarismo.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 3-4 h</span> · <span>:material-progress-check: Etapa 29/85</span> · <span>:material-bookmark: Ensayo</span>
+<span>:material-clock-outline: 3-4 h</span> · <span>:material-progress-check: Etapa 29/87</span> · <span>:material-bookmark: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

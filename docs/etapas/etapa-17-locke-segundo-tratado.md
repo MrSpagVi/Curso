@@ -7,11 +7,11 @@ title: "Etapa 17 — Locke — Segundo tratado del gobierno civil (selección)"
 > El texto fundacional del liberalismo político. Si Hobbes inventa el contrato pesimista, Locke inventa el contrato emancipatorio: el Estado existe para proteger derechos preexistentes (vida, libertad, propiedad). Sin Locke, no hay constitucionalismo moderno.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 15-22 h</span> · <span>:material-progress-check: Etapa 17/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 15-22 h</span> · <span>:material-progress-check: Etapa 17/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -68,12 +68,11 @@ Porque es **la respuesta liberal a Hobbes** — mismo punto de partida (estado d
 *¿En qué condiciones es legítimo el poder político y cuándo el pueblo tiene derecho a derrocar a su gobierno?* La respuesta lockeana — derechos preexistentes + consentimiento + derecho de resistencia — es la columna vertebral de toda teoría liberal de la legitimidad posterior.
 
 ## Tareas
-
-- [ ] Leer caps. II (estado de naturaleza), V (propiedad — **el más influyente y problemático**), VII-IX (sociedad política, fines del gobierno).
-- [ ] Leer caps. XI-XIV (poderes legislativo, ejecutivo, federativo, prerrogativa) y XIX (disolución del gobierno). Omitir cap. I (refutación de Filmer).
-- [ ] Ver Yale PLSC 114 Lectures 15-17 (Smith sobre Locke).
-- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica fuerte sobre quién cuenta como "individuo" + conexiones con Hobbes refutado, Mill, Jefferson, Marx, decolonialidad).
-- [ ] Escribir nota permanente sobre la **propiedad por mezcla de trabajo** y sus problemas internos (100-300 palabras, conectada).
+- [ ] **Lectura de Selección:** Leer el Segundo Tratado Capítulos 1 a 5 (Estado de naturaleza, guerra, propiedad privada), 7 a 12 (Sociedad civil, fines del gobierno), y 19 (Disolución del gobierno). Omitir cap. I.
+- [ ] **Estudio Audiovisual (Yale):** Ver las clases 15, 16 y 17 de Steven Smith en Yale Open Courses sobre John Locke (Equality and Usurpation, Property and Justice, Toleration and Government) **antes** de leer.
+- [ ] **Crítica al Sesgo Colonial (Despojo de tierras):** Escribir una nota de 350 palabras sobre el Capítulo V ("De la propiedad"): ¿Cómo sirvió la noción lockeana de que el valor de la tierra proviene del trabajo agrícola y la delimitación de tierras yermas (*waste lands*) para legitimar legalmente la expropiación y despojo de los territorios indígenas en América del Norte? Conectalo con la participación de Locke en las Constituciones de Carolina.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Hobbes, Rousseau, Mill, Nozick, Rawls).
+- [ ] Escribir nota permanente sobre **la justificación lockeana de la propiedad privada** (100-300 palabras, conectada — el argumento del trabajo mezclado).
 
 ## Cómo se estudia esta etapa
 

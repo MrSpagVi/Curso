@@ -7,11 +7,11 @@ title: "Etapa 30 — Habermas — Esfera pública (selección)"
 > El concepto que funda la teoría democrática contemporánea: la esfera pública burguesa como espacio de argumentación racional. Base normativa de toda democracia deliberativa, hoy en crisis.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 5-8 h</span> · <span>:material-progress-check: Etapa 30/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 5-8 h</span> · <span>:material-progress-check: Etapa 30/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

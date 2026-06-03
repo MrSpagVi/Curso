@@ -1,17 +1,17 @@
 ---
-title: "Etapa 60 — Confucio — Analectas (selección)"
+title: "Etapa 62 — Confucio — Analectas (selección)"
 ---
 
-# Etapa 60 — Confucio — Analectas (selección Libros I-IV, VI, XII, XV)
+# Etapa 62 — Confucio — Analectas (selección Libros I-IV, VI, XII, XV)
 
 > La base del pensamiento político del este de Asia durante 2500 años. Ni democracia ni autocracia: orden político fundado en el cultivo moral del gobernante. Sin Confucio, China, Corea, Japón y Vietnam son cajas negras.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 60/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 62/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -54,11 +54,10 @@ Hay tres tradiciones rivales en la China clásica que conviene tener presentes: 
 Confucio responde con una arquitectura que ni la filosofía política griega ni la moderna occidental incorporan bien: **cultivo personal + relaciones jerárquicas recíprocas + ritualidad heredada + mandato moral**. La diferencia con Aristóteles (que también valora la virtud) es estructural: Aristóteles desarrolla teoría del régimen (monarquía, aristocracia, democracia); Confucio no se ocupa del régimen sino de la **calidad moral** del que gobierna, sea cual sea la forma.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leé la selección sugerida de los Libros I-IV (sobre *ren* y *junzi*), VI (cultivo personal), XII (gobierno) y XV (sabiduría). ~80 pp. Hay traducción al español gratuita de Suárez Girard. Lectura lenta — los aforismos exigen meditación, no velocidad.
-- [ ] Tarea 2 — **Ejercicio N2 (comprensión):** distinguí en 1 página los conceptos *ren*, *junzi*, *li*, *mandato del Cielo*. Una frase definitoria de cada uno + una cita textual de las Analectas que lo ilustre.
-- [ ] Tarea 3 — **Ejercicio N3 (aplicación):** identificá UN proyecto político actual con resonancias confucianas: la Singapur de Lee Kuan Yew, el "Confucio socialista" invocado por Xi Jinping, el sistema educativo japonés o coreano, las críticas comunitaristas occidentales (MacIntyre, Sandel). ¿Qué toma del confucianismo y qué deja?
-- [ ] Tarea 4 — **Ejercicio N4 (evaluación):** redactá 1-2 páginas: ¿el confucianismo es **compatible con democracia liberal** o requiere otra forma política? Defendé una posición. Pistas: derechos individuales vs. red de deberes; igualdad formal vs. jerarquía recíproca; libertad negativa vs. autocultivo.
+- [ ] **Lectura de Selección:** Leer Analectas Libros I, II, IV, VII, XII y XV.
+- [ ] **Crítica Interna (Legalismo y Movimiento 4 de Mayo):** Contrastar la moralidad ritual confuciana con el realismo autoritario del **Legalismo de Han Fei Zi**, y evaluar la crítica destructiva al confucianismo realizada por **Lu Xun** en *Diario de un loco* (1918). Escribir una nota de 300 palabras.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Platón).
+- [ ] Escribir nota permanente sobre **ren e li en Confucio** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

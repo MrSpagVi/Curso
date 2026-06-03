@@ -7,11 +7,11 @@ title: "Etapa 39 — Vasconcelos — La raza cósmica"
 > En 1925, el arquitecto cultural del México post-revolucionario propone que el mestizaje latinoamericano es el futuro de la humanidad y predice (acertadamente) que el supremacismo nórdico producirá catástrofes. El libro mezcla intuiciones valiosas con eugenesia hoy indefendible.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 10-14 h</span> · <span>:material-progress-check: Etapa 39/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 10-14 h</span> · <span>:material-progress-check: Etapa 39/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -51,9 +51,9 @@ Cuarta etapa del **bloque A — Clásicos LATAM**. Vasconcelos continúa la lín
 *¿Cuál es el destino histórico de las razas y por qué la latinoamericana mestiza es superior?* Vasconcelos responde con una **filosofía de la historia raciológica** que mezcla biología decimonónica, espiritualismo bergsoniano y nacionalismo cultural mexicano.
 
 ## Tareas
-
 - [ ] Tarea 1 — Leer prólogo + ensayo central completo (~150 pp). Si solo querés la tesis, alcanza con prólogo + capítulo 1 (~50 pp).
 - [ ] Tarea 2 — Nota Zettelkasten: *"Vasconcelos: lo visionario (crítica al supremacismo nórdico) y lo indefendible (eugenesia, jerarquía racial provisional)"*. Conectá con Rodó (etapa 38): ¿qué diferencia hay entre "latinidad" rodoniana y "raza cósmica" vasconcelista?
+- [ ] Tarea 2.5 (Crítica Decolonial) — Conectar las presuposiciones de la "Quinta raza" con el ensayo de Silvia Rivera Cusicanqui (etapa 46) respecto a cómo el mestizaje oficial de Estado funciona como un mecanismo de "blanqueamiento obligatorio" que busca disolver la autonomía india.
 - [ ] Tarea 3 — Ficha de 400 palabras: ¿qué partes del libro son utilizables hoy y cuáles hay que descartar críticamente? Distinguí núcleo defendible / lastre indefendible.
 - [ ] Tarea 4 — Pregunta de retención: ¿por qué Mariátegui (etapa 25) y Cusicanqui (etapa 46) van a criticar duro a Vasconcelos? Anticipá las dos críticas.
 

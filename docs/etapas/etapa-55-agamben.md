@@ -7,11 +7,11 @@ title: "Etapa 55 — Agamben — Homo Sacer / Estado de excepción"
 > La vertebración teórica de Fase 5: Schmitt + Foucault + Mbembe convertidos en linaje único. Soberano = quien decide sobre la excepción; *homo sacer* = la vida que puede matarse sin que sea homicidio.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 55/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 55/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

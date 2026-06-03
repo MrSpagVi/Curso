@@ -7,11 +7,11 @@ title: "Etapa 11 — Hobbes — Leviatán (selección caps. 13-21)"
 > El primer modelo riguroso del Estado moderno. Hobbes inventa el contrato social para resolver el problema más urgente de su época: cómo evitar la guerra civil. Toda la teoría política posterior razona dentro de su marco — incluso quienes lo refutan.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 25-35 h</span> · <span>:material-progress-check: Etapa 11/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 25-35 h</span> · <span>:material-progress-check: Etapa 11/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -69,10 +69,9 @@ Porque sin Hobbes no hay debate moderno sobre el Estado. Y porque **el método d
 ¿Por qué los humanos necesitan el Estado y qué tipo de Estado deben aceptar? La respuesta hobbesiana es radical: porque sin Estado nuestra existencia es insoportable, **aceptaríamos racionalmente** entregar todos nuestros derechos a un soberano absoluto a cambio de seguridad. La política empieza con el cálculo de un individuo aterrorizado, no con la sociabilidad aristotélica.
 
 ## Tareas
-
-- [ ] Leer Introducción + Parte I caps. 6, 10, 11, **13** (estado de naturaleza), **14-15** (leyes naturales), 16.
-- [ ] Leer Parte II caps. **17-18** (generación del soberano), 19, 21, 26, 29-30. Omitir Partes III-IV (religión).
-- [ ] Ver Yale PLSC 114 Lectures 12-14 (Smith sobre Hobbes) **antes** de leer los caps. duros.
+- [ ] **Lectura de Selección:** Leer Leviatán Introducción; Parte I caps. 6, 10, 11, 13 (estado de naturaleza), 14-15 (leyes naturales) y 16; Parte II caps. 17-18 (generación del soberano), 19, 21, 26, 29-30. Omitir Partes III-IV (religión).
+- [ ] **Estudio Audiovisual (Yale):** Ver las clases 12, 13 y 14 de Steven Smith en Yale Open Courses sobre Hobbes (Sovereignty and Security, The Social Contract, Individual and Community) **antes** de leer los capítulos.
+- [ ] **Crítica de Género (Pateman):** Escribir una nota de 300 palabras sobre la crítica de Carole Pateman (*El contrato sexual*): ¿Cómo asume Hobbes que el "estado de naturaleza" ya contiene relaciones de dominación patriarcal (esposo sobre esposa, padre sobre hijos) que el contrato civil no disuelve sino que formaliza?
 - [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles refutado, Locke, Rousseau, Weber, Schmitt).
 - [ ] Escribir nota permanente sobre **estado de naturaleza como ficción metodológica** (100-300 palabras, conectada — distinguir explícitamente de "historia").
 

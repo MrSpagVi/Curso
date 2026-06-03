@@ -1,17 +1,17 @@
 ---
-title: "Etapa 70 — Esping-Andersen — Los tres mundos del Estado del bienestar"
+title: "Etapa 72 — Esping-Andersen — Los tres mundos del Estado del bienestar"
 ---
 
-# Etapa 70 — Esping-Andersen — Los tres mundos del Estado del bienestar
+# Etapa 72 — Esping-Andersen — Los tres mundos del Estado del bienestar
 
 > El texto fundacional de la sociología comparada del bienestar. Demuestra que no hay "un" Estado de bienestar sino **tres regímenes cualitativamente distintos** (liberal, conservador, socialdemócrata). Sin esta tipología no se puede ubicar a Argentina en debates comparados.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 70/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 72/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -49,11 +49,10 @@ El libro cierra una discusión que venía desde Titmuss (años 50) sobre si hab�
 *¿Por qué Suecia, EE.UU. y Alemania producen pobres distintos a partir de capitalismos parecidos?* Respuesta: porque sus regímenes de bienestar son cualitativamente distintos, y cada uno **fabrica** un tipo específico de estructura social. La pobreza norteamericana (focal, racializada, estigmatizada), la alemana (insider/outsider del empleo) y la sueca (residual, casi inexistente para nativos) son **productos institucionales** distintos.
 
 ## Tareas
-
-- [ ] Leer cap. 1 ("Las tres economías políticas del estado de bienestar" — la parte conceptual) + cap. 2 ("La desmercantilización en política social" — la operacionalización empírica). ~80 pp.
-- [ ] Hacer una **tabla comparada de 3x4**: tres regímenes × cuatro dimensiones (lógica de provisión, sujeto típico, rol de la familia, efecto sobre estratificación). Esto es la salida-mínima del módulo.
-- [ ] Aplicar la tipología a Argentina: ¿qué dimensiones del welfare argentino son conservador-corporativas (jubilación contributiva, obras sociales sindicales), cuáles son liberales (AUH como PTC focalizada), cuáles ninguna de las anteriores? Nota permanente de 400 palabras.
-- [ ] Leer la crítica de **Jane Lewis** ("Gender and the Development of Welfare Regimes", 1992, ~20 pp): la tipología invisibiliza el trabajo de cuidados. ¿Hay que agregar una cuarta categoría? ¿O cuarto eje? Anotar la posición propia.
+- [ ] **Lectura de Selección:** Leer Los tres mundos del Estado del bienestar Capítulos 1, 2 y 3.
+- [ ] **Feminismo y Desfamiliarización:** Leer a Jane Lewis (1992) y a Ann Shola Orloff ("Gender and the Social Rights of Citizenship", 1993). Explicar en 350 palabras por qué la "desmercantilización" es insuficiente para analizar la ciudadanía de las mujeres y definir la importancia teórica de la **"desfamiliarización"** (el derecho a formar y sostener un hogar autónomo).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Marshall, Polanyi, Filgueira).
+- [ ] Escribir nota permanente sobre **desmercantilización en Esping-Andersen** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

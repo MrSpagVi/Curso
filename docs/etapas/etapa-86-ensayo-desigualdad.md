@@ -1,17 +1,17 @@
 ---
-title: "Etapa 84 — Ensayo tema-bisagra — Desigualdad"
+title: "Etapa 86 — Ensayo tema-bisagra — Desigualdad"
 ---
 
-# Etapa 84 — Ensayo tema-bisagra — Desigualdad
+# Etapa 86 — Ensayo tema-bisagra — Desigualdad
 
 > Quinto y último ensayo corto del Ciclo III. La desigualdad es dato económico (medible), problema político (tolerable o no) y naturalización cultural (invisible). Sin cruzar los tres niveles, el debate se vuelve sordo.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 84/85</span> · <span>:material-bookmark: Ensayo</span>
+<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 86/87</span> · <span>:material-bookmark: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

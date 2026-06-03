@@ -1,17 +1,17 @@
 ---
-title: "Etapa 65 — Ambedkar — Annihilation of Caste"
+title: "Etapa 67 — Ambedkar — Annihilation of Caste"
 ---
 
-# Etapa 65 — B.R. Ambedkar — Annihilation of Caste (1936)
+# Etapa 67 — B.R. Ambedkar — Annihilation of Caste (1936)
 
 > A Gandhi lo que Marx a Smith. La opresión real de la India NO es el colonialismo británico — es el sistema de castas hindú. Cierre del bloque no-occidental con el debate INTERNO indio más serio.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 5-7 h</span> · <span>:material-progress-check: Etapa 65/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 5-7 h</span> · <span>:material-progress-check: Etapa 67/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -54,12 +54,10 @@ El contexto: el nacionalismo indio del Congreso (Gandhi, Nehru) priorizaba **la 
 Ambedkar responde: **no**, no hay independencia real sin abolir la casta, y Gandhi no lo enfrenta porque su reformismo religioso es demasiado deferente con la herencia hindú. Y más generalmente: **toda descolonización seria** (no solo la india) debe enfrentar **opresiones autóctonas**, no solo las coloniales.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leé *Annihilation of Caste* completo (~80 pp, hay PDF inglés gratuito de Columbia y traducciones al español del Centro Ambedkar). Es corto, lectura rápida — la dificultad es **digestiva**, no textual.
-- [ ] Tarea 2 — Articulá en 1 página el **debate Gandhi (etapa 59) vs Ambedkar**. Identificá 3-4 puntos de desacuerdo claros: (a) lugar del hinduismo; (b) aldea vs ciudad; (c) reforma vs abolición; (d) estrategia política. ¿Quién tiene razón en cada uno? Defendé.
-- [ ] Tarea 3 — **Ejercicio N3 (aplicación):** explicá en 1 página por qué Ambedkar dice que Gandhi **NO resuelve** el problema real de la India. Apoyate en una cita textual de Ambedkar.
-- [ ] Tarea 4 — **Ejercicio N4 (transferencia):** identificá una **crítica análoga interna** en otro contexto descolonial. Ejemplos: ¿hay crítica análoga al feminismo desde dentro de movimientos descoloniales (interseccionalidad)?; ¿al machismo dentro del nacionalismo árabe?; ¿al colorismo dentro de movimientos afro-latinoamericanos?; ¿al elitismo intelectual dentro del peronismo? Redactá 1 página.
-- [ ] **Steelman de fin de fase — defendé la postura de Fase 5 que MENOS te convenció (o la que peor entendés).** En 500 palabras, sostenela como si fuera tuya, sin disclaimers ni "pero en realidad", con sus mejores argumentos. Candidatos según tu inclinación: si sos cosmopolita o liberal-internacionalista, defendé el **realismo ofensivo de Mearsheimer** (las grandes potencias chocan por estructura, no por maldad) o el **confucianismo político** (la armonía y el mérito por encima del voto); si sos occidental y secular, defendé la **no-violencia espiritual de Gandhi** (el medio prefigura el fin) o el **neoautoritarismo desarrollista de Wang Hui** leído en serio; si creés que la opresión viene del Norte global, defendé a **Ambedkar** (la peor opresión de la India es interna, casteísta, anterior a los británicos) o el **enfoque de capacidades de Sen** (el desarrollo como libertad medible, no como PBI). Si no podés sostenerla con sus mejores argumentos, no la entendiste.
+- [ ] **Lectura Completa:** Leer *Annihilation of Caste* completo (es un ensayo breve de ~100 páginas).
+- [ ] **El Doctor y el Santo (Roy):** Leer fragmentos de *The Doctor and the Saint* de Arundhati Roy y escribir una nota de 300 palabras analizando el choque ideológico y político fundamental entre Ambedkar (modernismo constitucionalista) y Gandhi (idealismo pastoral tradicionalista) sobre el sistema de castas e identidad india.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Gandhi, Sen, Rawls).
+- [ ] Escribir nota permanente sobre **la aniquilación de castas en Ambedkar** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

@@ -1,17 +1,17 @@
 ---
-title: "Etapa 63 — Wang Hui — El nuevo orden de China"
+title: "Etapa 65 — Wang Hui — El nuevo orden de China"
 ---
 
-# Etapa 63 — Wang Hui — El nuevo orden de China (selección)
+# Etapa 65 — Wang Hui — El nuevo orden de China (selección)
 
 > El intelectual público chino más influyente de la "Nueva Izquierda". China contemporánea como proyecto político específico — no convergencia con Occidente. Sin Wang Hui, la China del XXI es caja negra.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 15-20 h</span> · <span>:material-progress-check: Etapa 63/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 15-20 h</span> · <span>:material-progress-check: Etapa 65/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -62,11 +62,10 @@ Y, más generalmente: *¿es posible un universalismo emancipatorio no-occidental
 Wang Hui responde: hay proyecto político específico (no convergencia, no totalitarismo, no comunismo a la soviética), y hay posibilidad de universalismo no-occidental construido en diálogo con todas las tradiciones, no como cierre culturalista.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leé la selección disponible (~200 pp). Si tenés *El nuevo orden de China* o *China desorientada* (compilaciones en español), elegí los ensayos sobre: (a) despolitización post-1989, (b) el "Consenso de Beijing", (c) tradición confuciana y modernidad china, (d) Tíbet/Xinjiang. Si solo conseguís artículos sueltos, prioritarios: *"Depoliticized Politics"* (New Left Review) y *"The Year 1989"*.
-- [ ] Tarea 2 — En 1 página, articulá: qué entiende Wang Hui por **"Estado-civilización"** chino. ¿En qué se diferencia de un Estado-nación moderno tipo Francia o EE.UU.? ¿Por qué importa la distinción para entender Xi Jinping y la "iniciativa de la Franja y la Ruta"?
-- [ ] Tarea 3 — **Ejercicio N3 (aplicación):** articulá la posición política de China actual **sin recurrir a "totalitarismo" simplista ni a "comunismo" caricaturizado**. Identificá 3 rasgos que un análisis riguroso desde Wang Hui destaca y un occidental promedio pierde.
-- [ ] Tarea 4 — **Ejercicio N4 (debate):** combiná Mearsheimer (etapa 54) + Wang Hui sobre la rivalidad EE.UU.-China. ¿Qué dice Mearsheimer (será conflicto estructural por hegemonía regional asiática)? ¿Qué añade Wang Hui (China no es simplemente "rival que reemplaza a EE.UU." — es proyecto civilizatorio distinto)? Redactá 1-2 páginas con tu posición fundamentada.
+- [ ] **Lectura de Selección:** Leer El nuevo orden de China Capítulos "El nuevo orden de China" y "El neoliberalismo y la crisis asiática".
+- [ ] **Crítica Liberal y Schmittianismo Oficial:** Contrastar la visión de la "Nueva Izquierda" de Wang Hui con la crítica liberal de **Liu Xiaobo** y con el uso instrumental de Carl Schmitt por parte de intelectuales oficiales chinos como **Jiang Shigong** para justificar la soberanía del Partido-Estado. Escribir una nota de 300 palabras.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Mao, Marx, Harvey).
+- [ ] Escribir nota permanente sobre **el Estado-civilización de Wang Hui** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

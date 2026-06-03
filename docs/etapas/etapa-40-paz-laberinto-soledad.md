@@ -7,11 +7,11 @@ title: "Etapa 40 — Paz — El laberinto de la soledad"
 > En 1950, desde París, un diplomático mexicano de 36 años produce el análisis psico-cultural más influyente sobre la identidad mexicana. El mexicano vive enmascarado porque carga una herida de origen: la conquista, la Malinche, la chingada. Ensayo filosófico vestido de literatura.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-22 h</span> · <span>:material-progress-check: Etapa 40/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-22 h</span> · <span>:material-progress-check: Etapa 40/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -53,12 +53,10 @@ Quinta etapa del **bloque A — Clásicos LATAM**. Si Vasconcelos (etapa 39) cel
 *¿Por qué el mexicano vive enmascarado, y qué dice eso del proyecto político-cultural latinoamericano?* Paz responde con una **fenomenología histórica de la subjetividad mexicana** — fenomenología en sentido husserliano (descripción de lo vivido) más historia política (conquista, Revolución).
 
 ## Tareas
-
-- [ ] Tarea 1 — Leer caps. 1-4 completos (introducción + pachuco + máscaras + Malinche). Son la mitad del libro y contienen toda la tesis central. Si tenés tiempo, completá el resto (caps. 5-9, sobre Revolución, intelectualidad, vuelta a la soledad).
-- [ ] Tarea 2 — Nota Zettelkasten: *"Paz vs Vasconcelos — el mestizaje como gloria (Vasconcelos) o como herida (Paz)"*. Conectá ambas etapas (38 y 39).
-- [ ] Tarea 3 — Ficha de 400 palabras: aplicá la categoría "máscara" a una práctica cultural latinoamericana contemporánea (la cortesía formal, el "todo bien" defensivo, las redes sociales como performance).
-- [ ] Tarea 4 — Pregunta de retención: ¿qué le criticaría una autora feminista (Segato, González) a la categoría "la chingada"? Anticipá esa crítica para etapas 48-51.
-- [ ] Tarea 5 — Ensayo breve (500 palabras): ¿es Paz universal (vale para toda Latinoamérica) o específicamente mexicano? Tomá posición con argumentos.
+- [ ] Leer caps. 1-4 completos (introducción, pachuco, máscaras, Malinche). Son la mitad del libro y contienen toda la tesis central.
+- [ ] **Feminismo Chicano de Frontera (Anzaldúa):** Leer fragmentos de *Borderlands/La Frontera* (1987) de Gloria Anzaldúa sobre la figura de Malintzin/La Malinche. Nota permanente: *"La Malinche en Paz (traición/pasividad) vs. la Malinche en el feminismo chicano (mediación y supervivencia)"*.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Vasconcelos, Quijano).
+- [ ] Escribir nota permanente sobre **las máscaras en Paz** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

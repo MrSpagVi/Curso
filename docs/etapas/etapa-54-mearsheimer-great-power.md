@@ -7,11 +7,11 @@ title: "Etapa 54 — Mearsheimer — The Tragedy of Great Power Politics"
 > El manual del realismo geopolítico contemporáneo. Hobbes y Maquiavelo aplicados al sistema internacional: lo que explica Ucrania, Taiwán y el mar de China meridional mejor que cualquier alternativa disponible.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 15-22 h</span> · <span>:material-progress-check: Etapa 54/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 15-22 h</span> · <span>:material-progress-check: Etapa 54/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -54,12 +54,11 @@ La diferencia parece sutil pero es enorme: para el realista defensivo, los Estad
 La respuesta no es "porque sus líderes son ambiciosos" — es **estructural**: en un sistema anárquico, no buscar más poder es arriesgar la propia supervivencia. La tragedia del título es esa: incluso Estados gobernados por personas razonables están obligados por la estructura a comportarse de forma que produce conflictos que nadie quería.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leé los capítulos 1 (introducción y lógica del realismo ofensivo), 2 (anarquía y lucha por poder), 3 (riqueza y poder), 4 (poder terrestre primario) y 10 (China rise). Tomá notas separadas por capítulo. Hay PDF en Archive.org.
-- [ ] Tarea 2 — **Ejercicio N2:** explicá en 1 página la diferencia entre realismo ofensivo (Mearsheimer) y realismo defensivo (Waltz). ¿Por qué la diferencia importa para predecir el comportamiento de China?
-- [ ] Tarea 3 — **Ejercicio N3 (aplicación):** analizá la guerra de Ucrania (2022-presente) usando el marco mearsheimeriano. ¿Qué motivación atribuye al expansionismo de la OTAN al este? ¿Qué predice sobre la reacción rusa? Compará con el análisis liberal estándar.
-- [ ] Tarea 4 — **Ejercicio N4 (evaluación):** identificá 3 cosas que el realismo **no explica bien**: factores internos de los Estados (régimen político), factores ideológicos, opinión pública. Para cada una, dá un caso donde Mearsheimer falla.
-- [ ] Tarea 5 — **Ejercicio N5 (debate):** redactá 2 páginas defendiendo y luego criticando la tesis: *"El realismo es descripción universal del sistema internacional"*. Contra-tesis: *"Es producto del sistema histórico westfaliano específico y caducará con él"*.
+- [ ] **Lectura de Selección:** Leer The Tragedy of Great Power Politics Capítulos 1, 2, 5-6 y 10.
+- [ ] **Realismo vs. Constructivismo:** Comparar el realismo ofensivo de Mearsheimer con la crítica constructivista de **Alexander Wendt** ("Anarchy is what States make of it") y el liberalismo internacionalista de **G. John Ikenberry** (*After Victory*). Redactar una nota de 300 palabras sobre el estrecho de Taiwán bajo estas tres ópticas.
+- [ ] **No Alineamiento Activo (NAA):** Evaluar la propuesta del No Alineamiento Activo (Fortin, Heine y Ominami) como respuesta estratégica de América Latina frente a la competencia de grandes potencias (EE.UU. y China). Escribir una nota de 250 palabras.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Wallerstein).
+- [ ] Escribir nota permanente sobre **realismo ofensivo frente a multipolaridad** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

@@ -7,13 +7,7 @@ hide:
 
 # Política, filosofía y economía — leídos en serio
 
-<div class="hero-primary hero-single">
-  <p class="hero-statement">Un plan de autoestudio de 36 meses sobre filosofía política, economía, política social y cultura — leyendo el corpus en orden, con método propio (lectura activa + sistema de notas + falacias + IA con guardrails) y producción final propia (ensayo + grabación + tesina).</p>
-  <div class="hero-cta-pair">
-    <a href="etapas/etapa-01-setup-sistema-de-notas/" class="g-btn g-btn-primary hero-cta-link hero-cta-xl">▶ Empezar — Etapa 1</a>
-  </div>
-  <p class="hero-promise">Una sola ruta lineal — sin elecciones, sin ramas, sin atajos. 85 etapas en orden. Cada etapa: leé todo el contenido, marcá los checkboxes, pasás a la siguiente. Diseñado para pausarse y retomarse: si parás 3 semanas, retomás donde quedaste.</p>
-</div>
+<div id="curso-dashboard"></div>
 
 ---
 
@@ -33,7 +27,7 @@ Un curso completo de autoestudio para construir cultura política, filosófica, 
 
 ## Objetivo final
 
-Al cerrar las 85 etapas (~36 meses a 3-5 h/semana):
+Al cerrar las 87 etapas (~36 meses a 3-5 h/semana):
 
 1. **Vocabulario sólido** en pensamiento político, filosófico, económico y cultural occidental e iberoamericano.
 2. **Capacidad de leer textos primarios densos** sin necesidad de intermediarios (Hobbes, Marx, Foucault, Rawls, Bourdieu).
@@ -54,23 +48,13 @@ Al cerrar las 85 etapas (~36 meses a 3-5 h/semana):
 - **Salida** (qué sabés/tenés al cerrarla).
 - **Recursos** (links a versiones gratuitas: Wikisource · Project Gutenberg · Yale Open Courses · archive.org · Marxists.org).
 
-La barra de progreso global suma los checkboxes de las 85 etapas y se guarda en tu navegador (localStorage).
+La barra de progreso global suma los checkboxes de las 87 etapas y se guarda en tu navegador (localStorage).
 
 ---
 
-## Mapa rápido del recorrido
+## Programa interactivo del recorrido
 
-| Bloque | Etapas | Foco |
-|---|---|---|
-| **Métodos didácticos** | 1-6 | Setup notas · Tutorial 30 días · Adler · Schopenhauer · CrashCourse falacias · Manual falacias |
-| **Fase 1 — Filosofía clásica** | 7-19 | Platón · Aristóteles · Maquiavelo · Hobbes · Rousseau · Mill · Locke · Tocqueville · Pocock |
-| **Fase 2 — Economía política** | 20-25 | Chang · Smith · Hegel · Marx · Harvey · Mariátegui |
-| **Fase 3 — Sociopolítica s.XX** | 26-35 | Weber · Foucault · Rawls · Berlin · Habermas · Lenin · Gramsci · Hayek · Popper · Nozick |
-| **Fase 4 — Iberoamericana** | 36-52 | Bolívar · Martí · Rodó · Vasconcelos · Paz · Galeano · Bueno · Echeverría · Dussel · Quijano · Cusicanqui · Freire · Gutiérrez · González · Lugones · Gago · Segato |
-| **Fase 5 — Síntesis global + tesina** | 53-67 | Wallerstein · Mearsheimer · Agamben · Mbembe · novela · relectura · Gandhi · Confucio · Sen · Hardt/Negri · Wang Hui · Maruyama · Ambedkar · ensayo + grabación |
-| **Ciclo III M5 — Política social** | 68-72 | Marshall · Polanyi · Esping-Andersen · Filgueira · tesina M5 |
-| **Ciclo III M6 — Cultura** | 73-79 | Williams · Benjamin · Bourdieu · Hall · García Canclini · Martín-Barbero · Zuboff |
-| **Temas-bisagra + tesina final** | 80-85 | Neoliberalismo · Ciudadanía · Trabajo · Estado · Desigualdad · Tesina 8-10k |
+<div id="curso-syllabus-timeline"></div>
 
 ---
 

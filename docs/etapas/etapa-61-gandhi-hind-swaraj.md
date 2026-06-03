@@ -1,17 +1,17 @@
 ---
-title: "Etapa 59 — Gandhi — Hind Swaraj"
+title: "Etapa 61 — Gandhi — Hind Swaraj"
 ---
 
-# Etapa 59 — Gandhi — Hind Swaraj
+# Etapa 61 — Gandhi — Hind Swaraj
 
 > La primera teoría política sistemática anticolonial no-occidental del siglo XX. Gandhi rechaza la civilización industrial entera, no solo a los británicos. Punto de partida del bloque no-occidental (India anticolonial).
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 6-8 h</span> · <span>:material-progress-check: Etapa 59/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 6-8 h</span> · <span>:material-progress-check: Etapa 61/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

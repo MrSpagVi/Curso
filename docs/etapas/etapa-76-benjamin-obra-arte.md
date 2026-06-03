@@ -1,17 +1,17 @@
 ---
-title: "Etapa 74 — Benjamin — La obra de arte en la época de su reproductibilidad técnica"
+title: "Etapa 76 — Benjamin — La obra de arte en la época de su reproductibilidad técnica"
 ---
 
-# Etapa 74 — Benjamin — La obra de arte en la época de su reproductibilidad técnica
+# Etapa 76 — Benjamin — La obra de arte en la época de su reproductibilidad técnica
 
 > El texto que inventa la pregunta de la cultura técnica. Benjamin observa qué le pasa al arte cuando se vuelve infinitamente reproducible (foto, cine, después: digital): pierde **aura** pero gana **alcance político**. La pregunta sigue vigente con plataformas y algoritmos.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 5-7 h</span> · <span>:material-progress-check: Etapa 74/85</span> · <span>:material-bookmark: Ensayo</span>
+<span>:material-clock-outline: 5-7 h</span> · <span>:material-progress-check: Etapa 76/87</span> · <span>:material-bookmark: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -49,11 +49,10 @@ El ensayo es a la vez **estética**, **historia técnica del arte** y **diagnós
 *¿Qué le pasa al arte cuando se vuelve infinitamente reproducible — y qué implicaciones políticas tiene eso?* Benjamin responde: pierde unicidad y aura, gana alcance masivo y potencial político. La pregunta sigue plenamente vigente con cultura digital (TikTok, Spotify, IA generativa): ¿qué aura conserva una canción cuando es streameada billones de veces? ¿Qué política habilita esa reproducibilidad masiva?
 
 ## Tareas
-
-- [ ] Leer el ensayo completo (~40 pp en la versión más usada). Es corto. Leerlo entero **dos veces**: primera para argumento general, segunda para conceptos finos.
-- [ ] **1 nota permanente por concepto**: aura, reproductibilidad técnica, valor cultual vs valor exhibitivo, recepción distraída. Cuatro notas mínimo.
-- [ ] Aplicar el marco a un caso contemporáneo: ¿qué le pasa al "aura" de una canción con streaming? ¿Qué le pasa al concierto en vivo cuando todo el set se vuelve clip de TikTok 5 segundos después? Texto de 250 palabras.
-- [ ] Anotar la **tensión Benjamin-Adorno**: ambos describen el mismo fenómeno técnico; Benjamin ve emancipación posible, Adorno solo ve domesticación. ¿Quién tenía razón? ¿O ambos, según el caso? Conectar con cap. "Industria cultural" de *Dialéctica de la Ilustración*.
+- [ ] **Lectura Completa:** Leer el ensayo completo (~40 pp). Leerlo entero **dos veces** para fijar la terminología del aura.
+- [ ] **Inteligencia Artificial Generativa:** Aplicar los conceptos de "aura", "valor de exhibición" y "politización del arte" a la IA Generativa (ej. Midjourney, ChatGPT). ¿La IA generativa representa la fase terminal de la pérdida del aura humana, o engendra una nueva forma de "valor cultual" automatizado y sintético? Escribir una nota de 300 palabras (conectar con Pasquinelli, *The Eye of the Master*).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Williams, Hall, Adorno).
+- [ ] Escribir nota permanente sobre **el aura en Benjamin** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

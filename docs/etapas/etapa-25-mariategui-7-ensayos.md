@@ -7,11 +7,11 @@ title: "Etapa 25 — Mariátegui — 7 Ensayos de interpretación (II-III)"
 > La primera obra que demuestra que el marxismo NO es solo europeo: el método marxista aplicado al Perú andino de 1928, fundando el pensamiento descolonial moderno antes de que existiera el término.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 10-15 h</span> · <span>:material-progress-check: Etapa 25/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 10-15 h</span> · <span>:material-progress-check: Etapa 25/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

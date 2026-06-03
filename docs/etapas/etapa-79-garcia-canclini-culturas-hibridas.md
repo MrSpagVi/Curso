@@ -1,17 +1,17 @@
 ---
-title: "Etapa 77 — García Canclini — Culturas híbridas (selección)"
+title: "Etapa 79 — García Canclini — Culturas híbridas (selección)"
 ---
 
-# Etapa 77 — García Canclini — Culturas híbridas (selección)
+# Etapa 79 — García Canclini — Culturas híbridas (selección)
 
 > El libro que estableció el vocabulario de la cultura latinoamericana contemporánea. Tesis central: en América Latina no se "elige" entre tradición y modernidad, alta y popular, local y global — **se mezclan en formas híbridas** que requieren herramientas propias, no copiadas de Europa o EE.UU.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 12-15 h</span> · <span>:material-progress-check: Etapa 77/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 12-15 h</span> · <span>:material-progress-check: Etapa 79/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -53,7 +53,7 @@ title: "Etapa 77 — García Canclini — Culturas híbridas (selección)"
 
 ## Tareas
 
-- [ ] Leer **Introducción + caps. 1 ("De las utopías al mercado") + 4 ("El porvenir del pasado") + 6 ("Culturas híbridas, poderes oblicuos")**. ~140 pp.
+- [ ] **Lectura de Selección:** Leer Culturas híbridas Introducción, Capítulos 1, 3, 5 y 8 (~140 pp).
 - [ ] **1 nota permanente por concepto central**: hibridación, modernidad oblicua, reconversión cultural, crítica a la división alta/popular. Cuatro notas mínimo.
 - [ ] Aplicar el marco a **3 casos argentinos contemporáneos**: cumbia santafesina con producción en estudio profesional, festival de Cosquín mezclando folklore tradicional con artistas urbanos, fileteado porteño en NFT. ¿Qué híbrido es cada uno? ¿Qué reconvirtió? Texto de 400 palabras.
 - [ ] Anotar la **tensión con Cornejo Polar**: García Canclini propone "hibridación"; Cornejo Polar (etapa de profundización opcional) propone "heterogeneidad" — las culturas no se mezclan, conviven sin fundirse. ¿Qué herramienta sirve mejor para qué fenómeno?

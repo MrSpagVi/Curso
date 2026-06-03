@@ -7,11 +7,11 @@ title: "Etapa 49 — Lélia González — Por un feminismo afrolatinoamericano"
 > Brasil 1988. Una filósofa-antropóloga afrobrasileña, militante del Movimiento Negro Unificado, inventa "Améfrica Ladina" — Latinoamérica vista desde la matriz afroindígena, no eurocriolla. El feminismo latinoamericano no debe imitar al blanco norteamericano porque las mujeres del subcontinente son mayoritariamente negras, mestizas, indígenas con opresiones múltiples desde 1492.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 2-3 h</span> · <span>:material-progress-check: Etapa 49/85</span> · <span>:material-bookmark: Paper</span>
+<span>:material-clock-outline: 2-3 h</span> · <span>:material-progress-check: Etapa 49/87</span> · <span>:material-bookmark: Paper</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

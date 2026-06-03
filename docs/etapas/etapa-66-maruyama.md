@@ -1,17 +1,17 @@
 ---
-title: "Etapa 64 — Maruyama — Pensamiento político de Japón moderno"
+title: "Etapa 66 — Maruyama — Pensamiento político de Japón moderno"
 ---
 
-# Etapa 64 — Maruyama Masao — El pensamiento político de Japón moderno (selección)
+# Etapa 66 — Maruyama Masao — El pensamiento político de Japón moderno (selección)
 
 > El "Weber japonés". Por qué Japón produjo militarismo en los 30-40 mientras modernizaba económicamente: modernización inconclusa, instituciones modernas sobre base mental feudal. Cierra la mirada al este de Asia.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-22 h</span> · <span>:material-progress-check: Etapa 64/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-22 h</span> · <span>:material-progress-check: Etapa 66/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -58,11 +58,10 @@ La operación de Maruyama es **Weber aplicado a Japón** con un giro propio: Web
 Maruyama responde: el desastre no fue tradicionalismo persistente — fue **modernización mal hecha**, instituciones modernas sin reforma de subjetividad. Y eso es advertencia para cualquier proyecto modernizador asiático posterior: Corea del Sur, Taiwán, China, Vietnam.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leé los ensayos centrales de la selección disponible (~200 pp): (a) sobre la lógica del ultranacionalismo japonés (escrito en 1946, fresco de la derrota), (b) sobre el "sistema de irresponsabilidad", (c) sobre las raíces Tokugawa del pensamiento político moderno japonés. Si la edición disponible es *Studies in Intellectual History of Tokugawa Japan*, leé la introducción + los capítulos sobre Sorai.
-- [ ] Tarea 2 — Articulá en 1 página: qué significa "modernización inconclusa" en Maruyama. ¿Por qué no es lo mismo que "tradicionalismo"? ¿Cuál es la diferencia con la modernización occidental "completa" según Weber?
-- [ ] Tarea 3 — **Ejercicio N3 (aplicación):** aplicá el marco maruyamiano a OTRO país asiático modernizado tardíamente: Corea del Sur (régimen Park 1961-79), Taiwán (Kuomintang 1949-87), China contemporánea (Partido-Estado), o Singapur (Lee Kuan Yew). ¿Qué rasgos comparte con el patrón japonés? ¿Qué rompe?
-- [ ] Tarea 4 — **Ejercicio N4 (debate Maruyama vs Wang Hui):** los dos hablan del este de Asia post-tradicional, pero con valoraciones distintas. Wang Hui revaloriza la herencia revolucionaria china como fuente de legitimidad alternativa; Maruyama desconfía profundamente de cualquier autoridad pre-democrática. Redactá 1 página sobre dónde se cruzan y dónde divergen.
+- [ ] **Lectura de Selección:** Leer Pensamiento político de Japón moderno Capítulos 1 y 3.
+- [ ] **Crítica al Eurocentrismo:** Evaluar críticamente el marco metodológico de Maruyama: ¿incurre en un sesgo eurocéntrico y en la teoría de la modernización al catalogar el desarrollo japonés como "incompleto" o "desviado" en comparación con Occidente? Conectar esta crítica con debates poscoloniales sobre modernidades múltiples.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Hegel, Weber).
+- [ ] Escribir nota permanente sobre **el fascismo japonés en Maruyama** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

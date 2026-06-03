@@ -7,11 +7,11 @@ title: "Etapa 53 — Wallerstein — Análisis de sistemas-mundo (selección)"
 > Una sola economía-mundo capitalista desde 1500. El mediador imprescindible entre Mearsheimer (Estados) y Mbembe (poblaciones desechables): nadie se entiende sin Wallerstein.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 12-15 h</span> · <span>:material-progress-check: Etapa 53/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 12-15 h</span> · <span>:material-progress-check: Etapa 53/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

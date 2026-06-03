@@ -7,11 +7,11 @@ title: "Etapa 42 — Bueno — El mito de la izquierda (selección)"
 > Asturias 2003. Un filósofo español aislado del mainstream académico anglo demuele la categoría "izquierda" mostrando que es agregación incoherente de movimientos heterogéneos sin núcleo conceptual común. Te entrena a desconfiar de etiquetas políticas perezosas.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 42/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 42/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

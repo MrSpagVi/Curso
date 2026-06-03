@@ -7,11 +7,11 @@ title: "Etapa 47 — Freire — Pedagogía del oprimido (caps. 1-2)"
 > Brasil 1968. Exiliado tras un golpe militar que lo persiguió por enseñar a leer a campesinos analfabetos, Freire transforma la pedagogía mundial. Distinción central: educación bancaria (deposita en estudiantes pasivos) vs educación liberadora (co-investiga la realidad). Y aplica directamente al estudio autodidacta.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 15-20 h</span> · <span>:material-progress-check: Etapa 47/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 15-20 h</span> · <span>:material-progress-check: Etapa 47/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

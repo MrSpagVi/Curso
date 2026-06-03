@@ -7,11 +7,11 @@ title: "Etapa 43 — Bolívar Echeverría — Modernidad y blanquitud"
 > El filósofo marxista latinoamericano más subestimado del siglo XX. Ecuatoriano formado con Adorno en Alemania, profesor en la UNAM, propone el concepto de "ethos barroco" — un modo iberoamericano de habitar el capitalismo distinto del puritano calvinista que estudió Weber.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 15-22 h</span> · <span>:material-progress-check: Etapa 43/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 15-22 h</span> · <span>:material-progress-check: Etapa 43/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

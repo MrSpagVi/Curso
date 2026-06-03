@@ -1,17 +1,17 @@
 ---
-title: "Etapa 80 — Ensayo tema-bisagra — Neoliberalismo"
+title: "Etapa 82 — Ensayo tema-bisagra — Neoliberalismo"
 ---
 
-# Etapa 80 — Ensayo tema-bisagra — Neoliberalismo
+# Etapa 82 — Ensayo tema-bisagra — Neoliberalismo
 
 > Primer ensayo del Ciclo III. Cruzar economía, gubernamentalidad y cultura sobre el concepto más usado y peor definido del debate político actual.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 80/85</span> · <span>:material-bookmark: Ensayo</span>
+<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 82/87</span> · <span>:material-bookmark: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

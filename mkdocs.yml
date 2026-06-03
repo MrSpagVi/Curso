@@ -1,5 +1,5 @@
 site_name: Itinerarios — Pensamiento Político, Social y Económico
-site_description: Curso de autoestudio de 36 meses en filosofía política, economía, política social y cultura. 85 etapas lineales, una sola ruta.
+site_description: Curso de autoestudio de 36 meses en filosofía política, economía, política social y cultura. 87 etapas lineales, una sola ruta.
 site_url: https://mrspagvi.github.io/Libros-Politica/
 
 theme:
@@ -147,40 +147,42 @@ nav:
       - "50 · Lugones — Heterosexualismo y sistema de género colonial": etapas/etapa-50-lugones-heterosexualismo.md
       - "51 · Gago — La potencia feminista": etapas/etapa-51-gago-potencia-feminista.md
       - "52 · Segato — La guerra contra las mujeres": etapas/etapa-52-segato-guerra-mujeres.md
-  - "Fase 5 — Síntesis global (etapas 53-67)":
+  - "Fase 5 — Síntesis global (etapas 53-69)":
       - "53 · Wallerstein — Análisis de sistemas-mundo": etapas/etapa-53-wallerstein-sistemas-mundo.md
       - "54 · Mearsheimer — The Tragedy of Great Power Politics": etapas/etapa-54-mearsheimer-great-power.md
       - "55 · Agamben — Homo Sacer / Estado de excepción": etapas/etapa-55-agamben.md
-      - "56 · Mbembe — Necropolítica": etapas/etapa-56-mbembe-necropolitica.md
-      - "57 · Novela política (Orwell / Dostoievski / Vargas Llosa)": etapas/etapa-57-novela-politica.md
-      - "58 · Relectura activa de un libro de Fases 1-4": etapas/etapa-58-relectura-activa.md
-      - "59 · Gandhi — Hind Swaraj": etapas/etapa-59-gandhi-hind-swaraj.md
-      - "60 · Confucio — Analectas (selección)": etapas/etapa-60-confucio-analectas.md
-      - "61 · Sen — Identidad y violencia": etapas/etapa-61-sen-identidad-violencia.md
-      - "62 · Hardt & Negri — Imperio": etapas/etapa-62-hardt-negri-imperio.md
-      - "63 · Wang Hui — El nuevo orden de China": etapas/etapa-63-wang-hui.md
-      - "64 · Maruyama — Pensamiento político de Japón moderno": etapas/etapa-64-maruyama.md
-      - "65 · Ambedkar — Annihilation of Caste": etapas/etapa-65-ambedkar-annihilation-caste.md
-      - "66 · Ensayo final integrador (1500-2000 palabras)": etapas/etapa-66-ensayo-final.md
-      - "67 · Grabación oral final (10 min, sin notas)": etapas/etapa-67-grabacion-final.md
-  - "Ciclo III · M5 — Política social (etapas 68-72)":
-      - "68 · Marshall — Ciudadanía y clase social": etapas/etapa-68-marshall-ciudadania.md
-      - "69 · Polanyi — La gran transformación": etapas/etapa-69-polanyi-gran-transformacion.md
-      - "70 · Esping-Andersen — Tres mundos del Estado del bienestar": etapas/etapa-70-esping-andersen.md
-      - "71 · Filgueira — Universalismo básico en AL": etapas/etapa-71-filgueira-universalismo-basico.md
-      - "72 · Tesina M5 — ¿Qué welfare es el argentino?": etapas/etapa-72-tesina-m5.md
-  - "Ciclo III · M6 — Cultura (etapas 73-79)":
-      - "73 · Williams — Marxismo y literatura": etapas/etapa-73-williams-marxismo-literatura.md
-      - "74 · Benjamin — La obra de arte en la época de su reproductibilidad": etapas/etapa-74-benjamin-obra-arte.md
-      - "75 · Bourdieu — La distinción": etapas/etapa-75-bourdieu-distincion.md
-      - "76 · Hall — Encoding/Decoding": etapas/etapa-76-hall-encoding-decoding.md
-      - "77 · García Canclini — Culturas híbridas": etapas/etapa-77-garcia-canclini-culturas-hibridas.md
-      - "78 · Martín-Barbero — De los medios a las mediaciones": etapas/etapa-78-martin-barbero.md
-      - "79 · Zuboff — La era del capitalismo de la vigilancia": etapas/etapa-79-zuboff-vigilancia.md
-  - "Cierre — Temas-bisagra + tesina (etapas 80-85)":
-      - "80 · Ensayo tema-bisagra — Neoliberalismo": etapas/etapa-80-ensayo-neoliberalismo.md
-      - "81 · Ensayo tema-bisagra — Ciudadanía": etapas/etapa-81-ensayo-ciudadania.md
-      - "82 · Ensayo tema-bisagra — Trabajo": etapas/etapa-82-ensayo-trabajo.md
-      - "83 · Ensayo tema-bisagra — Estado": etapas/etapa-83-ensayo-estado.md
-      - "84 · Ensayo tema-bisagra — Desigualdad": etapas/etapa-84-ensayo-desigualdad.md
-      - "85 · Tesina final integrada (8-10k palabras)": etapas/etapa-85-tesina-final.md
+      - "56 · Fanon — Los condenados de la tierra": etapas/etapa-56-fanon-condenados-tierra.md
+      - "57 · Said — Orientalismo": etapas/etapa-57-said-orientalismo.md
+      - "58 · Mbembe — Necropolítica": etapas/etapa-58-mbembe-necropolitica.md
+      - "59 · Novela política (García Márquez / Vargas Llosa)": etapas/etapa-59-novela-politica.md
+      - "60 · Relectura activa de un libro de Fases 1-4": etapas/etapa-60-relectura-activa.md
+      - "61 · Gandhi — Hind Swaraj": etapas/etapa-61-gandhi-hind-swaraj.md
+      - "62 · Confucio — Analectas (selección)": etapas/etapa-62-confucio-analectas.md
+      - "63 · Sen — Identidad y violencia": etapas/etapa-63-sen-identidad-violencia.md
+      - "64 · Hardt & Negri — Imperio": etapas/etapa-64-hardt-negri-imperio.md
+      - "65 · Wang Hui — El nuevo orden de China": etapas/etapa-65-wang-hui.md
+      - "66 · Maruyama — Pensamiento político de Japón moderno": etapas/etapa-66-maruyama.md
+      - "67 · Ambedkar — Annihilation of Caste": etapas/etapa-67-ambedkar-annihilation-caste.md
+      - "68 · Ensayo final integrador (1500-2000 palabras)": etapas/etapa-68-ensayo-final.md
+      - "69 · Grabación oral final (10 min, sin notas)": etapas/etapa-69-grabacion-final.md
+  - "Ciclo III · M5 — Política social (etapas 70-74)":
+      - "70 · Marshall — Ciudadanía y clase social": etapas/etapa-70-marshall-ciudadania.md
+      - "71 · Polanyi — La gran transformación": etapas/etapa-71-polanyi-gran-transformacion.md
+      - "72 · Esping-Andersen — Tres mundos del Estado del bienestar": etapas/etapa-72-esping-andersen.md
+      - "73 · Filgueira — Universalismo básico en AL": etapas/etapa-73-filgueira-universalismo-basico.md
+      - "74 · Tesina M5 — ¿Qué welfare es el argentino?": etapas/etapa-74-tesina-m5.md
+  - "Ciclo III · M6 — Cultura (etapas 75-81)":
+      - "75 · Williams — Marxismo y literatura": etapas/etapa-75-williams-marxismo-literatura.md
+      - "76 · Benjamin — La obra de arte en la época de su reproductibilidad": etapas/etapa-76-benjamin-obra-arte.md
+      - "77 · Bourdieu — La distinción": etapas/etapa-77-bourdieu-distincion.md
+      - "78 · Hall — Encoding/Decoding": etapas/etapa-78-hall-encoding-decoding.md
+      - "79 · García Canclini — Culturas híbridas": etapas/etapa-79-garcia-canclini-culturas-hibridas.md
+      - "80 · Martín-Barbero — De los medios a las mediaciones": etapas/etapa-80-martin-barbero.md
+      - "81 · Zuboff — La era del capitalismo de la vigilancia": etapas/etapa-81-zuboff-vigilancia.md
+  - "Cierre — Temas-bisagra + tesina (etapas 82-87)":
+      - "82 · Ensayo tema-bisagra — Neoliberalismo": etapas/etapa-82-ensayo-neoliberalismo.md
+      - "83 · Ensayo tema-bisagra — Ciudadanía": etapas/etapa-83-ensayo-ciudadania.md
+      - "84 · Ensayo tema-bisagra — Trabajo": etapas/etapa-84-ensayo-trabajo.md
+      - "85 · Ensayo tema-bisagra — Estado": etapas/etapa-85-ensayo-estado.md
+      - "86 · Ensayo tema-bisagra — Desigualdad": etapas/etapa-86-ensayo-desigualdad.md
+      - "87 · Tesina final integrada (8-10k palabras)": etapas/etapa-87-tesina-final.md

@@ -7,11 +7,11 @@ title: "Etapa 27 — Foucault — Vigilar y castigar / Nacimiento de la biopolí
 > El filósofo que cambió la pregunta política: del "¿qué es el poder?" al "¿cómo opera?". Poder productivo, no solo represivo. Sin Foucault, no se entiende la teoría política contemporánea.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 10-14 h</span> · <span>:material-progress-check: Etapa 27/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 10-14 h</span> · <span>:material-progress-check: Etapa 27/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

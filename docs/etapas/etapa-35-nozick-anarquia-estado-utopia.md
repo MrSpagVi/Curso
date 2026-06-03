@@ -7,11 +7,11 @@ title: "Etapa 35 — Nozick — Anarquía, Estado y utopía (Partes I y III)"
 > El libertarismo en su mejor versión filosófica. El contraataque más serio a Rawls. Estado mínimo, teoría de la justicia como derechos, argumento de Wilt Chamberlain.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 35/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 35/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -63,12 +63,10 @@ Nozick responde a **¿puede haber un Estado más extenso que el mínimo (protege
 Más profundamente, responde a: **¿cómo se justifica filosóficamente el libertarismo radical, sin caer ni en utilitarismo (Bentham) ni en anarcocapitalismo (Rothbard)?** Su respuesta es la teoría de la justicia como derechos — derivada de Locke, formulada con rigor analítico contemporáneo. Y también responde a Rawls: **¿es defensible la teoría de la justicia como equidad?** Su respuesta es que NO — el principio de diferencia viola self-ownership y produce resultados moralmente intolerables.
 
 ## Tareas
-
-- [ ] **Tarea 1 — Lectura de la Parte I completa (caps. 1-6)** (~8-10 h). La defensa del Estado mínimo desde el estado de naturaleza. Argumento contra el anarquismo, argumento de la mano invisible para derivar el Estado mínimo, principio de compensación. Acá está la fundamentación filosófica del libro.
-- [ ] **Tarea 2 — Lectura de la Parte III completa (caps. 8-10)** (~6-8 h). La utopía como meta-utopía. Crítica a las utopías tradicionales (impuestas), defensa del marco libertarian como espacio de coexistencia de múltiples utopías particulares. Es la parte más original y menos discutida del libro.
-- [ ] **Tarea 3 — Lectura mínima de la Parte II — cap. 7 sobre Rawls y argumento de Wilt Chamberlain** (~3-4 h). La etapa pide Partes I y III, pero el cap. 7 es ineludible — contiene el argumento de Wilt Chamberlain y el contraataque directo a Rawls. Sin esto, no se entiende el debate fundacional.
-- [ ] **Tarea 4 — Ensayo: Nozick vs. Rawls sin caricaturizar a ninguno** (~3-4 h). 800-1000 palabras. Articulá la posición rawlsiana (etapa 28, ya leída — usá tu ensayo de esa etapa) y la posición nozickeana en sus mejores versiones. ¿Dónde está el desacuerdo fundamental? ¿Es desacuerdo empírico (sobre consecuencias de la redistribución) o filosófico (sobre la naturaleza moral de los derechos)? Tomá posición provisional argumentada. Este es **el debate fundacional de la filosofía política analítica del siglo XX** — entender este desacuerdo es entender el campo.
-- [ ] **Steelman de fin de fase — defendé la postura de Fase 3 que MENOS te convenció (o la que peor entendés).** En 500 palabras, sostenela como si fuera tuya, sin disclaimers ni "pero en realidad", con sus mejores argumentos. Candidatos según tu inclinación: si sos de izquierda, defendé el **Estado mínimo de Nozick** (la redistribución como trabajo forzado parcial) o el **orden espontáneo de Hayek** (ningún planificador puede saber lo que sabe el mercado disperso); si sos liberal o de mercado, defendé el **imperialismo de Lenin** (fase superior del capitalismo) o la **hegemonía de Gramsci** (el poder se sostiene por consenso cultural, no solo por fuerza); si confiás en la razón experta, defendé el **pluralismo de valores incompatibles de Berlin** (no todos los bienes son conciliables) o el **falibilismo anti-utópico de Popper** (toda ingeniería social total termina en tiranía). Si no podés sostenerla con sus mejores argumentos, no la entendiste.
+- [ ] **Lectura de Selección:** Leer Anarquía, Estado y Utopía Capítulos 1 a 3, 7 y 8.
+- [ ] **Careo Nozick vs. Cohen:** Leer el Capítulo 1 de G. A. Cohen (*Libertad, igualdad y propiedad de sí mismo*) y escribir un ensayo de 700 palabras respondiendo: ¿Por qué Cohen argumenta que la transacción voluntaria del ejemplo de Wilt Chamberlain no es neutral para la libertad de terceros, y cómo desafía la equivalencia de Nozick entre la redistribución fiscal y el trabajo forzado?
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Locke, Rawls, Hayek, Marx).
+- [ ] Escribir nota permanente sobre **el argumento de Wilt Chamberlain en Nozick** (100-300 palabras, conectada — por qué los impuestos son trabajo forzado).
 
 ## Cómo se estudia esta etapa
 

@@ -1,17 +1,17 @@
 ---
-title: "Etapa 69 — Polanyi — La gran transformación (caps. 4, 6, 11-14)"
+title: "Etapa 71 — Polanyi — La gran transformación (caps. 4, 6, 11-14)"
 ---
 
-# Etapa 69 — Polanyi — La gran transformación (caps. 4, 6, 11-14)
+# Etapa 71 — Polanyi — La gran transformación (caps. 4, 6, 11-14)
 
 > Por qué existe la política social. Polanyi muestra que el "mercado autorregulado" del siglo XIX era un proyecto utópico imposible que generó su propia reacción: la sociedad se defendió mediante regulación, sindicatos y seguros sociales. El doble movimiento explica desde Bismarck hasta el peronismo.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 69/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 71/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

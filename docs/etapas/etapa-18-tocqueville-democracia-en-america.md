@@ -7,11 +7,11 @@ title: "Etapa 18 — Tocqueville — La democracia en América (selección)"
 > El primer gran análisis sociológico de la democracia moderna. Tocqueville visita Estados Unidos en 1831 y produce el manual sobre cómo funciona realmente una democracia en condiciones reales — no en teoría. Anticipa la tiranía de la mayoría, el individualismo democrático y el despotismo blando.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 18/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 18/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -62,12 +62,10 @@ Porque sin Tocqueville, Mill flota — la "tiranía de la mayoría" de Mill **vi
 *¿Qué tipo de sociedad produce la democracia, y cuáles son sus peligros internos no obvios?* La pregunta no es normativa (¿es buena la democracia?) — es **sociológica y diagnóstica**: ya que la democracia es irreversible, ¿qué tenemos que cuidar para que su instalación no destruya las libertades que prometía?
 
 ## Tareas
-
-- [ ] Leer Vol. I caps. 5-7 (administración local, libertad de asociación, libertad de prensa).
-- [ ] Leer Vol. II partes 2-4 (influencia de la democracia sobre sentimientos, costumbres y política) — incluye "Tiranía de la mayoría", "Individualismo", "Despotismo blando".
-- [ ] (Opcional) Ver un curso o conferencia sobre Tocqueville (Harvard, Sciences Po) para encuadre.
-- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica fuerte sobre racismo / esclavitud / pueblos indígenas + conexiones con Mill, Putnam, debates sobre populismo).
-- [ ] Escribir nota permanente sobre **despotismo blando aplicado al presente** (estado de bienestar, paternalismo regulatorio, redes sociales como tutela algorítmica) — 100-300 palabras, conectada.
+- [ ] **Lectura de Selección:** Leer La Democracia en América Vol. I: Parte II, Caps. 5, 7 y 8 (tiranía de la mayoría); Vol. II: Parte II, Caps. 1 a 4 (individualismo e interés bien entendido) y Parte IV, Caps. 6 y 7 (despotismo democrático).
+- [ ] **Estudio Audiovisual (Yale/Sandel):** Ver las clases 21, 22 y 23 de Steven Smith en Yale Open Courses sobre Tocqueville (Democratic Despotism, Tyranny of the Majority, Associations and Religion) y el debate del individualismo en Sandel *Justice*.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Hobbes, Locke, Rousseau, Mill, Berlin, Popper, Rawls, Bourdieu).
+- [ ] Escribir nota permanente sobre **el despotismo blando en Tocqueville** (100-300 palabras, conectada — la tiranía que no persigue sino que despolitiza).
 
 ## Cómo se estudia esta etapa
 

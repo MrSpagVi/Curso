@@ -7,11 +7,11 @@ title: "Etapa 45 — Quijano — Colonialidad del poder"
 > Treinta páginas que sistematizan la categoría central de la teoría decolonial latinoamericana. Si vas a leer un solo paper decolonial en tu vida, que sea este. La conquista de América no solo fue evento histórico — fue el origen del sistema-mundo capitalista moderno y de la matriz racial que sigue operando hoy.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 3-5 h</span> · <span>:material-progress-check: Etapa 45/85</span> · <span>:material-bookmark: Paper</span>
+<span>:material-clock-outline: 3-5 h</span> · <span>:material-progress-check: Etapa 45/87</span> · <span>:material-bookmark: Paper</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

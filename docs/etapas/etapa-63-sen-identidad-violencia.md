@@ -1,17 +1,17 @@
 ---
-title: "Etapa 61 — Sen — Identidad y violencia"
+title: "Etapa 63 — Sen — Identidad y violencia"
 ---
 
-# Etapa 61 — Sen — Identidad y violencia (2006)
+# Etapa 63 — Sen — Identidad y violencia (2006)
 
 > La mejor crítica al "Choque de civilizaciones" de Huntington. Cada persona tiene identidades múltiples; reducirla a UNA es violencia analítica que prepara la violencia real.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 12-15 h</span> · <span>:material-progress-check: Etapa 61/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 12-15 h</span> · <span>:material-progress-check: Etapa 63/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

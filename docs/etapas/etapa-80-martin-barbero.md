@@ -1,17 +1,17 @@
 ---
-title: "Etapa 78 — Martín-Barbero — De los medios a las mediaciones (Parte III)"
+title: "Etapa 80 — Martín-Barbero — De los medios a las mediaciones (Parte III)"
 ---
 
-# Etapa 78 — Martín-Barbero — De los medios a las mediaciones (Parte III)
+# Etapa 80 — Martín-Barbero — De los medios a las mediaciones (Parte III)
 
 > El libro fundacional de la escuela latinoamericana de comunicación. Tesis: no estudiar los medios, estudiar las **mediaciones** — las matrices culturales que conectan vida cotidiana y cultura masiva. La telenovela, el melodrama, la radio popular tienen lógica propia que se pierde si se las analiza como "industria cultural" europea.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 10-12 h</span> · <span>:material-progress-check: Etapa 78/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 10-12 h</span> · <span>:material-progress-check: Etapa 80/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

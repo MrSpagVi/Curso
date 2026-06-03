@@ -1,17 +1,17 @@
 ---
-title: "Etapa 56 — Mbembe — Necropolítica"
+title: "Etapa 58 — Mbembe — Necropolítica"
 ---
 
-# Etapa 56 — Mbembe — Necropolítica (ensayo)
+# Etapa 58 — Mbembe — Necropolítica (ensayo)
 
 > La contraparte decolonial de Mearsheimer y la culminación de la cadena Schmitt-Foucault-Agamben. En el sur global, el poder no gestiona vida — administra muerte, abandono y desechabilidad.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 56/85</span> · <span>:material-bookmark: Ensayo</span>
+<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 58/87</span> · <span>:material-bookmark: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

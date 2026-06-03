@@ -7,11 +7,11 @@ title: "Etapa 13 — Rousseau — Contrato social (Libros I-IV)"
 > El texto que inventa el republicanismo democrático moderno. Rousseau acepta el problema de Hobbes (necesitamos un contrato) pero rechaza su solución (soberano absoluto). Su alternativa — la voluntad general como soberano — es la base intelectual de toda democracia post-1789.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 12-18 h</span> · <span>:material-progress-check: Etapa 13/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 12-18 h</span> · <span>:material-progress-check: Etapa 13/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -68,12 +68,11 @@ Porque sin Rousseau no hay democracia moderna ni crítica a la representación. 
 *¿Cómo puede una asociación humana ser libre y obediente al mismo tiempo?* La pregunta más radical de la filosofía política moderna. La respuesta rousseauniana: si las leyes que obedezco son las que yo mismo (como parte del soberano) me he dado, entonces obedecerlas es ser libre. La solución es elegante; la dificultad está en cuándo y cómo la voluntad general se manifiesta sin ser confundida con la voluntad de la mayoría o la voluntad del partido gobernante.
 
 ## Tareas
-
-- [ ] Leer Libros I-II completos (núcleo conceptual del libro · ~40 pp).
-- [ ] Leer Libro III sobre gobierno + Libro IV caps. 1-2 y 8 (religión civil).
-- [ ] (Opcional pero recomendado) Leer *Discurso sobre el origen de la desigualdad* (~80 pp) — diagnóstico antropológico que precede al *Contrato*.
-- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica fuerte estilo Berlin + conexiones con Hobbes, Locke, jacobinismo, Bolívar).
-- [ ] Escribir nota permanente sobre **voluntad general vs voluntad de todos** (100-300 palabras, conectada — distinguir explícitamente los dos conceptos).
+- [ ] **Lectura de Selección:** Leer Contrato Social Libros I, II y III completos, y Libro IV capítulos 1-2 (la voluntad general) y 8 (la religión civil).
+- [ ] **Estudio Audiovisual (Yale):** Ver las clases 18, 19 y 20 de Steven Smith en Yale Open Courses sobre Rousseau (A Critique of Progress, General Will, Republic) **antes** de comenzar la lectura.
+- [ ] **Crítica de Género (Pateman):** Escribir una nota de 300 palabras analizando si la noción de voluntad general de Rousseau presupone un ciudadano masculino que delega lo doméstico y de qué manera Carole Pateman (*El contrato sexual*) identifica al pacto rousseauniano como un "contrato conyugal" de exclusión de las mujeres.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Maquiavelo, Hobbes, Locke, Mill, Kant, Schmitt).
+- [ ] Escribir nota permanente sobre **la voluntad general en Rousseau** (100-300 palabras, conectada — distinguir de "voluntad de todos").
 
 ## Cómo se estudia esta etapa
 

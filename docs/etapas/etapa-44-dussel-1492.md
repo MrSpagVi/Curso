@@ -7,11 +7,11 @@ title: "Etapa 44 — Dussel — 1492: el encubrimiento del Otro"
 > Frankfurt 1992, en el corazón académico europeo y en el 500 aniversario de la Conquista. Dussel reescribe la historia de la modernidad desde la víctima. La "modernidad" no nace con Descartes ni con la Ilustración — nace en 1492 con la conquista de América. La modernidad es colonial.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 44/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 44/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -35,6 +35,16 @@ Apertura del **bloque C — Decolonial (etapas 43-45)**. Estas tres se leen como
 - **Transmodernidad**: propuesta dusseliana — superar la modernidad **incorporando** lo que excluyó (las víctimas, las epistemologías no-europeas), no rechazándola en bloque (como el postmodernismo).
 - **Ética de la liberación**: la responsabilidad moral primaria es ante la víctima (el rostro del Otro, eco de Levinas), no ante el sujeto autónomo lockeano.
 
+---
+
+### La chispa del debate: Augusto Salazar Bondy y la dependencia cultural
+
+Antes de la emergencia de la Filosofía de la Liberación, el filósofo peruano **Augusto Salazar Bondy** (1925-1974) publicó una obra fundacional: *¿Existe una filosofía de nuestra América?* (1968). 
+
+La tesis de Salazar Bondy es contundente y provocadora: el pensamiento latinoamericano ha sido históricamente **inauténtico, imitativo y alienado**. No porque los latinoamericanos carezcan de capacidad intelectual, sino porque la región vive en una situación estructural de **dependencia económica y colonial**. Al ser sociedades dominadas, nuestra cultura copia los modelos de las metrópolis dominantes (Europa y EE.UU.). Para Salazar Bondy, no puede haber una filosofía latinoamericana auténtica sin antes realizar una **revolución socialista y de liberación nacional** que rompa los lazos materiales de la dependencia.
+
+Enrique Dussel y Leopoldo Zea recogieron este guante. Dussel coincidió en el diagnóstico de la alienación, pero propuso que la propia filosofía no debe esperar a la liberación material, sino que debe actuar como la **autoconciencia teórica del oprimido** y el motor conceptual que impulse esa misma liberación desde el reverso de la modernidad.
+
 ## Las ideas clave del libro
 
 1. **La modernidad nace en 1492, no en 1637 ni en 1789**. Reescritura cronológica de toda la filosofía moderna.
@@ -51,11 +61,13 @@ Apertura del **bloque C — Decolonial (etapas 43-45)**. Estas tres se leen como
 
 ## Tareas
 
-- [ ] Tarea 1 — Leer las 8 conferencias (~150 pp). Si te frustra la densidad, leé primero Quijano (etapa 45, más breve y sistemático) y volvé después a Dussel.
+- [ ] Tarea 1 — Leer las 8 conferencias de Dussel (~150 pp). Si te frustra la densidad, leé primero Quijano (etapa 45, más breve y sistemático) y volvé después a Dussel.
+- [ ] Tarea 1.5 — Leer las Conclusiones de Augusto Salazar Bondy en *¿Existe una filosofía de nuestra América?* (1968, ~20 páginas). Mapear su argumento sobre por qué nuestra filosofía es una "copia imitativa".
 - [ ] Tarea 2 — Nota Zettelkasten: *"Modernidad como encubrimiento — qué cambia si la modernidad nace en 1492 en vez de 1789"*. Conectá con Locke (etapa 17), Rousseau (etapa 13), Smith (etapa 21) — la modernidad anglo-francesa que se desplaza.
 - [ ] Tarea 3 — Ficha de 500 palabras: aplicá el concepto de "encubrimiento" a un debate actual sobre memoria histórica (estatuas de Colón, 12 de octubre, currículos escolares).
 - [ ] Tarea 4 — **Tarea-eje de Fase 4**: ficha comparativa Bueno (etapa 42) vs Dussel (1000 palabras). ¿En qué coinciden (crítica al eurocentrismo anglo)? ¿En qué discrepan radicalmente (rol del Imperio español)? Tomá posición razonada o sostené la tensión sin resolver.
 - [ ] Tarea 5 — Pregunta de retención: ¿qué diferencia "transmodernidad" (Dussel) de "postmodernidad" (Lyotard, Vattimo)? ¿Por qué Dussel rechaza el postmodernismo?
+- [ ] Tarea 6 — Nota comparativa Salazar Bondy vs. Dussel (300 palabras): ¿Puede existir una filosofía propia antes de la liberación material como sostiene Dussel, o la liberación cultural es imposible sin la revolución económica previa como argumentaba Salazar Bondy?
 
 ## Cómo se estudia esta etapa
 
@@ -83,6 +95,7 @@ Apertura del **bloque C — Decolonial (etapas 43-45)**. Estas tres se leen como
 ## Recursos
 
 - [PDF *1492 — El encubrimiento del Otro* (CLACSO)](https://biblioteca.clacso.edu.ar/clacso/otros/20111218114130/1942.pdf) — texto completo gratuito.
+- [PDF *¿Existe una filosofía de nuestra América?* (Augusto Salazar Bondy)](https://repositorio.iep.org.pe/handle/IEP/660) — texto de estudio disponible.
 - [Conferencias de Dussel en YouTube](https://www.youtube.com/results?search_query=enrique+dussel+filosof%C3%ADa+de+la+liberaci%C3%B3n) — su voz oral es clarísima.
 - *Opcional*: Dussel — *Ética de la liberación* (selección, ~150 pp): el desarrollo sistemático posterior.
 - *Crítico*: leelo en pareja con Bueno (etapa 42). La tensión entre ambos es la columna vertebral de Fase 4.

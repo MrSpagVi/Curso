@@ -7,11 +7,11 @@ title: "Etapa 52 — Segato — La guerra contra las mujeres"
 > Argentina/Brasil 2016. La mejor teoría sobre el feminicidio contemporáneo viene de una antropóloga que peritó casos reales en Ciudad Juárez. Tesis: el feminicidio no es desviación individual — es lenguaje del poder patriarcal que comunica algo a otros hombres. La violencia sexual es expresiva, no instrumental.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 15-20 h</span> · <span>:material-progress-check: Etapa 52/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 15-20 h</span> · <span>:material-progress-check: Etapa 52/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -51,12 +51,11 @@ Cierre del **bloque E — Feminismo LATAM (etapas 48-51)** y cierre de toda la *
 *¿Por qué hay feminicidios sistemáticos en América Latina y qué tipo de fenómeno son?* Segato responde con una **teoría antropológica del feminicidio como lenguaje del poder patriarcal**, no como suma de patologías individuales.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leer Introducción + capítulos sobre mandato de masculinidad + pedagogía de la crueldad + Ciudad Juárez. ~250 pp completos si tenés tiempo. 15-20 h.
-- [ ] Tarea 2 — Nota Zettelkasten: *"Feminicidio como lenguaje — qué cambia la teoría expresiva vs la teoría instrumental"*. Conectá con Lugones (etapa 50) — relación y discusión sobre el patriarcado pre-colonial. Conectá con Foucault (etapa 27) — biopolítica + violencia.
-- [ ] Tarea 3 — Ficha de 500 palabras: aplicá la teoría de Segato a un caso real de feminicidio latinoamericano contemporáneo del que tengas información (no se trata de pornografía morbosa — se trata de aplicación analítica). ¿Cómo aparecen mandato de masculinidad y pedagogía de la crueldad?
-- [ ] Tarea 4 — Pregunta de retención y cierre de Fase 4: ¿qué le aportan Segato y Gago (etapa 51) al debate Bueno (etapa 42) vs Dussel (etapa 44)? El feminismo decolonial es **tercera posición** que no se reduce ni a Hispanidad ni a decolonialidad masculina académica. Explicá.
-- [ ] **Steelman de fin de fase — defendé la postura de Fase 4 que MENOS te convenció (o la que peor entendés).** En 500 palabras, sostenela como si fuera tuya, sin disclaimers ni "pero en realidad", con sus mejores argumentos. Candidatos según tu inclinación: si simpatizás con la decolonialidad, defendé el **hispanismo de Gustavo Bueno** (la conquista como proceso civilizatorio, no solo despojo) o la **crítica al "indigenismo culturalista"** que comparten varios autores de la fase; si sos eurocéntrico o liberal, defendé la **colonialidad del poder de Quijano** (la raza como invención colonial que estructura el capitalismo mundial) o la **transmodernidad de Dussel** (la modernidad nace con 1492 y su cara oculta es el colonialismo); si desconfiás de la teoría de género, defendé el **sistema moderno-colonial de género de Lugones** o la **potencia feminista de Gago** (el paro de mujeres como huelga que vuelve visible el trabajo no remunerado). Si no podés sostenerla con sus mejores argumentos, no la entendiste.
+- [ ] Leer Introducción + capítulos sobre mandato de masculinidad, pedagogía de la crueldad y Ciudad Juárez (~250 pp).
+- [ ] **Debate Lugones vs. Segato:** Elaborar una nota Zettelkasten: *"Patriarcado de baja intensidad (Segato) vs. Sistema moderno-colonial de género (Lugones)"*. ¿Existió el patriarcado antes de 1492 (Segato) o es una creación puramente moderno-colonial (Lugones)?
+- [ ] **Extractivismo y Soberanía Corporal:** Elaborar una nota sobre cómo las "nuevas guerras" informales descritas por Segato usan la pedagogía de la crueldad sobre los cuerpos feminizados como un mecanismo de soberanía territorial informal, conectando con las dinámicas de despojo ecoterritorial de Svampa.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Lugones, Foucault, Gago).
+- [ ] **Steelman de fin de fase:** Defender la postura de la Fase 4 que MENOS te convenció en 500 palabras, sosteniéndola con sus mejores argumentos y sin disclaimers.
 
 ## Cómo se estudia esta etapa
 

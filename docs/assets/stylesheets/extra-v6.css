@@ -446,3 +446,321 @@ abbr[title]:hover {
   background-color: var(--g-accent-soft);
   border-bottom-style: solid;
 }
+
+/* === Coursera-style Dashboard & Accordion Timeline === */
+
+.curso-dashboard-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+  margin-top: 1.5rem;
+}
+
+.curso-dashboard-header {
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-border);
+  border-radius: 12px;
+  padding: 1.75rem 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+  box-shadow: 0 4px 15px rgba(28, 24, 20, 0.03);
+}
+
+.curso-dashboard-info {
+  flex: 1 1 300px;
+}
+
+.curso-dashboard-title {
+  font-family: "Crimson Pro", Georgia, serif;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  color: var(--md-default-fg-color);
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+.curso-dashboard-desc {
+  font-size: 0.9rem;
+  color: var(--md-default-fg-color--light);
+  margin: 0;
+  line-height: 1.5;
+}
+
+.curso-dashboard-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 1rem;
+  width: 100%;
+}
+
+.curso-stat-card {
+  border: 1px solid var(--g-border);
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.02);
+}
+[data-md-color-scheme="slate"] .curso-stat-card {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.curso-stat-number {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--g-accent);
+  margin-bottom: 0.2rem;
+  font-family: "Inter", sans-serif;
+}
+
+.curso-stat-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Timeline Accordion */
+.timeline-accordion-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.phase-accordion {
+  border: 1px solid var(--g-border);
+  border-radius: 8px;
+  background: var(--g-card-bg);
+  overflow: hidden;
+  transition: all 0.2s ease;
+}
+
+.phase-accordion-header {
+  padding: 1rem 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+  background: rgba(0,0,0,0.01);
+  transition: background-color 0.15s ease;
+}
+
+.phase-accordion-header:hover {
+  background: var(--g-accent-soft);
+}
+
+.phase-accordion-title-block {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  align-items: flex-start;
+}
+
+.phase-accordion-num {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  color: var(--g-accent);
+}
+
+.phase-accordion-name {
+  font-family: "Crimson Pro", Georgia, serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color);
+  margin: 0;
+}
+
+.phase-accordion-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.phase-accordion-badge {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+  font-weight: 500;
+  font-family: "Inter", sans-serif;
+  background: var(--g-border);
+  color: var(--md-default-fg-color--light);
+}
+
+.phase-accordion-badge.completed {
+  background: rgba(46, 125, 50, 0.12);
+  color: #2e7d32;
+  border: 1px solid rgba(46, 125, 50, 0.2);
+}
+[data-md-color-scheme="slate"] .phase-accordion-badge.completed {
+  color: #81c784;
+}
+
+.phase-accordion-badge.in-progress {
+  background: rgba(183, 129, 3, 0.12);
+  color: #b78103;
+  border: 1px solid rgba(183, 129, 3, 0.2);
+}
+[data-md-color-scheme="slate"] .phase-accordion-badge.in-progress {
+  color: #ffd54f;
+}
+
+.phase-accordion-chevron {
+  transition: transform 0.25s ease;
+  display: flex;
+  align-items: center;
+  color: var(--md-default-fg-color--light);
+}
+
+.phase-accordion-chevron svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  fill: currentColor;
+}
+
+.phase-accordion.open .phase-accordion-chevron {
+  transform: rotate(180deg);
+}
+
+.phase-accordion-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, border-top 0.15s ease-out;
+  background: var(--md-default-bg-color);
+  border-top: 0px solid var(--g-border);
+}
+
+.phase-accordion.open .phase-accordion-body {
+  max-height: 2000px;
+  border-top: 1px solid var(--g-border);
+}
+
+.stage-list {
+  list-style: none;
+  margin: 0 !important;
+  padding: 0.5rem 0 !important;
+  display: flex;
+  flex-direction: column;
+}
+
+.stage-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.65rem 1.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+  transition: background-color 0.15s ease;
+  font-family: "Inter", sans-serif;
+  font-size: 0.85rem;
+  margin: 0 !important;
+}
+[data-md-color-scheme="slate"] .stage-item {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+.stage-item:last-child {
+  border-bottom: none;
+}
+
+.stage-item:hover {
+  background: var(--g-accent-soft);
+}
+
+.stage-link-block {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex: 1;
+  text-decoration: none !important;
+  color: inherit !important;
+  background-image: none !important; /* disable underline */
+}
+
+.stage-num-badge {
+  font-size: 0.72rem;
+  font-weight: 600;
+  width: 1.8rem;
+  height: 1.8rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--g-border);
+  color: var(--md-default-fg-color--light);
+  flex-shrink: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.stage-item.completed .stage-num-badge {
+  background: #2e7d32;
+  color: white;
+}
+[data-md-color-scheme="slate"] .stage-item.completed .stage-num-badge {
+  background: #4caf50;
+  color: #000;
+}
+
+.stage-item.in-progress .stage-num-badge {
+  background: #b78103;
+  color: white;
+}
+[data-md-color-scheme="slate"] .stage-item.in-progress .stage-num-badge {
+  background: #ffd54f;
+  color: #000;
+}
+
+.stage-item-title {
+  color: var(--md-default-fg-color);
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+.stage-item:hover .stage-item-title {
+  color: var(--g-accent);
+}
+
+.stage-item-progress-info {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-shrink: 0;
+}
+
+.stage-progress-text {
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.stage-state-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #9e9e9e;
+}
+
+.stage-item.completed .stage-state-dot {
+  background: #4caf50;
+}
+
+.stage-item.in-progress .stage-state-dot {
+  background: #ffb300;
+}
+
+/* Resume course button styling */
+.resume-btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+  width: 100%;
+}

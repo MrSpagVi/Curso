@@ -1,17 +1,17 @@
 ---
-title: "Etapa 71 — Filgueira et al. — Universalismo básico en América Latina"
+title: "Etapa 73 — Filgueira et al. — Universalismo básico en América Latina"
 ---
 
-# Etapa 71 — Filgueira et al. — Universalismo básico en América Latina
+# Etapa 73 — Filgueira et al. — Universalismo básico en América Latina
 
 > Esping-Andersen no encaja limpio en América Latina. Filgueira propone tres categorías propias (universalismo estratificado, dualismo, exclusionismo) y una propuesta normativa: el **universalismo básico** como salida razonable para la región. Lectura puente entre teoría comparada y diseño de política social regional.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 6-8 h</span> · <span>:material-progress-check: Etapa 71/85</span> · <span>:material-bookmark: Libro/Informe BID</span>
+<span>:material-clock-outline: 6-8 h</span> · <span>:material-progress-check: Etapa 73/87</span> · <span>:material-bookmark: Libro/Informe BID</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -49,11 +49,10 @@ El libro *Universalismo básico: una nueva política social para América Latina
 *¿Cómo se piensa una política social latinoamericana sin copiar Suecia ni resignarse al Banco Mundial?* Respuesta: con un piso universal de prestaciones esenciales financiado con impuestos generales, complementado por programas focalizados de transferencias y servicios para poblaciones específicas. Es la **síntesis pragmática** entre universalismo escandinavo y focalización del Consenso de Washington.
 
 ## Tareas
-
-- [ ] Leer caps. 1 ("Universalismo básico: una nueva política social para América Latina") y 3 ("Sobre la radicalidad de la propuesta del universalismo básico"). ~80 pp del PDF BID.
-- [ ] Hacer una **tabla 3x3**: tres regímenes regionales × tres dimensiones (cobertura, estratificación, sector típicamente excluido). Notas sobre dónde está Argentina hoy.
-- [ ] Escribir 1 nota permanente: *¿Es la AUH una expresión de universalismo básico o un PTC clásico?* Defender la respuesta con texto de Filgueira + dato concreto sobre AUH.
-- [ ] Anotar 2 críticas al universalismo básico: (a) crítica "izquierdista" (Lo Vuolo: el piso es bajo, refuerza dualismo); (b) crítica "técnica" (BID ortodoxo / Banco Mundial: la focalización pura es más costo-efectiva).
+- [ ] **Lectura Completa:** Leer el documento de Filgueira sobre *Universalismo básico en América Latina* (~50 pp del PDF BID).
+- [ ] **Crisis de Cuidados:** Evaluar el impacto de la "crisis contemporánea de los cuidados" y el "familiarismo por defecto" en la propuesta de universalismo básico para América Latina. ¿Cómo debe modificarse el piso de prestaciones del universalismo básico para incorporar los cuidados de manera no familiarista? Escribir una nota de 300 palabras.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Esping-Andersen, CEPAL).
+- [ ] Escribir nota permanente sobre **el universalismo básico latinoamericano** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

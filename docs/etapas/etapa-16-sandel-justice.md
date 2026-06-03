@@ -7,11 +7,11 @@ title: "Etapa 16 — Sandel — Justice (Episodios 1 y 5)"
 > Dos clases de Michael Sandel en Harvard (gratis en YouTube). El curso de filosofía política más visto del mundo. Acá se usan dos episodios: el primero (utilitarismo y los dilemas trolley) y el quinto (libertarianismo y Mill).
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 2 h</span> · <span>:material-progress-check: Etapa 16/85</span> · <span>:material-bookmark: Audiovisual</span>
+<span>:material-clock-outline: 2 h</span> · <span>:material-progress-check: Etapa 16/87</span> · <span>:material-bookmark: Audiovisual</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

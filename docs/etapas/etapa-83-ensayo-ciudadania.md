@@ -1,17 +1,17 @@
 ---
-title: "Etapa 81 — Ensayo tema-bisagra — Ciudadanía"
+title: "Etapa 83 — Ensayo tema-bisagra — Ciudadanía"
 ---
 
-# Etapa 81 — Ensayo tema-bisagra — Ciudadanía
+# Etapa 83 — Ensayo tema-bisagra — Ciudadanía
 
 > Segundo ensayo del Ciclo III. El tema-bisagra más limpio: estatus jurídico, derecho social e identidad cultural son tres acepciones que casi nunca se separan en el debate público.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 81/85</span> · <span>:material-bookmark: Ensayo</span>
+<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 83/87</span> · <span>:material-bookmark: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

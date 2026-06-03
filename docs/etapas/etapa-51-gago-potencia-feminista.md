@@ -7,11 +7,11 @@ title: "Etapa 51 — Gago — La potencia feminista"
 > Buenos Aires 2019. Una socióloga UBA militante del colectivo Ni Una Menos teoriza desde dentro la marea feminista latinoamericana del XXI. Las huelgas feministas (8M argentino) son insurrecciones contra el neoliberalismo entero — porque las mujeres sostienen la reproducción social que el neoliberalismo precariza. Cuerpo-territorio: las luchas feministas y las extractivistas son la misma.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 12-18 h</span> · <span>:material-progress-check: Etapa 51/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 12-18 h</span> · <span>:material-progress-check: Etapa 51/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -51,11 +51,10 @@ Tercera etapa del **bloque E — Feminismo LATAM (etapas 48-51)**. Si González 
 *¿Qué es lo nuevo, política y teóricamente, en la marea feminista latinoamericana del XXI?* Gago responde con un marco que articula spinozismo (potencia), marxismo feminista (Federici, reproducción social), foucaultianismo (razón neoliberal) y experiencia situada del movimiento argentino-latinoamericano contemporáneo.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leer Introducción + 3-4 capítulos clave (los que tratan huelga feminista, cuerpo-territorio, deuda y neoliberalismo). ~200 pp completos si tenés tiempo. 12-18 h.
-- [ ] Tarea 2 — Nota Zettelkasten: *"Cuerpo-territorio — cómo la categoría conecta luchas feministas y extractivistas"*. Conectá con Cusicanqui (etapa 46, Bolivia y movimientos territoriales) y con Galeano (etapa 41, extractivismo histórico).
-- [ ] Tarea 3 — Ficha de 500 palabras: aplicá las categorías de Gago a un movimiento feminista contemporáneo concreto (Ni Una Menos en Argentina, marea verde por el aborto, paro internacional 8M en tu ciudad). ¿Qué describe bien la categoría "potencia"? ¿Qué se le escapa?
-- [ ] Tarea 4 — Pregunta de retención: ¿en qué se diferencia el feminismo argentino-latinoamericano contemporáneo del feminismo estadounidense liberal (tipo Sheryl Sandberg "lean in")? Anticipá tres diferencias estructurales.
+- [ ] Leer Introducción + 3-4 capítulos clave (los que tratan huelga feminista, cuerpo-territorio, deuda y neoliberalismo).
+- [ ] **Neoextractivismo y Cuerpo:** Conectar el concepto de *cuerpo-territorio* de Gago con el diagnóstico del "giro ecoterritorial" de Maristella Svampa. Elaborar una nota crítica sobre cómo la violencia económica del endeudamiento femenino se conecta con el despojo de los territorios a manos de corporaciones extractivas.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Cusicanqui, Galeano).
+- [ ] Escribir nota permanente sobre **cuerpo-territorio en Gago** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

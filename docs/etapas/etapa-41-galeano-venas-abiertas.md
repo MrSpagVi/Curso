@@ -7,11 +7,11 @@ title: "Etapa 41 — Galeano — Las venas abiertas de América Latina"
 > Uruguay 1971. Un periodista de 31 años escribe el libro de divulgación política más influyente de la historia latinoamericana. La pobreza no es destino — es producto del saqueo continuo. Polémico pero formativo: el propio Galeano matizó el libro 40 años después.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-22 h</span> · <span>:material-progress-check: Etapa 41/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-22 h</span> · <span>:material-progress-check: Etapa 41/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -50,12 +50,10 @@ Cierre del **bloque A — Clásicos LATAM**. Galeano traduce a divulgación masi
 *¿Cómo se produjo la pobreza latinoamericana y quién se enriqueció a costa de ella?* Galeano responde con una **narrativa histórica continua** desde 1492 hasta los 70, organizada por bloques: la pobreza del oro y la plata, la pobreza del azúcar, la pobreza del café/cacao, la pobreza minera, la pobreza del petróleo, la pobreza financiera.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leer Introducción + Parte I completa ("La pobreza del hombre como resultado de la riqueza de la tierra"). Si tenés energía, completá Parte II y III. Mínimo 18 h.
-- [ ] Tarea 2 — Nota Zettelkasten: *"Galeano: tesis macro vs detalles micro — qué hay que aceptar y qué hay que ajustar"*. Conectá con Mariátegui (etapa 25) y con la futura etapa 45 (Quijano, colonialidad).
-- [ ] Tarea 3 — Ficha crítica de 400 palabras: ¿qué logra Galeano (síntesis política accesible, denuncia con prosa potente) y qué omite (matiz histórico, complicidad sistemática de élites locales, dimensión cultural)?
-- [ ] Tarea 4 — Pregunta de retención: contá la autocrítica de Galeano en 2014 con tus palabras. ¿Cambia la validez del libro? ¿Por qué sí o por qué no?
-- [ ] Tarea 5 — Ensayo breve (500 palabras): "¿Es *Las venas abiertas* vehículo de conciencia o propaganda simplificadora?" Tomá posición con argumentos y citas concretas del libro.
+- [ ] Leer Introducción + Parte I completa ("La pobreza del hombre como resultado de la riqueza de la tierra").
+- [ ] **Giro Ecoterritorial (Svampa):** Leer fragmentos de *Las fronteras del neoextractivismo en América Latina* (2019) de Maristella Svampa. Elaborar una nota de 300 palabras sobre el paso de la Teoría de la Dependencia clásica al "Consenso de los Commodities" contemporáneo.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Mariátegui, Quijano).
+- [ ] Escribir nota permanente sobre **la dependencia económica en Galeano** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

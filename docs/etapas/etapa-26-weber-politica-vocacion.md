@@ -7,11 +7,11 @@ title: "Etapa 26 — Weber — La política como vocación"
 > Conferencia corta y fundacional: el Estado como monopolio de la violencia legítima, los tres tipos de legitimidad y la ética del político adulto. Pilar de toda la sociología política posterior.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 5-7 h</span> · <span>:material-progress-check: Etapa 26/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 5-7 h</span> · <span>:material-progress-check: Etapa 26/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

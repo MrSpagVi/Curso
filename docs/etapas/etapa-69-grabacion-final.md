@@ -1,17 +1,17 @@
 ---
-title: "Etapa 67 — Grabación oral final (10 minutos, sin notas)"
+title: "Etapa 69 — Grabación oral final (10 minutos, sin notas)"
 ---
 
-# Etapa 67 — Grabación oral final (10 minutos, sin notas)
+# Etapa 69 — Grabación oral final (10 minutos, sin notas)
 
 > El test brutal del plan. 10 minutos de voz propia, sin notas, sin guión leído, defendiendo la tesis del ensayo. Si no podés explicarlo así, no lo entendiste.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 5-10 h</span> · <span>:material-progress-check: Etapa 67/85</span> · <span>:material-bookmark: Síntesis</span>
+<span>:material-clock-outline: 5-10 h</span> · <span>:material-progress-check: Etapa 69/87</span> · <span>:material-bookmark: Síntesis</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

@@ -7,11 +7,11 @@ title: "Etapa 23 — Marx — El Capital Libro I (caps. 1, 4, 24)"
 > El análisis más sistemático del capitalismo jamás escrito, leído en selección estratégica (mercancía → capital → acumulación originaria) y en paralelo al curso de David Harvey.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 50-70 h</span> · <span>:material-progress-check: Etapa 23/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 50-70 h</span> · <span>:material-progress-check: Etapa 23/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -46,12 +46,10 @@ El contexto material que Marx analiza es **el capitalismo industrial inglés en 
 Marx no responde "¿es bueno o malo el capitalismo?" — responde **cómo funciona**. Saber cómo funciona es prerrequisito para cualquier crítica seria, sea desde la izquierda o desde la derecha. Por eso *El Capital* sigue leyéndose 160 años después: nadie analizó la mecánica del sistema con esa profundidad antes ni después.
 
 ## Tareas
-
-- [ ] **Tarea 1 — Pre-lectura obligatoria con Harvey (4-6 h):** mirá las **clases 1 y 2 de David Harvey** *Reading Marx's Capital* (etapa 24) **antes** de abrir el cap. 1. Esta secuencia es no negociable. La clase 1 de Harvey es la mejor introducción al método de Marx escrita en cualquier idioma; sin ella, el cap. 1 te tira al piso.
-- [ ] **Tarea 2 — Acumulación originaria primero (cap. 24, 8-12 h):** **empezá por el cap. 24, no por el 1**. Es el capítulo más narrativo de todo el libro, lleno de evidencia histórica (cercados ingleses, descubrimiento de América, esclavitud), prosa furiosa, ejemplos concretos. Te engancha. Te da la **motivación emocional y conceptual** para entrar después al cap. 1.
-- [ ] **Tarea 3 — Transformación dinero en capital (cap. 4, 10-14 h):** acá entendés qué es la plusvalía. Capítulo central del libro entero. Leelo despacio: la fórmula M-D-M (mercancía-dinero-mercancía, lógica del intercambio simple) vs D-M-D' (dinero-mercancía-dinero aumentado, lógica del capital) es el eje. Combinalo con Harvey clase 3.
-- [ ] **Tarea 4 — La mercancía y el fetichismo (cap. 1, 18-24 h):** el más difícil de todo el plan. **Hacelo último, no primero**. Para entonces ya tenés la motivación (cap. 24) y la lógica del valor en marcha (cap. 4). Leelo en 3-4 pasadas: primera para ver el contorno, segunda para detallar la forma del valor, tercera para el fetichismo. Combinalo con Harvey clases 1 y 2 ya releídas.
-- [ ] **Tarea 5 — Ejercicio puente Marx → Mariátegui (90 min, OBLIGATORIO):** escribí 300 palabras aplicando **plusvalía + acumulación originaria** a un conflicto laboral concreto argentino de los últimos 5 años (sugerencias: trabajadores de plataformas Rappi/PedidosYa, conflicto del litio en Jujuy, soja y desplazamiento campesino, conflicto Atucha-energía). Específicamente: ¿quién extrae plusvalor de quién? ¿Hay procesos de acumulación originaria (desposesión, despojo) hoy? Después contestá esta pregunta: *"¿En qué se diferencia la acumulación originaria de Marx (cercado inglés siglo XVI, separación violenta del campesino) de la acumulación originaria que verá Mariátegui en el latifundismo peruano de 1928 (servidumbre indígena, gamonalismo)?"* Guardá la respuesta — la vas a releer al terminar la etapa 25.
+- [ ] **Lectura de Selección:** Leer El Capital Libro I Capítulos 1 a 4 (Mercancía, Dinero, Transformación del dinero en capital), 6 y 7 (Fuerza de trabajo y plusvalía), 10 (Jornada laboral), y 24-25 (Acumulación originaria).
+- [ ] **Ruptura Metabólica y Ecología:** Identificar cómo la explotación del plusvalor se conecta con el concepto de la "ruptura metabólica" de Marx (la perturbación del metabolismo social y natural del suelo que describe en el Cap. XIII). Escribir una nota de 300 palabras aplicándolo a un conflicto extractivista actual (ej. soja o litio).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Smith, Hegel, Harvey).
+- [ ] Escribir nota permanente sobre **la plusvalía en Marx** (100-300 palabras, conectada — de qué manera la ganancia capitalista proviene de trabajo no pagado).
 
 ## Cómo se estudia esta etapa
 

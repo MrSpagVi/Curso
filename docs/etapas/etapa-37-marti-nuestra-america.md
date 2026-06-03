@@ -7,11 +7,11 @@ title: "Etapa 37 — Martí — Nuestra América"
 > En diez páginas, Martí inventa "Nuestra América" como categoría política distinta de "la otra América". El manifiesto fundacional del latinoamericanismo moderno, escrito desde Nueva York por un cubano que predice con siete años de anticipación el imperialismo estadounidense.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 1-2 h</span> · <span>:material-progress-check: Etapa 37/85</span> · <span>:material-bookmark: Ensayo</span>
+<span>:material-clock-outline: 1-2 h</span> · <span>:material-progress-check: Etapa 37/87</span> · <span>:material-bookmark: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -49,9 +49,10 @@ Segunda etapa del **bloque A — Clásicos LATAM (etapas 35-40)**. Es Bolívar 7
 *¿Qué tipo de proyecto político-cultural debe construir "Nuestra América" para no ser apéndice de Europa ni colonia de Estados Unidos?* Martí responde con un programa cultural-político: conocer el propio terreno, gobernar con materiales propios, defenderse del vecino del Norte mediante unidad continental y robustez identitaria.
 
 ## Tareas
-
 - [ ] Tarea 1 — Leer *Nuestra América* completo en una sentada (HTML Ciudad Seva, ~10 pp). Subrayá las 5 frases más famosas (te van a saltar a la vista).
+- [ ] Tarea 1.5 (Metodología) — Identificar y enlistar los 3 ataques principales de Martí a la figura del "letrado artificial" que gobierna con textos importados.
 - [ ] Tarea 2 — Nota Zettelkasten: *"Martí inventa 'Nuestra América' como categoría política — cómo se diferencia de la Hispanoamérica bolivariana"*. Conectá con etapa 36.
+- [ ] Tarea 2.5 (Conexión Crítica) — Conectar la crítica martiana al saber importado con el concepto gramsciano de "hegemonía" (etapa 32) y la noción de "colonialidad del saber" de Quijano (etapa 45).
 - [ ] Tarea 3 — Ficha comparativa Bolívar (etapa 36) vs Martí: ¿qué cambió en 76 años? ¿qué sigue igual? 300 palabras.
 - [ ] Tarea 4 — Pregunta de retención (sin consultar): ¿qué le critica Martí al modelo Sarmiento de "civilización vs barbarie"? ¿Por qué la "barbarie" indígena es parte del proyecto martiano?
 

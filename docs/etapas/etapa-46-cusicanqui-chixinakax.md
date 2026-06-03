@@ -7,11 +7,11 @@ title: "Etapa 46 — Cusicanqui — Ch'ixinakax utxiwa"
 > La propuesta conceptual más original de Latinoamérica en los últimos 20 años. Una socióloga aymara boliviana rompe con (a) las teorías del mestizaje (Vasconcelos), (b) la academia decolonial gringa (Mignolo, Walsh), y (c) el indianismo esencialista. Ch'ixi: convivir lo indígena y lo europeo sin sintetizarlos.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 6-8 h</span> · <span>:material-progress-check: Etapa 46/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 6-8 h</span> · <span>:material-progress-check: Etapa 46/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -50,11 +50,11 @@ Cierre del **bloque C — Decolonial (etapas 43-45)**. Cusicanqui **critica desd
 *¿Cómo se piensa políticamente desde una identidad que es simultáneamente indígena y mestiza sin sintetizarlas?* Cusicanqui responde con el concepto ch'ixi: una **ontología de la convivencia tensa** que rechaza tanto la síntesis hegeliana como la pureza esencialista.
 
 ## Tareas
-
-- [ ] Tarea 1 — Ver primero la entrevista de Cusicanqui en Canal Encuentro (Historias debidas VIII, ~1 h) o "Un mundo ch'ixi es posible" (Gernika 2021, ~1 h). Su voz oral aclara MUCHO. Es **requisito previo** para entender el libro.
-- [ ] Tarea 2 — Leer el ensayo central (~60 pp en español, o la versión inglesa abierta). 4-5 h.
-- [ ] Tarea 3 — Nota Zettelkasten: *"Ch'ixi vs mestizaje vs hibridación — qué hace distinto al concepto"*. Conectá con Vasconcelos (etapa 39, mestizaje) y con Paz (etapa 40, lo mexicano enmascarado). Compará con García Canclini (hibridación, no leído).
-- [ ] Tarea 4 — Ficha de 500 palabras: aplicá ch'ixi a tu propia identidad o a un fenómeno cultural actual concreto (alguien que vive entre culturas, una práctica que mezcla sin sintetizar, una ciudad ch'ixi).
+- [ ] Leer el ensayo central completo (~60 pp).
+- [ ] **Colonialismo Interno:** Escribir una nota de 300 palabras analizando el concepto de "colonialismo interno" de Silvia Rivera Cusicanqui. ¿Cómo utiliza el Estado republicano e incluso el gobierno plurinacional la retórica indígena para justificar el neoextractivismo y el despojo de los territorios comunitarios?
+- [ ] **Diálogo con Bolívar Echeverría:** Redactar un micro-ensayo (400 palabras) comparando lo *ch'ixi* con el *ethos barroco* de Bolívar Echeverría (etapa 43): ¿de qué manera ambas propuestas intentan pensar la hibridez cultural sin recurrir a la síntesis armonizadora de la modernidad capitalista?
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Vasconcelos, Paz).
+- [ ] Escribir nota permanente sobre **lo ch'ixi frente al mestizaje** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

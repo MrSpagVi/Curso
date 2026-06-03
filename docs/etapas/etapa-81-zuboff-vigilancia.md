@@ -1,17 +1,17 @@
 ---
-title: "Etapa 79 — Zuboff — La era del capitalismo de la vigilancia (selección)"
+title: "Etapa 81 — Zuboff — La era del capitalismo de la vigilancia (selección)"
 ---
 
-# Etapa 79 — Zuboff — La era del capitalismo de la vigilancia (selección)
+# Etapa 81 — Zuboff — La era del capitalismo de la vigilancia (selección)
 
 > Cierre del M6 y del Ciclo III por el lado contemporáneo. Zuboff diagnostica una nueva lógica de acumulación capitalista: extraer **excedente conductual** del comportamiento humano para predecir y modificar conductas. El "nuevo poder" no es totalitarismo — es **instrumentarismo**. ~700 pp; leer por capítulos seleccionados.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 15-20 h</span> · <span>:material-progress-check: Etapa 79/85</span> · <span>:material-bookmark: Libro (selección)</span>
+<span>:material-clock-outline: 15-20 h</span> · <span>:material-progress-check: Etapa 81/87</span> · <span>:material-bookmark: Libro (selección)</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -52,17 +52,10 @@ Contexto: post-Cambridge Analytica (2018), pre-pandemia (2019), pleno auge de Go
 *¿Qué tipo de capitalismo es el de plataformas — más allá de la metáfora "tu atención es la mercancía"?* Respuesta de Zuboff: es una lógica de acumulación específica con materia prima (excedente conductual), productos (predicciones), mercados (futuros conductuales) y forma de poder (instrumentarismo). Entender esto cambia tanto el diagnóstico como las salidas regulatorias posibles.
 
 ## Tareas
-
-- [ ] Leer **la selección por capítulos sugerida**, no el libro entero (sería 700 pp):
-    - **Cap. 1 "Home or exile in the digital future?"** — introducción al concepto general (~30 pp).
-    - **Cap. 7 "The reality business"** — la extracción operativa, cómo se construyen los productos predictivos (~40 pp).
-    - **Caps. 16-18** — instrumentarismo, el nuevo poder, la división del aprendizaje (~80 pp).
-    - **Conclusión** — los derechos al futuro (~15 pp).
-    - Total seleccionado: ~165-180 pp.
-- [ ] **1 nota permanente por concepto**: excedente conductual, productos predictivos, mercados de futuros conductuales, instrumentarismo, división del aprendizaje. Cinco notas mínimo.
-- [ ] Aplicar el marco a un caso argentino: ¿cómo opera la extracción de excedente conductual en una plataforma local (Mercado Libre, Despegar, app del banco)? ¿Hay productos predictivos visibles (descuentos personalizados, prioridad de búsqueda)? ¿Quién compra esas predicciones? Texto de 300 palabras.
-- [ ] Anotar la **comparación Zuboff-Varoufakis**: Varoufakis (*Tecnofeudalismo*, 2023) discute con Zuboff — para él no es "capitalismo nuevo" sino algo POST-capitalista (tecnofeudalismo donde la renta de plataforma reemplaza la ganancia). ¿Quién describe mejor el fenómeno? Anotar posición propia.
-- [ ] Conectar Zuboff con Polanyi (etapa 69): si el siglo XIX inventó tres mercancías ficticias (trabajo, tierra, dinero), ¿el siglo XXI inventa una cuarta (conducta humana)? ¿Qué doble movimiento defensivo es esperable? Texto de 250 palabras.
+- [ ] **Lectura de Selección:** Leer de La era del capitalismo de la vigilancia la Introducción, Capítulos 1 a 3, 11 y 18 (omitir el resto, ~200 pp).
+- [ ] **Colonialismo de Datos:** Leer a Nick Couldry y Ulises Mejías (*The Costs of Connection*, 2019) y redactar una nota de 350 palabras sobre cómo el capitalismo de plataformas opera como un **"colonialismo de datos"** que extrae recursos conductuales del Sur Global sin transferir soberanía tecnológica, vinculándolo con el doble movimiento de Polanyi y la soberanía digital (Morozov).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Marx, Polanyi, Williams, Hall).
+- [ ] Escribir nota permanente sobre **capitalismo de vigilancia** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

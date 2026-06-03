@@ -1,17 +1,17 @@
 ---
-title: "Etapa 68 — Marshall — Ciudadanía y clase social"
+title: "Etapa 70 — Marshall — Ciudadanía y clase social"
 ---
 
-# Etapa 68 — Marshall — Ciudadanía y clase social
+# Etapa 70 — Marshall — Ciudadanía y clase social
 
 > Abre M5. Marshall fija el vocabulario de toda discusión moderna sobre Estado de bienestar: ciudadanía como estatus que se expande en tres oleadas (civil, política, social) y entra en tensión con la desigualdad de clase del capitalismo.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 4-6 h</span> · <span>:material-progress-check: Etapa 68/85</span> · <span>:material-bookmark: Paper/Conferencia</span>
+<span>:material-clock-outline: 4-6 h</span> · <span>:material-progress-check: Etapa 70/87</span> · <span>:material-bookmark: Paper/Conferencia</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -49,7 +49,8 @@ Cada oleada se monta sobre la anterior. La ciudadanía social **NO es caridad**:
 
 ## Tareas
 
-- [ ] Leer las pp. 15-50 del PDF (núcleo del argumento). Tomar nota permanente con la **tipología de las 3 oleadas** + ejemplo argentino de cada una.
+- [ ] **Lectura Completa:** Leer el ensayo *Ciudadanía y clase social* completo (~70 pp).
+- [ ] **Tipología de las 3 oleadas:** Tomar nota permanente con la tipología de las 3 oleadas y mapear un ejemplo argentino de cada una en el siglo XX.
 - [ ] Hacer una tabla de 3 columnas (civil / político / social) con: siglo, institución que lo cristaliza, ejemplo argentino concreto (Constitución 1853, voto Sáenz Peña 1912, salud pública / educación 1884).
 - [ ] Escribir 1 nota permanente respondiendo: *¿qué derechos sociales tiene un trabajador argentino hoy y de qué leyes vienen?* (mínimo: salud pública, educación, AUH, jubilación, ART).
 - [ ] Anotar 1 objeción contemporánea a Marshall (ej.: ¿qué pasa con migrantes sin ciudadanía formal? ¿Y con la ciudadanía cultural / derechos de identidad que Fraser y Hall agregan después?).

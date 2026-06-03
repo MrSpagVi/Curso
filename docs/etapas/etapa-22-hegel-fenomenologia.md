@@ -7,11 +7,11 @@ title: "Etapa 22 — Hegel — Fenomenología del Espíritu + Filosofía del der
 > El puente entre el idealismo alemán y la economía política: la dialéctica del amo y el esclavo, la idea de que la libertad se realiza en instituciones, y el método dialéctico que Marx hereda y pone "de pie".
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-24 h</span> · <span>:material-progress-check: Etapa 22/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-24 h</span> · <span>:material-progress-check: Etapa 22/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -46,12 +46,10 @@ La **Filosofía del derecho** (1820, con 1821 fechado en la portada) la escribe 
 Hegel da vuelta el supuesto liberal de que el individuo libre es el punto de partida. Para él es el **punto de llegada** de un proceso histórico y social. Entender esto es el prerrequisito para entender a Marx, que toma el aparato dialéctico de Hegel y lo aplica a la economía. Por eso esta etapa es bisagra: cierra la filosofía clásica que venís leyendo y abre la economía política crítica que sigue.
 
 ## Tareas
-
-- [ ] **Tarea 1 — Mirá una intro a Hegel ANTES de abrir el libro (2-3 h):** Hegel no se lee en crudo. Buscá una clase introductoria en video (ej. *La Fonda Filosófica* en español, ver Recursos) que cubra el método dialéctico, el *Geist* y el lugar de Hegel después de Kant. Esto es no negociable: sin un mapa previo, las primeras páginas de la Fenomenología te tiran al piso. Tomá notas de los tres conceptos: *Geist*, dialéctica, *Aufhebung*.
-- [ ] **Tarea 2 — Dialéctica del amo y el esclavo (8-12 h):** leé SOLO la sección "Independencia y dependencia de la autoconciencia: señorío y servidumbre" de la Fenomenología (el pasaje del amo y el esclavo). Son pocas páginas pero densísimas. Leelas en 2-3 pasadas, con un comentario al lado. Al terminar, escribí en tus palabras: ¿por qué el amo termina siendo el dependiente y el esclavo el que transforma el mundo?
-- [ ] **Tarea 3 — El método dialéctico, sin mito (90 min):** asegurate de poder explicar, sin la muletilla "tesis-antítesis-síntesis", qué es la *Aufhebung* (abolir + conservar + elevar) y por qué el motor es la contradicción interna y no una receta de tres pasos. Si solo te queda "tesis-antítesis-síntesis", no entendiste a Hegel todavía.
-- [ ] **Tarea 4 — Sociedad civil vs. Estado ético (4-6 h):** leé la introducción y los parágrafos sobre sociedad civil y Estado de la Filosofía del derecho (apoyate en un resumen o en la entrada de Stanford Encyclopedia). Después escribí 250 palabras contrastando: ¿en qué se diferencia el Estado de Hegel del Estado mínimo de Locke/Mill que leíste antes? ¿Quién tiene razón sobre dónde "vive" la libertad?
-- [ ] **Tarea 5 — Ejercicio puente Hegel → Marx (90 min, OBLIGATORIO):** releé tus notas de la Tarea 2 (amo y esclavo) y respondé: si reemplazás "amo" por capitalista y "esclavo" por trabajador asalariado, ¿qué le pasa a la idea de que *el que trabaja transforma el mundo*? ¿Dónde está, en la dialéctica de Hegel, la semilla de la plusvalía de Marx (el trabajo que produce más valor del que recibe)? Guardá esta respuesta: la vas a releer apenas empieces la etapa 23, donde Marx dice tomar de Hegel el método pero ponerlo "de pie sobre sus pies" (de lo espiritual a lo material).
+- [ ] **Lectura de Selección:** Leer la sección "Independencia y dependencia de la autoconciencia: dominio y servidumbre" en *Fenomenología del Espíritu*; y de *Filosofía del Derecho* la Introducción y las secciones sobre la "Sociedad Civil" y el "Estado".
+- [ ] **Lucha por el Reconocimiento (Honneth):** Escribir una nota de 300 palabras explicando cómo la dialéctica del reconocimiento de Hegel se actualiza en la teoría del reconocimiento de Axel Honneth como motor de los movimientos de estatus contemporáneos (minorías sexuales, de género y raciales).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Marx, Hobbes, Rawls).
+- [ ] Escribir nota permanente sobre **la dialéctica de amo y esclavo** (100-300 palabras, conectada — el trabajo como autoconstitución y reconocimiento).
 
 ## Cómo se estudia esta etapa
 

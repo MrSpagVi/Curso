@@ -7,11 +7,11 @@ title: "Etapa 38 — Rodó — Ariel"
 > En 1900, dos años después del 98, un uruguayo de 29 años escribe la respuesta cultural latinoamericana al expansionismo estadounidense. Ariel (espíritu) contra Calibán (instinto utilitario). Definirá la auto-comprensión cultural de Latinoamérica durante 30 años.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 38/85</span> · <span>:material-bookmark: Ensayo</span>
+<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 38/87</span> · <span>:material-bookmark: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -51,11 +51,10 @@ Define lo que se llamará **"arielismo"** — y será doctrina universitaria lat
 *¿Cómo debe Latinoamérica construir su identidad cultural frente al peso de Estados Unidos?* Rodó responde con un programa **culturalista y elitista**: formar minorías cultivadas que defiendan la herencia humanística contra la marea utilitaria. La política viene después de la cultura.
 
 ## Tareas
-
-- [ ] Tarea 1 — Leer el primer capítulo completo (el discurso de Próspero). Si la prosa modernista te agota, **podés leer SOLO el primer capítulo** y captás toda la tesis. Si seguís, tomate 8-12 h para el ensayo completo.
-- [ ] Tarea 2 — Nota Zettelkasten: *"Arielismo vs calibanismo en Rodó — qué hace bien la categoría y qué reproduce de eurocentrismo criollo"*. Conectá con Martí (etapa 37) y anticipá la crítica de Mariátegui (que ya leíste en etapa 25).
-- [ ] Tarea 3 — Ficha de 400 palabras: ¿el arielismo es defensa legítima de identidad cultural o nostalgia colonial criolla? Tomá posición con argumentos.
-- [ ] Tarea 4 — Pregunta de retención: ¿por qué Rodó NO es democrático en sentido moderno? Diferenciá su elitismo cultural del elitismo político conservador europeo (Burke, Maistre).
+- [ ] Leer el primer capítulo completo (el discurso de Próspero). Si la prosa modernista te agota, **podés leer SOLO el primer capítulo** y captás toda la tesis.
+- [ ] **Ariel vs. Calibán (Retamar):** Leer fragmentos de *Calibán* (1971) de Roberto Fernández Retamar. Contrastar en 300 palabras la figura arielista europeizada con el sujeto revolucionario mestizo-calibánico que asume la lengua del colonizador para subvertirla.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Martí, Mariátegui).
+- [ ] Escribir nota permanente sobre **el arielismo como identidad cultural** (100-300 palabras, conectada).
 
 ## Cómo se estudia esta etapa
 

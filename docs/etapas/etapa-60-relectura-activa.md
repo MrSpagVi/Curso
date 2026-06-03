@@ -1,17 +1,17 @@
 ---
-title: "Etapa 58 — Relectura activa de un libro de Fases 1-4 que te marcó"
+title: "Etapa 60 — Relectura activa de un libro de Fases 1-4 que te marcó"
 ---
 
-# Etapa 58 — Relectura activa de un libro previo
+# Etapa 60 — Relectura activa de un libro previo
 
 > La prueba más honesta de que el método transforma la lectura. Volvés a un libro de Fases 1-4 con todo el aparato adquirido — vas a leerlo distinto. Es prueba, no nostalgia.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 6-10 h</span> · <span>:material-progress-check: Etapa 58/85</span> · <span>:material-bookmark: Relectura</span>
+<span>:material-clock-outline: 6-10 h</span> · <span>:material-progress-check: Etapa 60/87</span> · <span>:material-bookmark: Relectura</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

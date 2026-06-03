@@ -7,11 +7,11 @@ title: "Etapa 8 — Aristóteles — Política (selección Libros I, III, VII)"
 > El vocabulario fundacional de la filosofía política: hombre como *zoon politikón*, tipología de regímenes y concepto de *politeia*. Sin Aristóteles, Maquiavelo, Hobbes y Rousseau quedan sin marco de referencia.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 8/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 8/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -70,8 +70,8 @@ Sin Aristóteles, Fase 1 no es filosofía política clásica — es contractuali
 
 ## Tareas
 
-- [ ] Leer Libro I caps. 1-2 y 3-7 (hombre como animal político · familia · esclavitud).
-- [ ] Leer Libro III caps. 1-9 (ciudadanía · formas de gobierno · mejor régimen) y Libro VII caps. 1-3 y 13-14 (la mejor *polis*).
+- [ ] **Lectura de Selección:** Leer Libro I caps. 1-2 y 3-7 (hombre como animal político, familia, esclavitud natural); Libro III caps. 1-9 (ciudadanía, tipología de regímenes, mejor régimen); y Libro VII caps. 1-3 y 13-14 (la mejor *polis*).
+- [ ] **Estudio Audiovisual:** Ver la Clase 10 de Michael Sandel *Justice* ("Justice, Virtue, and Teleology" / "The Good Citizen") y responder: ¿Cómo conecta Sandel el propósito de un bien (flautas para los mejores flautistas) con la concepción teleológica de la política y el mérito de Aristóteles?
 - [ ] Capturar literature note (tesis + 5 ideas + 1 crítica fuerte sobre esclavitud natural + conexiones con Maquiavelo y Hobbes).
 - [ ] Escribir nota permanente sobre la **tipología de los seis regímenes** (100-300 palabras, conectada).
 
@@ -94,8 +94,12 @@ Sabés enunciar los seis tipos de régimen y distinguir los rectos de los desvia
 
 ## Recursos
 
+!!! warning "Rigor de traducción"
+    La traducción de Patricio de Azcárate en Wikisource es del siglo XIX y utiliza terminología arcaica. Para un estudio riguroso, se recomienda usar ediciones críticas modernas como las de Gredos (trad. Manuela García Valdés) o Alianza (trad. Carlos García Gual).
+
 - [*Política* — Wikisource (traducción Azcárate)](https://es.wikisource.org/wiki/La_pol%C3%ADtica)
 - [*Política* — filosofia.org (Azcárate)](https://www.filosofia.org/cla/ari/azc03.htm)
 - [Stanford Encyclopedia — Aristotle's Political Theory](https://plato.stanford.edu/entries/aristotle-politics/)
 - [Jill Frank — *"Citizens, Slaves, and Foreigners: Aristotle on Human Nature"* (APSR 2004)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/citizens-slaves-and-foreigners-aristotle-on-human-nature/)
+- [Michael Sandel - Justice Episode 10 (Aristotle)](https://www.youtube.com/watch?v=MuiazbyOSq0)
 - [Crash Course Philosophy — Aristóteles (subs ES disponibles)](https://www.youtube.com/watch?v=fbuB5ZHoNlk)

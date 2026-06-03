@@ -7,11 +7,11 @@ title: "Etapa 33 — Hayek — Camino de servidumbre (caps. 1, 3, 5-7)"
 > El manifiesto que define el neoliberalismo del siglo XX. Toda planificación central conduce a la servidumbre. Sin Hayek no se entiende la política económica occidental desde Thatcher-Reagan.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 10-15 h</span> · <span>:material-progress-check: Etapa 33/85</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 10-15 h</span> · <span>:material-progress-check: Etapa 33/87</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (85 etapas)</span>
+  <span class="g-label">Progreso global (87 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>
@@ -62,11 +62,10 @@ Hayek responde a **¿por qué la planificación económica central, incluso si s
 Más profundamente, responde a: **¿qué tipo de orden social es compatible con la libertad individual en sociedades complejas modernas?** Su respuesta: un orden espontáneo basado en reglas generales abstractas (Estado de derecho), mercados libres como mecanismo de coordinación, e instituciones evolucionadas más que diseñadas. Esto es la base filosófica del neoliberalismo y del libertarismo posterior (Nozick, etapa 35).
 
 ## Tareas
-
-- [ ] **Tarea 1 — Lectura de los caps. 1, 3, 5-7 con N1+N2** (~6-8 h). Cap. 1 (el plan general, "el camino abandonado"), Cap. 3 ("individualismo y colectivismo"), Cap. 5 ("planificación y democracia"), Cap. 6 ("planificación y Estado de derecho", **el más importante** filosóficamente), Cap. 7 ("control económico y totalitarismo"). Total ~130 pp en español. Si tenés tiempo extra, agregá cap. 10 ("¿Por qué triunfan los peores?") y cap. 15 ("perspectivas del orden internacional").
-- [ ] **Tarea 2 — Aplicación crítica a un proyecto de planificación actual** (~2-3 h). 600-800 palabras. Elegí un proyecto de planificación o intervención económica reciente en tu país (control de precios, programas sociales masivos, nacionalizaciones, regulaciones específicas). Aplicá el marco hayekiano: ¿cuáles serían las objeciones de Hayek? ¿Son convincentes? ¿Qué objeciones tendrías al marco hayekiano? Argumentá con honestidad — esta tarea funciona solo si **no tomás partido de antemano**.
-- [ ] **Tarea 3 — Nota permanente: "Conocimiento distribuido y precios como mecanismo de coordinación"** (~1-2 h). 400-600 palabras. Definí el argumento del conocimiento distribuido con tus palabras. ¿Hace IA/big data obsoleto el argumento, como argumentan algunos (Paul Cockshott, Evgeny Morozov)? ¿O lo refuerza? Articulá ambos lados y tomá posición provisional. Enlazá con tu nota de Lenin (etapa 31) — Lenin diría que sin planificación, los monopolios dominan; Hayek diría que sin libre mercado, el cálculo es imposible.
-- [ ] **Tarea 4 — Ensayo: ¿Tiene razón Hayek sobre la pendiente totalitaria?** (~1-2 h). 600-800 palabras. La tesis central polémica del libro. Evidencia a favor: la URSS, los regímenes del Este europeo. Evidencia en contra: Suecia, Noruega, Alemania de posguerra, Reino Unido bajo Attlee — todos planificaron masivamente y siguieron siendo democracias. Articulá ambos lados y evaluá: ¿la pendiente totalitaria es ley necesaria o solo riesgo contingente?
+- [ ] **Lectura de Selección:** Leer Camino de Servidumbre Capítulos 1, 3, 5, 7, 9.
+- [ ] **Careo Hayek vs. Polanyi:** Leer el Cap. 6 de Karl Polanyi (*La gran transformación*) y escribir un ensayo de 600 palabras confrontando a ambos autores. ¿Es el libre mercado un "orden espontáneo" como dice Hayek, o es una construcción artificial impuesta por el Estado de la que la sociedad debe defenderse mediante regulaciones para evitar su propia destrucción (tesis de Polanyi)?
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Mill, Berlin, Nozick, Marx, Keynes).
+- [ ] Escribir nota permanente sobre **el mercado como orden espontáneo en Hayek** (100-300 palabras, conectada — por qué la planificación central lleva inevitablemente al control político).
 
 ## Cómo se estudia esta etapa
 
