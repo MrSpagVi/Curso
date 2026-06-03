@@ -550,6 +550,29 @@
     });
   }
 
+  // ---------- Stage Metadata Emoji to Material Icons parser ----------
+
+  function replaceIconsWithMaterial() {
+    const metaBox = document.querySelector('.etapa-meta');
+    if (!metaBox) return;
+    
+    let html = metaBox.innerHTML;
+    const iconMappings = [
+      { code: ':material-clock-outline:', icon: 'schedule' },
+      { code: ':material-progress-check:', icon: 'assignment_turned_in' },
+      { code: ':material-bookmark:', icon: 'bookmark' },
+      { code: ':material-book-open-outline:', icon: 'menu_book' }
+    ];
+    
+    iconMappings.forEach(m => {
+      const escapedCode = m.code.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+      const regex = new RegExp(escapedCode, 'g');
+      html = html.replace(regex, `<span class="material-icons-round">${m.icon}</span>`);
+    });
+    
+    metaBox.innerHTML = html;
+  }
+
   // ---------- Boot ----------
 
   function boot() {
@@ -560,6 +583,7 @@
     setupCursoGlobalProgress();
     renderCourseHomepage();
     enrichTaskListsUI();
+    replaceIconsWithMaterial();
   }
 
   if (typeof document$ !== 'undefined') {
