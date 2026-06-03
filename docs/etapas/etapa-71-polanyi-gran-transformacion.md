@@ -54,6 +54,7 @@ Su interlocutor implícito es la economía clásica y neoclásica (Smith, Ricard
 - [ ] Aplicar el doble movimiento a 2 casos argentinos: (a) reformas de los 90 y reacción 2001-2003; (b) Milei 2023-2025 y reacción social en curso. ¿Hasta dónde estira el concepto sin romperse?
 - [ ] Hacer un diagrama de 1 página: ciclo del doble movimiento (expansión mercantil → desorganización social → respuesta defensiva → nueva regulación) con ejemplos históricos de cada flecha.
 - [ ] Anotar la **tensión Polanyi-Hayek**: ambos publicaron en 1944 sobre el mismo problema. Sus respuestas son opuestas. ¿Por qué? Conectar con la etapa 33.
+- [ ] **Sociología Fiscal (Wolfgang Streeck):** Leer Wolfgang Streeck, *Comprando tiempo: La crisis pospuesta del capitalismo democrático* (2013), Capítulo 2 ("Del Estado fiscal al Estado deudor"). Redactar 400 palabras explicando la transición histórica del "Estado fiscal" (*Tax State*) al "Estado deudor" (*Debt State*) y finalmente al "Estado de consolidación/austeridad". Analizar cómo este límite material e impositivo condiciona la viabilidad de la desmercantilización (Esping-Andersen) en el capitalismo tardío.
 
 ## Cómo se estudia esta etapa
 

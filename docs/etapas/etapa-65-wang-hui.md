@@ -64,6 +64,7 @@ Wang Hui responde: hay proyecto político específico (no convergencia, no total
 ## Tareas
 - [ ] **Lectura de Selección:** Leer El nuevo orden de China Capítulos "El nuevo orden de China" y "El neoliberalismo y la crisis asiática".
 - [ ] **Crítica Liberal y Schmittianismo Oficial:** Contrastar la visión de la "Nueva Izquierda" de Wang Hui con la crítica liberal de **Liu Xiaobo** y con el uso instrumental de Carl Schmitt por parte de intelectuales oficiales chinos como **Jiang Shigong** para justificar la soberanía del Partido-Estado. Escribir una nota de 300 palabras.
+- [ ] **La Vía China del Capitalismo de Estado:** Leer Isabella Weber, *Cómo China escapó de la terapia de choque* (2021), Introducción y Conclusión. Escribir 400 palabras explicando cómo el debate de reforma de doble vía en la década de 1980 en China (recuperando nociones clásicas de control de precios agrícolas y del texto tradicional de economía política *Guanzi*) evitó el colapso que sufrió la Unión Soviética. Conectar esta tesis con la idea de Wang Hui sobre China como un "Estado-civilización".
 - [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Mao, Marx, Harvey).
 - [ ] Escribir nota permanente sobre **el Estado-civilización de Wang Hui** (100-300 palabras, conectada).
 

@@ -60,6 +60,7 @@ title: "Etapa 77 — Bourdieu — La distinción (caps. 1 y 3)"
 - [ ] **1 nota permanente por concepto**: habitus, capital cultural (3 estados), campo, violencia simbólica, distinción. Cinco notas mínimo.
 - [ ] Hacer un **inventario personal**: ¿qué capital cultural transmitió la familia propia? ¿Cuál NO? ¿Qué prácticas culturales del estrato social actual son herencia y cuáles son adquisición? Texto de 400 palabras (puede ser solo nota privada).
 - [ ] Aplicar el marco a un caso argentino contemporáneo: el debate "alta cultura" vs "cultura popular" en Argentina (Borges vs cumbia, Colón vs Mostros). ¿Qué pasa cuando entra el factor "consumo digital" (Spotify, Netflix, redes)? Texto de 300 palabras.
+- [ ] **Omnívoros Culturales (Richard Peterson):** Leer Richard A. Peterson y Roger M. Kern, *"Changing Highbrow Taste: From Snob to Omnivore"* (1996). Escribir 300 palabras analizando cómo el surgimiento del "omnívoro cultural" (el consumo ecléctico que combina alta y baja cultura) problematiza la distinción rígida y el habitus de Bourdieu. ¿Cómo se reformula la dominación simbólica cuando las clases dominantes ya no consumen exclusivamente arte académico?
 - [ ] Leer la **crítica de Rancière** ("El maestro ignorante" o "El espectador emancipado", selección): Bourdieu condenaría por adelantado al dominado a no poder pensar fuera de su clase. ¿Es justa la crítica? Anotar posición propia.
 
 ## Cómo se estudia esta etapa

@@ -48,6 +48,7 @@ La respuesta corta de Smith: por la **productividad creciente que genera la divi
 ## Tareas
 - [ ] **Lectura de Selección:** Leer La Riqueza de las Naciones Libro I: Caps. 1 a 3 (división del trabajo), 5 a 8 (precios y salarios); Libro IV: Caps. 1-2 y 9; Libro V: Cap. 1 (gastos del soberano).
 - [ ] **Crítica Feminista (Federici):** Escribir una nota de 300 palabras contrastando la descripción de la división del trabajo en la fábrica de alfileres de Smith con la crítica de la economía política feminista de Silvia Federici (*Calibán y la bruja*) sobre la división sexual y el confinamiento gratuito de las mujeres al trabajo reproductivo doméstico.
+- [ ] **El Puente Ricardiano:** Leer David Ricardo, *Principios de economía política y tributación* (1817), Capítulo I ("Sobre el valor"), secciones I-III. Redactar una nota de 400 palabras explicando cómo Ricardo purifica la teoría del valor de Adam Smith al insistir en que el valor relativo de las mercancías depende exclusivamente del trabajo incorporado, y cómo esto plantea el conflicto distributivo insoluble entre salarios y beneficios que Marx utilizará para su teoría de la plusvalía.
 - [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Locke, Marx, Chang).
 - [ ] Escribir nota permanente sobre **la división del trabajo en Smith** (100-300 palabras, conectada — las ganancias de productividad y sus límites humanos).
 

@@ -55,7 +55,7 @@ Confucio responde con una arquitectura que ni la filosofía política griega ni 
 
 ## Tareas
 - [ ] **Lectura de Selección:** Leer Analectas Libros I, II, IV, VII, XII y XV.
-- [ ] **Crítica Interna (Legalismo y Movimiento 4 de Mayo):** Contrastar la moralidad ritual confuciana con el realismo autoritario del **Legalismo de Han Fei Zi**, y evaluar la crítica destructiva al confucianismo realizada por **Lu Xun** en *Diario de un loco* (1918). Escribir una nota de 300 palabras.
+- [ ] **Confucianismo vs. Legalismo (Han Fei Zi):** Leer fragmentos de *El Libro de Han Fei Zi*, capítulos 5 ("El Tao del soberano") y 9 ("Las ocho traiciones"). Redactar 300 palabras contrastando el gobierno moral basado en la virtud (*Ren*) y los rituales (*Li*) de Confucio con el realismo administrativo amoral del Legalismo (*Fajia*) de Han Fei (basado en la ley coercitiva objetiva, el control del poder *Shi* y las técnicas estatales *Shu*). Analizar cómo esta síntesis histórica conforma el "Estado de Derecho con características chinas" en la actualidad.
 - [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Platón).
 - [ ] Escribir nota permanente sobre **ren e li en Confucio** (100-300 palabras, conectada).
 

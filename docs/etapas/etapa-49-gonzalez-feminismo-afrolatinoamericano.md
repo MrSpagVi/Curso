@@ -51,8 +51,9 @@ Apertura del **bloque E — Feminismo LATAM (etapas 48-51)**. Las cuatro etapas 
 ## Tareas
 
 - [ ] Tarea 1 — Leer el paper completo (~25 pp). Si conseguís el portugués original, leelo en portugués — la categoría "pretoguês" se siente mejor en su lengua. 2-3 h.
-- [ ] Tarea 2 — Nota Zettelkasten: *"Améfrica Ladina como categoría política — qué cambia si Latinoamérica se piensa desde lo afroindígena mayoritario en vez de desde lo eurocriollo"*. Conectá con Vasconcelos (etapa 39, mestizaje eurocéntrico criollo), Cusicanqui (etapa 46, paralelismo Sur-Sur), y feminismo (Crenshaw, no leído explícitamente pero presente).
+- [ ] Tarea 2 — Nota Zettelkasten: *"Améfrica Ladina como categoría política — qué cambia si Latinoamérica se piensa desde lo afroindígena mayoritario en vez de desde lo eurocriollo"*. Conectá con Vasconcelos (etapa 39, mestizaje eurocéntrico criollo) y Cusicanqui (etapa 46, paralelismo Sur-Sur).
 - [ ] Tarea 3 — Ficha breve (300 palabras): aplicá el concepto pretoguês a tu propio entorno lingüístico. ¿Qué modos de hablar populares de Argentina/región rioplatense son descartados como "mal habla" pero tienen raíz histórica específica?
+- [ ] Tarea 4 — Interseccionalidad Clásica vs. Améfrica Ladina: Leer Kimberlé Crenshaw, *"Demarginalizing the Intersection of Race and Sex"* (1989). Redactar 350 palabras comparando la metáfora norteamericana del "choque de tráfico" (la intersección legal) de Crenshaw con la categoría político-histórica y decolonial de *Améfrica Ladina* de Lélia González. ¿Cómo aborda cada una la especificidad de las mujeres negras frente al feminismo blanco y al antirracismo masculinizado?
 
 ## Cómo se estudia esta etapa
 

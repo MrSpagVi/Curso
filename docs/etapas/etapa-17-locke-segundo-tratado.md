@@ -70,7 +70,7 @@ Porque es **la respuesta liberal a Hobbes** — mismo punto de partida (estado d
 ## Tareas
 - [ ] **Lectura de Selección:** Leer el Segundo Tratado Capítulos 1 a 5 (Estado de naturaleza, guerra, propiedad privada), 7 a 12 (Sociedad civil, fines del gobierno), y 19 (Disolución del gobierno). Omitir cap. I.
 - [ ] **Estudio Audiovisual (Yale):** Ver las clases 15, 16 y 17 de Steven Smith en Yale Open Courses sobre John Locke (Equality and Usurpation, Property and Justice, Toleration and Government) **antes** de leer.
-- [ ] **Crítica al Sesgo Colonial (Despojo de tierras):** Escribir una nota de 350 palabras sobre el Capítulo V ("De la propiedad"): ¿Cómo sirvió la noción lockeana de que el valor de la tierra proviene del trabajo agrícola y la delimitación de tierras yermas (*waste lands*) para legitimar legalmente la expropiación y despojo de los territorios indígenas en América del Norte? Conectalo con la participación de Locke en las Constituciones de Carolina.
+- [ ] **El Contrato Racial y la Apropiación Lockeana:** Leer Charles W. Mills, *El contrato racial* (1997), Capítulo 1. Redactar una nota de 300 palabras sobre la justificación lockeana del "laboring" (trabajo agrícola) para apropiarse de tierras comunales en América ("en un principio todo el mundo era América"). Explicar cómo la soberanía lockeana excluye epistemológicamente a las poblaciones originarias que no siguen el modelo agrícola-propietario europeo.
 - [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Hobbes, Rousseau, Mill, Nozick, Rawls).
 - [ ] Escribir nota permanente sobre **la justificación lockeana de la propiedad privada** (100-300 palabras, conectada — el argumento del trabajo mezclado).
 

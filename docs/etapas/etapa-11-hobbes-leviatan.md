@@ -71,7 +71,7 @@ Porque sin Hobbes no hay debate moderno sobre el Estado. Y porque **el método d
 ## Tareas
 - [ ] **Lectura de Selección:** Leer Leviatán Introducción; Parte I caps. 6, 10, 11, 13 (estado de naturaleza), 14-15 (leyes naturales) y 16; Parte II caps. 17-18 (generación del soberano), 19, 21, 26, 29-30. Omitir Partes III-IV (religión).
 - [ ] **Estudio Audiovisual (Yale):** Ver las clases 12, 13 y 14 de Steven Smith en Yale Open Courses sobre Hobbes (Sovereignty and Security, The Social Contract, Individual and Community) **antes** de leer los capítulos.
-- [ ] **Crítica de Género (Pateman):** Escribir una nota de 300 palabras sobre la crítica de Carole Pateman (*El contrato sexual*): ¿Cómo asume Hobbes que el "estado de naturaleza" ya contiene relaciones de dominación patriarcal (esposo sobre esposa, padre sobre hijos) que el contrato civil no disuelve sino que formaliza?
+- [ ] **Crítica Feminista al Contrato Social (Pateman):** Leer Carole Pateman, *El contrato sexual* (1988), Capítulo 1 ("El contrato sexual y el contrato social"). Redactar 300 palabras analizando cómo el "estado de naturaleza" hobbesiano asume a los individuos como "nacidos de la tierra como hongos" (libres del trabajo de reproducción social), ocultando que el pacto de sujeción estatal se cimenta sobre el pacto de sujeción patriarcal.
 - [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles refutado, Locke, Rousseau, Weber, Schmitt).
 - [ ] Escribir nota permanente sobre **estado de naturaleza como ficción metodológica** (100-300 palabras, conectada — distinguir explícitamente de "historia").
 

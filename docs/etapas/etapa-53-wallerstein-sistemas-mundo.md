@@ -57,6 +57,7 @@ La respuesta de Wallerstein reordena media biblioteca: vuelve compatible a Marx 
 - [ ] Tarea 2 — En una página de notas, definí con tus palabras: **sistema-mundo**, **centro/semiperiferia/periferia**, **ciclo hegemónico**, **acumulación incesante**. Una frase cada uno.
 - [ ] Tarea 3 — **Ejercicio N3 (aplicación):** ubicá Argentina (o el país desde el que se lee) en el sistema-mundo actual. ¿Centro, semiperiferia, periferia? Argumentá con 2-3 datos concretos (exportaciones, deuda, balanza tecnológica).
 - [ ] Tarea 4 — **Ejercicio N4 (evaluación):** redactá 1 página: ¿Wallerstein es **descriptivo** (así funciona el mundo desde 1500) o **reduccionista** (omite la agencia política nacional, la cultura, lo no-económico)? Defendé una posición con un ejemplo.
+- [ ] Tarea 5 — **Ecología-Mundo (Jason Moore) y Dependencia (Marini):** Leer Jason W. Moore, *El capitalismo en la trama de la vida* (2015), Introducción, y Ruy Mauro Marini, *Dialéctica de la dependencia* (1973), secciones introductorias. Redactar 400 palabras explicando cómo la "división axial del trabajo" en Wallerstein se ancla en la apropiación de la "naturaleza barata" y en la "superexplotación del trabajo" en la periferia global como motores indispensables de la tasa de ganancia del centro.
 
 ## Cómo se estudia esta etapa
 

@@ -54,6 +54,7 @@ Cierre del **bloque E — Feminismo LATAM (etapas 48-51)** y cierre de toda la *
 - [ ] Leer Introducción + capítulos sobre mandato de masculinidad, pedagogía de la crueldad y Ciudad Juárez (~250 pp).
 - [ ] **Debate Lugones vs. Segato:** Elaborar una nota Zettelkasten: *"Patriarcado de baja intensidad (Segato) vs. Sistema moderno-colonial de género (Lugones)"*. ¿Existió el patriarcado antes de 1492 (Segato) o es una creación puramente moderno-colonial (Lugones)?
 - [ ] **Extractivismo y Soberanía Corporal:** Elaborar una nota sobre cómo las "nuevas guerras" informales descritas por Segato usan la pedagogía de la crueldad sobre los cuerpos feminizados como un mecanismo de soberanía territorial informal, conectando con las dinámicas de despojo ecoterritorial de Svampa.
+- [ ] **Capitalismo Farmacopornográfico (Paul B. Preciado):** Leer Paul B. Preciado, *Testo yonqui* (2008), Capítulo 2 ("La era farmacopornográfica"). Redactar 400 palabras explicando cómo la soberanía biopolítica se desplaza en el siglo XXI hacia la escala molecular (hormonas, biocontrol) y semiótica (redes sociales, pornografía, estimulación mediática). Conectar este marco con la noción de Gago de "cuerpo-territorio" y la crítica de Segato al despojo patriarcal.
 - [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Lugones, Foucault, Gago).
 - [ ] **Steelman de fin de fase:** Defender la postura de la Fase 4 que MENOS te convenció en 500 palabras, sosteniéndola con sus mejores argumentos y sin disclaimers.
 

@@ -54,6 +54,7 @@ Segunda etapa del **bloque E — Feminismo LATAM (etapas 48-51)**. Lugones extie
 - [ ] Tarea 1 — Leer el paper completo dos veces. Primera para mapa general (2 h), segunda para fijar conceptos (1-2 h). Total 3-4 h.
 - [ ] Tarea 2 — Nota Zettelkasten: *"Colonialidad del género — qué agrega Lugones a Quijano (etapa 45) y a Crenshaw (interseccionalidad)"*. Conectá con González (etapa 49).
 - [ ] Tarea 3 — Ficha de 400 palabras: investigá un sistema de género no-binario pre-colonial concreto (muxes zapotecos, two-spirit en pueblos siouan, hijras en India). ¿Cómo se relaciona con la tesis de Lugones? ¿La confirma, la complica?
+- [ ] Tarea 4 — La Performatividad del Género (Judith Butler): Leer Judith Butler, *El género en disputa* (1990), Capítulo 1 ("Sujetos de sexo/género/deseo"). Escribir una nota de 350 palabras: Si el género se produce a través de la repetición performativa de normas históricas, ¿cómo tensiona este enfoque post-estructuralista la tesis de Lugones de que el binario de género fue un producto exclusivamente importado e impuesto en 1492?
 
 ## Cómo se estudia esta etapa
 
