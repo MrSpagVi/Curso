@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-05-28 09:56 UTC_
+_Última actualización: 2026-06-03 10:45 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[El sufrimiento silencioso de los niños en Gaza que han perdido la capacidad de hablar](https://www.bbc.com/mundo/articles/cn8pjnl3m0go?at_medium=RSS&at_campaign=rss)** · *2026-05-28*
-  - La psicoterapeuta infantil Katrin Glatz Brubakk viajó a Gaza con Médicos Sin Fronteras. Allí luchó por recuperar a niños cuyos traumas pueden dejar secuelas en su cerebro y afectar gravemente su futuro.
-- **["El escenario se mexicanizó": cómo se transformó la violencia en Colombia y por qué sigue definiendo las elecciones](https://www.bbc.com/mundo/articles/cj0pddy5djlo?at_medium=RSS&at_campaign=rss)** · *2026-05-27*
-  - En un momento pareció que Colombia había pasado la página de la violencia, pero la campaña para a las elecciones de este domingo demostró que es mucho lo que falta por resolver, tanto en el terreno como en las mentalidades. Análisis.
-- **[EE.UU. lanza nuevos ataques contra instalaciones militares de Irán, en medio del frágil cese el fuego](https://www.bbc.com/mundo/articles/c5yezxv1d4jo?at_medium=RSS&at_campaign=rss)** · *2026-05-28*
-  - Las fuerzas militares estadounidenses informaron que atacaron una instalación militar en la estratégica ciudad portuaria de Bandar Abbas y que derribaron cuatro drones de ataque iraníes.
-- **[Qué es el cortisol, qué función cumple esta hormona y por qué recomiendan bajar sus niveles](https://www.bbc.com/mundo/articles/clyp01kddwko?at_medium=RSS&at_campaign=rss)** · *2026-05-28*
-  - Recientemente la información sobre el cortisol, sus niveles altos y los consejos para bajarlos están por todas partes en redes sociales. Pero ¿qué hay de cierto en ello?
-- **[Quién es Christopher Olah, el pionero de la IA y cofundador de Anthropic clave en la encíclica de León XIV sobre las amenazas de esa tecnología](https://www.bbc.com/mundo/articles/c302yzv700yo?at_medium=RSS&at_campaign=rss)** · *2026-05-27*
-  - Un pionero de la investigación del funcionamiento de la IA acompañó al papa León XIV en la presentación de su encíclica sobre esta tecnología. ¿Quién es Christopher Olah?
+- **["Solo hay una salida": la odisea de los miles de marineros atrapados por el bloqueo del estrecho de Ormuz desde hace casi 100 días](https://www.bbc.com/mundo/articles/c1j26lx341ko?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
+  - La incertidumbre ha pesado gravemente sobre los 20.000 marineros varados en la zona de guerra.
+- **[Por qué Iberostar y Blue Diamond, dos cadenas hoteleras clave en la industria turística de Cuba, abandonan operaciones en la isla "con efecto inmediato"](https://www.bbc.com/mundo/articles/cj0pl3yeg7no?at_medium=RSS&at_campaign=rss)** · *2026-06-02*
+  - EE.UU. amenazó con sanciones a todas las compañías que tuvieran vínculos con el conglomerado empresarial de las Fuerzas Armadas cubanas.
+- **[La joven de 18 años que huyó a cientos de kilómetros de su hogar en un taxi para escapar del matrimonio forzado](https://www.bbc.com/mundo/articles/cx211g4j1y9o?at_medium=RSS&at_campaign=rss)** · *2026-06-02*
+  - Casi cinco años después de la prohibición de la educación en Afganistán, las jóvenes afirman que han tenido que despedirse de sus sueños.
+- **[La policía de Nueva York investiga videos de hombres saliendo de las alcantarillas de la ciudad](https://www.bbc.com/mundo/articles/c202qpeglego?at_medium=RSS&at_campaign=rss)** · *2026-06-02*
+  - La policía de Nueva York está llevando a cabo una investigación tras la aparición en las últimas semanas de múltiples videos que muestran a grupos de personas entrando y saliendo del sistema de alcantarillado de la ciudad.
+- **[Qué revela sobre nuestra salud el dolor de cabeza que nos da cuando comemos helado](https://www.bbc.com/mundo/articles/c242jvdn93jo?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
+  - Si sufres dolores de cabeza con frecuencia cuando comes helado, quizá valga la pena averiguar si es algo hereditario en tu familia y revisar también los dolores de cabeza que no están relacionados con el helado.
 
 ## El País — Internacional
 
-- **[Israel vacía aún más de contenido las treguas en Líbano y Gaza](https://elpais.com/internacional/2026-05-28/israel-vacia-aun-mas-de-contenido-las-treguas-en-libano-y-gaza.html)** · *2026-05-28*
-  - Netanyahu incrementa los bombardeos, movimientos forzosos de población y asesinatos de líderes de Hezbolá y Hamás ante un posible pacto entre EE UU e Irán
-- **[Menos cazas, submarinos y drones: EE UU planea reducir las fuerzas a disposición de la OTAN en Europa en caso de amenaza](https://elpais.com/internacional/2026-05-27/menos-cazas-submarinos-y-drones-ee-uu-planea-reducir-las-fuerzas-a-disposicion-de-la-otan-en-europa-en-caso-de-amenaza.html)** · *2026-05-27*
-  - Washington informa a los aliados europeos de nuevos ajustes en su contribución a la Alianza
-- **[Israel ordena el desalojo de todo el sur del Líbano, que considera “zona de combate”](https://elpais.com/internacional/2026-05-27/israel-ordena-el-desalojo-de-todo-el-sur-del-libano-que-considera-zona-de-combate.html)** · *2026-05-27*
-  - La creciente ofensiva militar del Estado judío y el desplazamiento forzoso llevan millones de ciudadanos al agotamiento tras casi tres años de conflicto
-- **[Líbano, la oportunidad que todos dejan pasar](https://elpais.com/internacional/2026-05-28/libano-la-oportunidad-que-todos-dejan-pasar.html)** · *2026-05-28*
-  - Tras la expulsión de los Asad de Siria y el debilitamiento militar de Irán y Hezbolá, Israel está dejando pasar una oportunidad única de paz con su vecino para priorizar una guerra de expansión regional
-- **[La tregua que confirma la ventaja de Irán](https://elpais.com/internacional/2026-05-27/la-tregua-que-confirma-la-ventaja-de-iran.html)** · *2026-05-27*
-  - Aunque Estados Unidos conserva una superioridad militar incontestable, las negociaciones muestran que Teherán ha convertido Ormuz en parte del precio político de la guerra
+- **[Rusia intensifica los ataques contra Ucrania y sus amenazas a Europa: “Su pacífico sueño ha terminado”](https://elpais.com/internacional/2026-06-03/rusia-intensifica-los-ataques-contra-ucrania-y-sus-amenazas-a-europa-su-pacifico-sueno-ha-terminado.html)** · *2026-06-03*
+  - En Moscú equiparan a la UE con la Alemania nazi. Una escalada contra la Unión permitiría al Kremlin una nueva movilización
+- **[Ucrania lanza más de 350 drones sobre Rusia y empaña la inauguración de un gran foro internacional en San Petersburgo](https://elpais.com/internacional/2026-06-03/al-menos-siete-muertos-en-un-ataque-de-ucrania-contra-un-autobus-en-la-zona-ocupada-por-rusia.html)** · *2026-06-03*
+  - La ofensiva de Kiev, en respuesta al bombardeo masivo ordenado por el Kremlin la víspera, deja al menos ocho muertos en un autobús en la región ocupada de Donetsk
+- **[Las prisas cambian de bando en Irán: Trump busca una salida a la guerra con el tiempo en su contra](https://elpais.com/internacional/2026-06-03/las-prisas-cambian-de-bando-en-iran-trump-busca-una-salida-a-la-guerra-con-el-tiempo-en-su-contra.html)** · *2026-06-03*
+  - Tres meses después de los primeros bombardeos de Estados Unidos e Israel, Washington necesita más que nunca alcanzar un acuerdo que reabra Ormuz
+- **[Solo un mierda quiere ser profesor](https://elpais.com/opinion/2026-06-03/solo-un-mierda-quiere-ser-profesor.html)** · *2026-06-03*
+  - Cómo y por qué el discurso de la extrema derecha contra la educación pública se propaga y condiciona la vida y las elecciones
+- **[El poder de la prioridad europea](https://elpais.com/opinion/2026-06-03/el-poder-de-la-prioridad-europea.html)** · *2026-06-03*
+  - Las sentencias del Tribunal de Justicia de la UE contra gobiernos iliberales muestran que hay valores comunes que no se pueden desafiar en nombre de la identidad nacional
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Grattan on Friday: An effective ‘reset’ of the NACC should revisit the issue of public hearings](https://theconversation.com/grattan-on-friday-an-effective-reset-of-the-nacc-should-revisit-the-issue-of-public-hearings-282994)** · *2026-05-28*
-  - At the 2022 election “integrity” was a big-deal issue. Now almost three years after it was set up, the NACC continues to be rocked by internal scandals and complaints.
-- **[Australian scam victims could get rapid $3,000 refunds. Yet in the UK, it’s more like $160,000](https://theconversation.com/australian-scam-victims-could-get-rapid-3-000-refunds-yet-in-the-uk-its-more-like-160-000-283965)** · *2026-05-28*
-  - The median scam in Australia last year cost $400 – so a rapid refund of up to $3,000 sounds generous. But take a closer look and it starts to look oddly low.
-- **[Labor’s JobSeeker reforms are a welcome step – but so far, fall short of a radical rebuild](https://theconversation.com/labors-jobseeker-reforms-are-a-welcome-step-but-so-far-fall-short-of-a-radical-rebuild-283966)** · *2026-05-28*
-  - Yes, these may be ‘once-in-a-generation’ reforms. But for those ‘languishing’ in the system without the help they need, there’s much more still to be done.
-- **[NZ Budget 2026 at a glance: follow the money here](https://theconversation.com/nz-budget-2026-at-a-glance-follow-the-money-here-282966)** · *2026-05-28*
-  - Finance Minister Nicola Willis forecasts an earlier-than-expected return to surplus in an unsurprisingly no-frills budget.
-- **[Murray Valley encephalitis can be fatal. With no vaccine, here’s how to stay safe](https://theconversation.com/murray-valley-encephalitis-can-be-fatal-with-no-vaccine-heres-how-to-stay-safe-283573)** · *2026-05-28*
-  - After two people in the Northern Territory died from Murray Valley encephalitis, health authorities are warning residents and travellers to avoid mosquito bites.
+- **[Chatbot teddies for three-year-olds? Why AI toys are risky for kids](https://theconversation.com/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids-284195)** · *2026-06-03*
+  - AI toys can tell stories, chat about a child’s interests, play games or even discuss what’s happening in the world today. But they come with risks.
+- **[Climate change may shift hailstorms towards Earth’s poles – new study](https://theconversation.com/climate-change-may-shift-hailstorms-towards-earths-poles-new-study-284292)** · *2026-06-03*
+  - Costs from severe storms are increasing – and this global shift in hailstorm spells bad news for crops, too.
+- **[Politics with Michelle Grattan: Graeme Samuel on ‘doomsday’ attacks on the federal budget](https://theconversation.com/politics-with-michelle-grattan-graeme-samuel-on-doomsday-attacks-on-the-federal-budget-284430)** · *2026-06-03*
+  - The businessman and former competition chief says the fierce criticism of what he calls ‘mild’ budget changes shows why politicians have avoided reform for decades.
+- **[What is ‘clean eating’ and how can it affect wellbeing?](https://theconversation.com/what-is-clean-eating-and-how-can-it-affect-wellbeing-282387)** · *2026-06-03*
+  - For some people, healthy eating can become an obsession that has a devastating impact on their health and relationships.
+- **[Australia’s economy slows as households tighten their belts, while AI investment surges](https://theconversation.com/australias-economy-slows-as-households-tighten-their-belts-while-ai-investment-surges-284423)** · *2026-06-03*
+  - If GDP per person falls again in the June quarter, Australia would enter a ‘per capita’ recession – signalling the average Australian is going backwards.
 
 ## Nueva Sociedad
 
