@@ -25,6 +25,12 @@
     } catch (e) { /* quota exceeded — ignore */ }
   }
 
+  function getPathPrefix() {
+    if (location.pathname.startsWith('/Curso')) return '/Curso';
+    if (location.pathname.startsWith('/Libros-Politica')) return '/Libros-Politica';
+    return '';
+  }
+
   // ---------- Task list persistence ----------
 
   function persistTaskLists() {
@@ -139,11 +145,13 @@
   ];
 
   function etapaPathCandidates(slug) {
-    const prefixes = ['', '/Libros-Politica'];
+    const p = getPathPrefix();
+    const prefixes = ['', '/Libros-Politica', '/Curso'];
+    if (p && !prefixes.includes(p)) prefixes.push(p);
     const paths = [];
-    prefixes.forEach(p => {
-      paths.push(`${p}/etapas/${slug}/`);
-      paths.push(`${p}/etapas/${slug}`);
+    prefixes.forEach(pref => {
+      paths.push(`${pref}/etapas/${slug}/`);
+      paths.push(`${pref}/etapas/${slug}`);
     });
     return paths;
   }
@@ -205,7 +213,7 @@
   function migrateCursoTaskState() {
     const FLAG = 'lp.tasks.migrated.v2';
     if (localStorage.getItem(FLAG)) return;
-    const prefix = location.pathname.startsWith('/Libros-Politica') ? '/Libros-Politica' : '';
+    const prefix = getPathPrefix();
     Object.entries(V1_TO_V2).forEach(([oldSlug, newSlug]) => {
       const oldCandidates = [
         `lp.tasks.${prefix}/etapas/${oldSlug}/`,
@@ -239,7 +247,7 @@
   function migrateCursoTaskStateV3() {
     const FLAG = 'lp.tasks.migrated.v3';
     if (localStorage.getItem(FLAG)) return;
-    const prefix = location.pathname.startsWith('/Libros-Politica') ? '/Libros-Politica' : '';
+    const prefix = getPathPrefix();
     ETAPAS.forEach(e => {
       const m = e.slug.match(/^etapa-(\d+)-(.+)$/);
       if (!m) return;
@@ -275,7 +283,7 @@
   function migrateCursoTaskStateV4() {
     const FLAG = 'lp.tasks.migrated.v4';
     if (localStorage.getItem(FLAG)) return;
-    const prefix = location.pathname.startsWith('/Libros-Politica') ? '/Libros-Politica' : '';
+    const prefix = getPathPrefix();
     ETAPAS.forEach(e => {
       const m = e.slug.match(/^etapa-(\d+)-(.+)$/);
       if (!m) return;
@@ -343,7 +351,7 @@
       firstIncompleteEtapa = ETAPAS[ETAPAS.length - 1]; // fallback to last stage if all done
     }
 
-    const prefix = location.pathname.startsWith('/Libros-Politica') ? '/Libros-Politica' : '';
+    const prefix = getPathPrefix();
 
     // 1. Render Dashboard
     if (dashboardEl) {
