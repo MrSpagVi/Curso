@@ -82,6 +82,12 @@ Porque sin Rousseau no hay democracia moderna ni crítica a la representación. 
 
 *¿Cómo puede una asociación humana ser libre y obediente al mismo tiempo?* La pregunta más radical de la filosofía política moderna. La respuesta rousseauniana: si las leyes que obedezco son las que yo mismo (como parte del soberano) me he dado, entonces obedecerlas es ser libre. La solución es elegante; la dificultad está en cuándo y cómo la voluntad general se manifiesta sin ser confundida con la voluntad de la mayoría o la voluntad del partido gobernante.
 
+## Justificación de la lectura seleccionada
+
+* **¿Por qué leer solo esta selección?** Libros I, II y III completos, y Libro IV capítulos 1-2 y 8. Estructuran la soberanía popular indivisible, la distinción entre Estado y Gobierno, la formulación de la voluntad general y la propuesta de la "religión civil".
+* **¿Por qué omitir el resto en una primera lectura?** La mayor parte del Libro IV se detiene en un exhaustivo análisis descriptivo de las instituciones de la antigua República Romana (comicios, tribunado, censura, dictadura) que Rousseau copia de Montesquieu, lo cual resulta tedioso y desvía la atención de la teoría pura del pacto.
+* **¿Por qué vale la pena leer el libro completo?** Es aconsejable para investigadores de la recepción del republicanismo clásico en el siglo XVIII y para comprender cómo Rousseau intentaba operativizar sus teorías abstractas en instituciones del mundo real a partir de ejemplos históricos.
+
 ## Tareas
 - [ ] **Lectura de Selección:** Leer Contrato Social Libros I, II y III completos, y Libro IV capítulos 1-2 (la voluntad general) y 8 (la religión civil).
 - [ ] **Estudio Audiovisual (Yale):** Ver las clases 18, 19 y 20 de Steven Smith en Yale Open Courses sobre Rousseau (A Critique of Progress, General Will, Republic) **antes** de comenzar la lectura.

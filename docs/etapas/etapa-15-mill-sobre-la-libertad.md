@@ -74,6 +74,12 @@ Porque Mill cierra Fase 1 con el liberalismo moderno explícito. Porque su tesis
 
 *¿Cuál es el límite legítimo del poder de la sociedad sobre el individuo?* No de "el Estado" — Mill incluye explícitamente la presión social informal, la opinión pública y la moral imperante como fuentes de coacción. La respuesta — el principio del daño — es la fórmula liberal más influyente jamás escrita.
 
+## Justificación de la lectura seleccionada
+
+* **¿Por qué leer solo esta selección?** *Sobre la libertad* se lee completo debido a su brevedad e importancia fundamental. De *El utilitarismo*, se seleccionan los primeros capítulos para sentar las bases morales del principio de mayor felicidad (utilidad social) como sustento de las libertades que Mill defiende.
+* **¿Por qué omitir el resto en una primera lectura?** Los capítulos finales de *El utilitarismo* (Caps. 3 a 5) se adentran en debates técnicos de la filosofía moral victoriana sobre el origen psicológico de la idea de justicia y controversias éticas con pensadores intuicionistas británicos de su época.
+* **¿Por qué vale la pena leer el libro completo?** Permite asimilar de forma integral la filosofía moral de Mill y entender cómo intentaba conciliar el rigor consecuencialista de Bentham con una defensa cualitativa y humanista de la individualidad, la libertad y la justicia distributiva.
+
 ## Tareas
 - [ ] **Lectura Completa:** Leer *Sobre la libertad* completo de principio a fin (es un texto breve, ~100 páginas en ediciones modernas).
 - [ ] **Lectura de Selección (Utilitarismo):** Leer los primeros capítulos de *El utilitarismo* (~30 pp) para comprender la base de utilidad en el sentido más amplio.

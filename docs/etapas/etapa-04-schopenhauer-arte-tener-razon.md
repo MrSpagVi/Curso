@@ -79,7 +79,7 @@ Las dos categorías se solapan. Una ampliación (estratagema #1) suele instancia
 
 ### Vinculación con otros autores del plan
 
-- **Anticipa a Foucault (etapa 27):** Foucault mostrará que las estratagemas son ejercicios de poder, no solo trucos individuales.
+- **Anticipa a Foucault (etapa 31):** Foucault mostrará que las estratagemas son ejercicios de poder, no solo trucos individuales.
 - **Anticipa a Crenshaw, hooks (Fase 3):** estas autoras mostrarán que las estratagemas se ejercen estructuralmente — quién tiene permiso de usarlas y a quién se le castiga por usarlas no es uniforme.
 - **Contradice a Habermas** (Bloque XX-tardío): Habermas defenderá la "acción comunicativa racional" — Schopenhauer dice que es fantasía.
 - **Coincide con Adler (etapa 3)** en que leer/discutir es trabajo, no recepción pasiva.
@@ -99,6 +99,12 @@ Las dos categorías se solapan. Una ampliación (estratagema #1) suele instancia
 - **N4 — Analizar:** distinguís entre objeción legítima y ad personam.
 
 **Objetivo de salida: N3 mínimo.**
+
+## Justificación de la lectura completa
+
+* **¿Por qué leer este libro completo?** Al ser un tratado sumamente breve y directo (aproximadamente 100 páginas), su lectura íntegra es necesaria para captar el flujo deductivo y la ironía cínica con la que Schopenhauer describe las 38 estratagemas dialécticas de la retórica adversarial.
+* **¿Por qué no se seleccionan capítulos?** Cada estratagema es un caso de estudio lógico independiente. Saltar alguna impediría tener el catálogo completo de falacias retóricas para el análisis de debates políticos en vivo.
+* **Si decides hacer una lectura selectiva:** Enfócate en la base conceptual del prólogo (la distinción entre verdad objetiva y victoria dialéctica) y en las estratagemas más comunes de la discusión política contemporánea: #1 (ampliación), #2 (homonimia), #8 (provocar la cólera), #18 (interrupción), #30 (ad verecundiam) y #38 (ad hominem).
 
 ## Tareas
 

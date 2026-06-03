@@ -10,23 +10,24 @@ stage_files = sorted([f for f in os.listdir(docs_dir) if f.startswith("etapa-") 
 def get_phase(num):
     if 1 <= num <= 6:
         return 0 # Fase 0
-    elif 7 <= num <= 19:
+    elif 7 <= num <= 21:
         return 1 # Fase 1
-    elif 20 <= num <= 25:
+    elif 22 <= num <= 29:
         return 2 # Fase 2
-    elif 26 <= num <= 35:
+    elif 30 <= num <= 47:
         return 3 # Fase 3
-    elif 36 <= num <= 52:
+    elif 48 <= num <= 65:
         return 4 # Fase 4
-    elif 53 <= num <= 69:
+    elif 66 <= num <= 84:
         return 5 # Fase 5
-    elif 70 <= num <= 74:
+    elif 85 <= num <= 89:
         return 6 # M5
-    elif 75 <= num <= 81:
+    elif 90 <= num <= 97:
         return 7 # M6
-    elif 82 <= num <= 87:
+    elif 98 <= num <= 103:
         return 8 # Cierre
     return -1
+
 
 new_rows = []
 for filename in stage_files:

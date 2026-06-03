@@ -82,6 +82,12 @@ Porque es **la respuesta liberal a Hobbes** — mismo punto de partida (estado d
 
 *¿En qué condiciones es legítimo el poder político y cuándo el pueblo tiene derecho a derrocar a su gobierno?* La respuesta lockeana — derechos preexistentes + consentimiento + derecho de resistencia — es la columna vertebral de toda teoría liberal de la legitimidad posterior.
 
+## Justificación de la lectura seleccionada
+
+* **¿Por qué leer solo esta selección?** Capítulos 1 a 5, 7 a 12, y 19. Exponen los derechos naturales pre-políticos (vida, libertad y propiedad), la justificación de la propiedad privada por el trabajo mezclado, los fines del gobierno civil limitado y el derecho moral y jurídico de rebelión popular.
+* **¿Por qué omitir el resto en una primera lectura?** Los capítulos intermedios analizan las relaciones de subordinación familiar y dinástica en oposición directa a las teorías patriarcalistas de Robert Filmer (que Locke ya demolió en el Primer Tratado). También detallan normas sobre el derecho militar de conquista de su época que no alteran el marco de su teoría constitucional y liberal del Estado.
+* **¿Por qué vale la pena leer el libro completo?** Es sumamente útil para estudiantes avanzados de derecho internacional e historia colonial, ya que los capítulos sobre conquista y usurpación exponen la justificación lockeana del imperialismo inglés del siglo XVII y la legitimación jurídica de la apropiación territorial colonial.
+
 ## Tareas
 - [ ] **Lectura de Selección:** Leer el Segundo Tratado Capítulos 1 a 5 (Estado de naturaleza, guerra, propiedad privada), 7 a 12 (Sociedad civil, fines del gobierno), y 19 (Disolución del gobierno). Omitir cap. I.
 - [ ] **Estudio Audiovisual (Yale):** Ver las clases 15, 16 y 17 de Steven Smith en Yale Open Courses sobre John Locke (Equality and Usurpation, Property and Justice, Toleration and Government) **antes** de leer.

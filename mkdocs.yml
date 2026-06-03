@@ -98,7 +98,7 @@ nav:
       - "4 · Schopenhauer — El arte de tener razón": etapas/etapa-04-schopenhauer-arte-tener-razon.md
       - "5 · CrashCourse Philosophy — falacias": etapas/etapa-05-crashcourse-falacias.md
       - "6 · Manual de falacias — captura diaria 30 días": etapas/etapa-06-manual-falacias.md
-  - "Fase 1 — Filosofía clásica (etapas 7-19)":
+  - "Fase 1 — Filosofía clásica (etapas 7-21)":
       - "7 · Platón — Apología de Sócrates": etapas/etapa-07-platon-apologia.md
       - "8 · Aristóteles — Política (selección)": etapas/etapa-08-aristoteles-politica.md
       - "9 · Maquiavelo — El Príncipe": etapas/etapa-09-maquiavelo-principe.md
@@ -110,80 +110,96 @@ nav:
       - "15 · Mill — Sobre la libertad": etapas/etapa-15-mill-sobre-la-libertad.md
       - "16 · Sandel — Justice (Eps. 1 y 5)": etapas/etapa-16-sandel-justice.md
       - "17 · Locke — Segundo tratado del gobierno civil": etapas/etapa-17-locke-segundo-tratado.md
-      - "18 · Tocqueville — La democracia en América": etapas/etapa-18-tocqueville-democracia-en-america.md
-      - "19 · Pocock — El momento maquiavélico": etapas/etapa-19-pocock-momento-maquiavelico.md
-  - "Fase 2 — Economía política (etapas 20-25)":
-      - "20 · Chang — Economía para el 99%": etapas/etapa-20-chang-economia-99.md
-      - "21 · Smith — La riqueza de las naciones": etapas/etapa-21-smith-riqueza-naciones.md
-      - "22 · Hegel — Fenomenología + Filosofía del derecho": etapas/etapa-22-hegel-fenomenologia.md
-      - "23 · Marx — El Capital (Libro I)": etapas/etapa-23-marx-capital.md
-      - "24 · Harvey — Reading Marx's Capital (13 clases)": etapas/etapa-24-harvey-reading-marx.md
-      - "25 · Mariátegui — 7 Ensayos (II-III)": etapas/etapa-25-mariategui-7-ensayos.md
-  - "Fase 3 — Sociopolítica s.XX (etapas 26-35)":
-      - "26 · Weber — La política como vocación": etapas/etapa-26-weber-politica-vocacion.md
-      - "27 · Foucault — Vigilar y castigar / Biopolítica": etapas/etapa-27-foucault.md
-      - "28 · Rawls — Teoría de la Justicia (caps. I y III)": etapas/etapa-28-rawls-teoria-justicia.md
-      - "29 · Berlin — Dos conceptos de libertad": etapas/etapa-29-berlin-dos-conceptos.md
-      - "30 · Habermas — Esfera pública (selección)": etapas/etapa-30-habermas-esfera-publica.md
-      - "31 · Lenin — El imperialismo": etapas/etapa-31-lenin-imperialismo.md
-      - "32 · Gramsci — Cuadernos desde la prisión": etapas/etapa-32-gramsci-cuadernos.md
-      - "33 · Hayek — Camino de servidumbre": etapas/etapa-33-hayek-camino-servidumbre.md
-      - "34 · Popper — La sociedad abierta y sus enemigos": etapas/etapa-34-popper-sociedad-abierta.md
-      - "35 · Nozick — Anarquía, Estado y utopía": etapas/etapa-35-nozick-anarquia-estado-utopia.md
-  - "Fase 4 — Iberoamericana (etapas 36-52)":
-      - "36 · Bolívar — Carta de Jamaica": etapas/etapa-36-bolivar-carta-jamaica.md
-      - "37 · Martí — Nuestra América": etapas/etapa-37-marti-nuestra-america.md
-      - "38 · Rodó — Ariel": etapas/etapa-38-rodo-ariel.md
-      - "39 · Vasconcelos — La raza cósmica": etapas/etapa-39-vasconcelos-raza-cosmica.md
-      - "40 · Paz — El laberinto de la soledad": etapas/etapa-40-paz-laberinto-soledad.md
-      - "41 · Galeano — Las venas abiertas de América Latina": etapas/etapa-41-galeano-venas-abiertas.md
-      - "42 · Bueno — El mito de la izquierda": etapas/etapa-42-bueno-mito-izquierda.md
-      - "43 · Echeverría — Modernidad y blanquitud": etapas/etapa-43-echeverria-modernidad-blanquitud.md
-      - "44 · Dussel — 1492: el encubrimiento del Otro": etapas/etapa-44-dussel-1492.md
-      - "45 · Quijano — Colonialidad del poder": etapas/etapa-45-quijano-colonialidad.md
-      - "46 · Cusicanqui — Ch'ixinakax utxiwa": etapas/etapa-46-cusicanqui-chixinakax.md
-      - "47 · Freire — Pedagogía del oprimido": etapas/etapa-47-freire-pedagogia-oprimido.md
-      - "48 · Gutiérrez — Teología de la liberación": etapas/etapa-48-gutierrez-teologia-liberacion.md
-      - "49 · González — Por un feminismo afrolatinoamericano": etapas/etapa-49-gonzalez-feminismo-afrolatinoamericano.md
-      - "50 · Lugones — Heterosexualismo y sistema de género colonial": etapas/etapa-50-lugones-heterosexualismo.md
-      - "51 · Gago — La potencia feminista": etapas/etapa-51-gago-potencia-feminista.md
-      - "52 · Segato — La guerra contra las mujeres": etapas/etapa-52-segato-guerra-mujeres.md
-  - "Fase 5 — Síntesis global (etapas 53-69)":
-      - "53 · Wallerstein — Análisis de sistemas-mundo": etapas/etapa-53-wallerstein-sistemas-mundo.md
-      - "54 · Mearsheimer — The Tragedy of Great Power Politics": etapas/etapa-54-mearsheimer-great-power.md
-      - "55 · Agamben — Homo Sacer / Estado de excepción": etapas/etapa-55-agamben.md
-      - "56 · Fanon — Los condenados de la tierra": etapas/etapa-56-fanon-condenados-tierra.md
-      - "57 · Said — Orientalismo": etapas/etapa-57-said-orientalismo.md
-      - "58 · Mbembe — Necropolítica": etapas/etapa-58-mbembe-necropolitica.md
-      - "59 · Novela política (García Márquez / Vargas Llosa)": etapas/etapa-59-novela-politica.md
-      - "60 · Relectura activa de un libro de Fases 1-4": etapas/etapa-60-relectura-activa.md
-      - "61 · Gandhi — Hind Swaraj": etapas/etapa-61-gandhi-hind-swaraj.md
-      - "62 · Confucio — Analectas (selección)": etapas/etapa-62-confucio-analectas.md
-      - "63 · Sen — Identidad y violencia": etapas/etapa-63-sen-identidad-violencia.md
-      - "64 · Hardt & Negri — Imperio": etapas/etapa-64-hardt-negri-imperio.md
-      - "65 · Wang Hui — El nuevo orden de China": etapas/etapa-65-wang-hui.md
-      - "66 · Maruyama — Pensamiento político de Japón moderno": etapas/etapa-66-maruyama.md
-      - "67 · Ambedkar — Annihilation of Caste": etapas/etapa-67-ambedkar-annihilation-caste.md
-      - "68 · Ensayo final integrador (1500-2000 palabras)": etapas/etapa-68-ensayo-final.md
-      - "69 · Grabación oral final (10 min, sin notas)": etapas/etapa-69-grabacion-final.md
-  - "Ciclo III · M5 — Política social (etapas 70-74)":
-      - "70 · Marshall — Ciudadanía y clase social": etapas/etapa-70-marshall-ciudadania.md
-      - "71 · Polanyi — La gran transformación": etapas/etapa-71-polanyi-gran-transformacion.md
-      - "72 · Esping-Andersen — Tres mundos del Estado del bienestar": etapas/etapa-72-esping-andersen.md
-      - "73 · Filgueira — Universalismo básico en AL": etapas/etapa-73-filgueira-universalismo-basico.md
-      - "74 · Tesina M5 — ¿Qué welfare es el argentino?": etapas/etapa-74-tesina-m5.md
-  - "Ciclo III · M6 — Cultura (etapas 75-81)":
-      - "75 · Williams — Marxismo y literatura": etapas/etapa-75-williams-marxismo-literatura.md
-      - "76 · Benjamin — La obra de arte en la época de su reproductibilidad": etapas/etapa-76-benjamin-obra-arte.md
-      - "77 · Bourdieu — La distinción": etapas/etapa-77-bourdieu-distincion.md
-      - "78 · Hall — Encoding/Decoding": etapas/etapa-78-hall-encoding-decoding.md
-      - "79 · García Canclini — Culturas híbridas": etapas/etapa-79-garcia-canclini-culturas-hibridas.md
-      - "80 · Martín-Barbero — De los medios a las mediaciones": etapas/etapa-80-martin-barbero.md
-      - "81 · Zuboff — La era del capitalismo de la vigilancia": etapas/etapa-81-zuboff-vigilancia.md
-  - "Cierre — Temas-bisagra + tesina (etapas 82-87)":
-      - "82 · Ensayo tema-bisagra — Neoliberalismo": etapas/etapa-82-ensayo-neoliberalismo.md
-      - "83 · Ensayo tema-bisagra — Ciudadanía": etapas/etapa-83-ensayo-ciudadania.md
-      - "84 · Ensayo tema-bisagra — Trabajo": etapas/etapa-84-ensayo-trabajo.md
-      - "85 · Ensayo tema-bisagra — Estado": etapas/etapa-85-ensayo-estado.md
-      - "86 · Ensayo tema-bisagra — Desigualdad": etapas/etapa-86-ensayo-desigualdad.md
-      - "87 · Tesina final integrada (8-10k palabras)": etapas/etapa-87-tesina-final.md
+      - "18 · Constant — La libertad de los antiguos vs. los modernos": etapas/etapa-18-constant-libertad.md
+      - "19 · Tocqueville — La democracia en América": etapas/etapa-19-tocqueville-democracia-en-america.md
+      - "20 · Pocock — El momento maquiavélico": etapas/etapa-20-pocock-momento-maquiavelico.md
+      - "21 · Pateman & Mills — El contrato sexual y racial": etapas/etapa-21-pateman-mills-contrato.md
+  - "Fase 2 — Economía política (etapas 22-29)":
+      - "22 · Chang — Economía para el 99%": etapas/etapa-22-chang-economia-99.md
+      - "23 · Smith — La riqueza de las naciones": etapas/etapa-23-smith-riqueza-naciones.md
+      - "24 · Ricardo — Principios de economía política": etapas/etapa-24-ricardo-economia-politica.md
+      - "25 · Hegel — Fenomenología + Filosofía del derecho": etapas/etapa-25-hegel-fenomenologia.md
+      - "26 · Marx — El Capital (Libro I)": etapas/etapa-26-marx-capital.md
+      - "27 · Harvey — Reading Marx's Capital (13 clases)": etapas/etapa-27-harvey-reading-marx.md
+      - "28 · Federici — Calibán y la bruja": etapas/etapa-28-federici-caliban-bruja.md
+      - "29 · Mariátegui — 7 Ensayos (II-III)": etapas/etapa-29-mariategui-7-ensayos.md
+  - "Fase 3 — Sociopolítica s.XX (etapas 30-47)":
+      - "30 · Weber — La política como vocación": etapas/etapa-30-weber-politica-vocacion.md
+      - "31 · Foucault — Vigilar y castigar / Biopolítica": etapas/etapa-31-foucault.md
+      - "32 · Arendt — La condición humana": etapas/etapa-32-arendt-condicion-humana.md
+      - "33 · Schmitt — El concepto de lo político / Soberanía": etapas/etapa-33-schmitt-concepto-politico.md
+      - "34 · Rawls — Teoría de la Justicia (caps. I y III)": etapas/etapa-34-rawls-teoria-justicia.md
+      - "35 · Berlin — Dos conceptos de libertad": etapas/etapa-35-berlin-dos-conceptos.md
+      - "36 · Pettit & Skinner — Republicanismo contemporáneo": etapas/etapa-36-pettit-skinner-republicanismo.md
+      - "37 · Habermas — Esfera pública (selección)": etapas/etapa-37-habermas-esfera-publica.md
+      - "38 · Laclau & Mouffe — Hegemonía y agonismo democrático": etapas/etapa-38-laclau-mouffe-hegemonia.md
+      - "39 · Lenin — El imperialismo": etapas/etapa-39-lenin-imperialismo.md
+      - "40 · Gramsci — Cuadernos desde la prisión": etapas/etapa-40-gramsci-cuadernos.md
+      - "41 · Hayek — Camino de servidumbre": etapas/etapa-41-hayek-camino-servidumbre.md
+      - "42 · Menger — Principios de economía política": etapas/etapa-42-menger-economia-politica.md
+      - "43 · Popper — La sociedad abierta y sus enemigos": etapas/etapa-43-popper-sociedad-abierta.md
+      - "44 · Nozick — Anarquía, Estado y utopía": etapas/etapa-44-nozick-anarquia-estado-utopia.md
+      - "45 · Keynes — Teoría general": etapas/etapa-45-keynes-teoria-general.md
+      - "46 · Hardin & Ostrom — La tragedia y el gobierno de los comunes": etapas/etapa-46-hardin-ostrom-comunes.md
+      - "47 · Fraser & Honneth — ¿Redistribución o reconocimiento?": etapas/etapa-47-fraser-honneth-redistribucion.md
+  - "Fase 4 — Iberoamericana (etapas 48-65)":
+      - "48 · Bolívar — Carta de Jamaica": etapas/etapa-48-bolivar-carta-jamaica.md
+      - "49 · Martí — Nuestra América": etapas/etapa-49-marti-nuestra-america.md
+      - "50 · Rodó — Ariel": etapas/etapa-50-rodo-ariel.md
+      - "51 · Vasconcelos — La raza cósmica": etapas/etapa-51-vasconcelos-raza-cosmica.md
+      - "52 · Paz — El laberinto de la soledad": etapas/etapa-52-paz-laberinto-soledad.md
+      - "53 · Galeano — Las venas abiertas de América Latina": etapas/etapa-53-galeano-venas-abiertas.md
+      - "54 · Bueno — El mito de la izquierda": etapas/etapa-54-bueno-mito-izquierda.md
+      - "55 · Echeverría — Modernidad y blanquitud": etapas/etapa-55-echeverria-modernidad-blanquitud.md
+      - "56 · Dussel — 1492: el encubrimiento del Otro": etapas/etapa-56-dussel-1492.md
+      - "57 · Quijano — Colonialidad del poder": etapas/etapa-57-quijano-colonialidad.md
+      - "58 · Cusicanqui — Ch'ixinakax utxiwa": etapas/etapa-58-cusicanqui-chixinakax.md
+      - "59 · Freire — Pedagogía del oprimido": etapas/etapa-59-freire-pedagogia-oprimido.md
+      - "60 · Gutiérrez — Teología de la liberación": etapas/etapa-60-gutierrez-teologia-liberacion.md
+      - "61 · González — Por un feminismo afrolatinoamericano": etapas/etapa-61-gonzalez-feminismo-afrolatinoamericano.md
+      - "62 · Crenshaw — Interseccionalidad y cartografía de los márgenes": etapas/etapa-62-crenshaw-interseccionalidad.md
+      - "63 · Lugones — Heterosexualismo y sistema de género colonial": etapas/etapa-63-lugones-heterosexualismo.md
+      - "64 · Gago — La potencia feminista": etapas/etapa-64-gago-potencia-feminista.md
+      - "65 · Segato — La guerra contra las mujeres": etapas/etapa-65-segato-guerra-mujeres.md
+  - "Fase 5 — Síntesis global (etapas 66-84)":
+      - "66 · Wallerstein — Análisis de sistemas-mundo": etapas/etapa-66-wallerstein-sistemas-mundo.md
+      - "67 · Mearsheimer — The Tragedy of Great Power Politics": etapas/etapa-67-mearsheimer-great-power.md
+      - "68 · Agamben — Homo Sacer / Estado de excepción": etapas/etapa-68-agamben.md
+      - "69 · Fanon — Los condenados de la tierra": etapas/etapa-69-fanon-condenados-tierra.md
+      - "70 · Said — Orientalismo": etapas/etapa-70-said-orientalismo.md
+      - "71 · Spivak — ¿Puede hablar el subalterno?": etapas/etapa-71-spivak-subalterno.md
+      - "72 · Chibber — La teoría poscolonial y el espectro del capital": etapas/etapa-72-chibber-teoria-poscolonial.md
+      - "73 · Mbembe — Necropolítica": etapas/etapa-73-mbembe-necropolitica.md
+      - "74 · Novela política (García Márquez / Vargas Llosa)": etapas/etapa-74-novela-politica.md
+      - "75 · Relectura activa de un libro de Fases 1-4": etapas/etapa-75-relectura-activa.md
+      - "76 · Gandhi — Hind Swaraj": etapas/etapa-76-gandhi-hind-swaraj.md
+      - "77 · Confucio — Analectas (selección)": etapas/etapa-77-confucio-analectas.md
+      - "78 · Sen — Identidad y violencia": etapas/etapa-78-sen-identidad-violencia.md
+      - "79 · Hardt & Negri — Imperio": etapas/etapa-79-hardt-negri-imperio.md
+      - "80 · Wang Hui — El nuevo orden de China": etapas/etapa-80-wang-hui.md
+      - "81 · Maruyama — Pensamiento político de Japón moderno": etapas/etapa-81-maruyama.md
+      - "82 · Ambedkar — Annihilation of Caste": etapas/etapa-82-ambedkar-annihilation-caste.md
+      - "83 · Ensayo final integrador (1500-2000 palabras)": etapas/etapa-83-ensayo-final.md
+      - "84 · Grabación oral final (10 min, sin notas)": etapas/etapa-84-grabacion-final.md
+  - "Ciclo III · M5 — Política social (etapas 85-89)":
+      - "85 · Marshall — Ciudadanía y clase social": etapas/etapa-85-marshall-ciudadania.md
+      - "86 · Polanyi — La gran transformación": etapas/etapa-86-polanyi-gran-transformacion.md
+      - "87 · Esping-Andersen — Tres mundos del Estado del bienestar": etapas/etapa-87-esping-andersen.md
+      - "88 · Filgueira — Universalismo básico en AL": etapas/etapa-88-filgueira-universalismo-basico.md
+      - "89 · Tesina M5 — ¿Qué welfare es el argentino?": etapas/etapa-89-tesina-m5.md
+  - "Ciclo III · M6 — Cultura (etapas 90-97)":
+      - "90 · Horkheimer & Adorno — La industria cultural": etapas/etapa-90-horkheimer-adorno-industria-cultural.md
+      - "91 · Williams — Marxismo y literatura": etapas/etapa-91-williams-marxismo-literatura.md
+      - "92 · Benjamin — La obra de arte en la época de su reproductibilidad": etapas/etapa-92-benjamin-obra-arte.md
+      - "93 · Bourdieu — La distinción": etapas/etapa-93-bourdieu-distincion.md
+      - "94 · Hall — Encoding/Decoding": etapas/etapa-94-hall-encoding-decoding.md
+      - "95 · García Canclini — Culturas híbridas": etapas/etapa-95-garcia-canclini-culturas-hibridas.md
+      - "96 · Martín-Barbero — De los medios a las mediaciones": etapas/etapa-96-martin-barbero.md
+      - "97 · Zuboff — La era del capitalismo de la vigilancia": etapas/etapa-97-zuboff-vigilancia.md
+  - "Cierre — Temas-bisagra + tesina (etapas 98-103)":
+      - "98 · Ensayo tema-bisagra — Neoliberalismo": etapas/etapa-98-ensayo-neoliberalismo.md
+      - "99 · Ensayo tema-bisagra — Ciudadanía": etapas/etapa-99-ensayo-ciudadania.md
+      - "100 · Ensayo tema-bisagra — Trabajo": etapas/etapa-100-ensayo-trabajo.md
+      - "101 · Ensayo tema-bisagra — Estado": etapas/etapa-101-ensayo-estado.md
+      - "102 · Ensayo tema-bisagra — Desigualdad": etapas/etapa-102-ensayo-desigualdad.md
+      - "103 · Tesina final integrada (8-10k palabras)": etapas/etapa-103-tesina-final.md

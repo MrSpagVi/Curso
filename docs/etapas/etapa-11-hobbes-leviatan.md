@@ -83,6 +83,12 @@ Porque sin Hobbes no hay debate moderno sobre el Estado. Y porque **el método d
 
 ¿Por qué los humanos necesitan el Estado y qué tipo de Estado deben aceptar? La respuesta hobbesiana es radical: porque sin Estado nuestra existencia es insoportable, **aceptaríamos racionalmente** entregar todos nuestros derechos a un soberano absoluto a cambio de seguridad. La política empieza con el cálculo de un individuo aterrorizado, no con la sociabilidad aristotélica.
 
+## Justificación de la lectura seleccionada
+
+* **¿Por qué leer solo esta selección?** Parte I (Caps. 6, 10, 11, 13, 14-15, 16) y Parte II (Caps. 17-19, 21, 26, 29-30). Sientan las bases de la antropología materialista (el miedo a la muerte violenta como motor racional), el experimento mental del estado de naturaleza, la creación del soberano por contrato social, y los límites de la obediencia del súbdito.
+* **¿Por qué omitir el resto en una primera lectura?** Las Partes III ("De un Estado cristiano") y IV ("Del reino de las tinieblas") representan casi dos tercios del libro. Consisten en exégesis bíblicas minuciosas del Antiguo y Nuevo Testamento con el fin de neutralizar el poder de la Iglesia Romana frente al monarca inglés, debates teológicos ajenos a la teoría constitucional contemporánea.
+* **¿Por qué vale la pena leer el libro completo?** Es sumamente valioso para comprender la relación histórica entre teología y política (teología política). Permite desmitificar la idea de que Hobbes era un ateo secular y entender cómo estructuraba su justificación racional del absolutismo sobre bases cristianas reformadas.
+
 ## Tareas
 - [ ] **Lectura de Selección:** Leer Leviatán Introducción; Parte I caps. 6, 10, 11, 13 (estado de naturaleza), 14-15 (leyes naturales) y 16; Parte II caps. 17-18 (generación del soberano), 19, 21, 26, 29-30. Omitir Partes III-IV (religión).
 - [ ] **Estudio Audiovisual (Yale):** Ver las clases 12, 13 y 14 de Steven Smith en Yale Open Courses sobre Hobbes (Sovereignty and Security, The Social Contract, Individual and Community) **antes** de leer los capítulos.

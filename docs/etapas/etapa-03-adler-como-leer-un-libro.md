@@ -158,6 +158,12 @@ Si te enganchás, completo. Si no, los 6 capítulos arriba bastan para el plan.
 
 **Objetivo de salida de esta etapa: N3 mínimo. N4 si te aplicaste.**
 
+## Justificación de la lectura seleccionada
+
+* **¿Por qué leer solo esta selección?** Los capítulos 1 a 4 y la sección analítica (Caps. 5-7, 11) explican la distinción fundamental entre adquirir información y aumentar la comprensión, establecen las bases de los cuatro niveles de lectura (elemental, inspeccional, analítica y sintópica) y detallan las reglas prácticas indispensables para desmenuzar activamente el argumento de un autor.
+* **¿Por qué omitir el resto en una primera lectura?** El resto del volumen se dispersa en pautas metodológicas hiperespecíficas sobre cómo abordar géneros literarios particulares, como la poesía lírica, obras teatrales clásicas, novelas de ficción o tratados de matemáticas puras. Si bien son útiles para una formación humanística general, carecen de relevancia para el objetivo de este programa de estudio, que se enfoca en la apropiación analítica de tratados de teoría social.
+* **¿Por qué vale la pena leer el libro completo?** Leer la obra completa es aconsejable si deseas perfeccionar tu técnica lectora en áreas fuera de la teoría del Estado (como la literatura de ficción, la poesía o la divulgación científica) o si quieres dominar la lectura sintópica para realizar investigaciones académicas comparativas complejas.
+
 ## Tareas
 
 - [ ] **Lectura inspeccional de Adler**: prólogo + índice + caps. 1-4 hojeados (30-60 min). Decidir si seguís analítico.

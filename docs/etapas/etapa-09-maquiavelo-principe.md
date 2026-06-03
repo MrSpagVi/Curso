@@ -75,6 +75,12 @@ Porque sin Maquiavelo no se entiende el pasaje del mundo medieval al moderno en 
 
 La pregunta declarada es: *¿Cómo conserva el poder un príncipe nuevo en circunstancias adversas?* La pregunta subterránea — la que vuelve al libro inmortal — es: *¿Es posible la política sin la moral cristiana? ¿Hay una ética propia del actuar político?* Maquiavelo no responde de modo cínico ("nada vale, todo se permite"); responde estructuralmente: la política tiene **sus propias condiciones de éxito y fracaso**, y quien las ignore por escrúpulo moral perderá el poder y arruinará a su pueblo.
 
+## Justificación de la lectura completa
+
+* **¿Por qué leer este libro completo?** Es una obra maestra literaria y conceptual sumamente corta. Su brevedad permite asimilar el método realista crudo y la argumentación continua sobre la conquista, conservación y pérdida de los principados en el Renacimiento italiano.
+* **¿Por qué no se seleccionan capítulos?** Omitir capítulos rompería el hilo argumental deductivo que vincula la tipología de principados con la milicia y los consejos finales al soberano sobre cómo conservar su poder.
+* **Si decides hacer una lectura selectiva:** Enfócate en los capítulos 15 a 19 (las virtudes morales del príncipe, si es mejor ser amado o temido, y la evitación del odio) y el capítulo 25 (el papel de la *fortuna* y la *virtù* en la política humana).
+
 ## Tareas
 
 - [ ] Leer *El Príncipe* completo (~100 pp · edición Wikisource o Elejandría).

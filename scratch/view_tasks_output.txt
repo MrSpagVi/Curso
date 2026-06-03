@@ -1,0 +1,478 @@
+============================================================
+File: etapa-03-adler-como-leer-un-libro.md
+- [ ] **Lectura inspeccional de Adler**: prólogo + índice + caps. 1-4 hojeados (30-60 min). Decidir si seguís analítico.
+- [ ] **Lectura analítica de los 4 niveles**: Prólogo + Cap. 1 + Cap. 2-4 (lectura inspeccional + analítica). Aplicar las 4 reglas mientras leés.
+- [ ] **Lectura analítica de los caps. 5-7** (términos, proposiciones, argumentos) + Cap. 11 (analizar un argumento).
+- [ ] **Literature note completa** del libro en el cuaderno o en Notion: tesis central en 3 frases, 5 ideas que te marcaron con página, mi crítica, citas memorables. Usá la plantilla del sistema de notas (etapa 1).
+- [ ] **Nota permanente** sobre **las 4 preguntas que le hacés a un libro**: título declarativo, en tus palabras, mínimo 2 conexiones (con Schopenhauer y con tu sistema de notas).
+============================================================
+
+============================================================
+File: etapa-04-schopenhauer-arte-tener-razon.md
+- [ ] **Lectura completa de las 38 estratagemas** (~100 pp, 4-6 h en 2-3 sesiones). Capítulos son brevísimos — leelo de corrido la primera vez.
+- [ ] **Literature note**: lista de las 38 estratagemas con definición en una frase + ejemplo propio de cada una de las 6 más importantes (#1, #2, #8, #18, #30, #38).
+- [ ] **Identificar 5 estratagemas en un debate político real** (TV, YouTube, hilo de X, columna). Anotar en log de falacias con etiqueta "estratagema-N" + cita textual corta + cómo responderías.
+- [ ] **Nota permanente** con título declarativo sobre la tesis amarga de Schopenhauer (ej.: *"La verdad rara vez gana debates: gana quien sabe la mecánica del combate retórico"*) — conectada con Adler (etapa 3) y con el manual de falacias (etapa 6).
+============================================================
+
+============================================================
+File: etapa-06-manual-falacias.md
+- [ ] **Leer las 4 familias** (sección "Manual completo" arriba) y reconocer la familia a la que pertenece cada falacia.
+- [ ] **Leer las 5 más frecuentes** con sus tarjetas detalladas (ad hominem, hombre de paja, falsa dicotomía, ad verecundiam, generalización apresurada) — definición + 2 ejemplos + cómo responder + caso límite.
+- [ ] **Capturar 1 falacia diaria durante 30 días** (mínimo 30 capturas totales). Usar el log que armaste en la etapa 1 (campos: cita corta + familia + nombre concreto + respuesta en una frase).
+- [ ] **Auto-test de 10 casos** al final de los 30 días. Calibrar contra las respuestas. Objetivo: 7+/10.
+- [ ] **Nota permanente** con título declarativo sobre la diferencia entre objeción legítima y ad hominem (ej.: *"El ad hominem genuino ataca al hablante para evadir el argumento; la crítica al hablante es legítima cuando su credencial o sesgo afecta directamente la validez técnica del argumento"*) — conectada con Schopenhauer (estratagema #38) y con tu sistema de captura.
+============================================================
+
+============================================================
+File: etapa-08-aristoteles-politica.md
+- [ ] **Lectura de Selección:** Leer Libro I caps. 1-2 y 3-7 (hombre como animal político, familia, esclavitud natural); Libro III caps. 1-9 (ciudadanía, tipología de regímenes, mejor régimen); y Libro VII caps. 1-3 y 13-14 (la mejor *polis*).
+- [ ] **Estudio Audiovisual:** Ver la Clase 10 de Michael Sandel *Justice* ("Justice, Virtue, and Teleology" / "The Good Citizen") y responder: ¿Cómo conecta Sandel el propósito de un bien (flautas para los mejores flautistas) con la concepción teleológica de la política y el mérito de Aristóteles?
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica fuerte sobre esclavitud natural + conexiones con Maquiavelo y Hobbes).
+- [ ] Escribir nota permanente sobre la **tipología de los seis regímenes** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-09-maquiavelo-principe.md
+- [ ] Leer *El Príncipe* completo (~100 pp · edición Wikisource o Elejandría).
+- [ ] Leer al menos los caps. 1-6 del Libro I de los *Discursos sobre Tito Livio* (para corregir la caricatura: Maquiavelo era republicano).
+- [ ] Ver video "Maquiavelo y El Príncipe" de La Fonda Filosófica (pt. 1 y 2) y Educatina.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Hobbes, Schmitt, Mearsheimer).
+- [ ] Escribir nota permanente sobre **virtù vs fortuna** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-103-tesina-final.md
+- [ ] **Elegir tema-bisagra** entre los cinco ensayos (79-83). Criterio: cuál enganchó más + cuál tiene caso concreto más jugoso disponible.
+- [ ] **Outline de tesina** (1 página): 5-7 secciones con título + tesis específica de cada sección + autores principales + caso concreto a desarrollar.
+- [ ] **Recolección de citas** sistemática: revisar fichas M2 + subrayados de las etapas relevantes; armar un documento `citas-tesina.md` con 30-50 citas textuales con página, ordenadas por sección del outline.
+- [ ] **Borrador 1** completo (8000 palabras). Sin pulir, sin temer la repetición. Lo importante es llegar al final con todas las secciones cubiertas.
+- [ ] **Iteración con IA + revisión propia**: pasar el borrador por IA en tres pasadas distintas — (a) *devil's advocate* de la tesis, (b) revisión de coherencia interna y huecos argumentativos, (c) revisión de claridad de prosa. Reescribir.
+- [ ] **Versión final** (8000-10.000 palabras) archivada en `lecturas/tesina-final.md`, con bibliografía citada al final en formato APA o similar.
+============================================================
+
+============================================================
+File: etapa-11-hobbes-leviatan.md
+- [ ] **Lectura de Selección:** Leer Leviatán Introducción; Parte I caps. 6, 10, 11, 13 (estado de naturaleza), 14-15 (leyes naturales) y 16; Parte II caps. 17-18 (generación del soberano), 19, 21, 26, 29-30. Omitir Partes III-IV (religión).
+- [ ] **Estudio Audiovisual (Yale):** Ver las clases 12, 13 y 14 de Steven Smith en Yale Open Courses sobre Hobbes (Sovereignty and Security, The Social Contract, Individual and Community) **antes** de leer los capítulos.
+- [ ] **Crítica Feminista al Contrato Social (Pateman):** Leer Carole Pateman, *El contrato sexual* (1988), Capítulo 1 ("El contrato sexual y el contrato social"). Redactar 300 palabras analizando cómo el "estado de naturaleza" hobbesiano asume a los individuos como "nacidos de la tierra como hongos" (libres del trabajo de reproducción social), ocultando que el pacto de sujeción estatal se cimenta sobre el pacto de sujeción patriarcal.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles refutado, Locke, Rousseau, Weber, Schmitt).
+- [ ] Escribir nota permanente sobre **estado de naturaleza como ficción metodológica** (100-300 palabras, conectada — distinguir explícitamente de "historia").
+============================================================
+
+============================================================
+File: etapa-12-yale-hobbes.md
+- [ ] Ver Yale PLSC 114 Lecture 12 — "The Sovereign State" (~48 min) con notas, **antes** de leer los caps. 13-15.
+- [ ] Ver Yale PLSC 114 Lectures 13 y 14 (~48 min cada una) **después** de leer los caps. correspondientes.
+- [ ] Integrar las notas de las tres clases con la literature note de Etapa 11 — sumar las distinciones que Smith introduce (autorización, representación, libertad negativa).
+============================================================
+
+============================================================
+File: etapa-13-rousseau-contrato-social.md
+- [ ] **Lectura de Selección:** Leer Contrato Social Libros I, II y III completos, y Libro IV capítulos 1-2 (la voluntad general) y 8 (la religión civil).
+- [ ] **Estudio Audiovisual (Yale):** Ver las clases 18, 19 y 20 de Steven Smith en Yale Open Courses sobre Rousseau (A Critique of Progress, General Will, Republic) **antes** de comenzar la lectura.
+- [ ] **Crítica de Género (Pateman):** Escribir una nota de 300 palabras analizando si la noción de voluntad general de Rousseau presupone un ciudadano masculino que delega lo doméstico y de qué manera Carole Pateman (*El contrato sexual*) identifica al pacto rousseauniano como un "contrato conyugal" de exclusión de las mujeres.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Maquiavelo, Hobbes, Locke, Mill, Kant, Schmitt).
+- [ ] Escribir nota permanente sobre **la voluntad general en Rousseau** (100-300 palabras, conectada — distinguir de "voluntad de todos").
+============================================================
+
+============================================================
+File: etapa-15-mill-sobre-la-libertad.md
+- [ ] **Lectura Completa:** Leer *Sobre la libertad* completo de principio a fin (es un texto breve, ~100 páginas en ediciones modernas).
+- [ ] **Lectura de Selección (Utilitarismo):** Leer los primeros capítulos de *El utilitarismo* (~30 pp) para comprender la base de utilidad en el sentido más amplio.
+- [ ] **Crítica al Sesgo Imperial/Colonial:** Redactar una nota de 300 palabras respondiendo: ¿Cómo justifica Mill en el Capítulo 1 que el principio del daño (harm principle) y la libertad individual no se aplican a las sociedades "atrasadas" o no civilizadas (ej. India, donde Mill trabajaba para la Compañía de las Indias Orientales)? Contrastalo con la crítica de Uday Mehta en *Liberalism and Empire*.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Hobbes, Locke, Rousseau, Tocqueville, Berlin, Popper, Rawls).
+- [ ] Escribir nota permanente sobre **el principio del daño en Mill** (100-300 palabras, conectada — distinguir de simple "hacer lo que querés").
+============================================================
+
+============================================================
+File: etapa-17-locke-segundo-tratado.md
+- [ ] **Lectura de Selección:** Leer el Segundo Tratado Capítulos 1 a 5 (Estado de naturaleza, guerra, propiedad privada), 7 a 12 (Sociedad civil, fines del gobierno), y 19 (Disolución del gobierno). Omitir cap. I.
+- [ ] **Estudio Audiovisual (Yale):** Ver las clases 15, 16 y 17 de Steven Smith en Yale Open Courses sobre John Locke (Equality and Usurpation, Property and Justice, Toleration and Government) **antes** de leer.
+- [ ] **El Contrato Racial y la Apropiación Lockeana:** Leer Charles W. Mills, *El contrato racial* (1997), Capítulo 1. Redactar una nota de 300 palabras sobre la justificación lockeana del "laboring" (trabajo agrícola) para apropiarse de tierras comunales en América ("en un principio todo el mundo era América"). Explicar cómo la soberanía lockeana excluye epistemológicamente a las poblaciones originarias que no siguen el modelo agrícola-propietario europeo.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Hobbes, Rousseau, Mill, Nozick, Rawls).
+- [ ] Escribir nota permanente sobre **la justificación lockeana de la propiedad privada** (100-300 palabras, conectada — el argumento del trabajo mezclado).
+============================================================
+
+============================================================
+File: etapa-19-tocqueville-democracia-en-america.md
+- [ ] **Lectura de Selección:** Leer La Democracia en América Vol. I: Parte II, Caps. 5, 7 y 8 (tiranía de la mayoría); Vol. II: Parte II, Caps. 1 a 4 (individualismo e interés bien entendido) y Parte IV, Caps. 6 y 7 (despotismo democrático).
+- [ ] **Estudio Audiovisual (Yale/Sandel):** Ver las clases 21, 22 y 23 de Steven Smith en Yale Open Courses sobre Tocqueville (Democratic Despotism, Tyranny of the Majority, Associations and Religion) y el debate del individualismo en Sandel *Justice*.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Hobbes, Locke, Rousseau, Mill, Berlin, Popper, Rawls, Bourdieu).
+- [ ] Escribir nota permanente sobre **el despotismo blando en Tocqueville** (100-300 palabras, conectada — la tiranía que no persigue sino que despolitiza).
+============================================================
+
+============================================================
+File: etapa-20-pocock-momento-maquiavelico.md
+- [ ] Leer Introducción + Parte I caps. 1-3 (problema metodológico + republicanismo aristotélico).
+- [ ] Leer Parte II caps. 6-7 (Maquiavelo en contexto florentino — núcleo del libro).
+- [ ] Leer Parte III caps. 12-13 (Harrington y la tradición republicana inglesa). Saltar el resto en primera lectura.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica fuerte + conexiones con Maquiavelo, Aristóteles, Locke contrastado, debate sobre fundación EE.UU.).
+- [ ] Escribir nota permanente sobre **lenguajes políticos como herramienta metodológica** (100-300 palabras, conectada — aplicarlo retroactivamente a un autor ya leído).
+- [ ] **Neorrepublicanismo Normativo (Pettit/Skinner):** Analizar la definición de "libertad como no dominación" de Philip Pettit (*Republicanismo*) y Quentin Skinner frente al clásico binario liberal de Isaiah Berlin (libertad negativa/positiva). Escribir 250 palabras explicando por qué un esclavo con un amo benevolente sigue siendo "no libre" bajo el enfoque neorrepublicano, vinculándolo a la noción de *vivere libero* en Maquiavelo.
+- [ ] **Steelman de fin de fase — defendé al autor de Fase 1 que MENOS te convenció (o el que peor entendés).** En 500 palabras, sostené su postura como si fuera tuya, sin disclaimers ni "pero en realidad", con sus mejores argumentos. Candidatos según tu inclinación: si sos liberal, defendé el **realismo amoral de Maquiavelo** (la política como es, no como debería ser) o el **soberano absoluto de Hobbes** (sin Leviatán, guerra de todos contra todos); si sos hobbesiano-realista, defendé la **voluntad general de Rousseau** o el **gobierno limitado de Locke**; si desconfiás de la democracia de masas, defendé la **libertad de los modernos de Mill** o el **autogobierno participativo del republicanismo cívico de Pocock**. Si no podés sostenerla con sus mejores argumentos, no la entendiste.
+============================================================
+
+============================================================
+File: etapa-22-chang-economia-99.md
+- [ ] **Tarea 1 — Lectura selectiva (4-5 h):** leé los 10 capítulos de *23 cosas* recomendados: 1 (no hay libre mercado), 2 (las empresas no se gestionan para sus dueños), 4 (lavavajillas), 7 (las políticas de libre mercado raramente enriquecen a países pobres), 12 (gobiernos pueden elegir ganadores), 13 (los ricos no son los más productivos), 17 (más educación no enriquece automáticamente), 19 (todavía vivimos en economías planificadas), 22 (los mercados financieros necesitan ser menos eficientes), 23 (la buena política económica no requiere buenos economistas). Ritmo objetivo: ~25-30 minutos por capítulo.
+- [ ] **Tarea 2 — Ficha de lectura (1 h):** una sola ficha con (a) tesis general del libro en 3 líneas, (b) tres capítulos que más te impactaron con su argumento central en una línea cada uno, (c) tres ejemplos concretos que vas a recordar, (d) una objeción que le harías a Chang.
+- [ ] **Tarea 3 — Contrapunto liberal (1 h):** mirá 3 vídeos de Juan Ramón Rallo en YouTube sobre temas que Chang toca (proteccionismo, política industrial, libre comercio). Anotá en qué punto exacto Rallo refuta a Chang y en cuál Chang refuta a Rallo. Objetivo: **no te quedés con la voz de uno solo**.
+- [ ] **Tarea 4 — Aplicación al país (1 h):** escribí 300 palabras aplicando el marco de Chang a una política industrial argentina concreta (sugerencias: régimen automotriz, satélites INVAP, litio, Vaca Muerta, biotecnología). ¿El Estado eligió bien al "ganador"? ¿Es comparable a lo que Corea hizo en los 70?
+============================================================
+
+============================================================
+File: etapa-23-smith-riqueza-naciones.md
+- [ ] **Lectura de Selección:** Leer La Riqueza de las Naciones Libro I: Caps. 1 a 3 (división del trabajo), 5 a 8 (precios y salarios); Libro IV: Caps. 1-2 y 9; Libro V: Cap. 1 (gastos del soberano).
+- [ ] **Crítica Feminista (Federici):** Escribir una nota de 300 palabras contrastando la descripción de la división del trabajo en la fábrica de alfileres de Smith con la crítica de la economía política feminista de Silvia Federici (*Calibán y la bruja*) sobre la división sexual y el confinamiento gratuito de las mujeres al trabajo reproductivo doméstico.
+- [ ] **El Puente Ricardiano:** Leer David Ricardo, *Principios de economía política y tributación* (1817), Capítulo I ("Sobre el valor"), secciones I-III. Redactar una nota de 400 palabras explicando cómo Ricardo purifica la teoría del valor de Adam Smith al insistir en que el valor relativo de las mercancías depende exclusivamente del trabajo incorporado, y cómo esto plantea el conflicto distributivo insoluble entre salarios y beneficios que Marx utilizará para su teoría de la plusvalía.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Aristóteles, Locke, Marx, Chang).
+- [ ] Escribir nota permanente sobre **la división del trabajo en Smith** (100-300 palabras, conectada — las ganancias de productividad y sus límites humanos).
+============================================================
+
+============================================================
+File: etapa-25-hegel-fenomenologia.md
+- [ ] **Lectura de Selección:** Leer la sección "Independencia y dependencia de la autoconciencia: dominio y servidumbre" en *Fenomenología del Espíritu*; y de *Filosofía del Derecho* la Introducción y las secciones sobre la "Sociedad Civil" y el "Estado".
+- [ ] **Lucha por el Reconocimiento (Honneth):** Escribir una nota de 300 palabras explicando cómo la dialéctica del reconocimiento de Hegel se actualiza en la teoría del reconocimiento de Axel Honneth como motor de los movimientos de estatus contemporáneos (minorías sexuales, de género y raciales).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Marx, Hobbes, Rawls).
+- [ ] Escribir nota permanente sobre **la dialéctica de amo y esclavo** (100-300 palabras, conectada — el trabajo como autoconstitución y reconocimiento).
+============================================================
+
+============================================================
+File: etapa-26-marx-capital.md
+- [ ] **Lectura de Selección:** Leer El Capital Libro I Capítulos 1 a 4 (Mercancía, Dinero, Transformación del dinero en capital), 6 y 7 (Fuerza de trabajo y plusvalía), 10 (Jornada laboral), y 24-25 (Acumulación originaria).
+- [ ] **Ruptura Metabólica y Ecología:** Identificar cómo la explotación del plusvalor se conecta con el concepto de la "ruptura metabólica" de Marx (la perturbación del metabolismo social y natural del suelo que describe en el Cap. XIII). Escribir una nota de 300 palabras aplicándolo a un conflicto extractivista actual (ej. soja o litio).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Smith, Hegel, Harvey).
+- [ ] Escribir nota permanente sobre **la plusvalía en Marx** (100-300 palabras, conectada — de qué manera la ganancia capitalista proviene de trabajo no pagado).
+============================================================
+
+============================================================
+File: etapa-27-harvey-reading-marx.md
+- [ ] Ver las 13 videoclases de David Harvey correspondientes a los caps. 1, 4 y 24 de El Capital.
+- [ ] **El Capitaloceno (Jason W. Moore):** Desarrollar en 300 palabras la diferencia entre la tesis del "Antropoceno" y la del "Capitaloceno" de Jason W. Moore, explicando cómo la acumulación por desposesión de Harvey opera a través del despojo y apropiación de "naturalezas baratas".
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Marx, Wallerstein).
+- [ ] Escribir nota permanente sobre **acumulación por desposesión en Harvey** (100-300 palabras, conectada — la acumulación originaria como proceso continuo, no histórico del pasado).
+============================================================
+
+============================================================
+File: etapa-31-foucault.md
+- [ ] **Tarea 1 — Lectura de la Parte I de *Vigilar y castigar* + introducción al panopticón** (~4-5 h). Empezá por la Parte I completa ("Suplicio") — el famoso comienzo con el suplicio de Damiens (1757) frente al horario del reformatorio (1838) es la entrada perfecta al método foucaultiano. Después saltá a la Parte III, capítulo 3 ("El panoptismo") donde Foucault expone el dispositivo central. **No intentes leer todo el libro de corrido** — esto solo te dará una entrada sólida.
+- [ ] **Tarea 2 — Lectura de las dos primeras lecciones de *Nacimiento de la biopolítica*** (~3-4 h). Lección 1 (introducción al curso, definición de gubernamentalidad liberal) y Lección 2 (ordo-liberalismo alemán como respuesta al nazismo). Esto te da la actualización foucaultiana al liberalismo del siglo XX y conecta con Hayek (etapa 33).
+- [ ] **Tarea 3 — Ver una conferencia o entrevista de Foucault en video** (~1 h). Su prosa escrita es densa pero su voz oral es más clara. Buscá "Foucault Noam Chomsky debate 1971" (subtítulos español) o "Foucault Truffaut" — son entrevistas accesibles donde explica conceptos centrales conversacionalmente.
+- [ ] **Tarea 4 — Nota permanente: "Aplicar panopticón a vigilancia digital contemporánea"** (~1-2 h). Una sola nota Zettelkasten, 400-500 palabras. ¿Cómo opera el panopticón hoy en redes sociales, métricas laborales, geolocalización, scoring crediticio, evaluación universitaria? Identificá 3 dispositivos concretos contemporáneos y analizalos con vocabulario foucaultiano (vigilancia, normalización, examen, interiorización de la mirada). Enlazá con tu nota de Weber (etapa 26) — ¿el poder disciplinario es compatible con el monopolio weberiano de la violencia legítima o lo excede?
+- [ ] **Tarea 4b — De Foucault a Deleuze (Sociedades de Control):** Leer Gilles Deleuze, *"Post-scriptum sobre las sociedades de control"* (1990). Redactar un ensayo corto de 350 palabras comparando los espacios de confinamiento disciplinario foucaultianos (escuela, fábrica, prisión) con el control continuo, modular y digitalizado que define al capitalismo tardío (redes, teletrabajo, algoritmos de recomendación).
+- [ ] **Tarea 5 — Ensayo corto: poder disciplinario (XIX) vs. gubernamentalidad neoliberal (XXI)** (~1-2 h). 500-700 palabras. Diferenciá las dos tecnologías de poder según Foucault: la disciplina fabrica cuerpos dóciles en instituciones cerradas; la gubernamentalidad neoliberal fabrica "empresarios de sí mismos" en libertad regulada. Dá ejemplos contemporáneos de cada una. Cerrá preguntando: ¿son sucesivas o coexisten?
+============================================================
+
+============================================================
+File: etapa-34-rawls-teoria-justicia.md
+- [ ] **Lectura de Selección:** Leer Teoría de la Justicia Capítulos I (Justicia como equidad), II (Principios), III (Posición original) y secciones selectas de IV y VIII.
+- [ ] **Crítica de Género (Okin):** Leer el Cap. 5 de Susan Moller Okin (*Justice, Gender, and the Family*) y responder en 400 palabras: Si el velo de ignorancia fuera radical e incluyera que las partes no saben su género, ¿por qué estarían obligadas a reestructurar la familia como parte de la "estructura básica de la sociedad", garantizando la remuneración y reparto equitativo del trabajo doméstico?
+- [ ] **Crítica de la Tradición (MacIntyre):** Escribir una nota de 300 palabras evaluando la crítica de Alasdair MacIntyre (*Tras la virtud*) a Rawls: ¿Es posible definir principios de justicia distributiva universales sin partir de una noción compartida de la "vida buena" y de las tradiciones históricas de una comunidad?
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Locke, Rousseau, Nozick, Sandel).
+- [ ] Escribir nota permanente sobre **el velo de ignorancia en Rawls** (100-300 palabras, conectada — el experimento mental de justicia imparcial).
+============================================================
+
+============================================================
+File: etapa-37-habermas-esfera-publica.md
+- [ ] **Tarea 1 — Lectura de la selección sobre esfera pública burguesa (caps. I-II del libro o introducción + sección sobre cafés/salones del XVIII)** (~3-4 h). Si tenés el libro entero, leé los caps. I y II (la genealogía histórica) más el cap. final sobre re-feudalización. Si tenés solo selección, asegurate de que cubra los tres rasgos de la esfera pública. **No tratés de leer las 350 páginas completas** — esta etapa pide ~60 pp.
+- [ ] **Tarea 2 — Diagnóstico contemporáneo: ¿hay esfera pública hoy?** (~1-2 h). En 400-500 palabras, evaluá si la esfera pública contemporánea (medios digitales, redes sociales, podcasts, plataformas de streaming) cumple los tres rasgos habermasianos. Acceso universal: ¿sí o no? Asuntos generales: ¿se discuten o se fragmentan? Autoridad del mejor argumento: ¿gana el argumento o gana el clickbait? Argumentá sin caricaturizar ni nostalgia ingenua del XVIII.
+- [ ] **Tarea 3 — Nota permanente: "Razón comunicativa vs. razón instrumental"** (~1 h). 300-400 palabras. Definí ambos tipos de razón con tus palabras. Dá un ejemplo cotidiano de cada uno. Enlazá con tu nota de Weber (etapa 26 — la legitimidad legal-racional weberiana es razón instrumental aplicada a la administración).
+- [ ] **Tarea 4 — Confrontación crítica: Foucault vs. Habermas** (~1 h). 400-500 palabras. Habermas dice: puede haber comunicación libre de poder (situación ideal de habla). Foucault (etapa 27) dice: toda comunicación está atravesada por relaciones de poder, no hay "afuera". ¿Quién tiene más razón? Articulá ambas posiciones en su mejor versión y tomá posición provisional argumentada. Este debate es central en la teoría política contemporánea.
+- [ ] **Tarea 5 — Companion Fraser: contrapúblicos y reconocimiento** (~2 h). Leé el ensayo de Nancy Fraser *"Rethinking the Public Sphere"* (1990). En 400-500 palabras respondé: ¿la crítica de Fraser *destruye* la esfera pública habermasiana o la *completa*? Explicá qué son los contrapúblicos subalternos con un ejemplo argentino contemporáneo (prensa feminista, medios villeros/comunitarios, etc.). Cerrá enlazando el eje **redistribución vs. reconocimiento** con Rawls (etapa 28): ¿la justicia es repartir plata o reconocer identidades, o ambas?
+- [ ] **Tarea 6 — Agonismo vs. Deliberación (Mouffe):** Leer Chantal Mouffe, *El paradoja democrática* (2000), capítulos seleccionados. Comparar el ideal deliberativo de Habermas (búsqueda del consenso racional libre de dominación) con el agonismo de Mouffe (la política como confrontación inevitable entre adversarios que comparten valores pero difieren en su aplicación). Escribir 300 palabras.
+============================================================
+
+============================================================
+File: etapa-39-lenin-imperialismo.md
+- [ ] **Tarea 1 — Lectura completa del libro** (~6-8 h). El texto tiene ~150 páginas, prosa clara y polémica. Leélo entero, no por selección. Empezá por la introducción y los prefacios (incluyen los de ediciones posteriores donde Lenin actualiza). Subrayá los cinco rasgos del imperialismo en su capítulo correspondiente, las páginas sobre capital financiero y aristocracia obrera.
+- [ ] **Tarea 2 — Aplicación contemporánea: 5 rasgos del imperialismo hoy** (~2 h). En 500-700 palabras, evaluá cómo se manifiestan (o no) los cinco rasgos en el sistema mundial actual del siglo XXI. ¿Hay monopolios globales? (Apple, Google, Amazon, Microsoft, Meta — sí, claramente). ¿Capital financiero domina? (Wall Street, City, fondos de pensión, BlackRock). ¿Exportación de capital? (FDI, deuda externa de países pobres). ¿Cárteles internacionales? (OPEP, oligopolios farmacéuticos). ¿Reparto territorial? (esferas de influencia EEUU-China-Rusia-UE). Justificá con datos cuando puedas.
+- [ ] **Tarea 3 — Nota permanente: "Aristocracia obrera y reformismo en Argentina"** (~1-2 h). 400-500 palabras. La tesis leninista de la aristocracia obrera, ¿se aplica a las clases trabajadoras del centro (EEUU, Europa)? ¿Se aplica también a las clases medias argentinas, o Argentina es más bien periferia? Articulá una posición crítica usando vocabulario leninista pero sin aplicarlo mecánicamente. Enlazá con tu nota de Mariátegui (etapa 25) — el peruano aplica este mismo marco al Perú andino.
+- [ ] **Tarea 4 — Confrontación: Lenin vs. Hayek sobre el monopolio** (~1-2 h). 500-700 palabras. Lenin dice: el monopolio es tendencia inevitable del capitalismo (concentración del capital). Hayek (etapa 33) dirá: el monopolio NO es tendencia natural del mercado — surge cuando el Estado restringe la competencia. Articulá ambas posiciones en su mejor versión y evaluá empíricamente: ¿qué dice la evidencia histórica del siglo XX y XXI? Tomá posición provisional argumentada.
+============================================================
+
+============================================================
+File: etapa-41-hayek-camino-servidumbre.md
+- [ ] **Lectura de Selección:** Leer Camino de Servidumbre Capítulos 1, 3, 5, 7, 9.
+- [ ] **Careo Hayek vs. Polanyi:** Leer el Cap. 6 de Karl Polanyi (*La gran transformación*) y escribir un ensayo de 600 palabras confrontando a ambos autores. ¿Es el libre mercado un "orden espontáneo" como dice Hayek, o es una construcción artificial impuesta por el Estado de la que la sociedad debe defenderse mediante regulaciones para evitar su propia destrucción (tesis de Polanyi)?
+- [ ] **La Revolución Marginalista (Menger):** Leer Carl Menger, *Principios de economía política* (1871), Capítulo III ("La teoría del valor"). Escribir una nota de 300 palabras contrastando el valor subjetivo de Menger (basado en la utilidad marginal y necesidades individuales) con el valor objetivo de Marx. Explicar cómo el argumento de Hayek sobre el sistema de precios como transmisor de conocimiento se apoya en esta concepción subjetivista.
+- [ ] **La Macroeconomía del Bienestar (Keynes):** Leer John Maynard Keynes, *Teoría general de la ocupación, el interés y el dinero* (1936), Capítulo 24 ("Notas finales sobre la filosofía social a que podría conducir la Teoría General"). Redactar 400 palabras analizando la justificación keynesiana del pleno empleo, la eutanasia del rentista y la socialización de la inversión como condiciones materiales obligatorias para sostener la legitimidad capitalista, respondiendo a la advertencia de Hayek sobre la pendiente totalitaria.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Mill, Berlin, Nozick, Marx, Keynes).
+- [ ] Escribir nota permanente sobre **el mercado como orden espontáneo en Hayek** (100-300 palabras, conectada — por qué la planificación central lleva inevitablemente al control político).
+============================================================
+
+============================================================
+File: etapa-43-popper-sociedad-abierta.md
+- [ ] **Tarea 1 — Lectura del Vol. 2 (Hegel + Marx + Adenda)** (~18-25 h). Empezá por acá, NO por Vol. 1. Es el más relevante para política contemporánea. Caps. 11-12 (Hegel — crítico pero rápido), Caps. 13-17 (Marx — leélo despacio, hay análisis técnico de la teoría del valor y de la sociología del conocimiento), Caps. 23-24 (la posición propia de Popper). Adenda al final.
+- [ ] **Tarea 2 — Lectura selectiva del Vol. 1 (caps. 1, 5, 6, 10)** (~10-15 h). Cap. 1 (historicismo — fundamental, base de todo). Caps. 5-6 (Platón — útil para entender el método popperiano funcionando sobre un blanco específico). Cap. 10 (sociedad abierta — la formulación más densa del concepto central).
+- [ ] **Tarea 3 — Identificación de "elementos historicistas" en discursos políticos actuales** (~2 h). 500-700 palabras. Buscá ejemplos contemporáneos de retórica historicista en distintos campos políticos: ¿qué políticos invocan "estar del lado correcto de la historia"? ¿Quiénes hablan de "leyes inexorables" del desarrollo histórico? ¿Quiénes presentan su programa como destino necesario? Identificá ejemplos de izquierda, derecha y centro — la trampa historicista es transversal.
+- [ ] **Tarea 4 — Ensayo: ¿Es decisiva la crítica popperiana a Marx, o malinterpreta?** (~2-3 h). 800-1000 palabras. Marx tiene defensores serios contra Popper (G. A. Cohen, Karl Korsch, los marxistas analíticos). Articulá la crítica popperiana en su mejor versión y la defensa marxista en su mejor versión. Evaluá: ¿qué parte de Marx se defiende de Popper, qué parte cae? Esta tarea exige haber leído ya a Marx (etapa 23) y a Gramsci (etapa 32) — usá esas notas previas.
+- [ ] **Tarea 5 — Nota permanente: "La paradoja de la tolerancia hoy"** (~1-2 h). 400-600 palabras. La formulación popperiana es ferozmente actual. ¿Cómo aplicarla a fenómenos contemporáneos — discurso de odio en redes sociales, partidos abiertamente antidemocráticos, fundamentalismos religiosos? ¿Dónde poner el límite? Hay una versión liberal-restrictiva ("solo restringir cuando hay amenaza real e inminente") y una versión más militante ("restringir desde el discurso"). Articulá ambas y tomá posición provisional argumentada.
+============================================================
+
+============================================================
+File: etapa-44-nozick-anarquia-estado-utopia.md
+- [ ] **Lectura de Selección:** Leer Anarquía, Estado y Utopía Capítulos 1 a 3, 7 y 8.
+- [ ] **Careo Nozick vs. Cohen:** Leer el Capítulo 1 de G. A. Cohen (*Libertad, igualdad y propiedad de sí mismo*) y escribir un ensayo de 700 palabras respondiendo: ¿Por qué Cohen argumenta que la transacción voluntaria del ejemplo de Wilt Chamberlain no es neutral para la libertad de terceros, y cómo desafía la equivalencia de Nozick entre la redistribución fiscal y el trabajo forzado?
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Locke, Rawls, Hayek, Marx).
+- [ ] Escribir nota permanente sobre **el argumento de Wilt Chamberlain en Nozick** (100-300 palabras, conectada — por qué los impuestos son trabajo forzado).
+============================================================
+
+============================================================
+File: etapa-50-rodo-ariel.md
+- [ ] Leer el primer capítulo completo (el discurso de Próspero). Si la prosa modernista te agota, **podés leer SOLO el primer capítulo** y captás toda la tesis.
+- [ ] **Ariel vs. Calibán (Retamar):** Leer fragmentos de *Calibán* (1971) de Roberto Fernández Retamar. Contrastar en 300 palabras la figura arielista europeizada con el sujeto revolucionario mestizo-calibánico que asume la lengua del colonizador para subvertirla.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Martí, Mariátegui).
+- [ ] Escribir nota permanente sobre **el arielismo como identidad cultural** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-51-vasconcelos-raza-cosmica.md
+- [ ] Tarea 1 — Leer prólogo + ensayo central completo (~150 pp). Si solo querés la tesis, alcanza con prólogo + capítulo 1 (~50 pp).
+- [ ] Tarea 2 — Nota Zettelkasten: *"Vasconcelos: lo visionario (crítica al supremacismo nórdico) y lo indefendible (eugenesia, jerarquía racial provisional)"*. Conectá con Rodó (etapa 38): ¿qué diferencia hay entre "latinidad" rodoniana y "raza cósmica" vasconcelista?
+- [ ] Tarea 2.5 (Crítica Decolonial) — Conectar las presuposiciones de la "Quinta raza" con el ensayo de Silvia Rivera Cusicanqui (etapa 46) respecto a cómo el mestizaje oficial de Estado funciona como un mecanismo de "blanqueamiento obligatorio" que busca disolver la autonomía india.
+- [ ] Tarea 3 — Ficha de 400 palabras: ¿qué partes del libro son utilizables hoy y cuáles hay que descartar críticamente? Distinguí núcleo defendible / lastre indefendible.
+- [ ] Tarea 4 — Pregunta de retención: ¿por qué Mariátegui (etapa 25) y Cusicanqui (etapa 46) van a criticar duro a Vasconcelos? Anticipá las dos críticas.
+============================================================
+
+============================================================
+File: etapa-52-paz-laberinto-soledad.md
+- [ ] Leer caps. 1-4 completos (introducción, pachuco, máscaras, Malinche). Son la mitad del libro y contienen toda la tesis central.
+- [ ] **Feminismo Chicano de Frontera (Anzaldúa):** Leer fragmentos de *Borderlands/La Frontera* (1987) de Gloria Anzaldúa sobre la figura de Malintzin/La Malinche. Nota permanente: *"La Malinche en Paz (traición/pasividad) vs. la Malinche en el feminismo chicano (mediación y supervivencia)"*.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Vasconcelos, Quijano).
+- [ ] Escribir nota permanente sobre **las máscaras en Paz** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-54-bueno-mito-izquierda.md
+- [ ] Tarea 1 — Antes de abrir el libro, ver 90 min del canal de Santiago Armesilla o de fgbueno.es donde se introduzca Materialismo Filosófico. Es **imprescindible**: si abrís el libro frío, te perdés.
+- [ ] Tarea 2 — Leer la selección (~150 pp). Capítulos sobre las seis generaciones + crítica a la izquierda indefinida son lo más importante. Tarda 18-25 h.
+- [ ] Tarea 3 — Nota Zettelkasten: *"Materialismo Filosófico vs Materialismo Histórico — qué los diferencia"*. Esta es la pregunta clave de salida.
+- [ ] Tarea 4 — Ficha de 500 palabras: aplicá la crítica bueniana de "izquierda indefinida" a un debate político argentino o latinoamericano actual concreto (kirchnerismo, peronismo, Frente Amplio uruguayo, MAS boliviano).
+- [ ] Tarea 5 — Pregunta de retención: ¿en qué coinciden Bueno y Dussel (que vas a leer en etapa 44)? ¿En qué discrepan radicalmente? Anticipá la pregunta-eje de Fase 4.
+============================================================
+
+============================================================
+File: etapa-55-echeverria-modernidad-blanquitud.md
+- [ ] Tarea 1 — Ver un video introductorio de Echeverría en YouTube (~1 h) antes de abrir el libro. Su voz oral es clarísima — la prosa escrita es densa.
+- [ ] Tarea 2 — Leer selección de *Modernidad y blanquitud* o *La modernidad de lo barroco* (~200 pp). Capítulos sobre los cuatro ethos y sobre blanquitud son lo central. 15-22 h.
+- [ ] Tarea 3 — Nota Zettelkasten: *"Ethos barroco vs ethos realista weberiano — cómo Echeverría completa lo que Weber dejó a medias"*. Conectá con Weber (etapa 26, ya leíste).
+- [ ] Tarea 4 — Ficha de 500 palabras: identificá una práctica cultural latinoamericana contemporánea como "barroca" en sentido echeverriano (acepta el capitalismo en superficie y lo resignifica simbólicamente). Ejemplos posibles: carnaval de Río, festividades religiosas andinas, cumbia argentina, redes sociales con estética chunga.
+============================================================
+
+============================================================
+File: etapa-59-freire-pedagogia-oprimido.md
+- [ ] Tarea 1 — Leer caps. 1 y 2 completos (~80-100 pp del total). Son los conceptos centrales. Si tenés tiempo y ganas, completá caps. 3-4 sobre métodos concretos. Mínimo 15 h.
+- [ ] Tarea 2 — Ver el vídeo introductorio sobre Freire (link abajo). Sirve para fijar conceptos.
+- [ ] Tarea 3 — Nota Zettelkasten: *"Educación bancaria vs liberadora — qué define la diferencia"*. Conectá con Adler (etapa 3) — ¿el lector activo de Adler es lector liberado freireano?
+- [ ] Tarea 4 — Ficha de auto-diagnóstico (500 palabras): identificá dónde en tu propio plan de estudio te estás "bancarizando" (acumulando contenidos sin dialogar con ellos, sin aplicarlos, sin transformarlos en práctica). ¿Qué etapas funcionan como liberadoras y cuáles como bancarias?
+- [ ] Tarea 5 — Pregunta de retención: ¿puede el autodidacta hacer educación liberadora sin un educador? (Freire dice: sí, si hay diálogo con los textos y con otros — pero requiere intencionalidad). Argumentá tu posición.
+============================================================
+
+============================================================
+File: etapa-60-gutierrez-teologia-liberacion.md
+- [ ] Leer Introducción + Parte I (teología como reflexión) + Parte IV (pobreza y liberación). ~200 pp de la selección.
+- [ ] **Laudato si' (Ecoliberalismo y Fe):** Leer fragmentos clave de la Encíclica *Laudato si'* (2015) del Papa Francisco. Escribir una nota de 300 palabras comparando la noción clásica de "pecado estructural" de Gutiérrez con la noción contemporánea de "crisis social y ambiental integrada" (el clamor de los pobres y el clamor de la tierra).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Freire, Dussel).
+- [ ] Escribir nota permanente sobre **la opción preferencial por los pobres** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-61-gonzalez-feminismo-afrolatinoamericano.md
+- [ ] Tarea 1 — Leer el paper completo (~25 pp). Si conseguís el portugués original, leelo en portugués — la categoría "pretoguês" se siente mejor en su lengua. 2-3 h.
+- [ ] Tarea 2 — Nota Zettelkasten: *"Améfrica Ladina como categoría política — qué cambia si Latinoamérica se piensa desde lo afroindígena mayoritario en vez de desde lo eurocriollo"*. Conectá con Vasconcelos (etapa 39, mestizaje eurocéntrico criollo) y Cusicanqui (etapa 46, paralelismo Sur-Sur).
+- [ ] Tarea 3 — Ficha breve (300 palabras): aplicá el concepto pretoguês a tu propio entorno lingüístico. ¿Qué modos de hablar populares de Argentina/región rioplatense son descartados como "mal habla" pero tienen raíz histórica específica?
+- [ ] Tarea 4 — Interseccionalidad Clásica vs. Améfrica Ladina: Leer Kimberlé Crenshaw, *"Demarginalizing the Intersection of Race and Sex"* (1989). Redactar 350 palabras comparando la metáfora norteamericana del "choque de tráfico" (la intersección legal) de Crenshaw con la categoría político-histórica y decolonial de *Améfrica Ladina* de Lélia González. ¿Cómo aborda cada una la especificidad de las mujeres negras frente al feminismo blanco y al antirracismo masculinizado?
+============================================================
+
+============================================================
+File: etapa-63-lugones-heterosexualismo.md
+- [ ] Tarea 1 — Leer el paper completo dos veces. Primera para mapa general (2 h), segunda para fijar conceptos (1-2 h). Total 3-4 h.
+- [ ] Tarea 2 — Nota Zettelkasten: *"Colonialidad del género — qué agrega Lugones a Quijano (etapa 45) y a Crenshaw (interseccionalidad)"*. Conectá con González (etapa 49).
+- [ ] Tarea 3 — Ficha de 400 palabras: investigá un sistema de género no-binario pre-colonial concreto (muxes zapotecos, two-spirit en pueblos siouan, hijras en India). ¿Cómo se relaciona con la tesis de Lugones? ¿La confirma, la complica?
+- [ ] Tarea 4 — La Performatividad del Género (Judith Butler): Leer Judith Butler, *El género en disputa* (1990), Capítulo 1 ("Sujetos de sexo/género/deseo"). Escribir una nota de 350 palabras: Si el género se produce a través de la repetición performativa de normas históricas, ¿cómo tensiona este enfoque post-estructuralista la tesis de Lugones de que el binario de género fue un producto exclusivamente importado e impuesto en 1492?
+============================================================
+
+============================================================
+File: etapa-64-gago-potencia-feminista.md
+- [ ] Leer Introducción + 3-4 capítulos clave (los que tratan huelga feminista, cuerpo-territorio, deuda y neoliberalismo).
+- [ ] **Neoextractivismo y Cuerpo:** Conectar el concepto de *cuerpo-territorio* de Gago con el diagnóstico del "giro ecoterritorial" de Maristella Svampa. Elaborar una nota crítica sobre cómo la violencia económica del endeudamiento femenino se conecta con el despojo de los territorios a manos de corporaciones extractivas.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Cusicanqui, Galeano).
+- [ ] Escribir nota permanente sobre **cuerpo-territorio en Gago** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-65-segato-guerra-mujeres.md
+- [ ] Leer Introducción + capítulos sobre mandato de masculinidad, pedagogía de la crueldad y Ciudad Juárez (~250 pp).
+- [ ] **Debate Lugones vs. Segato:** Elaborar una nota Zettelkasten: *"Patriarcado de baja intensidad (Segato) vs. Sistema moderno-colonial de género (Lugones)"*. ¿Existió el patriarcado antes de 1492 (Segato) o es una creación puramente moderno-colonial (Lugones)?
+- [ ] **Extractivismo y Soberanía Corporal:** Elaborar una nota sobre cómo las "nuevas guerras" informales descritas por Segato usan la pedagogía de la crueldad sobre los cuerpos feminizados como un mecanismo de soberanía territorial informal, conectando con las dinámicas de despojo ecoterritorial de Svampa.
+- [ ] **Capitalismo Farmacopornográfico (Paul B. Preciado):** Leer Paul B. Preciado, *Testo yonqui* (2008), Capítulo 2 ("La era farmacopornográfica"). Redactar 400 palabras explicando cómo la soberanía biopolítica se desplaza en el siglo XXI hacia la escala molecular (hormonas, biocontrol) y semiótica (redes sociales, pornografía, estimulación mediática). Conectar este marco con la noción de Gago de "cuerpo-territorio" y la crítica de Segato al despojo patriarcal.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Lugones, Foucault, Gago).
+- [ ] **Steelman de fin de fase:** Defender la postura de la Fase 4 que MENOS te convenció en 500 palabras, sosteniéndola con sus mejores argumentos y sin disclaimers.
+============================================================
+
+============================================================
+File: etapa-66-wallerstein-sistemas-mundo.md
+- [ ] Tarea 1 — Leé la introducción de 2004 (~150 pp) o, si conseguís solo el tomo I de *El moderno sistema mundial*, los capítulos 1-2 (la formación del sistema-mundo europeo en el XVI).
+- [ ] Tarea 2 — En una página de notas, definí con tus palabras: **sistema-mundo**, **centro/semiperiferia/periferia**, **ciclo hegemónico**, **acumulación incesante**. Una frase cada uno.
+- [ ] Tarea 3 — **Ejercicio N3 (aplicación):** ubicá Argentina (o el país desde el que se lee) en el sistema-mundo actual. ¿Centro, semiperiferia, periferia? Argumentá con 2-3 datos concretos (exportaciones, deuda, balanza tecnológica).
+- [ ] Tarea 4 — **Ejercicio N4 (evaluación):** redactá 1 página: ¿Wallerstein es **descriptivo** (así funciona el mundo desde 1500) o **reduccionista** (omite la agencia política nacional, la cultura, lo no-económico)? Defendé una posición con un ejemplo.
+- [ ] Tarea 5 — **Ecología-Mundo (Jason Moore) y Dependencia (Marini):** Leer Jason W. Moore, *El capitalismo en la trama de la vida* (2015), Introducción, y Ruy Mauro Marini, *Dialéctica de la dependencia* (1973), secciones introductorias. Redactar 400 palabras explicando cómo la "división axial del trabajo" en Wallerstein se ancla en la apropiación de la "naturaleza barata" y en la "superexplotación del trabajo" en la periferia global como motores indispensables de la tasa de ganancia del centro.
+============================================================
+
+============================================================
+File: etapa-67-mearsheimer-great-power.md
+- [ ] **Lectura de Selección:** Leer The Tragedy of Great Power Politics Capítulos 1, 2, 5-6 y 10.
+- [ ] **Debate Multidimensional de RR.II. (Mearsheimer vs. Wendt vs. Enloe):** Leer Alexander Wendt, *"La anarquía es lo que los Estados hacen de ella"* (1992) y Cynthia Enloe, *Bananas, Beaches and Bases* (Edición 2014), Introducción. Redactar un ensayo comparativo de 500 palabras: Contrasta los sujetos y dinámicas del poder internacional. Para Mearsheimer son estructuras militares terrestres en un sistema de autoayuda; para Wendt la anarquía es una construcción social intersubjetiva; para Enloe la seguridad nacional depende de relaciones de género institucionalizadas (el papel de las bases, esposas de diplomáticos, agricultores y trabajadoras sexuales).
+- [ ] **Geopolítica Multipolar: Großraum vs. Tianxia:** Leer Carl Schmitt, *El Nomos de la Tierra* (1950), Parte IV (sobre la soberanía de grandes espacios regionales y la exclusión de potencias ajenas), y Zhao Tingyang, *Tianxia: una filosofía para la gobernanza global* (2019), capítulos seleccionados. Escribir 450 palabras: Compara la soberanía schmittiana del *Großraum* (bloques de influencia regional) y el concepto de *Tianxia* (gobranaza relacional cosmopolita no-excluyente) como herramientas conceptuales alternativas para teorizar la actual competencia por la Franja y la Ruta china frente al unilateralismo de EE.UU.
+- [ ] **No Alineamiento Activo (NAA):** Evaluar la propuesta del No Alineamiento Activo (Fortin, Heine y Ominami) como respuesta estratégica de América Latina frente a la competencia de grandes potencias (EE.UU. y China). Escribir una nota de 250 palabras.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Wallerstein).
+- [ ] Escribir nota permanente sobre **realismo ofensivo frente a multipolaridad** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-69-fanon-condenados-tierra.md
+- [ ] **Tarea 1 — Lectura Obligatoria (Selección):** Leer el *Prefacio de Jean-Paul Sartre* y el *Capítulo 1: "Sobre la violencia"* de *Los condenados de la tierra* (~60 páginas). Se recomienda usar la traducción clásica de Julieta Campos para el Fondo de Cultura Económica (FCE).
+- [ ] **Tarea 2 — Nota de Lectura (Zettelkasten):** *"Fanon y la dialéctica de la violencia anticolonial: por qué la violencia es fundacional en la descolonización"*. Conectá esta nota con la futura etapa 58 (Achille Mbembe y la necropolítica) y la etapa 44 (Dussel).
+- [ ] **Tarea 3 — Nota Crítica (Zettelkasten):** *"Sartre: la complicidad europea y la crítica al humanismo burgués occidental"*. Contrastá esta tesis con la etapa 15 (John Stuart Mill) y su justificación del despotismo imperial "bien intencionado".
+- [ ] **Tarea 4 — Ensayo Breve (350 palabras):** Evaluá críticamente la tesis de Fanon sobre la violencia psicológica. ¿Es sostenible éticamente definir la violencia como una "fuerza terapéutica" o higiénica en el contexto de los conflictos contemporáneos de liberación? ¿Cuál es el peligro de la militarización de la conciencia poscolonial?
+============================================================
+
+============================================================
+File: etapa-70-said-orientalismo.md
+- [ ] **Tarea 1 — Lectura Obligatoria (Selección):** Leer la *Introducción* y el *Capítulo 1: "Conocer el Oriente"* de *Orientalismo* (~60 páginas). Se recomienda la clásica edición de Debate o Random House Mondadori.
+- [ ] **Tarea 2 — Nota de Lectura (Zettelkasten):** *"Said y Foucault: de qué manera el Orientalismo demuestra la tesis de que el poder produce saber"*. Vinculá esta nota directamente con la etapa 27 (Foucault) y la etapa 32 (Gramsci).
+- [ ] **Tarea 3 — Nota Crítica (Zettelkasten):** *"La invención del subalterno: cómo la representación eurocéntrica despoja de agencia histórica al colonizado"*. Conectá esta nota con la etapa 45 (Aníbal Quijano y la colonialidad) y con la etapa 37 (Martí y la crítica al saber importado).
+- [ ] **Tarea 4 — Ensayo Breve (350 palabras):** Identificá una noticia, película o discurso geopolítico contemporáneo (por ejemplo, la cobertura de los conflictos en Medio Oriente o el análisis del ascenso tecnológico de China en la prensa occidental) y analizá de qué manera reproduce el "binario orientalista" (la civilización racional y democrática frente a la barbarie autoritaria o el fanatismo místico).
+- [ ] **Tarea 5 — La Crítica Materialista al Poscolonialismo:** Leer Vivek Chibber, *La teoría poscolonial y el espectro del capital* (2013), Capítulos 1 ("Introducción") y 11 ("Conclusión: Estudios Subalternos y política de clase"). Redactar 400 palabras argumentando críticamente la objeción de Chibber: ¿El rechazo de los teóricos del poscolonialismo (Said, Chakrabarty) a las categorías universales del pensamiento de la Ilustración y del marxismo (como clase social y racionalidad material) termina exotizando al Sur Global y privándolo de las herramientas materiales para resistir al capitalismo global?
+============================================================
+
+============================================================
+File: etapa-74-novela-politica.md
+- [ ] **Tarea 1 — Lectura de Selección:** 
+    *   De *El otoño del patriarca*: Leer el Capítulo 1 (introducción al palacio en ruinas y muerte del patriarca) y el Capítulo 3 (el ascenso del doble y la paranoia del control) (~80 páginas).
+    *   De *La fiesta del Chivo*: Leer los Capítulos 1, 2, 4, 6 y 11 (~100 páginas, cubriendo la llegada de Urania, el despacho de Trujillo y la preparación de los conspiradores).
+- [ ] **Tarea 2 — Nota de Lectura (Zettelkasten):** *"La novela de la dictadura como biopolítica: el sometimiento de los cuerpos en Vargas Llosa y García Márquez"*. Conectá esta nota con la etapa 27 (Foucault y el micropoder) y con la etapa 52 (Rita Segato y el mandato de masculinidad como pedagogía de la crueldad).
+- [ ] **Tarea 3 — Nota Crítica (Zettelkasten):** *"Caudillismo y colonialidad interna: el dictador como heredero del soberano colonial"*. Vinculá con las categorías de Aníbal Quijano (etapa 45) y Silvia Rivera Cusicanqui (etapa 46).
+- [ ] **Tarea 4 — Ensayo Comparativo (500 palabras):** Escribí una reflexión que ponga a dialogar las two novelas con las categorías teóricas de **Carl Schmitt** (la decisión del soberano en el estado de excepción) y **Achille Mbembe** (la necropolítica y el derecho a dar muerte). ¿De qué manera la prosa barroca de García Márquez o el realismo de Vargas Llosa explican la dominación colonial interna de forma más profunda que un ensayo sociológico? Guardala en tu archivo de ensayos.
+============================================================
+
+============================================================
+File: etapa-75-relectura-activa.md
+- [ ] Tarea 1 — **Elegí UN libro de Fases 1-4 que te marcó.** Criterio: cambió cómo pensás sobre algo importante. Candidatos típicos: *La Política* de Aristóteles, *El Príncipe*, *Leviatán*, *El contrato social*, *Sobre la libertad*, *El capital* (cap. 1), *7 ensayos* de Mariátegui, *El laberinto de la soledad* de Paz, *1492* de Dussel, *Pedagogía del oprimido* de Freire. **Anotá por qué elegís ese y no otro.**
+- [ ] Tarea 2 — **Releé el libro** (o la selección que leíste en la fase original). Llevá un cuaderno separado de notas — NO mires tus notas viejas hasta haber terminado. Releé con el aparato actual: identificá tesis, mejor objeción posible, conexiones con libros posteriores, dónde te parece floja la argumentación.
+- [ ] Tarea 3 — **Comparación de notas viejas vs nuevas + reflexión escrita (1-2 páginas).** Ahora sí, abrí tus notas originales. Respondé: (a) ¿qué entendía mal o parcialmente la primera vez?; (b) ¿qué autor leído después me hace ver este libro distinto?; (c) ¿qué crítica que antes no se me ocurría se me ocurre ahora?; (d) ¿qué virtud del libro no había visto antes? Guardalo — es material directo para el ensayo final (etapa 66).
+============================================================
+
+============================================================
+File: etapa-76-gandhi-hind-swaraj.md
+- [ ] Tarea 1 — Leé *Hind Swaraj* completo (~100 pp, hay PDF español oficial gratis). Es diálogo, lectura ágil. Tomá notas sobre los 20 capítulos breves.
+- [ ] Tarea 2 — **Ejercicio N2 (comprensión):** explicá en 1 página con tus palabras qué son *swaraj* y *satyagraha*. Citá las frases textuales que mejor las definen.
+- [ ] Tarea 3 — **Ejercicio N3 (aplicación):** aplicá Gandhi a UN debate actual: descrecimiento, ecología radical, crítica al desarrollismo, soberanía alimentaria, descentralización tecnológica. ¿Qué dice Gandhi que un crítico contemporáneo del progreso debería retomar? ¿Qué quedó datado?
+- [ ] Tarea 4 — **Ejercicio N4 (debate INTERNO indio):** anotá las preguntas que Ambedkar (etapa 65) le va a hacer a Gandhi. Pista: ¿qué dice Gandhi sobre el sistema de castas? Esta tarea queda en *cliffhanger* — la respondés del todo en la etapa 65.
+============================================================
+
+============================================================
+File: etapa-77-confucio-analectas.md
+- [ ] **Lectura de Selección:** Leer Analectas Libros I, II, IV, VII, XII y XV.
+- [ ] **Confucianismo vs. Legalismo (Han Fei Zi):** Leer fragmentos de *El Libro de Han Fei Zi*, capítulos 5 ("El Tao del soberano") y 9 ("Las ocho traiciones"). Redactar 300 palabras contrastando el gobierno moral basado en la virtud (*Ren*) y los rituales (*Li*) de Confucio con el realismo administrativo amoral del Legalismo (*Fajia*) de Han Fei (basado en la ley coercitiva objetiva, el control del poder *Shi* y las técnicas estatales *Shu*). Analizar cómo esta síntesis histórica conforma el "Estado de Derecho con características chinas" en la actualidad.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Platón).
+- [ ] Escribir nota permanente sobre **ren e li en Confucio** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-78-sen-identidad-violencia.md
+- [ ] Tarea 1 — Leé el libro completo (~200 pp). Capítulos clave: 1 (identidades múltiples), 3 (civilización confinada), 4 (religión y diversidad cultural), 8 (multiculturalismo y libertad). Tomá notas separadas por capítulo.
+- [ ] Tarea 2 — **Ejercicio N2 (comprensión):** explicá en 1 página la crítica de Sen a Huntington. Identificá los 2-3 argumentos centrales y por qué Sen considera que Huntington **fabrica** lo que pretende solo describir.
+- [ ] Tarea 3 — **Ejercicio N3 (aplicación):** identificá UN caso contemporáneo de violencia identitaria reciente (5-10 años): violencia anti-musulmana en India bajo Hindutva, ataques anti-hispanos en EE.UU., persecución de rohinyás en Myanmar, violencia interétnica en África. Analizá cómo opera el reduccionismo identitario en ese caso.
+- [ ] Tarea 4 — **Ejercicio N4 (debate Sen vs Huntington):** redactá 1-2 páginas sosteniendo el debate con argumentos de ambos lados. Después tomá posición. Pista: el ejercicio mejora si también incorporás a un autor decolonial leído antes (Said, Quijano) — la crítica decolonial coincide en parte con Sen pero discrepa en otras (Sen es más liberal de lo que algunos decoloniales aceptan).
+============================================================
+
+============================================================
+File: etapa-79-hardt-negri-imperio.md
+- [ ] Tarea 1 — Leé los capítulos 1 (la constitución política del presente), 2 (la transición de la soberanía imperialista a la imperial), 3 (alternativas dentro del Imperio) y 4.3 (los movimientos de la multitud). ~250 pp. Es lectura densa: tomá notas separadas por sección.
+- [ ] Tarea 2 — **Ejercicio N2 (comprensión):** definí en 1 página con tus palabras qué es **Imperio** y qué es **multitud** según Hardt/Negri. Mostrá la diferencia con (a) imperialismo clásico tipo Lenin, y (b) proletariado industrial clásico.
+- [ ] Tarea 3 — **Ejercicio N3 (aplicación):** identificá 2-3 fenómenos contemporáneos que parezcan **"multitud en acción"**: Occupy Wall Street (2011), Indignados (2011), Nuit Debout (2016), Black Lives Matter (2020), Primavera Árabe (2010-11), movilizaciones climáticas. ¿Funcionan como Hardt/Negri predicen? ¿Dónde fallan?
+- [ ] Tarea 4 — **Ejercicio N4 (debate Imperio vs imperialismo clásico):** redactá 1-2 páginas sosteniendo el debate **Hardt/Negri (Imperio sin centro) vs Lenin actualizado** (hay imperialismos identificables: EE.UU., China). Apoyate en ejemplos: Ucrania 2022, guerra comercial EE.UU.-China, intervenciones militares en Sahel. ¿Cuál teoría explica mejor el siglo XXI?
+- [ ] Tarea 5 — **Ejercicio N5 (debate Hardt/Negri vs Mearsheimer):** redactá 1 página articulando: ¿el sistema internacional contemporáneo es realista (Estados que compiten por hegemonía regional, Mearsheimer) o post-realista (red sin centro, Hardt/Negri)? Pista: las dos miradas pueden ser parcialmente correctas para distintos planos.
+============================================================
+
+============================================================
+File: etapa-80-wang-hui.md
+- [ ] **Lectura de Selección:** Leer El nuevo orden de China Capítulos "El nuevo orden de China" y "El neoliberalismo y la crisis asiática".
+- [ ] **Crítica Liberal y Schmittianismo Oficial:** Contrastar la visión de la "Nueva Izquierda" de Wang Hui con la crítica liberal de **Liu Xiaobo** y con el uso instrumental de Carl Schmitt por parte de intelectuales oficiales chinos como **Jiang Shigong** para justificar la soberanía del Partido-Estado. Escribir una nota de 300 palabras.
+- [ ] **La Vía China del Capitalismo de Estado:** Leer Isabella Weber, *Cómo China escapó de la terapia de choque* (2021), Introducción y Conclusión. Escribir 400 palabras explicando cómo el debate de reforma de doble vía en la década de 1980 en China (recuperando nociones clásicas de control de precios agrícolas y del texto tradicional de economía política *Guanzi*) evitó el colapso que sufrió la Unión Soviética. Conectar esta tesis con la idea de Wang Hui sobre China como un "Estado-civilización".
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Mao, Marx, Harvey).
+- [ ] Escribir nota permanente sobre **el Estado-civilización de Wang Hui** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-81-maruyama.md
+- [ ] **Lectura de Selección:** Leer Pensamiento político de Japón moderno Capítulos 1 y 3.
+- [ ] **Crítica al Eurocentrismo:** Evaluar críticamente el marco metodológico de Maruyama: ¿incurre en un sesgo eurocéntrico y en la teoría de la modernización al catalogar el desarrollo japonés como "incompleto" o "desviado" en comparación con Occidente? Conectar esta crítica con debates poscoloniales sobre modernidades múltiples.
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Hegel, Weber).
+- [ ] Escribir nota permanente sobre **el fascismo japonés en Maruyama** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-86-polanyi-gran-transformacion.md
+- [ ] Leer los caps. 4 ("Sociedades y sistemas económicos"), 6 ("El mercado autorregulado y las mercancías ficticias") y 11-14 (el doble movimiento aplicado). Aproximadamente 120 pp.
+- [ ] Hacer **1 nota permanente por concepto central**: embeddedness, mercancías ficticias, doble movimiento, Speenhamland. Cuatro notas mínimo.
+- [ ] Aplicar el doble movimiento a 2 casos argentinos: (a) reformas de los 90 y reacción 2001-2003; (b) Milei 2023-2025 y reacción social en curso. ¿Hasta dónde estira el concepto sin romperse?
+- [ ] Hacer un diagrama de 1 página: ciclo del doble movimiento (expansión mercantil → desorganización social → respuesta defensiva → nueva regulación) con ejemplos históricos de cada flecha.
+- [ ] Anotar la **tensión Polanyi-Hayek**: ambos publicaron en 1944 sobre el mismo problema. Sus respuestas son opuestas. ¿Por qué? Conectar con la etapa 33.
+- [ ] **Sociología Fiscal (Wolfgang Streeck):** Leer Wolfgang Streeck, *Comprando tiempo: La crisis pospuesta del capitalismo democrático* (2013), Capítulo 2 ("Del Estado fiscal al Estado deudor"). Redactar 400 palabras explicando la transición histórica del "Estado fiscal" (*Tax State*) al "Estado deudor" (*Debt State*) y finalmente al "Estado de consolidación/austeridad". Analizar cómo este límite material e impositivo condiciona la viabilidad de la desmercantilización (Esping-Andersen) en el capitalismo tardío.
+============================================================
+
+============================================================
+File: etapa-87-esping-andersen.md
+- [ ] **Lectura de Selección:** Leer Los tres mundos del Estado del bienestar Capítulos 1, 2 y 3.
+- [ ] **Feminismo y Desfamiliarización:** Leer a Jane Lewis (1992) y a Ann Shola Orloff ("Gender and the Social Rights of Citizenship", 1993). Explicar en 350 palabras por qué la "desmercantilización" es insuficiente para analizar la ciudadanía de las mujeres y definir la importancia teórica de la **"desfamiliarización"** (el derecho a formar y sostener un hogar autónomo).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Marshall, Polanyi, Filgueira).
+- [ ] Escribir nota permanente sobre **desmercantilización en Esping-Andersen** (100-300 palabras, conectada).
+============================================================
+
+============================================================
+File: etapa-91-williams-marxismo-literatura.md
+- [ ] Leer los 4 capítulos clave: "Cultura", "Hegemonía", "Dominante, residual y emergente" y "Estructuras del sentir". ~60 pp.
+- [ ] **1 nota permanente por concepto**: cultura como práctica material, hegemonía (revisada vs Gramsci), triada dom/res/em, estructuras del sentir. Cuatro notas mínimo.
+- [ ] Aplicar la **triada dominante/residual/emergente** a la cultura argentina actual (2023-2026). ¿Qué es dominante hoy (peronismo, cultura digital, libertarismo)? ¿Qué es residual (catolicismo cultural, formato editorial impreso, sindicalismo industrial)? ¿Qué es emergente (estética cripto/Milei, TikTok político, identidades fluidas)? Texto de 300 palabras.
+- [ ] Anotar la **conexión Williams-Hall** (etapa 76): el modelo encoding/decoding de Hall extiende a la comunicación masiva el planteo de Williams sobre hegemonía vivida. Sin Williams, Hall pierde marco; sin Hall, Williams queda en teoría general.
+============================================================
+
+============================================================
+File: etapa-93-bourdieu-distincion.md
+- [ ] Leer Introducción + Cap. 1 ("Títulos y cuarteles de nobleza cultural") + Cap. 3 ("El habitus y el espacio de los estilos de vida"). ~120 pp. Si el cap. 1 (introducción teórica) es muy denso, leer primero el cap. 3 (más narrativo) y volver.
+- [ ] **1 nota permanente por concepto**: habitus, capital cultural (3 estados), campo, violencia simbólica, distinción. Cinco notas mínimo.
+- [ ] Hacer un **inventario personal**: ¿qué capital cultural transmitió la familia propia? ¿Cuál NO? ¿Qué prácticas culturales del estrato social actual son herencia y cuáles son adquisición? Texto de 400 palabras (puede ser solo nota privada).
+- [ ] Aplicar el marco a un caso argentino contemporáneo: el debate "alta cultura" vs "cultura popular" en Argentina (Borges vs cumbia, Colón vs Mostros). ¿Qué pasa cuando entra el factor "consumo digital" (Spotify, Netflix, redes)? Texto de 300 palabras.
+- [ ] **Omnívoros Culturales (Richard Peterson):** Leer Richard A. Peterson y Roger M. Kern, *"Changing Highbrow Taste: From Snob to Omnivore"* (1996). Escribir 300 palabras analizando cómo el surgimiento del "omnívoro cultural" (el consumo ecléctico que combina alta y baja cultura) problematiza la distinción rígida y el habitus de Bourdieu. ¿Cómo se reformula la dominación simbólica cuando las clases dominantes ya no consumen exclusivamente arte académico?
+- [ ] Leer la **crítica de Rancière** ("El maestro ignorante" o "El espectador emancipado", selección): Bourdieu condenaría por adelantado al dominado a no poder pensar fuera de su clase. ¿Es justa la crítica? Anotar posición propia.
+============================================================
+
+============================================================
+File: etapa-95-garcia-canclini-culturas-hibridas.md
+- [ ] **Lectura de Selección:** Leer Culturas híbridas Introducción, Capítulos 1, 3, 5 y 8 (~140 pp).
+- [ ] **1 nota permanente por concepto central**: hibridación, modernidad oblicua, reconversión cultural, crítica a la división alta/popular. Cuatro notas mínimo.
+- [ ] Aplicar el marco a **3 casos argentinos contemporáneos**: cumbia santafesina con producción en estudio profesional, festival de Cosquín mezclando folklore tradicional con artistas urbanos, fileteado porteño en NFT. ¿Qué híbrido es cada uno? ¿Qué reconvirtió? Texto de 400 palabras.
+- [ ] Anotar la **tensión con Cornejo Polar**: García Canclini propone "hibridación"; Cornejo Polar (etapa de profundización opcional) propone "heterogeneidad" — las culturas no se mezclan, conviven sin fundirse. ¿Qué herramienta sirve mejor para qué fenómeno?
+============================================================
+
+============================================================
+File: etapa-96-martin-barbero.md
+- [ ] Leer la **Parte III completa** (los 5-6 capítulos según edición, ~90 pp). Es la sección clave para nuestros efectos.
+- [ ] **1 nota permanente por concepto**: mediación, matriz cultural popular, melodrama como matriz, massmediación, cultura como proceso. Cinco notas mínimo.
+- [ ] Aplicar el marco a un caso argentino contemporáneo: ¿qué matriz cultural popular media a) los reels de Instagram tipo "consejos de la abuela", b) el éxito de Wos en cuanto rapero "consciente", c) las narrativas familiares de las telenovelas turcas en TV argentina? Texto de 400 palabras.
+- [ ] Anotar la **conexión Martín-Barbero – Hall**: el modelo de mediaciones es complementario al de encoding/decoding. Hall mira la decodificación; Martín-Barbero mira las matrices que hacen posible cada tipo de decodificación. Juntos, completan un marco operativo.
+============================================================
+
+============================================================
+File: etapa-97-zuboff-vigilancia.md
+- [ ] **Lectura de Selección:** Leer de La era del capitalismo de la vigilancia la Introducción, Capítulos 1 a 3, 11 y 18 (omitir el resto, ~200 pp).
+- [ ] **Colonialismo de Datos:** Leer a Nick Couldry y Ulises Mejías (*The Costs of Connection*, 2019) y redactar una nota de 350 palabras sobre cómo el capitalismo de plataformas opera como un **"colonialismo de datos"** que extrae recursos conductuales del Sur Global sin transferir soberanía tecnológica, vinculándolo con el doble movimiento de Polanyi y la soberanía digital (Morozov).
+- [ ] **Capitalismo de Plataformas (Srnicek) y Materialidad de la IA (Crawford):** Leer Nick Srnicek, *Capitalismo de plataformas* (2017), Capítulo 2, y Kate Crawford, *Atlas de la Inteligencia Artificial* (2021), Capítulo 1 ("Tierra"). Escribir un ensayo crítico de 500 palabras: Contrasta la visión de Zuboff (donde la vigilancia es una mutación conductual del capitalismo iniciada por Google) con el enfoque materialista de Srnicek (las plataformas como infraestructura de datos obligatoria para frenar la caída de la tasa de ganancia) y de Crawford (la IA como sistema extractivo de minerales, trabajo invisible de clic y energía física).
+- [ ] **Gubernamentalidad Algorítmica (Antoinette Rouvroy):** Leer Antoinette Rouvroy y Thomas Berns, *"Gubernamentalidad algorítmica y perspectivas de emancipación"* (2013). Redactar 350 palabras explicando cómo la predicción automatizada gobierna a las poblaciones sin interpelar su subjetividad (evitando el panóptico foucaultiano y operando mediante la modulación del feed y de flujos de datos sin sujeto).
+- [ ] Capturar literature note (tesis + 5 ideas + 1 crítica + conexiones con Marx, Polanyi, Williams, Hall).
+- [ ] Escribir nota permanente sobre **capitalismo de vigilancia** (100-300 palabras, conectada).
+============================================================
+

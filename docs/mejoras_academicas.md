@@ -89,15 +89,15 @@ La siguiente tabla resume el debate crítico implementado en el currículo media
 | **Etapa 11** | Hobbes: *Leviatán* | Carole Pateman | Crítica feminista al contrato original del estado de naturaleza. |
 | **Etapa 15** | J.S. Mill: *Sobre la libertad* | Uday Mehta | Crítica al sesgo colonial de exclusión de las sociedades "atrasadas". |
 | **Etapa 17** | Locke: *Segundo Tratado* | Charles W. Mills | El despojo de tierras comunes indígenas y el Contrato Racial. |
-| **Etapa 21** | Adam Smith: *Riqueza de las Naciones* | David Ricardo / S. Federici | Teoría del valor-trabajo clásica y la división sexual del trabajo doméstico. |
-| **Etapa 23** | Karl Marx: *El Capital* | Ecología Marxista / J. Moore | La fractura metabólica del suelo y los límites ecológicos del plusvalor. |
-| **Etapa 28** | Rawls: *Teoría de la Justicia* | Susan Moller Okin / A. MacIntyre | Límites de la justicia distributiva en el seno familiar y comunitarismo. |
-| **Etapa 30** | Habermas: *Esfera Pública* | Nancy Fraser / Chantal Mouffe | Contrapúblicos subalternos y el agonismo democrático frente a deliberación. |
-| **Etapa 33** | Hayek: *Camino de servidumbre* | Karl Polanyi / Carl Menger | El libre mercado como construcción artificial estatal vs. orden espontáneo. |
-| **Etapa 35** | Nozick: *Anarquía, Estado y Utopía* | G.A. Cohen | Libertad de terceros en Wilt Chamberlain y la autopropiedad del cuerpo. |
-| **Etapa 54** | Mearsheimer: *The Tragedy of Great Power* | C. Enloe / A. Wendt / Zhao Tingyang | Enfoque feminista y constructivista en RR.II., y la alternativa de Tianxia. |
-| **Etapa 57** | Edward Said: *Orientalismo* | Vivek Chibber | La crítica materialista y de clase al giro discursivo poscolonialista. |
-| **Etapa 81** | Zuboff: *Capitalismo de Vigilancia* | N. Srnicek / K. Crawford / A. Rouvroy | IA como sistema extractivo ecológico y gubernamentalidad algorítmica. |
+| **Etapa 23** | Adam Smith: *Riqueza de las Naciones* | David Ricardo / S. Federici | Teoría del valor-trabajo clásica y la división sexual del trabajo doméstico. |
+| **Etapa 26** | Karl Marx: *El Capital* | Ecología Marxista / J. Moore | La fractura metabólica del suelo y los límites ecológicos del plusvalor. |
+| **Etapa 34** | Rawls: *Teoría de la Justicia* | Susan Moller Okin / A. MacIntyre | Límites de la justicia distributiva en el seno familiar y comunitarismo. |
+| **Etapa 37** | Habermas: *Esfera Pública* | Nancy Fraser / Chantal Mouffe | Contrapúblicos subalternos y el agonismo democrático frente a deliberación. |
+| **Etapa 41** | Hayek: *Camino de servidumbre* | Karl Polanyi / Carl Menger | El libre mercado como construcción artificial estatal vs. orden espontáneo. |
+| **Etapa 44** | Nozick: *Anarquía, Estado y Utopía* | G.A. Cohen | Libertad de terceros en Wilt Chamberlain y la autopropiedad del cuerpo. |
+| **Etapa 67** | Mearsheimer: *The Tragedy of Great Power* | C. Enloe / A. Wendt / Zhao Tingyang | Enfoque feminista y constructivista en RR.II., y la alternativa de Tianxia. |
+| **Etapa 70** | Edward Said: *Orientalismo* | Vivek Chibber | La crítica materialista y de clase al giro discursivo poscolonialista. |
+| **Etapa 97** | Zuboff: *Capitalismo de Vigilancia* | N. Srnicek / K. Crawford / A. Rouvroy | IA como sistema extractivo ecológico y gubernamentalidad algorítmica. |
 
 ---
 

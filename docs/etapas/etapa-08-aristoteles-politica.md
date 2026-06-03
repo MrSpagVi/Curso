@@ -83,6 +83,12 @@ Sin Aristóteles, Fase 1 no es filosofía política clásica — es contractuali
 
 ¿Cuál es el mejor régimen político y por qué? Y, derivada: ¿qué tipo de comunidad humana permite a sus miembros realizarse plenamente como seres racionales? Aristóteles responde con una metodología comparativa — recolectó 158 constituciones de *polis* griegas — y normativa: el régimen mejor es el que persigue el bien común y se ajusta a las circunstancias materiales (territorio, población, costumbres).
 
+## Justificación de la lectura seleccionada
+
+* **¿Por qué leer solo esta selección?** Libro I (Caps. 1-2, 3-7), Libro III (Caps. 1-9) y Libro VII (Caps. 1-3, 13-14). Contiene la fundamentación del ser humano como *zoon politikon* (animal político), la legitimación clásica de la esclavitud, la tipología formal de las seis formas de gobierno y el diseño moral y físico de la *polis* ideal.
+* **¿Por qué omitir el resto en una primera lectura?** Los libros IV, V, VI y VIII son estudios empíricos descriptivos de las poleis griegas de su época, descripciones de revoluciones específicas de la antigüedad y de la educación musical y gimnástica que carecen de peso conceptual directo para la teoría política del Estado contemporáneo.
+* **¿Por qué vale la pena leer el libro completo?** Es indispensable para historiadores del pensamiento clásico y de las instituciones antiguas, ya que permite comprender el método inductivo y comparado de Aristóteles a través del análisis de las constituciones reales de más de 150 ciudades-estado de la antigüedad.
+
 ## Tareas
 
 - [ ] **Lectura de Selección:** Leer Libro I caps. 1-2 y 3-7 (hombre como animal político, familia, esclavitud natural); Libro III caps. 1-9 (ciudadanía, tipología de regímenes, mejor régimen); y Libro VII caps. 1-3 y 13-14 (la mejor *polis*).
