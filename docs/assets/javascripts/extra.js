@@ -517,6 +517,39 @@
     }
   }
 
+  // ---------- Task list classification and decoration ----------
+
+  function enrichTaskListsUI() {
+    const items = document.querySelectorAll('.md-typeset .task-list-item');
+    items.forEach(li => {
+      const strong = li.querySelector('strong');
+      if (!strong) return;
+      const text = strong.textContent.trim().toLowerCase();
+      
+      let badgeInfo = null;
+      if (text.includes('lectura completa')) {
+        badgeInfo = { className: 'badge-reading-full', label: 'Lectura Completa' };
+      } else if (text.includes('lectura selección') || text.includes('lectura de selección') || text.includes('lectura seleccion')) {
+        badgeInfo = { className: 'badge-reading-select', label: 'Selección' };
+      } else if (text.includes('ejercicio') || text.includes('tarea') || text.includes('examen') || text.includes('evaluación')) {
+        badgeInfo = { className: 'badge-exercise', label: 'Ejercicio' };
+      } else if (text.includes('redacción') || text.includes('redaccion') || text.includes('ensayo') || text.includes('tesina')) {
+        badgeInfo = { className: 'badge-writing', label: 'Redacción' };
+      } else if (text.includes('vídeo') || text.includes('video') || text.includes('conferencia') || text.includes('clase') || text.includes('documental')) {
+        badgeInfo = { className: 'badge-video', label: 'Vídeo' };
+      } else if (text.includes('ficha') || text.includes('zettelkasten')) {
+        badgeInfo = { className: 'badge-zettel', label: 'Zettelkasten' };
+      }
+      
+      if (badgeInfo && !li.querySelector('.task-badge')) {
+        const badgeEl = document.createElement('span');
+        badgeEl.className = `task-badge ${badgeInfo.className}`;
+        badgeEl.textContent = badgeInfo.label;
+        strong.parentNode.insertBefore(badgeEl, strong);
+      }
+    });
+  }
+
   // ---------- Boot ----------
 
   function boot() {
@@ -526,6 +559,7 @@
     persistTaskLists();
     setupCursoGlobalProgress();
     renderCourseHomepage();
+    enrichTaskListsUI();
   }
 
   if (typeof document$ !== 'undefined') {

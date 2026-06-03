@@ -32,7 +32,34 @@ title: "Etapa 2 — Tutorial — aprender a tomar notas (30 días)"
 | **Práctica de recuperación** (Roediger & Karpicke, 2006) | Recuperar de memoria supera releer/resumir. | Tomar nota es bueno; **reescribir esa nota de memoria una semana después** es mejor. |
 | **Especificidad de codificación** (Tulving) | La información se recupera con las pistas presentes al codificar. | Una nota sin **hooks contextuales** (problema, antagonista, función) será irrecuperable en 6 meses. |
 
-**Sobre el debate bolígrafo vs teclado:** el estudio original de Mueller & Oppenheimer (2014) encontró ventaja para escribir a mano. Replicaciones recientes (Morehead 2019, Urry 2021) **no lo confirmaron**. El consenso: lo que importa NO es el medio sino qué te lleva a hacer. Si el teclado te lleva a transcribir, es peor; si tu mano hace lo mismo, también. La regla: **escribir cerrando el ebook, de memoria**.
+**Sobre el debate bolígrafo vs teclado (y por qué usar papel):** el estudio fundacional de Mueller & Oppenheimer (2014) encontró una clara ventaja para escribir a mano. Investigaciones electroencefalográficas recientes (Van der Meer & Van der Weel, 2020) demuestran que escribir a mano activa patrones de conectividad cerebral mucho más complejos en áreas parietales y motoras centralizadas, estimulando la codificación de la memoria a largo plazo de una forma que el teclado (movimiento monótono y repetitivo de pulsar teclas) no logra. Adicionalmente, el formato físico de una página proporciona claves de **memoria espacial** (fijación de la idea arriba a la izquierda, o abajo a la derecha), creando un mapa cognitivo tridimensional de la lectura.
+
+Por ello, aunque podés usar Notion u Obsidian, este curso promueve y detalla a continuación el método para llevar un **cuaderno físico estructurado (Zettelkasten analógico)**.
+
+---
+
+### Formato de Cuaderno Físico: El Sistema Cornell-Zettelkasten
+
+Para que tomar notas en un cuaderno físico de papel no se vuelva un registro lineal desordenado, estructurá cada página de tu cuaderno utilizando una adaptación del **Método Cornell** orientado al análisis de teoría política y filosofía:
+
+#### 1. Estructura de la Página (Maquetación)
+Al abrir tu cuaderno, trazá dos líneas para dividir tu página en tres áreas discretas:
+*   **Columna de Claves (Izquierda, ~6 cm de ancho):** Espacio reservado para conceptos clave, nombres de oponentes/interlocutores del autor, preguntas críticas tuyas, hooks contextuales y marcas de tesis.
+*   **Área de Notas (Derecha, ~14 cm de ancho):** Aquí es donde escribes durante la lectura. No transcribas párrafos: dibuja esquemas argumentativos (ej. Premisa 1 + Premisa 2 $\rightarrow$ Conclusión), flechas causales y reformulaciones semánticas estructuradas.
+*   **Síntesis Semántica (Fila inferior, ~4 cm de altura):** Al cerrar la lectura del capítulo, redactá en este espacio la **tesis central en una sola frase declarativa** (título declarativo) que sintetice todo lo de arriba en tus propias palabras.
+
+#### 2. Glosario de Símbolos en Margen
+Usa una codificación visual rápida en tu columna de claves para identificar de un vistazo el peso de lo escrito:
+*   `[T]` $\rightarrow$ **Tesis:** La afirmación principal que el autor defiende en esa página.
+*   `[O]` $\rightarrow$ **Objeción:** El contraargumento que el autor intenta derribar (o una objeción tuya hacia él).
+*   `[C]` $\rightarrow$ **Conexión:** Cruce de ideas con otro autor leído antes (ej. *"Contradice a Hobbes en p.24"*).
+*   `[?]` $\rightarrow$ **Duda:** Pasaje oscuro que constituye tu "frente activo de no-comprensión".
+
+#### 3. Hilos de Conexión Analógicos (Paper Threading)
+Para imitar el hipertexto digital en tu cuaderno físico:
+1.  **Paginá tu cuaderno:** Numerá a mano todas las páginas del cuaderno desde la 1 a la 200.
+2.  **Índice de la página 1 a 4:** Reserva las primeras 4 páginas para construir un índice dinámico donde anotarás: *Tema/Autor $\rightarrow$ Página*.
+3.  **Hilos de Conexión (Threading):** Cuando escribas una nota que conecte con otra ubicada en una página anterior (ej. página 12), escribí en el margen superior de la página actual: `[<- p.12]`. De la misma forma, ve a la página 12 y anota en el margen inferior: `[p.78 ->]`. De esta forma creas hilos bidireccionales físicos que guían tu relectura a través del papel.
 
 ---
 

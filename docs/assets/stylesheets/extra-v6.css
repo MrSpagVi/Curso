@@ -764,3 +764,92 @@ abbr[title]:hover {
   margin-top: 1.5rem;
   width: 100%;
 }
+
+/* === Task Badges & Digestibility Styling === */
+
+.md-typeset .task-list-item {
+  margin-bottom: 0.6rem !important;
+  line-height: 1.8 !important;
+}
+
+.task-badge {
+  font-size: 0.62rem;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  margin-right: 0.5rem;
+  display: inline-flex;
+  align-items: center;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+  line-height: 1.2;
+}
+
+.badge-reading-full {
+  background: var(--g-accent);
+  color: #fff;
+}
+[data-md-color-scheme="slate"] .badge-reading-full {
+  color: #000;
+  background: #d4ad7e;
+}
+
+.badge-reading-select {
+  background: var(--g-accent-soft);
+  color: var(--g-accent);
+  border: 1px solid var(--g-accent);
+  padding: 0.1rem 0.4rem; /* adjust for border */
+}
+[data-md-color-scheme="slate"] .badge-reading-select {
+  border-color: #d4ad7e;
+  color: #d4ad7e;
+}
+
+.badge-exercise {
+  background: var(--g-secondary-accent);
+  color: #fff;
+}
+[data-md-color-scheme="light"] .badge-exercise {
+  background: #1f3a5f;
+}
+
+.badge-writing {
+  background: #512da8;
+  color: #fff;
+}
+[data-md-color-scheme="slate"] .badge-writing {
+  background: #7e57c2;
+}
+
+.badge-video {
+  background: #c62828;
+  color: #fff;
+}
+[data-md-color-scheme="slate"] .badge-video {
+  background: #ef5350;
+}
+
+.badge-zettel {
+  background: #2e7d32;
+  color: #fff;
+}
+[data-md-color-scheme="slate"] .badge-zettel {
+  background: #66bb6a;
+  color: #000;
+}
+
+/* Sidebar & Sitemap refinements */
+.md-sidebar--secondary {
+  opacity: 0.95;
+}
+
+.md-nav__link {
+  transition: color 0.15s ease;
+}
+
+/* Reading mode adjustments for text containers */
+.md-content__inner {
+  max-width: 44rem; /* optimized for reading density */
+}
