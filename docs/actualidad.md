@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-06-03 10:45 UTC_
+_Última actualización: 2026-06-04 09:44 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["Solo hay una salida": la odisea de los miles de marineros atrapados por el bloqueo del estrecho de Ormuz desde hace casi 100 días](https://www.bbc.com/mundo/articles/c1j26lx341ko?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
-  - La incertidumbre ha pesado gravemente sobre los 20.000 marineros varados en la zona de guerra.
-- **[Por qué Iberostar y Blue Diamond, dos cadenas hoteleras clave en la industria turística de Cuba, abandonan operaciones en la isla "con efecto inmediato"](https://www.bbc.com/mundo/articles/cj0pl3yeg7no?at_medium=RSS&at_campaign=rss)** · *2026-06-02*
-  - EE.UU. amenazó con sanciones a todas las compañías que tuvieran vínculos con el conglomerado empresarial de las Fuerzas Armadas cubanas.
-- **[La joven de 18 años que huyó a cientos de kilómetros de su hogar en un taxi para escapar del matrimonio forzado](https://www.bbc.com/mundo/articles/cx211g4j1y9o?at_medium=RSS&at_campaign=rss)** · *2026-06-02*
-  - Casi cinco años después de la prohibición de la educación en Afganistán, las jóvenes afirman que han tenido que despedirse de sus sueños.
-- **[La policía de Nueva York investiga videos de hombres saliendo de las alcantarillas de la ciudad](https://www.bbc.com/mundo/articles/c202qpeglego?at_medium=RSS&at_campaign=rss)** · *2026-06-02*
-  - La policía de Nueva York está llevando a cabo una investigación tras la aparición en las últimas semanas de múltiples videos que muestran a grupos de personas entrando y saliendo del sistema de alcantarillado de la ciudad.
-- **[Qué revela sobre nuestra salud el dolor de cabeza que nos da cuando comemos helado](https://www.bbc.com/mundo/articles/c242jvdn93jo?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
-  - Si sufres dolores de cabeza con frecuencia cuando comes helado, quizá valga la pena averiguar si es algo hereditario en tu familia y revisar también los dolores de cabeza que no están relacionados con el helado.
+- **[Por qué el origen de la madre de Kim Jong-un podría poner en peligro la legitimidad del régimen de Corea del Norte](https://www.bbc.com/mundo/articles/c2l28qd5vlzo?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
+  - Muy pocos norcoreanos saben de su existencia, ya que su origen podría poner en peligro la legitimidad del régimen.
+- **["Estás completamente loco": la tensa llamada telefónica entre Trump y Netanyahu que complica las conversaciones con Irán](https://www.bbc.com/mundo/articles/crmpg81lmr3o?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
+  - El medio Axios aseguró que, durante una llamada telefónica el lunes, el presidente le había dicho a Netanyahu que estaba "malditamente loco" y lo había acusado de ingratitud.
+- **["Toda mi vida estudié cómo los virus evolucionan y sobreviven, y ahora aplico eso ante el agresivo cáncer cerebral que tengo"](https://www.bbc.com/mundo/articles/c78k24vex9eo?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
+  - El destacado virólogo Gonzalo Moratorio, que “blindó” a Uruguay de la pandemia de covid-19, habla de su lucha contra un agresivo tumor cerebral y para conseguir pagar un costoso tratamiento experimental.
+- **[Por qué Venezuela llegó a tener uranio altamente enriquecido y cómo fue la reciente operación secreta para entregárselo a EE.UU.](https://www.bbc.com/mundo/articles/c78q25x7vy4o?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
+  - A finales de abril, los gobiernos de Venezuela, Estados Unidos y Reino Unido realizaron una operación para llevarse de Venezuela una carga de uranio altamente enriquecido. BBC Mundo te cuenta cómo fue.
+- **[La indignación por el caso del joven que murió esposado por la policía mientras se desangraba tras ser apuñalado en Reino Unido](https://www.bbc.com/mundo/articles/c4g8n0p5w6yo?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
+  - Las imágenes grabadas por la cámara policial han generado una enorme conmoción en el país y sembrado dudas sobre la actuación de los agentes.
 
 ## El País — Internacional
 
-- **[Rusia intensifica los ataques contra Ucrania y sus amenazas a Europa: “Su pacífico sueño ha terminado”](https://elpais.com/internacional/2026-06-03/rusia-intensifica-los-ataques-contra-ucrania-y-sus-amenazas-a-europa-su-pacifico-sueno-ha-terminado.html)** · *2026-06-03*
-  - En Moscú equiparan a la UE con la Alemania nazi. Una escalada contra la Unión permitiría al Kremlin una nueva movilización
-- **[Ucrania lanza más de 350 drones sobre Rusia y empaña la inauguración de un gran foro internacional en San Petersburgo](https://elpais.com/internacional/2026-06-03/al-menos-siete-muertos-en-un-ataque-de-ucrania-contra-un-autobus-en-la-zona-ocupada-por-rusia.html)** · *2026-06-03*
-  - La ofensiva de Kiev, en respuesta al bombardeo masivo ordenado por el Kremlin la víspera, deja al menos ocho muertos en un autobús en la región ocupada de Donetsk
-- **[Las prisas cambian de bando en Irán: Trump busca una salida a la guerra con el tiempo en su contra](https://elpais.com/internacional/2026-06-03/las-prisas-cambian-de-bando-en-iran-trump-busca-una-salida-a-la-guerra-con-el-tiempo-en-su-contra.html)** · *2026-06-03*
-  - Tres meses después de los primeros bombardeos de Estados Unidos e Israel, Washington necesita más que nunca alcanzar un acuerdo que reabra Ormuz
+- **[Israel prosigue los bombardeos en Líbano pese a la prórroga del alto el fuego: “Tenemos libertad de acción”](https://elpais.com/internacional/2026-06-04/israel-prosigue-los-bombardeos-en-libano-pese-a-la-prorroga-del-alto-el-fuego-tenemos-libertad-de-accion.html)** · *2026-06-04*
+  - El ministro de Defensa subraya que las tropas mantendrán las posiciones y que tienen el respaldo estadounidense para atacar Beirut si Hezbolá golpea en suelo israelí
+- **[Muere un casco azul serbio y dos españoles resultan heridos leves en un ataque en el sur de Líbano](https://elpais.com/internacional/2026-06-04/muere-un-casco-azul-serbio-y-dos-espanoles-resultan-heridos-en-un-ataque-en-el-sur-de-libano.html)** · *2026-06-04*
+  - Un mortero de origen desconocido cayó el miércoles por la noche en una posición de Naciones Unidas próxima a la base española
+- **[Irán y EE UU abren la mano en Ormuz pese a los bombardeos y los vaivenes en la negociación](https://elpais.com/internacional/2026-06-04/iran-y-ee-uu-abren-la-mano-en-ormuz-pese-a-los-bombardeos-y-el-nuevo-frenazo-en-la-negociacion.html)** · *2026-06-04*
+  - El número de barcos que logran cruzar el estrecho repunta en las dos últimas semanas, pese a seguir aún muy lejos de los niveles preguerra
 - **[Solo un mierda quiere ser profesor](https://elpais.com/opinion/2026-06-03/solo-un-mierda-quiere-ser-profesor.html)** · *2026-06-03*
   - Cómo y por qué el discurso de la extrema derecha contra la educación pública se propaga y condiciona la vida y las elecciones
 - **[El poder de la prioridad europea](https://elpais.com/opinion/2026-06-03/el-poder-de-la-prioridad-europea.html)** · *2026-06-03*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Chatbot teddies for three-year-olds? Why AI toys are risky for kids](https://theconversation.com/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids-284195)** · *2026-06-03*
-  - AI toys can tell stories, chat about a child’s interests, play games or even discuss what’s happening in the world today. But they come with risks.
-- **[Climate change may shift hailstorms towards Earth’s poles – new study](https://theconversation.com/climate-change-may-shift-hailstorms-towards-earths-poles-new-study-284292)** · *2026-06-03*
-  - Costs from severe storms are increasing – and this global shift in hailstorm spells bad news for crops, too.
-- **[Politics with Michelle Grattan: Graeme Samuel on ‘doomsday’ attacks on the federal budget](https://theconversation.com/politics-with-michelle-grattan-graeme-samuel-on-doomsday-attacks-on-the-federal-budget-284430)** · *2026-06-03*
-  - The businessman and former competition chief says the fierce criticism of what he calls ‘mild’ budget changes shows why politicians have avoided reform for decades.
-- **[What is ‘clean eating’ and how can it affect wellbeing?](https://theconversation.com/what-is-clean-eating-and-how-can-it-affect-wellbeing-282387)** · *2026-06-03*
-  - For some people, healthy eating can become an obsession that has a devastating impact on their health and relationships.
-- **[Australia’s economy slows as households tighten their belts, while AI investment surges](https://theconversation.com/australias-economy-slows-as-households-tighten-their-belts-while-ai-investment-surges-284423)** · *2026-06-03*
-  - If GDP per person falls again in the June quarter, Australia would enter a ‘per capita’ recession – signalling the average Australian is going backwards.
+- **[Grattan on Friday: Hanson prepares to take the big stage as Husic hits out at straitjacket on caucus](https://theconversation.com/grattan-on-friday-hanson-prepares-to-take-the-big-stage-as-husic-hits-out-at-straitjacket-on-caucus-284310)** · *2026-06-04*
+  - Debate around the budget rolls on as Pauline Hanson prepares herself for centre stage.
+- **[We watched the first Enhanced Games live in Las Vegas – this is what we learned](https://theconversation.com/we-watched-the-first-enhanced-games-live-in-las-vegas-this-is-what-we-learned-284124)** · *2026-06-04*
+  - After the headlines and the hype, only one world record was broken in Las Vegas, though many athletes set personal bests.
+- **[Low-dose Zoladex won’t be available in Australia from November. What might that mean for you?](https://theconversation.com/low-dose-zoladex-wont-be-available-in-australia-from-november-what-might-that-mean-for-you-284539)** · *2026-06-04*
+  - This drug is used to treat endometriosis and some breast cancers, but will soon be stripped from Australian shelves.
+- **[Victoria is attempting political donation reform again. How do the new laws stack up?](https://theconversation.com/victoria-is-attempting-political-donation-reform-again-how-do-the-new-laws-stack-up-284450)** · *2026-06-04*
+  - After the High Court struck down the state government’s previous attempt, Victoria had no donations laws at all. Here’s what the proposed new ones say.
+- **[How common is sex-selective abortion in Australia, really?](https://theconversation.com/how-common-is-sex-selective-abortion-in-australia-really-284437)** · *2026-06-04*
+  - On first glance, this might appear to be a defensible measure. But there’s little evidence these abortions are occurring.
 
 ## Nueva Sociedad
 
