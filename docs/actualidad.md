@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-06-04 09:44 UTC_
+_Última actualización: 2026-06-05 09:33 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Por qué el origen de la madre de Kim Jong-un podría poner en peligro la legitimidad del régimen de Corea del Norte](https://www.bbc.com/mundo/articles/c2l28qd5vlzo?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
-  - Muy pocos norcoreanos saben de su existencia, ya que su origen podría poner en peligro la legitimidad del régimen.
-- **["Estás completamente loco": la tensa llamada telefónica entre Trump y Netanyahu que complica las conversaciones con Irán](https://www.bbc.com/mundo/articles/crmpg81lmr3o?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
-  - El medio Axios aseguró que, durante una llamada telefónica el lunes, el presidente le había dicho a Netanyahu que estaba "malditamente loco" y lo había acusado de ingratitud.
-- **["Toda mi vida estudié cómo los virus evolucionan y sobreviven, y ahora aplico eso ante el agresivo cáncer cerebral que tengo"](https://www.bbc.com/mundo/articles/c78k24vex9eo?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
-  - El destacado virólogo Gonzalo Moratorio, que “blindó” a Uruguay de la pandemia de covid-19, habla de su lucha contra un agresivo tumor cerebral y para conseguir pagar un costoso tratamiento experimental.
-- **[Por qué Venezuela llegó a tener uranio altamente enriquecido y cómo fue la reciente operación secreta para entregárselo a EE.UU.](https://www.bbc.com/mundo/articles/c78q25x7vy4o?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
-  - A finales de abril, los gobiernos de Venezuela, Estados Unidos y Reino Unido realizaron una operación para llevarse de Venezuela una carga de uranio altamente enriquecido. BBC Mundo te cuenta cómo fue.
-- **[La indignación por el caso del joven que murió esposado por la policía mientras se desangraba tras ser apuñalado en Reino Unido](https://www.bbc.com/mundo/articles/c4g8n0p5w6yo?at_medium=RSS&at_campaign=rss)** · *2026-06-03*
-  - Las imágenes grabadas por la cámara policial han generado una enorme conmoción en el país y sembrado dudas sobre la actuación de los agentes.
+- **[Cómo Putin se obsesionó con controlar hasta el último detalle de su imagen pública](https://www.bbc.com/mundo/articles/c3r2e1zg2ppo?at_medium=RSS&at_campaign=rss)** · *2026-06-05*
+  - De enigmático agente de la KGB a gobernante en tiempos de guerra, así es cómo Vladimir Putin ha reinventado repetidamente su imagen pública y a sí mismo.
+- **["Super El Niño": los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)](https://www.bbc.com/mundo/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
+  - Los científicos temen que los efectos combinados de El Niño y el cambio climático provocado por el ser humano puedan alterar el clima en todo el mundo.
+- **[Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país](https://www.bbc.com/mundo/articles/c1423m4m482o?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
+  - Las sanciones de EE.UU. contra el conglomerado militar Gaesa precipitan la salida de cadenas como Meliá, Iberostar y Blue Diamond, en un momento en el que el turismo cubano atraviesa una de sus peores crisis.
+- **[Muere "de tristeza" a los 56 años Marjane Satrapi, la novelista gráfica y cineasta franco-iraní de "Persépolis"](https://www.bbc.com/mundo/articles/c2020le1k7mo?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
+  - La autora e ilustradora franco-iraní alcanzó reconocimiento internacional con "Persépolis", una aclamada serie de novelas gráficas que fue adaptada al cine en una película nominada al Oscar.
+- **[El sherpa dado por muerto en el Everest que fue encontrado "milagrosamente" cuando descendía por el hielo a rastras](https://www.bbc.com/mundo/articles/c5y8yj7vj4lo?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
+  - Un equipo encontró al guía arrastrándose hacia el Campamento Base seis días después de su desaparición.
 
 ## El País — Internacional
 
-- **[Israel prosigue los bombardeos en Líbano pese a la prórroga del alto el fuego: “Tenemos libertad de acción”](https://elpais.com/internacional/2026-06-04/israel-prosigue-los-bombardeos-en-libano-pese-a-la-prorroga-del-alto-el-fuego-tenemos-libertad-de-accion.html)** · *2026-06-04*
-  - El ministro de Defensa subraya que las tropas mantendrán las posiciones y que tienen el respaldo estadounidense para atacar Beirut si Hezbolá golpea en suelo israelí
-- **[Muere un casco azul serbio y dos españoles resultan heridos leves en un ataque en el sur de Líbano](https://elpais.com/internacional/2026-06-04/muere-un-casco-azul-serbio-y-dos-espanoles-resultan-heridos-en-un-ataque-en-el-sur-de-libano.html)** · *2026-06-04*
-  - Un mortero de origen desconocido cayó el miércoles por la noche en una posición de Naciones Unidas próxima a la base española
-- **[Irán y EE UU abren la mano en Ormuz pese a los bombardeos y los vaivenes en la negociación](https://elpais.com/internacional/2026-06-04/iran-y-ee-uu-abren-la-mano-en-ormuz-pese-a-los-bombardeos-y-el-nuevo-frenazo-en-la-negociacion.html)** · *2026-06-04*
-  - El número de barcos que logran cruzar el estrecho repunta en las dos últimas semanas, pese a seguir aún muy lejos de los niveles preguerra
+- **[Estados Unidos sanciona al presidente de Cuba y al entorno familiar de Raúl Castro](https://elpais.com/us/2026-06-04/estados-unidos-sanciona-al-presidente-de-cuba-y-al-entorno-familiar-de-raul-castro.html)** · *2026-06-04*
+  - El Departamento del Tesoro anuncia medidas financieras contra los parientes políticos de Miguel Díaz-Canel y contra las Fuerzas Armadas
+- **[La ofensiva israelí en el sur de Líbano: 2.900 muertos, 36.000 casas destruidas y 1,4 millones de desplazados](https://elpais.com/internacional/2026-06-05/la-ofensiva-israeli-en-el-sur-de-libano-tres-meses-de-devastacion-e-impunidad.html)** · *2026-06-05*
+  - La campaña de Israel ha desplazado a una cuarta parte de la población del país en tres meses
+- **[Cómo una marginal idea danesa para enviar migrantes fuera de Europa se convirtió en política oficial](https://elpais.com/internacional/2026-06-05/como-una-marginal-idea-danesa-para-enviar-migrantes-fuera-de-europa-se-convirtio-en-politica-oficial.html)** · *2026-06-05*
+  - La UE normaliza los centros de retorno fuera de sus fronteras pese a que los precedentes europeos acumulan obstáculos jurídicos, costes elevados y resultados inciertos
 - **[Solo un mierda quiere ser profesor](https://elpais.com/opinion/2026-06-03/solo-un-mierda-quiere-ser-profesor.html)** · *2026-06-03*
   - Cómo y por qué el discurso de la extrema derecha contra la educación pública se propaga y condiciona la vida y las elecciones
 - **[El poder de la prioridad europea](https://elpais.com/opinion/2026-06-03/el-poder-de-la-prioridad-europea.html)** · *2026-06-03*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Grattan on Friday: Hanson prepares to take the big stage as Husic hits out at straitjacket on caucus](https://theconversation.com/grattan-on-friday-hanson-prepares-to-take-the-big-stage-as-husic-hits-out-at-straitjacket-on-caucus-284310)** · *2026-06-04*
-  - Debate around the budget rolls on as Pauline Hanson prepares herself for centre stage.
-- **[We watched the first Enhanced Games live in Las Vegas – this is what we learned](https://theconversation.com/we-watched-the-first-enhanced-games-live-in-las-vegas-this-is-what-we-learned-284124)** · *2026-06-04*
-  - After the headlines and the hype, only one world record was broken in Las Vegas, though many athletes set personal bests.
-- **[Low-dose Zoladex won’t be available in Australia from November. What might that mean for you?](https://theconversation.com/low-dose-zoladex-wont-be-available-in-australia-from-november-what-might-that-mean-for-you-284539)** · *2026-06-04*
-  - This drug is used to treat endometriosis and some breast cancers, but will soon be stripped from Australian shelves.
-- **[Victoria is attempting political donation reform again. How do the new laws stack up?](https://theconversation.com/victoria-is-attempting-political-donation-reform-again-how-do-the-new-laws-stack-up-284450)** · *2026-06-04*
-  - After the High Court struck down the state government’s previous attempt, Victoria had no donations laws at all. Here’s what the proposed new ones say.
-- **[How common is sex-selective abortion in Australia, really?](https://theconversation.com/how-common-is-sex-selective-abortion-in-australia-really-284437)** · *2026-06-04*
-  - On first glance, this might appear to be a defensible measure. But there’s little evidence these abortions are occurring.
+- **[We’ve been testing therapy like it’s a pill – and some patients are paying the price](https://theconversation.com/weve-been-testing-therapy-like-its-a-pill-and-some-patients-are-paying-the-price-282775)** · *2026-06-05*
+  - Why the NHS keeps offering you the same therapy. And why the science behind that decision is shakier than you think.
+- **[Is it really worth getting on the pension just to avoid Labor’s new capital gains tax?](https://theconversation.com/is-it-really-worth-getting-on-the-pension-just-to-avoid-labors-new-capital-gains-tax-284560)** · *2026-06-05*
+  - Yes, some people may try to qualify for a pension payment before selling an asset. But the loophole is far narrower and better defended than some headlines suggest.
+- **[Is Victoria really the ‘car theft capital’ of Australia? And if so, why?](https://theconversation.com/is-victoria-really-the-car-theft-capital-of-australia-and-if-so-why-284550)** · *2026-06-05*
+  - At a time when vehicle theft claims are falling across most of Australia, Victoria is heading in the opposite direction.
+- **[Why is Australia buying used submarines? A naval expert answers key AUKUS questions](https://theconversation.com/why-is-australia-buying-used-submarines-a-naval-expert-answers-key-aukus-questions-284543)** · *2026-06-05*
+  - Following news of Australia acquiring used Virginia-class submarines from the US, AUKUS has been in the headlines again, but how much of what you’ve heard is true?
+- **[Over half of Australia’s bookshops closed within a decade. Should the government help?](https://theconversation.com/over-half-of-australias-bookshops-closed-within-a-decade-should-the-government-help-283605)** · *2026-06-05*
+  - Australia’s bookshops are in trouble, and that’s bad news for readers. But there are ideas we could borrow from Europe to help make our bookshops healthy again.
 
 ## Nueva Sociedad
 
