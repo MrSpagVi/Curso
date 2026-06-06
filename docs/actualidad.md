@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-06-05 09:33 UTC_
+_Última actualización: 2026-06-06 08:25 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Cómo Putin se obsesionó con controlar hasta el último detalle de su imagen pública](https://www.bbc.com/mundo/articles/c3r2e1zg2ppo?at_medium=RSS&at_campaign=rss)** · *2026-06-05*
-  - De enigmático agente de la KGB a gobernante en tiempos de guerra, así es cómo Vladimir Putin ha reinventado repetidamente su imagen pública y a sí mismo.
-- **["Super El Niño": los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)](https://www.bbc.com/mundo/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
-  - Los científicos temen que los efectos combinados de El Niño y el cambio climático provocado por el ser humano puedan alterar el clima en todo el mundo.
-- **[Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país](https://www.bbc.com/mundo/articles/c1423m4m482o?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
-  - Las sanciones de EE.UU. contra el conglomerado militar Gaesa precipitan la salida de cadenas como Meliá, Iberostar y Blue Diamond, en un momento en el que el turismo cubano atraviesa una de sus peores crisis.
-- **[Muere "de tristeza" a los 56 años Marjane Satrapi, la novelista gráfica y cineasta franco-iraní de "Persépolis"](https://www.bbc.com/mundo/articles/c2020le1k7mo?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
-  - La autora e ilustradora franco-iraní alcanzó reconocimiento internacional con "Persépolis", una aclamada serie de novelas gráficas que fue adaptada al cine en una película nominada al Oscar.
-- **[El sherpa dado por muerto en el Everest que fue encontrado "milagrosamente" cuando descendía por el hielo a rastras](https://www.bbc.com/mundo/articles/c5y8yj7vj4lo?at_medium=RSS&at_campaign=rss)** · *2026-06-04*
-  - Un equipo encontró al guía arrastrándose hacia el Campamento Base seis días después de su desaparición.
+- **[Qué pasó en la guerra de Biafra, el primer desastre humanitario televisado en el mundo cuyas heridas siguen abiertas](https://www.bbc.com/mundo/articles/cx21vznvvyyo?at_medium=RSS&at_campaign=rss)** · *2026-06-06*
+  - Meji Alabi, director ganador de un Grammy, explora el papel de su abuelo nigeriano en un histórico documental sobre la Guerra Civil de Nigeria para BBC Africa Eye.
+- **[Las denuncias por la falta de protección a las mujeres en Argentina tras el brutal asesinato de Agostina Vega](https://www.bbc.com/mundo/articles/c0q2q9jypz3o?at_medium=RSS&at_campaign=rss)** · *2026-06-05*
+  - El gobierno de Javier Milei se defiende ante las críticas por la desfinanciación de programas e instituciones y por el discurso contra las políticas feministas.
+- **[Comiendo chocolate y masticando hielo: el guía dado por muerto en el Everest relató a la BBC cómo sobrevivió seis días en la montaña más alta del mundo](https://www.bbc.com/mundo/articles/cm2dn457y8no?at_medium=RSS&at_campaign=rss)** · *2026-06-06*
+  - Desde la cama del hospital donde se recupera, Dawa Sherpa aseguró que se quedó sin oxígeno, lo que le impidió seguir al resto del grupo con el que viajaba y, además, provocó que cayera en una grieta.
+- **[Marjane Satrapi falleció "de tristeza": ¿realmente se puede morir de pena por la pérdida de un ser querido?](https://www.bbc.com/mundo/articles/c4g9g98d833o?at_medium=RSS&at_campaign=rss)** · *2026-06-05*
+  - De acuerdo con familiares y allegados la novelista, directora y activista francoiraní falleció tras el dolor causado por la muerte de su marido, el también actor Mattias Ripa.
+- **[Backrooms: cómo surgió la idea de la perturbadora película que se convirtió en uno de los mayores éxitos de 2026](https://www.bbc.com/mundo/articles/c9q3qd1zy2eo?at_medium=RSS&at_campaign=rss)** · *2026-06-05*
+  - La inquietante serie de YouTube del creador Kane Parsons fue adaptada para la gran pantalla.
 
 ## El País — Internacional
 
-- **[Estados Unidos sanciona al presidente de Cuba y al entorno familiar de Raúl Castro](https://elpais.com/us/2026-06-04/estados-unidos-sanciona-al-presidente-de-cuba-y-al-entorno-familiar-de-raul-castro.html)** · *2026-06-04*
-  - El Departamento del Tesoro anuncia medidas financieras contra los parientes políticos de Miguel Díaz-Canel y contra las Fuerzas Armadas
-- **[La ofensiva israelí en el sur de Líbano: 2.900 muertos, 36.000 casas destruidas y 1,4 millones de desplazados](https://elpais.com/internacional/2026-06-05/la-ofensiva-israeli-en-el-sur-de-libano-tres-meses-de-devastacion-e-impunidad.html)** · *2026-06-05*
-  - La campaña de Israel ha desplazado a una cuarta parte de la población del país en tres meses
-- **[Cómo una marginal idea danesa para enviar migrantes fuera de Europa se convirtió en política oficial](https://elpais.com/internacional/2026-06-05/como-una-marginal-idea-danesa-para-enviar-migrantes-fuera-de-europa-se-convirtio-en-politica-oficial.html)** · *2026-06-05*
-  - La UE normaliza los centros de retorno fuera de sus fronteras pese a que los precedentes europeos acumulan obstáculos jurídicos, costes elevados y resultados inciertos
+- **[El fantasma de la intervención estadounidense recorre México, Brasil y Colombia](https://elpais.com/america/2026-06-06/el-fantasma-de-la-intervencion-estadounidense-recorre-mexico-brasil-y-colombia.html)** · *2026-06-06*
+  - Los gobiernos progresistas de la región, con procesos electorales inminentes o en marcha, abrazan las denuncias de injerencia ante la escalada de presión desde la Casa Blanca
+- **[Un dron marino causa una gran explosión en el mayor puerto de Rumania](https://elpais.com/internacional/2026-06-05/un-dron-marino-causa-una-gran-explosion-en-el-mayor-puerto-de-rumania.html)** · *2026-06-05*
+  - El Ministerio de Defensa rumano identifica el aparato como uno de los utilizados en la guerra de Ucrania. Kiev afirma que era suyo, pero acusa a la guerra electrónica rusa de estar detrás del suceso
+- **[Raúl Castro reaparece por primera vez en público tras la imputación de Estados Unidos](https://elpais.com/internacional/2026-06-06/raul-castro-reaparece-por-primera-vez-en-publico-tras-la-imputacion-de-estados-unidos.html)** · *2026-06-06*
+  - “Raúl es Cuba y a Cuba no se toca”, afirma el presidente de la isla, Miguel Díaz-Canel, en un acto de homenaje por el 95 cumpleaños del exmandatario
 - **[Solo un mierda quiere ser profesor](https://elpais.com/opinion/2026-06-03/solo-un-mierda-quiere-ser-profesor.html)** · *2026-06-03*
   - Cómo y por qué el discurso de la extrema derecha contra la educación pública se propaga y condiciona la vida y las elecciones
 - **[El poder de la prioridad europea](https://elpais.com/opinion/2026-06-03/el-poder-de-la-prioridad-europea.html)** · *2026-06-03*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[We’ve been testing therapy like it’s a pill – and some patients are paying the price](https://theconversation.com/weve-been-testing-therapy-like-its-a-pill-and-some-patients-are-paying-the-price-282775)** · *2026-06-05*
-  - Why the NHS keeps offering you the same therapy. And why the science behind that decision is shakier than you think.
-- **[Is it really worth getting on the pension just to avoid Labor’s new capital gains tax?](https://theconversation.com/is-it-really-worth-getting-on-the-pension-just-to-avoid-labors-new-capital-gains-tax-284560)** · *2026-06-05*
-  - Yes, some people may try to qualify for a pension payment before selling an asset. But the loophole is far narrower and better defended than some headlines suggest.
-- **[Is Victoria really the ‘car theft capital’ of Australia? And if so, why?](https://theconversation.com/is-victoria-really-the-car-theft-capital-of-australia-and-if-so-why-284550)** · *2026-06-05*
-  - At a time when vehicle theft claims are falling across most of Australia, Victoria is heading in the opposite direction.
-- **[Why is Australia buying used submarines? A naval expert answers key AUKUS questions](https://theconversation.com/why-is-australia-buying-used-submarines-a-naval-expert-answers-key-aukus-questions-284543)** · *2026-06-05*
-  - Following news of Australia acquiring used Virginia-class submarines from the US, AUKUS has been in the headlines again, but how much of what you’ve heard is true?
-- **[Over half of Australia’s bookshops closed within a decade. Should the government help?](https://theconversation.com/over-half-of-australias-bookshops-closed-within-a-decade-should-the-government-help-283605)** · *2026-06-05*
-  - Australia’s bookshops are in trouble, and that’s bad news for readers. But there are ideas we could borrow from Europe to help make our bookshops healthy again.
+- **[Pedro Sánchez: how a string of corruption allegations could make Spain’s Socialist party a threat to its own coalition](https://theconversation.com/pedro-sanchez-how-a-string-of-corruption-allegations-could-make-spains-socialist-party-a-threat-to-its-own-coalition-284623)** · *2026-06-05*
+  - Allegations have been made against Sánchez’ inner circle and family, though not against the prime minister himself.
+- **[Green growth claims are overstated – our study shows three reasons why](https://theconversation.com/green-growth-claims-are-overstated-our-study-shows-three-reasons-why-281467)** · *2026-06-05*
+  - Real efforts have been made, and recent lines on the chart do go in the right direction. But what if they are wobbles, not turns.
+- **[Victorians called burnout ‘overwork’ – and they cured it by holidaying in France](https://theconversation.com/victorians-called-burnout-overwork-and-they-cured-it-by-holidaying-in-france-284388)** · *2026-06-05*
+  - Victorians were acutely aware of the health problems which could come from devotion to the ‘gospel of work’.
+- **[How migration became a key to World Cup success](https://theconversation.com/how-migration-became-a-key-to-world-cup-success-284626)** · *2026-06-05*
+  - There is some evidence to suggest that national teams with more migrant players perform better on the pitch.
+- **[The Fifa men’s World Cup 2026 could be too big for its own good](https://theconversation.com/the-fifa-mens-world-cup-2026-could-be-too-big-for-its-own-good-283027)** · *2026-06-05*
+  - How recent expansion could dilute football’s most powerful brand.
 
 ## Nueva Sociedad
 
