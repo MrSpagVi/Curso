@@ -6,40 +6,49 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-06-08 10:20 UTC_
+_Última actualización: 2026-06-09 09:26 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
 
 ## Real Instituto Elcano
 
-_Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.org/feed/](https://www.realinstitutoelcano.org/feed/)_
+- **[Inmigración y mercado de trabajo en España (V): la inmigración europea](https://www.realinstitutoelcano.org/analisis/inmigracion-y-mercado-de-trabajo-en-espana-v-la-inmigracion-europea/)** · *2026-06-09*
+  - Mensajes clave Análisis Este análisis es el quinto y último de la serie que el Real Instituto Elcano ha publicado sobre la integración laboral de los inmigrantes en España. En el primero, titulado “Inmigración y mercado de trabajo en…
+- **[Putin en Pekín: la solidez estratégica de una relación desigual](https://www.realinstitutoelcano.org/analisis/putin-en-pekin-la-solidez-estrategica-de-una-relacion-desigual/)** · *2026-06-04*
+  - Mensajes clave Análisis Introducción La visita resiente de Vladímir Putin a Pekín (19 y 20 de mayo de 2026) fue presentada por Rusia y China como una nueva confirmación de la solidez de sus relaciones bilaterales. La reunión subrayó el 30º…
+- **[Ucrania, de alumno a maestro](https://www.realinstitutoelcano.org/comentarios/ucrania-de-alumno-a-maestro/)** · *2026-06-03*
+  - Si la suerte de Ucrania sólo dependiera de Vladímir Putin o de Donald Trump hace ya tiempo que la guerra habría llegado a su fin, con una estrepitosa derrota para Kyiv. Únicamente cabría elucubrar sobre si la totalidad del país habría…
+- **[¿Están cotizando los mercados financieros el riesgo geopolítico?](https://www.realinstitutoelcano.org/comentarios/estan-cotizando-los-mercados-financieros-el-riesgo-geopolitico/)** · *2026-06-02*
+  - Los shocks geopolíticos se superponen. La invasión rusa de Ucrania ha entrado ya en su quinto año; Gaza y el Líbano siguen siendo focos de inestabilidad; a comienzos de 2026, la intervención estadounidense en Venezuela reabrió el debate…
+- **[La colaboración con los proveedores de servicios en línea en la lucha contra el terrorismo: una aproximación a la Unidad Nacional para la Eliminación de Contenidos Ilícitos (UNECI)](https://www.realinstitutoelcano.org/analisis/la-colaboracion-con-los-proveedores-de-servicios-en-linea-en-la-lucha-contra-el-terrorismo-una-aproximacion-a-la-unidad-nacional-para-la-eliminacion-de-contenidos-ilicitos-uneci/)** · *2026-06-01*
+  - Mensajes clave Análisis Internet se ha convertido en una herramienta indispensable para los grupos terroristas y extremistas violentos. En la UE, la respuesta legislativa al extremismo violento y al terrorismo en las plataformas digitales…
 
 ## BBC News Mundo
 
-- **[Elecciones en Perú: Keiko Fujimori y Roberto Sánchez se disputan voto a voto el conteo de boletas en busca de la presidencia](https://www.bbc.com/mundo/articles/c3vyxggnyw9o?at_medium=RSS&at_campaign=rss)** · *2026-06-08*
-  - El recuento de votos arrancó tras una jornada en la que más de 27 millones de ciudadanos estaban llamados a las urnas para elegir al noveno presidente que tendrá el país en una década.
-- **[Irán lanza misiles contra Israel por primera vez desde el alto el fuego de abril y el ejército israelí responde con ataques contra territorio iraní](https://www.bbc.com/mundo/articles/cvg4x2z010zo?at_medium=RSS&at_campaign=rss)** · *2026-06-08*
-  - El primer ataque ocurrió luego de que Israel bombardeara Beirut, la capital de Líbano, el domingo por la mañana. Horas después, las fuerzas israelíes atacaron blancos militares en Irán, lo que motivó un segundo ataque iraní.
-- **[Decenas de muertos y heridos por un fuerte terremoto de magnitud 7,8 en el sur de Filipinas que obligó a emitir alertas de tsunami](https://www.bbc.com/mundo/articles/c0jywp0gpq1o?at_medium=RSS&at_campaign=rss)** · *2026-06-08*
-  - El Sistema de Alerta de Tsunamis de EE.UU. emitió una alerta de tsunami tras el sismo, que se produjo a una profundidad de 35 km.
-- **[Bishkek, la moderna capital de Kirguistán que está demoliendo su imponente arquitectura soviética](https://www.bbc.com/mundo/articles/c8r81xkj85po?at_medium=RSS&at_campaign=rss)** · *2026-06-07*
-  - "Las ciudades que se respetan a sí mismas no derriban los monumentos arquitectónicos", dice una experta ante la pérdida de edificios emblemáticos de la era soviética.
-- **["Las señoritas de Avignon", la obra más polémica de Picasso que sigue generando debate un siglo después](https://www.bbc.com/mundo/articles/cp9p0jdy9lko?at_medium=RSS&at_campaign=rss)** · *2026-06-07*
-  - La provocadora obra “Las señoritas de Aviñón” ha sido objeto de desprecio y admiración. Ahora, un siglo después de que Picasso la creó, el aclamado artista estadounidense Henry Taylor reinterpretó y cuestionó la obra y su versión está…
+- **[Cómo los recientes ataques de Irán contra Israel indican que Teherán se siente cada vez más fuerte](https://www.bbc.com/mundo/articles/cj4gdwv4lwdo?at_medium=RSS&at_campaign=rss)** · *2026-06-09*
+  - La decisión de Irán de poner en peligro las negociaciones de paz podría reflejar cómo ven sus líderes la situación.
+- **[Por qué la creciente popularidad de los banquetes masivos en Francia despierta recelos en la izquierda del país](https://www.bbc.com/mundo/articles/c39yk7nwllno?at_medium=RSS&at_campaign=rss)** · *2026-06-09*
+  - El fenómeno de los banquetes organizados por Le Canon Français se ha convertido en un tema político candente.
+- **[Elecciones en Perú: Roberto Sánchez supera a Keiko Fujimori en el reñido recuento de votos para la presidencia](https://www.bbc.com/mundo/articles/c3vyxggnyw9o?at_medium=RSS&at_campaign=rss)** · *2026-06-09*
+  - El recuento de las elecciones peruanas del domingo está en su recta final con el candidato de izquierda Roberto Sánchez ligeramente por encima de Fujimori.
+- **["Muchos espectadores no aceptarían un James Bond negro": el actor Idris Elba pide que el agente secreto no sea "woke"](https://www.bbc.com/mundo/articles/c36y14w554jo?at_medium=RSS&at_campaign=rss)** · *2026-06-08*
+  - La estrella británica cree que algunas audiencias no aceptarían que un actor negro interpretara al agente 007.
+- **[Cosmeticorexia: cómo las niñas están cayendo en la peligrosa obsesión de tener una piel perfecta](https://www.bbc.com/mundo/articles/cp8rle1311zo?at_medium=RSS&at_campaign=rss)** · *2026-06-09*
+  - El mercado de productos para el cuidado de la piel infantil está en auge impulsado por las redes sociales. Expertos temen por el impacto a largo plazo en las niñas.
 
 ## El País — Internacional
 
-- **[Israel bombardea Irán aunque Trump pidió a Netanyahu no hacerlo](https://elpais.com/internacional/2026-06-08/israel-bombardea-iran-aunque-trump-pidio-a-netanyahu-no-hacerlo.html)** · *2026-06-08*
-  - Los dos países se enzarzan en un fuego cruzado por vez primera desde el inicio del alto el fuego en abril. El presidente de EE UU insiste: “Deben detener inmediatamente los disparos”
-- **[Irán dispara misiles contra Israel por primera vez desde el alto el fuego, tras bombardear Netanyahu los suburbios de Beirut](https://elpais.com/internacional/2026-06-07/israel-bombardea-los-suburbios-de-beirut-pese-a-que-trump-le-exigio-no-hacerlo.html)** · *2026-06-07*
-  - El sistema de defensa israelí ha interceptado una decena de proyectiles dirigidos contra el norte del país, según el ejército. Trump afirma que pedirá al primer ministro que no tome represalias
-- **[Francia lanza la carrera de las presidenciales con la polarización disparada](https://elpais.com/internacional/2026-06-08/francia-lanza-la-carrera-de-las-presidenciales-con-la-polarizacion-disparada.html)** · *2026-06-08*
-  - Mélenchon da su primer mitin en Saint-Denis como símbolo de su lucha contra una extrema derecha que lidera los sondeos para las elecciones de 2027
+- **[La guerra en Irán distancia a Trump y Netanyahu tras años entre el insulto y el halago](https://elpais.com/internacional/2026-06-09/la-guerra-en-iran-distancia-a-trump-y-netanyahu-tras-anos-entre-el-insulto-y-el-halago.html)** · *2026-06-09*
+  - El empantanamiento de la campaña bélica incrementa las diferencias estratégicas entre ambos aliados, exhibidas públicamente con el bombardeo de Israel en contra del criterio del presidente de EE UU
+- **[Israel e Irán aseguran haber detenido los ataques cruzados](https://elpais.com/internacional/2026-06-08/israel-bombardea-iran-aunque-trump-pidio-a-netanyahu-no-hacerlo.html)** · *2026-06-08*
+  - Los dos países intercambian ataques, por primera vez en los dos meses de alto el fuego, hasta que Trump les instó a parar “inmediatamente”. “Nuestra lucha con Irán y Hezbolá aún no ha terminado”, advierte Netanyahu
+- **[La guerra permanente de los suburbios de Beirut: “Me iría a otro planeta si eso me diera paz”](https://elpais.com/internacional/2026-06-09/la-guerra-permanente-de-los-suburbios-de-beirut-me-iria-a-otro-planeta-si-eso-me-diera-paz.html)** · *2026-06-09*
+  - Algunos habitantes de Dahiye esperan que los ataques de Irán frenen la ofensiva israelí, mientras otros entran y salen de sus barrios cuando vuelven los bombardeos
+- **[Venezuela, país portátil](https://elpais.com/opinion/2026-06-09/venezuela-pais-portatil.html)** · *2026-06-09*
+  - Cuando el país ocupa titulares por su desgraciada historia política, vale la pena volver a la novela de Adriano González León
 - **[Trump pone la música, Europa la letra](https://elpais.com/internacional/2026-06-07/trump-pone-la-musica-europa-la-letra.html)** · *2026-06-07*
   - Los centros de deportación como los que Bruselas ha autorizado son Guantánamos, campos de concentración donde no existen los derechos
-- **[El nuevo e inesperado mapa de Oriente Próximo](https://elpais.com/internacional/2026-06-07/el-nuevo-e-inesperado-mapa-de-oriente-proximo.html)** · *2026-06-07*
-  - Pese a las victorias militares israelíes, la guerra está reforzando la posición de Teherán y alterando el equilibrio de poder en la región
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +56,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Two decades of research show Indonesia’s coral reefs are heat-tolerant — but only up to a point](https://theconversation.com/two-decades-of-research-show-indonesias-coral-reefs-are-heat-tolerant-but-only-up-to-a-point-281134)** · *2026-06-08*
-  - While many Indonesian reefs have remained surprisingly stable despite decades of ocean warming, this resilience has its limits.
-- **[Masters of the Universe shows how companies learned to monetise childhood forever](https://theconversation.com/masters-of-the-universe-shows-how-companies-learned-to-monetise-childhood-forever-284561)** · *2026-06-08*
-  - In some ways, the new film has been four decades in the making. And it all comes down to Mattel’s savvy franchising strategy, starting in the 1980s.
-- **[Seahorses and shark fins are illegally trafficked. An AI tool could help stop this crime](https://theconversation.com/seahorses-and-shark-fins-are-illegally-trafficked-an-ai-tool-could-help-stop-this-crime-284448)** · *2026-06-07*
-  - Many marine creatures are among the 4,000 species affected by wildlife trafficking.
-- **[Why the tax NZ never wanted to talk about is back on the political agenda in 2026](https://theconversation.com/why-the-tax-nz-never-wanted-to-talk-about-is-back-on-the-political-agenda-in-2026-284542)** · *2026-06-07*
-  - Labour’s proposed capital gains tax has revived a debate long deemed politically toxic. But growing pressure on NZ’s tax system is making it harder to avoid.
-- **[Richard Scolyer leaves a unique legacy of pioneering brain cancer research](https://theconversation.com/richard-scolyer-leaves-a-unique-legacy-of-pioneering-brain-cancer-research-255103)** · *2026-06-07*
-  - Scolyer captured the world’s attention when he volunteered for a world-first experimental treatment for brain cancer. He died on Sunday night, aged 59.
+- **[Can AI help coastal cities prepare for rising seas and extreme events?](https://theconversation.com/can-ai-help-coastal-cities-prepare-for-rising-seas-and-extreme-events-283726)** · *2026-06-09*
+  - Extreme storm surges can be predicted much faster with high accuracy thanks to a new AI model that helps researchers and practitioners improve coastal flood risk assessment and adaptation planning.
+- **[World’s first AI-designed vaccine explained](https://theconversation.com/worlds-first-ai-designed-vaccine-explained-284668)** · *2026-06-09*
+  - A vaccine designed entirely by AI has been tested in people for the first time.
+- **[View from The Hill: Tony Abbott to tour the country, trying to energise Liberals](https://theconversation.com/view-from-the-hill-tony-abbott-to-tour-the-country-trying-to-energise-liberals-284303)** · *2026-06-09*
+  - Tony Abbott, the Liberals’ new activist federal president, is preparing to convene meetings around the country in an effort to drum up membership and support for the struggling party. After the Newspoll…
+- **[Why do my fingers go wrinkly in the bath?](https://theconversation.com/why-do-my-fingers-go-wrinkly-in-the-bath-284750)** · *2026-06-09*
+  - Listen to the The Conversation’s Curious Kids podcast to hear evolutionary biologist Tom Smulders explain.
+- **[Bangarra’s Sheltering is a powerful showcase of First Nations dance and creativity](https://theconversation.com/bangarras-sheltering-is-a-powerful-showcase-of-first-nations-dance-and-creativity-284358)** · *2026-06-09*
+  - Through Sheltering, Bangarra Dance Theatre proves one of its greatest strengths is in nurturing talented new voices.
 
 ## Nueva Sociedad
 
