@@ -1,6 +1,7 @@
-# Deploy del sitio (carpeta web/, generada por scratch/build_dashboard.py)
-# a GitHub Pages en cada push a main. El sitio se commitea ya construido,
-# asi que el workflow solo publica el artefacto estatico.
+# Publica el sitio (carpeta web/, generada por scratch/build_dashboard.py) en la
+# rama gh-pages, que es la fuente configurada de GitHub Pages en este repo
+# ("Deploy from a branch"). El sitio se commitea ya construido, asi que el
+# workflow solo copia web/ a gh-pages con force-push.
 name: Deploy to GitHub Pages
 
 on:
@@ -9,9 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
@@ -20,20 +19,19 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Configure Pages
-        uses: actions/configure-pages@v4
-        with:
-          enablement: true
-      - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: web
-      - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v4
+
+      - name: Publish web/ to gh-pages branch
+        run: |
+          cd web
+          touch .nojekyll
+          git init -b gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "deploy: ${GITHUB_SHA}"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
