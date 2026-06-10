@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "Sobre la libertad (1859) condensa el problema central del liberalismo moderno: dónde termina la autoridad legítima de la sociedad y dónde empieza la soberanía del individuo sobre sí mismo. Mill formula el llamado principio del daño (harm principle): el único fin que autoriza a la humanidad, individual o colectivamente, a interferir con la libertad de acción de cualquiera de sus miembros es la autoprotección, es decir, evitar el daño a terceros. De ahí se deriva su distinción entre acciones autorreferentes (self-regarding), que solo conciernen al agente y deben quedar exentas de coacción, y acciones que afectan a otros (other-regarding), únicas susceptibles de regulación. Sobre esa base Mill defiende la libertad de conciencia y de expresión con un argumento epistémico: silenciar una opinión, aun falsa, priva a la humanidad de la oportunidad de cambiar el error por la verdad o de revitalizar la verdad confrontándola con el error. El blanco político del ensayo no es solo el Estado, sino la tiranía de la mayoria: la presión social uniformadora de la opinión pública que asfixia la individualidad sin necesidad de ley. El debate de post-lectura se organiza en torno a cuatro fracturas: (1) si el principio del daño es coherente y aplicable, dado que casi ninguna conducta es puramente autorreferente; (2) si la defensa de la libertad es compatible con el utilitarismo que Mill profesa; (3) si la ley puede y debe imponer una moral compartida (debate Hart-Devlin); y (4) si el universalismo liberal de Mill encubre exclusiones, sea de las mujeres o de los pueblos colonizados a quienes negó el principio mismo de libertad.",
+    "supporters": [
+      {
+        "school": "Liberalismo clasico y libertad negativa (Isaiah Berlin, Wilhelm von Humboldt)",
+        "view": "Berlin, en Dos conceptos de libertad (1958), inscribe a Mill como exponente cumbre de la libertad negativa: la ausencia de obstaculos e interferencias en una esfera privada inviolable. Para Berlin, la fuerza del argumento milliano reside en valorar la libertad como condicion del desarrollo del individuo y como defensa frente al peligro autoritario de las concepciones de libertad positiva, que pueden justificar la coaccion en nombre del yo verdadero del coaccionado. Mill, junto a Humboldt, compara el florecimiento individual con el de una planta que debe crecer segun su propia logica interna, fundamento de la diversidad y la creatividad sociales."
+      },
+      {
+        "school": "Liberalismo perfeccionista y la lectura utilitarista madura (Stanford Encyclopedia of Philosophy, Mill's Moral and Political Philosophy)",
+        "view": "Defensores de la coherencia del proyecto milliano sostienen que la libertad no contradice su utilitarismo, sino que lo realiza: Mill funda los derechos liberales en la utilidad en su sentido mas amplio, basada en los intereses permanentes del hombre como ser progresivo. El ejercicio de las capacidades superiores constituye el florecimiento humano, de modo que la libertad de expresion y de estilo de vida maximizan el bienestar agregado a largo plazo. Esta lectura perfeccionista reconcilia el principio de utilidad con la prioridad practicamente absoluta que Mill concede a las libertades basicas."
+      },
+      {
+        "school": "Defensa epistemica de la libertad de expresion (argumento de la verdad / mercado de las ideas)",
+        "view": "La tradicion que va de Mill a la doctrina del marketplace of ideas (recogida y matizada en la entrada Freedom of Speech de la SEP) defiende que la discusion abierta es el mejor mecanismo disponible para acercarse a la verdad: incluso las opiniones falsas tienen valor porque obligan a comprender y revitalizar las verdaderas, evitando que se vuelvan dogma muerto. Mill admite limites: la incitacion inminente sin tiempo de replica (el ejemplo del comerciante de grano ante una turba) puede castigarse, lo que muestra una version calibrada y no ingenua del principio."
+      },
+      {
+        "school": "Antipaternalismo liberal y el principio del daño como limite del derecho penal (H. L. A. Hart, Joel Feinberg)",
+        "view": "Hart, en Law, Liberty and Morality (1963), retoma el principio del daño contra el moralismo juridico, sosteniendo que el Estado democratico no esta legitimado para imponer estandares morales por si mismos. Feinberg, en los cuatro volumenes de The Moral Limits of the Criminal Law, ofrece la sistematizacion contemporanea mas influyente: conserva el nucleo milliano del daño como menoscabo de intereses (setback to interests) y rechaza el paternalismo duro, aunque añade un principio de ofensa y exige que el daño penalizable provenga de conducta moralmente indefendible."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Conservadurismo y moralismo juridico victoriano (James Fitzjames Stephen)",
+        "view": "Stephen, en Liberty, Equality, Fraternity (1873), ataca de raiz la distincion entre lo autorreferente y lo que afecta a otros: ningun hombre es una isla y las sociedades organizadas no pueden identificar conductas verdaderamente inocuas, pues toda accion tiene consecuencias sociales. De ahi infiere que la coaccion legal y la imposicion de una moral comun son legitimas e inevitables, y que el optimismo milliano sobre la libre discusion subestima la necesidad de autoridad, costumbre y religion para sostener el orden."
+      },
+      {
+        "school": "Moralismo juridico y el debate Hart-Devlin (Patrick Devlin)",
+        "view": "Devlin, en The Enforcement of Morals (1965), responde al Informe Wolfenden y sostiene contra Mill y Hart que una moral compartida es parte del tejido que mantiene unida a la sociedad, de modo que su transgresion amenaza a la colectividad como la traicion. Cuando una conducta alcanza el limite de la intolerancia, la indignacion y el asco del hombre razonable, la ley puede prohibirla aunque no cause daño directo a terceros. Es la formulacion clasica del legal moralism frente al principio del daño."
+      },
+      {
+        "school": "Critica comunitarista del yo liberal (Michael Sandel, Charles Taylor, Alasdair MacIntyre, Michael Walzer)",
+        "view": "Los comunitaristas de los años ochenta cuestionan el individualismo que subyace a la celebracion milliana de la individualidad y la autodeterminacion. Para Sandel y Taylor, el sujeto liberal es un yo desvinculado e irrealista: nuestra identidad esta constituida por lazos comunitarios (familia, tradicion, lengua) que no podemos dejar de lado sin un costo enorme. La neutralidad liberal sobre el bien encubre que la propia libertad de eleccion es un valor particular, no universal, y erosiona los bienes comunes que dan sentido a la vida moral."
+      },
+      {
+        "school": "Critica feminista del dualismo publico/privado (Carole Pateman)",
+        "view": "La teoria feminista, con Pateman a la cabeza, denuncia que la division entre esfera publica y esfera privada, presupuesta por el liberalismo milliano, no es neutral sino la cara patriarcal del liberalismo: al blindar lo privado como dominio autorreferente exento de regulacion, naturaliza la subordinacion de las mujeres dentro de la familia y la sustrae al escrutinio politico. Aunque Mill defendio la igualdad en The Subjection of Women, su esquema de libertad hereda y mantiene un dualismo publico/privado generizado que la critica feminista considera incoherente con su propio igualitarismo."
+      },
+      {
+        "school": "Critica poscolonial: el liberalismo imperial (Uday Singh Mehta, entrada Colonialism de la SEP)",
+        "view": "Los criticos del eurocentrismo señalan que Mill suspende explicitamente el principio de libertad para los pueblos barbaros: el principio del daño rige solo para seres humanos en la madurez de sus facultades, no para sociedades atrasadas, sobre las que el despotismo es un modo legitimo de gobierno si su fin es su mejora. Mehta, en Liberalism and Empire (1999), muestra que el imperialismo liberal nace de la tension entre la capacidad universal de autogobierno y una filosofia de la historia escalonada que pospone esa capacidad a estadios civilizatorios avanzados, permitiendo reconciliar el universalismo con la dominacion colonial. Mill, funcionario de la Compañia de las Indias Orientales, encarna esa contradiccion."
+      }
+    ],
+    "contrasts": "El eje del debate es la viabilidad misma de la distincion autorreferente/que afecta a otros. Mill la necesita para trazar el limite de la coaccion; Stephen y Devlin la atacan sosteniendo que toda conducta tiene efectos sociales y que la sociedad tiene derecho a defender su moral comun, mientras Hart y Feinberg la rescatan depurandola: el daño relevante es el menoscabo de intereses ajenos, no la mera ofensa ni la inmoralidad. Un segundo contraste enfrenta la lectura de la libertad como libertad negativa (Berlin) con la sospecha comunitarista de que el sujeto libre y autodeterminado de Mill es una ficcion atomista que ignora los lazos constitutivos de la identidad. Un tercer contraste es interno al propio Mill: si la libertad descansa en la utilidad, los criticos preguntan por que no podria sacrificarse cuando el calculo agregado lo aconseje; los defensores responden que la utilidad en sentido amplio, anclada en el progreso, blinda las libertades basicas. El contraste mas corrosivo es el poscolonial y feminista: ambos muestran que el universalismo de Sobre la libertad opera con exclusiones internas (los barbaros, lo domestico-privado), de modo que el alcance real del principio del daño depende de quien cuenta como sujeto pleno de libertad. El propio Mill anticipa parte del problema al situar la amenaza principal no en el Estado sino en la tirania de la mayoria, la presion social uniformadora; pero sus criticos discuten si la solucion liberal protege de verdad a los disidentes o si solo desplaza la coaccion del derecho a la costumbre.",
+    "sources": [
+      {
+        "label": "Mill's Moral and Political Philosophy (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/mill-moral-political/"
+      },
+      {
+        "label": "The Limits of Law (Stanford Encyclopedia of Philosophy) - principio del daño, Hart-Devlin, Feinberg, Stephen",
+        "url": "https://plato.stanford.edu/entries/law-limits/"
+      },
+      {
+        "label": "Positive and Negative Liberty (Stanford Encyclopedia of Philosophy) - Isaiah Berlin",
+        "url": "https://plato.stanford.edu/entries/liberty-positive-negative/"
+      },
+      {
+        "label": "Communitarianism (Stanford Encyclopedia of Philosophy) - Sandel, Taylor, MacIntyre, Walzer",
+        "url": "https://plato.stanford.edu/entries/communitarianism/"
+      },
+      {
+        "label": "Colonialism (Stanford Encyclopedia of Philosophy) - Mill, imperialismo liberal, Uday Mehta",
+        "url": "https://plato.stanford.edu/entries/colonialism/"
+      },
+      {
+        "label": "John Stuart Mill (1806-1873) (Internet Encyclopedia of Philosophy)",
+        "url": "https://iep.utm.edu/milljs/"
+      }
+    ]
+  },
+  "socratic": "Quiero que actues como un interlocutor socratico sobre Sobre la libertad de John Stuart Mill. Reglas: hace una sola pregunta por turno y espera mi respuesta antes de seguir. Nunca me des tu respuesta ni resuelvas el problema por mi. Despues de cada respuesta mia, exigime las razones que la sostienen y, si flaquean, oponeme una objecion real y nombrada de la tradicion (James Fitzjames Stephen en Liberty, Equality, Fraternity; Patrick Devlin en el debate con H. L. A. Hart; los comunitaristas Sandel y Taylor; la critica feminista de Carole Pateman al dualismo publico/privado; la critica poscolonial de Uday Mehta sobre el liberalismo imperial). Si me trabo, dame una pista breve, no la solucion. Empeza ahora con esta pregunta concreta y nada mas: segun el principio del daño de Mill, la sociedad solo puede coaccionarme para impedir que dañe a otros; pensa en una accion tuya que parezca puramente autorreferente y decime: realmente no afecta a nadie mas, o podria un critico como Fitzjames Stephen mostrarte que ningun hombre es una isla?"
+}

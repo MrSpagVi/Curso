@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "El pensamiento politico medieval parece un puente entre Aristoteles y Maquiavelo, pero sus dos tesis centrales siguen siendo campo de batalla. La primera es la jerarquia de leyes de Aquino y su corolario: una ley humana que contradice la ley natural 'es mas violencia que ley'. Esa formula reaparecio en Nuremberg, en la carta de Martin Luther King desde la carcel de Birmingham y en toda la fundamentacion de los derechos humanos, y enfrenta desde hace decadas al iusnaturalismo renovado de John Finnis con el positivismo juridico de Hart, para quien confundir derecho y moral es un error conceptual con consecuencias practicas peligrosas. La segunda tesis es la agustiniana: la distincion entre la ciudad de Dios y la ciudad terrena desacraliza para siempre al poder politico. Sobre ella se libra el debate de la secularizacion: la radical orthodoxy de Milbank sostiene que la razon secular moderna es una teologia degradada que solo Agustin permite diagnosticar, mientras Blumenberg defiende la legitimidad propia de la modernidad contra todo 'teorema de secularizacion', y Arendt, que escribio su tesis doctoral sobre Agustin, detecta en la caritas cristiana una negacion del mundo compartido que vuelve antipolitico al cristianismo. El debate sigue vivo porque la pregunta de fondo no se cerro: necesitan los derechos y la autoridad politica un ancla trascendente, o pueden sostenerse solos?",
+    "supporters": [
+      {
+        "school": "John Finnis y la new natural law",
+        "view": "Finnis, en Natural Law and Natural Rights (1980) y en Aquinas: Moral, Political, and Legal Theory (1998), reconstruyo la teoria tomista de la ley natural en terminos aceptables para la filosofia analitica: existen bienes humanos basicos (vida, conocimiento, amistad, juego, razonabilidad practica) que la razon capta sin necesidad de premisas teologicas, y la ley humana es razonable solo cuando los sirve. Junto a Germain Grisez y Joseph Boyle formo la escuela de la new natural law, influyente en filosofia del derecho y en jurisprudencia constitucional. Su lectura del 'lex iniusta non est lex' es sofisticada: la ley injusta sigue siendo ley en sentido tecnico, pero es un caso periferico y degenerado del concepto, que no obliga en conciencia. Finnis es ademas autor de la entrada 'Natural Law Theories' de la Stanford Encyclopedia of Philosophy, señal de cuan central sigue siendo esta posicion."
+      },
+      {
+        "school": "La radical orthodoxy de John Milbank",
+        "view": "Milbank, en Theology and Social Theory: Beyond Secular Reason (1990) y en el volumen colectivo Radical Orthodoxy (1999, con Catherine Pickstock y Graham Ward), sostiene que 'lo secular' no es un terreno neutral que quedo al retirarse la religion, sino una construccion teologica alternativa: una ontologia de la violencia (de Hobbes a Weber) que presupone el conflicto como realidad ultima. Contra ella, Agustin ofrece en La ciudad de Dios una ontologia de la paz: la armonia, no el conflicto, es lo originario, y la ciudad terrena es privacion, no naturaleza. Para Milbank, las ciencias sociales seculares son 'herejias' teologicas que no pueden fundarse a si mismas, y solo la teologia agustiniana puede narrar la politica sin absolutizarla. Es la defensa contemporanea mas radical de la vigencia del paradigma medieval."
+      },
+      {
+        "school": "El tomismo politico del siglo XX (Maritain y MacIntyre)",
+        "view": "Jacques Maritain, en El hombre y el Estado (1951) y Los derechos del hombre y la ley natural (1942), tradujo la ley natural tomista al lenguaje de la democracia constitucional y los derechos humanos; participo activamente en los debates de la UNESCO en torno a la Declaracion Universal de 1948, mostrando que personas de tradiciones opuestas podian converger en derechos practicos aunque disintieran en fundamentos. Alasdair MacIntyre, en After Virtue (1981) y Whose Justice? Which Rationality? (1988), llego al tomismo por otra via: tras diagnosticar el fracaso del proyecto ilustrado de fundar la moral, concluyo que la tradicion aristotelico-tomista es la mas capaz de sostener una racionalidad practica coherente, porque integra virtudes, bienes y comunidad en una teleologia que el liberalismo perdio."
+      }
+    ],
+    "critics": [
+      {
+        "school": "El positivismo juridico de H. L. A. Hart",
+        "view": "Hart, en The Concept of Law (1961) y en su debate con Lon Fuller (Harvard Law Review, 1958), defiende la tesis de la separacion conceptual entre derecho y moral: que una norma sea juridicamente valida es una cuestion de fuentes y reglas de reconocimiento, no de justicia. Contra el 'lex iniusta non est lex' tomista argumenta que negar el caracter de ley a las normas inicuas confunde el analisis y debilita la critica: lo honesto es decir 'esto es derecho, y es demasiado inicuo para ser obedecido'. La formula iusnaturalista, ademas, es peligrosa en ambas direcciones: puede alimentar tanto la desobediencia anarquica como la complacencia reaccionaria, segun quien se arrogue la definicion de lo 'natural'. La disputa Hart-Finnis sigue estructurando la filosofia del derecho contemporanea."
+      },
+      {
+        "school": "Hans Blumenberg y la legitimidad de la modernidad",
+        "view": "Blumenberg, en La legitimidad de la Edad Moderna (1966; trad. inglesa MIT Press, 1983), ataca el 'teorema de la secularizacion' de Karl Lowith y Carl Schmitt, segun el cual las categorias politicas modernas serian conceptos teologicos secularizados y por tanto deudas impagas con el cristianismo agustiniano. Para Blumenberg, la modernidad no es cristianismo disfrazado: es 'autoafirmacion humana' legitima, surgida como respuesta al absolutismo teologico tardomedieval que habia vuelto al mundo inhabitable para la razon. Los conceptos modernos 'reocupan' posiciones que la teologia dejo vacantes, pero no heredan su sustancia. Contra Milbank avant la lettre, Blumenberg niega que la razon secular necesite a Agustin para justificarse: la ciencia, el progreso y el Estado moderno se sostienen sobre su propio rendimiento."
+      },
+      {
+        "school": "Hannah Arendt y la sospecha sobre la caritas",
+        "view": "Arendt escribio su tesis doctoral sobre Agustin (Der Liebesbegriff bei Augustin, 1929; ed. inglesa Love and Saint Augustine, University of Chicago Press, 1996, ed. Scott y Stark). Alli detecta una tension que la acompaño toda la vida: la caritas agustiniana manda amar al projimo 'en Dios', no por si mismo ni por el mundo que compartimos; el creyente se vuelve peregrino para quien el mundo es desierto de transito. Esa 'ausencia de mundo' (worldlessness) hace al cristianismo estructuralmente antipolitico: la politica exige amor al mundo (amor mundi) y pluralidad, no la comunidad de los que se aman en un mas alla comun. En la misma linea secular-liberal, Mark Lilla defendio en The Stillborn God (2007) la 'gran separacion' moderna entre teologia politica y politica como una conquista fragil que no conviene revertir."
+      }
+    ],
+    "contrasts": "El nudo es doble. Primero, la ley injusta: para Finnis y el tomismo, sin un patron normativo superior al derecho positivo no hay forma de decir que Nuremberg fue justicia y no venganza retroactiva; para Hart, mezclar derecho y moral nubla el juicio y entrega la palabra 'natural' a quien tenga poder para definirla. Segundo, la secularizacion: para Milbank y los agustinianos, el Estado moderno vive de un capital teologico que niega, y desacralizar el poder es justamente el legado de Agustin; para Blumenberg y Lilla, la modernidad se legitima sola y reabrirle la puerta a la teologia politica es un riesgo, no una cura. Lo que esta en juego es si los derechos humanos modernos son ley natural con otro nombre o un logro pos-metafisico que ya no necesita ese andamiaje.",
+    "sources": [
+      {
+        "label": "Aquinas' Moral, Political, and Legal Philosophy (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/aquinas-moral-political/"
+      },
+      {
+        "label": "Natural Law Theories, por John Finnis (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/natural-law-theories/"
+      },
+      {
+        "label": "Saint Augustine (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/augustine/"
+      },
+      {
+        "label": "Milbank, Theology and Social Theory: Beyond Secular Reason (Wiley-Blackwell)",
+        "url": "https://www.wiley.com/en-us/Theology+and+Social+Theory:+Beyond+Secular+Reason,+2nd+Edition-p-9781405136839"
+      },
+      {
+        "label": "Arendt, Love and Saint Augustine (University of Chicago Press)",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/L/bo3619601.html"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre el pensamiento politico de Agustin y Tomas de Aquino. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta. Cuando yo afirme algo, pedime razones y el pasaje del texto en que me apoyo (La ciudad de Dios IV, XIV y XIX; Suma Teologica I-II, cuestiones 90-97). Presenta objeciones reales del debate: el positivismo de Hart contra el 'lex iniusta non est lex', la defensa de Blumenberg de la legitimidad de la modernidad contra el teorema de la secularizacion, la sospecha de Arendt de que la caritas agustiniana es antipolitica, y la replica iusnaturalista de Finnis. Si me trabo, dame una pista como pregunta mas concreta. Empeza con esta pregunta: si una ley humana injusta 'es mas violencia que ley', quien decide que es injusta, y que impide que esa decision sea tambien pura violencia?"
+}

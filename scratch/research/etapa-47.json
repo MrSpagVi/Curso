@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "El intercambio entre Nancy Fraser y Axel Honneth, recogido en Redistribucion o reconocimiento? Un debate politico-filosofico (2003), formaliza una de las disputas centrales de la teoria critica contemporanea: como articular las injusticias de distribucion (clase, explotacion, desigualdad economica) con las de reconocimiento (estatus, cultura, identidad, menosprecio). El nucleo es metodologico y normativo a la vez. Fraser propone un dualismo perspectivista: redistribucion y reconocimiento (y mas tarde representacion) son dimensiones irreductibles de la justicia que deben evaluarse juntas bajo un unico principio normativo, la paridad participativa, que exige que todos puedan participar como pares en la vida social. Honneth defiende un monismo: todas las injusticias, incluida la economica, se fundan en ultima instancia en relaciones daniadas de reconocimiento, de modo que la teoria del reconocimiento de raiz hegeliana puede absorber la redistribucion como una de sus formas. Detras del tecnicismo late una preocupacion politica que la propia Fraser planteo ya en 1995: el riesgo de un giro cultural en que las luchas por la identidad eclipsen y desplacen las demandas igualitarias de redistribucion, justo cuando la desigualdad material crece.",
+    "supporters": [
+      {
+        "school": "Feminismo socialista y dualismo perspectivista (Nancy Fraser)",
+        "view": "Fraser defiende que la justicia exige a la vez redistribucion y reconocimiento sin reducir uno al otro. Frente al monismo de Honneth, sostiene que rasgos sistemicos del capitalismo (deslocalizar fabricas para maximizar beneficios, dinamicas de mercado) generan injusticias economicas que ningun cambio de actitudes de reconocimiento basta para reparar. Su criterio unificador es la paridad participativa: una norma deontologica, no una teoria de la autorrealizacion, que evalua tanto los arreglos economicos como los ordenes de estatus por si permiten a todos participar como pares."
+      },
+      {
+        "school": "Teoria critica del reconocimiento de la Escuela de Frankfurt (Axel Honneth)",
+        "view": "Honneth, heredero de la teoria hegeliana del reconocimiento y director del Institut fur Sozialforschung, defiende el monismo: la redistribucion es una subvariedad de la lucha por el reconocimiento. La indignacion ante la injusticia economica, argumenta, se explica porque la persona siente vulnerada su identidad y su estatus; por eso reinterpreta el ideal socialista de la redistribucion en clave de reconocimiento, distinguiendo la estima social (segun el logro) del respeto juridico (igual para todo ciudadano). Para el, fundar la critica en relaciones de reconocimiento permite captar las patologias sociales que la sola distribucion no ve."
+      },
+      {
+        "school": "Tercera generacion de la teoria critica de Frankfurt",
+        "view": "La corriente de teoria critica posterior a Habermas, descrita por la Internet Encyclopedia of Philosophy, respalda el giro al reconocimiento (Anerkennung) inaugurado por Honneth como paradigma fertil para la teoria social y politica. Le da la razon al ver en la categoria de reconocimiento un fundamento intersubjetivo de la justicia y una via para diagnosticar las patologias sociales como menosprecios, ampliando la critica mas alla del modelo comunicativo habermasiano y del puro analisis economico."
+      },
+      {
+        "school": "Critica del neoliberalismo progresista (Fraser tardia)",
+        "view": "En textos posteriores como De neoliberalismo progresista a Trump y mas alla (2017), Fraser usa el par redistribucion-reconocimiento para diagnosticar el presente: un bloque hegemonico que ato una economia financiarizada a una politica de reconocimiento (diversidad, meritocracia, empoderamiento) desligada de la redistribucion. Defiende que solo reunir una politica igualitaria de distribucion con un reconocimiento inclusivo y sensible a la clase permite construir un bloque contrahegemonico, confirmando el riesgo del reconocimiento sin redistribucion."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica monista al dualismo (Axel Honneth contra Fraser)",
+        "view": "Honneth objeta que el dualismo de Fraser es una falsa dicotomia que deja la economia fuera del alcance normativo del reconocimiento. Sostiene que separar una esfera economica regida por una logica sistemica impersonal de una esfera cultural del estatus reproduce sin querer la naturalizacion capitalista del mercado; para el, incluso las relaciones economicas estan moralmente estructuradas por ordenes de reconocimiento, de modo que el supuesto segundo principio (la distribucion) es derivado y no autonomo."
+      },
+      {
+        "school": "Critica de las categorias inmanejables (Iris Marion Young)",
+        "view": "Young, en Unruly Categories (New Left Review, 1997), critica el modelo de Fraser como una dual systems theory que separa artificialmente economia politica y cultura. Argumenta que tergiversa a los movimientos feministas, antirracistas y de liberacion gay al presentarlos como demandantes de reconocimiento como fin en si, cuando entienden el reconocimiento cultural como medio para la justicia economica y politica. Sostiene que los dilemas que Fraser detecta son artefactos de su esquema abstracto, no problemas reales de estrategia, y que su polarizacion mina la construccion de coaliciones."
+      },
+      {
+        "school": "Critica marxista al desplazamiento de la economia politica",
+        "view": "Desde el marxismo se objeta que tanto Fraser como Honneth conceden demasiado al paradigma del reconocimiento y abandonan el nucleo de la economia politica y la critica de la explotacion. La preocupacion, que la propia Fraser formulo en 1995, es el transito de la redistribucion al reconocimiento en una era postsocialista: la lucha por el reconocimiento se vuelve la forma paradigmatica del conflicto y la identidad de grupo desplaza al interes de clase, despolitizando la desigualdad material justo cuando esta se agrava."
+      },
+      {
+        "school": "Critica a la psicologizacion del dano (objecion al monismo de Honneth)",
+        "view": "Una linea de criticos objeta que el monismo de Honneth psicologiza y moraliza la injusticia al reducirla a experiencias de menosprecio y expectativas frustradas de reconocimiento. Reprochan que anclar la critica en sentimientos de identidad herida corre el riesgo de subjetivar problemas estructurales: convierte desigualdades sistemicas en cuestiones de actitud y estima, perdiendo la capacidad de criticar mecanismos economicos impersonales que operan al margen de cualquier intencion de menospreciar."
+      },
+      {
+        "school": "Critica a la politica de la identidad y la despolitizacion",
+        "view": "Criticos del cultural turn advierten que centrar la justicia en el reconocimiento de la diferencia puede reificar identidades de grupo, presionar a la conformidad interna y sustituir la critica de la estructura por una politica de afirmacion simbolica. En su version mas dura sostienen que el reconocimiento, desligado de la redistribucion, despolitiza: ofrece estatus y representacion sin tocar la distribucion del poder economico, exactamente el mecanismo que Fraser identifica luego en el neoliberalismo progresista."
+      }
+    ],
+    "contrasts": "El eje del desacuerdo es si el reconocimiento es una de dos (o tres) dimensiones irreductibles de la justicia, como quiere Fraser, o el fundamento ultimo del que la redistribucion deriva, como sostiene Honneth. Fraser gana terreno cuando senala dinamicas capitalistas (mercados, deslocalizacion) que parecen operar con una logica propia que ningun cambio de reconocimiento corrige; Honneth lo gana cuando muestra que separar una esfera economica neutral puede naturalizar el capitalismo y que la indignacion ante la injusticia siempre tiene una gramatica moral de reconocimiento. Young, desde una tercera posicion, acusa a ambos polos de una falsa dicotomia: en los movimientos reales, reconocimiento y redistribucion estan entrelazados y separarlos solo dificulta las coaliciones. La critica marxista insiste en que el debate, al girar sobre el reconocimiento, ya cedio demasiado terreno y desplazo la economia politica; la critica a Honneth anade que el monismo psicologiza el dano. La ironia productiva es que la propia Fraser, en su diagnostico del neoliberalismo progresista, da la razon parcial a sus criticos: muestra que un reconocimiento sin redistribucion no solo es insuficiente sino funcional al capital. El lector debe decidir si la economia tiene una autonomia que el reconocimiento no puede absorber, o si toda injusticia es, en su raiz, un orden de reconocimiento daniado; y si la paridad participativa es un criterio mas claro que el ideal honnethiano de autorrealizacion o si, al reves, es demasiado formal para guiar luchas concretas.",
+    "sources": [
+      {
+        "label": "Recognition - Stanford Encyclopedia of Philosophy (seccion sobre Fraser vs Honneth, paridad participativa y monismo del reconocimiento)",
+        "url": "https://plato.stanford.edu/entries/recognition/"
+      },
+      {
+        "label": "Frankfurt School and Critical Theory - Internet Encyclopedia of Philosophy (Honneth, direccion del Institut fur Sozialforschung y el paradigma del reconocimiento)",
+        "url": "https://iep.utm.edu/critical-theory-frankfurt-school/"
+      },
+      {
+        "label": "Nancy Fraser, From Redistribution to Recognition? Dilemmas of Justice in a 'Post-Socialist' Age - New Left Review I/212 (1995)",
+        "url": "https://newleftreview.org/issues/i212/articles/nancy-fraser-from-redistribution-to-recognition-dilemmas-of-justice-in-a-post-socialist-age"
+      },
+      {
+        "label": "Iris Marion Young, Unruly Categories: A Critique of Nancy Fraser's Dual Systems Theory - New Left Review I/222 (1997)",
+        "url": "https://newleftreview.org/issues/i222/articles/iris-marion-young-unruly-categories-a-critique-of-nancy-fraser-s-dual-systems-theory"
+      },
+      {
+        "label": "Nancy Fraser, From Progressive Neoliberalism to Trump - and Beyond - American Affairs Journal (Winter 2017)",
+        "url": "https://americanaffairsjournal.org/2017/11/progressive-neoliberalism-trump-beyond/"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre el debate Fraser-Honneth, redistribucion o reconocimiento. No me des respuestas ni resumenes: hace preguntas, una por vez, y pedime siempre razones. Empeza preguntandome esto: cuando una fabrica cierra y se deslocaliza para maximizar beneficios y miles quedan sin trabajo, es eso en el fondo una injusticia de redistribucion (economica) o de reconocimiento (de estatus e identidad), y por que lo creo. Segun como responda, opone la objecion contraria real y nombrada: si separo lo economico de lo cultural, planteame el monismo de Honneth, que dice que toda injusticia, incluida la economica, se funda en relaciones daniadas de reconocimiento y que separar una esfera economica neutral naturaliza el capitalismo; si reduzco todo a reconocimiento, planteame el dualismo perspectivista de Fraser y su criterio de paridad participativa, mas la objecion de que el monismo psicologiza el dano al reducirlo a menosprecio y estima herida. Cuando me sienta seguro, traeme a Iris Marion Young (Unruly Categories): que la dicotomia misma es una falsa dual systems theory porque los movimientos reales tratan el reconocimiento como medio para la justicia economica; y traeme la critica marxista de que tanto Fraser como Honneth ya cedieron demasiado al desplazar la economia politica. Cerra confrontandome con la ironia del neoliberalismo progresista: si un reconocimiento desligado de la redistribucion termina siendo funcional al capital, eso refuta a Honneth, refuta a Fraser, o les da la razon a los dos en algo distinto. Si me trabo, dame una pista concreta, nunca la respuesta, y pedime siempre que justifique el siguiente paso."
+}

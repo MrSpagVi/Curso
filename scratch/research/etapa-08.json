@@ -1,0 +1,65 @@
+{
+  "debate_deep": {
+    "intro": "El debate central de la Politica gira en torno al naturalismo politico de Aristoteles: la tesis de que el ser humano es por naturaleza un animal politico (zoon politikon) y de que la polis existe por naturaleza como la comunidad en la que se realiza la vida buena y el florecimiento (eudaimonia). De esta misma matriz teleologica brotan las tesis mas atacadas -la esclavitud natural y la subordinacion de la mujer- asi como las mas reivindicadas -la prioridad de la comunidad sobre el individuo y la defensa de la politeia y la clase media-. El debate sigue vivo porque enfrenta dos imagenes rivales del ser humano y de la politica: una concepcion comunitaria y teleologica, segun la cual hay un fin natural y objetivo de la vida humana que la ciudad debe promover, frente a una concepcion liberal e individualista, segun la cual los fines son elegidos por sujetos libres e iguales y el Estado debe permanecer neutral. Recuperar a Aristoteles obliga a separar el nucleo defendible (sociabilidad, virtud, bien comun) de los componentes jerarquicos hoy condenados (esclavitud, sexismo), y esa operacion de separacion es justamente lo que mantiene la controversia abierta.",
+    "supporters": [
+      {
+        "school": "Comunitarismo (Alasdair MacIntyre, Michael Sandel)",
+        "view": "MacIntyre, en 'After Virtue' (Tras la virtud), recupera la etica aristotelica de las virtudes y el telos como alternativa al fracaso del proyecto ilustrado liberal: vivir bien exige virtudes ejercidas dentro de practicas y comunidades. Sandel critica al 'yo desvinculado' (unencumbered self) del liberalismo de Rawls y reivindica, con base aristotelica, que la politica tiene que ver con cultivar el caracter y deliberar sobre el bien comun, no solo con repartir derechos neutrales."
+      },
+      {
+        "school": "Enfoque de las capacidades (Martha Nussbaum)",
+        "view": "Nussbaum funda su enfoque de las capacidades en la idea aristotelica de florecimiento humano: el objetivo de la planificacion politica es distribuir las condiciones para que cada persona pueda elegir y vivir una vida plenamente humana, ejerciendo capacidades distintivas como la razon practica y la afiliacion. Reapropia el naturalismo de Aristoteles depurado de sus jerarquias, contra el utilitarismo y contra una lectura puramente formal de la libertad."
+      },
+      {
+        "school": "Republicanismo civico (Hannah Arendt)",
+        "view": "Arendt se inscribe en la tradicion del republicanismo civico que arranca en Aristoteles: valora el bios politikos y la accion concertada en el espacio publico como la forma mas alta de la vida humana. Lamenta como perdida moderna 'la victoria del animal laborans sobre la concepcion clasica del hombre como zoon politikon', y reivindica la ciudadania activa y la deliberacion colectiva sobre los asuntos comunes."
+      },
+      {
+        "school": "Defensa de la politeia y la clase media (constitucionalismo del gobierno mixto)",
+        "view": "La defensa aristotelica de la politeia -un regimen mixto que combina elementos democraticos y oligarquicos y se apoya en una clase media amplia que evita tanto la arrogancia de los ricos como la envidia de los pobres- es leida por la tradicion del gobierno mixto y del constitucionalismo como antecedente del equilibrio de poderes y de la estabilidad institucional basada en una clase media robusta."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica moderna a la esclavitud natural",
+        "view": "La doctrina de la esclavitud natural (el esclavo carece de facultad deliberativa y se beneficia de tener un amo) es el punto mas atacado de la Politica. La condena moderna sostiene que es un argumento sin evidencia, circular y autojustificatorio; ya la Stanford Encyclopedia recoge que sus argumentos parecen tan debiles que algunos comentaristas los han juzgado incluso ironicos. La igualdad moral universal vuelve insostenible la tesis."
+      },
+      {
+        "school": "Critica feminista (Lynda Lange, Elizabeth Spelman)",
+        "view": "Las criticas feministas muestran que la subordinacion de la mujer ('su facultad deliberativa carece de autoridad') esta tejida en la metafisica aristotelica del alma. Spelman analiza como esa metafisica politizada justifica la jerarquia varon-mujer, y Lange como la teoria de la diferencia sexual permea todo el sistema. Senalan ademas la circularidad: se excluye a las mujeres de la politica y luego se invoca su falta de desarrollo como prueba de inferioridad."
+      },
+      {
+        "school": "Critica liberal e individualista (igualitarismo de raiz rawlsiana)",
+        "view": "El liberalismo igualitario rechaza el perfeccionismo teleologico: el Estado no debe imponer una concepcion unica del bien ni una jerarquia natural de fines, sino garantizar derechos iguales y neutralidad entre planes de vida razonables. Frente a la prioridad aristotelica de la comunidad y la virtud, prioriza al individuo libre e igual y la autonomia para elegir el propio bien."
+      },
+      {
+        "school": "Critica a la teleologia natural (naturalismo cientifico y convencionalismo)",
+        "view": "La biologia y la ciencia social modernas rechazan la teleologia de las naturalezas con fines internos: la polis y las jerarquias sociales no son 'naturales' en el sentido de Aristoteles sino convenciones historicas y contingentes. Desde esta optica, derivar normas politicas de supuestos fines naturales incurre en falacia naturalista y naturaliza relaciones de poder que en realidad son construidas."
+      }
+    ],
+    "contrasts": "El nudo del contraste es si la naturaleza humana fija un fin objetivo que la ciudad debe promover, o si los fines los eligen individuos libres e iguales y el Estado debe permanecer neutral. Quienes recuperan a Aristoteles -comunitarios, enfoque de las capacidades, republicanismo civico- valoran que su teleologia da contenido sustantivo a la vida buena, al bien comun y a la virtud civica que el liberalismo procedimental, segun ellos, deja vacios; pero deben mostrar como sostener ese nucleo tras amputar la esclavitud natural y el sexismo, que sus propios criticos consideran no accidentes sino piezas de la misma arquitectura jerarquica y teleologica. Sus adversarios -liberales, feministas, criticos de la teleologia- ganan en igualdad moral y en respeto al pluralismo de los fines, pero quedan expuestos a la objecion comunitaria de que una politica meramente neutral no puede fundar ni la solidaridad ni el sentido de pertenencia que la vida en comun parece requerir. El lector debe juzgar si el zoon politikon y la prioridad de la comunidad son verdades antropologicas recuperables o un marco cuyas jerarquias contaminan tambien su nucleo.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy - Aristotle's Political Theory",
+        "url": "https://plato.stanford.edu/entries/aristotle-politics/"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy - Aristotle: Politics",
+        "url": "https://iep.utm.edu/aristotle-politics/"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy - The Capabilities Approach (Nussbaum)",
+        "url": "https://iep.utm.edu/ge-capab/"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy - Hannah Arendt",
+        "url": "https://plato.stanford.edu/entries/arendt/"
+      },
+      {
+        "label": "Encyclopaedia Britannica - Aristotle: Political theory",
+        "url": "https://www.britannica.com/biography/Aristotle/Political-theory"
+      }
+    ]
+  },
+  "socratic": "Sos un tutor socratico de teoria politica y vamos a trabajar sobre la 'Politica' de Aristoteles. Reglas: hace una sola pregunta por turno y espera mi respuesta antes de seguir; nunca me des la respuesta hecha; despues de cada respuesta mia pedime las razones ('por que?', 'en que te basas?') y oponeme una objecion real y nombrada de la tradicion; si me trabo, dame una pista breve en vez de la solucion. Las objeciones tienen que venir de posiciones reales: el enfoque de las capacidades de Martha Nussbaum, el comunitarismo de Alasdair MacIntyre y Michael Sandel, el republicanismo civico de Hannah Arendt, la critica liberal e igualitaria, la critica feminista (Lynda Lange, Elizabeth Spelman) y la condena moderna de la esclavitud natural. Empeza ahora con esta pregunta y nada mas: Aristoteles afirma que el ser humano es 'por naturaleza un animal politico' (zoon politikon) y que la polis existe por naturaleza. Que queres decir exactamente con que la ciudad es 'natural', y en que se diferenciaria esa afirmacion de decir simplemente que los humanos tienden a vivir en grupos?"
+}

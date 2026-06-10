@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "El Leviatan plantea un argumento que sigue incomodando a la teoria politica: para escapar de un estado de naturaleza descrito como guerra de todos contra todos, individuos racionales e iguales consentirian en transferir su derecho a un soberano cuyo poder debe ser indivisible y practicamente absoluto. El debate central es si esa conclusion es la consecuencia rigurosa de premisas individualistas (lo que haria de Hobbes el fundador oculto del liberalismo y del contractualismo) o un salto autoritario que traiciona esas mismas premisas. La discusion sigue viva porque cada generacion relee a Hobbes para resolver su propia pregunta sobre los limites de la autoridad y la libertad.",
+    "supporters": [
+      {
+        "school": "Hobbes como fundador del realismo y del Estado moderno (lectura schmittiana)",
+        "view": "Carl Schmitt y la tradicion realista leen el Leviatan como la formulacion canonica del Estado soberano que monopoliza la decision y la proteccion a cambio de obediencia. Dan la razon a Hobbes en que, sin una instancia que decida de modo ultimo, el orden politico se disuelve en conflicto; la soberania indivisible es el precio de la paz."
+      },
+      {
+        "school": "Contractualismo analitico y teoria de juegos (Gauthier, Kavka)",
+        "view": "David Gauthier y Gregory Kavka reconstruyen el estado de naturaleza como un problema de eleccion racional, proximo al dilema del prisionero, donde la cooperacion es inestable sin un poder que garantice los acuerdos. Sostienen que el nucleo del argumento hobbesiano es valido y rehabilitan a Hobbes como precursor de la moral por acuerdo."
+      },
+      {
+        "school": "Lectura straussiana de Hobbes como padre del liberalismo",
+        "view": "Leo Strauss sostiene que Hobbes funda la modernidad politica al colocar el derecho subjetivo (la autoconservacion) y no el deber o la virtud como hecho moral primario, con el Estado al servicio de la vida segura. Le da la razon en haber identificado el cimiento individualista de la politica moderna, aunque a costa de rebajar el bien comun a la mera seguridad."
+      },
+      {
+        "school": "Conservadurismo filosofico de Oakeshott",
+        "view": "Michael Oakeshott defiende a Hobbes frente a la caricatura del apologista del despotismo: lo lee como teorico de la autoridad y la asociacion civil, no del poder arbitrario. Valora que funda la obligacion en el consentimiento racional y no en la fuerza, y ve el Leviatan como obra maestra de la tradicion que piensa el orden como artificio humano legitimo."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Liberalismo lockeano",
+        "view": "John Locke objeta que un soberano absoluto es incompatible con la finalidad que justifica el gobierno, la preservacion de la vida, la libertad y la propiedad; entregarse a un poder ilimitado equivale a salir del estado de naturaleza para caer en algo peor. Defiende el gobierno limitado, la division de poderes y el derecho de resistencia."
+      },
+      {
+        "school": "Republicanismo neorromano (Skinner, Pettit)",
+        "view": "Quentin Skinner muestra que Hobbes redefine la libertad como mera ausencia de impedimentos externos para refutar la tesis republicana de que se es no libre cuando se vive bajo un poder arbitrario, aunque no se ejerza. Pettit desarrolla la libertad como no dominacion: bajo el soberano absoluto el subdito vive a merced de otro, y eso ya es servidumbre."
+      },
+      {
+        "school": "Critica marxista del individualismo posesivo (Macpherson)",
+        "view": "C. B. Macpherson sostiene que Hobbes proyecta como naturaleza humana universal los rasgos del hombre de una sociedad de mercado posesiva. La guerra de todos contra todos no seria un dato antropologico sino la imagen ideologica de la sociedad burguesa naciente."
+      },
+      {
+        "school": "Critica feminista del contrato (Pateman) y critica racial (Mills)",
+        "view": "Carole Pateman argumenta que bajo el contrato social igualitario se oculta un contrato sexual que instituye el dominio de los varones sobre las mujeres. Charles Mills anade que el contrato moderno opera sobre un contrato racial que define quienes cuentan como personas plenas. Ambos objetan que la igualdad del punto de partida es aparente."
+      },
+      {
+        "school": "Critica interna a la obligacion absoluta",
+        "view": "Diversos interpretes senalan una tension interna: si la razon para obedecer es la autoconservacion, el subdito conserva un derecho inalienable a defender su vida frente al propio soberano, lo que erosiona el caracter absoluto de la obligacion. El argumento contra el insensato (the foole) es objeto de disputa sobre si cierra el problema."
+      }
+    ],
+    "contrasts": "Las lecturas en pugna pueden ordenarse en un espectro. En un extremo, Strauss y buena parte de la tradicion liberal ven en Hobbes al primer liberal; en el otro, Schmitt y los realistas lo reivindican como teorico de la soberania decisionista, y los republicanos como Skinner y Pettit lo combaten por amputar la libertad como no dominacion. Una tercera familia, analitica, pregunta si el argumento funciona como pieza de eleccion racional: Gauthier y Kavka lo reconstruyen con teoria de juegos, mientras criticos internos insisten en que el derecho inalienable a la autoconservacion vuelve inestable la obediencia absoluta. A la vez, Macpherson, Pateman y Mills desplazan la pregunta del rigor logico a los supuestos sociales, sexuales y raciales que el modelo naturaliza. El lector puede juzgar si la fuerza del Leviatan esta en su realismo sobre el conflicto, en su individualismo fundacional, o en lo que cada critica revela que el texto da por sentado.",
+    "sources": [
+      {
+        "label": "Hobbes Moral and Political Philosophy - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/hobbes-moral/"
+      },
+      {
+        "label": "Social Contract Theory - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/soc-cont/"
+      },
+      {
+        "label": "Resena de Q. Skinner, Hobbes and Republican Liberty - Notre Dame Philosophical Reviews",
+        "url": "https://ndpr.nd.edu/reviews/hobbes-and-republican-liberty/"
+      },
+      {
+        "label": "C. Schmitt, The Leviathan in the State Theory of Thomas Hobbes - University of Chicago Press",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/L/bo6035382.html"
+      },
+      {
+        "label": "Possessive individualism (Macpherson) - Understanding Society",
+        "url": "https://undsoc.org/2011/08/19/possessive-individualism/"
+      },
+      {
+        "label": "Hobbes interpretado por Oakeshott, Strauss y Voegelin - VoegelinView",
+        "url": "https://voegelinview.com/june-preview/"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre el Leviatan de Hobbes (caps. 13-21). No me des respuestas ni resumenes: hace preguntas, una por vez. Empeza preguntandome como definiria yo el estado de naturaleza y por que Hobbes concluye que sin un poder comun la vida seria solitaria, pobre, desagradable, brutal y corta. Cuando yo afirme algo, pedime razones y opone una objecion real (Locke: huir hacia un poder absoluto es cambiar zorros por un leon; Skinner: vivir bajo un poder arbitrario ya es no ser libre aunque no se ejerza). Si me trabo, dame una pista, no la respuesta."
+}

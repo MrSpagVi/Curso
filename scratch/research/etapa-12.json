@@ -1,0 +1,77 @@
+{
+  "debate_deep": {
+    "intro": "Esta clase universitaria no discute si Hobbes tiene razon sobre el absolutismo, sino algo previo y mas fino: como hay que leerlo. El Leviatan admite lecturas tan dispares que cada generacion de comentaristas casi inventa un Hobbes distinto. La pregunta organizadora es de donde nace, para Hobbes, la obligacion de obedecer al soberano: si brota del mero calculo de interes propio (yo obedezco porque me conviene no volver al estado de naturaleza), si brota de un deber moral o religioso anterior al pacto (las leyes de naturaleza como mandatos de Dios), si es la piedra fundacional de toda la modernidad construida sobre el miedo a la muerte y el derecho subjetivo, o si es sobre todo una intervencion polemica destinada a redefinir la libertad para desarmar a los republicanos. Las escuelas que siguen no son resumenes neutrales del texto: son apuestas interpretativas rivales, cada una con sus autores, sus pasajes favoritos y sus puntos ciegos.",
+    "supporters": [
+      {
+        "school": "Egoismo psicologico y eleccion racional (Hobbes precursor de la teoria de juegos): David Gauthier, Jean Hampton, Gregory Kavka",
+        "view": "Esta tradicion lee a Hobbes como el primer gran teorico de la accion racional individual. Los agentes del estado de naturaleza son maximizadores de su propio interes; la guerra de todos contra todos es, en lenguaje contemporaneo, un dilema del prisionero o un problema de coordinacion sin solucion estable, y la institucion del soberano es la salida racional a esa trampa estrategica. Gauthier (Hobbesian contractarianism) modela el pacto como una negociacion entre partes de intereses parcialmente opuestos y lee la moral hobbesiana como una maximizacion restringida; Hampton y Kavka recurren al problema de negociacion de Nash y discuten si instituir al soberano es propiamente un dilema del prisionero o un juego de cooperacion. Kavka habla de un egoismo predominante (la mayoria, casi siempre, pesa mas su interes que el altruismo) antes que de un egoismo puro. La obligacion, en esta clave, es derivada: obligo porque y mientras me conviene."
+      },
+      {
+        "school": "Deontologica / ley natural (la tesis Taylor-Warrender): A. E. Taylor, Howard Warrender",
+        "view": "Contra la lectura prudencial, Taylor y Warrender sostienen que las leyes de naturaleza en Hobbes son autenticos mandatos morales, no meras reglas de conveniencia. La clave es teologica: las leyes de naturaleza obligan porque son ordenes de Dios, y la obligacion de cumplir los pactos descansa sobre un deber anterior al calculo de interes. Taylor desarrolla primero el argumento deontologico y luego lo enlaza, via la idea de ley como mandato, con la voluntad divina; Warrender invierte el orden, parte del argumento teologico y hace de Dios el legislador cuya voluntad es la fuente de una obligacion universal. El resultado es un Hobbes mucho mas proximo a la tradicion del derecho natural y mas lejos del utilitarismo: la teoria moral no se reduce a un sistema de preceptos prudenciales basados en el interes."
+      },
+      {
+        "school": "Straussiana (Hobbes como fundador de la modernidad): Leo Strauss",
+        "view": "Strauss (The Political Philosophy of Hobbes y Natural Right and History) lee a Hobbes como el punto de quiebre que funda la filosofia politica moderna. Lo decisivo es la inversion de la prioridad: la filosofia clasica partia de deberes y de un fin (telos) del hombre; Hobbes hace de la muerte el lugar del telos y del miedo a la muerte violenta la pasion fundante. De ahi que el hecho moral primero ya no sea un deber sino un derecho: el derecho subjetivo a la autoconservacion, del cual todo lo demas se deriva. El miedo a la muerte ocupa el sitio que antes tenia el temor de Dios. Asi Hobbes seria el fundador a la vez del derecho natural moderno y del liberalismo, y ese gesto inaugural marca, para Strauss, la crisis de la modernidad: la politica queda reducida a gestion de pasiones e intereses."
+      },
+      {
+        "school": "Republicana / contextual (la Escuela de Cambridge): Quentin Skinner",
+        "view": "Skinner (Hobbes and Republican Liberty) lee el Leviatan como un acto de habla situado: una intervencion polemica en la guerra civil inglesa dirigida contra los republicanos neo-romanos. Su tesis es que Hobbes cambia deliberadamente su definicion de libertad entre los Elements of Law y el Leviatan para refutar la concepcion republicana de la libertad como no-dominacion. Los neo-romanos sostenian que un hombre es no-libre por el solo hecho de vivir bajo un poder arbitrario, aunque ese poder nunca se ejerza. Hobbes responde redefiniendo la libertad como mera ausencia de impedimentos fisicos externos al movimiento: si nadie te encadena, sos libre, vivas o no bajo un amo. Leer a Hobbes, en esta escuela, exige reconstruir a quien le estaba contestando."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Contra el egoismo psicologico como cimiento (objecion textual)",
+        "view": "La que fue lectura dominante (Hobbes como egoista psicologico) hoy es ampliamente rechazada. El propio texto hobbesiano atribuye a los hombres motivos que desbordan el interes propio: piedad, sentido del honor, coraje. Reducir toda la psicologia hobbesiana al egoismo es forzar el texto para que encaje en un modelo posterior. Si la motivacion humana en Hobbes es mas compleja, entonces la base misma sobre la que la lectura de eleccion racional construye su edificio queda en entredicho, y con ella la idea de que la obligacion es solo interes propio bien calculado."
+      },
+      {
+        "school": "Contra el anacronismo de la teoria de juegos",
+        "view": "Aplicar a Hobbes el aparato del dilema del prisionero, los equilibrios de Nash y la maximizacion restringida es proyectar sobre un texto del siglo XVII categorias del siglo XX. La objecion no es solo cronologica: varios criticos sostienen que los modelos de Gauthier, Hampton y Kavka capturan de forma insuficiente la nocion hobbesiana de obligacion, que parece exigir un concepto de racionalidad mas amplio que el de la teoria de juegos. Formalizar el argumento puede ganar precision a costa de borrar lo que Hobbes realmente queria decir sobre el deber y la autoridad."
+      },
+      {
+        "school": "Contra la tesis Taylor-Warrender (el frente individualista)",
+        "view": "Los criticos individualistas niegan que haga falta Dios para fundar la obligacion en Hobbes y acusan a Taylor y Warrender de introducir una capa teologica que el sistema no necesita y que choca con su materialismo. Si las leyes de naturaleza solo obligan in foro externo cuando hay un soberano que las hace cumplir, su fuerza parece depender del poder y del interes, no de un deber religioso previo. La disputa Taylor-Warrender contra los individualistas es el eje clasico de la historiografia hobbesiana sobre la obligacion, y sigue sin resolverse: cada lado puede citar pasajes que el otro debe explicar a contrapelo."
+      },
+      {
+        "school": "El debate sobre Dios y la religion (ateo encubierto o teologo serio)",
+        "view": "Que rol cumple realmente Dios en Hobbes es quiza la fractura interpretativa mas profunda, porque condiciona a todas las demas. Para muchos lectores, desde el siglo XVII, Hobbes es un ateo apenas disimulado que usa el lenguaje religioso como camuflaje politico. Para los revisionistas, encabezados por A. P. Martinich (The Two Gods of Leviathan), Hobbes es un cristiano serio, un teologo calvinista que intenta reconciliar la nueva ciencia con la fe y evitar el abuso politico de la religion. Otros, como Jeffrey Collins, replican subrayando la hostilidad de Hobbes hacia el cristianismo tradicional. Si Dios es real y central para Hobbes, la lectura deontologica gana terreno; si es ornamento, ganan los individualistas y los straussianos. La advertencia es que la palabra ateo no significaba en 1651 lo que significa hoy."
+      },
+      {
+        "school": "Contra la coherencia del paso del estado de naturaleza al soberano",
+        "view": "Una objecion estructural, independiente de cada escuela: el transito del estado de naturaleza al pacto puede no cerrar logicamente. Si cada individuo conserva el derecho de juzgar por si mismo si el soberano lo protege adecuadamente, entonces nunca abandona del todo la incertidumbre del estado de naturaleza, y el dispositivo que debia sacarnos de la guerra falla en su proposito. Ademas, los gobiernos reales no nacieron de pactos voluntarios y pacificos, de modo que la obligacion fundada en un contrato hipotetico tiene dificultades para justificar un deber tan absoluto como el que Hobbes reclama."
+      }
+    ],
+    "contrasts": "Las cuatro escuelas no leen pasajes distintos: leen los mismos pasajes con preguntas distintas. La de eleccion racional pregunta que le conviene a un agente; la deontologica pregunta que le esta mandado; la straussiana pregunta que ruptura historica inaugura el texto; la republicana pregunta contra quien fue escrito. Por eso disienten sobre el punto neuralgico, el origen de la obligacion: interes propio para Gauthier, Hampton y Kavka; deber querido por Dios para Taylor y Warrender; derecho subjetivo a la autoconservacion para Strauss; y, en Skinner, una libertad redefinida para que la sumision al soberano no cuente como esclavitud. Las objeciones cruzadas no liquidan ninguna escuela: muestran que la decision de como leer a Hobbes depende en buena medida de que tan en serio se tome su teologia y de cuanto se permita el lector traducirlo a vocabularios que el no manejaba. El estudiante prudente no elige bando antes de notar que el Hobbes de cada escuela es, en parte, una construccion de la pregunta con que se lo aborda.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Hobbes's Moral and Political Philosophy (debate sobre egoismo psicologico, leyes de naturaleza y fundamento de la obligacion)",
+        "url": "https://plato.stanford.edu/entries/hobbes-moral/"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Game Theory and Ethics (lecturas de teoria de juegos de Gauthier, Hampton, Kavka; el Necio y la negociacion de Nash)",
+        "url": "https://plato.stanford.edu/entries/game-ethics/"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Contractarianism (linaje Hobbes-Gauthier; contractarianismo basado en el interes propio racional)",
+        "url": "https://plato.stanford.edu/entries/contractarianism/"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Positive and Negative Liberty (libertad negativa hobbesiana frente a la critica republicana neo-romana de Skinner y Pettit)",
+        "url": "https://plato.stanford.edu/entries/liberty-positive-negative/"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Thomas Hobbes (el debate sobre la religion: ateo o cristiano, y el sentido de ateo en el siglo XVII)",
+        "url": "https://plato.stanford.edu/entries/hobbes/"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy: Thomas Hobbes, Moral and Political Philosophy (teoria del contrato social, leyes de naturaleza y obligacion)",
+        "url": "https://iep.utm.edu/hobmoral/"
+      },
+      {
+        "label": "Encyclopaedia Britannica: Thomas Hobbes (vision general del contrato social y la autoridad soberana)",
+        "url": "https://www.britannica.com/biography/Thomas-Hobbes"
+      }
+    ]
+  },
+  "socratic": "Quiero que actues como un tutor socratico y discutamos como interpretar a Thomas Hobbes. Reglas: haceme una sola pregunta por turno y espera mi respuesta; nunca me des tu propia respuesta ni resumas las escuelas por mi; despues de cada respuesta mia, pedime las razones o el pasaje del Leviatan en que me apoyo; cuando defienda una posicion, oponeme una objecion real de la otra escuela (por ejemplo, si digo que la obligacion nace solo del interes propio, recordame la tesis Taylor-Warrender de que las leyes de naturaleza obligan como mandatos de Dios; si apelo a Dios, recordame la objecion individualista de que el materialismo de Hobbes no necesita esa capa teologica); si me trabo, dame una pista corta en forma de otra pregunta, no la solucion. Empecemos por lo concreto: cuando Hobbes dice que debo cumplir los pactos que firme, esa obligacion, segun tu lectura del texto, nace de que me conviene no volver al estado de naturaleza, o nace de algo anterior al calculo de mi interes, como un deber moral o un mandato divino? Elegi una de las dos y deci en que te basas."
+}

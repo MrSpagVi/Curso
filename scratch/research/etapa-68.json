@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "Homo sacer: el poder soberano y la nuda vida (1995) abrio uno de los debates mas influyentes de la teoria politica contemporanea. Agamben sostiene que la politica occidental se funda en la captura de la nuda vida (zoe, la mera vida biologica) dentro del orden juridico mediante su exclusion: la figura del homo sacer del derecho romano arcaico, aquel que puede ser matado sin que ello constituya homicidio ni sacrificio, revela esa estructura. El soberano, segun la lectura que Agamben hace de Carl Schmitt, es quien decide sobre el estado de excepcion, es decir, quien puede suspender la ley manteniendola en vigor; esa relacion de inclusion exclusiva es lo que Agamben llama el bando. Combinando a Schmitt con la biopolitica de Michel Foucault y con Walter Benjamin, Agamben concluye que cuando el estado de excepcion se vuelve regla, el campo de concentracion se convierte en el nomos o paradigma oculto de la modernidad, y que en cierto sentido todos somos hoy virtualmente homines sacri. La tesis tuvo enorme adopcion en estudios sobre refugiados, detenidos de Guantanamo y soberania, pero tambien provoco objeciones intensas por su caracter totalizante, su lectura de Foucault, su base filologica y, mas recientemente, por la intervencion de Agamben sobre el COVID-19.",
+    "supporters": [
+      {
+        "school": "Teoria critica del derecho y de la soberania (recepcion anglosajona; p. ej. Amy O'Donoghue en Critical Legal Thinking)",
+        "view": "Valoran el aporte de Agamben como una revision de la teoria clasica de la soberania: el orden politico no se funda en la ley sino en la excepcion que la ley produce al suspenderse. La nuda vida abandonada por el derecho y el campo como paradigma espacial ofrecen una infraestructura conceptual potente para analizar la detencion migratoria, los centros extrajudiciales y la normalizacion de la excepcion mas alla de la Alemania nazi."
+      },
+      {
+        "school": "Estudios sobre refugiados, fronteras y campos (geografia critica y estudios de migracion)",
+        "view": "Adoptan masivamente la categoria de homo sacer y de campo para describir la condicion del refugiado, del apatrida y del detenido sin estatuto juridico. El propio Agamben senala al refugiado como figura concreta de la nuda vida; la categoria permite leer Guantanamo y los campos de internamiento como espacios donde el sujeto queda incluido en el orden solo por su exclusion, sin proteccion legal."
+      },
+      {
+        "school": "Recepcion en la enciclopedia filosofica (Catherine Mills, autora de la entrada del Internet Encyclopedia of Philosophy)",
+        "view": "Aunque Mills tambien marca limites internos en el proyecto de Agamben, su exposicion reconstruye con seriedad el valor diagnostico de la obra: la integracion historica entre poder soberano y biopoder, la idea de la ley en vigor sin significado y la fuerza del campo como nomos moderno. Lo presentan como un marco fecundo para pensar la relacion entre soberania, ley y vida."
+      },
+      {
+        "school": "Defensores de la intervencion sobre el COVID-19 (lectura biopolitica del estado de excepcion sanitario)",
+        "view": "Algunos comentaristas sostienen que, mas alla de los errores epistemicos sobre el virus, Agamben acerto en el punto politico de fondo: la pandemia mostro la facilidad con que se declaran y normalizan poderes de excepcion, la vigilancia de emergencia y la reduccion del ciudadano a mera supervivencia biologica. Incluso criticos como Christaens admiten que esta era su objecion mas solida y dificil de refutar."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Biopolitica afirmativa (Michael Hardt y Antonio Negri)",
+        "view": "Frente a la version tanatica y pesimista de Agamben, que presenta el presente como punto final catastrofico de una tradicion que va de la antiguedad griega a los campos nazis, Hardt y Negri proponen una biopolitica afirmativa y productiva. La vida no es solo objeto de un poder que da muerte, sino terreno de una potencia constituyente: el biopoder como poder-sobre se opone al biopolitica como poder-de la multitud, que prepara un nuevo sujeto revolucionario en vez de un destino de nuda vida."
+      },
+      {
+        "school": "Critica de la lectura de Foucault (Thomas Lemke y otros teoricos de la biopolitica)",
+        "view": "Objetan que Agamben deforma a Foucault al hacer del biopoder algo esencialmente ligado a la muerte y a la soberania. Para Foucault el biopoder es ante todo productivo: maximiza, administra y optimiza los procesos vitales de la poblacion, no solo expone a la muerte. Al fusionar soberania y biopoder en una sola logica que culmina en el campo, Agamben pierde la especificidad historica y la dimension positiva que Foucault habia subrayado."
+      },
+      {
+        "school": "Critica filologica y filosofica de la nuda vida (James Gordon Finlayson, The Review of Politics)",
+        "view": "Sostiene que la oposicion fundante entre zoe (nuda vida) y bios (vida politica) que Agamben atribuye a Aristoteles no existe en el texto aristotelico: Aristoteles usa ambos terminos de modo flexible. Agamben se apoyaria en lecturas infundadas de Arendt y Foucault, y la categoria de nuda vida resultaria internamente contradictoria, oscureciendo mas que iluminando los problemas politicos contemporaneos. En la misma linea, criticas filologicas sobre el homo sacer romano senalan que se trata de una figura rara y arcaica, no del fundamento de toda soberania."
+      },
+      {
+        "school": "Critica de la tesis totalizante y nihilista (Ernesto Laclau)",
+        "view": "Laclau acusa a Agamben de unificar toda la construccion politica moderna en torno al paradigma extremo del campo de concentracion, lo que distorsiona la historia y clausura de antemano las posibilidades emancipatorias de la herencia moderna. Equiparar bajo una misma logica las democracias y los regimenes totalitarios borra distinciones politicas relevantes y conduce, segun Laclau, a un nihilismo politico. Ademas senala un problema logico: quien tiene bios tambien tiene zoe, de modo que la division tajante no se sostiene."
+      },
+      {
+        "school": "Critica inmanente a partir del COVID-19 (Sergei Prozorov, Law and Critique; Tim Christaens, Critical Legal Thinking)",
+        "view": "La intervencion de Agamben de 2020, La invencion de una epidemia, que califico las medidas como irracionales e injustificadas y la pandemia como pretexto para un estado de excepcion, reavivo y radicalizo las criticas. Prozorov muestra que Agamben confunde planos: trata la nuda vida, que deberia ser un presupuesto transcendental, como una acusacion empirica contra formas de vida que le disgustan, lo que habilita comparaciones hiperbolicas entre democracias y totalitarismos. Christaens refuta sus argumentos sobre la supervivencia biologica y los lazos sociales, mostrando solidaridad espontanea donde Agamben veia solo disolucion."
+      }
+    ],
+    "contrasts": "El debate se ordena en torno a un mismo nucleo: si la captura de la nuda vida por el poder soberano es la clave oculta y unica de la politica occidental, o si esa tesis es una generalizacion excesiva. Los partidarios destacan su valor diagnostico para pensar la excepcion normalizada, los campos, los refugiados y Guantanamo; los criticos discuten en distintos planos. Hardt y Negri disputan el tono: oponen una biopolitica productiva y emancipatoria a la version tanatica de Agamben. Lemke y otros lectores de Foucault disputan la genealogia: para ellos Agamben reduce el biopoder productivo a poder de muerte. Finlayson y la critica filologica disputan los cimientos textuales: la oposicion zoe/bios y la figura del homo sacer no soportarian el peso teorico que Agamben les asigna. Laclau disputa las consecuencias politicas: la unificacion en torno al campo seria totalizante y desactivaria la emancipacion. La controversia del COVID-19 condenso todas estas tensiones, funcionando para autores como Prozorov como sintoma de problemas conceptuales mas profundos. El punto en disputa, en ultima instancia, no es si la excepcion existe, sino si todo puede leerse a traves de ella sin borrar las diferencias que la politica necesita para pensar la resistencia.",
+    "sources": [
+      {
+        "label": "Catherine Mills, Giorgio Agamben, Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/agamben/"
+      },
+      {
+        "label": "Sergei Prozorov, A Farewell to Homo Sacer? Sovereign Power and Bare Life in Agamben's Coronavirus Commentary, Law and Critique (2021)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8625667/"
+      },
+      {
+        "label": "James Gordon Finlayson, 'Bare Life' and Politics in Agamben's Reading of Aristotle, The Review of Politics (Cambridge, 2010)",
+        "url": "https://www.cambridge.org/core/journals/review-of-politics/article/abs/bare-life-and-politics-in-agambens-reading-of-aristotle/54045A1D65A38FAB3B9C86C8C101AD75"
+      },
+      {
+        "label": "Tim Christaens, Must Society be Defended from Agamben?, Critical Legal Thinking (2020)",
+        "url": "https://criticallegalthinking.com/2020/03/26/must-society-be-defended-from-agamben/"
+      },
+      {
+        "label": "Amy O'Donoghue, Sovereign Exception: Notes on the Thought of Giorgio Agamben, Critical Legal Thinking (2015)",
+        "url": "https://criticallegalthinking.com/2015/07/02/sovereign-exception-notes-on-the-thought-of-giorgio-agamben/"
+      },
+      {
+        "label": "Biopolitics and Globalization, keyword essay, Global South Studies (University of Virginia)",
+        "url": "https://www.globalsouthstudies.org/keyword-essay/biopolitics-and-globalization/"
+      }
+    ]
+  },
+  "socratic": "Sos mi interlocutor socratico sobre Homo sacer de Agamben. Reglas: preguntame de a una pregunta por vez, nunca me des la respuesta, pedime siempre que justifique mis razones, y cuando responda oponeme una objecion real y nombrada (la biopolitica afirmativa de Hardt y Negri, la critica filologica de Finlayson sobre zoe/bios en Aristoteles, la objecion de Laclau sobre el caracter totalizante y nihilista, la critica de Lemke sobre el biopoder productivo de Foucault, o la critica de Prozorov a la intervencion sobre el COVID-19). Si me trabo, dame una pista, no la solucion. Empeza con esta pregunta concreta: Agamben define al homo sacer como 'la vida que puede ser matada pero no sacrificada'. Antes de avanzar, decime: en tus propias palabras, que diferencia hay entre zoe (la nuda vida) y bios (la vida politica), y por que esa distincion seria necesaria para que exista lo que Agamben llama poder soberano?"
+}

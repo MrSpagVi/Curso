@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Propuestas de UX y flujo de aprendizaje — Curso de Teoria Politica</title>
+<style>
+  :root{
+    --bg:#0f1115; --bg2:#151821; --card:#1b1f2a; --card2:#222633;
+    --line:#2b3140; --tx:#e7e9ee; --mut:#9aa3b2; --mut2:#6f7889;
+    --acc:#e0a45e; --acc2:#7c5cff; --good:#5bbf8a; --warn:#d98c8c; --blue:#5aa9e6;
+    --serif:Georgia,"Times New Roman",serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --r:12px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--tx);font-family:var(--sans);line-height:1.55;font-size:15px}
+  a{color:var(--blue);text-decoration:none} a:hover{text-decoration:underline}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 1.25rem 5rem}
+  header.top{padding:2.5rem 0 1rem;border-bottom:1px solid var(--line)}
+  header.top h1{font-family:var(--serif);font-size:clamp(1.6rem,3.5vw,2.4rem);margin:0 0 .5rem}
+  header.top p{color:var(--mut);max-width:80ch;margin:.4rem 0}
+  .kbd{font-family:var(--serif);color:var(--acc)}
+  /* tabs */
+  nav.tabs{position:sticky;top:0;z-index:10;background:rgba(15,17,21,.92);backdrop-filter:blur(6px);
+    display:flex;flex-wrap:wrap;gap:.4rem;padding:.75rem 0;border-bottom:1px solid var(--line);margin-bottom:1.5rem}
+  .tab{padding:.5rem .8rem;border:1px solid var(--line);border-radius:99px;background:var(--card);color:var(--mut);
+    cursor:pointer;font-size:.82rem;font-weight:600;white-space:nowrap}
+  .tab:hover{color:var(--tx)}
+  .tab.active{background:var(--acc);color:#1a1206;border-color:var(--acc)}
+  .tab.alt.active{background:var(--acc2);color:#fff;border-color:var(--acc2)}
+  .panel{display:none;animation:fade .25s ease}
+  .panel.show{display:block}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  /* proposal head */
+  .phead{display:flex;align-items:baseline;gap:.8rem;flex-wrap:wrap;margin-bottom:.25rem}
+  .pnum{font-family:var(--serif);font-size:2.2rem;color:var(--acc);line-height:1}
+  .phead h2{font-family:var(--serif);font-size:1.5rem;margin:0}
+  .esencia{color:var(--tx);font-size:1.05rem;max-width:85ch;margin:.3rem 0 1.25rem}
+  .grid2{display:grid;grid-template-columns:1.05fr .95fr;gap:1.25rem;align-items:start}
+  @media(max-width:860px){.grid2{grid-template-columns:1fr}}
+  h3.sec{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--mut2);margin:1.5rem 0 .6rem}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:1rem 1.1rem}
+  /* mockup frame */
+  .mock{background:var(--card);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+  .mock-bar{display:flex;align-items:center;gap:.4rem;padding:.5rem .7rem;background:var(--bg2);border-bottom:1px solid var(--line)}
+  .dot{width:9px;height:9px;border-radius:50%;background:var(--mut2)}
+  .mock-url{margin-left:.5rem;font-family:ui-monospace,monospace;font-size:.72rem;color:var(--mut);background:#0c0e13;padding:.15rem .5rem;border-radius:6px}
+  .mock-body{padding:1rem;min-height:300px}
+  .caption{font-size:.76rem;color:var(--mut2);margin-top:.4rem;font-style:italic}
+  /* flow */
+  .flow{display:flex;flex-wrap:wrap;gap:.35rem;align-items:stretch}
+  .step{flex:1 1 120px;min-width:110px;background:var(--card2);border:1px solid var(--line);border-radius:10px;padding:.55rem .6rem;position:relative}
+  .step .n{font-size:.68rem;font-weight:700;color:var(--acc)}
+  .step .t{font-size:.8rem;color:var(--tx);margin-top:.15rem}
+  .step.bridge{background:transparent;border:none;flex:0 0 auto;min-width:18px;display:flex;align-items:center;justify-content:center;color:var(--mut2)}
+  /* urls */
+  pre.urls{background:#0c0e13;border:1px solid var(--line);border-radius:10px;padding:.85rem 1rem;overflow:auto;
+    font-family:ui-monospace,monospace;font-size:.8rem;color:var(--tx);margin:.3rem 0}
+  pre.urls .c{color:var(--mut2)}
+  pre.urls .p{color:var(--acc)}
+  /* palette */
+  .pal{display:flex;gap:.4rem;align-items:center;margin:.4rem 0}
+  .sw{width:26px;height:26px;border-radius:6px;border:1px solid rgba(255,255,255,.15)}
+  /* pros cons */
+  .pc{display:grid;grid-template-columns:1fr 1fr 1fr;gap:.75rem}
+  @media(max-width:760px){.pc{grid-template-columns:1fr}}
+  .pc .b{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.7rem .85rem}
+  .pc h4{margin:0 0 .35rem;font-size:.74rem;text-transform:uppercase;letter-spacing:.06em}
+  .pc.pros h4{color:var(--good)} .pc .cons h4{color:var(--warn)} .pc .ideal h4{color:var(--blue)}
+  .pc ul{margin:.2rem 0;padding-left:1.05rem} .pc li{font-size:.85rem;margin:.2rem 0;color:var(--mut)}
+  /* take */
+  .take{background:linear-gradient(180deg,rgba(224,164,94,.08),rgba(224,164,94,.02));border:1px solid rgba(224,164,94,.3);
+    border-left:4px solid var(--acc);border-radius:10px;padding:.85rem 1rem;margin-top:1rem}
+  .take h4{margin:0 0 .4rem;color:var(--acc);font-size:.8rem;text-transform:uppercase;letter-spacing:.05em}
+  .take ol{margin:.2rem 0;padding-left:1.15rem} .take li{margin:.3rem 0;font-size:.88rem}
+  /* refs */
+  .refs{font-size:.82rem;color:var(--mut)} .refs li{margin:.25rem 0}
+  /* matrix */
+  table.mx{width:100%;border-collapse:collapse;font-size:.85rem;margin-top:.5rem}
+  table.mx th,table.mx td{border:1px solid var(--line);padding:.55rem .5rem;text-align:center;vertical-align:middle}
+  table.mx th{background:var(--bg2);color:var(--mut);font-weight:600}
+  table.mx td.crit{text-align:left;color:var(--tx);font-weight:600;background:var(--card)}
+  .bar{display:inline-flex;gap:2px}
+  .seg{width:13px;height:9px;border-radius:2px;background:#2b3140}
+  .seg.on{background:var(--acc)}
+  .seg.on.g{background:var(--good)}
+  /* hybrid layers */
+  .layer{display:flex;gap:.7rem;align-items:flex-start;background:var(--card);border:1px solid var(--line);
+    border-radius:10px;padding:.8rem .95rem;margin:.5rem 0}
+  .layer .lz{flex:0 0 110px;font-weight:700;color:var(--acc2);font-size:.85rem}
+  .layer .lx{font-size:.88rem;color:var(--mut)} .layer .lx b{color:var(--tx)}
+  .note{font-size:.85rem;color:var(--mut);background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:.8rem 1rem;margin:1rem 0}
+  .chips{display:flex;gap:.4rem;flex-wrap:wrap;margin:.3rem 0}
+  .chip{font-size:.72rem;background:var(--card2);border:1px solid var(--line);border-radius:99px;padding:.2rem .6rem;color:var(--mut)}
+
+  /* ===== mockup primitives (scoped per direction) ===== */
+  /* 1 senda */
+  .m-senda{display:flex;flex-direction:column;gap:0;position:relative}
+  .m-senda .station{display:flex;align-items:center;gap:.7rem;padding:.35rem 0;position:relative}
+  .m-senda .bub{width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+    font-size:.7rem;font-weight:700;border:2px solid var(--line);background:var(--bg2);color:var(--mut2);flex:0 0 auto;z-index:1}
+  .m-senda .station.done .bub{background:var(--good);border-color:var(--good);color:#06210f}
+  .m-senda .station.cur .bub{background:var(--acc);border-color:var(--acc);color:#1a1206;box-shadow:0 0 0 4px rgba(224,164,94,.25)}
+  .m-senda .line{position:absolute;left:16px;top:0;bottom:0;width:2px;background:var(--line)}
+  .m-senda .lbl{font-size:.82rem}.m-senda .station.lock .lbl{color:var(--mut2)}
+  .m-cta{margin-top:.7rem;background:var(--acc);color:#1a1206;border:none;border-radius:8px;padding:.55rem .8rem;font-weight:700;font-size:.82rem;width:100%}
+  .streak{display:inline-block;font-size:.72rem;color:var(--acc);border:1px solid rgba(224,164,94,.4);border-radius:99px;padding:.1rem .5rem;margin-bottom:.5rem}
+  /* 2 mastery */
+  .m-card{background:var(--card2);border:1px solid var(--line);border-radius:10px;padding:.7rem .8rem;margin-bottom:.6rem;display:flex;align-items:center;gap:.7rem}
+  .ring{--p:60;width:38px;height:38px;border-radius:50%;flex:0 0 auto;
+    background:conic-gradient(var(--good) calc(var(--p)*1%),#2b3140 0);display:flex;align-items:center;justify-content:center}
+  .ring i{width:28px;height:28px;border-radius:50%;background:var(--card2);display:flex;align-items:center;justify-content:center;font-size:.62rem;font-style:normal;color:var(--mut)}
+  .tray{background:rgba(90,169,230,.08);border:1px solid rgba(90,169,230,.3);border-radius:10px;padding:.6rem .8rem;margin-bottom:.6rem}
+  .tray b{color:var(--blue)}
+  .legend{display:flex;gap:.8rem;font-size:.7rem;color:var(--mut2);flex-wrap:wrap;margin-top:.3rem}
+  .legend i{font-style:normal;display:inline-flex;align-items:center;gap:.25rem}
+  .legend .d{width:9px;height:9px;border-radius:50%}
+  /* 3 map */
+  .m-map{position:relative;height:280px;background:radial-gradient(circle at 30% 30%,#161b2b,#0c0e13);border-radius:8px;overflow:hidden}
+  .m-map .node{position:absolute;border-radius:50%;background:var(--mut2);transform:translate(-50%,-50%)}
+  .m-map .node.lit{background:var(--acc);box-shadow:0 0 10px var(--acc)}
+  .m-map .node.avail{background:transparent;border:2px solid var(--blue);box-shadow:0 0 8px rgba(90,169,230,.5)}
+  .m-map svg{position:absolute;inset:0;width:100%;height:100%}
+  .m-map .nlbl{position:absolute;font-size:.62rem;color:var(--mut);transform:translate(-50%,8px)}
+  /* 4 reading */
+  .m-read{max-width:42ch;margin:0 auto}
+  .m-read .meta{font-size:.66rem;color:var(--mut2);letter-spacing:.04em;text-transform:uppercase;margin-bottom:.3rem}
+  .m-read h5{font-family:var(--serif);font-size:1.15rem;margin:0 0 .5rem}
+  .m-read p{font-family:var(--serif);font-size:.86rem;line-height:1.7;color:#d6d3cc;margin:.4rem 0}
+  .themechips{display:flex;gap:.35rem;justify-content:center;margin-top:.7rem}
+  .tc{font-size:.66rem;border:1px solid var(--line);border-radius:99px;padding:.12rem .5rem;color:var(--mut)}
+  .tc.on{border-color:var(--acc);color:var(--acc)}
+  /* 5 project */
+  .deliv{background:linear-gradient(180deg,rgba(124,92,255,.1),transparent);border:1px solid rgba(124,92,255,.4);border-radius:10px;padding:.8rem .9rem;margin-bottom:.7rem}
+  .deliv .k{font-size:.66rem;text-transform:uppercase;letter-spacing:.05em;color:var(--acc2);font-weight:700}
+  .deliv h5{margin:.2rem 0;font-family:var(--serif);font-size:1.05rem}
+  .input{display:flex;align-items:center;gap:.5rem;font-size:.78rem;color:var(--mut);padding:.3rem .5rem;border:1px dashed var(--line);border-radius:8px;margin:.3rem 0}
+  .input .tag{font-size:.62rem;color:var(--acc);border:1px solid rgba(224,164,94,.4);border-radius:99px;padding:.05rem .4rem}
+  /* 6 panel */
+  .cont{background:linear-gradient(180deg,rgba(224,164,94,.12),transparent);border:1px solid rgba(224,164,94,.4);border-radius:10px;padding:.8rem .9rem;margin-bottom:.7rem}
+  .cont .k{font-size:.66rem;text-transform:uppercase;color:var(--acc);font-weight:700;letter-spacing:.05em}
+  .pbar{height:8px;border-radius:99px;background:#2b3140;overflow:hidden;margin:.25rem 0 .5rem}
+  .pbar i{display:block;height:100%;background:var(--good);font-style:normal}
+  .prow{display:flex;justify-content:space-between;font-size:.76rem;color:var(--mut);margin-top:.4rem}
+  .milestone{font-size:.76rem;color:var(--mut);border-left:2px solid var(--acc);padding-left:.6rem;margin-top:.5rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <h1>Propuestas de UX y flujo de aprendizaje</h1>
+  <p>Investigacion para evolucionar la estructura que ya construimos (portada + app SPA con URL por etapa). Seis direcciones de diseno distintas, cada una anclada en principios reales de UX y de ciencia del aprendizaje, con su flujo del usuario por fases y etapas, esquema de URLs, mockup, referencias y que conviene tomar de cada una.</p>
+  <p style="color:var(--mut2);font-size:.85rem"><span class="kbd">Como usar este documento:</span> tocá las pestañas para recorrer cada propuesta, mirá los mockups y los diagramas de flujo, y al final compará todo en la matriz y la recomendacion hibrida. Decime que elementos de cada una querés incorporar; no hace falta elegir una sola, estan pensadas para combinarse por capas.</p>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button class="tab active" data-t="p1">1 · Senda guiada</button>
+  <button class="tab" data-t="p2">2 · Maestria y repaso</button>
+  <button class="tab" data-t="p3">3 · Mapa de conocimiento</button>
+  <button class="tab" data-t="p4">4 · Lectura editorial</button>
+  <button class="tab" data-t="p5">5 · Por proyectos</button>
+  <button class="tab" data-t="p6">6 · Panel y progreso</button>
+  <button class="tab alt" data-t="mx">Comparar</button>
+  <button class="tab alt" data-t="hy">Recomendacion</button>
+</nav>
+
+<!-- ===================== 1 SENDA ===================== -->
+<section class="panel show" id="p1">
+  <div class="phead"><span class="pnum">1</span><h2>Senda guiada</h2></div>
+  <p class="esencia">Un camino vertical unico, paso a paso, donde siempre hay una sola <b>proxima etapa</b> iluminada y el resto se desbloquea al avanzar. El curso deja de ser un catalogo de 103 items y se vuelve un sendero con principio, fases y meta, sostenido por progreso visible y micro-recompensas. <span class="chip">estilo Duolingo Path</span></p>
+  <div class="grid2">
+    <div>
+      <h3 class="sec">Mockup</h3>
+      <div class="mock">
+        <div class="mock-bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="mock-url">/senda</span></div>
+        <div class="mock-body">
+          <span class="streak">Racha: 4 dias</span>
+          <div class="m-senda">
+            <div class="line"></div>
+            <div class="station done"><div class="bub">7</div><div class="lbl">Platon — Apologia</div></div>
+            <div class="station done"><div class="bub">8</div><div class="lbl">Aristoteles — Politica</div></div>
+            <div class="station cur"><div class="bub">9</div><div class="lbl"><b>Maquiavelo — El Principe</b><br><span style="font-size:.7rem;color:var(--acc)">proxima etapa</span></div></div>
+            <div class="station lock"><div class="bub">10</div><div class="lbl">Yale — Maquiavelo</div></div>
+            <div class="station lock"><div class="bub">11</div><div class="lbl">Hobbes — Leviatan</div></div>
+          </div>
+          <button class="m-cta">Continuar etapa 9 &rarr;</button>
+        </div>
+      </div>
+      <p class="caption">Una sola accion clara. Lo hecho con check, lo actual pulsante, lo futuro atenuado.</p>
+    </div>
+    <div>
+      <h3 class="sec">Flujo del usuario</h3>
+      <div class="flow">
+        <div class="step"><div class="n">01</div><div class="t">Entrar a la senda: ver fases y proxima etapa</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">02</div><div class="t">Boton unico: Empezar etapa</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">03</div><div class="t">Leer (barra de avance)</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">04</div><div class="t">Tareas / debate / prompt</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">05</div><div class="t">Recompensa + Siguiente etapa</div></div>
+      </div>
+      <h3 class="sec">Esquema de URLs</h3>
+      <pre class="urls"><span class="c"># una sola proxima accion</span>
+/senda            <span class="c">mapa vertical, proxima etapa resaltada</span>
+<span class="p">/siguiente</span>        <span class="c">redirige a la 1ra etapa no completada</span>
+/fase/3           <span class="c">tramo: etapas de la fase</span>
+/etapa/30         <span class="c">(compat. con curso.html#/etapa-30)</span>
+/ruta             <span class="c">elegir profundidad 25 / 60 / 103</span>
+/progreso         <span class="c">racha, hitos, actividad</span></pre>
+      <h3 class="sec">Estetica</h3>
+      <div class="pal">
+        <span class="sw" style="background:#f5efe2"></span><span class="sw" style="background:#1a1a1a"></span>
+        <span class="sw" style="background:#c06a4a"></span><span class="sw" style="background:#6b7a4a"></span>
+        <span style="font-size:.8rem;color:var(--mut)">Papel con sendero. Acento calido solo para nodo activo, racha y checks. Serif para lectura, sans para UI. Vibe de peregrinacion intelectual, sobrio, nada arcade.</span>
+      </div>
+    </div>
+  </div>
+  <h3 class="sec">Incentivo al estudio</h3>
+  <div class="card">Proxima accion unica + boton <i>/siguiente</i> (maxima facilidad del modelo Fogg). Barra de fase con efecto goal-gradient ("te faltan 3 para cerrar la Fase 4"). Progreso "regalado" al elegir ruta (endowed progress). Racha diaria con tolerancia para no castigar. <b>Cuidado:</b> las recompensas deben reforzar la competencia, no reemplazarla; nada de puntos vacios sobre contenido serio.</div>
+  <div class="pc" style="margin-top:1rem">
+    <div class="b pros"><h4>Pros</h4><ul><li>Elimina la paralisis de 103 items</li><li>Retencion/finalizacion probadas (caso Duolingo)</li><li>Friccion minima, ideal principiantes</li></ul></div>
+    <div class="b cons"><h4>Contras</h4><ul><li>El desbloqueo frustra a avanzados que quieren saltar</li><li>El orden lineal choca con textos no secuenciales</li><li>Rachas mal calibradas generan culpa</li></ul></div>
+    <div class="b ideal"><h4>Ideal para</h4><ul><li>Quien empieza de cero y valora "decime que leo hoy" sobre la libertad total</li></ul></div>
+  </div>
+  <div class="take"><h4>Que tomar de aca (sin frameworks)</h4>
+    <ol><li><b>Boton "Continuar" / ruta /siguiente:</b> calcular la 1ra etapa no completada de la ruta desde localStorage. La mecanica de mayor impacto y mas barata.</li>
+    <li><b>Barra de progreso por fase</b> con goal-gradient: contador X/Y y resalte cuando faltan pocas. Solo CSS + calculo.</li>
+    <li><b>Estado visual de nodos</b> (completado/actual/bloqueado) y racha simple en el sidebar.</li></ol>
+  </div>
+  <h3 class="sec">Referencias</h3>
+  <ul class="refs">
+    <li>Duolingo, rediseno del Path (camino lineal, menos confusion) — <a href="https://blog.duolingo.com/new-duolingo-home-screen-design/" target="_blank">blog.duolingo.com</a></li>
+    <li>Goal-gradient / endowed progress — Kivetz, Urminsky &amp; Zheng (2006) — <a href="https://business.columbia.edu/insights/chazen-global-insights/goal-gradient-hypothesis-resurrected-purchase-acceleration" target="_blank">Columbia</a></li>
+    <li>Self-Determination Theory (autonomia, competencia, relacion) — Deci &amp; Ryan — <a href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank">APA</a></li>
+    <li>Fogg Behavior Model (B=MAP) — <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank">Stanford BDL</a></li>
+    <li>Wizards / flujo guiado &amp; indicadores de progreso — <a href="https://www.nngroup.com/articles/wizards/" target="_blank">NN/g Wizards</a>, <a href="https://www.nngroup.com/articles/progress-indicators/" target="_blank">NN/g Progress</a></li>
+  </ul>
+</section>
+
+<!-- ===================== 2 MAESTRIA ===================== -->
+<section class="panel" id="p2">
+  <div class="phead"><span class="pnum">2</span><h2>Maestria y repeticion espaciada</h2></div>
+  <p class="esencia">El objetivo no es avanzar sino <b>dominar</b>: cada etapa se desbloquea como dominada solo tras aprobar un auto-test de recuperacion, y el sistema reprograma repasos espaciados de lo ya visto para vencer el olvido. El Zettelkasten y los quizzes socraticos que el curso ya tiene se vuelven el motor de la practica. <span class="chip">estilo Anki / Khan mastery</span></p>
+  <div class="grid2">
+    <div>
+      <h3 class="sec">Mockup</h3>
+      <div class="mock">
+        <div class="mock-bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="mock-url">/dominio</span></div>
+        <div class="mock-body">
+          <div class="tray">Repasos de hoy: <b>4</b> &nbsp;·&nbsp; <span style="color:var(--mut2)">bandeja diaria, cerrable</span></div>
+          <div class="m-card"><div class="ring" style="--p:100"><i>100</i></div><div><div style="font-size:.84rem">26 · Marx — El Capital</div><div style="font-size:.7rem;color:var(--good)">Dominada</div></div></div>
+          <div class="m-card"><div class="ring" style="--p:60"><i>60</i></div><div><div style="font-size:.84rem">31 · Foucault — Vigilar y castigar</div><div style="font-size:.7rem;color:var(--acc)">En progreso · test pendiente</div></div></div>
+          <div class="m-card"><div class="ring" style="--p:0"><i>0</i></div><div><div style="font-size:.84rem">34 · Rawls — Teoria de la justicia</div><div style="font-size:.7rem;color:var(--mut2)">Sin ver</div></div></div>
+          <div class="legend"><i><span class="d" style="background:var(--mut2)"></span>sin ver</i><i><span class="d" style="background:var(--acc)"></span>en progreso</i><i><span class="d" style="background:var(--good)"></span>dominada</i><i><span class="d" style="background:var(--blue)"></span>repaso hoy</i></div>
+        </div>
+      </div>
+      <p class="caption">Anillo de dominio por etapa. No se marca a mano: lo habilita aprobar el test.</p>
+    </div>
+    <div>
+      <h3 class="sec">Flujo del usuario</h3>
+      <div class="flow">
+        <div class="step"><div class="n">01</div><div class="t">Panel: cola por dominar + repasos de hoy</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">02</div><div class="t">Leer + notas Zettelkasten</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">03</div><div class="t">Auto-test de recuperacion</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">04</div><div class="t">Si supera umbral: Dominada + siembra repasos</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">05</div><div class="t">Cola espaciada 1d/3d/7d/21d</div></div>
+      </div>
+      <h3 class="sec">Esquema de URLs</h3>
+      <pre class="urls">/dominio          <span class="c">dos colas: por dominar / repasos hoy</span>
+/etapa/26         <span class="c">contenido</span>
+<span class="p">/etapa/26/test</span>    <span class="c">auto-test que desbloquea dominio</span>
+/repaso           <span class="c">sesion de repasos del dia</span>
+/ruta/60          <span class="c">estado de dominio por etapa</span>
+/progreso         <span class="c">curva de retencion, % dominado</span></pre>
+      <h3 class="sec">Estetica</h3>
+      <div class="pal">
+        <span class="sw" style="background:#2b3140"></span><span class="sw" style="background:#5bbf8a"></span>
+        <span class="sw" style="background:#e0a45e"></span><span class="sw" style="background:#5aa9e6"></span>
+        <span style="font-size:.8rem;color:var(--mut)">Orientada al estado, no a la decoracion. Color = estado (gris/ambar/verde/azul). Bandeja de repasos que llega a cero como recompensa. Microinteraccion sobria: "+7 dias".</span>
+      </div>
+    </div>
+  </div>
+  <h3 class="sec">Incentivo al estudio</h3>
+  <div class="card">El incentivo es epistemico: la barra de dominio solo sube si demostras recuperacion, asi que avanzar es prueba real de comprension. La cola diaria combate la curva del olvido de Ebbinghaus: en vez de "lei 103 libros y olvide 80", sostenes un cuerpo vivo de teoria recuperable. Fallar no castiga: reprograma. Clave para teoria politica, donde el valor esta en traer a la memoria y contrastar argumentos (Hobbes vs Rousseau) meses despues.</div>
+  <div class="pc" style="margin-top:1rem">
+    <div class="b pros"><h4>Pros</h4><ul><li>Retencion real y duradera (evidencia robusta)</li><li>El avance significa algo</li><li>Encaja nativo con el Zettelkasten y los quizzes ya existentes</li></ul></div>
+    <div class="b cons"><h4>Contras</h4><ul><li>Friccion alta: no podes "solo avanzar"</li><li>Escribir buenos prompts para 103 etapas es costoso</li><li>Medir "dominio" en interpretacion es dificil</li></ul></div>
+    <div class="b ideal"><h4>Ideal para</h4><ul><li>El autodidacta serio de largo plazo que quiere que la teoria le quede usable, no consumida y olvidada</li></ul></div>
+  </div>
+  <div class="take"><h4>Que tomar de aca (sin frameworks)</h4>
+    <ol><li><b>Dominio gateado por test</b> en localStorage: por etapa {status, score, due}. El boton "Marcar dominada" arranca deshabilitado y lo habilita aprobar el test (~30 lineas sobre lo que ya hay).</li>
+    <li><b>Scheduler espaciado minimo:</b> funcion nextInterval con escala 1-3-7-21-60 dias (acierto avanza, fallo vuelve a 1). Despues podes cambiar a FSRS sin tocar la UI.</li>
+    <li><b>Reciclar los quizzes socraticos</b> como prompts atomicos de recuperacion: doble uso en el test de desbloqueo y en la cola de repaso. Cero contenido nuevo.</li></ol>
+  </div>
+  <h3 class="sec">Referencias</h3>
+  <ul class="refs">
+    <li>Testing effect / practica de recuperacion — Roediger &amp; Karpicke (2006) — <a href="https://learninglab.psych.purdue.edu/downloads/2007/2007_Karpicke_Roediger_JML.pdf" target="_blank">PDF</a></li>
+    <li>Curva del olvido / spacing — Ebbinghaus — <a href="https://en.wikipedia.org/wiki/Forgetting_curve" target="_blank">resumen</a></li>
+    <li>Mastery learning — Bloom (1968) — <a href="https://en.wikipedia.org/wiki/Mastery_learning" target="_blank">resumen</a></li>
+    <li>Algoritmo de repaso espaciado (FSRS, MIT) — <a href="https://github.com/open-spaced-repetition/fsrs4anki" target="_blank">GitHub</a></li>
+    <li>Como escribir buenos prompts de recuperacion — Andy Matuschak — <a href="https://andymatuschak.org/prompts/" target="_blank">andymatuschak.org</a></li>
+    <li>Make It Stick — Brown, Roediger &amp; McDaniel (2014) — <a href="https://www.hup.harvard.edu/books/9780674729018" target="_blank">Harvard UP</a></li>
+  </ul>
+</section>
+
+<!-- ===================== 3 MAPA ===================== -->
+<section class="panel" id="p3">
+  <div class="phead"><span class="pnum">3</span><h2>Mapa de conocimiento / exploracion</h2></div>
+  <p class="esencia">En vez de un camino lineal, el usuario navega un <b>grafo de autores e ideas interconectadas</b> (grafo de Obsidian + arbol tecnologico de videojuego): ve dependencias conceptuales, que desbloquea que, y elige su recorrido. El SVG de mapa que la app ya tiene es la base. <span class="chip">estilo Obsidian / tech-tree</span></p>
+  <div class="grid2">
+    <div>
+      <h3 class="sec">Mockup</h3>
+      <div class="mock">
+        <div class="mock-bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="mock-url">/mapa</span></div>
+        <div class="mock-body">
+          <div class="m-map">
+            <svg><line x1="22%" y1="30%" x2="45%" y2="22%" stroke="#3a4256" stroke-width="1.5"/><line x1="45%" y1="22%" x2="68%" y2="38%" stroke="#3a4256" stroke-width="1.5"/><line x1="45%" y1="22%" x2="40%" y2="60%" stroke="#3a4256" stroke-width="1.5"/><line x1="68%" y1="38%" x2="82%" y2="64%" stroke="#3a4256" stroke-width="1.5"/><line x1="40%" y1="60%" x2="62%" y2="78%" stroke="#3a4256" stroke-width="1.5"/></svg>
+            <div class="node lit" style="left:22%;top:30%;width:16px;height:16px"></div><div class="nlbl" style="left:22%;top:30%">Platon</div>
+            <div class="node lit" style="left:45%;top:22%;width:22px;height:22px"></div><div class="nlbl" style="left:45%;top:22%">Maquiavelo</div>
+            <div class="node avail" style="left:68%;top:38%;width:18px;height:18px"></div><div class="nlbl" style="left:68%;top:38%">Hobbes</div>
+            <div class="node" style="left:40%;top:60%;width:14px;height:14px"></div><div class="nlbl" style="left:40%;top:60%">Schmitt</div>
+            <div class="node" style="left:82%;top:64%;width:14px;height:14px"></div><div class="nlbl" style="left:82%;top:64%">Rousseau</div>
+            <div class="node" style="left:62%;top:78%;width:13px;height:13px"></div><div class="nlbl" style="left:62%;top:78%">Rawls</div>
+          </div>
+          <div class="legend" style="margin-top:.5rem"><i><span class="d" style="background:var(--acc)"></span>completado</i><i><span class="d" style="background:transparent;border:2px solid var(--blue)"></span>disponible</i><i><span class="d" style="background:var(--mut2)"></span>bloqueado</i></div>
+        </div>
+      </div>
+      <p class="caption">El territorio se enciende al estudiar. Tamano del nodo = centralidad (cuantas etapas dependen).</p>
+    </div>
+    <div>
+      <h3 class="sec">Flujo del usuario</h3>
+      <div class="flow">
+        <div class="step"><div class="n">01</div><div class="t">Mapa: nodos por fase, aristas = dependencias</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">02</div><div class="t">Hover: scent (que desbloquea)</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">03</div><div class="t">Panel de nodo: viene de / habilita / cruces</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">04</div><div class="t">Estudiar la etapa</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">05</div><div class="t">Volver: nodo encendido, se desbloquean dependientes</div></div>
+      </div>
+      <h3 class="sec">Esquema de URLs</h3>
+      <pre class="urls">/mapa             <span class="c">grafo completo (default)</span>
+/mapa/ruta/25     <span class="c">resalta solo nodos de la ruta</span>
+<span class="p">/nodo/maquiavelo</span>  <span class="c">local graph: prereqs + desbloqueos</span>
+/conexion/9-11    <span class="c">por que Maquiavelo conecta con Hobbes</span>
+/idea/soberania   <span class="c">nodo conceptual (todos los autores que la tocan)</span></pre>
+      <h3 class="sec">Estetica</h3>
+      <div class="pal">
+        <span class="sw" style="background:#0c0e13"></span><span class="sw" style="background:#161b2b"></span>
+        <span class="sw" style="background:#e0a45e"></span><span class="sw" style="background:#5aa9e6"></span>
+        <span style="font-size:.8rem;color:var(--mut)">Constelacion / tech-tree: fondo noche, nodos como estrellas, aristas curvas finas. Hover ilumina el subgrafo y atenua el resto. Un cielo de ideas que se enciende.</span>
+      </div>
+    </div>
+  </div>
+  <h3 class="sec">Incentivo al estudio</h3>
+  <div class="card">Tres mecanismos reales: (1) <b>territorio que se enciende</b> — ver el mapa pasar de oscuro a iluminado es feedback mas visceral que una barra de %. (2) <b>desbloqueo con sentido</b> — completar Maquiavelo abre Hobbes; el "que sigue" se vuelve curiosidad estructural. (3) <b>el todo conectado</b> — ver cruces (Schmitt-Hobbes-Maquiavelo sobre soberania) produce el insight de que lo valioso son las conexiones, y cada libro nuevo re-ilumina los leidos.</div>
+  <div class="pc" style="margin-top:1rem">
+    <div class="b pros"><h4>Pros</h4><ul><li>Respeta la autonomia del autodidacta</li><li>Hace visible la estructura real del campo (la teoria politica ES un grafo)</li><li>Reutiliza el SVG existente</li></ul></div>
+    <div class="b cons"><h4>Contras (riesgo central)</h4><ul><li>Sobrecarga y paralisis: 103 nodos juntos = clutter</li><li>Paradoja de eleccion para el principiante</li><li>Mitigar: arrancar colapsado por fase + boton "sugerime el proximo"</li></ul></div>
+    <div class="b ideal"><h4>Ideal para</h4><ul><li>Intermedios/avanzados que ya saben algo y quieren explorar relaciones. No como UNICA vista del dia 1.</li></ul></div>
+  </div>
+  <div class="take"><h4>Que tomar de aca (ya hay un SVG)</h4>
+    <ol><li><b>Estados de nodo por CSS + localStorage:</b> clases completado/disponible/bloqueado sobre los circulos del SVG. El mapa "se enciende" con CSS puro.</li>
+    <li><b>Panel de local graph al click:</b> un JSON {etapa:{prereqs,desbloquea,crosslinks}} y resaltar esos nodos atenuando el resto. Sin motor de grafos.</li>
+    <li><b>Tooltips con scent + filtro por ruta:</b> toggle 25/60/103 que atenua nodos fuera de la ruta. Combate la sobrecarga.</li></ol>
+  </div>
+  <h3 class="sec">Referencias</h3>
+  <ul class="refs">
+    <li>Notas densamente enlazadas / orientadas a concepto — Andy Matuschak — <a href="https://notes.andymatuschak.org/Evergreen_notes_should_be_densely_linked" target="_blank">evergreen notes</a></li>
+    <li>Teoria de los mapas conceptuales — Novak &amp; Canas (IHMC) — <a href="https://cmap.ihmc.us/docs/theory-of-concept-maps" target="_blank">IHMC</a></li>
+    <li>Graph view (nodo=nota, linea=link) — <a href="https://obsidian.md/help/plugins/graph" target="_blank">Obsidian</a></li>
+    <li>Skill trees / tech-tree en game design — <a href="https://gamedesigning.org/learn/skill-trees/" target="_blank">gamedesigning.org</a></li>
+    <li>Information scent &amp; foraging — <a href="https://www.nngroup.com/articles/information-scent/" target="_blank">NN/g</a></li>
+  </ul>
+</section>
+
+<!-- ===================== 4 LECTURA ===================== -->
+<section class="panel" id="p4">
+  <div class="phead"><span class="pnum">4</span><h2>Lectura editorial / foco</h2></div>
+  <p class="esencia">El protagonista absoluto es el <b>texto</b>: cada etapa se lee como un articulo de revista digital (tipografia editorial, columna angosta, modo foco/sepia/oscuro), y las herramientas (tareas, debate, prompt) se revelan progresivamente sin competir nunca con la lectura. <span class="chip">estilo Readwise Reader / Matter</span></p>
+  <div class="grid2">
+    <div>
+      <h3 class="sec">Mockup</h3>
+      <div class="mock">
+        <div class="mock-bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="mock-url">/leer/etapa-30?tema=sepia</span></div>
+        <div class="mock-body" style="background:#f4ecd8">
+          <div class="m-read">
+            <div class="meta" style="color:#8a7a5c">Fase 3 · Etapa 30 · 45 min</div>
+            <h5 style="color:#5b4636">Weber — La politica como vocacion</h5>
+            <p style="color:#5b4636">El Estado moderno es aquella comunidad humana que, dentro de un territorio, reclama para si el monopolio de la violencia fisica legitima. La politica, entonces, es la aspiracion a participar en el poder o a influir en su reparto.</p>
+            <p style="color:#5b4636">Quien hace politica aspira al poder. Y aqui Weber distingue dos eticas irreconciliables: la de la conviccion y la de la responsabilidad...</p>
+            <div class="themechips"><span class="tc">claro</span><span class="tc on">sepia</span><span class="tc">oscuro</span><span class="tc">foco</span></div>
+          </div>
+        </div>
+      </div>
+      <p class="caption">Columna de 60-66 caracteres, serif, interlineado 1.55. Las herramientas aparecen al final, en flujo.</p>
+    </div>
+    <div>
+      <h3 class="sec">Flujo del usuario</h3>
+      <div class="flow">
+        <div class="step"><div class="n">01</div><div class="t">Entrada sobria: continuar leyendo</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">02</div><div class="t">Etapa como pieza de lectura (solo texto)</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">03</div><div class="t">Al final: "Ahora que leiste" revela tareas</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">04</div><div class="t">Debate y prompt, en secuencia</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">05</div><div class="t">Cierre tipografico: Etapa 31 &rarr;</div></div>
+      </div>
+      <h3 class="sec">Esquema de URLs</h3>
+      <pre class="urls">/leer/etapa-30           <span class="c">etapa como pieza de lectura</span>
+<span class="p">/leer/etapa-30?foco=1</span>    <span class="c">oculta toda la UI salvo el texto</span>
+/leer/etapa-30?tema=sepia <span class="c">claro | sepia | oscuro (persistido)</span>
+/leer/etapa-30#debate     <span class="c">ancla al bloque revelado</span>
+/fase/4                   <span class="c">indice de lectura (no dashboard)</span></pre>
+      <h3 class="sec">Estetica</h3>
+      <div class="pal">
+        <span class="sw" style="background:#fbfaf7"></span><span class="sw" style="background:#f4ecd8"></span>
+        <span class="sw" style="background:#1b1b1b"></span><span class="sw" style="background:#5b4636"></span>
+        <span style="font-size:.8rem;color:var(--mut)">Serif editorial (Source Serif 4 / Charter / Literata), cuerpo 19-21px, interlineado 1.5-1.6, medida 60-66 car. Tres temas. Dark con blanco apagado (no #FFF) para evitar halation.</span>
+      </div>
+    </div>
+  </div>
+  <h3 class="sec">Incentivo al estudio</h3>
+  <div class="card">El motor es el <b>placer de leer sin friccion</b>: con el texto bien compuesto y nada que distraiga, entrar en flow es mas facil y la sesion se alarga sola. El progreso se siente como avanzar en un libro, no como llenar una barra: terminar una etapa da el mismo cierre que terminar un capitulo, y "Etapa 31 &rarr;" invita a una mas. Sepia y foco bajan la fatiga visual, asi que la barrera para volver manana es menor.</div>
+  <div class="pc" style="margin-top:1rem">
+    <div class="b pros"><h4>Pros</h4><ul><li>Maxima retencion de lectura profunda</li><li>Cero sobrecarga cognitiva (respeta split-attention)</li><li>Esteticamente atemporal; trivial en HTML/CSS</li></ul></div>
+    <div class="b cons"><h4>Contras</h4><ul><li>Poca visibilidad del mapa completo</li><li>Progreso menos cuantificado, menos dopamina inmediata</li><li>Debate/prompt plegados pueden infrautilizarse</li></ul></div>
+    <div class="b ideal"><h4>Ideal para</h4><ul><li>Lector solitario que valora la concentracion sobre la metrica: justo el perfil de teoria politica densa</li></ul></div>
+  </div>
+  <div class="take"><h4>Que tomar de aca (sin frameworks)</h4>
+    <ol><li><b>CSS de lectura como base de todo:</b> article{max-width:34rem;margin:0 auto;font:20px/1.55 serif}. Una regla da el 80% de la direccion.</li>
+    <li><b>Tres temas con CSS custom properties + data-tema</b> en &lt;html&gt;, toggle de ~10 lineas a localStorage. Sepia y oscuro con blanco apagado.</li>
+    <li><b>Revelacion progresiva con &lt;details&gt;/&lt;summary&gt; nativos</b> (cero JS) para tareas/debate/prompt al final del articulo.</li></ol>
+  </div>
+  <h3 class="sec">Referencias</h3>
+  <ul class="refs">
+    <li>Medida (45-90 car/linea) — Matthew Butterick, Practical Typography — <a href="https://practicaltypography.com/line-length.html" target="_blank">line length</a></li>
+    <li>Progressive disclosure — Jakob Nielsen, NN/g — <a href="https://www.nngroup.com/articles/progressive-disclosure/" target="_blank">NN/g</a></li>
+    <li>Carga cognitiva / split-attention — John Sweller — <a href="https://en.wikipedia.org/wiki/Cognitive_load" target="_blank">resumen</a></li>
+    <li>Modo oscuro: como lo piensan los usuarios — NN/g (2023) — <a href="https://www.nngroup.com/articles/dark-mode-users-issues/" target="_blank">NN/g</a></li>
+    <li>Reading-first como producto — <a href="https://readwise.io/read" target="_blank">Readwise Reader</a></li>
+  </ul>
+</section>
+
+<!-- ===================== 5 PROYECTOS ===================== -->
+<section class="panel" id="p5">
+  <div class="phead"><span class="pnum">5</span><h2>Aprendizaje por proyectos / portfolio</h2></div>
+  <p class="esencia">El curso se reorganiza alrededor de los <b>entregables</b> (ensayos, tesina), no de las lecturas: cada fase abre con el ensayo que vas a producir, y los 103 libros se presentan como insumos a su servicio. Lees siempre sabiendo "para que", y terminas con un portfolio de pensamiento propio. <span class="chip">estilo Backward Design / PBL</span></p>
+  <div class="grid2">
+    <div>
+      <h3 class="sec">Mockup</h3>
+      <div class="mock">
+        <div class="mock-bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="mock-url">/proyecto/fase-4</span></div>
+        <div class="mock-body">
+          <div class="deliv">
+            <div class="k">Entregable de la fase</div>
+            <h5>Ensayo: el problema del Estado</h5>
+            <div style="font-size:.78rem;color:var(--mut)">Consigna + pregunta-guia + rubrica. Estado: <b style="color:var(--acc2)">borrador</b></div>
+          </div>
+          <div style="font-size:.72rem;color:var(--mut2);text-transform:uppercase;letter-spacing:.05em;margin:.5rem 0 .3rem">Lecturas que lo alimentan</div>
+          <div class="input"><span class="tag">aporta</span> 48 · Bolivar — Carta de Jamaica</div>
+          <div class="input"><span class="tag">aporta</span> 57 · Quijano — Colonialidad del poder</div>
+          <div class="input"><span class="tag">aporta</span> 30 · Weber — monopolio de la violencia</div>
+        </div>
+      </div>
+      <p class="caption">El entregable arriba; las lecturas, subordinadas, etiquetadas con "que aporta a tu argumento".</p>
+    </div>
+    <div>
+      <h3 class="sec">Flujo del usuario</h3>
+      <div class="flow">
+        <div class="step"><div class="n">01</div><div class="t">Abrir fase: lo primero es el entregable, no la lista</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">02</div><div class="t">Ver lecturas como insumos del ensayo</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">03</div><div class="t">Estudiar con ese fin (banner "para:")</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">04</div><div class="t">Borrador con insumos acumulados</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">05</div><div class="t">Entregable al portfolio &rarr; siguiente fase</div></div>
+      </div>
+      <h3 class="sec">Esquema de URLs</h3>
+      <pre class="urls">/proyecto/fase-4          <span class="c">fase orientada al entregable</span>
+<span class="p">/entregable/ensayo-estado</span> <span class="c">consigna, rubrica, insumos, estado</span>
+/etapa/57?para=ensayo-estado <span class="c">etapa con contexto del entregable</span>
+/portfolio                <span class="c">todos los entregables producidos</span>
+/portfolio/tesina         <span class="c">capstone que enlaza los ensayos</span></pre>
+      <h3 class="sec">Estetica</h3>
+      <div class="pal">
+        <span class="sw" style="background:#1b1f2a"></span><span class="sw" style="background:#7c5cff"></span>
+        <span class="sw" style="background:#e7e9ee"></span>
+        <span style="font-size:.8rem;color:var(--mut)">Estetica de taller/studio: cada fase es un banco de trabajo con el entregable como pieza central y los insumos como materiales. El portfolio, una vitrina de obra propia.</span>
+      </div>
+    </div>
+  </div>
+  <h3 class="sec">Incentivo al estudio</h3>
+  <div class="card">El motor no es completar lecturas sino <b>terminar piezas</b>: el progreso se mide en entregables producidos (1/9 ensayos &rarr; tesina), no en paginas leidas. Cada lectura tiene un "para que" inmediato, lo que elimina la lectura sin rumbo. El portfolio convierte el esfuerzo en algo tangible y acumulativo, y la opcion de compartir activa el efecto "learning in public": producir algo real para una audiencia eleva el estandar de esfuerzo.</div>
+  <div class="pc" style="margin-top:1rem">
+    <div class="b pros"><h4>Pros</h4><ul><li>Maxima claridad de proposito (nunca lees "porque si")</li><li>Alineacion pedagogica fuerte (backward design)</li><li>El portfolio es un activo reutilizable</li></ul></div>
+    <div class="b cons"><h4>Contras</h4><ul><li>Riesgo de leer instrumentalmente y perder riqueza</li><li>Exige disenar buenas consignas y rubricas</li><li>Las 3 rutas complican que insumo es obligatorio</li></ul></div>
+    <div class="b ideal"><h4>Ideal para</h4><ul><li>Orientados a resultados que quieren salir con algo escrito y demostrable, no solo "haber leido"</li></ul></div>
+  </div>
+  <div class="take"><h4>Que tomar de aca (sin frameworks)</h4>
+    <ol><li><b>Invertir la jerarquia visual de la fase:</b> el ensayo/tesina arriba con su consigna; las lecturas debajo con una linea de "que aporta". Solo reordenar HTML + un campo "aporta:".</li>
+    <li><b>Banner "para:" en cada etapa</b> via ?para= en la URL, que muestra el entregable activo y enlaza a su ficha.</li>
+    <li><b>Vista /portfolio:</b> lista de entregables por fase con estado (sin empezar/borrador/entregado) en localStorage. Sensacion de obra acumulada sin backend.</li></ol>
+  </div>
+  <h3 class="sec">Referencias</h3>
+  <ul class="refs">
+    <li>Backward Design — Wiggins &amp; McTighe, Understanding by Design — <a href="https://fctl.ucf.edu/teaching-resources/course-design/backward-design/" target="_blank">UCF</a></li>
+    <li>Gold Standard PBL (producto publico) — PBLWorks / Buck Institute — <a href="https://www.pblworks.org/what-is-pbl/gold-standard-project-design" target="_blank">pblworks.org</a></li>
+    <li>Construccionismo — Seymour Papert — <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/seymour-papert-and-constructionism" target="_blank">resumen</a></li>
+    <li>Learn in Public — Shawn Wang (swyx) — <a href="https://www.swyx.io/learn-in-public" target="_blank">swyx.io</a></li>
+    <li>Understanding by Design — <a href="https://en.wikipedia.org/wiki/Understanding_by_Design" target="_blank">resumen</a></li>
+  </ul>
+</section>
+
+<!-- ===================== 6 PANEL ===================== -->
+<section class="panel" id="p6">
+  <div class="phead"><span class="pnum">6</span><h2>Panel adaptativo + gamificacion responsable</h2></div>
+  <p class="esencia">Un <b>tablero personal de inicio</b> que convierte el progreso en una narrativa de competencia creciente: muestra donde estas, que seguir y por que importa, con gamificacion "white hat" (sentido, maestria, autonomia) y sin puntos vacios que erosionan la motivacion intrinseca. <span class="chip">estilo Khan Academy + Octalysis</span></p>
+  <div class="grid2">
+    <div>
+      <h3 class="sec">Mockup</h3>
+      <div class="mock">
+        <div class="mock-bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="mock-url">/panel</span></div>
+        <div class="mock-body">
+          <div class="cont">
+            <div class="k">Continua donde quedaste</div>
+            <div style="font-size:.92rem;margin:.25rem 0">Etapa 12 · Yale — Hobbes</div>
+            <button class="m-cta" style="margin-top:.3rem">Retomar &rarr;</button>
+          </div>
+          <div style="font-size:.78rem;color:var(--mut)">Fase 1 — Filosofia clasica</div>
+          <div class="pbar"><i style="width:72%"></i></div>
+          <div style="font-size:.78rem;color:var(--mut)">Fase 3 — Sociopolitica s.XX</div>
+          <div class="pbar"><i style="width:20%"></i></div>
+          <div class="prow"><span>Ruta Intermedia</span><span>12 / 60 etapas</span></div>
+          <div class="milestone">Hito: cerraste los Clasicos — ya leiste a Platon, Aristoteles y Maquiavelo.</div>
+        </div>
+      </div>
+      <p class="caption">Estado, proxima accion y contexto, en ese orden. Barras horizontales (atributo preatentivo fiable).</p>
+    </div>
+    <div>
+      <h3 class="sec">Flujo del usuario</h3>
+      <div class="flow">
+        <div class="step"><div class="n">01</div><div class="t">Entrar al panel (no al indice de 103)</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">02</div><div class="t">"Continua donde quedaste" domina</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">03</div><div class="t">Ir a la etapa, sin friccion</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">04</div><div class="t">Volver: panel actualizado al instante</div></div>
+        <div class="step bridge">&rarr;</div>
+        <div class="step"><div class="n">05</div><div class="t">Hito por fase, en lenguaje de competencia</div></div>
+      </div>
+      <h3 class="sec">Esquema de URLs</h3>
+      <pre class="urls">/panel            <span class="c">dashboard del que ya empezo</span>
+<span class="p">/continuar</span>        <span class="c">redirige a la ultima etapa incompleta</span>
+/progreso         <span class="c">9 fases, 3 rutas, fortalezas/huecos</span>
+/logros           <span class="c">bitacora de hitos por fase</span>
+/rutas            <span class="c">elegir 25 / 60 / 103</span></pre>
+      <h3 class="sec">Estetica</h3>
+      <div class="pal">
+        <span class="sw" style="background:#151821"></span><span class="sw" style="background:#5bbf8a"></span>
+        <span class="sw" style="background:#e0a45e"></span>
+        <span style="font-size:.8rem;color:var(--mut)">Sobria, "biblioteca personal", no arcade. Una columna con la accion dominante. Barras horizontales (no medidores circulares). Hitos como bitacora sobria, sin medallas ni confeti.</span>
+      </div>
+    </div>
+  </div>
+  <h3 class="sec">Incentivo al estudio</h3>
+  <div class="card">Motor white hat: <b>Development &amp; Accomplishment</b> (ver maestria crecer) + <b>Epic Meaning</b> (estas construyendo una formacion, no farmeando puntos). Zeigarnik/goal-gradient para empujar el ultimo tramo de una fase; endowed progress (la ruta arranca ya iniciada); hitos que nombran competencia ("ahora podes contrastar a Hobbes con Rousseau"). <b>Advertencia (overjustification, Deci &amp; Ryan):</b> no pongas puntos, XP ni leaderboards sobre algo ya intrinsecamente interesante; 128 experimentos muestran que la recompensa externa puede reducir el interes. Sin rankings ni streaks que castiguen el dia perdido (eso es black hat).</div>
+  <div class="pc" style="margin-top:1rem">
+    <div class="b pros"><h4>Pros</h4><ul><li>Aprovecha la infra que ya existe (localStorage + barras)</li><li>Reduce la paralisis de "por donde sigo"</li><li>Respeta la motivacion intrinseca</li></ul></div>
+    <div class="b cons"><h4>Contras</h4><ul><li>Modelar "fortalezas/huecos" es mas logica que una barra</li><li>Riesgo de over-engineering con demasiados modulos</li><li>Solo sirve para quien ya empezo (el nuevo necesita otro on-ramp)</li></ul></div>
+    <div class="b ideal"><h4>Ideal para</h4><ul><li>Autoestudiantes de largo plazo (meses) que vuelven y necesitan retomar el hilo sin reorientarse</li></ul></div>
+  </div>
+  <div class="take"><h4>Que tomar de aca (sin frameworks)</h4>
+    <ol><li><b>Tarjeta "Continua donde quedaste"</b> al tope de /panel: ultima etapa incompleta desde localStorage + boton unico. ~30 lineas y captura el 80% del valor.</li>
+    <li><b>Mostrar la ruta como ya iniciada</b> (endowed progress) y resaltar "te faltan N para cerrar esta fase" en vez del total lejano.</li>
+    <li><b>Hitos por fase en lenguaje de competencia</b>, no puntos: al completar una fase, una linea de bitacora ("Cerraste los Clasicos"). Cero leaderboard.</li></ol>
+  </div>
+  <h3 class="sec">Referencias</h3>
+  <ul class="refs">
+    <li>Octalysis (white hat vs black hat) — Yu-kai Chou — <a href="https://yukaichou.com/gamification-examples/octalysis-gamification-framework/" target="_blank">yukaichou.com</a></li>
+    <li>La falacia PBL (puntos/insignias vacios) — Yu-kai Chou — <a href="https://yukaichou.com/gamification-study/points-badges-and-leaderboards-the-gamification-fallacy/" target="_blank">yukaichou.com</a></li>
+    <li>SDT y overjustification effect — Deci &amp; Ryan — <a href="https://selfdeterminationtheory.org/" target="_blank">selfdeterminationtheory.org</a></li>
+    <li>Efecto Zeigarnik (tareas incompletas) — <a href="https://en.wikipedia.org/wiki/Zeigarnik_effect" target="_blank">resumen</a></li>
+    <li>Diseno de dashboards (atributos preatentivos) — NN/g — <a href="https://www.nngroup.com/articles/dashboards-preattentive/" target="_blank">NN/g</a></li>
+  </ul>
+</section>
+
+<!-- ===================== MATRIZ ===================== -->
+<section class="panel" id="mx">
+  <div class="phead"><h2 style="font-family:var(--serif)">Comparacion lado a lado</h2></div>
+  <p class="esencia">Mi evaluacion sintetizada (1 a 5). No hay una "ganadora": cada columna es fuerte en distintas dimensiones, por eso la recomendacion es combinarlas por capas.</p>
+  <div style="overflow:auto">
+  <table class="mx">
+    <thead><tr><th class="crit" style="text-align:left">Criterio</th>
+      <th>1 Senda</th><th>2 Maestria</th><th>3 Mapa</th><th>4 Lectura</th><th>5 Proyectos</th><th>6 Panel</th></tr></thead>
+    <tbody>
+      <tr><td class="crit">Facil para principiantes</td>
+        <td>%R5%</td><td>%R2%</td><td>%R2%</td><td>%R4%</td><td>%R3%</td><td>%R4%</td></tr>
+      <tr><td class="crit">Retencion a largo plazo</td>
+        <td>%R3%</td><td>%G5%</td><td>%R3%</td><td>%R4%</td><td>%R4%</td><td>%R3%</td></tr>
+      <tr><td class="crit">Motivacion / incentivo</td>
+        <td>%R4%</td><td>%R3%</td><td>%R4%</td><td>%R3%</td><td>%R4%</td><td>%R4%</td></tr>
+      <tr><td class="crit">Respeta autonomia</td>
+        <td>%R2%</td><td>%R3%</td><td>%G5%</td><td>%R4%</td><td>%R3%</td><td>%R4%</td></tr>
+      <tr><td class="crit">Bajo esfuerzo de implementacion</td>
+        <td>%G5%</td><td>%R3%</td><td>%R3%</td><td>%G5%</td><td>%R3%</td><td>%R4%</td></tr>
+      <tr><td class="crit">Bajo riesgo de abandono/sobrecarga</td>
+        <td>%R3%</td><td>%R2%</td><td>%R2%</td><td>%G4%</td><td>%R3%</td><td>%R3%</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <div class="note"><b>Lectura rapida:</b> la <b>Senda (1)</b> y la <b>Lectura editorial (4)</b> son las mas baratas y de menor riesgo (buen piso). La <b>Maestria (2)</b> gana lejos en retencion pero es la de mayor friccion. El <b>Mapa (3)</b> es el mas autonomo y vistoso, pero el de mayor riesgo de sobrecarga. <b>Proyectos (5)</b> da proposito; <b>Panel (6)</b> da continuidad para el que vuelve. Ninguna pelea con otra: se apilan.</div>
+</section>
+
+<!-- ===================== HIBRIDO ===================== -->
+<section class="panel" id="hy">
+  <div class="phead"><h2 style="font-family:var(--serif)">Recomendacion: hibrido por capas</h2></div>
+  <p class="esencia">No elegir una, sino <b>apilarlas</b> respetando el caracter del proyecto (lectura densa, autodidacta, sin frameworks). Cada capa toma "lo barato y de alto impacto" de una direccion. Orden sugerido de implementacion de arriba hacia abajo.</p>
+
+  <div class="layer"><div class="lz">Base estetica</div><div class="lx"><b>Dir 4 — Lectura editorial.</b> La lectura manda: tipografia serif, medida 60-66, temas claro/sepia/oscuro, modo foco, herramientas reveladas con &lt;details&gt;. Es el piso de todo y el cambio mas barato. <span class="chip">prioridad 1</span></div></div>
+
+  <div class="layer"><div class="lz">Navegacion default</div><div class="lx"><b>Dir 1 — Senda guiada.</b> Boton "Continuar" / ruta <i>/siguiente</i>, una sola proxima accion, barra de fase con goal-gradient. Resuelve la paralisis de 103 etapas. <span class="chip">prioridad 1</span></div></div>
+
+  <div class="layer"><div class="lz">Home del que vuelve</div><div class="lx"><b>Dir 6 — Panel.</b> <i>/panel</i> con "Continua donde quedaste" + progreso por fase + hitos en lenguaje de competencia (sin puntos vacios). Reusa el localStorage que ya hay. <span class="chip">prioridad 2</span></div></div>
+
+  <div class="layer"><div class="lz">Modo exploracion</div><div class="lx"><b>Dir 3 — Mapa.</b> El SVG actual como vista alternativa <i>/mapa</i>: nodos que se encienden con CSS+localStorage, local graph de prerequisitos. Opcional, no el default (evita sobrecarga al principiante). <span class="chip">prioridad 2</span></div></div>
+
+  <div class="layer"><div class="lz">Espina de proposito</div><div class="lx"><b>Dir 5 — Proyectos.</b> Banner "para: [entregable]" en las etapas y una vista <i>/portfolio</i> con los ensayos/tesina por fase. Da el "para que" a la lectura. <span class="chip">prioridad 3</span></div></div>
+
+  <div class="layer"><div class="lz">Capa de retencion</div><div class="lx"><b>Dir 2 — Maestria + repaso.</b> <i>Opt-in</i>: reciclar los quizzes socraticos como prompts atomicos, cola <i>/repaso</i> diaria con escala 1-3-7-21 dias, dominio gateado por test. Lo mas potente para que quede, pero como opcion, no obligacion. <span class="chip">prioridad 3</span></div></div>
+
+  <h3 class="sec">Flujo unificado del hibrido</h3>
+  <div class="flow">
+    <div class="step"><div class="n">01</div><div class="t">Portada (ya existe) &rarr; Entrar</div></div>
+    <div class="step bridge">&rarr;</div>
+    <div class="step"><div class="n">02</div><div class="t">/panel: Continua donde quedaste</div></div>
+    <div class="step bridge">&rarr;</div>
+    <div class="step"><div class="n">03</div><div class="t">/etapa/N: lectura editorial + foco</div></div>
+    <div class="step bridge">&rarr;</div>
+    <div class="step"><div class="n">04</div><div class="t">Al final: tareas / debate / prompt revelados</div></div>
+    <div class="step bridge">&rarr;</div>
+    <div class="step"><div class="n">05</div><div class="t">(opt) test de dominio &rarr; cola /repaso</div></div>
+    <div class="step bridge">&rarr;</div>
+    <div class="step"><div class="n">06</div><div class="t">/siguiente o /mapa para explorar</div></div>
+  </div>
+
+  <h3 class="sec">URLs del hibrido (compatibles con el hash actual)</h3>
+  <pre class="urls"><span class="c"># hoy: curso.html#/etapa-9  -->  destino: rutas limpias</span>
+/                 <span class="c">portada (ya existe)</span>
+<span class="p">/panel</span>            <span class="c">home del que volvio (continuar)</span>
+/senda  /siguiente <span class="c">camino guiado, proxima accion</span>
+/etapa/N          <span class="c">lectura editorial (?foco=1, ?tema=sepia, ?para=...)</span>
+/etapa/N/test     <span class="c">auto-test opt-in</span>
+/repaso           <span class="c">cola espaciada</span>
+/mapa             <span class="c">exploracion (SVG que se enciende)</span>
+/portfolio        <span class="c">ensayos y tesina</span>
+/ruta             <span class="c">25 / 60 / 103</span></pre>
+
+  <div class="note"><b>Como darme feedback:</b> dos caminos. (a) Decime <b>"quiero el hibrido"</b> y arranco por prioridad 1 (lectura editorial + boton continuar), que es lo de mayor impacto y menor costo. (b) O elegi <b>a la carta</b>: marcame, de cada propuesta (1 a 6), que elementos del bloque "Que tomar de aca" queres incorporar y cuales descartar. Con eso armo un plan de implementacion ordenado por esfuerzo/impacto sobre la estructura que ya tenemos, sin romper lo construido.</div>
+</section>
+
+</div>
+<script>
+  // tabs
+  const tabs = document.querySelectorAll('#tabs .tab');
+  const panels = document.querySelectorAll('.panel');
+  function show(id){
+    panels.forEach(p=>p.classList.toggle('show', p.id===id));
+    tabs.forEach(t=>t.classList.toggle('active', t.dataset.t===id));
+    window.scrollTo({top:0,behavior:'smooth'});
+  }
+  tabs.forEach(t=>t.addEventListener('click',()=>show(t.dataset.t)));
+
+  // render rating bars: tokens %R{n}% (acento) y %G{n}% (verde) -> 5 segmentos
+  document.querySelectorAll('table.mx td').forEach(td=>{
+    const m = td.textContent.trim().match(/^%([RG])(\d)%$/);
+    if(!m) return;
+    const green = m[1]==='G'; const n = parseInt(m[2],10);
+    td.textContent='';
+    const bar=document.createElement('span'); bar.className='bar';
+    for(let i=1;i<=5;i++){
+      const s=document.createElement('span');
+      s.className='seg'+(i<=n?' on':'')+(green&&i<=n?' g':'');
+      bar.appendChild(s);
+    }
+    td.appendChild(bar);
+  });
+</script>
+</body>
+</html>

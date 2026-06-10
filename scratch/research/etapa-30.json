@@ -1,0 +1,66 @@
+{
+  "debate_deep": {
+    "intro": "El debate central en torno a La politica como vocacion (Politik als Beruf, 1919) gira sobre dos ejes entrelazados. Primero, la definicion del Estado como la comunidad humana que reclama con exito el monopolio de la violencia fisica legitima dentro de un territorio, junto con la tipologia de las tres legitimidades (tradicional, carismatica y legal-racional). Segundo, la contraposicion entre la etica de la conviccion (Gesinnungsethik), que juzga la accion por la fidelidad a un valor ultimo, y la etica de la responsabilidad (Verantwortungsethik), que la juzga por sus consecuencias previsibles. La discusion sigue viva porque de ella penden problemas mayores: si el liderazgo carismatico y plebiscitario que Weber defendia (la Fuhrerdemokratie) anticipa o habilita el cesarismo y, en el limite, abrio camino al Fuhrer; si la burocratizacion y la jaula de hierro condenan a la modernidad a un desencantamiento sin sentido; y si la distincion entre hechos y valores (Wertfreiheit) desemboca en un relativismo insostenible."
+  ,
+    "supporters": [
+      {
+        "school": "Sociologia politica weberiana y realismo de la responsabilidad (Raymond Aron)",
+        "view": "Aron lee la etica de la responsabilidad como el realismo maduro que el hombre de accion no puede dejar de adoptar. Valora que Weber vincule una ciencia de las relaciones causa-efecto con las necesidades del estadista, de modo que la prudencia politica consiste en sopesar consecuencias y medios, no en exhibir pureza de intenciones. Para Aron, lejos de ser amoral, esta etica es la forma adulta de la responsabilidad politica."
+      },
+      {
+        "school": "Lectura complementarista de las dos eticas (interpretacion estandar de la SEP)",
+        "view": "La interpretacion recogida por la Stanford Encyclopedia sostiene que conviccion y responsabilidad no son opuestos absolutos sino complementarios: solo en su combinacion surge el hombre que tiene vocacion para la politica. El politico autentico une la pasion por una causa con el calculo sobrio de lo factible, sosteniendo ambas en tension sin disolver ninguna."
+      },
+      {
+        "school": "Defensa de la Fuhrerdemokratie como liderazgo democratico con control (lectura institucional de Weber)",
+        "view": "Esta lectura, presente en la SEP, subraya que el carisma weberiano debe ser manufacturado democraticamente a traves de la competencia electoral, los partidos y una sociedad civil plural. El liderazgo exige responsabilidad ante los gobernados mediante la imputacion desde abajo, no la imposicion dictatorial, por lo que la democracia de lideres seria un antidoto contra la inercia burocratica, no su negacion autoritaria."
+      },
+      {
+        "school": "Teoria de la accion comunicativa (Jurgen Habermas como heredero critico)",
+        "view": "Habermas y la primera Escuela de Frankfurt retoman el diagnostico weberiano de la racionalizacion como punto de partida ineludible. Aceptan que la racionalidad instrumental y la burocracia describen una patologia real de la modernidad; Habermas la reformula con su distincion entre racionalidad instrumental y racionalidad comunicativa, conservando el nucleo del analisis de Weber aunque busque superar su pesimismo."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica historiografica liberal (Wolfgang J. Mommsen)",
+        "view": "En Max Weber y la politica alemana, 1890-1920 (University of Chicago Press), Mommsen sostiene que la teoria weberiana de la autoridad carismatica y de la democracia plebiscitaria se presto demasiado facilmente a una reinterpretacion autoritaria. Llega a afirmar que las ensenanzas de Weber sobre el liderazgo carismatico, unidas a una formulacion radical del sentido de las instituciones democraticas, contribuyeron a predisponer interiormente al pueblo aleman a aclamar a Hitler. Califica a Weber de liberal desesperado."
+      },
+      {
+        "school": "Critica del relativismo de valores (Leo Strauss)",
+        "view": "En Derecho natural e historia, Strauss ataca la distincion hecho-valor de Weber como fundamento de la ciencia social moderna. Argumenta que la obra del propio Weber seria carente de sentido si no hablara constantemente de virtudes y vicios en el lenguaje del elogio y la censura, de modo que Weber traiciona su propia tesis. Para Strauss, el relativismo weberiano nace de creer que la ciencia no puede refutar a la religion y conduce a una vision tragica que cierra la posibilidad de un saber valido sobre los fines."
+      },
+      {
+        "school": "Critica de la razon instrumental (Horkheimer y Adorno, Dialectica de la Ilustracion)",
+        "view": "La primera Escuela de Frankfurt radicaliza a Weber: lo que el describio como racionalizacion y jaula de hierro se convierte en su lectura en la razon instrumental como instrumento de dominacion. En Dialectica de la Ilustracion, la racionalidad medios-fines, lejos de liberar, somete y erosiona la reflexion critica, prolongando el diagnostico weberiano hasta un pesimismo aun mas hondo sobre la modernidad."
+      },
+      {
+        "school": "Critica feminista (Roslyn Wallach Bologh)",
+        "view": "En Love or Greatness: Max Weber and Masculine Thinking, Bologh sostiene que el pensamiento politico de Weber es esencialmente masculino: la vocacion politica, el heroismo del lider y la nocion misma de carisma privilegian una forma de vida viril y oscurecen la agencia de las mujeres y las formas de poder asociadas a lo afectivo o domestico. La critica feminista posterior anade que la categoria de carisma reproduce demarcaciones de genero entre poder serio y poder frivolo."
+      }
+    ],
+    "contrasts": "El nudo del desacuerdo no es si Weber describe bien el Estado moderno y la burocracia, algo que casi todos conceden, sino que estatuto tienen sus dos eticas y a donde conduce su teoria del liderazgo. Aron y la lectura complementarista ven en la etica de la responsabilidad un realismo prudente y en la Fuhrerdemokratie un liderazgo sometido a control electoral; Mommsen replica que esa misma teoria del carisma plebiscitario era homologa a la legitimidad presidencial de Carl Schmitt y se dejaba reinterpretar en clave cesarista. Strauss desplaza la disputa al plano metodologico: la distincion hecho-valor, que Weber presenta como condicion de una ciencia rigurosa, seria una incoherencia performativa y la puerta al relativismo. La Escuela de Frankfurt acepta el diagnostico de la racionalizacion pero lo reconvierte en critica de la dominacion, dividida entre el pesimismo de Horkheimer y Adorno y la salida comunicativa de Habermas. La critica feminista, por su parte, no discute tanto la coherencia interna como el genero implicito del modelo. Para un curso de teoria politica, el contraste productivo consiste en usar las dos eticas y el monopolio de la violencia como lente potente sobre la accion estatal, sin perder de vista las preguntas abiertas sobre cesarismo, relativismo de valores y los supuestos de genero del liderazgo carismatico.",
+    "sources": [
+      {
+        "label": "Max Weber - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/weber/"
+      },
+      {
+        "label": "Critical Theory (Frankfurt School) - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/critical-theory/"
+      },
+      {
+        "label": "Nasser Behnegar, Leo Strauss's Confrontation with Max Weber - The Review of Politics (Cambridge)",
+        "url": "https://www.cambridge.org/core/journals/review-of-politics/article/abs/leo-strausss-confrontation-with-max-weber-a-search-for-a-genuine-social-science/A5F0BF048A88CAF15B7BF7CDAE9E5295"
+      },
+      {
+        "label": "Wolfgang J. Mommsen, Max Weber and German Politics, 1890-1920 - University of Chicago Press",
+        "url": "https://books.google.com/books/about/Max_Weber_and_German_Politics_1890_1920.html?id=a99RC3rJoIgC"
+      },
+      {
+        "label": "Politics as a Vocation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Politics_as_a_Vocation"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre La politica como vocacion de Max Weber. No me des respuestas: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Empeza preguntandome esto: cuando Weber define el Estado como la comunidad que reclama con exito el monopolio de la violencia fisica legitima en un territorio, que palabra carga todo el peso, monopolio, exito o legitima, y por que. Cuando yo afirme algo, pedime razones y un ejemplo concreto. Opone objeciones reales y nombradas: si defiendo la etica de la responsabilidad, contestame con la objecion de Leo Strauss de que la distincion hecho-valor es incoherente porque Weber mismo elogia y condena todo el tiempo; si defiendo el liderazgo carismatico o la Fuhrerdemokratie, contestame con la tesis de Wolfgang Mommsen de que ese carisma plebiscitario predispuso a aclamar al Fuhrer; si elogio la racionalizacion, contestame con la critica de la razon instrumental de Horkheimer y Adorno y con la objecion feminista de Roslyn Bologh sobre el caracter masculino del modelo. Si me trabo, dame una pista, no la respuesta, y reformula la pregunta mas chica."
+}

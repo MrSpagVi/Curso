@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "Ciudadania y clase social (1950), conferencia pronunciada por T. H. Marshall en Cambridge en 1949 en homenaje a Alfred Marshall, es el texto fundacional de la sociologia de la ciudadania moderna. Su tesis central es que la ciudadania ingles se desarrollo en una secuencia evolutiva de tres conjuntos de derechos, cada uno asociado a un siglo y a una institucion: los derechos civiles en el siglo XVIII (libertad personal, de expresion, de propiedad, de contrato e igualdad ante la ley, garantizados por los tribunales); los derechos politicos en el siglo XIX (el sufragio y la participacion en el poder, encarnados en el Parlamento); y los derechos sociales en el siglo XX (desde un minimo de bienestar economico y seguridad hasta el derecho a compartir plenamente la herencia social y vivir la vida de un ser civilizado segun los estandares vigentes, garantizados por el sistema educativo y los servicios sociales del Estado de bienestar). El nucleo conceptual del ensayo es la tension entre la igualdad implicita en el estatus de ciudadano y la desigualdad inherente a la clase social en el capitalismo de mercado: Marshall sostiene que la ciudadania, sobre todo en su dimension social, opera como un principio igualador que no abole la clase pero modifica su patron, conteniendo y legitimando el conflicto en una sociedad guionada (hyphenated society) de capitalismo y bienestar. El debate de post-lectura se organiza en torno a cinco fracturas: (1) si la secuencia de los tres derechos es una teoria general o solo una descripcion del caso ingles; (2) si la ciudadania social neutraliza de verdad la desigualdad de clase o solo la administra; (3) si el modelo es ciego al genero y al trabajo de cuidado; (4) si ignora la raza, la nacionalidad y la inmigracion al presuponer un cuerpo de ciudadanos homogeneo; y (5) si la erosion neoliberal de los derechos sociales refuta su optimismo evolutivo o confirma que esos derechos siempre fueron reversibles.",
+    "supporters": [
+      {
+        "school": "Sociologia del Estado de bienestar y la desmercantilizacion (Gosta Esping-Andersen)",
+        "view": "Esping-Andersen, en Los tres mundos del Estado de bienestar (1990), toma de Marshall la idea de la ciudadania social como nucleo del Estado de bienestar y la refina con el concepto de desmercantilizacion (decommodification): el grado en que una persona puede mantener un nivel de vida digno con independencia de su participacion en el mercado laboral. A partir de Marshall, Polanyi y Titmuss construye una tipologia de tres regimenes (liberal, conservador-corporativo y socialdemocrata) segun cuanto desmercantilizan y como estratifican. La ciudadania social deja de ser un relato lineal unico para convertirse en una variable comparada: realiza el programa marshalliano dandole metrica y mostrando que distintos paises producen distintos grados de igualdad de estatus frente al mercado."
+      },
+      {
+        "school": "Defensa contextual e historica del proyecto marshalliano (Julia Moses, Modern Intellectual History)",
+        "view": "Lecturas historicas recientes rescatan a Marshall situandolo en su contexto: lejos de ser un evolucionista ingenuo, formulo la ciudadania social como respuesta democratica a los extremos del siglo XX (las dos guerras mundiales, la Gran Depresion, el totalitarismo nazi que conocio durante su internamiento en Alemania). Su sintesis del pluralismo y el idealismo concibe los derechos sociales como un equilibrio entre libertad individual, comunidad nacional y planificacion estatal, una tercera via frente al fascismo y al comunismo centralizado. Asi entendida, la teoria no pretende una ley universal sino un diagnostico de como la comunidad politica integra a la clase trabajadora para sostener la cohesion y la estabilidad."
+      },
+      {
+        "school": "Universalismo de la ciudadania como integracion social (recepcion canonica, Stanford Encyclopedia of Philosophy)",
+        "view": "La entrada Citizenship de la SEP identifica el ensayo de Marshall como la referencia principal del modelo universalista de ciudadania. Sus defensores destacan que la expansion de los derechos sociales en el siglo XX fue decisiva para la integracion progresiva de la clase obrera en la sociedad britanica: las politicas frente al desempleo, la enfermedad y la indigencia resultaron fundamentales para la estabilidad politica y social. El valor del modelo reside en haber mostrado que la ciudadania es un estatus de pertenencia plena que confiere igualdad de derechos y deberes, y que extender ese estatus a quienes el mercado excluye es condicion de una democracia viable."
+      },
+      {
+        "school": "Defensa britanica del Estado de bienestar contra la erosion neoliberal (Britannica; recepcion socialdemocrata)",
+        "view": "Para esta corriente, la teoria de Marshall conserva fuerza normativa precisamente porque el avance de los derechos sociales no es automatico ni irreversible. Frente al ataque neoliberal que acusa al bienestar de fomentar dependencia y pasividad entre los pobres y de condicionar los derechos a la conducta, los defensores invocan a Marshall para reafirmar que los servicios sociales (salud, educacion, seguridad social) son atributos del estatus de ciudadano y no caridad ni mercancia. La ciudadania social funciona como contrapeso deliberado del mercado: su deterioro no refuta a Marshall, sino que muestra lo que se pierde cuando se la abandona."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica feminista del ciudadano-trabajador varon y del trabajo de cuidado (Carole Pateman, Ruth Lister)",
+        "view": "Pateman y Lister sostienen que el modelo de Marshall, pese a su lenguaje neutral, presupone un ciudadano-trabajador varon: la plena ciudadania se obtiene por la participacion en el trabajo asalariado y el servicio militar, esferas de las que las mujeres fueron historicamente excluidas. El dualismo publico/privado que el esquema da por sentado naturaliza la subordinacion domestica y vuelve invisible el trabajo de cuidado no remunerado, sin el cual no existirian los propios ciudadanos. Lister, en Citizenship: Feminist Perspectives, argumenta que la desmercantilizacion marshalliana es insuficiente: hace falta tambien la desfamiliarizacion y reconocer el cuidado como practica de ciudadania, no como un asunto privado ajeno a los derechos."
+      },
+      {
+        "school": "Critica del evolucionismo, el anglocentrismo y la linealidad (Michael Mann, Bryan S. Turner)",
+        "view": "Mann acusa a Marshall de ser anglocentrico y evolucionista: su secuencia civil-politica-social describe la trayectoria singular de Inglaterra y no se generaliza a regimenes donde el orden de los derechos fue otro o donde las estrategias de las clases dominantes y los antiguos regimenes, no la presion obrera, definieron la ciudadania. Turner, en Outline of a Theory of Citizenship (1990), denuncia el caracter unitario y pasivo del concepto: Marshall describe una ciudadania concedida desde arriba por el Estado e ignora la ciudadania activa conquistada desde abajo (sindicatos, movimientos). Ambos subrayan que el relato lineal no explica los retrocesos: los derechos pueden expandirse y tambien revocarse."
+      },
+      {
+        "school": "Critica marxista: la ciudadania administra pero no resuelve la contradiccion de clase",
+        "view": "Desde el marxismo se objeta que la ciudadania social no elimina la contradiccion entre capital y trabajo, sino que la gestiona. El propio Marshall admite que la extension de los derechos no destruye la clase ni la desigualdad, solo altera su patron; los criticos leen esto como la confesion de que la igualdad de estatus es formal y compatible con la explotacion economica. Donde Marx situaba la contradiccion en el interior del sistema (la acumulacion y el antagonismo de clase), Marshall trata los conflictos como parcialmente ajenos al sistema y convierte a la ciudadania, no a la clase, en el medio universalizador, neutralizando asi el potencial transformador del conflicto y legitimando el orden capitalista bajo una apariencia igualitaria."
+      },
+      {
+        "school": "Critica de la ceguera a la raza, la nacionalidad y la inmigracion",
+        "view": "Los criticos antirracistas y de la migracion señalan que Marshall presupone un cuerpo de ciudadanos nacional y homogeneo y que su esquema fue escrito desde la perspectiva del varon blanco de clase trabajadora. La ciudadania como estatus de pertenencia plena define necesariamente un afuera: los extranjeros, los migrantes y los grupos racializados quedan privados de los derechos sociales que se reservan a los miembros. La experiencia muestra que extender formalmente la ciudadania a grupos antes excluidos no produjo por si misma igualdad ni integracion plena; el modelo no tematiza como la raza y el estatus migratorio estratifican el acceso a los derechos sociales dentro y fuera de la frontera nacional."
+      },
+      {
+        "school": "Critica de la erosion neoliberal y la ciudadania condicionada",
+        "view": "Una linea contemporanea sostiene que mas de tres decadas de gobernanza neoliberal en las democracias occidentales han marginado el nucleo de derechos sociales de Marshall en favor de una ciudadania de mercado e individualista. Las reformas del workfare hacen que los derechos sociales sean contingentes a la conducta (buscar empleo, demostrar merecimiento), invirtiendo la logica marshalliana del derecho incondicional ligado al estatus. Para estos criticos, la facilidad con que los derechos sociales retrocedieron demuestra que nunca tuvieron la solidez ni la irreversibilidad que la secuencia evolutiva de Marshall sugeria: eran una conquista coyuntural, no un estadio terminal del progreso."
+      }
+    ],
+    "contrasts": "El eje del debate es si la ciudadania social es un logro estabilizador o una ilusion que encubre desigualdades persistentes. Esping-Andersen y la sociologia comparada toman el programa de Marshall en serio y lo refinan: la desmercantilizacion convierte la intuicion marshalliana en una variable medible y muestra que hay muchos mundos del bienestar, no una unica linea evolutiva, lo que responde en parte a la objecion anglocentrica de Mann y Turner sin abandonar el proyecto. Frente a ellos, la critica marxista y la neoliberal coinciden, desde polos opuestos, en negar la autonomia de los derechos sociales: para el marxismo la ciudadania administra la contradiccion de clase en lugar de resolverla; para el diagnostico neoliberal la facilidad de su erosion prueba que nunca fueron un estadio irreversible. Las criticas feminista, racial y migratoria comparten una estructura comun: muestran que el sujeto presuntamente universal de Marshall (el ciudadano-trabajador varon, blanco, nacional) se sostiene sobre exclusiones internas (las mujeres y el cuidado, los grupos racializados, los migrantes) que el esquema neutral no ve. El contraste mas productivo enfrenta dos lecturas del propio reconocimiento de Marshall de que la ciudadania no abole la clase: sus defensores lo leen como realismo (igualar el estatus sin pretender abolir el mercado); sus criticos, como la prueba de que la igualdad ofrecida es formal y compatible con la dominacion. La pregunta de fondo persiste: ¿la ciudadania social es el contrapeso que civiliza al capitalismo, o el dispositivo que lo legitima volviendo tolerable su desigualdad?",
+    "sources": [
+      {
+        "label": "Citizenship (Stanford Encyclopedia of Philosophy) - Marshall como referencia del modelo universalista, derechos sociales, critica feminista y debate marxista",
+        "url": "https://plato.stanford.edu/entries/citizenship/"
+      },
+      {
+        "label": "T. H. Marshall (Encyclopaedia Britannica) - biografia, ciudadania social, derechos civiles/politicos/sociales y Estado de bienestar",
+        "url": "https://www.britannica.com/biography/T-H-Marshall"
+      },
+      {
+        "label": "T. H. Marshall - Citizenship and Social Class (capitulo academico, INFLIBNET) - los tres derechos, tension ciudadania/clase y criticas marxista, feminista, multicultural y contextual",
+        "url": "https://ebooks.inflibnet.ac.in/soc15/chapter/t-h-marshall-citizenship-and-social-class/"
+      },
+      {
+        "label": "The Three Worlds of Welfare Capitalism (Wikipedia) - Esping-Andersen, desmercantilizacion, tres regimenes y refinamiento de Marshall",
+        "url": "https://en.wikipedia.org/wiki/The_Three_Worlds_of_Welfare_Capitalism"
+      },
+      {
+        "label": "Social Citizenship and Social Rights in an Age of Extremes: T. H. Marshall's Social Philosophy in the Longue Duree (Julia Moses, Modern Intellectual History, Cambridge Core)",
+        "url": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/social-citizenship-and-social-rights-in-an-age-of-extremes-t-h-marshalls-social-philosophy-in-the-longue-duree/76E7DE0396793F737D4F073230CB1D7B"
+      },
+      {
+        "label": "T.H. Marshall's Social Citizenship (Wikipedia) - secuencia evolutiva, tension igualdad/clase, criticas neoliberal y de perspectiva del varon blanco trabajador",
+        "url": "https://en.wikipedia.org/wiki/T.H._Marshall's_Social_Citizenship"
+      }
+    ]
+  },
+  "socratic": "Quiero que actues como un interlocutor socratico sobre Ciudadania y clase social de T. H. Marshall. Reglas: hace una sola pregunta por turno y espera mi respuesta antes de seguir. Nunca me des tu respuesta ni resuelvas el problema por mi. Despues de cada respuesta mia, exigime las razones que la sostienen y, si flaquean, oponeme una objecion real y nombrada de la tradicion (la critica feminista de Carole Pateman y Ruth Lister al ciudadano-trabajador varon y al trabajo de cuidado invisibilizado; la critica de Michael Mann y Bryan Turner al evolucionismo y el anglocentrismo de la secuencia; la objecion marxista de que la ciudadania social solo administra la contradiccion de clase sin resolverla; la critica de la ceguera a la raza y la inmigracion; el diagnostico de la erosion neoliberal y la ciudadania condicionada al merito). Si me trabo, dame una pista breve, no la solucion. Empeza ahora con esta pregunta concreta y nada mas: Marshall ordena la ciudadania en tres tipos de derechos que aparecen en siglos sucesivos, civiles en el XVIII, politicos en el XIX y sociales en el XX; pensa en un pais que conozcas distinto de la Inglaterra de Marshall y decime: los derechos llegaron en ese mismo orden, o podes encontrar un caso donde el sufragio o los derechos sociales precedieron a las libertades civiles, como objetaria Michael Mann a su relato evolutivo?"
+}

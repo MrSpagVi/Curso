@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "La distincion (La Distinction, 1979) es a la vez una etnografia estadistica de la sociedad francesa de los anos 60-70 y una maquina teorica para demostrar una tesis incomoda: el gusto, que la tradicion kantiana presenta como facultad desinteresada y universal, es en realidad un marcador y un arma de clase. Apoyandose en encuestas masivas sobre consumo cultural (musica, pintura, cine, comida, deporte, decoracion), Bourdieu sostiene que las preferencias esteticas funcionan como senales de posicion social y como instrumentos de distincion frente a los grupos inferiores. Para explicarlo articula su trilogia conceptual. El habitus es el sistema de disposiciones duraderas e incorporadas, interiorizadas en la primera socializacion, que genera practicas y percepciones sin calculo consciente; es una estructura estructurada que funciona como estructura estructurante. El campo es el espacio social de posiciones en lucha por un capital especifico. Y el capital se multiplica: economico, social, cultural (en estado incorporado, objetivado e institucionalizado por los titulos) y simbolico (el reconocimiento que legitima los demas). El mecanismo central es la homologia: existe una correspondencia estructural entre el espacio de las posiciones sociales y el espacio de los estilos de vida, de modo que la jerarquia de los gustos reproduce la jerarquia de las clases. A esto se suma la violencia simbolica: la imposicion de la cultura dominante como cultura legitima, aceptada incluso por los dominados, que se vive como inferioridad natural y no como arbitrario social. La escuela cumple aqui el papel decisivo: bajo la apariencia meritocratica, premia el capital cultural heredado y reproduce las desigualdades disfrazandolas de dones individuales. El debate de post-lectura se libra en cuatro frentes: si el gusto es realmente reductible a la clase; si el habitus es demasiado determinista y deja sin lugar a la agencia; si los hallazgos de la Francia de hace medio siglo se generalizan a otras sociedades y epocas; y si la homologia sobrevive a la evidencia del omnivoro cultural contemporaneo.",
+    "supporters": [
+      {
+        "school": "Sociologia de la cultura y de la educacion (la tradicion mayoritaria que adopta el programa bourdieusiano)",
+        "view": "Para la corriente dominante en sociologia de la cultura, La distincion fue refundadora: dio herramientas empiricas para mostrar que el consumo cultural no es eleccion libre sino efecto de la posicion social, y que la cultura legitima opera como capital convertible en ventajas escolares y laborales. La sociologia de la educacion (en la linea de La reproduccion) hereda la tesis de que el sistema educativo, lejos de igualar, reproduce las desigualdades al recompensar el capital cultural heredado bajo el disfraz de la meritocracia. La Asociacion Internacional de Sociologia voto La distincion como uno de los diez libros mas importantes del siglo XX, indice de su adopcion masiva como marco de referencia."
+      },
+      {
+        "school": "Defensa metodologica del programa (Douglas Holt, Distinction in America?, 1997)",
+        "view": "Holt sostiene que muchas refutaciones empiricas de Bourdieu lo malinterpretan: testean la homologia como simple correlacion entre clase y generos consumidos (alta cultura para ricos, cultura popular para pobres), cuando la tesis fina de Bourdieu no es que clase es a que objetos consumis, sino a como los consumis. La distincion opera en el estilo, el modo de apropiacion y la disposicion estetica, no en el catalogo de objetos. Recuperada asi, la teoria explica que las elites consuman cultura popular sin abandonar la distincion: cambia el repertorio, no la logica de la diferenciacion."
+      },
+      {
+        "school": "Defensa conceptual del habitus (Loic Wacquant, Putting Habitus in its Place, 2014; A Concise Genealogy of Habitus, 2016)",
+        "view": "Colaborador y albacea intelectual de Bourdieu, Wacquant responde sistematicamente a la acusacion de determinismo desmontando lo que llama cuatro malentendidos: el habitus nunca es la replica de una sola estructura sino un conjunto multiescalar de esquemas sometido a revision permanente en la practica; no es necesariamente coherente ni unificado, sino que presenta grados variables de integracion y tension; precisamente porque no siempre encaja con el medio en que evoluciona, sirve para analizar la crisis y el cambio, no solo la reproduccion; y no es un mecanismo autosuficiente de accion. Distingue entre invocar a Bourdieu (hablar bourdieuense) y desplegar efectivamente el concepto para construir un objeto empirico."
+      },
+      {
+        "school": "Sociologia critica de la educacion y del capital cultural (continuadores empiricos contemporaneos)",
+        "view": "Investigadores que estudian la persistencia de la desigualdad educativa retoman cultural capital y habitus como herramientas vivas para explicar por que el origen social sigue prediciendo el exito escolar incluso a igualdad de aptitud. Esta corriente refina los conceptos (capital cultural incorporado vs institucionalizado, ajuste o desajuste entre habitus familiar y habitus escolar) y los pone a prueba con datos longitudinales, defendiendo que el potencial analitico del habitus no queda anulado por las acusaciones exageradas de determinismo estructural."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Teoria del omnivoro cultural (Richard A. Peterson y Roger Kern, desde 1992)",
+        "view": "Peterson asesta el golpe empirico mas citado contra la homologia. Sus datos sobre Estados Unidos muestran que las clases altas ya no son snobs que se encierran en la alta cultura, sino omnivoros que consumen tanto opera y arte como generos populares, cruzando las fronteras de genero que Bourdieu suponia infranqueables. El numero de highbrows exclusivos cae drasticamente entre 1982 y 1992. La distincion contemporanea, sugiere, no se marca por consumir alto y rechazar lo bajo, sino por la amplitud y el eclecticismo del consumo: emerge una heterologia que desafia la correspondencia rigida entre clase y gusto que postulaba Bourdieu."
+      },
+      {
+        "school": "Sociologia cultural fuerte y critica al reduccionismo (Jeffrey C. Alexander, Fin de Siecle Social Theory, 1995)",
+        "view": "Alexander dedica a Bourdieu la critica mas sostenida de su libro, acusandolo de reduccionismo: tratar las ideas, la cultura y el gusto como mero reflejo de la base social y de la posicion de clase, igual que el positivismo y cierto neomarxismo. Frente a ese reduccionismo institucional, propone una posicion neomodernista y un programa fuerte de sociologia cultural que reconozca la autonomia relativa del significado y de la cultura, en vez de subordinarla a la estructura. Para esta escuela, Bourdieu disuelve la cultura en estrategia de poder y pierde de vista su dimension propiamente simbolica y moral."
+      },
+      {
+        "school": "Critica de la practica al determinismo y la circularidad del habitus (Anthony King, Thinking with Bourdieu against Bourdieu, 2000)",
+        "view": "King argumenta que el habitus es incompatible con la propia teoria practica de Bourdieu y recae rapidamente en el objetivismo: pese a presentarse como puente entre estructura y agencia, en la practica reduce la experiencia subjetiva a reflejo de las estructuras objetivas, sin mantener una dialectica equilibrada entre ambas. A esto se suma la acusacion de circularidad o tautologia: el habitus se define por las practicas que produce y las practicas se explican por el habitus, de modo que el concepto parece inrefutable. La objecion clasica es que Bourdieu construye un agente sobresocializado, incapaz de reflexividad y de cambio genuino."
+      },
+      {
+        "school": "Critica a la generalizacion desde la Francia de los 60-70 (Michele Lamont, Money Morals and Manners; el debate comparado de Poetics, Kane 2003)",
+        "view": "Lamont objeta que la jerarquia rigida y unidimensional del gusto que Bourdieu describe es un artefacto de la Francia centralizada y estatista de su epoca, donde la cultura legitima esta fuertemente consagrada; en Estados Unidos las fronteras simbolicas se trazan tanto en clave moral y socioeconomica como cultural, y la cultura legitima pesa menos. La investigacion comparada (por ejemplo Kane, Distinction worldwide?, Poetics 2003) encuentra solo una generalizabilidad parcial: la estratificacion cultural aparece en muchas sociedades, pero sus manifestaciones concretas varian segun el sistema educativo, el grado de consagracion estatal de la cultura y los bienes disponibles, lo que cuestiona la pretension universal del modelo frances."
+      }
+    ],
+    "contrasts": "El nudo del debate es hasta donde llega la reduccion del gusto a la clase. Los partidarios leen La distincion como una desnaturalizacion definitiva de la estetica: lo que parece don personal es posicion social incorporada, y la escuela es la maquina que reproduce esa desigualdad fingiendo merito. Los criticos atacan en tres planos que conviene no confundir. El plano empirico es el del omnivoro: Peterson muestra que las elites consumen hoy alto y bajo a la vez, lo que parece romper la homologia; pero Holt replica que eso no refuta a Bourdieu si la distincion vive en el modo de consumo y no en el objeto, de modo que el omnivorismo seria la nueva forma del capital cultural, no su negacion. El plano teorico es el del determinismo y la circularidad: King y Alexander coinciden en que el habitus deja poco lugar a la agencia y al significado autonomo, mientras Wacquant responde que esa lectura confunde la formulacion rigida con el uso efectivo del concepto, que admite tension, desajuste y cambio. El plano de la generalizacion es el de Lamont y la sociologia comparada: aun concediendo que Bourdieu tenia razon para la Francia de su tiempo, queda abierto si sus hallazgos valen para sociedades menos centralizadas y para epocas de consumo cultural mas fluido. Cruzando los tres planos late una pregunta de fondo que ningun bando salda: si una teoria construida para explicar la reproduccion puede explicar tambien el cambio, o si su exito al describir la persistencia de la desigualdad es justamente su punto ciego ante la movilidad y la novedad cultural.",
+    "sources": [
+      {
+        "label": "Encyclopaedia Britannica: Pierre Bourdieu (habitus, capital cultural, el gusto como expresion de clase en La distincion)",
+        "url": "https://www.britannica.com/biography/Pierre-Bourdieu"
+      },
+      {
+        "label": "Wikipedia: Distinction (book) (resumen, capital cultural y gusto, voto de la ISA como libro clave del siglo XX)",
+        "url": "https://en.wikipedia.org/wiki/Distinction_(book)"
+      },
+      {
+        "label": "EBSCO Research Starters: Cultural Omnivorousness (Richard Peterson, omnivoro vs homologia de Bourdieu, replica Paris-Nueva York)",
+        "url": "https://www.ebsco.com/research-starters/arts-and-entertainment/cultural-omnivorousness"
+      },
+      {
+        "label": "infed.org: Pierre Bourdieu on education (habitus, capital, campo, reproduccion social y violencia simbolica en la escuela)",
+        "url": "https://infed.org/dir/welcome/pierre-bourdieu-habitus-capital-and-field-exploring-reproduction-in-the-practice-of-education/"
+      },
+      {
+        "label": "Powercube (IDS): Bourdieu and Habitus (definicion del habitus y la tension estructura-agencia frente a la critica del determinismo)",
+        "url": "https://www.powercube.net/other-forms-of-power/bourdieu-and-habitus/"
+      },
+      {
+        "label": "EBSCO Research Starters: Outline of a Theory of Practice (teoria de la practica, habitus y la relacion estructura-agencia)",
+        "url": "https://www.ebsco.com/research-starters/literature-and-writing/outline-theory-practice-pierre-bourdieu"
+      },
+      {
+        "label": "Kane, Distinction worldwide? Bourdieu's theory of taste in international context (Poetics 31, 2003; generalizabilidad parcial fuera de Francia)",
+        "url": "https://cpb-eu-w2.wpmucdn.com/caledonianblogs.net/dist/c/87/files/2009/10/Kane_2003_Poetics.pdf"
+      }
+    ]
+  },
+  "socratic": "Sos un tutor socratico de sociologia y vamos a pensar juntos La distincion de Bourdieu, sobre todo la tesis del gusto como marcador y arma de clase. Reglas: preguntame de a una pregunta por vez, nunca me des la respuesta, exigime siempre que justifique con razones o con datos, y cuando yo afirme algo oponeme una objecion real de un autor nombrado (Richard Peterson y el omnivoro cultural, Jeffrey Alexander y el reduccionismo, Anthony King y la circularidad del habitus, Michele Lamont y la generalizacion desde Francia, Loic Wacquant y Douglas Holt del lado de la defensa). Si me trabo, dame una pista, no la solucion. Arranca con esta pregunta concreta: si dos personas dicen que les gusta la misma musica, una de clase obrera y otra de clase alta, en que sentido podria sostener Bourdieu que su gusto no es el mismo, y que tendrias que observar para decidir si tiene razon? Despues de mi respuesta, segui indagando: pediime que distinga entre el objeto consumido y el modo de consumirlo, y oponeme el dato de Peterson de que hoy las elites consumen alto y bajo a la vez. Cuando invoque el habitus para explicar el gusto, oponeme la objecion de circularidad de King (el habitus se prueba por las practicas y las practicas se explican por el habitus: como evitas que sea inrefutable?) y la de determinismo (donde queda la agencia y el cambio?); si me defiendo, traeme la replica de Wacquant de que el habitus admite tension y desajuste. Mas adelante llevame al plano de la violencia simbolica (por que los dominados aceptan como natural la cultura que los subordina?) y al de la generalizacion (vale esto fuera de la Francia centralizada de los 60? oponeme a Lamont y la evidencia comparada de Kane). Cerra siempre devolviendome la pregunta de si una teoria pensada para explicar la reproduccion de la desigualdad puede explicar tambien la movilidad y la novedad cultural, o si ese es su punto ciego."
+}

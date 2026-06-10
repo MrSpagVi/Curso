@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "La pregunta central de un manual de falacias no es solo identificarlas, sino clasificarlas, y ahi empiezan los problemas. La taxonomia heredada arranca con Aristoteles, que en las Refutaciones sofisticas distinguio trece falacias en dos grandes grupos: las que dependen del lenguaje (in dictione: equivocacion, anfibologia, combinacion, division, acento y figura de diccion) y las que no dependen de el (extra dictionem: accidente, secundum quid, ignoratio elenchi, peticion de principio, consecuente, falsa causa y muchas preguntas). De ahi deriva la division moderna entre falacias formales (un error detectable solo por la forma logica del argumento) e informales (un error que depende del contenido, el contexto o el uso del lenguaje). El problema es doble. Primero, no hay acuerdo sobre que es una falacia: la definicion clasica de Hamblin, un argumento que parece valido pero no lo es, falla porque muchas falacias no son ni siquiera invalidas en sentido deductivo (la peticion de principio es formalmente valida). Segundo, cualquier taxonomia que pretenda ser exhaustiva choca con que los tipos de error de razonamiento se consideran innumerables, y las categorias propuestas tienden a solaparse y a ser hasta cierto punto arbitrarias. El debate contemporaneo se vuelve mas agudo cuando se examinan falacias concretas (ad hominem, pendiente resbaladiza, apelacion a la autoridad y a la ignorancia, peticion de principio) cuyo estatuto mismo de falacia esta en disputa: en muchos contextos son razonamientos legitimos o, al menos, plausibles sujetos a evaluacion.",
+    "supporters": [
+      {
+        "school": "Logica informal (Ralph H. Johnson y J. Anthony Blair)",
+        "view": "Fundadores de la logica informal en la Universidad de Windsor (Logical Self-Defense, 1977; fundadores de la revista Informal Logic), Johnson y Blair sostienen que se puede dar un tratamiento sistematico y normativo de los argumentos sin reducirlo a la logica formal. Su aporte clave es la triada ARS: un buen argumento exige premisas aceptables (acceptability), relevantes (relevance) y suficientes (sufficiency). Esto convierte el catalogo desordenado de falacias en un esquema ordenado: las falacias se reagrupan como violaciones de relevancia, de aceptabilidad o de suficiencia. La clasificacion deja de ser una lista anecdotica de nombres latinos y pasa a derivarse de criterios explicitos de lo que hace bueno a un argumento."
+      },
+      {
+        "school": "Pragma-dialectica (Frans van Eemeren, Rob Grootendorst, Peter Houtlosser)",
+        "view": "La escuela de Amsterdam ofrece la teoria sistematica mas ambiciosa: las falacias no se definen aisladamente sino como violaciones de las reglas de una discusion critica orientada a resolver una diferencia de opinion. Cada presunta falacia se entiende como un descarrilamiento de la maniobra estrategica (derailment of strategic maneuvering): la misma movida puede ser legitima o falaz segun respete o no las reglas dialecticas. En el caso del argumentum ad verecundiam, van Eemeren y Houtlosser muestran que apelar a una autoridad es una maniobra potencialmente correcta y solo se vuelve falacia ad verecundiam cuando descarrila respecto de las condiciones acordadas entre las partes. La taxonomia se vuelve funcional: las falacias se ordenan por la etapa de la discusion y la regla que se infringe."
+      },
+      {
+        "school": "Esquemas argumentativos y preguntas criticas (Douglas Walton)",
+        "view": "Walton reemplaza la pregunta binaria es o no es una falacia por una evaluacion contextual mediante esquemas de argumentacion (argumentation schemes) y, asociadas a cada uno, una bateria de preguntas criticas (critical questions). Un argumento de autoridad, un ad hominem o una pendiente resbaladiza no son falaces por su forma: son patrones de razonamiento plausible (defeasible) que resultan buenos o malos segun como respondan a sus preguntas criticas en el tipo de dialogo en que aparecen. En Slippery Slope Arguments distingue cuatro tipos (causal, sorites, de precedente, de plena toma de control) y muestra con mas de cincuenta casos cuando cada uno se usa correcta o incorrectamente. Asi proporciona una clasificacion sistematica y operativa que sustituye la condena automatica por un procedimiento de evaluacion."
+      },
+      {
+        "school": "Defensa contextual del ad hominem (Scott Aikin, Douglas Walton)",
+        "view": "Frente a la clasificacion del ad hominem como falacia de irrelevancia, esta linea sostiene que el caracter del hablante puede ser legitimamente relevante. Walton lo analiza con preguntas criticas: es relevante el caracter en este tipo de dialogo? esta bien fundada la imputacion? la conclusion debe ser rechazo total o solo una reduccion del peso de credibilidad? Aikin (Three Puzzles with Ad Hominem Arguments, 2025) argumenta que el ataque a la sinceridad, la competencia o la imparcialidad del testimoniante puede ser pertinente, sobre todo en contextos testimoniales, aunque concluye que su uso masivo polariza el debate. La leccion taxonomica es que ad hominem no es una categoria homogenea: hay variantes (abusiva, circunstancial, tu quoque) con estatus epistemico distinto."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica de Hamblin a la tradicion de los manuales",
+        "view": "Charles Hamblin, en Fallacies (1970), abre la obra con un ataque demoledor al standard treatment de los manuales: lo califica de devaluado, gastado y dogmatico, increiblemente atado a la tradicion, una lista de nombres latinos que cada autor copia acriticamente del anterior sin teoria que la sustente. Su sentencia famosa es que no tenemos ninguna teoria de la falacia, en el sentido en que tenemos teorias de la inferencia correcta. Para Hamblin, la propia definicion estandar (argumento que parece valido pero no lo es) es defectuosa, y por tanto cualquier clasificacion construida sobre ella hereda el defecto. Su libro marca la linea divisoria entre la tradicion y los enfoques contemporaneos."
+      },
+      {
+        "school": "Critica a las taxonomias por arbitrarias y solapadas",
+        "view": "Una objecion recurrente sostiene que toda clasificacion exhaustiva de falacias es imposible o arbitraria. Los tipos de error de razonamiento se consideran innumerables, de modo que ninguna lista cerrada los agota. Ademas las categorias se solapan: un mismo caso puede leerse como ad hominem, como ignoratio elenchi o como falacia de relevancia segun el criterio elegido, y no hay acuerdo sobre condiciones necesarias y suficientes para distinguir lo falaz de lo no falaz. La eleccion entre clasificar por forma logica, por tipo de error epistemico, por regla dialectica violada o por esquema argumentativo es en buena medida convencional, lo que mina la pretension de una taxonomia natural y unica."
+      },
+      {
+        "school": "Escepticismo sobre el estatuto falaz del ad hominem y la apelacion a la autoridad",
+        "view": "Varios autores cuestionan que el ad hominem y el argumentum ad verecundiam merezcan figurar como falacias en un catalogo. En epistemologia del testimonio, descontar el testimonio de alguien por su falta de sinceridad, competencia o fiabilidad es un procedimiento epistemicamente correcto, no un error. Del mismo modo, apoyarse en expertos es indispensable y racional en condiciones de division del trabajo cognitivo: es falaz solo cuando la autoridad no es competente en el dominio, no es fiable o los expertos disienten. Incluirlos sin matiz en la lista de falacias produce el efecto perverso de ensenar a desconfiar de razonamientos legitimos."
+      },
+      {
+        "school": "Critica de la falacia de la falacia (fallacy fallacy)",
+        "view": "La proliferacion de listas de falacias genera su propio error: el argumentum ad logicam o fallacy fallacy, esto es, concluir que una afirmacion es falsa porque el argumento que la apoya es falaz. Detectar una falacia muestra, como mucho, que ese argumento no establece la conclusion, no que la conclusion sea falsa ni que no existan otros buenos argumentos a su favor. Los criticos senalan que el uso de manuales de falacias como arma retorica para descalificar (acusar al rival de cometer tal falacia latina) reproduce justamente el dogmatismo que Hamblin denunciaba, convirtiendo la teoria en un recurso para ganar discusiones en lugar de evaluarlas."
+      }
+    ],
+    "contrasts": "El desacuerdo no es tanto sobre si existen razonamientos malos (todos lo admiten) como sobre como organizarlos y donde trazar la linea. La tradicion aristotelica y los manuales heredados ofrecen una taxonomia historicamente influyente (in dictione / extra dictionem, formales / informales) pero, segun Hamblin y los criticos de las taxonomias, arbitraria, solapada e imposible de cerrar. Los enfoques sistematicos contemporaneos responden de tres maneras complementarias: la logica informal reordena el catalogo bajo criterios explicitos (aceptabilidad, relevancia, suficiencia); la pragma-dialectica lo reordena por reglas de la discusion critica violadas; Walton lo disuelve en esquemas con preguntas criticas evaluadas segun el contexto del dialogo. El punto comun de los tres es desplazar la pregunta de que falacia es esto hacia esta movida es legitima en este contexto, lo que explica por que el ad hominem, la pendiente resbaladiza, la apelacion a la autoridad y a la ignorancia dejan de ser falacias por definicion y pasan a ser argumentos plausibles sujetos a condiciones. Britannica y los manuales tradicionales siguen presentandolas como falacias sin mas; SEP, IEP y la literatura especializada coinciden en que el estatuto de cada una depende de su uso. El fallacy fallacy funciona como advertencia transversal: incluso cuando una clasificacion identifica bien un error, de ahi no se sigue que la conclusion atacada sea falsa.",
+    "sources": [
+      {
+        "label": "Hansen, Hans. Fallacies. Stanford Encyclopedia of Philosophy (rev. 2024)",
+        "url": "https://plato.stanford.edu/entries/fallacies/"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy. Fallacies",
+        "url": "https://iep.utm.edu/fallacy/"
+      },
+      {
+        "label": "Groarke, Leo. Informal Logic. Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/logic-informal/"
+      },
+      {
+        "label": "Encyclopaedia Britannica. Slippery slope argument",
+        "url": "https://www.britannica.com/topic/slippery-slope-argument"
+      },
+      {
+        "label": "van Eemeren, Frans H. y Houtlosser, Peter. Fallacies as Derailments of Strategic Maneuvering: The Argumentum Ad Verecundiam, A Case in Point (ISSA Proceedings 2002)",
+        "url": "https://rozenbergquarterly.com/issa-proceedings-2002-fallacies-as-derailments-of-strategic-maneuvering-the-argumentum-ad-verecundiam-a-case-in-point/"
+      },
+      {
+        "label": "Aikin, Scott. Three Puzzles with Ad Hominem Arguments. Journal of the American Philosophical Association 11(3), 2025",
+        "url": "https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/three-puzzles-with-ad-hominem-arguments/3EA1126C7081C468F4D03C9870852C96"
+      }
+    ]
+  },
+  "socratic": "Eres un tutor socratico de logica informal. Tu unico objetivo es ayudarme a analizar si una falacia concreta, en un caso concreto, realmente invalida un argumento. Reglas estrictas: haces UNA pregunta por turno y esperas mi respuesta; nunca me das la respuesta hecha ni un veredicto cerrado; siempre me pides las razones detras de lo que afirmo; cuando tomo una posicion, me opones una objecion real de la literatura (Hamblin, Walton, van Eemeren, Johnson y Blair, o el caso del fallacy fallacy); si me trabo, das una pista pequena, no la solucion. Empieza con esta pregunta y nada mas: 'Supongamos que alguien rechaza un argumento sobre politica fiscal diciendo: no le creas, el que lo defiende cobra de una fundacion interesada. Te pregunto: un ataque a la persona que argumenta, un ad hominem, siempre invalida el argumento que esa persona presenta, o puede haber casos en que el caracter o los intereses del hablante sean pertinentes? Dame tu respuesta inicial y la razon principal en la que te apoyas.'"
+}

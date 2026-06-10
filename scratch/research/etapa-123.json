@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "El reparto de lo sensible (2000) se volvio en dos decadas el texto estandar para pensar la relacion entre arte y politica, citado en bienales, programas de estetica y teoria democratica por igual. El debate sigue vivo porque la tesis de Ranciere corta en dos direcciones a la vez. Por un lado, ofrece la defensa mas sofisticada disponible del arte politico: la obra no es politica por su mensaje ni por el compromiso del autor, sino por redistribuir lo visible y lo decible; y su axioma de la igualdad de las inteligencias funda una pedagogia y una teoria de la emancipacion sin tutores. Por el otro, sus criticos señalan que esa elegancia tiene costos precisos. Desde el marxismo, Peter Hallward objeta que una politica que solo existe en irrupciones esporadicas de la parte de los sin parte carece de organizacion, estrategia y duracion: es teatro mas que politica. Desde la sociologia, se replica que su guerra contra Bourdieu (el filosofo que sabe por las masas) tira el analisis empirico de la desigualdad junto con el elitismo. Desde la teoria critica, Axel Honneth confronto a Ranciere en Frankfurt sobre si el disenso puede sustituir al reconocimiento institucional. Y desde el propio campo del arte surge la sospecha mas corrosiva: que el disenso estetizado es hoy la mercancia favorita del circuito de bienales que lo celebra.",
+    "supporters": [
+      {
+        "school": "La estetica contemporanea y el arte critico (la recepcion curatorial)",
+        "view": "Desde la traduccion de The Politics of Aesthetics (Bloomsbury, con el glosario de Gabriel Rockhill), Ranciere se volvio el teorico de cabecera del arte contemporaneo: documenta de Kassel, las bienales y la critica de arte adoptaron su vocabulario porque resuelve un problema real del arte critico. Contra el realismo socialista (arte al servicio del mensaje) y contra el formalismo (arte puro), Ranciere ofrece un tercer criterio: la obra es politica cuando reconfigura la frontera entre lo visible y lo invisible, la palabra y el ruido. Autores como Claire Bishop, en Artificial Hells (Verso, 2012), usan su critica del espectador pasivo para evaluar el arte participativo sin caer ni en la celebracion etica ni en el cinismo. Para esta escuela, ningun otro marco permite juzgar a la vez un mural de Rivera y una instalacion de Hirschhorn."
+      },
+      {
+        "school": "Davide Panagia y la teoria politica de la sensacion",
+        "view": "En la teoria politica anglosajona, Davide Panagia es el principal desarrollador del programa rancieriano: en The Political Life of Sensation (Duke, 2009) y Rancieres Sentiments (Duke, 2018) argumenta que la contribucion de Ranciere es haber mostrado que la politica democratica es una cuestion de percepcion antes que de instituciones: quien cuenta como hablante, que suena como argumento y que como ruido. Panagia lee a Ranciere como un pensador de la mediacion radical, util para analizar fenomenos que la teoria deliberativa no capta: la dimension sensorial de la protesta, el video viral, el cuerpo en la plaza. Esta escuela defiende justamente lo que Hallward ataca: que la politica sea esporadica no es un defecto sino su definicion, porque lo que dura ya no es politica sino policia."
+      },
+      {
+        "school": "La igualdad de las inteligencias como programa pedagogico",
+        "view": "Una tercera recepcion, fuerte en educacion y pedagogia critica, toma El maestro ignorante (1987) como el centro del corpus: el axioma de Jacotot (cualquiera puede entender cualquier cosa sin explicador) funda una critica radical de toda pedagogia del deficit, incluida la progresista. Autores como Jan Masschelein y Maarten Simons, y la enorme recepcion latinoamericana del libro (donde dialoga con Freire y con Simon Rodriguez, el maestro de Bolivar), sostienen que la emancipacion intelectual es el verdadero programa politico de Ranciere: no hay redistribucion de lo sensible sin la presuposicion verificable de que el que mira, lee o escucha sabe. Esta escuela conecta el libro con la practica: de las escuelas autogestionadas a la educacion popular, el maestro ignorante funciona como antidoto contra el explicador que produce la incapacidad que dice remediar."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Peter Hallward y la critica marxista de la teatrocracia",
+        "view": "Hallward, en Staging Equality: On Rancieres Theatrocracy (New Left Review 37, 2006), formula la objecion marxista central: la politica de Ranciere es una dramaturgia de la igualdad, momentos de irrupcion estetica sin organizacion, estrategia ni duracion. La parte de los sin parte irrumpe, redistribuye lo sensible y se disuelve; mientras tanto, el poder real (el capital, el aparato estatal) no se inmuta, porque nada en el esquema explica como se construye fuerza para vencerlo. Para Hallward, Ranciere reinstala como principio radical la teatrocracia que Platon condenaba: la soberania del publico, el gesto sobre la estructura. Una emancipacion que se verifica en escenas pero nunca se acumula en instituciones, partidos o programas es, en el mejor de los casos, una estetica de la politica; en el peor, su sustituto."
+      },
+      {
+        "school": "La objecion sociologica: contra el anti-Bourdieu",
+        "view": "Ranciere construyo su posicion contra Bourdieu (en El filosofo y sus pobres, 1983, lo acusa de encerrar a los dominados en la reproduccion que dice denunciar) y contra toda sociologia que explique por que los dominados no pueden lo que pueden. Los sociologos responden que esa guerra tiene un costo: al rechazar el analisis de los condicionamientos (capital cultural, habitus, desigualdad material de acceso), Ranciere se queda sin herramientas para explicar por que las irrupciones de la parte de los sin parte son tan raras y por que fracasan. La igualdad de las inteligencias como axioma es inverificable justo donde importa: el obrero que escribe poesia de noche existio (Ranciere lo documento en La noche de los proletarios), pero la sociologia pregunta cuantos no pudieron, y por que. Sin esa pregunta, el axioma emancipador puede volverse coartada: si todos pueden, la desigualdad resultante parece eleccion."
+      },
+      {
+        "school": "Axel Honneth, la teoria critica y el mercado del arte",
+        "view": "En el encuentro de Frankfurt de 2009, publicado como Recognition or Disagreement (Columbia University Press, 2016, eds. Genel y Deranty), Honneth confronto el modelo del desacuerdo con su teoria del reconocimiento: las luchas reales no piden solo irrumpir y redibujar lo sensible, piden instituciones que garanticen reconocimiento juridico, social y afectivo de modo duradero; una politica sin teoria de la institucion no puede distinguir progreso de regresion. A esta critica se suma la sospecha del propio campo artistico: el disenso estetizado se volvio el genero mas premiado del circuito global; las bienales compran irrupcion, los museos programan la parte de los sin parte, y el vocabulario rancieriano funciona como certificado de radicalidad para obras financiadas por los mismos patrocinadores que el arte dice impugnar. Si la redistribucion de lo sensible se exhibe con entrada paga, que redistribuyo?"
+      }
+    ],
+    "contrasts": "El nudo del debate es si la politica se define por la interrupcion o por la duracion. Para Ranciere y sus defensores (Panagia, la recepcion curatorial, la pedagogia de la igualdad), la politica es por definicion rara y esporadica: el momento en que los no contados se hacen contar; institucionalizarla es devolverla a la policia. Para sus criticos, esa definicion es el problema: Hallward pide organizacion y estrategia, la sociologia pide analisis de los condicionamientos reales, Honneth pide instituciones de reconocimiento; los tres señalan, desde lugares distintos, que una emancipacion que no se acumula deja el mundo como estaba. La objecion del mercado del arte radicaliza el punto: el disenso sin estructura no solo no amenaza al orden, lo decora. La respuesta rancieriana (lo que dura ya no es politica) es coherente pero costosa: obliga a elegir entre la pureza del momento igualitario y la eficacia de la construccion paciente. Esa eleccion es exactamente lo que el lector tiene que juzgar.",
+    "sources": [
+      {
+        "label": "Peter Hallward, Staging Equality: On Rancieres Theatrocracy (New Left Review 37, 2006)",
+        "url": "https://newleftreview.org/issues/ii37/articles/peter-hallward-staging-equality.pdf"
+      },
+      {
+        "label": "Honneth y Ranciere, Recognition or Disagreement (Columbia University Press)",
+        "url": "https://cup.columbia.edu/book/recognition-or-disagreement/9780231177160/"
+      },
+      {
+        "label": "Jacques Ranciere, The Emancipated Spectator (Verso Books)",
+        "url": "https://www.versobooks.com/products/2105-the-emancipated-spectator"
+      },
+      {
+        "label": "Jacques Ranciere, The Politics of Aesthetics (Bloomsbury)",
+        "url": "https://www.bloomsbury.com/uk/politics-of-aesthetics-9781350084384/"
+      },
+      {
+        "label": "Davide Panagia, Rancieres Sentiments (Duke University Press)",
+        "url": "https://www.dukeupress.edu/rancieres-sentiments"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre El reparto de lo sensible de Jacques Ranciere. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cuando yo afirme algo, pedime razones y pedime que distinga politica de policia con ejemplos concretos. Presenta objeciones de escuelas rivales concretas: la critica marxista de Peter Hallward (una politica esporadica y sin organizacion es teatro), la objecion sociologica de los herederos de Bourdieu (sin analisis de los condicionamientos, la igualdad de las inteligencias es una coartada), la teoria del reconocimiento de Honneth (sin instituciones no hay progreso verificable) y la sospecha de que el disenso estetizado es funcional al mercado del arte. Si me trabo, dame una pista en forma de pregunta mas concreta. Empeza preguntandome: si toda politica que dura se convierte en policia, puede existir una victoria politica que no sea una derrota?"
+}

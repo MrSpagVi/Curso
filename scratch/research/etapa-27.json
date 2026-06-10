@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "El curso de David Harvey \"Reading Marx's Capital\" no es un texto neutral: es la puerta de entrada de una de las grandes escuelas de lectura de El Capital. Por eso, en lugar de reabrir aqui la discusion sobre la validez de la teoria del valor (que corresponde a la etapa de El Capital), conviene plantear el debate verdaderamente vivo en torno a esta obra: como hay que leer El Capital hoy y que metodo interpretativo seguir. La pregunta no es solo academica. De ella dependen decisiones tan concretas como por donde empezar el libro, si el capitulo 1 sobre la mercancia es el umbral imprescindible o un obstaculo que conviene posponer, si Marx tenia una teoria acabada de la crisis y de la caida tendencial de la tasa de ganancia, y si El Capital se lee mejor como ciencia, como dialectica, como critica de las formas sociales o como geografia de la acumulacion. Las escuelas rivales no discrepan en los datos sino en el modo de leer: cada una propone una llave distinta para abrir el mismo texto.",
+    "supporters": [
+      {
+        "school": "La lectura de David Harvey (geografica y centrada en la circulacion)",
+        "view": "Harvey aporta una lectura que privilegia la totalidad del proceso de acumulacion, la circulacion del capital, la produccion del espacio y la crisis como desplazamiento geografico, sintetizada en su concepto de \"acumulacion por desposesion\". Su \"A Companion to Marx's Capital\", surgido de casi cuatro decadas dando el curso, y sus videoclases gratuitas hicieron accesible El Capital a millones de lectores. Metodologicamente recomienda atravesar los tres primeros capitulos \"agarrandose como loco\" en vez de saltearlos, porque el camino de Marx va de la apariencia superficial a los conceptos fundamentales y de vuelta. Su fuerza es pedagogica y sistemica: leer el Volumen I sin perder de vista la circulacion y la reproduccion de los Volumenes II y III."
+      },
+      {
+        "school": "La Nueva Lectura de Marx (Neue Marx-Lekture) y la teoria de la forma-valor",
+        "view": "Representada en ingles sobre todo por Michael Heinrich y su \"An Introduction to the Three Volumes of Karl Marx's Capital\" (Monthly Review Press), esta tradicion alemana surgida en los anos sesenta y setenta (con Backhaus y Reichelt como antecedentes) lee El Capital como critica inmanente de la economia politica, no como manual de leyes historicas inevitables. Rechaza el \"marxismo de cosmovision\" del movimiento obrero (economicista, determinista, teleologico) y la reduccion ricardiana del valor a trabajo incorporado. Su aporte central es una teoria monetaria del valor: el valor no es una sustancia que reside en la mercancia aislada sino el caracter social especifico del trabajo productor de mercancias, una forma de dominacion impersonal que solo se constituye en el intercambio y que se despliega a lo largo de los tres volumenes."
+      },
+      {
+        "school": "La lectura althusseriana (cientifica y estructural)",
+        "view": "En \"Lire le Capital\" (Para leer El Capital, 1965), Althusser, Balibar, Ranciere, Macherey y Establet proponen una \"lectura sintomatica\" que busca en el texto las preguntas no formuladas, los silencios y las tensiones estructurales. El Capital marcaria una \"ruptura epistemologica\" (un \"corte\") que separa la ciencia marxista de su prehistoria ideologica y humanista. En su Prefacio de 1969 a la edicion francesa del Volumen I, Althusser convierte en \"imperativo\" un consejo de lectura llamativo: dejar de lado toda la Parte Primera y empezar por la Parte Segunda, volviendo a la mercancia y al valor solo al final y \"con infinita prudencia\", porque la Parte Primera concentra la maxima dificultad mientras el resto es \"luminoso\" y reconocible para el lector trabajador."
+      },
+      {
+        "school": "La lectura humanista y dialectica (alienacion y dialectica sistematica)",
+        "view": "Frente a Althusser, esta corriente insiste en la continuidad entre el joven Marx de la alienacion y El Capital, y en la deuda con la logica de Hegel. Abarca tanto el hegelo-marxismo de Lukacs como la \"dialectica sistematica\" contemporanea de Christopher J. Arthur (\"The New Dialectic and Marx's Capital\") y la obra de Bertell Ollman (\"Dance of the Dialectic\"), que leen la exposicion de El Capital como un desarrollo categorial homologo a la Logica hegeliana mas que como una historia. Su aporte es metodologico: el orden de las categorias (mercancia, dinero, capital) no es cronologico sino una reconstruccion conceptual de la totalidad capitalista, lo que vuelve el capitulo 1 no un obstaculo sino la clave de boveda del metodo."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Heinrich contra la teoria marxista clasica de la crisis",
+        "view": "En su articulo de Monthly Review de abril de 2013, \"Crisis Theory, the Law of the Tendency of the Profit Rate to Fall, and Marx's Studies in the 1870s\", Heinrich sostiene, a partir de los manuscritos del MEGA, que Marx nunca completo una teoria coherente de la crisis y que en sus ultimos anos se distanciaba de la ley de la caida tendencial de la tasa de ganancia tal como la habia formulado, orientandose hacia una teoria centrada en el credito. Esto es una critica directa tanto a la tradicion del movimiento obrero como a quienes hacen de esa ley el motor unico del colapso capitalista."
+      },
+      {
+        "school": "La replica clasica (Roberts, Critique of Crisis Theory) contra Heinrich y Harvey",
+        "view": "Defensores de la ley de la tendencia decreciente de la ganancia, como Michael Roberts, acusan a Heinrich de \"diluir\" a Marx y de proyectar dudas filologicas sobre lo que consideran el nucleo cientifico de El Capital; y reprochan a Harvey haber suscrito esa posicion. En la polemica publica, Roberts replico al ensayo de Harvey \"David Harvey, monomaniacs and the rate of profit\", defendiendo la centralidad de la rentabilidad frente a las explicaciones por la circulacion. Para esta escuela, abandonar la ley equivale a perder la teoria objetiva de la crisis."
+      },
+      {
+        "school": "Criticas a Harvey: eclecticismo y subconsumismo",
+        "view": "A Harvey se le objeta que, al desplazar el foco de la produccion y la tasa de ganancia hacia la circulacion, los desplazamientos espaciales y la realizacion del valor, desliza la explicacion de la crisis hacia un subconsumismo (falta de demanda) y hacia un eclecticismo que multiplica causas sin jerarquizarlas. Roberts lo caracteriza como alguien que ve \"muchas\" causas y por eso ninguna decisiva, mientras que criticos de la forma-valor (por ejemplo el grupo Critisticuffs en su \"Companion to David Harvey's Companion\") cuestionan ademas su tratamiento del capitulo 1 y de la forma del valor."
+      },
+      {
+        "school": "El humanismo y la forma-valor contra el cientificismo althusseriano",
+        "view": "Tanto la corriente humanista-dialectica como la Neue Marx-Lekture rechazan el consejo de Althusser de saltear la Parte Primera. Para Arthur, Ollman y Heinrich, empezar por el capital sin haber comprendido la mercancia, el doble caracter del trabajo y la forma del valor es leer El Capital al reves: se pierde precisamente la critica de las formas sociales y se recae en una lectura economicista. La \"ruptura epistemologica\" y la expulsion de la dialectica hegeliana son, para ellos, una amputacion del metodo de Marx, no una depuracion cientifica."
+      }
+    ],
+    "contrasts": "El nudo del desacuerdo es practico antes que doctrinal: por donde empezar a leer El Capital y con que clave. Althusser ordena posponer la Parte Primera porque la considera la zona mas opaca y politicamente menos util; Harvey, la forma-valor y la dialectica sistematica insisten en atravesarla porque ahi se juega la critica de las formas sociales y el metodo de exposicion entero. En la teoria de la crisis, Heinrich y, en parte, Harvey relativizan la ley de la caida tendencial de la ganancia, mientras Roberts y la tradicion clasica la defienden como nucleo objetivo; y a Harvey se le reprocha desde ambos flancos un giro hacia la circulacion que rozaria el subconsumismo. Ninguna escuela niega que El Capital sea una obra capital: discrepan sobre que tipo de texto es (ciencia, dialectica, critica de las formas o geografia de la acumulacion) y, por tanto, sobre como debe leerse. Reconocer estas llaves rivales no obliga a elegir una de entrada, pero si a leer sabiendo que toda lectura de El Capital es ya una toma de posicion metodologica.",
+    "sources": [
+      {
+        "label": "Michael Heinrich, \"Crisis Theory, the Law of the Tendency of the Profit Rate to Fall, and Marx's Studies in the 1870s\", Monthly Review (abril 2013)",
+        "url": "https://monthlyreview.org/2013/04/01/crisis-theory-the-law-of-the-tendency-of-the-profit-rate-to-fall-and-marxs-studies-in-the-1870s/"
+      },
+      {
+        "label": "Michael Heinrich, \"An Introduction to the Three Volumes of Karl Marx's Capital\" (Monthly Review Press)",
+        "url": "https://monthlyreview.org/product/an_introduction_to_the_three_volumes_of_karl_marxs_capital/"
+      },
+      {
+        "label": "Chris O'Kane, resena de Heinrich y la Neue Marx-Lekture, Marx & Philosophy Review of Books",
+        "url": "https://marxandphilosophy.org.uk/reviews/7756_an-introduction-to-the-three-volumes-review-by-chris-okane/"
+      },
+      {
+        "label": "Louis Althusser, \"Preface to Capital Volume One\" (1969), Marxists Internet Archive",
+        "url": "https://www.marxists.org/reference/archive/althusser/1969/preface-capital.htm"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy, \"Louis Althusser\" (Reading Capital, lectura sintomatica, ruptura epistemologica)",
+        "url": "https://plato.stanford.edu/entries/althusser/"
+      },
+      {
+        "label": "David Harvey, \"A Companion to Marx's Capital\" (Verso Books)",
+        "url": "https://www.versobooks.com/blogs/news/4140-david-harvey-s-companion-to-marx-s-capital"
+      }
+    ]
+  },
+  "socratic": "Sos mi interlocutor socratico para aprender a leer El Capital de Marx (con la ayuda del curso de David Harvey). Reglas: haceme una sola pregunta por turno y espera mi respuesta; no me des nunca la respuesta hecha; cuando responda, pedime siempre las razones (\"por que pensas eso?\"); cuando defienda una postura, oponeme una objecion real de alguna escuela de lectura rival (Harvey, la Nueva Lectura de Marx / forma-valor de Heinrich, los althusserianos de Para leer El Capital, o la lectura humanista-dialectica de Lukacs, Arthur y Ollman); si me trabo, dame una pista breve, no la solucion. Empeza con esta pregunta concreta: si manana abrieras El Capital por primera vez, empezarias por el capitulo 1 sobre la mercancia y el valor, o lo saltearias para arrancar mas adelante? Despues de mi respuesta, contraponeme el consejo opuesto (Althusser dice posponer la Parte Primera; Harvey y la forma-valor dicen atravesarla) y preguntame que se gana y que se pierde con cada decision."
+}

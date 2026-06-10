@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "La obra de Fernando Filgueira sobre los Estados de bienestar latinoamericanos articula dos movimientos. El primero es analitico-descriptivo: una tipologia de los regimenes de bienestar de la region forjados durante la modernizacion conservadora del siglo XX, que distingue entre universalismo estratificado (Uruguay, Argentina y Chile, con instituciones de cobertura amplia pero internamente segmentadas y jerarquizadas por insercion ocupacional), regimenes duales (Brasil y Mexico, que combinan inclusion estratificada en los enclaves urbanos formales con exclusion en el mundo rural e informal) y regimenes excluyentes (paises donde la proteccion alcanza solo a elites reducidas). El segundo movimiento es normativo: frente a la herencia de esa estratificacion y frente al giro focalizador de las reformas neoliberales de los anos ochenta y noventa, Filgueira y colaboradores proponen el universalismo basico, es decir, garantizar a toda la ciudadania un piso comun de prestaciones y servicios de calidad fundados en el principio de ciudadania social, en lugar de fragmentar el bienestar segun la categoria laboral o de reducirlo a transferencias condicionadas para los mas pobres. El debate post-lectura gira en torno a tres ejes: la validez y los limites de la tipologia; la disputa universalismo versus focalizacion como filosofias de la politica social; y la viabilidad fiscal e ideologica de un universalismo que, por basico, podria quedar atrapado en un piso de minimos en sociedades atravesadas por la informalidad laboral.",
+    "supporters": [
+      {
+        "school": "Filgueira y la agenda CEPAL de proteccion social universal (Cecchini, Martinez, Rossel)",
+        "view": "Desde la CEPAL, Filgueira reformula el universalismo basico como un proceso de universalizacion gradual y sostenible: ampliar cobertura y prestaciones desde un enfoque de derechos, reduciendo la segmentacion historica y combinando pilares contributivos y no contributivos. La arquitectura de proteccion debe ajustarse a la nueva estructura de riesgos sociales (cambios en el mercado laboral, la familia y la demografia), no a la matriz ocupacional del siglo XX. El piso basico no es un techo sino la primera etapa de una ciudadania social que se profundiza segun las posibilidades fiscales de cada pais."
+      },
+      {
+        "school": "El universalismo solidario en la tradicion estructuralista (Jose Antonio Ocampo)",
+        "view": "Ocampo sostiene que la mejor focalizacion es una buena politica social universal. Argumenta que los paises latinoamericanos con instituciones mas universales (Argentina, Chile, Costa Rica, Uruguay) logran mayores efectos redistributivos que los de focalizacion estricta, y refuta la objecion de que el universalismo subsidia indebidamente a las clases medias: la ampliacion de cobertura genera gasto marginal progresivo y construye coaliciones politicas que sostienen el sistema. Universalidad y solidaridad son, para esta tradicion, la via mas eficaz contra la desigualdad y la pobreza."
+      },
+      {
+        "school": "El enfoque de poder de clase y partidos (Evelyne Huber y John D. Stephens)",
+        "view": "Huber y Stephens muestran, en su trabajo comparado sobre Estados de bienestar y sobre democracia e izquierda en America Latina, que el caracter universal o residual de la proteccion social depende del balance de poder politico: la accion sostenida de partidos de izquierda y la fortaleza de la democracia producen regimenes mas inclusivos y menos desiguales. Esto respalda el diagnostico de Filgueira de que la estratificacion no es destino tecnico sino resultado historico de coaliciones, y que un universalismo redistributivo requiere actores politicos que lo impulsen."
+      },
+      {
+        "school": "La critica feminista-comparada al familiarismo y la informalidad (Juliana Martinez Franzoni)",
+        "view": "Martinez Franzoni adapta el marco de Esping-Andersen a la region mostrando que los regimenes latinoamericanos son, en grados diversos, informales y familiaristas: una parte sustantiva de la poblacion no puede gestionar sus riesgos via mercado laboral o servicios publicos, de modo que la produccion de bienestar recae en las familias y, dentro de ellas, en el trabajo no remunerado de las mujeres. Esta lectura refuerza el argumento universalista: sin un piso desmercantilizado y desfamiliarizador comun, la informalidad reproduce la exclusion que la focalizacion no resuelve."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Los defensores de la focalizacion y las transferencias condicionadas (lecturas cercanas al Banco Mundial)",
+        "view": "Desde la economia del desarrollo de cuno mas liberal se objeta que, ante restricciones fiscales severas y debilidad tributaria, concentrar recursos en los hogares mas pobres mediante focalizacion y transferencias monetarias condicionadas maximiza el impacto por dolar gastado, mientras que el universalismo dispersa subsidios hacia quienes no los necesitan. La eficiencia distributiva y la sostenibilidad presupuestaria, no la cobertura formalmente universal, deberian guiar el diseno; el universalismo basico arriesga gasto regresivo en contextos de baja recaudacion."
+      },
+      {
+        "school": "La critica a la incoherencia de incentivos y la informalidad (Santiago Levy)",
+        "view": "Levy, en Good Intentions, Bad Outcomes, muestra que la coexistencia de seguridad social contributiva para el empleo formal y programas no contributivos para el informal crea un impuesto al trabajo asalariado y un subsidio a la informalidad, alimentando un circulo vicioso de baja productividad. Aunque comparte con Filgueira el horizonte de derechos universales, critica tanto el modelo estratificado-contributivo como la mera yuxtaposicion de programas focalizados, y propone financiar derechos universales eliminando las contribuciones sobre la nomina y elevando impuestos al consumo, un diseno que tensiona la version de la propuesta anclada en el empleo y la cotizacion."
+      },
+      {
+        "school": "La critica de izquierda al universalismo de minimos",
+        "view": "Desde posiciones mas igualitaristas se sostiene que un universalismo definido como basico puede volverse regresivo al organizarse en torno a necesidades minimas en lugar de servicios deseables: garantizar un piso pobre para los pobres no ciudadaniza, sino que institucionaliza un sistema de dos velocidades donde la clase media migra a la provision privada. Se denuncia que, bajo el rotulo de universalismo, el principio de universalidad quede subordinado a las restricciones fiscales y reducido a algo residual, es decir, una focalizacion encubierta que no rompe la segmentacion que el propio Filgueira diagnostica."
+      },
+      {
+        "school": "La critica a la tipologia y a su anclaje historico (sociologia comparada de los regimenes de bienestar)",
+        "view": "Diversos trabajos cuestionan que la tipologia tripartita (universalismo estratificado, dual, excluyente) capture adecuadamente la heterogeneidad contemporanea: las categorias se construyeron sobre la matriz ocupacional del siglo XX y pierden poder explicativo tras dos decadas de reformas, expansion de programas no contributivos y variacion sectorial dentro de un mismo pais. Se discute si los regimenes de bienestar son aun una categoria util, si conviene incorporar tipos adicionales (socialista, productivista-estatal, proteccionista-estatal, familiarista) y si la informalidad estructural exige abandonar las analogias directas con la tipologia europea de Esping-Andersen."
+      }
+    ],
+    "contrasts": "El nucleo de la controversia no es si hay que combatir la pobreza, sino con que filosofia y arquitectura. Filgueira y la tradicion universalista-estructuralista (Ocampo, la CEPAL) leen la focalizacion como sintoma del retroceso neoliberal y defienden un piso comun de ciudadania que, sostenido por coaliciones politicas amplias (en la linea de Huber y Stephens), genere efectos redistributivos y politicos acumulativos. Los criticos focalizadores responden con el argumento de eficiencia fiscal en contextos de baja recaudacion, mientras Levy desplaza el eje hacia los incentivos: tanto el viejo modelo contributivo estratificado como el remiendo focalizado distorsionan el mercado laboral y consolidan la informalidad. La izquierda igualitarista y la critica feminista coinciden en el horizonte universal pero advierten que un universalismo basico mal calibrado puede reproducir la segmentacion bajo otro nombre: un piso de minimos para pobres y servicios deseables para quien pueda pagarlos. Finalmente, la sociologia comparada disputa el instrumento mismo, preguntando si la tipologia y la importacion del marco de Esping-Andersen siguen describiendo una region definida por la informalidad y el familiarismo. El desacuerdo de fondo articula tres preguntas entrelazadas: que se universaliza (un piso o el conjunto de servicios deseables), como se financia (cotizaciones, impuestos generales o al consumo) y con que coalicion politica se sostiene en el tiempo.",
+    "sources": [
+      {
+        "label": "Fernando Filgueira, Cohesion, riesgo y arquitectura de proteccion social en America Latina (CEPAL, Serie Politicas Sociales 135, 2007)",
+        "url": "https://www.cepal.org/es/publicaciones/6141-cohesion-riesgo-arquitectura-proteccion-social-america-latina"
+      },
+      {
+        "label": "Simone Cecchini, Fernando Filgueira, Rodrigo Martinez y Cecilia Rossel (eds.), Instrumentos de proteccion social: caminos latinoamericanos hacia la universalizacion (CEPAL, 2015)",
+        "url": "https://repositorio.cepal.org/handle/11362/38821"
+      },
+      {
+        "label": "Jose Antonio Ocampo, Universalismo versus focalizacion, Nueva Sociedad 215 (2008)",
+        "url": "https://www.nuso.org/articulo/universalismo-versus-focalizacion/"
+      },
+      {
+        "label": "Evelyne Huber y John D. Stephens, Development and Crisis of the Welfare State: Parties and Policies in Global Markets (University of Chicago Press, 2001)",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/D/bo3633601.html"
+      },
+      {
+        "label": "Santiago Levy, Good Intentions, Bad Outcomes: Social Policy, Informality, and Economic Growth in Mexico (Brookings Institution Press, 2008)",
+        "url": "https://www.brookings.edu/books/good-intentions-bad-outcomes/"
+      },
+      {
+        "label": "Melisa Campana Alabarce, Regimenes de bienestar en America Latina y el Caribe: notas para pensar lo contemporaneo, Trabajo Social Global 5(8) (2015)",
+        "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=5304723"
+      }
+    ]
+  },
+  "socratic": "Vas a hacerme pensar, no a darme respuestas. Sos un tutor socratico sobre la obra de Fernando Filgueira y los Estados de bienestar latinoamericanos (universalismo estratificado, universalismo basico, focalizacion). Regla de oro: una sola pregunta por turno, y espera mi respuesta antes de seguir. Nunca me des la conclusion ya armada; haceme llegar a ella. Cuando responda, no me felicites de entrada: pedime la razon o la evidencia detras de lo que dije ('por que?', 'que supuesto sostiene eso?', 'que dato lo respaldaria?'). Si mi argumento tiene un hueco, no lo tapes: opone una objecion real y nombrada, por ejemplo la critica de eficiencia fiscal de los defensores de la focalizacion cercanos al Banco Mundial, la tesis de Santiago Levy de que combinar seguridad social contributiva con programas no contributivos grava el trabajo formal y subsidia la informalidad, la critica de izquierda de que un universalismo basico es un piso de minimos que no ciudadaniza, o la objecion de la sociologia comparada de que la tipologia de Filgueira quedo anclada en la matriz ocupacional del siglo XX. Si me trabo, no resuelvas: da una pista minima (un ejemplo concreto, una distincion, una contrapregunta mas chica) y devolveme la pregunta. Manten el foco en mis razones, no en tu erudicion. Empeza ahora con esta pregunta concreta y nada mas: si tuvieras un presupuesto social acotado en un pais con alta informalidad laboral, lo gastarias en una prestacion basica para todos los ciudadanos o en transferencias focalizadas solo en los hogares mas pobres, y por que?"
+}

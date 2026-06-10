@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "Tomar notas parece una tarea mecanica, pero la psicologia cognitiva del aprendizaje lleva decadas discutiendo que es lo que realmente hace que una nota sirva para aprender. El nucleo del debate no es tanto el soporte (mano, teclado, fichas) sino el tipo de procesamiento mental que la nota obliga a hacer: copiar al pie de la letra deja un rastro fragil, mientras que reformular, conectar y luego recuperar de memoria deja un rastro durable. Alrededor de esa idea se enfrentan dos campos: quienes defienden que ciertos metodos (escribir a mano, parafrasear, fichas, autoevaluacion) fuerzan elaboracion activa y por eso ensenan mejor; y quienes advierten que muchas tecnicas populares (subrayar, resumir, releer) son de baja eficacia y que estudios famosos como el de la lapicera contra el teclado no resistieron las replicas. Entender este debate es decidir, antes de elegir una tecnica, que pensas hacer despues con la nota.",
+    "supporters": [
+      {
+        "school": "Efecto de prueba y practica de recuperacion (Roediger y Karpicke, 2006)",
+        "view": "La memoria no se fortalece guardando informacion sino sacandola: recuperar de memoria un contenido (autoevaluarse, taparse la nota e intentar reproducirla) produce retencion a largo plazo muy superior a releer lo mismo. En tests demorados de dias o semanas, haber sido evaluado supera a haber vuelto a estudiar. Implica que una nota sirve si despues la usas como disparador de recuperacion, no como texto para releer pasivamente."
+      },
+      {
+        "school": "Niveles de procesamiento (Craik y Lockhart, 1972)",
+        "view": "Lo que determina cuanto recordas no es cuanto tiempo dedicas sino la profundidad del procesamiento. El analisis semantico profundo (entender el significado, conectarlo con lo que ya sabes) deja huellas mas duraderas que el procesamiento superficial (la forma, el sonido, copiar literal). Una nota que te obliga a reformular con tus palabras procesa en profundidad; una que transcribe verbatim se queda en la superficie."
+      },
+      {
+        "school": "Efecto de generacion (Slamecka y Graf, 1978)",
+        "view": "Producir uno mismo la informacion la hace mas memorable que limitarse a leerla. En cinco experimentos, las palabras que los sujetos generaban se recordaban mejor que las mismas palabras presentadas para leer, a traves de reconocimiento, recuerdo libre y recuerdo con pistas. Aplicado a las notas: escribir tu propia sintesis, tus preguntas y tus conexiones genera material y por eso se ancla mejor que copiar."
+      },
+      {
+        "school": "Ventaja de la escritura a mano (Mueller y Oppenheimer, 2014)",
+        "view": "El famoso estudio The Pen Is Mightier Than the Keyboard mostro que quienes tomaban notas a mano respondian mejor preguntas conceptuales que quienes usaban laptop. La razon propuesta: la mano es mas lenta y no permite transcribir todo, asi que obliga a seleccionar, sintetizar y parafrasear, es decir a procesar el contenido en vez de copiarlo palabra por palabra."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Fallas de replicacion del estudio de la lapicera (Morehead, Dunlosky y Rawson, 2019)",
+        "view": "Una replicacion directa y extension del estudio de Mueller y Oppenheimer no logro reproducir su resultado central: el rendimiento no difirio de forma consistente entre tomar notas a mano, en laptop o en dispositivo digital, e incluso comparado con un grupo que no tomo notas. Las diferencias se diluian aun mas cuando los estudiantes podian repasar sus notas. Concluir que la mano es superior, dicen, es prematuro."
+      },
+      {
+        "school": "Critica a las tecnicas de estudio de baja eficacia (Dunlosky et al., 2013)",
+        "view": "La revision Improving Students' Learning evaluo diez tecnicas y ubico en baja utilidad justo las mas populares: subrayar, resumir y releer. Ofrecen beneficios minimos frente a las dos de alta utilidad, la practica distribuida (espaciar el estudio) y la practica de prueba (autoevaluarse). El problema no es solo la nota en si, sino que las tecnicas que la gente cree productivas suelen ser las menos eficaces."
+      },
+      {
+        "school": "El soporte importa menos que la calidad de la nota",
+        "view": "El balance de las replicas reorienta el debate: lo decisivo no es mano contra teclado sino si la nota captura los conceptos clave que vas a necesitar recordar. Una nota a mano mal hecha pierde frente a una nota tipeada que reformula y selecciona. Centrarse en el soporte distrae del verdadero factor, que es el procesamiento y la posterior recuperacion."
+      },
+      {
+        "school": "Ilusion de fluidez y sobrecarga de notas",
+        "view": "Las tecnicas pasivas como releer y subrayar generan una sensacion de dominio (fluidez) que no se corresponde con el aprendizaje real, llevando a sobreestimar lo que uno sabe. Acumular muchas notas o subrayar casi todo puede empeorar las cosas: si todo parece importante, nada se jerarquiza, y el tiempo se va en producir material en lugar de recuperarlo de memoria."
+      }
+    ],
+    "contrasts": "Mirados juntos, los dos campos coinciden mas de lo que parece. Casi nadie defiende la transcripcion literal pasiva; el desacuerdo real es donde poner el foco. Los partidarios de la elaboracion activa subrayan el momento de escribir la nota: que el metodo te obligue a parafrasear, generar y procesar en profundidad. Los criticos, apoyados en las replicas, desplazan el foco al despues: que importa no es el soporte ni el acto de subrayar, sino si volves a la nota para autoevaluarte y si espacias ese repaso en el tiempo. La sintesis defendible es que una buena nota es una que fuerza procesamiento al escribirla (reformular, no copiar) y que esta disenada para usarse como herramienta de recuperacion despues (preguntas, fichas, sintesis que puedas tapar y reproducir), espaciando los repasos. El metodo Cornell, por ejemplo, tiene evidencia mixta: ayuda cuando su columna de preguntas se usa efectivamente para autoevaluarse, no por el formato en si.",
+    "sources": [
+      {
+        "label": "Roediger & Karpicke (2006), The Power of Testing Memory (Perspectives on Psychological Science) - resumen y referencia",
+        "url": "https://notes.andymatuschak.org/zGfjkW1ociSmSUCLcpbhKjf"
+      },
+      {
+        "label": "Craik & Lockhart (1972), niveles de procesamiento - explicacion del marco",
+        "url": "https://www.simplypsychology.org/levelsofprocessing.html"
+      },
+      {
+        "label": "Morehead, Dunlosky & Rawson (2019), replicacion del estudio de la lapicera (Educational Psychology Review) - registro ERIC",
+        "url": "https://eric.ed.gov/?id=EJ1225471"
+      },
+      {
+        "label": "Dunlosky et al. (2013), tecnicas de estudio de alta y baja utilidad - nota de Kent State",
+        "url": "https://www.kent.edu/psychology/all-study-strategies-not-created-equal-according-kent-state-researchers"
+      },
+      {
+        "label": "ASCD - The Duel Between the Pen and Keyboard Continues (debate mano vs teclado con las replicas)",
+        "url": "https://www.ascd.org/el/articles/the-duel-between-the-pen-and-keyboard-continues"
+      },
+      {
+        "label": "The Learning Scientists - New Findings Inform the Laptop versus Longhand Note-Taking Debate",
+        "url": "https://www.learningscientists.org/blog/2019/2/21-1"
+      }
+    ]
+  },
+  "socratic": "Vamos de a una pregunta, sin que yo te de la respuesta. Quiero que pienses en voz alta y me des razones.\n\n1. Pensa en la ultima nota que tomaste de una lectura. Despues de escribirla, que hiciste exactamente con ella: la volviste a leer, la tapaste e intentaste reproducirla de memoria, o no la tocaste mas?\n\n(Espera mi respuesta antes de seguir.)\n\n2. Cuando tomas la nota, copias frases del texto casi tal cual o las reformulas con tus propias palabras? Decime por que elegis esa forma.\n\n3. Si te dijera que copiar literal deja un rastro de memoria mas fragil que reformular, que objecion le pondrias? Hay casos donde copiar exacto si te conviene?\n\n4. Penselo al reves: imagina que dentro de un mes tenes que explicarle este libro a alguien sin mirar tus notas. Que tendria que contener tu nota hoy para que eso te salga bien? Eso que decis, lo cumple tu metodo actual?\n\n5. Te tiro una objecion real: hay estudios (Dunlosky 2013) que muestran que subrayar y resumir dan poco resultado frente a autoevaluarse y espaciar el repaso. Si eso es cierto, que parte de tu sistema de notas cambiarias y cual defenderias igual?\n\n6. Otra objecion: el famoso estudio de que escribir a mano es mejor que en teclado no se pudo replicar bien; varios concluyeron que el soporte importa menos que la calidad de la nota. Si el soporte da casi igual, en que deberias enfocar tu energia al tomar notas?\n\n7. Ultima, para que decidas: que regla concreta vas a adoptar para que cada nota que escribas sirva despues para recuperar de memoria y no solo para releer? Dame la razon por la que crees que te va a funcionar a vos.\n\nPista, por si te trabas: una nota util suele cumplir dos cosas, te obligo a reformular al escribirla, y la pensaste para usarla como disparador de recuperacion (una pregunta que te haces, una sintesis que podes tapar y reproducir), repasandola espaciada en el tiempo."
+}

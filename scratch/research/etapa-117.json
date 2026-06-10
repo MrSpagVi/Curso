@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "Democracia delegativa (1994) es el concepto latinoamericano mas exitoso de la ciencia politica contemporanea, y por eso mismo el mas disputado. O'Donnell describio un tipo de regimen que no encajaba en las categorias del Norte: democracias con elecciones limpias donde el presidente electo se concibe como encarnacion de la nacion, gobierna por decreto y trata a cortes, congresos y prensa como estorbos — poliarquia segun Dahl, pero sin accountability horizontal. Treinta años despues el debate sigue vivo por tres razones. Primero, el concepto fundo una agenda entera — la calidad de la democracia, los estudios de accountability — que hoy estructura como se evaluan los regimenes en todo el mundo, incluida la literatura del backsliding que llego despues. Segundo, recibio una impugnacion teorica de fondo: para la tradicion de Laclau, lo que O'Donnell patologiza como delegacion es la forma misma de la politica popular en America Latina — el populismo no como enfermedad de la representacion sino como su radicalizacion democratica. Tercero, el tiempo sometio al concepto a prueba empirica con resultados incomodos: las democracias delegativas no colapsaron en la espiral de crisis que el ensayo predecia; varias resultaron notablemente estables. La pregunta de fondo — el presidencialismo popular latinoamericano es una patologia institucional o una forma propia de democracia — sigue sin respuesta consensuada, y cada ciclo politico de la region la reabre.",
+    "supporters": [
+      {
+        "school": "La agenda de calidad de la democracia (Larry Diamond y Leonardo Morlino)",
+        "view": "Diamond y Morlino, en The Quality of Democracy: An Overview (Journal of Democracy, 2004) y en el volumen Assessing the Quality of Democracy (2005), construyeron sobre la base odonnelliana la agenda que reorganizo la disciplina: dejar de preguntar si un pais es democratico y empezar a medir que tan buena es su democracia, en dimensiones como rule of law, accountability vertical y horizontal, responsiveness, libertad e igualdad. La distincion entre poliarquia electoral y democracia de calidad es la generalizacion directa de la advertencia de O'Donnell: las elecciones limpias no agotan la democracia, y un regimen puede cumplir a Dahl mientras vacia los controles. El propio O'Donnell escribio la pieza teorica de ese volumen. Toda la industria posterior de indices y auditorias democraticas — y la vara con que Levitsky y Ziblatt midieron despues la erosion — desciende de este movimiento."
+      },
+      {
+        "school": "Los estudios de accountability social (Catalina Smulovitz y Enrique Peruzzotti)",
+        "view": "Smulovitz y Peruzzotti, en Societal Accountability in Latin America (Journal of Democracy, 2000) y en el volumen Enforcing the Rule of Law (University of Pittsburgh Press, 2006), tomaron el diagnostico de O'Donnell — accountability horizontal muerta entre elecciones — y le agregaron un mecanismo que el marco original subestimaba: la accountability social. Movimientos civicos, ONGs y periodismo de investigacion pueden activar los controles dormidos, imponer costos reputacionales y forzar a las agencias estatales a actuar: del caso Cabezas en Argentina al impeachment de Collor en Brasil. Es una extension amistosa: confirma que el problema central de las nuevas democracias es el control del poder entre elecciones, pero muestra que la sociedad civil puede suplir parcialmente lo que las instituciones horizontales no hacen — una correccion que el propio O'Donnell incorporo en sus trabajos finales sobre democracia, agencia y estado de derecho."
+      },
+      {
+        "school": "El puente con la literatura del backsliding (de Notre Dame a Harvard)",
+        "view": "La tercera defensa subraya que la literatura global sobre erosion democratica redescubrio a O'Donnell sin siempre citarlo: el executive aggrandizement de Bermeo, la subversion legal de Levitsky y Ziblatt y la captura de arbitros son la democracia delegativa viajando del Sur al Norte. O'Donnell vio en los años noventa — mirando a Menem, Fujimori y Collor — el patron que la ciencia politica del Norte tardo veinte años en reconocer como global: presidentes electos que concentran poder con legitimidad plebiscitaria y apariencia legal. El Kellogg Institute de Notre Dame, su casa academica, mantiene viva esa agenda. Para esta lectura, la mejor prueba de la fertilidad del concepto es que hoy se aplica fuera de America Latina: la categoria nacida para explicar la anomalia regional resulto ser la descripcion anticipada de la norma mundial."
+      }
+    ],
+    "critics": [
+      {
+        "school": "El populismo como redencion democratica (Ernesto Laclau y su escuela)",
+        "view": "Laclau, en La razon populista (2005), ofrece la impugnacion teorica mas profunda: lo que O'Donnell describe como patologia delegativa es, para Laclau, la logica misma de lo politico. La construccion de un pueblo alrededor de un liderazgo que encarna demandas insatisfechas no es una desviacion de la representacion: es su forma radicalmente democratica, la unica que incluye a los excluidos que las mediaciones institucionales dejan afuera. Chantal Mouffe extendio el argumento en Por un populismo de izquierda (2018). Desde esta optica, el institucionalismo de O'Donnell confunde la democracia con sus mediaciones liberales: cortes, congresos y prensa pueden ser tambien trincheras oligarquicas, y saltarlas puede ser democratizacion, no decadencia. El plebiscito permanente sobre la figura presidencial que O'Donnell lamenta es, en clave laclausiana, el pueblo constituyendose como actor politico."
+      },
+      {
+        "school": "La critica del eurocentrismo normativo",
+        "view": "Una segunda linea objeta el patron de medida: delegativa solo es inteligible contra el tipo ideal de la democracia representativa del Atlantico Norte, que el ensayo trata como norma y madurez. Jose Nun, en Democracia: gobierno del pueblo o gobierno de los politicos? (2000), recordo que esa vara identifica democracia con su variante liberal-procedimental e ignora la tension historica entre demos y representacion. Criticos del concepto señalan que patologizar el presidencialismo popular latinoamericano — mayoritario, plebiscitario, de liderazgos fuertes — supone que la unica democracia sana es la del parlamentarismo consensual europeo, y convierte una diferencia de forma en un deficit de sustancia. El riesgo practico: deslegitimar como delegativo todo gobierno popular que confronte con poderes judiciales y mediaticos concentrados, haciendo del concepto un arma normativa antes que una categoria analitica."
+      },
+      {
+        "school": "La critica empirica: la estabilidad inesperada de las democracias delegativas",
+        "view": "El ensayo de 1994 predecia que la delegacion producia politicas erraticas, crisis recurrentes y regimenes fragiles. La evidencia posterior fue mas ambigua: las democracias delegativas resultaron mas duraderas de lo previsto. La Argentina que Levitsky y Maria Victoria Murillo analizan en Argentine Democracy: The Politics of Institutional Weakness (2005) atraveso el colapso de 2001 sin quiebre del regimen; el Brasil post-Collor proceso sus crisis por via institucional; Kurt Weyland mostro que el populismo neoliberal de los noventa (Menem, Fujimori) fue capaz de gobernabilidad y reeleccion, no solo caos. La debilidad institucional demostro ser un equilibrio estable, no una transicion fallida. Si el tipo delegativo no produce la inestabilidad que lo definia como problema, queda la pregunta de si describe un regimen distinto o solo el funcionamiento normal del presidencialismo con instituciones debiles."
+      }
+    ],
+    "contrasts": "El eje del debate es donde poner la linea entre democracia y su degradacion. Para la escuela odonnelliana (Diamond, Morlino, Smulovitz, Peruzzotti), la democracia se mide tambien entre elecciones: sin controles horizontales hay poliarquia vaciada, y el concepto delegativo es el instrumento para verlo. Para Laclau y Mouffe, esa vara confunde democracia con liberalismo: el liderazgo plebiscitario puede ser la forma en que los excluidos entran a la politica, y los controles que O'Donnell defiende pueden ser vetos oligarquicos. La critica eurocentrica y la empirica erosionan el concepto desde afuera: o mide con vara ajena, o predijo una fragilidad que no ocurrio. Lo que esta en juego es inmediato: cada conflicto entre un presidente popular y una corte suprema en America Latina es este debate en acto.",
+    "sources": [
+      {
+        "label": "Guillermo O'Donnell, Delegative Democracy (Journal of Democracy, 1994)",
+        "url": "https://www.journalofdemocracy.org/articles/delegative-democracy/"
+      },
+      {
+        "label": "Diamond y Morlino, The Quality of Democracy: An Overview (Journal of Democracy, 2004)",
+        "url": "https://www.journalofdemocracy.org/articles/the-quality-of-democracy-an-overview/"
+      },
+      {
+        "label": "Smulovitz y Peruzzotti, Societal Accountability in Latin America (Journal of Democracy, 2000)",
+        "url": "https://www.journalofdemocracy.org/articles/societal-accountability-in-latin-america/"
+      },
+      {
+        "label": "Ernesto Laclau, On Populist Reason (Verso Books)",
+        "url": "https://www.versobooks.com/products/1941-on-populist-reason"
+      },
+      {
+        "label": "Guillermo O'Donnell — Kellogg Institute, University of Notre Dame",
+        "url": "https://kellogg.nd.edu/guillermo-odonnell"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre Democracia delegativa de Guillermo O'Donnell. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cuando yo afirme algo, pedime razones y casos latinoamericanos concretos. Presenta objeciones de escuelas rivales concretas: la tesis de Laclau de que el liderazgo plebiscitario es la forma democratica de incluir a los excluidos, no una patologia; la critica de que delegativa es un concepto eurocentrico que patologiza el presidencialismo popular; y la evidencia de que esas democracias fueron mas estables de lo que O'Donnell predijo. Si me trabo, dame una pista en forma de pregunta mas concreta. Empeza preguntandome: si un presidente electo con mayoria salta a un congreso capturado por intereses oligarquicos, eso es delegacion patologica o democratizacion?"
+}

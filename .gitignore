@@ -32,3 +32,8 @@ desktop.ini
 
 # Backups locales
 *.bak
+
+# Artefactos de sesiones de agentes y temporales
+.agents/
+temp_extracted.js
+scratch/*.png

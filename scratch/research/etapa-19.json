@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "La democracia en America (1835-1840) es a la vez el elogio mas influyente del autogobierno democratico y el diagnostico mas inquietante de sus patologias, y esa ambivalencia explica por que casi todas las tradiciones politicas posteriores reclaman a Tocqueville como propio o lo impugnan. El nucleo de los debates gira en torno a su tesis de que la igualdad de condiciones es un hecho providencial e irreversible que reconfigura las costumbres, la religion, la familia y la politica, y que contiene un peligro especifico: no la tirania abierta de un despota, sino la tirania de la mayoria sobre la opinion y, mas sutilmente, un despotismo blando y administrativo que infantiliza a ciudadanos aislados por el individualismo. Frente a ese riesgo, Tocqueville propone remedios sociologicos antes que constitucionales: las asociaciones civiles y politicas, el municipio, el jurado, la prensa libre, la religion como freno moral y el interes bien entendido. Los debates academicos se concentran en cinco frentes: si los remedios asociativos siguen vigentes (neotocquevillismo y capital social), si su prediccion del despotismo democratico se cumplio (lecturas conservadoras y libertarias), si su omision de la clase y la economia invalida su sociologia (criticas marxistas y de la teoria democratica radical), si su mirada era elitista y aristocratica, y si sus capitulos sobre las tres razas y sus escritos sobre Argelia revelan un punto ciego colonial, racial y de genero que la recepcion reciente ha vuelto central.",
+    "supporters": [
+      {
+        "school": "Neotocquevillismo y teoria del capital social (Robert Putnam)",
+        "view": "Putnam toma de Tocqueville la observacion de que la propension de los estadounidenses a la asociacion civil es la clave de su democracia funcional, y la convierte en el concepto de capital social: las redes de confianza y reciprocidad generadas por la vida asociativa. En Bowling Alone (2000) argumenta que el declive de la participacion civica desde los anios sesenta erosiona precisamente esos cuerpos intermedios que Tocqueville veia como antidoto del individualismo y del despotismo. Para esta escuela, Tocqueville no solo describio America sino que aporto la teoria causal correcta sobre que sostiene a las democracias, hoy reivindicada empiricamente."
+      },
+      {
+        "school": "Republicanismo civico y comunitarismo",
+        "view": "Las tradiciones del republicanismo civico y del comunitarismo (en la estela de autores como Robert Bellah o Michael Sandel) leen a Tocqueville como el critico anticipado del liberalismo procedimental atomista. Valoran su insistencia en que la libertad democratica depende de la participacion local, las costumbres compartidas y los habitos del corazon que cultivan la virtud civica. Tocqueville mostraria que los derechos individuales por si solos no bastan: sin comunidades y practicas de autogobierno, el ciudadano se repliega en su esfera privada y abandona la cosa publica al poder central."
+      },
+      {
+        "school": "Liberalismo constitucional y de la libertad",
+        "view": "El liberalismo que prioriza los limites al poder y la pluralidad social ve en Tocqueville al teorico que completo a Montesquieu y dialogo con Mill: identifico que en la era democratica la amenaza a la libertad ya no proviene principalmente del Estado absolutista sino de la presion conformista de la mayoria sobre la opinion y de la centralizacion administrativa. Su defensa de la division del poder, el federalismo, la independencia judicial, el jurado y la prensa como contrapesos lo vuelve, para esta escuela, una fuente perdurable de la teoria del pluralismo y de los cuerpos intermedios."
+      },
+      {
+        "school": "Lectura conservadora y libertaria del despotismo blando",
+        "view": "Pensadores conservadores y libertarios reivindican a Tocqueville como profeta acertado del despotismo democratico: ese poder tutelar inmenso y benigno que, prometiendo seguridad y bienestar, reduce a los ciudadanos a un rebano de individuos timoratos dependientes del Estado. Leen el crecimiento del Estado administrativo y del Estado de bienestar contemporaneos como confirmacion de su prediccion, y usan su analisis para defender la sociedad civil, la subsidiariedad y la limitacion del gobierno frente a la centralizacion paternalista."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica marxista y de la economia politica",
+        "view": "Desde la tradicion marxista se objeta que Tocqueville absolutiza la igualdad de condiciones como motor de la historia moderna e ignora lo que para Marx es el verdadero dinamismo: el capitalismo, la propiedad y la lucha de clases. Donde Tocqueville ve una nivelacion social providencial, esta critica ve una desigualdad economica creciente enmascarada por la igualdad juridica; su sociologia de las costumbres desplazaria la atencion de las relaciones materiales de produccion. El debate clasico contrapone si la dinamica central de la modernidad es la democracia (Tocqueville) o el capital (Marx)."
+      },
+      {
+        "school": "Teoria democratica radical (Sheldon Wolin)",
+        "view": "Wolin, en Tocqueville Between Two Worlds, presenta a un Tocqueville profundamente conflictuado, un teorico aristocrata que estudia y a la vez teme a la democracia. Detecta un sesgo de clase cada vez que Tocqueville distingue a unos pocos de la mayoria, y lee su defensa de la religion y de las costumbres como dispositivos de elite para contener al demos. Para Wolin, la democracia participativa que Tocqueville celebro ha sido devorada por el poder corporativo y burocratico, lo que el llama una era posdemocratica que Tocqueville no supo anticipar porque subestimo el poder economico."
+      },
+      {
+        "school": "Critica del elitismo aristocratico",
+        "view": "Una linea afin senala que la posicion de Tocqueville como noble normando colorea todo su analisis: lamenta la perdida de la grandeza, la independencia de espiritu y la distincion que asociaba a la aristocracia, y teme la mediocridad y el conformismo de las masas. Su preocupacion por que la igualdad rebaje a los mejores a un nivel comun revelaria una nostalgia aristocratica que condiciona su diagnostico del individualismo y de la tirania de la mayoria, mas como temor de clase que como descripcion neutral."
+      },
+      {
+        "school": "Criticas feministas y de genero",
+        "view": "Las interpretaciones feministas (recogidas por Jill Locke y Eileen Hunt Botting) cuestionan la celebrada separacion de esferas en Tocqueville, que confina a las mujeres al hogar como guardianas de las costumbres mientras reserva la ciudadania activa, las asociaciones y el autogobierno a los varones. Su construccion de la ciudadania democratica excluiria estructuralmente a las mujeres, y leerlo junto a las activistas de los derechos de la mujer de su epoca expone los supuestos de genero que su sociologia presenta como naturales."
+      },
+      {
+        "school": "Criticas poscoloniales y de la raza (esclavitud, pueblos indigenas, Argelia)",
+        "view": "La recepcion reciente subraya las omisiones y contradicciones de Tocqueville en materia de raza e imperio. Aunque su capitulo sobre las tres razas describe con lucidez y pesimismo el destino de los esclavos africanos y la destruccion de los pueblos indigenas, no integra esa violencia en su retrato de la igualdad democratica, que sigue siendo una democracia de blancos. Mas grave aun, sus Escritos sobre el imperio y la esclavitud (editados por Jennifer Pitts) muestran su apoyo a la conquista francesa de Argelia y a la dominacion sobre los pueblos sometidos, lo que revela una tension de fondo entre su liberalismo democratico y un imperialismo que no consideraba contradictorio."
+      }
+    ],
+    "contrasts": "El choque de fondo no es solo sobre que dijo Tocqueville sino sobre que tipo de obra es La democracia en America. Sus defensores la tratan como sociologia politica predictiva cuyas categorias -capital social, despotismo blando, cuerpos intermedios- siguen explicando las democracias actuales; sus criticos la tratan como un texto situado, marcado por la posicion aristocratica, las exclusiones de clase, genero y raza, y los compromisos imperiales de su autor. Buena parte del desacuerdo se reduce a cuestiones de enfasis y de marco interpretativo: quien centra la mirada en las costumbres y las asociaciones encuentra un profeta de la libertad; quien la centra en la economia, el trabajo esclavo o la colonia encuentra los limites de un liberal del siglo XIX. La fertilidad duradera de la obra reside justamente en esa ambivalencia: el propio Tocqueville oscilaba entre la admiracion y el temor ante la igualdad, de modo que cada tradicion puede iluminar un costado real del texto sin agotarlo, y el debate continua abierto sobre si su prediccion del despotismo democratico describe nuestro presente o proyecta sobre el una ansiedad de clase de su tiempo.",
+    "sources": [
+      {
+        "label": "Encyclopaedia Britannica - Alexis de Tocqueville (igualdad de condiciones, individualismo, despotismo blando)",
+        "url": "https://www.britannica.com/biography/Alexis-de-Tocqueville"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy - Constitutionalism, nota sobre la tirania de la mayoria en Tocqueville y Mill",
+        "url": "https://plato.stanford.edu/entries/constitutionalism/notes.html"
+      },
+      {
+        "label": "Princeton University Press - Sheldon S. Wolin, Tocqueville Between Two Worlds (critica del elitismo y la ambivalencia)",
+        "url": "https://press.princeton.edu/books/paperback/9780691114545/tocqueville-between-two-worlds"
+      },
+      {
+        "label": "Penn State University Press - Feminist Interpretations of Alexis de Tocqueville (eds. Locke y Hunt Botting)",
+        "url": "https://www.psupress.org/books/titles/978-0-271-03402-7.html"
+      },
+      {
+        "label": "Cambridge University Press - Tocqueville and the Frontiers of Democracy (democracia, revolucion y limites)",
+        "url": "https://www.cambridge.org/core/books/abs/tocqueville-and-the-frontiers-of-democracy/democracy-and-revolution-in-tocqueville-the-frontiers-of-democracy/B46EC924931998B8AA9B1CD18F6536B3"
+      },
+      {
+        "label": "Wikipedia - Social capital (linaje neotocquevillista hacia Robert Putnam y el arte de la asociacion)",
+        "url": "https://en.wikipedia.org/wiki/Social_capital"
+      }
+    ]
+  },
+  "socratic": "Sos mi interlocutor socratico sobre La democracia en America de Tocqueville. Reglas: hacelo por mayeutica. Preguntame de a UNA pregunta por vez y espera mi respuesta antes de seguir. No me des nunca la respuesta hecha; exigime que fundamente cada afirmacion con razones o con el texto. Cuando yo afirme algo, oponeme una objecion real de una escuela nombrada (marxista, feminista, poscolonial, conservadora, neotocquevillista) y pedime que la responda. Si me trabo, dame una pista breve, no la conclusion. Arranca con esta pregunta concreta: Tocqueville sostiene que la mayor amenaza para la libertad en una democracia no es un tirano, sino la tirania de la mayoria sobre la opinion. Que significa exactamente que una mayoria tiranice las ideas y no solo las leyes, y en que se diferencia eso del despotismo clasico? Despues de mi respuesta, segui indagando: pedime un ejemplo concreto; despues opone la objecion marxista de que esa tirania de la opinion oculta la verdadera dominacion, que es economica y de clase, y pedime que decidas si Tocqueville puede responderla; luego llevame del individualismo al despotismo blando preguntandome por que ciudadanos aislados terminarian entregando su libertad a un poder tutelar; despues confrontame con la critica feminista y poscolonial preguntandome a quienes excluia esa libertad democratica que Tocqueville celebra; y cerra pidiendome que tome posicion sobre si su prediccion del despotismo democratico describe el presente o proyecta una ansiedad aristocratica de su epoca. En cada paso, antes de avanzar, devolveme mi propio argumento reformulado y senalame su punto mas debil."
+}

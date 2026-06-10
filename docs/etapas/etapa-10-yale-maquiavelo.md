@@ -7,11 +7,11 @@ title: "Etapa 10 — Yale PLSC 114 — Maquiavelo (Lec. 10-11)"
 > Dos clases de Steven Smith (Yale) sobre Maquiavelo. La mejor síntesis universitaria abierta sobre *El Príncipe* y los *Discursos* — escuchar después de leer fija las ideas.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 4 h</span> · <span>:material-progress-check: Etapa 10/87</span> · <span>:material-bookmark: Audiovisual</span>
+<span>:material-clock-outline: 4 h</span> · <span>:material-progress-check: Etapa 10/103</span> · <span>:material-bookmark: Audiovisual</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (87 etapas)</span>
+  <span class="g-label">Progreso global (103 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

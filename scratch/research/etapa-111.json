@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "Las almas del pueblo negro (1903) inauguro el vocabulario con el que el siglo XX penso la raza (el velo, la doble conciencia, la linea de color), y por eso el debate sobre Du Bois no es un capitulo de historia intelectual: es la disputa por la estrategia misma de la emancipacion negra. El libro nacio polemico, como respuesta a Booker T. Washington y su programa de acomodacion (oficios primero, derechos despues), y cada generacion reedito el duelo con otros nombres: integracionismo contra nacionalismo negro con Garvey en los anos veinte, derechos civiles contra Black Power en los sesenta, politica de clase contra politica de identidad hoy. A la disputa estrategica se suma una disciplinaria: la sociologia norteamericana, que durante un siglo conto su historia desde la escuela de Chicago, debio reconocer con Aldon Morris que Du Bois y su escuela de Atlanta fundaron la sociologia empirica de la raza y fueron borrados por el racismo academico. Y una disputa interpretativa: el afropesimismo relee el velo como evidencia de un antagonismo antinegro que ninguna integracion puede cerrar, mientras Adolph Reed denuncia que convertir la doble conciencia en clave identitaria atemporal traiciona al Du Bois historico, un progresista elitista que ademas se corrigio a si mismo hacia el socialismo. El mismo texto funda todas las posiciones que pelean por el.",
+    "supporters": [
+      {
+        "school": "Cornel West y la tradicion profetica afroamericana",
+        "view": "West, en The American Evasion of Philosophy (1989), inscribe a Du Bois en la genealogia del pragmatismo norteamericano como su figura mas politica: el intelectual que convierte la pregunta filosofica en critica de la democracia racializada. En Race Matters (1993) y Black Prophetic Fire (2014) lo presenta como modelo del intelectual publico negro: erudicion al servicio de la denuncia, fe en que la democracia americana puede ser obligada a cumplir su promesa. West no es acritico (en Black Strivings in a Twilight Civilization objeta el racionalismo ilustrado y el elitismo victoriano de Du Bois), pero su balance es reivindicatorio: Las almas es el gran texto de la tragedia y la esperanza democratica norteamericana."
+      },
+      {
+        "school": "Aldon Morris y la sociologia que lo reconoce como fundador",
+        "view": "Morris, en The Scholar Denied: W.E.B. Du Bois and the Birth of Modern Sociology (University of California Press, 2015), documenta que Du Bois y su escuela de Atlanta practicaron sociologia empirica rigurosa (The Philadelphia Negro, 1899, los Atlanta University Studies) decadas antes que la escuela de Chicago, y que la disciplina lo borro: Robert Park y la red de Chicago, financiada y blanca, se apropio del campo mientras negaba recursos y reconocimiento al programa de Atlanta. La tesis transformo la autocomprension de la disciplina: la American Sociological Association renombro en 2017 su premio mayor como W.E.B. Du Bois Career of Distinguished Scholarship Award. Para esta escuela, Las almas no es literatura con datos: es sociologia fundacional escrita bajo exclusion."
+      },
+      {
+        "school": "El afropesimismo y la relectura radical del velo",
+        "view": "Frank B. Wilderson III (Afropessimism, 2020) y Jared Sexton releen a Du Bois contra su propio optimismo integracionista: la doble conciencia y el velo no describirian un deficit de ciudadania reparable sino un antagonismo estructural, la posicion del negro como exterior constitutivo del mundo moderno. En esta lectura, la pregunta inicial de Las almas (que se siente ser un problema) no tiene solucion dentro del orden existente, porque la sociedad civil se define contra la negritud. Tambien Saidiya Hartman (Scenes of Subjection, 1997) prolonga el surco duboisiano sobre la vida posterior de la esclavitud. El afropesimismo convierte a Du Bois en diagnostico ontologico alli donde el habia ofrecido un programa politico: lo radicaliza reteniendo el velo y descartando la esperanza."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Booker T. Washington y la tradicion acomodacionista",
+        "view": "Washington, en el discurso del Compromiso de Atlanta (1895) y en Up from Slavery (1901), sostenia la posicion que Las almas ataca por su nombre: en el Sur de Jim Crow, exigir derechos politicos inmediatos era suicida; la ruta realista era la educacion industrial, la acumulacion de propiedad y la demostracion de utilidad economica, postergando la agitacion civil. Desde Tuskegee y su formidable maquina de patronazgo, Washington veia en Du Bois a un intelectual del Norte, formado en Harvard y Berlin, que predicaba derechos abstractos sin cargar el riesgo de los negros del Sur. El duelo Washington-Du Bois quedo como el caso clasico del dilema gradualismo o derechos ya: la misma pregunta del par Burke-Wollstonecraft, ahora con linchamientos como costo de fondo."
+      },
+      {
+        "school": "Marcus Garvey y el nacionalismo negro contra el integracionismo",
+        "view": "Garvey, desde la Universal Negro Improvement Association y en Philosophy and Opinions of Marcus Garvey (1923-1925), ataco a Du Bois y a la NAACP por elitistas e integracionistas: la salvacion no vendria de convencer al blanco ni de una decima parte talentosa educada en sus universidades, sino de la organizacion economica de masas, el orgullo racial y la construccion de un poder africano autonomo. El enfrentamiento fue feroz y personal (Du Bois llamo a Garvey el enemigo mas peligroso de la raza negra; Garvey lo acuso de aristocrata mulato desconectado de las masas), y dejo planteada la division que reaparece con Malcolm X y el Black Power: integracion en la nacion existente o nacionalismo separatista. Para la tradicion garveyista, el panafricanismo de congresos de Du Bois era diplomacia de elites sin pueblo."
+      },
+      {
+        "school": "Adolph Reed contra las lecturas identitarias",
+        "view": "Reed, en W.E.B. Du Bois and American Political Thought: Fabianism and the Color Line (Oxford, 1997), ataca el uso contemporaneo de Du Bois como icono atemporal de la politica de la identidad. Historizado, el Du Bois de 1903 es un progresista de su epoca: el decimo talentoso es elitismo victoriano (una vanguardia educada que tutela a la masa), tributario del colectivismo tecnocratico y no de una mistica de la experiencia negra. Reed objeta que la industria academica de la doble conciencia proyecta sobre el texto ansiedades posmodernas, y recuerda que el propio Du Bois abandono el concepto y se corrigio hacia el socialismo y el analisis de clase (Black Reconstruction, 1935). Desde su perspectiva class-first, celebrar al Du Bois identitario es amputar al Du Bois materialista."
+      }
+    ],
+    "contrasts": "Las posiciones se ordenan sobre dos ejes. El estrategico: Washington y Garvey, desde extremos opuestos (acomodacion economica, separatismo de masas), coinciden en que el programa duboisiano de derechos e integracion guiado por una elite educada era ilusorio; West y la tradicion de los derechos civiles responden que esa apuesta gano, de la NAACP a Brown v. Board. El interpretativo: para Morris y West, Du Bois es fundador de una ciencia y una esperanza democratica; para el afropesimismo, su diagnostico era mas verdadero que su optimismo, y el velo no se levanta; para Reed, ambos bandos lo descontextualizan, porque el Du Bois maduro fue socialista y la clave es clase, no identidad. Lo que esta en juego es como pensar la emancipacion hoy: reforma institucional, autonomia separada, pesimismo estructural o politica de clase. Todas las opciones siguen citando el mismo libro.",
+    "sources": [
+      {
+        "label": "W.E.B. Du Bois (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/dubois/"
+      },
+      {
+        "label": "The Souls of Black Folk, texto completo (Project Gutenberg)",
+        "url": "https://www.gutenberg.org/ebooks/408"
+      },
+      {
+        "label": "Aldon Morris, The Scholar Denied (University of California Press)",
+        "url": "https://www.ucpress.edu/books/the-scholar-denied"
+      },
+      {
+        "label": "Booker T. Washington, Up from Slavery, texto completo (Project Gutenberg)",
+        "url": "https://www.gutenberg.org/ebooks/2376"
+      },
+      {
+        "label": "W.E.B. Du Bois (Encyclopaedia Britannica)",
+        "url": "https://www.britannica.com/biography/W-E-B-Du-Bois"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre Las almas del pueblo negro de W.E.B. Du Bois. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta. Cada vez que yo afirme algo, pedime razones y el pasaje del texto en que me apoyo. Cuando de una razon, oponeme una objecion real y nombrada: el acomodacionismo de Booker T. Washington (derechos despues, supervivencia primero), el nacionalismo de Garvey contra el integracionismo de elites, la critica de Adolph Reed al uso identitario de la doble conciencia y al elitismo del decimo talentoso, o la relectura afropesimista de Wilderson (el velo no se levanta). Si me trabo, dame una pista en forma de pregunta mas concreta. Empeza preguntandome: la doble conciencia es una herida que la integracion puede curar, o una estructura del mundo moderno que ninguna reforma alcanza? Que pasaje del capitulo 1 apoya tu lectura?"
+}

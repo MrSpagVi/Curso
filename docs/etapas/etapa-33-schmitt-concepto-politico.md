@@ -37,7 +37,7 @@ title: "Etapa 41 — Carl Schmitt — El concepto de lo político / Teología po
 
 **Carl Schmitt** (Plettenberg, 1888 - 1985) fue un jurista, filósofo político y teórico constitucionalista alemán. Su figura es una de las más controvertidas de la historia intelectual del siglo XX debido a su adscripción y justificación jurídica del régimen nacionalsocialista a partir de 1933. Sus escritos más importantes fueron producidos durante el tenso periodo de la República de Weimar, caracterizado por la inestabilidad constitucional, la polarización de masas y la incapacidad del parlamentarismo liberal para contener las crisis.
 
-Esta etapa es el **núcleo del realismo y decisionismo político** de la Fase 3. Schmitt representa el asalto directo y devastador contra el optimismo jurídico del liberalismo constitucional, la creencia de que el conflicto político puede neutralizarse mediante el debate deliberativo racional o disolverse en normas procedimentales puras (Kelsen). Para Schmitt, la política no es un diálogo racional, sino un espacio existencial de conflicto de alta intensidad. Esta lectura constituye un prerrequisito obligatorio para comprender el posterior debate sobre el estado de excepción de Agamben (Etapa 82), la necropolítica de Mbembe (Etapa 87), y el agonismo democrático de Chantal Mouffe (Etapa 50).
+Esta etapa es el **núcleo del realismo y decisionismo político** de la Fase 3. Schmitt representa el asalto directo y devastador contra el optimismo jurídico del liberalismo constitucional, la creencia de que el conflicto político puede neutralizarse mediante el debate deliberativo racional o disolverse en normas procedimentales puras (Kelsen). Para Schmitt, la política no es un diálogo racional, sino un espacio existencial de conflicto de alta intensidad. Esta lectura constituye un prerrequisito obligatorio para comprender el posterior debate sobre el estado de excepción de Agamben (Etapa 68), la necropolítica de Mbembe (Etapa 73), y el agonismo democrático de Chantal Mouffe (Etapa 50).
 
 ## Las ideas clave de los textos
 
@@ -69,7 +69,7 @@ Esta etapa es el **núcleo del realismo y decisionismo político** de la Fase 3.
 ## Cómo se estudia esta etapa
 
 *   **Lectura analítica sin prejuicios ideológicos:** Aborda a Schmitt con distanciamiento crítico pero con absoluto rigor analítico. Sus herramientas teóricas son de las más potentes y peligrosas de la disciplina; no en vano autores de izquierda radical como Walter Benjamin o Chantal Mouffe se han apropiado de sus conceptos para desmontar el consenso liberal.
-*   **Conexión retrospectiva y prospectiva:** Vincula esta lectura con el pesimismo antropológico de Hobbes (Etapa 11) y con la noción de monopolio de la violencia de Weber (Etapa 37). Esta etapa es la base obligatoria antes de leer a Agamben (Etapa 82) y Mbembe (Etapa 87).
+*   **Conexión retrospectiva y prospectiva:** Vincula esta lectura con el pesimismo antropológico de Hobbes (Etapa 11) y con la noción de monopolio de la violencia de Weber (Etapa 37). Esta etapa es la base obligatoria antes de leer a Agamben (Etapa 68) y Mbembe (Etapa 73).
 
 ## Recursos
 

@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "Como mueren las democracias (2018) se convirtio en el manual de cabecera sobre erosion democratica, pero su exito mismo lo volvio blanco de un debate que sigue abierto. La tesis central — las democracias modernas mueren legalmente, a manos de presidentes electos que capturan arbitros y derriten las normas informales de tolerancia mutua y contencion — ordeno una literatura entera y le dio vocabulario a periodistas, jueces y politicos. Pero cada pieza del argumento esta disputada. Desde la ciencia politica se pregunta si el libro es teoria comparada rigurosa o periodismo de alto nivel con casos elegidos a conveniencia, y si el concepto de norma es lo bastante preciso como para ser falsable. Desde la izquierda se objeta algo mas incomodo: las normas cuya erosion lamentan Levitsky y Ziblatt florecieron justamente en la era de la exclusion racial estadounidense, cuando los dos partidos acordaban no pelear por la democracia de los negros del Sur — y la democratizacion real siempre fue un proceso de ruptura de normas, no de conservacion. Y desde la teoria democratica se discute el remedio: si la solucion es que las elites partidarias filtren candidatos (gatekeeping), el antidoto contra el autoritarismo parece ser menos democracia. El debate importa porque define que significa defender una democracia: conservar sus reglas o profundizar su sustancia.",
+    "supporters": [
+      {
+        "school": "La literatura de democratic backsliding (Nancy Bermeo y el proyecto V-Dem)",
+        "view": "Antes y despues del libro, la ciencia politica comparada documento exactamente el patron que Levitsky y Ziblatt popularizaron. Nancy Bermeo, en On Democratic Backsliding (Journal of Democracy, 2016), mostro que los golpes clasicos y el fraude abierto declinan mientras crece el executive aggrandizement: presidentes electos que desmontan los controles por medios legales y graduales. Los informes anuales del proyecto V-Dem (Varieties of Democracy, Universidad de Gotemburgo) cuantifican la misma tendencia: la ola de autocratizacion del siglo XXI avanza por erosion incremental, no por tanques. Para esta escuela, el merito del libro es haber traducido un consenso empirico solido — construido sobre el concepto previo de autoritarismo competitivo de Levitsky y Way (2002) — a un marco accesible con indicadores observables: el test de los cuatro comportamientos autoritarios funciona como instrumento de alerta temprana."
+      },
+      {
+        "school": "El constitucionalismo comparado (Tom Ginsburg y Aziz Huq)",
+        "view": "En How to Save a Constitutional Democracy (University of Chicago Press, 2018), Ginsburg y Huq desarrollan juridicamente lo que Levitsky y Ziblatt plantean politologicamente: la erosion constitucional como via dominante de muerte democratica. Su aporte refuerza y a la vez precisa la tesis: muestran con derecho comparado que los frenos y contrapesos formales — cortes, federalismo, carta de derechos — fallan sistematicamente frente a la erosion, y que el diseño de la constitucion estadounidense la hace mas vulnerable, no menos. Coinciden en que el peligro es la subversion legal (capturar arbitros, cambiar reglas) y proponen remedios institucionales concretos donde el libro de Harvard confia en normas informales. Son la version juridica del mismo diagnostico, y su convergencia desde otra disciplina es para muchos la mejor evidencia de que el diagnostico es correcto."
+      },
+      {
+        "school": "El programa Linz actualizado (la politica comparada de los quiebres)",
+        "view": "Una tercera defensa lee el libro como la actualizacion legitima de La quiebra de las democracias de Juan Linz (1978): la misma pregunta — por que las elites democraticas entregan el poder a los autoritarios — con los regimenes del siglo XXI como material. La trayectoria latinoamericanista de Levitsky le da al argumento una base que sus criticos suelen ignorar: el fujimorazo, el chavismo y el autoritarismo competitivo postsovietico fueron los laboratorios del modelo antes de aplicarlo a Estados Unidos. La continuacion del programa en Tyranny of the Minority (2023), sobre instituciones contramayoritarias, muestra que no es un panfleto coyuntural sino una agenda de investigacion: la defensa de la democracia exige tanto normas compartidas como reformas institucionales, y los casos comparados permiten ver en otros lo que cada pais no ve en si mismo."
+      }
+    ],
+    "critics": [
+      {
+        "school": "La critica desde la izquierda (Corey Robin y la objecion de las normas excluyentes)",
+        "view": "Corey Robin, en How Democracies Die and How They Live (Public Seminar, 2018), invierte la tesis: las normas de tolerancia mutua y contencion que el libro añora alcanzaron su apogeo justamente cuando la politica estadounidense excluia a los negros del Sur — el acuerdo tacito entre ambos partidos de no tocar el regimen de Jim Crow era la norma. La democratizacion real (abolicionismo, sufragismo, derechos civiles) fue siempre una fuerza rompedora de normas que polarizo a la sociedad. En la misma linea, la tradicion de Sheldon Wolin sostiene que el constitucionalismo es tambien un limite a las energias democraticas. Yascha Mounk, aunque comparte el diagnostico general de la crisis, matiza en esta direccion: la erosion de normas importa, pero sin atender las causas sustantivas — desigualdad, exclusion — la defensa de las formas es conservadurismo con vocabulario democratico."
+      },
+      {
+        "school": "La critica metodologica (case selection y la vaguedad del concepto de norma)",
+        "view": "Desde la politica comparada se objeta el metodo: el libro selecciona casos donde las democracias murieron y lee hacia atras los indicadores, sin un universo de control de lideres que encendieron las mismas alarmas y no destruyeron nada — el test de los cuatro comportamientos genera falsos positivos que el libro no contabiliza. La categoria de norma, ademas, es elastica: la contencion (forbearance) se identifica casi siempre despues del hecho, lo que la vuelve infalsable — si la democracia sobrevive habia normas, si muere se habian erosionado. Los simposios academicos sobre el libro (Perspectives on Politics y paneles de APSA) señalaron tambien el sesgo de equivalencia: tratar la polarizacion como solvente neutro oculta que la erosion puede ser asimetrica, impulsada por un solo partido, algo que los propios autores aceptaron despues."
+      },
+      {
+        "school": "Spin dictators y la objecion al gatekeeping (Guriev, Treisman y los criticos del elitismo)",
+        "view": "Sergei Guriev y Daniel Treisman, en Spin Dictators (Princeton University Press, 2022), corrigen el modelo desde la teoria de los regimenes: los autocratas del siglo XXI no necesitan matar la democracia al estilo del libro — gobiernan por manipulacion informativa y popularidad fabricada, simulando democracia sin necesidad de capturar todo. El foco en normas y guardarrailes mira el lugar equivocado: lo decisivo es el control del entorno informativo. La segunda objecion apunta al remedio: el elogio de los gatekeepers — partidos que filtran candidatos populares, convenciones que deciden sobre primarias — es pedirle a las elites que protejan la democracia restringiendola. Si la cura del autoritarismo es que un comite partidario vete lo que los votantes quieren, el libro termina defendiendo una democracia tutelada: exactamente lo que sus propios indicadores describirian como cancha inclinada."
+      }
+    ],
+    "contrasts": "El nucleo del desacuerdo es que se entiende por democracia. Para Levitsky, Ziblatt, Bermeo y Ginsburg-Huq, la democracia es un sistema de reglas y controles cuya supervivencia depende de autocontencion: defenderla es conservar arbitros, normas y filtros. Para Robin y la tradicion de Wolin, la democracia es un proceso de inclusion que avanzo rompiendo normas: defenderla es profundizarla, y el conservadurismo normativo puede ser su enemigo. Entre ambos, la critica metodologica pregunta si siquiera sabemos medir lo que discutimos, y Guriev-Treisman si el peligro real no esta en otra parte. Lo que esta en juego es practico: ante un lider con rasgos autoritarios pero respaldo popular, una escuela recomienda filtrarlo y la otra responde que el filtro es el problema.",
+    "sources": [
+      {
+        "label": "Nancy Bermeo, On Democratic Backsliding (Journal of Democracy, 2016)",
+        "url": "https://www.journalofdemocracy.org/articles/on-democratic-backsliding/"
+      },
+      {
+        "label": "Tom Ginsburg y Aziz Huq, How to Save a Constitutional Democracy (University of Chicago Press)",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/H/bo28381225.html"
+      },
+      {
+        "label": "Corey Robin, How Democracies Die and How They Live (Public Seminar, 2018)",
+        "url": "https://publicseminar.org/2018/01/how-democracies-die/"
+      },
+      {
+        "label": "Sergei Guriev y Daniel Treisman, Spin Dictators (Princeton University Press)",
+        "url": "https://press.princeton.edu/books/hardcover/9780691211411/spin-dictators"
+      },
+      {
+        "label": "Levitsky y Way, The Rise of Competitive Authoritarianism (Journal of Democracy, 2002)",
+        "url": "https://www.journalofdemocracy.org/articles/the-rise-of-competitive-authoritarianism/"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre Como mueren las democracias de Levitsky y Ziblatt. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cada vez que yo afirme algo, pedime razones y evidencia del texto. Presenta objeciones de escuelas rivales concretas: la critica de Corey Robin de que las normas añoradas florecieron en la era de la exclusion racial; la objecion metodologica sobre seleccion de casos y normas infalsables; la tesis de Guriev y Treisman de que los spin dictators no necesitan matar la democracia asi; y la acusacion de que el gatekeeping es elitista y antidemocratico. Si me trabo, dame una pista en forma de pregunta mas concreta. Empeza preguntandome: si los partidos deben filtrar a los candidatos autoritarios aunque tengan votos, quien controla a los que filtran?"
+}

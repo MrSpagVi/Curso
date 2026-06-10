@@ -1,0 +1,55 @@
+{
+  "debate_deep": {
+    "intro": "La condicion humana (1958) reorganiza la vita activa en tres actividades irreductibles: la labor (animal laborans), atada a la necesidad biologica y al ciclo de produccion y consumo; el trabajo (homo faber), que fabrica el mundo durable de los artefactos e instituciones; y la accion (zoon politikon), que se ejerce mediante el discurso entre iguales y constituye el unico ambito propiamente politico y libre. Sobre esta triada Arendt monta dos tesis polemicas. Primera: la distincion entre lo publico (la polis, el espacio de aparicion donde el individuo se revela en palabra y obra y donde el poder nace del actuar concertado) y lo privado (el oikos, dominio de la necesidad). Segunda: el diagnostico de la modernidad como ascenso de lo social, esa esfera hibrida donde la economia y la administracion de la vida invaden lo publico, disuelven la pluralidad en conformismo y consagran la victoria del animal laborans. En On Revolution (1963) lleva esta logica al extremo: la cuestion social (la pobreza, la necesidad) debe quedar fuera de la politica, porque al subordinar la libertad publica al bienestar la Revolucion Francesa se desvio hacia el terror, mientras la Americana habria triunfado al concentrarse en fundar libertad. El debate post-lectura gira en torno a si esa pureza de lo politico es una recuperacion emancipadora del actuar ciudadano o una exclusion ideologica de las luchas materiales y del cuerpo.",
+    "supporters": [
+      {
+        "school": "Republicanismo civico y democracia participativa",
+        "view": "Lecturas en clave republicana (afines a la tradicion de Aristoteles, Maquiavelo, Montesquieu, Jefferson y Tocqueville, y desarrolladas por interpretes recogidos en la Stanford Encyclopedia y la Internet Encyclopedia of Philosophy) reivindican la triada arendtiana como una defensa del ciudadano activo. Valoran la accion y el discurso como ejercicio de la libertad publica, no como medio para fines privados, y rescatan los consejos y asambleas (los council systems de On Revolution) como modelo de participacion directa frente a la pasividad del Estado representativo y administrativo."
+      },
+      {
+        "school": "Democracia deliberativa y comunicativa (Jurgen Habermas)",
+        "view": "Habermas (Hannah Arendt's Communications Concept of Power, 1977) toma como punto de partida la definicion arendtiana del poder como capacidad humana de actuar de comun acuerdo, no de dominar, y la integra en su teoria de la accion comunicativa: el poder legitimo brota del entendimiento alcanzado sin coaccion. La Stanford Encyclopedia y el Hannah Arendt Center confirman este rescate del modelo no instrumental, fundado en la pluralidad y la natalidad, como alternativa a la concepcion weberiana del poder como mando."
+      },
+      {
+        "school": "Feminismo del poder como empoderamiento (Nancy Hartsock, Mary Parker Follett)",
+        "view": "Segun la entrada Feminist Perspectives on Power de la Stanford Encyclopedia, Hartsock identifica a Arendt como precursora de una teoria feminista del poder entendido como energia y competencia colectiva, no como dominacion. La distincion power-with frente a power-over (Follett) halla apoyo en el actuar concertado arendtiano: el poder como capacidad relacional y reciproca de la comunidad, no como recurso acumulable de unos sobre otros."
+      },
+      {
+        "school": "Modernismo critico ilustrado (Seyla Benhabib, vertiente de rescate)",
+        "view": "Benhabib (The Reluctant Modernism of Hannah Arendt, 1996) defiende un modelo asociativo del espacio publico extraido de Arendt: lo publico no es un lugar fijo sino aquello que surge dondequiera los hombres actuan y hablan juntos. Rescata asi la idea de que cuestiones antes privadas pueden tornarse publicas mediante la accion, leyendo a Arendt como recurso para una politica democratica y plural mas que como nostalgia de la polis."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica feminista de lo social y del desprecio del cuerpo (Hanna Pitkin, Mary O'Brien, Adrienne Rich)",
+        "view": "Pitkin (The Attack of the Blob, 1998; Justice: On Relating Private and Public, 1981) acusa a Arendt de tratar lo social como una masa amorfa y devoradora, un blob de ciencia ficcion gendered en femenino, que paraliza la libertad. La objecion feminista mas amplia (O'Brien, Rich) sostiene que al relegar la labor, la reproduccion y el cuerpo al oikos pre-politico, Arendt reproduce la exclusion historica de las mujeres y desprecia las actividades de sostenimiento de la vida como infra-politicas."
+      },
+      {
+        "school": "Critica marxista de la cuestion social",
+        "view": "Desde la izquierda se objeta, como recogen la Internet Encyclopedia of Philosophy y la literatura sobre On Revolution, que expulsar la pobreza y la justicia distributiva del ambito politico deslegitima las demandas materiales. Si la vivienda o el hambre no son cuestiones politicas sino de mera necesidad administrable, la teoria arendtiana vuelve apolitica la lucha de clases y blinda lo economico frente a la deliberacion democratica, invirtiendo la prioridad marxista de la cuestion social."
+      },
+      {
+        "school": "Critica de la teoria comunicativa al concepto de poder (Habermas, como objetor)",
+        "view": "El mismo Habermas que rescata su nocion de poder le reprocha tres carencias: filtra fuera de la politica todo elemento estrategico y de fuerza; desliga la politica de su anclaje en el sistema economico y administrativo; y carece de un concepto de violencia estructural, es decir de coaccion sistematica que restringe la comunicacion sin recurrir a la violencia abierta. Su salida via contrato y promesa le parece, ademas, un truco para estabilizar un poder que por definicion no puede acumularse."
+      },
+      {
+        "school": "Republicanismo agonistico (Bonnie Honig)",
+        "view": "Honig (Political Theory and the Displacement of Politics, 1993) lee a Arendt con Nietzsche y Maquiavelo para subrayar la dimension agonistica y performativa de la accion como virtu disruptiva. Critica que las distinciones rigidas (publico/privado, politico/social) operan como un desplazamiento de la politica: clausuran el terreno de lo contestable y excluyen las irrupciones por las que grupos marginales reclaman aparecer y transformar las instituciones."
+      },
+      {
+        "school": "Critica al grecocentrismo nostalgico",
+        "view": "Diversos comentaristas reprochan a Arendt una idealizacion de la polis ateniense y una nostalgia helenica que vuelve su modelo inaplicable a la escala y complejidad de las sociedades modernas. La rigida separacion entre necesidad y libertad, calcada del contraste antiguo oikos/polis, dependeria ademas de una base material (esclavitud, exclusion de mujeres y trabajadores) que ella no tematiza como problema politico, lo que mina el caracter emancipador de su recuperacion de la accion."
+      }
+    ],
+    "contrasts": "El eje del debate es la distincion entre necesidad y libertad y su traduccion institucional en las fronteras publico/privado y politico/social. Defensores republicanos y deliberativos leen esas fronteras como condicion de posibilidad de un actuar libre y plural que la modernidad administrativa amenaza; criticos feministas, marxistas y agonistas las leen como exclusiones que despolitizan el cuerpo, la reproduccion y la justicia material. Sobre el poder hay una paradoja reveladora: Habermas y el feminismo de Hartsock toman la misma definicion arendtiana (poder como actuar concertado, no como dominio) para fines opuestos, rescate emancipador en un caso, denuncia de su ceguera ante la fuerza y la violencia estructural en el otro. La disputa interna mas fina es la de Benhabib frente a Honig y Pitkin: las tres son feministas que valoran a Arendt, pero Benhabib la salva volviendo poroso lo publico (lo privado puede hacerse publico), mientras Pitkin la condena por su concepto de lo social y Honig la radicaliza hacia un agonismo que las propias distinciones arendtianas tienden a clausurar. El veredicto depende de si se considera la pureza de lo politico un logro normativo o una operacion ideologica.",
+    "sources": [
+      { "label": "Hannah Arendt - Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/arendt/" },
+      { "label": "Hannah Arendt - Internet Encyclopedia of Philosophy", "url": "https://iep.utm.edu/hannah-arendt/" },
+      { "label": "Feminist Perspectives on Power - Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/feminist-power/" },
+      { "label": "Resena de Arendt on the Political - Notre Dame Philosophical Reviews", "url": "https://ndpr.nd.edu/reviews/arendt-on-the-political/" },
+      { "label": "The Human Condition (obra de Arendt) - Encyclopaedia Britannica", "url": "https://www.britannica.com/topic/The-Human-Condition-by-Arendt" },
+      { "label": "Habermas on Arendt's Conception of Power - Hannah Arendt Center, Bard College", "url": "https://hac.bard.edu/amor-mundi/habermas-on-arendts-conception-of-power-2013-02-21" }
+    ]
+  },
+  "socratic": "Sos un interlocutor socratico sobre La condicion humana de Hannah Arendt. Tu metodo: preguntas de a una, nunca des la respuesta, exigi razones, oponete con objeciones reales y nombradas, y ofrece pistas solo si me trabo. No avances al siguiente tema hasta que yo haya defendido o revisado mi posicion. Empeza con esta pregunta y espera mi respuesta: Arendt distingue tres actividades: labor (atada a la necesidad biologica), trabajo (que fabrica el mundo durable) y accion (el discurso entre iguales que para ella es lo unico propiamente politico). Cuando ordenes lavar los platos, construir una mesa y debatir una ley, en cual de las tres cae cada cosa, y por que la accion seria mas libre que las otras dos? Una vez que respondas, pedi que justifique por que la frontera es tan tajante y oponé objeciones nombradas segun lo que diga: si naturaliza la separacion necesidad/libertad, traele a Hanna Pitkin (The Attack of the Blob) y a Mary O'Brien, que acusan a Arendt de despreciar el cuerpo, la labor y la reproduccion y de relegar a las mujeres al oikos pre-politico; si defiende expulsar la cuestion social de la politica (On Revolution), oponé la objecion marxista de que asi la pobreza o la vivienda quedan fuera de la deliberacion democratica, y preguntale quien decide que cuenta como mera necesidad; si invoca el poder como actuar concertado, mostra la paradoja de que Habermas le reprocha a la vez filtrar la fuerza estrategica y la violencia estructural, mientras Nancy Hartsock celebra ese mismo concepto como poder-con feminista; si idealiza la polis, preguntale sobre la esclavitud y la exclusion que sostenian materialmente ese espacio publico ateniense. Si rescata a Arendt, presiona con Bonnie Honig: las distinciones rigidas no clausuran acaso el terreno de lo contestable y desplazan la politica? Da pistas en forma de nueva pregunta, nunca de afirmacion. Cerra cada ronda pidiendome que reformule mi tesis a la luz de la objecion."
+}

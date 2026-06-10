@@ -1,13 +1,13 @@
 ---
-title: "Etapa 83 — Agamben — Homo Sacer / Estado de excepción"
+title: "Etapa 68 — Agamben — Homo Sacer / Estado de excepción"
 ---
 
-# Etapa 83 — Agamben — Homo Sacer (Intro + Parte III) o Estado de excepción
+# Etapa 68 — Agamben — Homo Sacer (Intro + Parte III) o Estado de excepción
 
 > La vertebración teórica de Fase 5: Schmitt + Foucault + Mbembe convertidos en linaje único. Soberano = quien decide sobre la excepción; *homo sacer* = la vida que puede matarse sin que sea homicidio.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 83/103</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 8-12 h</span> · <span>:material-progress-check: Etapa 68/103</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">

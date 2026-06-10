@@ -1,0 +1,77 @@
+{
+  "debate_deep": {
+    "intro": "La Carta de Jamaica (1815) enfrenta un debate que sigue vivo: si Bolivar fue el profeta lucido de la unidad y la identidad hispanoamericanas, o si su realismo institucional, su desconfianza del pueblo y su deriva centralista lo convierten en precursor del autoritarismo criollo. El texto es ambiguo por diseno: a la vez celebra el sueno de una nacion continental y declara su imposibilidad, reivindica una identidad mestiza pero habla desde el criollismo, y critica el colonialismo espanol mientras prefiere gobiernos fuertes que muchos leen como antiliberal. Esa tension explica por que cada tradicion politica latinoamericana, del integracionismo al liberalismo y del chavismo al decolonialismo, lo reclama o lo impugna como propio.",
+    "supporters": [
+      {
+        "school": "Historiografia bolivariana e integracionismo latinoamericano",
+        "view": "La tradicion bolivariana clasica y el pensamiento integracionista (de la generacion que convoco el Congreso de Panama de 1826 hasta proyectos como la CELAC) leen la Carta como acta de nacimiento de la unidad hispanoamericana. Le dan la razon a Bolivar al verlo como el primer estadista que penso el subcontinente como sujeto politico colectivo frente a las potencias, anticipando el antiimperialismo y la idea de patria grande."
+      },
+      {
+        "school": "Realismo politico posrevolucionario (Leandro Losada)",
+        "view": "Leandro Losada (CONICET/UAM) inscribe a Bolivar en el transito del idealismo revolucionario al realismo posrevolucionario desencantado por las anarquias y guerras civiles. Defiende que la formula de las republicas aereas y su preferencia por concentrar el poder no son traicion al republicanismo sino un republicanismo autoritario lucido, que busca organizacion constitucional viable y no la imitacion ingenua de modelos europeos."
+      },
+      {
+        "school": "Lectura pragmatica del Bolivar genial politico (Giovanni Molano Cruz)",
+        "view": "Giovanni Molano Cruz (Universidad Nacional de Colombia) sostiene que Bolivar no fue profeta sino un genial politico y militar cuyas reflexiones respondian a contextos concretos. Le da la razon al valorar su lucidez para advertir a la vez el deseo de union y su imposibilidad por la geografia y los intereses opuestos de las elites, leyendo la vigencia de la Carta en temas pendientes como la integracion y la consolidacion republicana, no en supuestas profecias eternas."
+      },
+      {
+        "school": "Latinoamericanismo identitario y reivindicacion del mestizaje",
+        "view": "Las lecturas que celebran la formula no somos ni indios ni europeos, sino una especie media ven en la Carta la primera autoreferencia de una identidad latinoamericana propia, ruptura cultural con la matriz hispanica. Defienden que Bolivar fundo el discurso de una identidad mestiza y continental que da derechos a los legitimos propietarios del pais, base simbolica de la integracion."
+      },
+      {
+        "school": "Bolivarianismo contemporaneo (chavismo)",
+        "view": "El bolivarianismo de Hugo Chavez reactivo el culto popular a Bolivar como ideologia oficial, rescatando, segun Fabricio Pereira da Silva, una tradicion progresista y anti-oligarquica latente. Le da la razon a Bolivar como simbolo de soberania popular, antiimperialismo y unidad regional, articulando su figura como significante que da legitimidad y cohesion a un proyecto de justicia social."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica liberal a la deriva centralista y dictatorial",
+        "view": "La tradicion liberal objeta que Bolivar derivo del republicanismo de juventud hacia el centralismo y la dictadura: la Constitucion vitalicia boliviana con un presidente elegido de por vida, descrita por la propia Encyclopaedia Britannica como el rasgo mas dudoso de su pensamiento politico, y su dictadura final en la Gran Colombia. Cuestionan que su desconfianza del federalismo y de la democracia pura abrio la puerta al caudillismo y al poder personal."
+      },
+      {
+        "school": "Critica al elitismo criollo y la exclusion social",
+        "view": "Lecturas como la del articulo de la Revista Chilena de Literatura sobre inclusion y exclusion social en la Carta objetan que la identidad de la especie media responde al criollismo como clase, no al mestizaje real. Critican que Bolivar desconfia del pueblo, de las castas y de los pardos, y que su proyecto fue de elites propietarias que se reservaron la conduccion, reproduciendo jerarquias coloniales bajo un lenguaje emancipador."
+      },
+      {
+        "school": "Escepticismo sobre la viabilidad del proyecto unitario",
+        "view": "Una linea historiografica subraya la paradoja de que el fundador del sueno integracionista es tambien su primer esceptico: la propia Carta descarta la gran nacion continental como impracticable y preve quince o diecisiete republicas. Objetan que el panamericanismo bolivariano fue mas aspiracion retorica que programa viable, desmentido por la fragmentacion efectiva y el fracaso del Congreso de Panama."
+      },
+      {
+        "school": "Critica a la apropiacion ideologica del bolivarianismo",
+        "view": "Analistas del chavismo, entre ellos Fabricio Pereira da Silva con la nocion de significante vacio de Laclau, objetan que el uso politico ha vaciado la figura de Bolivar: se la fuerza, se reinterpretan hechos y se distorsiona su mensaje para legitimar proyectos contemporaneos. Critican tanto la lectura socialista como cualquier herencia ideologica directa, dada la ausencia de una obra sistematica y el caracter contingente de su practica."
+      },
+      {
+        "school": "Relecturas decoloniales sobre los limites de su ruptura",
+        "view": "Desde el giro decolonial se valora la critica de Bolivar al colonialismo espanol pero se objeta que su identidad latinoamericana sigue anclada en el sujeto criollo blanco y eurocentrado: admira las instituciones britanicas como modelo y no descoloniza realmente el saber ni la estructura de poder. Critican que indios y afrodescendientes quedan como objetos del discurso y no como sujetos plenos del nuevo orden."
+      }
+    ],
+    "contrasts": "Quien lee la Carta junto al Discurso de Angostura y la Constitucion boliviana tiende a ver la deriva centralista y vitalicia que denuncian los liberales y que Britannica llama el rasgo mas dudoso de su pensamiento; quien la lee como manifiesto fundacional encuentra al profeta de la unidad y la identidad continental que reivindican el integracionismo y el bolivarianismo. Losada y Molano Cruz median: ni profeta ni tirano, sino un realista posrevolucionario cuyo republicanismo autoritario responde a la anarquia, no al apetito de poder. La critica del criollismo (Revista Chilena de Literatura) recuerda que la especie media excluia al pueblo que decia representar, mientras las relecturas decoloniales matizan el alcance de su ruptura anticolonial. El chavismo lo reapropia como significante de soberania popular, y la critica a esa apropiacion (Pereira da Silva) advierte que la figura se ha vaciado de contenido. El lector debe decidir si el escepticismo de Bolivar sobre la unidad es lucidez o renuncia, y si su preferencia por gobiernos fuertes es prudencia institucional o semilla del caudillismo; la Carta sostiene a la vez al integracionista visionario y al realista que desconfia de la democracia, y esa tension la mantiene vigente.",
+    "sources": [
+      {
+        "label": "Simon Bolivar - Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Simon-Bolivar"
+      },
+      {
+        "label": "El latinoamericanismo de Simon Bolivar: unidad, inclusion y exclusion social en la Carta de Jamaica - Revista Chilena de Literatura (Univ. de Chile)",
+        "url": "https://revistaliteratura.uchile.cl/index.php/RCL/article/view/64007/68024"
+      },
+      {
+        "label": "Doscientos anos de la Carta de Jamaica - Giovanni Molano Cruz, Razon Publica",
+        "url": "https://razonpublica.com/doscientos-anos-de-la-carta-de-jamaica/"
+      },
+      {
+        "label": "Bolivarianismo en la encrucijada. Analisis de la ascension y crisis del chavismo desde sus conceptos - Fabricio Pereira da Silva, Revista Polis (OpenEdition)",
+        "url": "https://journals.openedition.org/polis/16549"
+      },
+      {
+        "label": "Republicanismo, liberalismo y democracia en el pensamiento politico hispanoamericano (siglo XIX) - Leandro Losada, LASA Forum",
+        "url": "https://forum.lasaweb.org/articles/56-4/republicanismo-liberalismo-y-democracia-en-el-pensamiento-politico-hispanoamericano-siglo-xix/"
+      },
+      {
+        "label": "Carta de Jamaica - Diccionario de Historia de Venezuela, Fundacion Empresas Polar",
+        "url": "https://bibliofep.fundacionempresaspolar.org/dhv/entradas/c/carta-de-jamaica/"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre la Carta de Jamaica de Simon Bolivar. No me des respuestas ni resumenes: hace preguntas, una por vez, y pedime siempre razones. Empeza preguntandome esto: si el propio Bolivar declara en la Carta que una sola nacion desde Mexico hasta Chile es deseable pero impracticable, y preve quince o mas republicas separadas, en que sentido podemos llamarlo fundador de la unidad hispanoamericana, y por que lo creo. Cuando afirme algo, opone una objecion real y nombrada: la critica liberal que ve en su Constitucion vitalicia y su dictadura final (segun Britannica, el rasgo mas dudoso de su pensamiento) la semilla del caudillismo; la critica del criollismo (Revista Chilena de Literatura) que dice que su especie media excluia al pueblo, las castas y los pardos; el realismo de Losada que lo defiende como republicano autoritario lucido frente a la anarquia; y la critica de Pereira da Silva a la apropiacion chavista que vacio su figura como significante. Si me trabo, dame una pista concreta, no la respuesta; y antes de cerrar, preguntame si su preferencia por gobiernos fuertes fue prudencia institucional o renuncia a la democracia."
+}

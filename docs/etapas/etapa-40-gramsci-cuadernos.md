@@ -1,13 +1,13 @@
 ---
-title: "Etapa 52 — Gramsci — Cuadernos desde la prisión (selección Hoare-Smith)"
+title: "Etapa 40 — Gramsci — Cuadernos desde la prisión (selección Hoare-Smith)"
 ---
 
-# Etapa 52 — Gramsci — Cuadernos desde la prisión (selección Hoare-Smith)
+# Etapa 40 — Gramsci — Cuadernos desde la prisión (selección Hoare-Smith)
 
 > La idea política más influyente del siglo XX: hegemonía cultural. La dominación de clase opera por consenso, no solo por coerción. Selección densa y fragmentaria, leída por temas, no en orden.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 25-35 h</span> · <span>:material-progress-check: Etapa 52/103</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 25-35 h</span> · <span>:material-progress-check: Etapa 40/103</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">

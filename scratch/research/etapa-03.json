@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "Como leer un libro (1940, revisado en 1972 con Charles Van Doren) propone dos cosas distintas que conviene separar para entender el debate. La primera es un metodo de lectura: cuatro niveles acumulativos (elemental, inspeccional, analitico y sintopico) y, en su centro, la lectura analitica entendida como un dialogo activo y exigente con el autor, en el que el lector debe identificar el problema del libro, ordenar sus argumentos, interpretar sus terminos y solo entonces juzgarlo. La segunda es un proyecto cultural y editorial: los Great Books of the Western World, los cincuenta y cuatro volumenes que Adler edito junto a Robert Hutchins para Encyclopaedia Britannica en 1952, coronados por el Syntopicon, un indice de ciento dos Grandes Ideas con el que Adler pretendia mostrar la unidad de la conversacion intelectual de Occidente. El debate es vivo porque ambas cosas se defienden y se atacan con argumentos serios. Sobre el metodo se discute si es una disciplina liberadora frente a la lectura pasiva o un procedimiento rigido y mecanico. Sobre el canon se libra una de las batallas centrales de las culture wars: si los Grandes Libros son una via democratica de acceso a la mejor tradicion o un canon elitista, eurocentrico, masculino y blanco que excluye otras voces. A esto se suma una ironia comercial: un proyecto pensado como educacion para todos termino vendiendose puerta a puerta como mueble de prestigio para la clase media.",
+    "supporters": [
+      {
+        "school": "La defensa de la lectura activa frente a la lectura pasiva (Adler y Van Doren)",
+        "view": "El nucleo de la propuesta es que leer bien es un trabajo, no una recepcion. Frente al consumo pasivo de informacion, Adler y Van Doren sostienen que la lectura analitica convierte al lector en un interlocutor que debe clasificar el libro, descubrir cual es el problema que el autor intenta resolver, reconstruir sus argumentos con sus propios terminos y recien despues juzgarlo (estar de acuerdo, en desacuerdo o suspender el juicio, pero siempre con razones). El lector debe alcanzar el nivel de comprension del autor antes de tener derecho a criticarlo. Para esta posicion los cuatro niveles no son una receta arbitraria sino una pedagogia de la atencion: ensenan a no confundir entender un libro con tener una opinion sobre el."
+      },
+      {
+        "school": "La lectura sintopica y la idea de la Gran Conversacion",
+        "view": "El cuarto nivel, la lectura sintopica, es el mas ambicioso y el que conecta el metodo con el proyecto de los Grandes Libros. Leer sintopicamente es no leer un libro aislado, sino poner varios autores a hablar entre si sobre un mismo problema, identificar acuerdos y contradicciones y construir una comprension propia a partir del choque de posiciones. El Syntopicon es la herramienta material de esa idea: un indice que rastrea como distintos autores tratan las mismas Grandes Ideas. Sus defensores ven aqui un antidoto contra la fragmentacion y el especialismo, una forma de recuperar la nocion de que las grandes obras dialogan a traves de los siglos en lo que Hutchins llamo la Gran Conversacion."
+      },
+      {
+        "school": "Allan Bloom y la defensa del canon como educacion liberal",
+        "view": "En The Closing of the American Mind (1987), Allan Bloom denuncia que los estudiantes han perdido el habito y el gusto por leer los grandes textos (Platon, Maquiavelo) y que esa perdida los deja sin puntos de referencia para pensar criticamente, atrapados en un relativismo que confunde apertura con indiferencia. Su libro, best seller inesperado, fue llamado por Camille Paglia el primer disparo de las culture wars y se convirtio en el manifiesto de quienes defienden un curriculo centrado en los grandes libros como nucleo de la educacion liberal. Para esta corriente, hay obras que ensenan a pensar y cuyo estudio es condicion de una vida examinada."
+      },
+      {
+        "school": "St. John's College y el modelo institucional de los Great Books",
+        "view": "St. John's College encarna desde 1937 la version institucional viva del proyecto: un curriculo integro construido sobre la lectura directa de las grandes obras de tres mil anios, discutidas en seminarios de menos de veinte alumnos donde el docente facilita en vez de dictar catedra. Su defensa practica es que leer las fuentes originales (no manuales ni interpretaciones de segunda mano) y discutirlas entre pares forma el juicio mejor que la especializacion temprana en carreras compartimentadas. Tim Lacy, en The Dream of a Democratic Culture (2013), refuerza esta lectura al mostrar que Adler concebia los grandes libros como un saber accesible a todos y buscaba democratizar el conocimiento, no reservarlo a una elite."
+      }
+    ],
+    "critics": [
+      {
+        "school": "La critica multiculturalista al canon eurocentrico, masculino y blanco",
+        "view": "El reproche mas conocido, central en el debate del canon de los anios ochenta y noventa, es que la seleccion de los Grandes Libros esta sesgada hacia la cultura europea occidental y hacia autores blancos y varones. La primera edicion de 1952 no incluyo ninguna mujer; la segunda, de 1990, agrego apenas cuatro. El propio Adler termino reconociendo que el conjunto era demasiado europeo occidental y representaba mal a mujeres y minorias, y lamento que el Syntopicon no hubiera incluido referencias al Coran. Los criticos sostienen que presentar ese recorte como la conversacion de Occidente naturaliza una exclusion y excluye voces no occidentales, lo que alimento marchas como la de Stanford con el lema Hey hey, ho ho, Western Civ has got to go."
+      },
+      {
+        "school": "Lawrence Levine y la tesis de que el canon nunca fue estable",
+        "view": "El historiador Lawrence W. Levine respondio directamente a Bloom con The Opening of the American Mind (1996). Su argumento, apoyado en historia cultural, es que nunca existio un consenso sobre el canon ni sobre el curriculo desde la epoca colonial: lo que Bloom presenta como una tradicion eterna en disolucion fue siempre objeto de disputa y revision. Levine sostiene ademas que la calidad y la amplitud de la educacion humanistica de los anios noventa superaba a la de cualquier epoca anterior, y aboga por curriculos que reflejen la diversidad racial y etnica del pais. Su critica desarma la premisa nostalgica del defensor del canon: no hay una edad de oro estable que restaurar."
+      },
+      {
+        "school": "La critica al metodo de Adler como formulaico y mecanico",
+        "view": "Sobre el metodo mismo, varios lectores objetan que el sistema de reglas de la lectura analitica es rigido y formulaico, que trata todo libro como si su contenido pudiera reducirse a un conjunto de proposiciones y argumentos que se pueden extraer y juzgar desde afuera. Esta vision deja poco espacio para textos cuya forma es inseparable de su sentido (poesia, narrativa, filosofia ironica) y, segun algunos criticos, omite ensenar lo mas dificil: aprender a hacerle preguntas a un texto y escuchar sus respuestas. Para esta posicion, las reglas sirven como andamiaje para el principiante, pero deben abandonarse una vez que el lector adquiere criterio propio."
+      },
+      {
+        "school": "La critica comercial: el Great Books como producto de marketing middlebrow",
+        "view": "Un proyecto concebido como educacion democratica termino convertido en mercancia. Las ventas iniciales fueron un fracaso (mil ochocientos sesenta y tres juegos en 1952) hasta que Britannica viro a la venta puerta a puerta, justo lo que Hutchins temia que devaluaria los libros como objetos culturales; con esa estrategia se vendieron al final cerca de un millon de juegos, ofrecidos con la Biblia y una biblioteca a medida en cuotas mensuales. La Comision Federal de Comercio llego a censurar a Britannica por concursos enganiosos y empaquetado tramposo. Los criticos del caracter middlebrow del conjunto subrayan, ademas, que los compradores con mas educacion eran los menos propensos a comprarlo: el set funcionaba como simbolo de estatus para la clase media ansiosa mas que como instrumento de lectura efectiva."
+      }
+    ],
+    "contrasts": "El debate gira sobre dos ejes que conviene no mezclar. En el eje del metodo, la pregunta es si la lectura analitica disciplina y libera (ensena a entender antes de juzgar, a no confundir leer con opinar) o si encorseta la lectura en un procedimiento que funciona para el ensayo argumentativo pero traiciona a los textos cuyo sentido vive en la forma. En el eje del canon, la pregunta es de quien es la conversacion: los defensores (Bloom, St. John's, Lacy) ven en los Grandes Libros una via para que cualquiera acceda a las mejores obras y aprenda a pensar, mientras los criticos (la tradicion multiculturalista, Levine) ven un recorte presentado como universal que naturaliza la exclusion de mujeres y de voces no occidentales, y recuerdan que el canon nunca fue estable ni consensuado. Cruzando ambos ejes esta la ironia comercial: un ideal democratico que se vendio como mueble de prestigio. Lo interesante es que las posiciones no son simetricas ni se anulan: se puede aceptar el valor del metodo y desconfiar del canon, o defender la idea de que hay obras que ensenan a pensar y a la vez exigir que ese conjunto se amplie y se discuta su criterio de seleccion. El lector tiene que decidir, para cada libro que toma, que pesa mas: el rigor de leerlo a fondo como Adler propone, o la sospecha sobre por que ese libro y no otro llego a su mano.",
+    "sources": [
+      {
+        "label": "Great Books of the Western World, resena del proyecto editado por Adler y Hutchins y del Syntopicon (Encyclopaedia Britannica)",
+        "url": "https://www.britannica.com/topic/Great-Books-of-the-Western-World"
+      },
+      {
+        "label": "An Invitation to Learning: Mortimer Adler's How to Read a Book and the Ideal of a Common Culture, ensayo academico de Caterina Domeneghini (Literary Imagination, Oxford Academic)",
+        "url": "https://academic.oup.com/litimag/article/25/1/1/7220896"
+      },
+      {
+        "label": "Who Decides Which Books Are Great?, ensayo sobre el origen del canon y el movimiento de los Great Books (JSTOR Daily)",
+        "url": "https://daily.jstor.org/who-decides-which-books-are-great/"
+      },
+      {
+        "label": "The Closing of the American Mind, ensayo de Jacob Hamburger sobre el libro de Allan Bloom, el elitismo educativo y las culture wars (The Point Magazine)",
+        "url": "https://thepointmag.com/criticism/the-closing-of-the-american-mind-allan-bloom/"
+      },
+      {
+        "label": "Interview with Tim Lacy on The Dream of a Democratic Culture: Mortimer J. Adler and the Great Books Idea (Inside Higher Ed)",
+        "url": "https://www.insidehighered.com/views/2013/12/18/interview-tim-lacy-dream-democratic-culture-mortimer-j-adler-and-great-books-idea"
+      },
+      {
+        "label": "In Memoriam: Lawrence W. Levine, historiador y autor de The Opening of the American Mind (University of California Academic Senate)",
+        "url": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/lawrencelevine.htm"
+      }
+    ]
+  },
+  "socratic": "Quiero que actues como un interlocutor socratico mayeutico sobre como leer bien un libro, tomando como referencia el metodo de Mortimer Adler en Como leer un libro y el debate sobre los Grandes Libros. Reglas estrictas: haceme una sola pregunta por turno y espera mi respuesta antes de continuar. No me des respuestas, resumenes ni explicaciones largas; tu trabajo es preguntar, no ensenar. Cada vez que yo afirme algo, pedime las razones (por que sostenes eso, en que te basas, podrias dar un ejemplo concreto). Cuando yo de una razon, oponeme una objecion real y nombrada del debate: por ejemplo, la critica de que el metodo de Adler es rigido y formulaico y trata todo libro como un conjunto de argumentos que se extraen desde afuera; la defensa de Allan Bloom del canon como nucleo de la educacion liberal frente al relativismo; la critica multiculturalista de que los Grandes Libros son un canon eurocentrico, masculino y blanco que excluye otras voces; la tesis de Lawrence Levine de que el canon nunca fue estable ni consensuado; o la ironia comercial de que un proyecto democratico se vendio puerta a puerta como mueble de prestigio. Si me trabo o me quedo en silencio, no resuelvas por mi: dame una pista corta en forma de otra pregunta mas concreta. Manten un tono firme pero respetuoso. Empeza ahora con esta pregunta y nada mas: Cuando decis que entendiste bien un libro, que estas afirmando exactamente: que podes resumir lo que dice, que estas de acuerdo con el, o que podrias reconstruir su argumento con tus propias palabras y explicar por que el autor lo sostiene? Y como distinguis entender un libro de simplemente tener una opinion sobre el?"
+}

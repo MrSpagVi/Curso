@@ -27,7 +27,7 @@ Un curso completo de autoestudio para construir cultura política, filosófica, 
 
 ## Objetivo final
 
-Al cerrar las 87 etapas (~36 meses a 3-5 h/semana):
+Al cerrar las 103 etapas (~36 meses a 3-5 h/semana):
 
 1. **Vocabulario sólido** en pensamiento político, filosófico, económico y cultural occidental e iberoamericano.
 2. **Capacidad de leer textos primarios densos** sin necesidad de intermediarios (Hobbes, Marx, Foucault, Rawls, Bourdieu).
@@ -48,7 +48,7 @@ Al cerrar las 87 etapas (~36 meses a 3-5 h/semana):
 - **Salida** (qué sabés/tenés al cerrarla).
 - **Recursos** (links a versiones gratuitas: Wikisource · Project Gutenberg · Yale Open Courses · archive.org · Marxists.org).
 
-La barra de progreso global suma los checkboxes de las 87 etapas y se guarda en tu navegador (localStorage).
+La barra de progreso global suma los checkboxes de las 103 etapas y se guarda en tu navegador (localStorage).
 
 ---
 

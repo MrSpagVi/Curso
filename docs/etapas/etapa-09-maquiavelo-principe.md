@@ -7,11 +7,11 @@ title: "Etapa 9 — Maquiavelo — El Príncipe"
 > El primer texto político moderno: corta con la tradición de "espejos de príncipes" y describe cómo se conserva el poder en condiciones reales, no ideales. Fundación del realismo político.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 10-14 h</span> · <span>:material-progress-check: Etapa 9/87</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 10-14 h</span> · <span>:material-progress-check: Etapa 9/103</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (87 etapas)</span>
+  <span class="g-label">Progreso global (103 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

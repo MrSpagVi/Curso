@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "Escrito en Zurich en 1916 y publicado en 1917, El imperialismo, fase superior del capitalismo es un folleto de divulgacion en el que Lenin sintetiza materiales ajenos (declaradamente J. A. Hobson y Rudolf Hilferding, ademas de Bujarin) para sostener una tesis precisa: el imperialismo no es una politica que los Estados pueden elegir o desechar, sino la fase economica necesaria a la que llega el capitalismo cuando la libre competencia se transforma en monopolio. Lenin lo define por cinco rasgos: concentracion de la produccion en monopolios, fusion del capital bancario con el industrial en capital financiero y una oligarquia financiera, predominio de la exportacion de capital sobre la de mercancias, reparto del mundo entre asociaciones capitalistas internacionales y reparto territorial del globo entre las grandes potencias. De ahi extrae dos corolarios politicos que dominan el debate de post-lectura. Primero, que la rivalidad por un mundo ya repartido vuelve inevitables las guerras interimperialistas (la Primera Guerra Mundial como prueba), contra la tesis de la ultraimperialismo pacifico de Kautsky. Segundo, que las superganancias coloniales permiten a la burguesia sobornar a una capa superior de obreros (la aristocracia obrera), base material del reformismo y del oportunismo que hundieron a la Segunda Internacional. El debate posterior se libra en tres frentes: el de la deuda intelectual y la originalidad; el de la herencia teorica, donde la teoria de la dependencia y el analisis de los sistemas-mundo lo continuan y radicalizan; y el de la critica empirica e historica, que cuestiona si el colonialismo fue tan rentable como Lenin supuso, si el comercio fluye hacia las colonias o entre las propias potencias, y si el siglo XX confirmo o refuto sus predicciones.",
+    "supporters": [
+      {
+        "school": "Fuentes originarias: J. A. Hobson y Rudolf Hilferding",
+        "view": "El propio Lenin reconoce su deuda con dos obras anteriores que le dan el armazon. El liberal radical ingles J. A. Hobson, en Imperialism: A Study (1902), ya habia ligado el imperialismo al subconsumo y a los intereses de una oligarquia financiera que busca colocar capital excedente en el exterior, e introdujo la idea del parasitismo. El austromarxista Rudolf Hilferding, en El capital financiero (1910), aporto la categoria central de capital financiero como fusion de banca e industria y la tendencia a la cartelizacion. Lenin toma de ambos el material empirico y conceptual, aunque les reprocha sus conclusiones: a Hobson, ser un reformista que cree poder corregir el imperialismo; a Hilferding, no extraer las consecuencias revolucionarias. La continuidad es tan fuerte que muchos lectores juzgan el folleto poco original, una sintesis divulgativa mas que una teoria nueva."
+      },
+      {
+        "school": "Capital monopolista (Baran y Sweezy)",
+        "view": "Paul Baran y Paul Sweezy, en la tradicion de la Monthly Review y de Monopoly Capital (1966), retoman y actualizan el nucleo leninista: el capitalismo desarrollado es ante todo monopolista, y su problema cronico es la absorcion de un excedente economico creciente. Trasladan el foco hacia la extraccion de excedente de la periferia y el bloqueo del desarrollo en los paises atrasados, sosteniendo que la relacion con el centro no industrializa sino que deforma y estanca a la periferia. Con ello convierten la tesis de la exportacion de capital y las superganancias en una teoria del subdesarrollo como producto activo del propio sistema mundial."
+      },
+      {
+        "school": "Teoria de la dependencia y el sistema-mundo (Samir Amin, Wallerstein, Frank, Arrighi)",
+        "view": "Para los fundadores del analisis de los sistemas-mundo y de la dependencia, Lenin es lectura obligada y punto de partida. Samir Amin desarrolla el intercambio desigual y la acumulacion a escala mundial: las economias subdesarrolladas no son unidades independientes sino la periferia estructuralmente subordinada de una economia capitalista mundial, y propone el desconexion como estrategia. Immanuel Wallerstein refunde estas ideas en la division del mundo en centro, semiperiferia y periferia, con transferencia permanente de valor de la periferia al centro. Amin radicaliza incluso a Lenin al sostener que capitalismo e imperialismo estuvieron ligados en todas sus fases, no solo en la ultima. Esta corriente prolonga el espiritu del folleto: el desarrollo de unos es el subdesarrollo de otros."
+      },
+      {
+        "school": "Aristocracia obrera y explicacion del reformismo",
+        "view": "Quienes defienden el aparato leninista subrayan su mayor aporte explicativo: por que el movimiento obrero de los paises ricos se volvio reformista en lugar de revolucionario. La respuesta es la aristocracia obrera, una capa superior de trabajadores sobornada con migajas de las superganancias imperiales, que provee la base social del oportunismo, de los lideres sindicales acomodados y de la traicion socialchovinista de 1914. Esta tesis sigue siendo un marco vigente para discutir si los obreros de los paises imperialistas se benefician materialmente del imperialismo y, por tanto, para explicar la integracion politica de la clase obrera occidental."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Schumpeter: imperialismo como atavismo no economico",
+        "view": "Joseph Schumpeter, en La sociologia de los imperialismos (1918-19), formula la critica frontal y contemporanea. Para el es una falacia describir el imperialismo como una fase necesaria del capitalismo. El imperialismo es atavico: una supervivencia psicologica y social de las clases guerreras y feudales precapitalistas, una disposicion sin objeto, una pura voluntad de poder que no responde a ningun interes economico calculable. Lejos de generarlo, el capitalismo competitivo y librecambista es su antitesis: ninguna clase tiene interes en la expansion forzada cuando puede comerciar pacificamente. Donde Lenin ve causa economica, Schumpeter ve residuo historico destinado a erosionarse con el avance del capitalismo racional."
+      },
+      {
+        "school": "Bill Warren: el imperialismo como pionero del capitalismo",
+        "view": "El marxista britanico Bill Warren, en Imperialism: Pioneer of Capitalism (postumo, 1980), invierte la valoracion desde dentro del marxismo, apoyandose en el Marx que veia al capital como fuerza historicamente progresiva. Sostiene que el imperialismo no bloquea el desarrollo de la periferia sino que actua como portador del capitalismo a regiones precapitalistas, impulsando industrializacion, modernizacion y desarrollo de las fuerzas productivas. Contra Lenin y la dependencia, niega que la relacion centro-periferia produzca estancamiento. Sus criticos le reprochan tratar al capitalismo como fuerza autonoma y desligarlo de las relaciones de clase concretas, pero su revision empirica del supuesto subdesarrollo inducido ha sido influyente."
+      },
+      {
+        "school": "Critica empirica: el colonialismo poco rentable y el comercio entre potencias",
+        "view": "Una linea de historia economica y de critica liberal cuestiona los hechos. Las colonias habrian sido mucho menos rentables de lo que Lenin supuso: los costos militares y administrativos del imperio a menudo superaron los retornos, y los beneficios se concentraron en grupos reducidos mas que en el capital nacional en conjunto. Ademas, la exportacion de capital y el grueso del comercio de las potencias industriales fluian sobre todo hacia otros paises desarrollados, no hacia las colonias atrasadas, lo que mina la idea de que el imperialismo colonial fuese el motor necesario de la acumulacion. Si las superganancias coloniales eran modestas, tambien se debilita el mecanismo material de la aristocracia obrera."
+      },
+      {
+        "school": "Critica predictiva: Kautsky, el ultraimperialismo y el balance del siglo XX",
+        "view": "El blanco polemico explicito de Lenin fue Karl Kautsky, que anticipo un ultraimperialismo en el que las potencias capitalistas se repartirian el mundo de modo concertado y pacifico en lugar de despedazarse en guerras. Buena parte del debate de post-lectura evalua quien predijo mejor el siglo XX. La descolonizacion, el largo periodo de paz entre las grandes potencias capitalistas tras 1945, la integracion economica trasnacional y la cooperacion entre centros desarrollados se invocan como evidencia parcial a favor de la intuicion kautskiana y contra la tesis leninista de la guerra interimperialista inevitable, aunque los defensores de Lenin replican que la rivalidad solo cambio de forma."
+      }
+    ],
+    "contrasts": "El choque no se reduce a marxistas contra liberales, sino que atraviesa al propio marxismo. Sobre la naturaleza del imperialismo, Lenin lo hace brotar de la logica economica del capitalismo monopolista, mientras Schumpeter lo expulsa de la economia y lo atribuye a residuos precapitalistas. Sobre sus efectos en la periferia, la dependencia y el sistema-mundo (Amin, Wallerstein, Baran y Sweezy) radicalizan a Lenin viendo subdesarrollo inducido, en tanto Warren, leyendo a otro Marx, ve un capitalismo que civiliza e industrializa. Sobre los hechos, la critica empirica disputa que las colonias fueran muy rentables y senala que capital y comercio circulaban entre potencias, lo que erosiona a la vez la tesis de la exportacion de capital y el mecanismo de la aristocracia obrera. Sobre el futuro, el siglo XX arbitra ambiguamente entre Lenin y Kautsky: hubo dos guerras mundiales que parecen darle la razon a Lenin, pero tambien una larga paz, descolonizacion e integracion entre centros que reabren el escenario del ultraimperialismo. Que el folleto siga siendo el texto de referencia obligado tanto para sus continuadores como para sus criticos es, en si mismo, una medida de su influencia.",
+    "sources": [
+      {
+        "label": "Imperialism, the Highest Stage of Capitalism (texto completo, marxists.org)",
+        "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/"
+      },
+      {
+        "label": "Karl Kautsky, Ultra-imperialism (1914, texto primario en marxists.org: la tesis del reparto pacifico que Lenin refuta)",
+        "url": "https://www.marxists.org/archive/kautsky/1914/09/ultra-imp.htm"
+      },
+      {
+        "label": "World-systems theory (Encyclopaedia Britannica: Wallerstein, centro-periferia-semiperiferia y subdesarrollo inducido)",
+        "url": "https://www.britannica.com/topic/world-systems-theory"
+      },
+      {
+        "label": "Samir Amin, Contemporary Imperialism (Monthly Review: dependencia, intercambio desigual y renta imperialista del monopolio)",
+        "url": "https://monthlyreview.org/articles/contemporary-imperialism/"
+      },
+      {
+        "label": "Joseph Schumpeter and the Economics of Imperialism (Jacobin: imperialismo como atavismo no economico)",
+        "url": "https://jacobin.com/2022/01/joseph-schumpeter-economics-imperialism-marxism"
+      },
+      {
+        "label": "Warren's Revision of the Marxist Critique (MERIP: Bill Warren, imperialismo como progresivo)",
+        "url": "https://www.merip.org/1983/09/warrens-revision-of-the-marxist-critique/"
+      }
+    ]
+  },
+  "socratic": "Vamos a discutir El imperialismo, fase superior del capitalismo de Lenin con metodo socratico. Te voy a hacer preguntas de a una, sin darte respuestas; cuando contestes, te pedire razones, te opondre objeciones reales y, si te trabas, te dare una pista. Primera pregunta: Lenin titula su obra fase superior y no politica del capitalismo. Que esta afirmando exactamente al decir que el imperialismo es una fase necesaria del capitalismo, y no una opcion politica que un Estado podria elegir o evitar? Defini que cambia entre el capitalismo de libre competencia y el capitalismo monopolista para que la palabra fase tenga sentido. (Si contestas, te preguntare por los cinco rasgos con que Lenin define esa fase: monopolios, capital financiero, exportacion de capital, reparto economico y reparto territorial del mundo. Luego pondre sobre la mesa la objecion de Schumpeter, para quien es una falacia llamar al imperialismo fase necesaria del capitalismo, porque seria un atavismo precapitalista, una pura voluntad de poder sin causa economica; y la de Kautsky, que esperaba un ultraimperialismo pacifico en lugar de guerras interimperialistas. Mas adelante te exigire razones empiricas: era el colonialismo realmente tan rentable, o el capital y el comercio fluian sobre todo entre las propias potencias? Y te confrontare con Bill Warren, que sostiene lo contrario que Lenin: que el imperialismo fue pionero del capitalismo y desarrollo a la periferia, frente a Samir Amin y Wallerstein, que ven subdesarrollo inducido. Pero primero respondeme la pregunta inicial, con tus palabras y dando una razon.)"
+}

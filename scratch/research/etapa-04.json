@@ -1,0 +1,65 @@
+{
+  "debate_deep": {
+    "intro": "La dialectica eristica de Schopenhauer (Die Kunst, Recht zu behalten, redactada hacia 1830-1831 y publicada de forma postuma) describe treinta y ocho estratagemas para imponerse en una disputa con independencia de quien tenga la razon. El propio Schopenhauer define la eristica como el arte de discutir de tal modo que uno sostenga su posicion tenga o no la razon, y la separa tajantemente de la logica, que se ocupa de la verdad formal. El debate filosofico gira en torno a tres ejes entrelazados: primero, la distincion clasica entre una dialectica orientada a la verdad (la indagacion cooperativa de raiz socratica y aristotelica) y una eristica orientada a la victoria; segundo, el estatuto del texto mismo, que admite al menos tres lecturas rivales: manual cinico de manipulacion, diagnostico satirico y realista de como discute de hecho la gente, o herramienta defensiva para reconocer las trampas ajenas; tercero, su lugar entre la retorica clasica (Aristoteles y los sofistas) y la teoria contemporanea de la argumentacion (pragma-dialectica, tipologias de dialogo, etica del discurso). La discusion no es meramente exegetica: pone en juego la pregunta normativa de si argumentar para ganar puede ser legitimo o si subordina indebidamente la verdad al amor propio.",
+    "supporters": [
+      {
+        "school": "Lectura defensiva y de servicio a la Ilustracion (estudiosos de la logica y dialectica de Schopenhauer, en la linea de la Internet Encyclopedia of Philosophy)",
+        "view": "Esta corriente sostiene que el objetivo de Schopenhauer no es motivar el razonamiento invalido sino protegerse de el: la dialectica cientifica no es una disciplina ironica ni sarcastica, sino una herramienta protectora al servicio de la filosofia de la Ilustracion. Leer el catalogo de estratagemas equivale a estudiar las falacias para inmunizarse: quien reconoce la treta cuando la sufre puede neutralizarla. Schopenhauer mismo presenta varias estratagemas junto con el modo de pararlas, como una guardia frente a esos golpes. Bajo esta lectura el texto es un inventario lucido y util de las trampas dialecticas, emparentado con el estudio sistematico de las falacias informales."
+      },
+      {
+        "school": "Realismo sobre la vanidad humana (lectura psicologico-pesimista del propio Schopenhauer)",
+        "view": "Estos interpretes valoran el texto como un diagnostico honesto de como discute realmente la gente. Schopenhauer atribuye la universalidad de la eristica a la vanidad innata, particularmente sensible respecto de nuestras capacidades intelectuales, que no nos deja conceder que nuestra primera posicion era falsa, y a la natural bajeza de la naturaleza humana: si fueramos honestos, en todo debate solo buscariamos la verdad. El valor de la obra, para esta lectura, es descriptivo y realista; describe la disputa tal como ocurre, no como deberia ocurrir, anticipando el estudio empirico de los sesgos y de las dinamicas reales del desacuerdo."
+      },
+      {
+        "school": "Teoria de la argumentacion: tipologias de dialogo (Walton y Krabbe)",
+        "view": "En la tipologia de Walton y Krabbe (Commitment in Dialogue, 1995) el dialogo eristico es un tipo legitimo y reconocible entre seis (busqueda de informacion, indagacion, persuasion, negociacion, deliberacion y eristica), nacido de un conflicto abierto y orientado a una acomodacion provisional mas que a la verdad. Lejos de condenar la eristica en bloque, este enfoque la formaliza: permite identificar cuando un intercambio se desplaza ilicitamente de una discusion persuasiva hacia una disputa eristica, y por tanto aporta criterios para evaluar tales desplazamientos. El catalogo de Schopenhauer adquiere asi valor analitico para la teoria contemporanea."
+      },
+      {
+        "school": "Pragma-dialectica y maniobra estrategica (van Eemeren y la escuela de Amsterdam)",
+        "view": "La pragma-dialectica integra la dimension retorica mediante la nocion de maniobra estrategica: el modo en que quien argumenta intenta ser a la vez razonable y eficaz, persuasivo. Las falacias se reconceptualizan como descarrilamientos de la maniobra estrategica, es decir, casos en que la busqueda de eficacia viola las reglas de la discusion critica. Bajo esta optica las estratagemas de Schopenhauer son material precioso: una taxonomia temprana de los descarrilamientos posibles, util para construir el codigo de conducta de una discusion razonable y para detectar sus violaciones."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica etica desde la tradicion socratica de la verdad (lectura platonica de la eristica)",
+        "view": "Desde Platon, la eristica y la antilogia sofistica se oponen a la dialectica filosofica: Socrates buscaba la verdad y no la victoria, mientras los sofistas, segun Kerferd, empleaban metodos eristicos y antilogicos de argumentacion. El elenchus socratico, pese a sus semejanzas con la sofistica, apunta a la verdad y no al triunfo. Para esta tradicion, ensenar a sostener la propia posicion con independencia de su verdad subordina la indagacion al amor propio y corrompe la conversacion filosofica, que deberia ser una busqueda conjunta y amistosa de lo verdadero. La obra de Schopenhauer queda asi del lado equivocado de la demarcacion platonica entre filosofia y sofistica."
+      },
+      {
+        "school": "Critica desde la etica del discurso (Habermas y la situacion ideal de habla)",
+        "view": "Para Habermas, la argumentacion legitima presupone una situacion ideal de habla en la que no prevalece otra fuerza que la del mejor argumento y todos los participantes se orientan al consenso racional, libres de coaccion fisica o psicologica. La accion comunicativa, donde se busca el acuerdo libre sobre los meritos de lo dicho, se opone a la accion estrategica o instrumental, en la que se trata al otro como instrumento mediante amenazas, pagos o argumentos y evidencias selectivos. La eristica schopenhaueriana cae de lleno en el segundo registro: usa al interlocutor y a la audiencia como medios para la victoria, violando las condiciones contrafacticas que, segun Habermas, hacen del discurso una via cooperativa hacia la verdad y la validez normativa."
+      },
+      {
+        "school": "Critica desde la teoria de la argumentacion: la eristica belica (Michel Dufour, ISSA 2014)",
+        "view": "Dufour reconoce el caracter a veces natural de la eristica pero senala que se vuelve eticamente problematica cuando prioriza la victoria sobre la busqueda de la verdad, corrompiendo la indagacion filosofica genuina. Critica ademas que Schopenhauer subestimo la dimension ludica ya presente en Platon y Aristoteles, y distingue una eristica blanda regida por reglas de una eristica dura o belica que abandona toda equidad procedimental. Bajo esta optica, varias estratagemas de Schopenhauer pertenecen a la modalidad belica, sin reglas ni control, dificilmente reconciliable con cualquier norma de discusion razonable."
+      },
+      {
+        "school": "La autocensura del propio Schopenhauer (el proyecto abandonado por indigno)",
+        "view": "Una linea critica se apoya en que el mismo Schopenhauer parecio renegar del proyecto: una consideracion tan detallada y minuciosa de los caminos torcidos y las tretas ya no se ajusta a mi temperamento, escribio, y la obra quedo inedita en vida, conservada solo en sus manuscritos postumos. Para estos lectores, ese abandono confirma que el autor mismo juzgo indigno o vergonzoso publicar un manual de deshonestidad, demasiado exacto en describir como argumentan de hecho los seres humanos; el texto seria entonces menos una doctrina asumida que un ejercicio que su autor considero impublicable."
+      }
+    ],
+    "contrasts": "El nudo del debate es si la eristica de Schopenhauer describe, prescribe o previene. Quienes la defienden como herramienta defensiva o como diagnostico realista la leen en clave descriptiva e inmunizante: muestra como se discute de hecho para que sepamos defendernos, igual que el estudio de las falacias. Quienes la critican desde la tradicion socratica o desde la etica del discurso la leen en clave normativa y la encuentran inaceptable: legitima subordinar la verdad a la victoria. La teoria contemporanea de la argumentacion ocupa una posicion intermedia y productiva: Walton y Krabbe formalizan la eristica como un tipo de dialogo entre otros, y la pragma-dialectica de van Eemeren convierte las estratagemas en una tipologia de descarrilamientos util justamente para distinguir la maniobra legitima del abuso. La ambiguedad del propio texto (su caracter postumo, su tono entre sarcastico y analitico, la aparente autocensura de Schopenhauer) alimenta que ambas lecturas encuentren apoyo textual, y explica que el escrito siga usandose tanto como inventario de trampas a evitar cuanto como espejo incomodo de la vanidad que gobierna casi toda disputa real.",
+    "sources": [
+      {
+        "label": "Internet Encyclopedia of Philosophy: Arthur Schopenhauer: Logic and Dialectic",
+        "url": "https://iep.utm.edu/schopenhauer-logic-and-dialectic/"
+      },
+      {
+        "label": "Wikipedia: The Art of Being Right (historia textual, intencion y lecturas en disputa)",
+        "url": "https://en.wikipedia.org/wiki/The_Art_of_Being_Right"
+      },
+      {
+        "label": "Michel Dufour, Dialectic and Eristic, ISSA Proceedings 2014 (Rozenberg Quarterly)",
+        "url": "https://rozenbergquarterly.com/issa-proceedings-2014-dialectic-and-eristic/"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy: The Sophists (eristica, antilogia y demarcacion platonica)",
+        "url": "https://plato.stanford.edu/entries/sophists/"
+      },
+      {
+        "label": "Encyclopaedia Britannica: Political philosophy - Habermas (situacion ideal de habla y etica del discurso)",
+        "url": "https://www.britannica.com/topic/political-philosophy/Habermas"
+      }
+    ]
+  },
+  "socratic": "Pensemos juntos la etica de discutir. No voy a darte respuestas: te hago preguntas de a una, te pido razones, y cuando afirmes algo te voy a oponer la objecion mas fuerte que se me ocurra. Empezamos con esto: cuando salis de una discusion habiendo hecho callar al otro, que lograste exactamente, tener razon o ganar la discusion? Detenete en la diferencia antes de seguir. Si decis que son lo mismo, te pregunto: alguna vez ganaste un intercambio sosteniendo algo que despues resulto falso? Si te paso, entonces ganar y tener razon pueden separarse; cuando se separan, cual de los dos te importa de verdad, y por que? Ahora dame una razon concreta de por que la verdad deberia importar mas que la victoria en una conversacion; y antes de que la des, anticipa la objecion de Schopenhauer: la gente discute movida por vanidad, no por amor a la verdad, asi que pretender lo contrario seria ingenuo. Como le contestas? Pista: distingui como se discute de hecho de como deberiamos discutir; que una cosa sea frecuente la vuelve correcta? Avancemos un paso: imagina que conoces las treinta y ocho estratagemas. Hay una diferencia moral entre usarlas para atacar y reconocerlas para defenderte? Si afirmas que si, te objeto: la misma tecnica que te defiende hoy te tienta a atacar manana; donde trazas la linea, y que regla podrias darte a vos mismo que no dependa de tu buena voluntad del momento? Ultima vuelta, y aca quiero que te comprometas: si tuvieras que fijar una sola condicion que convierta una discusion en honesta, cual seria? Antes de responder, considera la propuesta de Habermas de que solo deberia pesar la fuerza del mejor argumento y ninguna coaccion; te parece suficiente esa condicion, o se puede manipular a alguien sin coaccionarlo, solo con argumentos selectivos? Defende tu condicion contra ese caso. Cuando la tengas, revisa hacia atras: la respuesta que diste al principio sobre tener razon frente a ganar, sigue en pie a la luz de lo que acabas de concluir, o la corregirias?"
+}

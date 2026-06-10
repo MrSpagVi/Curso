@@ -1,0 +1,6 @@
+# Despliegue del curso en Netlify.
+# El sitio estatico vive en web/ (generado por scratch/build_dashboard.py).
+# index.html es la portada; curso.html es la app (SPA con routing por hash,
+# no necesita redirects porque las rutas van en el fragmento #/etapa-N).
+[build]
+  publish = "web"

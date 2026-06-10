@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "El Capital, Libro I expone la teoria del valor-trabajo, la plusvalia como fuente del beneficio y el fetichismo de la mercancia, nucleo de la critica de Marx a la economia politica. El debate sigue vivo porque enfrenta dos preguntas no resueltas: si el valor se determina realmente por el tiempo de trabajo socialmente necesario y si la categoria de explotacion requiere esa teoria del valor o puede fundarse de otro modo. La discusion cruza economia, filosofia de la ciencia y teoria feminista.",
+    "supporters": [
+      {
+        "school": "Marxismo geografico-critico (David Harvey)",
+        "view": "Harvey sostiene que el Libro I conserva plena vigencia como diagnostico del capitalismo contemporaneo: la busqueda de plusvalia relativa explica la concentracion de riqueza y la desigualdad creciente. Su companion al Capital relee el texto como herramienta viva, no como pieza de museo."
+      },
+      {
+        "school": "Teoria de la acumulacion por desposesion (Harvey)",
+        "view": "A partir de la acumulacion originaria del Libro I, Harvey argumenta que la desposesion no es una fase pasada sino un mecanismo permanente con que el capital resuelve sus crisis de sobreacumulacion. La violencia fundacional descrita por Marx se actualiza en privatizaciones, despojo de tierras y financiarizacion."
+      },
+      {
+        "school": "Marxismo analitico (G. A. Cohen)",
+        "view": "Cohen defiende el materialismo historico y la categoria de explotacion con las herramientas de la filosofia analitica. Sostiene que el cargo de explotacion puede sostenerse mediante un argumento simple sobre lo que el trabajador produce, sin depender estrictamente de la teoria del valor-trabajo."
+      },
+      {
+        "school": "Economia marxista de la explotacion (John Roemer)",
+        "view": "Roemer reconstruye explotacion y clase con teoria de juegos y eleccion racional, mostrando que pueden surgir de las dotaciones desiguales y el intercambio de mercado. Preserva el contenido critico de Marx aun rechazando la necesidad logica de la teoria del valor-trabajo."
+      },
+      {
+        "school": "Feminismo de la reproduccion social (Silvia Federici)",
+        "view": "Federici considera el Libro I indispensable pero incompleto: el capitalismo depende de un inmenso trabajo reproductivo no pagado, sobre todo femenino, que Marx no tematizo. En Caliban y la bruja relee la acumulacion originaria mostrando la caza de brujas como mecanismo para confinar a las mujeres al trabajo reproductivo gratuito."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Marginalismo austriaco (Eugen von Bohm-Bawerk)",
+        "view": "Bohm-Bawerk denuncia una contradiccion entre el Libro I, donde las mercancias se intercambian segun el trabajo socialmente necesario, y el Libro III, donde lo hacen a precios de produccion. Para el esto delata el fracaso de la teoria del valor-trabajo; el valor se explica por la utilidad subjetiva y el rendimiento del capital no requiere postular explotacion."
+      },
+      {
+        "school": "El problema de la transformacion",
+        "view": "La conversion de valores-trabajo en precios de produccion capaces de igualar la tasa de ganancia entre ramas de distinta composicion organica resulta inconsistente en el planteo de Marx. La objecion sostiene que no existe solucion general que conserve a la vez las igualdades agregadas que Marx postulaba."
+      },
+      {
+        "school": "Neoricardianismo sraffiano (Piero Sraffa, Ian Steedman)",
+        "view": "Partiendo de Produccion de mercancias por medio de mercancias, Sraffa muestra que precios y tasa de ganancia pueden derivarse de las cantidades fisicas sin recurrir a los valores-trabajo. En Marx after Sraffa, Steedman concluye que la teoria del valor es un rodeo superfluo y a veces inconsistente."
+      },
+      {
+        "school": "Filosofia de la ciencia (Karl Popper)",
+        "view": "Popper acusa al marxismo de pasar de teoria cientifica a ideologia infalsable: ante refutaciones aparentes recurriria a hipotesis ad hoc que lo inmunizan contra todo test. En La sociedad abierta y sus enemigos liga esta falta de falsabilidad a las pretensiones historicistas de leyes inevitables del desarrollo."
+      },
+      {
+        "school": "Critica feminista al silencio sobre lo reproductivo",
+        "view": "Mas alla de defender el texto, esta corriente reprocha a Marx haber tomado como dada la reproduccion de la fuerza de trabajo, invisibilizando el trabajo domestico no pagado. Sin ese aporte, la teoria de la explotacion del Libro I queda truncada en su comprension de quien sostiene realmente al obrero asalariado."
+      }
+    ],
+    "contrasts": "El nucleo del desacuerdo no es si el capitalismo genera desigualdad y conflicto, algo que pocos niegan, sino si la teoria del valor-trabajo es el fundamento necesario para explicarlo. Marginalistas y neoricardianos sostienen que precios y ganancia se explican sin ella, mientras que Cohen y Roemer conservan la critica de la explotacion reformulandola sobre otras bases, y Harvey reivindica la potencia descriptiva del texto original. La objecion de Popper opera en otro plano, el epistemologico, y a su vez es contestada por quienes ven en Marx hipotesis si contrastables sobre crisis y tendencias. La critica feminista de Federici cruza ambos campos: acepta el armazon marxiano pero lo declara insuficiente sin el trabajo reproductivo. El resultado es un texto cuya vigencia politica rara vez se discute, aunque su andamiaje economico-formal permanezca abiertamente disputado.",
+    "sources": [
+      {
+        "label": "Karl Marx - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/marx/"
+      },
+      {
+        "label": "Analytical Marxism - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/marxism-analytical/"
+      },
+      {
+        "label": "Transformation problem - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Transformation_problem"
+      },
+      {
+        "label": "Popper: Philosophy of Science - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/pop-sci/"
+      },
+      {
+        "label": "Silvia Federici, Caliban and the Witch - Progress in Political Economy (U. de Sydney)",
+        "url": "https://www.ppesydney.net/silvia-federici-caliban-witch/"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre El Capital, Libro I, de Marx. No me des respuestas: hace preguntas, una por vez. Empeza preguntandome de donde sale la ganancia del capitalista y que es la plusvalia. Cuando afirme algo, pedime razones y opone objeciones reales (marginalismo: el valor es utilidad subjetiva; el problema de la transformacion; Federici: el trabajo reproductivo no pago; Popper: la falsabilidad). Si me trabo, dame una pista, no la respuesta."
+}

@@ -1,0 +1,65 @@
+{
+  "debate_deep": {
+    "intro": "Esta clase comenta a Rousseau, asi que el debate no es aqui si la voluntad general libera o esclaviza, sino como leer al autor: hay un solo Rousseau coherente o varios en tension. La dificultad es famosa: el mismo hombre escribio los Discursos y el Emilio, que exaltan al individuo natural, su sentimiento y su autonomia, y el Contrato social, que disuelve al particular en la comunidad politica. A esto se suma una obra autobiografica monumental (las Confesiones, las Ensonaciones) que invita a leer su pensamiento a la luz de su vida. De ahi nacieron escuelas interpretativas rivales: la kantiana de la autonomia, la democratico-republicana, la romantica de la autenticidad y la que busca la unidad sistemica de la obra, frente a objeciones que denuncian incoherencia, malentendidos sobre el estado de naturaleza y exclusiones de fondo.",
+    "supporters": [
+      {
+        "school": "Lectura kantiana de la autonomia (Ernst Cassirer)",
+        "view": "En El problema de Jean-Jacques Rousseau (1932), Cassirer rechaza la imagen del autor contradictorio y propone leerlo como un sistema coherente cuyo centro es la libertad moral. Rousseau no idealiza el primitivismo: pide al hombre recuperar su verdadera naturaleza cultivando sus capacidades mas altas. Cassirer sostiene que la diferencia con Kant es metodologica, no de fondo, y que Rousseau es el precursor directo de la autonomia kantiana, la idea de darse uno mismo la ley."
+      },
+      {
+        "school": "Lectura democratico-republicana (soberania popular y autolegislacion)",
+        "view": "Lee a Rousseau como teorico de la soberania popular y la autolegislacion: ceder el derecho a gobernarse uno mismo a otro hombre o cuerpo es una forma de esclavitud y una abdicacion de la agencia moral. La libertad civil consiste en obedecer leyes que uno se da en asamblea con los demas ciudadanos. En esta clave su obra es unitaria: critica de la dependencia personal en los Discursos y construccion de un orden republicano sin dependencia en el Contrato social."
+      },
+      {
+        "school": "Lectura romantica de la autenticidad (Charles Taylor)",
+        "view": "En Fuentes del yo, Taylor situa a Rousseau en el origen del ideal moderno de autenticidad: la verdad moral no se halla en la razon abstracta ni en la ley revelada, sino en la sintonia con el sentimiento interior y con una idea de naturaleza. Padre del giro expresivista que comparten Herder y Goethe, Rousseau funda la nocion de la voz interior y el yo profundo; sus Confesiones inauguran la introspeccion moderna. Lo unitario aqui es la primacia del sentimiento sobre el calculo ilustrado."
+      },
+      {
+        "school": "Lectura de la unidad sistemica (Jean Starobinski)",
+        "view": "En Jean-Jacques Rousseau: la transparencia y el obstaculo (1958), Starobinski busca el principio unico que recorre vida y obra: el anhelo de transparencia, de comunicacion plena y sin velos, frustrado una y otra vez por el obstaculo. Esa estructura conecta los Discursos, el Emilio, el Contrato social y la autobiografia, y permite leer la oscilacion entre individuo y comunidad como variaciones de una misma busqueda, no como contradicciones sueltas."
+      }
+    ],
+    "critics": [
+      {
+        "school": "La acusacion clasica de incoherencia",
+        "view": "La objecion mas antigua sostiene que Rousseau es irremediablemente inconsistente: el mismo que celebra al individuo solitario, libre y autosuficiente del estado de naturaleza exige luego la enajenacion total del individuo a la comunidad en el Contrato social. La tension entre el individualismo de los Discursos y el Emilio y el colectivismo politico lleva a muchos a negar que exista un sistema unico tras su obra; ya en su epoca se debatia si habia o no tal sistema."
+      },
+      {
+        "school": "El malentendido del buen salvaje",
+        "view": "Una linea critica advierte que la lectura popular de Rousseau es un error historico persistente: nunca uso la expresion buen salvaje y no idealizo el estado de naturaleza. El hombre natural del Discurso sobre la desigualdad es indolente, sin hogar, sin lenguaje ni lazos estables, y debe pelear con las fieras. Atribuirle una apologia del primitivismo distorsiona su tesis real, que es conjetural y critica, no nostalgica; gran parte de la disputa interpretativa nace de este malentendido."
+      },
+      {
+        "school": "Critica feminista (Mary Wollstonecraft, Susan Okin)",
+        "view": "Wollstonecraft, en la Vindicacion de los derechos de la mujer (1792), denuncia la educacion de Sofia en el Emilio: mientras a Emilio se lo forma para el razonamiento moral autonomo, a ella se la entrena para agradar y someterse. Las diferencias que Rousseau llama naturales son, dice, fabricadas por una educacion defectuosa. Okin retoma la objecion: esa subordinacion contradice los propios valores de libertad e igualdad del autor y revela que su universalismo descansa sobre la exclusion politica de la mujer."
+      },
+      {
+        "school": "La relacion entre la vida y la obra",
+        "view": "Una cuarta objecion problematiza el peso de la biografia. La obra autobiografica de Rousseau invita a interpretar su pensamiento desde su psicologia, sus rupturas y su persecucion; pero leer la teoria como sintoma personal puede empobrecerla o, al reves, blindarla de critica racional. El propio Starobinski muestra que la transparencia que busca Rousseau termina siendo un modo de verse solo a si mismo: queda abierto cuanto de su filosofia se explica por el sistema y cuanto por el hombre."
+      }
+    ],
+    "contrasts": "El desacuerdo de fondo no es politico sino hermeneutico: hay un Rousseau o muchos. Las escuelas que afirman su unidad lo hacen por vias distintas y no del todo compatibles entre si: Cassirer encuentra el centro en la autonomia moral, la lectura republicana en la autolegislacion del pueblo, Taylor en la autenticidad del sentimiento y Starobinski en la dialectica de transparencia y obstaculo. Frente a ellas, la acusacion de incoherencia niega que tal centro exista. Las otras objeciones operan en otro plano: el malentendido del buen salvaje muestra que parte de la disputa nace de leer mal el texto, la critica feminista revela una exclusion que ninguna lectura unificadora suele tematizar, y el debate vida/obra cuestiona el metodo mismo de interpretacion. El lector puede ensayar su propia hipotesis: elegir un hilo conductor y comprobar si tensa o rompe al pasar de los Discursos al Emilio y al Contrato social.",
+    "sources": [
+      {
+        "label": "C. Bertram, Jean Jacques Rousseau - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/rousseau/"
+      },
+      {
+        "label": "J. Delaney, Jean-Jacques Rousseau - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/rousseau/"
+      },
+      {
+        "label": "Authenticity - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/authenticity/"
+      },
+      {
+        "label": "Mary Wollstonecraft - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/wollstonecraft/"
+      },
+      {
+        "label": "Jean-Jacques Rousseau - Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Jean-Jacques-Rousseau"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre como interpretar a Rousseau. No me des respuestas: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Empeza preguntandome si creo que hay un solo Rousseau coherente o varios en tension. Cuando responda, pedime razones concretas: por ejemplo, como concilio al individuo natural y autosuficiente de los Discursos con la enajenacion del particular a la comunidad en el Contrato social. Segun lo que defienda, opone una objecion real: si afirmo unidad, recordame la acusacion clasica de incoherencia; si elijo a Cassirer y la autonomia, preguntame si eso no es leer a Rousseau ya desde Kant; si voy a la lectura romantica de Taylor, preguntame si el buen salvaje no es un malentendido del texto; si separo individuo y comunidad, traeme la critica feminista de Wollstonecraft y Okin sobre la educacion de Sofia. Si me trabo, dame una pista (un pasaje o una distincion), nunca la conclusion. Cerra empujandome a formular un solo hilo conductor y a probar si resiste al pasar de los Discursos al Emilio y al Contrato social."
+}

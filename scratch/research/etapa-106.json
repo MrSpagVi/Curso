@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "El metodo Harada parece un asunto inocente de productividad personal, pero descansa sobre uno de los debates mas activos de la psicologia aplicada: si fijarse metas explicitas, especificas y medibles mejora el rendimiento o lo deforma. De un lado esta la teoria del goal-setting de Locke y Latham, probablemente la teoria motivacional con mas respaldo empirico de la historia de la psicologia organizacional, y la tradicion japonesa del kaizen de la que Harada es heredero directo: metas claras, descomposicion en practicas, autoevaluacion y rutina. Del otro lado crecio en las ultimas dos decadas una reaccion con tres frentes: la escuela 'systems over goals' popularizada por James Clear y Scott Adams, que sostiene que los sistemas diarios importan mas que las metas; la literatura academica sobre los efectos perversos del goal-setting (vision de tunel, trampa, perdida de motivacion intrinseca), resumida en el famoso paper 'Goals Gone Wild'; y la critica cultural al self-help performativo, que ve en la optimizacion personal una forma de autoexplotacion. El debate sigue vivo porque toca un problema sin solucion limpia: toda medida de progreso puede convertirse en el objetivo mismo y dejar de medir lo que importaba. Para un autodidacta que va a autoevaluarse en una grilla durante mas de cien etapas, este no es un debate abstracto: es el riesgo concreto de su propio plan.",
+    "supporters": [
+      {
+        "school": "Edwin Locke y Gary Latham (goal-setting theory)",
+        "view": "Locke y Latham construyeron, a lo largo de mas de treinta y cinco años y cientos de estudios, la teoria de fijacion de metas: A Theory of Goal Setting and Task Performance (1990) y el balance 'Building a Practically Useful Theory of Goal Setting and Task Motivation' (American Psychologist, 2002). Su hallazgo central: las metas especificas y dificiles producen mejor rendimiento que las metas vagas tipo 'hace lo mejor que puedas', porque dirigen la atencion, movilizan esfuerzo, sostienen la persistencia y activan estrategias. Los moderadores clave son el compromiso con la meta, el feedback y la autoeficacia. El metodo Harada es casi una aplicacion de manual: meta unica con fecha, descomposicion en practicas verificables y autoevaluacion periodica como feedback. Frente a sus criticos, Locke y Latham respondieron punto por punto en 'Has Goal Setting Gone Wild?' (2009), defendiendo que los efectos perversos son casos de mal diseño, no fallas de la teoria."
+      },
+      {
+        "school": "La tradicion kaizen y el propio Takashi Harada",
+        "view": "Harada desarrollo su metodo entrenando atletas escolares en Osaka y luego lo llevo a la industria japonesa; lo sistematizo con Norman Bodek en The Harada Method: The Spirit of Self-Reliance (2012), donde se lo presenta como 'el lado humano del lean'. El metodo consta de cinco instrumentos: autoevaluacion, formulario de meta de largo plazo, la carta Open Window 64, la hoja de rutinas y el diario. Su concepto central es la autosuficiencia (jiritsu): la capacidad de fijarse una meta y sostener las rutinas sin supervision externa. La tradicion kaizen aporta el resto: mejora continua en incrementos pequeños, estandarizacion de la practica y honestidad brutal en la medicion. El caso de Shohei Ohtani, que a los 16 años uso la carta de 64 casillas para planificar su carrera, funciona como evidencia anecdotica pero potente de que la descomposicion estructurada de una meta enorme puede guiar una decada de trabajo."
+      },
+      {
+        "school": "Angela Duckworth y la psicologia del logro deliberado",
+        "view": "Duckworth, en Grit: The Power of Passion and Perseverance (2016), defiende una arquitectura de metas jerarquica casi identica a la de Harada: una meta superior de largo plazo que da sentido y coherencia a submetas intermedias y a practicas diarias. Su investigacion sobre el grit sostiene que la consistencia de intereses y la perseverancia predicen logro mejor que el talento medido. Conecta con el trabajo de Anders Ericsson sobre practica deliberada (Peak, 2016): la mejora real exige practicas especificas, feedback inmediato y esfuerzo en el borde de la propia capacidad, exactamente lo que la grilla de niveles del metodo Harada intenta operacionalizar. Para esta escuela, abandonar las metas en nombre de los sistemas es tirar el mapa porque el viaje es largo: sin un norte explicito, las rutinas se vuelven movimiento sin direccion."
+      }
+    ],
+    "critics": [
+      {
+        "school": "James Clear y la escuela 'systems over goals'",
+        "view": "Clear, en Atomic Habits (2018) y en su ensayo 'Forget About Setting Goals. Focus on This Instead', heredando el argumento de Scott Adams en How to Fail at Almost Everything and Still Win Big (2013), sostiene que las metas son casi irrelevantes para el resultado: ganadores y perdedores tienen las mismas metas, asi que la meta no puede ser lo que los distingue. Su formula: 'no subis al nivel de tus metas; caes al nivel de tus sistemas'. Las metas producen ademas dos patologias: el efecto yo-yo (alcanzada la meta, se abandona la practica) y la felicidad diferida ('voy a estar bien cuando logre X'). Su alternativa es la identidad: no 'quiero leer cien libros' sino 'soy alguien que lee todos los dias'. Notablemente, la rutina diaria que Harada exige es, en los terminos de Clear, un sistema: la disputa es sobre que pieza lleva el peso causal."
+      },
+      {
+        "school": "'Goals Gone Wild' y la ley de Goodhart",
+        "view": "Ordoñez, Schweitzer, Galinsky y Bazerman, en 'Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting' (Academy of Management Perspectives, 2009), documentan efectos sistematicos del goal-setting: vision de tunel que descuida todo lo no medido, preferencias de riesgo distorsionadas, aumento de conducta no etica para 'cumplir el numero', aprendizaje inhibido y erosion de la motivacion intrinseca. Su recomendacion: las metas son medicacion con receta, no vitaminas. El marco general es la ley de Goodhart, formulada por el economista Charles Goodhart (1975) y generalizada por la antropologa Marilyn Strathern en su estudio sobre auditoria universitaria (1997): cuando una medida se convierte en objetivo, deja de ser buena medida. Aplicado al plan Harada: si lo que optimizas es subir casillas de nivel en la grilla, la grilla deja de medir dominio real y empieza a medir tu habilidad para autoengañarte."
+      },
+      {
+        "school": "La critica cultural al self-help performativo",
+        "view": "Byung-Chul Han, en La sociedad del cansancio (2010), describe al 'sujeto de rendimiento' contemporaneo: ya no lo disciplina un amo externo, se explota a si mismo voluntariamente en nombre de la optimizacion, y por eso se agota y deprime. Desde esta optica, una grilla de autoevaluacion con 'honestidad brutal' es la interiorizacion perfecta del capataz. Oliver Burkeman, en The Antidote (2012) y Four Thousand Weeks (2021), ataca el culto a la productividad desde la finitud: la fantasia de 'dominar' un campo entero con un plan total niega que la vida no alcanza para todo, y la fijacion obsesiva en metas roba el presente. Micki McGee, en Self-Help, Inc. (2005), añade la critica sociologica: la industria de la mejora personal traslada al individuo problemas que son estructurales, produciendo un 'yo trabajado' (belabored self) que nunca termina de arreglarse."
+      }
+    ],
+    "contrasts": "Lo que esta en juego es si la estructura motiva o deforma. Locke, Latham, Duckworth y la tradicion Harada apuestan a que una meta explicita con feedback honesto dirige el esfuerzo y evita el abandono; Clear responde que el peso causal esta en el sistema diario y la identidad; Ordoñez y la ley de Goodhart advierten que toda metrica autoadministrada termina midiendose a si misma; Han y Burkeman preguntan por el costo subjetivo de vivir en optimizacion permanente. La ironia es que el metodo Harada ya contiene media respuesta a sus criticos: sus rutinas diarias son sistemas a la Clear, y su regla de 'evaluar a la baja' intenta blindar la grilla contra Goodhart. La pregunta que queda abierta es si la autoevaluacion honesta es psicologicamente sostenible sin un evaluador externo, o si toda grilla privada degenera en teatro para uno mismo.",
+    "sources": [
+      {
+        "label": "Locke y Latham, Building a Practically Useful Theory of Goal Setting and Task Motivation (American Psychologist, 2002 - ficha ERIC)",
+        "url": "https://eric.ed.gov/?id=EJ654871"
+      },
+      {
+        "label": "James Clear, Forget About Setting Goals. Focus on This Instead",
+        "url": "https://jamesclear.com/goals-systems"
+      },
+      {
+        "label": "Ordoñez, Schweitzer, Galinsky y Bazerman, Goals Gone Wild (Academy of Management Perspectives, 2009)",
+        "url": "https://journals.aom.org/doi/10.5465/amp.2009.37007999"
+      },
+      {
+        "label": "Harada y Bodek, The Harada Method: The Spirit of Self-Reliance (2012)",
+        "url": "https://www.amazon.com/Harada-Method-Spirit-Self-Reliance/dp/0984556591"
+      },
+      {
+        "label": "Goodhart's law (Wikipedia, con referencias a Goodhart 1975 y Strathern 1997)",
+        "url": "https://en.wikipedia.org/wiki/Goodhart%27s_law"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre el metodo Harada y la fijacion de metas. No me des respuestas, resumenes ni consejos: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cada vez que yo afirme algo, pedime razones y un ejemplo de mi propia practica. Presenta objeciones reales y nombradas del debate: la escuela 'systems over goals' de James Clear y Scott Adams, los efectos perversos documentados en 'Goals Gone Wild' de Ordoñez y colegas, la ley de Goodhart sobre medidas que se vuelven objetivos, y la critica de Byung-Chul Han al sujeto de rendimiento que se autoexplota. Si me trabo, dame una pista en forma de pregunta mas concreta. Empeza con esta pregunta: si tu autoevaluacion en la grilla se convierte en tu meta, como sabes que seguis midiendo dominio real y no tu habilidad para llenar casillas?"
+}

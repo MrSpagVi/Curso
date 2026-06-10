@@ -1,13 +1,13 @@
 ---
-title: "Etapa 88 — Mbembe — Necropolítica"
+title: "Etapa 73 — Mbembe — Necropolítica"
 ---
 
-# Etapa 88 — Mbembe — Necropolítica (ensayo)
+# Etapa 73 — Mbembe — Necropolítica (ensayo)
 
 > La contraparte decolonial de Mearsheimer y la culminación de la cadena Schmitt-Foucault-Agamben. En el sur global, el poder no gestiona vida — administra muerte, abandono y desechabilidad.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 88/103</span> · <span>:material-bookmark: Ensayo</span>
+<span>:material-clock-outline: 8-10 h</span> · <span>:material-progress-check: Etapa 73/103</span> · <span>:material-bookmark: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">

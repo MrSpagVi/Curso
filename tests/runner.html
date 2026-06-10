@@ -1,0 +1,1644 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>E2E Test Runner - Curso de Ciencia Política</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 20px;
+      background: #f4f6f8;
+      color: #333;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .header {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
+    }
+    .summary-box {
+      font-size: 1.2rem;
+      margin-top: 10px;
+      padding: 10px;
+      border-radius: 4px;
+      background: #eef2f7;
+    }
+    .results-table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
+    }
+    .results-table th, .results-table td {
+      padding: 12px 15px;
+      text-align: left;
+      border-bottom: 1px solid #eee;
+    }
+    .results-table th {
+      background: #3f51b5;
+      color: #fff;
+    }
+    .status-passed {
+      color: #2e7d32;
+      font-weight: bold;
+    }
+    .status-failed {
+      color: #c62828;
+      font-weight: bold;
+    }
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>E2E Test Suite Runner</h1>
+      <div id="summary" class="summary-box">Iniciando pruebas...</div>
+    </div>
+    
+    <table class="results-table">
+      <thead>
+        <tr>
+          <th style="width: 50px;">#</th>
+          <th style="width: 350px;">Nombre de la Prueba</th>
+          <th style="width: 100px;">Estado</th>
+          <th style="width: 120px;">Duración</th>
+          <th>Detalle de la Falla</th>
+        </tr>
+      </thead>
+      <tbody id="results-body">
+        <!-- Los resultados se llenarán dinámicamente -->
+      </tbody>
+    </table>
+    
+    <h2>Vista previa del Dashboard</h2>
+    <iframe id="dashboard-iframe" src="../web/curso.html"></iframe>
+  </div>
+
+  <script>
+    // Utilidades del Test Runner
+    const delay = ms => new Promise(r => setTimeout(r, ms));
+
+    function getDoc() {
+      const iframe = document.getElementById('dashboard-iframe');
+      if (!iframe) throw new Error("El elemento iframe no existe en runner.html");
+      const doc = iframe.contentDocument || iframe.contentWindow.document;
+      if (!doc) throw new Error("No se puede acceder al document del iframe");
+      return doc;
+    }
+
+    function getWin() {
+      const iframe = document.getElementById('dashboard-iframe');
+      if (!iframe) throw new Error("El elemento iframe no existe en runner.html");
+      const win = iframe.contentWindow;
+      if (!win) throw new Error("No se puede acceder al window del iframe");
+      return win;
+    }
+
+    // Validador obligatorio de selectores
+    function checkSelector(doc, selector, friendlyName) {
+      const el = doc.querySelector(selector);
+      if (!el) {
+        throw new Error(`Selector ausente: '${friendlyName}' (esperado '${selector}') no se encuentra en el DOM.`);
+      }
+      return el;
+    }
+
+    // Definición de las 74 pruebas unitarias
+    const tests = [
+      // ==========================================
+      // TIER 1: FEATURE COVERAGE (30 Tests)
+      // ==========================================
+      {
+        name: "F1-T1: Selector UI Visibility",
+        fn: async (doc, win) => {
+          checkSelector(doc, '#track-selector', 'Track Selector');
+        }
+      },
+      {
+        name: "F1-T2: Simple Track Sidebar Filter",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          const stages = doc.querySelectorAll('.stage-nav-item');
+          // Esperado derivado de los datos (arquitectura flexible, no hardcodeado)
+          const expected = win.COURSE_DATA.filter(s => (s.tracks || []).includes('simple')).length;
+          if (stages.length !== expected) {
+            throw new Error(`Se esperaban ${expected} etapas para el Simple Track, se encontraron ${stages.length}`);
+          }
+        }
+      },
+      {
+        name: "F1-T3: Simple Track Stage Indices",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          const stages = Array.from(doc.querySelectorAll('.stage-nav-item'));
+          const expected = win.COURSE_DATA.filter(s => (s.tracks || []).includes('simple')).map(s => s.stage);
+          const indices = stages.map(el => parseInt(el.textContent));
+          for (let idx of expected) {
+            if (!indices.includes(idx)) {
+              throw new Error(`Falta etapa esperada ${idx} en el Simple Track`);
+            }
+          }
+          if (indices.length !== expected.length) {
+            throw new Error(`Se esperaban ${expected.length} etapas, se encontraron ${indices.length}`);
+          }
+        }
+      },
+      {
+        name: "F1-T4: Intermediate Track Sidebar Filter",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'intermediate';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          const stages = doc.querySelectorAll('.stage-nav-item');
+          const expected = win.COURSE_DATA.filter(s => (s.tracks || []).includes('intermediate')).length;
+          if (stages.length !== expected) {
+            throw new Error(`Se esperaban ${expected} etapas para el Intermediate Track, se encontraron ${stages.length}`);
+          }
+        }
+      },
+      {
+        name: "F1-T5: Intermediate Track Stage Indices",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'intermediate';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          const stages = Array.from(doc.querySelectorAll('.stage-nav-item'));
+          const expected = win.COURSE_DATA.filter(s => (s.tracks || []).includes('intermediate')).map(s => s.stage);
+          const indices = stages.map(el => parseInt(el.textContent));
+          for (let idx of expected) {
+            if (!indices.includes(idx)) {
+              throw new Error(`Falta etapa esperada ${idx} en el Intermediate Track`);
+            }
+          }
+          if (indices.length !== expected.length) {
+            throw new Error(`Se esperaban ${expected.length} etapas, se encontraron ${indices.length}`);
+          }
+        }
+      },
+      {
+        name: "F1-T6: Advanced Track Sidebar Filter",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'advanced';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          const stages = doc.querySelectorAll('.stage-nav-item');
+          if (stages.length < 103) {
+            throw new Error(`Se esperaban al menos 103 etapas para el Advanced Track, se encontraron ${stages.length}`);
+          }
+        }
+      },
+      {
+        name: "F1-T7: Global Progress Updates",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          win.selectStage(1);
+          await delay(50);
+          
+          const checkbox = doc.querySelector('#check-1-0');
+          if (checkbox) {
+             checkbox.click();
+             await delay(50);
+          }
+          
+          const progressText = doc.getElementById('global-pct-text').textContent;
+          if (!progressText.includes('%')) {
+             throw new Error("El texto del progreso global no incluye '%'");
+          }
+        }
+      },
+      {
+        name: "F1-T8: Zero Emoji Audit",
+        fn: async (doc, win) => {
+          const text = doc.body.innerText || "";
+          const emojiRegex = /[\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2600-\u26FF]|\uD83E[\uDD10-\uDDFF]/g;
+          if (emojiRegex.test(text)) {
+            throw new Error("Se detectaron emojis en la interfaz pública.");
+          }
+        }
+      },
+      {
+        name: "F1-T9: High Legibility Dark Mode Contrast",
+        fn: async (doc, win) => {
+          const body = doc.body;
+          body.setAttribute('data-theme', 'dark');
+          await delay(50);
+          
+          const stageItem = doc.querySelector('.stage-nav-item');
+          if (stageItem) {
+             const style = win.getComputedStyle(stageItem);
+             if (style.color === 'rgb(0, 0, 255)') {
+                throw new Error("Se detectó texto azul de bajo contraste en modo oscuro");
+             }
+          }
+        }
+      },
+      {
+        name: "F2-T10: Growth Section Presence",
+        fn: async (doc, win) => {
+          checkSelector(doc, '.growth-application-section', 'Growth Application Section');
+        }
+      },
+      {
+        name: "F2-T11: Machiavelli Concept Linking",
+        fn: async (doc, win) => {
+          win.selectStage(9);
+          await delay(50);
+          const growth = checkSelector(doc, '.growth-application-section', 'Growth Application Section');
+          if (!growth.textContent.toLowerCase().includes('maquiavelo') && !growth.textContent.toLowerCase().includes('machiavelli')) {
+             throw new Error("El crecimiento práctico de Maquiavelo debería hacer referencia a sus conceptos clave");
+          }
+        }
+      },
+      {
+        name: "F2-T12: Hobbes Concept Linking",
+        fn: async (doc, win) => {
+          win.selectStage(11);
+          await delay(50);
+          const growth = checkSelector(doc, '.growth-application-section', 'Growth Application Section');
+          if (!growth.textContent.toLowerCase().includes('hobbes')) {
+             throw new Error("El crecimiento de Hobbes debería referenciar al soberano/contrato");
+          }
+        }
+      },
+      {
+        name: "F2-T13: Rawls Concept Linking",
+        fn: async (doc, win) => {
+          win.selectStage(34);
+          await delay(50);
+          const growth = checkSelector(doc, '.growth-application-section', 'Growth Application Section');
+          if (!growth.textContent.toLowerCase().includes('rawls')) {
+             throw new Error("El crecimiento de Rawls debería referenciar al velo de ignorancia o justicia");
+          }
+        }
+      },
+      {
+        name: "F3-T14: Mindmap Rendering on Landing",
+        fn: async (doc, win) => {
+          win.renderWelcomePage();
+          await delay(50);
+          checkSelector(doc, '#syllabus-mindmap svg', 'Syllabus Mindmap SVG');
+        }
+      },
+      {
+        name: "F3-T15: Simple Track Node Highlighting",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          const simpleStages = [1, 2, 3, 5, 7, 8, 9, 11, 13, 15, 17, 23, 26, 30, 32, 34, 35, 41, 45, 48, 49, 53, 59, 66, 69];
+          
+          for (let i = 1; i <= 103; i++) {
+            const node = doc.querySelector(`.node[data-stage="${i}"]`);
+            if (node) {
+              const style = node.getAttribute('style') || '';
+              const isSimple = simpleStages.includes(i);
+              if (isSimple && !style.includes('opacity: 1')) {
+                throw new Error(`Etapa ${i} (Simple) debería estar iluminada en el mapa mental`);
+              }
+              if (!isSimple && !style.includes('opacity: 0.2')) {
+                throw new Error(`Etapa ${i} (no Simple) debería estar atenuada (opacity: 0.2) en el mapa mental`);
+              }
+            }
+          }
+        }
+      },
+      {
+        name: "F3-T16: SVG Edge Highlighting",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          const simpleStages = win.COURSE_DATA.filter(s => (s.tracks || []).includes('simple')).map(s => s.stage);
+          const edges = doc.querySelectorAll('.edge');
+          if (edges.length === 0) {
+             throw new Error("No se encontraron enlaces en el mapa mental");
+          }
+          
+          edges.forEach(edge => {
+             const from = parseInt(edge.getAttribute('data-from'));
+             const to = parseInt(edge.getAttribute('data-to'));
+             const isFromActive = simpleStages.includes(from);
+             const isToActive = simpleStages.includes(to);
+             const expectedActive = isFromActive && isToActive;
+             
+             const opacity = edge.getAttribute('opacity');
+             if (expectedActive && opacity !== '0.7') {
+                throw new Error(`Enlace ${from}->${to} debería estar iluminado (opacity: 0.7), se encontró ${opacity}`);
+             }
+             if (!expectedActive && opacity !== '0.15') {
+                throw new Error(`Enlace ${from}->${to} debería estar atenuado (opacity: 0.15), se encontró ${opacity}`);
+             }
+          });
+        }
+      },
+      {
+        name: "F3-T17: Inactive Node Greying Out",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          const node = doc.querySelector('.node[data-stage="4"]');
+          if (node) {
+             const style = node.getAttribute('style') || '';
+             if (!style.includes('opacity: 0.2')) {
+                throw new Error("Los nodos inactivos de la ruta deberían atenuarse con opacidad 0.2");
+             }
+          }
+        }
+      },
+      {
+        name: "F3-T18: Zoom Into Phase Wave Sequence",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+          
+          const container = doc.getElementById('mindmap-zoom-container');
+          if (container && !container.style.transform.includes('scale')) {
+             throw new Error("No se aplicó zoom al seleccionar una etapa");
+          }
+        }
+      },
+      {
+        name: "F3-T19: Stage Connection Halo Protection",
+        fn: async (doc, win) => {
+          const halos = doc.querySelectorAll('.node-halo');
+          if (halos.length === 0) {
+             throw new Error("No se encontraron círculos de protección de halo");
+          }
+          halos.forEach(h => {
+             if (h.getAttribute('fill') !== 'var(--bg-workspace)') {
+                throw new Error("El halo debería adaptarse al fondo del workspace usando var(--bg-workspace)");
+             }
+          });
+        }
+      },
+      {
+        name: "F4-T20: Socratic Widget Appended",
+        fn: async (doc, win) => {
+          win.selectPhase(0);
+          await delay(50);
+          checkSelector(doc, '.socratic-assessment-widget', 'Socratic Assessment Widget');
+        }
+      },
+      {
+        name: "F4-T21: Socratic Card Flip",
+        fn: async (doc, win) => {
+          win.selectPhase(0);
+          await delay(50);
+          
+          const inner = doc.getElementById('quiz-card-inner-0');
+          if (!inner) throw new Error("No se encontró la tarjeta interna del quiz");
+          
+          win.flipQuizCard(0);
+          await delay(50);
+          
+          if (!inner.classList.contains('flipped')) {
+             throw new Error("Al rotar la tarjeta socrática no se le aplicó la clase 'flipped'");
+          }
+        }
+      },
+      {
+        name: "F4-T22: Block Phase Completion",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.renderNavigation();
+          await delay(50);
+          
+          const isPassed = win.getPhaseQuizStatus(0);
+          if (isPassed) {
+             throw new Error("La fase 0 debería estar sin aprobar al inicio");
+          }
+        }
+      },
+      {
+        name: "F4-T23: Enable Phase Completion",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.selectPhase(0);
+          await delay(50);
+          
+          // Responder correctamente a las 2 preguntas de la fase 0
+          for (let i = 0; i < 2; i++) {
+             win.answerQuiz(0, true);
+             await delay(20);
+          }
+          
+          const isPassed = win.getPhaseQuizStatus(0);
+          if (!isPassed) {
+             throw new Error("La fase 0 debería marcarse como aprobada tras responder todas las preguntas correctamente");
+          }
+        }
+      },
+      {
+        name: "F5-T24: Segmented localStorage Key Check",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          win.selectStage(1);
+          await delay(50);
+          
+          const checkbox = doc.querySelector('#check-1-0');
+          if (!checkbox) throw new Error("No se encontró el checkbox de la etapa 1 tarea 0");
+          checkbox.click();
+          await delay(50);
+          
+          let foundSegmentedKey = false;
+          for (let i = 0; i < win.localStorage.length; i++) {
+            const key = win.localStorage.key(i);
+            if (key.includes('simple') && key.includes('stage-1')) {
+              foundSegmentedKey = true;
+            }
+          }
+          if (!foundSegmentedKey) {
+            throw new Error(`Se esperaba una llave segmentada por ruta (por ejemplo, con prefijo 'simple'), pero las llaves encontradas fueron: ${JSON.stringify(Object.keys(win.localStorage))}`);
+          }
+        }
+      },
+      {
+        name: "F5-T25: Non-Conflict of Track Progress",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          let sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          win.selectStage(1);
+          await delay(50);
+          const checkbox = doc.querySelector('#check-1-0');
+          if (!checkbox) throw new Error("No se encontró el checkbox de la etapa 1 tarea 0");
+          if (!checkbox.checked) checkbox.click();
+          await delay(50);
+          
+          sel.value = 'advanced';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          win.selectStage(1);
+          await delay(50);
+          const checkboxAdv = doc.querySelector('#check-1-0');
+          if (checkboxAdv && checkboxAdv.checked) {
+            throw new Error("Conflicto de progreso detectado: completar tarea en Simple la completó también en Advanced");
+          }
+        }
+      },
+      {
+        name: "REQ1-T26: Expanded Syllabus Audit",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'advanced';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          const stages = doc.querySelectorAll('.stage-nav-item');
+          if (stages.length < 103) {
+             throw new Error(`Syllabus incompleto: se encontraron ${stages.length} etapas en el track Advanced`);
+          }
+        }
+      },
+      {
+        name: "REQ2-T27: Debates Section Presence",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+          checkSelector(doc, '.debates-contrasts-section', 'Debates Section');
+        }
+      },
+      {
+        name: "REQ3-T28: Socratic Prompt Block Presence",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+          checkSelector(doc, '.socratic-prompt-block', 'Bloque de Prompt Socratico');
+        }
+      },
+      {
+        name: "REQ3-T29: Socratic Prompt Content + Copy",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+          const promptEl = doc.getElementById('socratic-prompt-1');
+          if (!promptEl) throw new Error("REQ3-T29: no se encontro el texto del prompt socratico");
+          if (!promptEl.textContent.trim()) throw new Error("REQ3-T29: el prompt socratico esta vacio");
+          const hasEmoji = Array.from(promptEl.textContent).some(function(ch){ var c = ch.codePointAt(0); return (c>=0x1F000 && c<=0x1FAFF) || (c>=0x2600 && c<=0x27BF); });
+          if (hasEmoji) throw new Error("REQ3-T29: el prompt no deberia contener emojis");
+          const copyBtn = doc.querySelector('.socratic-prompt-block button');
+          if (!copyBtn) throw new Error("REQ3-T29: falta el boton para copiar el prompt");
+        }
+      },
+      {
+        name: "REQ3-T30: Socratic Prompt Is Maieutic",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+          const promptEl = doc.getElementById('socratic-prompt-1');
+          if (!promptEl) throw new Error("REQ3-T30: no se encontro el prompt socratico");
+          if (!promptEl.textContent.toLowerCase().includes('pregunt')) {
+            throw new Error("REQ3-T30: el prompt socratico deberia instruir a formular preguntas");
+          }
+        }
+      },
+
+      // ==========================================
+      // TIER 2: BOUNDARY & CORNER CASES (28 Tests)
+      // ==========================================
+      {
+        name: "BC-F1-1: Null Active Track Fallback",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.init();
+          await delay(50);
+          const sel = doc.getElementById('track-selector');
+          if (sel.value !== 'advanced') {
+             throw new Error("El track por defecto seleccionado en el UI debería ser 'advanced'");
+          }
+        }
+      },
+      {
+        name: "BC-F1-2: Rapid Track Toggle Stability",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          for (let i = 0; i < 5; i++) {
+             sel.value = i % 2 === 0 ? 'simple' : 'advanced';
+             sel.dispatchEvent(new Event('change'));
+          }
+        }
+      },
+      {
+        name: "BC-F1-3: Sidebar Scroll Position Retention",
+        fn: async (doc, win) => {
+          const scroller = doc.getElementById('nav-scroller');
+          if (!scroller) throw new Error("No se encontró el scroller de navegación");
+          scroller.scrollTop = 100;
+          win.renderNavigation();
+          await delay(20);
+          if (scroller.scrollTop !== 100) {
+            throw new Error(`Se esperaba mantener la posición del scroll en 100, se restableció a ${scroller.scrollTop}`);
+          }
+        }
+      },
+      {
+        name: "BC-F1-4: Phase Empty State",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+
+          // Derivar de los datos una fase sin etapas en la ruta simple (data-driven,
+          // sobrevive a renumeraciones de fases).
+          const simpleSet = new Set(win.COURSE_DATA.filter(s => (s.tracks || []).includes('simple')).map(s => s.stage));
+          const allPhases = [...new Set(win.COURSE_DATA.map(s => s.phase_index))];
+          const emptyPhase = allPhases.find(p => !win.COURSE_DATA.some(s => s.phase_index === p && simpleSet.has(s.stage)));
+          if (emptyPhase === undefined) throw new Error("No hay ninguna fase vacía en la ruta simple para testear");
+
+          win.selectPhase(emptyPhase);
+          await delay(50);
+
+          const panel = doc.getElementById('workspace-panel');
+          if (!panel.textContent.includes('No hay lecturas disponibles')) {
+             throw new Error("Fase vacía no muestra mensaje de estado vacío esperado");
+          }
+        }
+      },
+      {
+        name: "BC-F1-5: Extreme Width Layout",
+        fn: async (doc, win) => {
+          const container = doc.querySelector('.app-container') || doc.body;
+          if (!container) throw new Error("No se encontró el contenedor principal de la aplicación");
+          const rect = container.getBoundingClientRect();
+          if (rect.width === 0 || rect.height === 0) {
+            throw new Error("El contenedor principal colapsó con dimensiones cero");
+          }
+        }
+      },
+      {
+        name: "BC-F2-6: Missing Growth Content Fallback",
+        fn: async (doc, win) => {
+          win.selectStage(1); // Setup stage (no custom guide)
+          await delay(50);
+          const growth = checkSelector(doc, '.growth-application-section', 'Growth Application Section');
+          if (!growth.textContent.includes('Setup') && !growth.textContent.includes('sistema de notas')) {
+            throw new Error("El fallback de crecimiento no se generó usando el título de la etapa");
+          }
+          if (growth.textContent.includes('Hobbes') || growth.textContent.includes('Leviatán')) {
+            throw new Error("El fallback de crecimiento contiene texto de Hobbes o Leviatán de manera errónea");
+          }
+        }
+      },
+      {
+        name: "BC-F2-7: Concept Link Navigation",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+          const link = doc.querySelector('.concept-link');
+          if (!link) throw new Error("BC-F2-7: la sección de crecimiento no tiene enlaces conceptuales relacionados");
+          const m = (link.getAttribute('onclick') || '').match(/selectStage\((\d+)\)/);
+          if (!m) throw new Error("BC-F2-7: el enlace conceptual no apunta a una etapa via selectStage");
+          const target = m[1];
+          link.click();
+          await delay(50);
+          const badgeText = doc.querySelector('.hero-num-badge')?.textContent || '';
+          if (!badgeText.includes('Etapa ' + target)) {
+            throw new Error("BC-F2-7: hacer clic en el enlace conceptual no navegó a la etapa " + target);
+          }
+        }
+      },
+      {
+        name: "BC-F2-8: XSS Prevention",
+        fn: async (doc, win) => {
+          const unsafe = win.COURSE_DATA.some(d => d.growth_html.includes('<script') || d.debates_html.includes('<script'));
+          if (unsafe) {
+            throw new Error("Se detectaron scripts inyectados en la base de datos de cursos");
+          }
+        }
+      },
+      {
+        name: "BC-F3-9: SVG Bounding Box Scale",
+        fn: async (doc, win) => {
+          const svg = checkSelector(doc, '#syllabus-mindmap svg', 'Syllabus Mindmap SVG');
+          const box = svg.getBoundingClientRect();
+          if (box.width === 0 || box.height === 0) {
+            throw new Error("El SVG del mapa mental tiene dimensiones colapsadas a cero");
+          }
+        }
+      },
+      {
+        name: "BC-F3-10: Locked Phase Node Zoom",
+        fn: async (doc, win) => {
+          win.renderWelcomePage();
+          await delay(50);
+          const container = doc.getElementById('mindmap-zoom-container');
+          if (!container) throw new Error("BC-F3-10: no existe el contenedor de zoom del mapa mental en la página de bienvenida");
+          win.zoomToNode(4);
+          await delay(50);
+          if (!container.style.transform.includes('scale')) {
+            throw new Error("BC-F3-10: zoomToNode no aplicó una transformación de escala al mapa mental");
+          }
+        }
+      },
+      {
+        name: "BC-F3-11: Halo Color Adaptation",
+        fn: async (doc, win) => {
+          const halos = doc.querySelectorAll('.node-halo');
+          if (halos.length === 0) throw new Error("No se encontraron halos en el mapa mental");
+          halos.forEach(h => {
+            const fill = h.getAttribute('fill');
+            if (fill !== 'var(--bg-workspace)' && fill !== '#1e1e2e' && fill !== '#ffffff') {
+              throw new Error(`El halo tiene un color estático incorrecto: ${fill}`);
+            }
+          });
+        }
+      },
+      {
+        name: "BC-F3-12: High Node Count Wave Layout",
+        fn: async (doc, win) => {
+          win.renderWelcomePage();
+          await delay(50);
+          // Los nodos posicionados reales son los circulos .node-core dentro de cada grupo .node.
+          const cores = doc.querySelectorAll('.node-core');
+          if (cores.length === 0) throw new Error("No se encontraron nodos en el mapa mental");
+          cores.forEach(core => {
+            const cx = parseFloat(core.getAttribute('cx'));
+            const cy = parseFloat(core.getAttribute('cy'));
+            if (isNaN(cx) || isNaN(cy)) {
+              throw new Error("Posición inválida (NaN) encontrada en el mapa mental");
+            }
+          });
+        }
+      },
+      {
+        name: "BC-F4-13: Part-Completed Phase Saving",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.selectPhase(0);
+          await delay(50);
+          
+          win.answerQuiz(0, true);
+          await delay(50);
+          
+          const key = 'socratic-quiz-phase-0';
+          const saved = JSON.parse(win.localStorage.getItem(key) || '{}');
+          if (saved.correctCount !== 1) {
+             throw new Error("Progreso parcial de la fase no guardado en localStorage");
+          }
+        }
+      },
+      {
+        name: "BC-F4-14: Quiz Session Recovery",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.localStorage.setItem('socratic-quiz-phase-0', JSON.stringify({ currentQuestionIdx: 1, correctCount: 1, passed: false, failed: false }));
+          
+          win.selectPhase(0);
+          await delay(50);
+          
+          const cardText = doc.getElementById('socratic-quiz-container').textContent;
+          if (!cardText.includes('Pregunta 2 de 2')) {
+             throw new Error("El estado de la sesión de quiz no se recuperó correctamente");
+          }
+        }
+      },
+      {
+        name: "BC-F4-15: Quiz Fail State Actions",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.selectPhase(0);
+          await delay(50);
+          
+          win.answerQuiz(0, false);
+          await delay(50);
+          
+          const isPassed = win.getPhaseQuizStatus(0);
+          if (isPassed) {
+             throw new Error("La fase no debería estar aprobada si falló el quiz");
+          }
+          
+          const quizContainer = doc.getElementById('socratic-quiz-container');
+          if (!quizContainer || !quizContainer.innerHTML.includes('Examen No Superado')) {
+             throw new Error("El contenedor del quiz debería mostrar el estado de examen fallido");
+          }
+        }
+      },
+      {
+        name: "BC-F4-16: Empty Quiz Phase Unlock",
+        fn: async (doc, win) => {
+          // Una fase inexistente no tiene preguntas: debe quedar desbloqueada (lo
+          // testeado es "quiz vacío = aprobado", no un índice de fase fijo).
+          const status = win.getPhaseQuizStatus(99);
+          if (status !== true) {
+             throw new Error("Las fases sin preguntas en el quiz socrático deberían considerarse aprobadas automáticamente");
+          }
+        }
+      },
+      {
+        name: "BC-F4-17: Rapid Card Flipping",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.selectPhase(0);
+          await delay(50);
+          const inner = doc.getElementById('quiz-card-inner-0');
+          if (!inner) throw new Error("No se encontró quiz-card-inner-0");
+          win.flipQuizCard(0);
+          win.flipQuizCard(0);
+          win.flipQuizCard(0);
+          await delay(50);
+        }
+      },
+      {
+        name: "BC-F5-18: Corrupt Backup JSON Import",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.localStorage.setItem('stage-1-task-0', 'true');
+          
+          const textarea = doc.getElementById('backup-textarea');
+          if (textarea) {
+            textarea.value = "invalid json {";
+            win.importData();
+            await delay(50);
+            
+            const errorEl = doc.getElementById('backup-error');
+            if (errorEl.style.display !== 'block') {
+               throw new Error("Debería mostrarse error al importar JSON inválido");
+            }
+            if (win.localStorage.getItem('stage-1-task-0') !== 'true') {
+               throw new Error("localStorage no debería modificarse ante error de importación");
+            }
+          }
+        }
+      },
+      {
+        name: "BC-F5-19: Empty LocalStorage Export",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.exportData();
+          const textarea = doc.getElementById('backup-textarea');
+          if (textarea.value.trim() !== '{}') {
+             throw new Error(`Se esperaba exportación vacía '{}' pero se obtuvo: ${textarea.value}`);
+          }
+        }
+      },
+      {
+        name: "BC-F5-20: Missing Track Data Preservation",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          win.localStorage.setItem('advanced-stage-2-task-0', 'true');
+          
+          win.openBackupModal();
+          await delay(50);
+          
+          const textarea = doc.getElementById('backup-textarea');
+          textarea.value = JSON.stringify({
+             "active-track": "simple",
+             "simple-stage-1-task-0": "true"
+          });
+          
+          win.importData();
+          await delay(50);
+          
+          const advVal = win.localStorage.getItem('advanced-stage-2-task-0');
+          if (advVal !== 'true') {
+             throw new Error("Restaurar progreso de Simple borró o alteró el progreso de Advanced");
+          }
+        }
+      },
+      {
+        name: "BC-F5-21: Large Storage Size Processing",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          // exportData solo captura claves de progreso (stage-/active-track/socratic-/phase-).
+          for (let i = 0; i < 50; i++) {
+            win.localStorage.setItem(`advanced-stage-${i}-task-0`, "A".repeat(100));
+          }
+          win.exportData();
+          const textarea = doc.getElementById('backup-textarea');
+          if (!textarea || textarea.value.length < 5000) {
+            throw new Error("El procesamiento de almacenamiento grande no se exportó correctamente");
+          }
+          win.localStorage.clear();
+        }
+      },
+      {
+        name: "BC-F5-22: Modal Close via Escape Key",
+        fn: async (doc, win) => {
+          win.openBackupModal();
+          await delay(50);
+          const modal = doc.getElementById('backup-modal');
+          if (modal.style.display !== 'flex') {
+            throw new Error("El modal de copia de seguridad no se abrió");
+          }
+          const escEvent = new KeyboardEvent('keydown', { key: 'Escape', code: 'Escape', bubbles: true });
+          doc.dispatchEvent(escEvent);
+          await delay(50);
+          if (modal.style.display === 'flex') {
+            throw new Error("El modal de copia de seguridad no se cerró al presionar Escape");
+          }
+        }
+      },
+      {
+        name: "BC-F5-23: Scoped LocalStorage Keys",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.selectStage(1);
+          await delay(50);
+          
+          const checkbox = doc.querySelector('#check-1-0');
+          if (checkbox) checkbox.click();
+          await delay(50);
+          
+          const keys = Object.keys(win.localStorage);
+          const unscoped = keys.filter(k => k.startsWith('stage-') && !k.includes('simple') && !k.includes('intermediate') && !k.includes('advanced'));
+          if (unscoped.length > 0) {
+             throw new Error(`Se encontraron llaves de progreso sin prefijo de ruta/track: ${JSON.stringify(unscoped)}`);
+          }
+        }
+      },
+      {
+        name: "BC-F5-24: Reset Progress Cancellation",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.localStorage.setItem('stage-1-task-0', 'true');
+          
+          const origConfirm = win.confirm;
+          win.confirm = () => false;
+          
+          win.resetData();
+          await delay(50);
+          
+          win.confirm = origConfirm;
+          
+          if (win.localStorage.getItem('stage-1-task-0') !== 'true') {
+             throw new Error("El progreso no debió borrarse al cancelar confirmación");
+          }
+        }
+      },
+      {
+        name: "BC-F5-25: Track State Preservation on Theme Toggle",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          win.toggleTheme();
+          await delay(50);
+          
+          const selNew = doc.getElementById('track-selector');
+          if (selNew.value !== 'simple') {
+             throw new Error("El cambio de tema no debió reiniciar el track activo en el selector");
+          }
+        }
+      },
+      {
+        name: "BC-REQ1-1: Expanded Syllabus Filter Toggle",
+        fn: async (doc, win) => {
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'advanced';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          const advancedCount = doc.querySelectorAll('.stage-nav-item').length;
+          
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          const simpleCount = doc.querySelectorAll('.stage-nav-item').length;
+          
+          if (advancedCount <= simpleCount) {
+            throw new Error(`El syllabus avanzado (${advancedCount}) debería tener más etapas que el simple (${simpleCount})`);
+          }
+        }
+      },
+      {
+        name: "BC-REQ2-2: Debates Empty Fallback",
+        fn: async (doc, win) => {
+          win.selectStage(2); // Stage 2 has no custom debates
+          await delay(50);
+          const debates = checkSelector(doc, '.debates-contrasts-section', 'Debates Section');
+          if (!debates.textContent.includes('Tutorial') && !debates.textContent.includes('tomar notas')) {
+            throw new Error("El fallback de la sección de debates no incluyó la información del título de la etapa");
+          }
+          if (debates.textContent.includes('imposición soberana') || debates.textContent.includes('Leviatán')) {
+            throw new Error("El fallback de la sección de debates retiene de forma errónea texto específico de Hobbes/Leviatán");
+          }
+        }
+      },
+      {
+        name: "BC-REQ3-3: Socratic Prompt Is Per-Stage",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+          const p1 = doc.getElementById('socratic-prompt-1');
+          if (!p1 || !p1.textContent.trim()) throw new Error("BC-REQ3-3: la etapa 1 no tiene prompt socrático");
+          const text1 = p1.textContent;
+          win.selectStage(9);
+          await delay(50);
+          const p9 = doc.getElementById('socratic-prompt-9');
+          if (!p9 || !p9.textContent.trim()) throw new Error("BC-REQ3-3: la etapa 9 no tiene prompt socrático");
+          if (doc.getElementById('socratic-prompt-1')) {
+            throw new Error("BC-REQ3-3: el prompt de la etapa anterior no se reemplazó al cambiar de etapa");
+          }
+          if (p9.textContent === text1) {
+            throw new Error("BC-REQ3-3: el prompt socrático debería ser específico por etapa (1 y 9 son idénticos)");
+          }
+        }
+      },
+
+      // ==========================================
+      // TIER 3: CROSS-FEATURE COMBINATIONS (8 Tests)
+      // ==========================================
+      {
+        name: "CF-1: Track Filter ↔ Mindmap Highlight Sync",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.renderWelcomePage();
+          await delay(50);
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+
+          // Stage 4 is NOT in the simple track: must exist and be attenuated.
+          const node4 = doc.querySelector('.node[data-stage="4"]');
+          if (!node4) throw new Error("CF-1: no se renderizó el nodo de la etapa 4 en el mapa mental");
+          if (!(node4.getAttribute('style') || '').includes('opacity: 0.2')) {
+            throw new Error("CF-1: el nodo 4 (fuera del track simple) no se atenuó a opacity 0.2 tras cambiar de track");
+          }
+          // Stage 1 IS in the simple track: must be highlighted.
+          const node1 = doc.querySelector('.node[data-stage="1"]');
+          if (!node1) throw new Error("CF-1: no se renderizó el nodo de la etapa 1 en el mapa mental");
+          if (!(node1.getAttribute('style') || '').includes('opacity: 1;')) {
+            throw new Error("CF-1: el nodo 1 (dentro del track simple) debería resaltarse con opacity 1 tras cambiar de track");
+          }
+        }
+      },
+      {
+        name: "CF-2: Segmented Progress ↔ Global Progress Scale",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+
+          win.selectStage(1);
+          await delay(50);
+          const checkbox = doc.querySelector('#check-1-0');
+          if (!checkbox) throw new Error("CF-2: no existe el checkbox #check-1-0 de la etapa 1");
+          checkbox.click();
+          await delay(50);
+
+          const progressBar = doc.getElementById('global-progress-bar');
+          if (!progressBar) throw new Error("CF-2: no existe la barra de progreso global");
+          const width = parseFloat(progressBar.style.width);
+          if (!(width > 0)) throw new Error("CF-2: la barra de progreso global no aumentó tras completar una tarea");
+
+          // The denominator must be the SIMPLE-track task total, not the advanced one.
+          const trackStages = win.getActiveTrackStages();
+          let totalSimple = 0;
+          win.COURSE_DATA.forEach(s => { if (trackStages.includes(s.stage)) totalSimple += s.tasks.length; });
+          if (totalSimple === 0) throw new Error("CF-2: el track simple no reporta tareas (total 0)");
+          const expected = Math.round((1 / totalSimple) * 100);
+          if (Math.round(width) !== expected) {
+            throw new Error("CF-2: el progreso (" + Math.round(width) + "%) no se escalo al total del track simple (esperado " + expected + "%)");
+          }
+        }
+      },
+      {
+        name: "CF-3: Socratic Prompt ↔ Active Stage Checker",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+          const block = doc.querySelector('.socratic-prompt-block');
+          if (!block) throw new Error("CF-3: no se encontró el bloque de prompt socrático para la etapa activa");
+          if (!doc.getElementById('socratic-prompt-1')) {
+            throw new Error("CF-3: el prompt socrático no está vinculado a la etapa activa 1");
+          }
+          // The prompt block must follow the active stage when it changes.
+          win.selectStage(9);
+          await delay(50);
+          if (!doc.getElementById('socratic-prompt-9')) {
+            throw new Error("CF-3: el prompt socrático no actualizó su contexto a la etapa 9");
+          }
+          if (doc.getElementById('socratic-prompt-1')) {
+            throw new Error("CF-3: el prompt de la etapa anterior no se reemplazó al cambiar de etapa");
+          }
+        }
+      },
+      {
+        name: "CF-4: Backup Import ↔ Active UI Sync",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.selectStage(1);
+          await delay(50);
+          
+          const checkbox = doc.querySelector('#check-1-0');
+          if (checkbox && checkbox.checked) throw new Error("El checkbox no debió estar marcado inicialmente");
+          
+          win.openBackupModal();
+          await delay(50);
+          
+          const textarea = doc.getElementById('backup-textarea');
+          textarea.value = JSON.stringify({
+             "active-track": "advanced",
+             "advanced-stage-1-task-0": "true"
+          });
+          win.importData();
+          await delay(50);
+          
+          const checkboxNew = doc.querySelector('#check-1-0');
+          if (!checkboxNew.checked) {
+            throw new Error("El checkbox no se sincronizó con el UI tras importar la copia de seguridad");
+          }
+        }
+      },
+      {
+        name: "CF-5: Socratic Quiz Status ↔ Segmented Backup",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.localStorage.setItem('socratic-quiz-phase-0', JSON.stringify({ currentQuestionIdx: 1, correctCount: 1, passed: true, failed: false }));
+
+          win.exportData();
+          await delay(50);
+
+          const textarea = doc.getElementById('backup-textarea');
+          if (!textarea) throw new Error("CF-5: no existe el textarea de respaldo");
+          let parsed;
+          try { parsed = JSON.parse(textarea.value); }
+          catch (e) { throw new Error("CF-5: la exportación de respaldo no es JSON válido"); }
+          if (!('socratic-quiz-phase-0' in parsed)) {
+            throw new Error("CF-5: el respaldo no incluyó la clave del examen socrático");
+          }
+          let quiz;
+          try { quiz = JSON.parse(parsed['socratic-quiz-phase-0']); }
+          catch (e) { throw new Error("CF-5: el valor del examen socrático en el respaldo no es JSON válido"); }
+          if (quiz.passed !== true) {
+            throw new Error("CF-5: el respaldo no preservó el estado aprobado del examen socrático");
+          }
+        }
+      },
+      {
+        name: "CF-6: Theme Toggle ↔ SVG Path Overlay",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'advanced';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          win.renderWelcomePage();
+          await delay(50);
+
+          const edgesBefore = doc.querySelectorAll('.edge');
+          if (edgesBefore.length === 0) throw new Error("CF-6: el mapa mental no tiene aristas antes del cambio de tema");
+          const activeBefore = Array.from(edgesBefore).filter(e => e.getAttribute('opacity') === '0.7').length;
+          if (activeBefore === 0) throw new Error("CF-6: ninguna arista del track activo tiene el overlay resaltado (opacity 0.7) antes del cambio de tema");
+
+          win.toggleTheme();
+          await delay(50);
+
+          const edgesAfter = doc.querySelectorAll('.edge');
+          if (edgesAfter.length !== edgesBefore.length) {
+            throw new Error("CF-6: el cambio de tema altero la cantidad de aristas del mapa mental");
+          }
+          const activeAfter = Array.from(edgesAfter).filter(e => e.getAttribute('opacity') === '0.7').length;
+          if (activeAfter !== activeBefore) {
+            throw new Error("CF-6: el overlay del path del mapa mental no se preservó tras el cambio de tema");
+          }
+        }
+      },
+      {
+        name: "CF-7: Socratic IA Context ↔ Track Switch",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+          
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          if (win.selectedStageNum !== 1) {
+            throw new Error("Cambiar de track debió preservar la etapa seleccionada si pertenece al nuevo track");
+          }
+        }
+      },
+      {
+        name: "CF-8: Deep Debates Section (post-reading) Structure",
+        fn: async (doc, win) => {
+          win.selectStage(11);
+          await delay(50);
+          const debates = checkSelector(doc, '.debates-contrasts-section', 'Debates Section');
+          const txt = debates.textContent;
+          // Etapa 11 (Hobbes) usa el formato profundo investigado.
+          if (!txt.includes('sostienen') || !txt.includes('critican') || !txt.includes('Contrastes')) {
+            throw new Error("La sección de debates de post-lectura de Hobbes carece de las subsecciones obligatorias (sostienen / critican / contrastes)");
+          }
+          if (!debates.querySelector('.debate-list')) {
+            throw new Error("La sección de debates profundos no rinde las listas de posiciones");
+          }
+        }
+      },
+
+      // ==========================================
+      // TIER 4: REAL-WORLD SCENARIOS (8 Tests)
+      // ==========================================
+      {
+        name: "RW-1: E2E Course Progress (Simple Track)",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          win.selectStage(1);
+          await delay(50);
+          
+          const stage1 = win.COURSE_DATA.find(d => d.stage === 1);
+          stage1.tasks.forEach((t, idx) => {
+            const checkbox = doc.querySelector(`#check-1-${idx}`);
+            if (checkbox && !checkbox.checked) checkbox.click();
+          });
+          await delay(50);
+          
+          const stats = win.getStageStats(stage1);
+          if (stats.pct !== 1) {
+            throw new Error("El progreso de la etapa 1 no llegó al 100%");
+          }
+        }
+      },
+      {
+        name: "RW-2: Track Upgrade (Simple → Intermediate)",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          let sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          win.selectStage(1);
+          await delay(50);
+          let checkbox = doc.querySelector('#check-1-0');
+          if (checkbox) checkbox.click();
+          await delay(50);
+          
+          sel.value = 'intermediate';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          if (win.localStorage.getItem('simple-stage-1-task-0') !== 'true') {
+            throw new Error("El progreso de Simple se borró tras cambiar a Intermediate");
+          }
+        }
+      },
+      {
+        name: "RW-3: Study Session Recovery",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.localStorage.setItem('selected-stage-num', '15');
+          // Apertura fresca: sin hash en la URL, init() recupera la sesión desde localStorage.
+          win.history.replaceState(null, '', win.location.pathname);
+
+          win.init();
+          await delay(50);
+
+          if (win.selectedStageNum !== 15) {
+             throw new Error("No se recuperó la etapa activa correcta tras recargar la sesión");
+          }
+        }
+      },
+      {
+        name: "RW-4: Local Workspace Backup Porting",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.openBackupModal();
+          await delay(50);
+          
+          const textarea = doc.getElementById('backup-textarea');
+          textarea.value = JSON.stringify({
+            "active-track": "intermediate",
+            "intermediate-stage-3-task-0": "true"
+          });
+          win.importData();
+          await delay(50);
+          
+          const selector = doc.getElementById('track-selector');
+          if (selector.value !== 'intermediate') {
+            throw new Error("No se restauró el track activo desde el backup");
+          }
+          if (win.localStorage.getItem('intermediate-stage-3-task-0') !== 'true') {
+            throw new Error("No se restauró el progreso de tareas desde el backup");
+          }
+        }
+      },
+      {
+        name: "RW-5: Multi-Track Alternate Progress Work",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          win.localStorage.setItem('simple-stage-1-task-0', 'true');
+          win.localStorage.setItem('advanced-stage-1-task-0', 'true');
+          
+          const sel = checkSelector(doc, '#track-selector', 'Track Selector');
+          sel.value = 'simple';
+          sel.dispatchEvent(new Event('change'));
+          await delay(50);
+          
+          win.selectStage(1);
+          await delay(50);
+          let checkbox = doc.querySelector('#check-1-0');
+          if (!checkbox.checked) {
+             throw new Error("El progreso del track Simple no se cargó correctamente");
+          }
+        }
+      },
+      {
+        name: "RW-6: Socratic Failure, Review, and Re-attempt",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.selectPhase(0);
+          await delay(50);
+          
+          win.answerQuiz(0, false);
+          await delay(50);
+          
+          const container = doc.getElementById('socratic-quiz-container');
+          if (!container.innerHTML.includes('Examen No Superado')) {
+             throw new Error("No se mostró el estado de examen no superado");
+          }
+          
+          const restartBtn = doc.querySelector('.socratic-assessment-widget button');
+          if (restartBtn) restartBtn.click();
+          await delay(50);
+          
+          if (!container.innerHTML.includes('Pregunta 1 de 2')) {
+             throw new Error("El reintento del examen socrático no reinició el progreso");
+          }
+        }
+      },
+      {
+        name: "RW-7: Full Study Session with Debates and Socratic Prompt",
+        fn: async (doc, win) => {
+          win.selectStage(1);
+          await delay(50);
+
+          const debates = checkSelector(doc, '.debates-contrasts-section', 'Debates Section');
+          if (!debates.textContent.trim()) {
+            throw new Error("RW-7: la sección de debates está vacía");
+          }
+
+          checkSelector(doc, '.socratic-prompt-block', 'Bloque de Prompt Socrático');
+          const promptEl = doc.getElementById('socratic-prompt-1');
+          if (!promptEl || !promptEl.textContent.trim()) {
+            throw new Error("RW-7: el prompt socrático está vacío");
+          }
+          const copyBtn = doc.querySelector('.socratic-prompt-block button');
+          if (!copyBtn) throw new Error("RW-7: falta el botón para copiar el prompt socrático");
+        }
+      },
+      {
+        name: "RW-8: Deep Post-Reading Debates Render",
+        fn: async (doc, win) => {
+          // La etapa 11 (Hobbes) tiene debates de post-lectura investigados.
+          win.selectStage(11);
+          await delay(50);
+          const debates = checkSelector(doc, '.debates-contrasts-section', 'Debates Section');
+          const txt = debates.textContent;
+          if (!txt.includes('sostienen') || !txt.includes('critican')) {
+            throw new Error("RW-8: los debates de post-lectura no muestran posiciones a favor y en contra");
+          }
+          const sourceLink = debates.querySelector('a.dashboard-link');
+          if (!sourceLink) {
+            throw new Error("RW-8: la sección de debates investigada no incluye fuentes enlazadas");
+          }
+        }
+      },
+      {
+        name: "LP-1: Landing Page Structure & Entry",
+        fn: async (doc, win) => {
+          const res = await fetch('../web/index.html');
+          if (!res.ok) throw new Error("No se pudo cargar la portada web/index.html");
+          const html = await res.text();
+          // La portada es la puerta de entrada: lleva al curso.
+          if (!html.includes('curso.html')) throw new Error("La portada no enlaza a curso.html");
+          if (!html.includes('entrar(')) throw new Error("Faltan los botones de ruta en la portada");
+          // Las 3 rutas.
+          ['Ruta Simple', 'Ruta Intermedia', 'Ruta Avanzada'].forEach(r => {
+            if (!html.includes(r)) throw new Error("Falta la ruta en la portada: " + r);
+          });
+          // Método (Zettelkasten) y roadmap de las 9 fases.
+          if (!html.includes('Zettelkasten')) throw new Error("Falta la sección de método en la portada");
+          if (!html.includes('lp-phase')) throw new Error("Falta el roadmap de fases en la portada");
+          // Layout propio: la portada NO comparte el shell de la app.
+          if (html.includes('id="workspace-panel"')) throw new Error("La portada no debe incluir el shell de la app");
+          // Cero emojis pictográficos.
+          if (/[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{1F300}-\u{1F9FF}]/u.test(html)) {
+            throw new Error("La portada contiene emojis pictográficos");
+          }
+        }
+      },
+      {
+        name: "LP-2: Per-Stage URL Routing",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          // selectStage debe fijar la URL de la etapa (cada etapa su propia dirección).
+          win.selectStage(9);
+          await delay(40);
+          if (!win.location.hash.includes('etapa-9')) {
+            throw new Error("selectStage no actualizó la URL a la etapa (#/etapa-9)");
+          }
+          // Navegar por URL (hash) debe abrir esa etapa vía el router.
+          win.location.hash = '#/etapa-13';
+          await delay(60);
+          if (win.selectedStageNum !== 13) {
+            throw new Error("El router por hash no abrió la etapa 13 desde la URL");
+          }
+        }
+      },
+      {
+        name: "HX-1: Continue To Next Stage",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.changeTrack('advanced');
+          await delay(20);
+          const expected = win.getNextStageNum();
+          if (typeof expected !== 'number') throw new Error("getNextStageNum no devolvio una etapa");
+          win.continueStudy();
+          await delay(40);
+          if (win.selectedStageNum !== expected) throw new Error("continueStudy no abrio la proxima etapa esperada");
+        }
+      },
+      {
+        name: "HX-2: Reading Theme Persists",
+        fn: async (doc, win) => {
+          win.setReadTheme('sepia');
+          if (doc.documentElement.getAttribute('data-read') !== 'sepia') throw new Error("data-read no se aplico");
+          if (win.localStorage.getItem('read-theme') !== 'sepia') throw new Error("read-theme no se persistio");
+          win.setReadTheme('oscuro');
+        }
+      },
+      {
+        name: "HX-3: Focus Mode Toggle",
+        fn: async (doc, win) => {
+          const before = doc.body.classList.contains('foco');
+          win.toggleFoco();
+          if (doc.body.classList.contains('foco') === before) throw new Error("toggleFoco no cambio el estado");
+          if (win.localStorage.getItem('foco') !== (before ? '0' : '1')) throw new Error("foco no se persistio");
+          if (doc.body.classList.contains('foco')) win.toggleFoco();
+        }
+      },
+      {
+        name: "HX-4: Phase Progress In Sidebar",
+        fn: async (doc, win) => {
+          win.renderNavigation();
+          await delay(20);
+          if (!doc.querySelector('.phase-mini-bar')) throw new Error("falta la barra de progreso de fase");
+          if (!doc.querySelector('.phase-count')) throw new Error("falta el contador X/Y de fase");
+        }
+      },
+      {
+        name: "HX-5: Panel Continue Card & Phase Progress",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          win.changeTrack('advanced');
+          win.renderWelcomePage();
+          await delay(40);
+          const cc = doc.querySelector('.continue-card');
+          if (!cc) throw new Error("falta la tarjeta Continuar en el panel");
+          if (!cc.querySelector('.cc-btn')) throw new Error("falta el boton de la tarjeta Continuar");
+          if (!doc.querySelector('.home-phases')) throw new Error("falta el progreso por fase en el panel");
+        }
+      },
+      {
+        name: "HX-6: Speed Reading Stage (RSVP)",
+        fn: async (doc, win) => {
+          win.changeTrack('advanced');
+          win.selectStage(0);
+          await delay(50);
+          const st0 = win.COURSE_DATA.find(s => s.stage === 0);
+          if (!st0) throw new Error("No existe la etapa 0 (speed reading)");
+          if (st0.phase_index !== 0) throw new Error("La etapa 0 no esta en la Fase 0");
+          if (!doc.querySelector('.rsvp')) throw new Error("No se renderizo el widget RSVP");
+          if (!doc.getElementById('rsvp-src')) throw new Error("Falta el textarea del RSVP");
+          if (typeof win.rsvpLoadFromUI !== 'function') throw new Error("Falta el motor RSVP");
+          win.rsvpLoadFromUI();
+          if (!doc.getElementById('rsvp-pivot').textContent) throw new Error("El RSVP no cargo la primera palabra");
+          win.rsvpToggle();
+          if (doc.getElementById('rsvp-play').textContent !== 'Pausa') throw new Error("El RSVP no inicio la reproduccion");
+          win.rsvpToggle();
+          if (doc.getElementById('rsvp-play').textContent !== 'Reproducir') throw new Error("El RSVP no pauso");
+        }
+      }
+    ];
+
+    // Función principal para correr los tests secuencialmente
+    async function runSuite() {
+      const summaryEl = document.getElementById('summary');
+      const tbody = document.getElementById('results-body');
+      
+      summaryEl.innerText = "Esperando que cargue el dashboard...";
+      
+      // Esperar a que el iframe cargue
+      await delay(1500);
+      
+      let passedCount = 0;
+      let failedCount = 0;
+      const testReport = [];
+      const suiteStartTime = Date.now();
+      
+      for (let i = 0; i < tests.length; i++) {
+        const test = tests[i];
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td>${i + 1}</td>
+          <td>${test.name}</td>
+          <td id="status-${i}">Corriendo...</td>
+          <td id="time-${i}">-</td>
+          <td id="error-${i}">-</td>
+        `;
+        tbody.appendChild(row);
+        
+        const startTime = Date.now();
+        let status = 'passed';
+        let errorMsg = '';
+        
+        try {
+          const doc = getDoc();
+          const win = getWin();
+          
+          // Auto select a stage or return to welcome page based on test dependencies
+          const tName = test.name;
+          const isStageTest = tName.includes("Growth") || 
+                              tName.includes("Machiavelli") || 
+                              tName.includes("Hobbes") || 
+                              tName.includes("Rawls") || 
+                              tName.includes("Debates") || 
+                              tName.includes("Socratic IA") || 
+                              tName.includes("Q&A") || 
+                              tName.includes("Chat History") || 
+                              tName.includes("Study Session") ||
+                              tName.includes("F2-T") || 
+                              tName.includes("BC-F2") || 
+                              tName.includes("REQ2") || 
+                              tName.includes("REQ3") || 
+                              tName.includes("BC-REQ2") || 
+                              tName.includes("BC-REQ3") ||
+                              tName.includes("Concept Link") || 
+                              tName.includes("XSS Prevention");
+                              
+          if (isStageTest) {
+            win.selectStage(1);
+            await delay(40);
+          } else {
+            // Only go back to welcome if a stage is active and the test doesn't explicitly toggle
+            if (win.selectedStageNum !== null && !tName.includes("Recovery") && !tName.includes("Progress Work") && !tName.includes("Re-attempt")) {
+              win.renderWelcomePage();
+              await delay(40);
+            }
+          }
+          
+          await test.fn(doc, win);
+          passedCount++;
+        } catch (err) {
+          status = 'failed';
+          errorMsg = err.message || err.toString();
+          failedCount++;
+        }
+        
+        const duration = Date.now() - startTime;
+        
+        // Actualizar UI de la fila
+        const statusTd = document.getElementById(`status-${i}`);
+        statusTd.innerText = status === 'passed' ? 'PASSED' : 'FAILED';
+        statusTd.className = status === 'passed' ? 'status-passed' : 'status-failed';
+        document.getElementById(`time-${i}`).innerText = `${duration}ms`;
+        
+        if (status === 'failed') {
+          document.getElementById(`error-${i}`).innerText = errorMsg;
+        }
+        
+        testReport.push({
+          name: test.name,
+          status: status,
+          duration_ms: duration,
+          error: status === 'failed' ? errorMsg : undefined
+        });
+        
+        // Pequeña pausa para no congelar la UI
+        await delay(20);
+      }
+      
+      const totalDuration = Date.now() - suiteStartTime;
+      summaryEl.innerText = `Pruebas completadas: ${passedCount} pasaron, ${failedCount} fallaron en ${totalDuration}ms`;
+      
+      const resultsPayload = {
+        summary: {
+          total: tests.length,
+          passed: passedCount,
+          failed: failedCount,
+          duration_ms: totalDuration
+        },
+        tests: testReport
+      };
+      
+      // Enviar resultados al servidor local de pruebas
+      try {
+        const resp = await fetch('/api/results', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(resultsPayload)
+        });
+        const respData = await resp.json();
+        console.log("Resultados reportados exitosamente:", respData);
+      } catch (err) {
+        console.error("Error al reportar resultados al servidor de pruebas:", err);
+      }
+    }
+
+    // Iniciar ejecución al cargar la página
+    window.addEventListener('load', runSuite);
+  </script>
+</body>
+</html>

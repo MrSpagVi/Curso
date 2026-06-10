@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "El Teatro del oprimido es uno de los pocos sistemas esteticos del siglo XX que sigue funcionando como practica viva: se usa hoy en mas de 70 paises, desde los movimientos sin tierra de Brasil hasta talleres de salud publica en Europa. Esa expansion es justamente lo que mantiene abierto el debate. Para sus defensores, Boal completo el proyecto de Paulo Freire: si la Pedagogia del oprimido democratizo la palabra, el espect-actor democratizo la escena, y el teatro legislativo demostro que un dispositivo estetico puede producir leyes reales. Para sus criticos, el exito global del metodo es ambiguo: el mismo conjunto de tecnicas que servia para ensayar la revolucion bajo la dictadura brasileña hoy se vende como dinamica de team-building corporativo, y la objecion teorica mas profunda vino de Jacques Ranciere, que en El espectador emancipado ataco la premisa misma del sistema: querer activar al espectador presupone que mirar es pasivo, y esa presuposicion reproduce la jerarquia que se decia combatir. A esto se suman las dudas eticas sobre el teatro invisible (hacer politica con espectadores que no consintieron ser publico) y la sospecha estetica de que el teatro foro reduce la opresion estructural a escenas con solucion. El debate condensa una pregunta mayor de toda la fase de arte: si un dispositivo emancipador puede sobrevivir a su propia institucionalizacion.",
+    "supporters": [
+      {
+        "school": "Applied theatre y pedagogia critica (la recepcion freireana)",
+        "view": "La corriente academica del applied theatre, consolidada en revistas como Research in Drama Education y en sintesis como Augusto Boal de Frances Babbage (Routledge Performance Practitioners), lee el Teatro del oprimido como la traduccion escenica mas lograda de la pedagogia de Freire: el paralelo educacion bancaria / teatro aristotelico, dialogo / foro, concientizacion / espect-actor estructura todo el sistema. Para esta escuela, el valor del metodo es epistemologico antes que estetico: el foro es un laboratorio donde comunidades concretas producen conocimiento sobre su propia opresion y ensayan respuestas con el cuerpo, algo que ni el panfleto ni el seminario logran. La catarsis aristotelica como dispositivo de inmovilizacion sigue siendo, para estos autores, un diagnostico vigente de la industria cultural."
+      },
+      {
+        "school": "La red internacional del Theatre of the Oppressed (Howe, Julian Boal, Soeiro)",
+        "view": "The Routledge Companion to Theatre of the Oppressed (2019), editado por Kelly Howe, Julian Boal y Jose Soeiro, documenta la vitalidad practica del metodo: Jana Sanskriti en India (la organizacion de TO mas grande del mundo, con base campesina en Bengala Occidental), el Centro de Teatro do Oprimido de Rio, y el teatro legislativo que Soeiro replico en Portugal como diputado. Esta escuela responde a los criticos con evidencia empirica: el teatro legislativo de Boal como concejal de Rio convirtio escenas foro en unas 13 leyes municipales, el caso mas concreto de traduccion directa de arte en institucion. Lejos de negar la cooptacion, el Companion la discute internamente y defiende que el metodo incluye sus propios anticuerpos: la pregunta por quien es el oprimido de la escena."
+      },
+      {
+        "school": "El teatro comunitario latinoamericano",
+        "view": "En America Latina el legado de Boal se defiende menos en papers que en practica territorial: los teatros comunitarios de Buenos Aires (Catalinas Sur, Circuito Cultural Barracas), las redes brasileñas ligadas al MST y los grupos de teatro foro que trabajan violencia de genero y abuso policial en las periferias urbanas. Esta corriente subraya lo que las lecturas europeas pierden: el Teatro del oprimido nacio del exilio, la carcel y la tortura, y su politica no es una tesis sobre el espectador sino una infraestructura organizativa. Donde Ranciere ve una presuposicion filosofica erronea, estos practicantes ven una herramienta que comunidades sin acceso a la palabra publica usan efectivamente para deliberar, y sostienen que la prueba del metodo es su persistencia alli donde no hay ONGs ni bienales."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Jacques Ranciere y el espectador emancipado",
+        "view": "En El espectador emancipado (2008), Ranciere formula la objecion teorica central contra Boal y Brecht: la voluntad de activar al espectador presupone que mirar es pasivo, y esa presuposicion es el verdadero error. Para Ranciere, la oposicion mirar/actuar reproduce la logica de la desigualdad de las inteligencias: alguien (el director, el curinga) sabe lo que el espectador ignora y decide sacarlo de su supuesto letargo. Pero mirar ya es actuar: el espectador observa, selecciona, compara, interpreta, liga lo que ve con lo que vivio. La emancipacion no consiste en subir al escenario sino en partir del axioma de que el que mira sabe. Desde esta optica, el espect-actor no supera la division dirigente/dirigido: la reinstala con un vocabulario emancipatorio."
+      },
+      {
+        "school": "La critica etica al teatro invisible",
+        "view": "El teatro invisible (una escena politica montada en un tren o un mercado sin que los presentes sepan que es teatro) acumulo objeciones eticas sostenidas en la literatura del applied theatre y la performance studies. La discusion que provoca es real, pero los participantes no consintieron ser publico ni actores de un experimento ajeno: se los usa como material dramatico sin saberlo, algo dificil de distinguir de la manipulacion que el propio Boal denunciaba en el teatro burgues y en los medios. La paradoja es interna al sistema: un metodo fundado en el dialogo y la transparencia freireana incluye una tecnica basada en el engaño. Los defensores responden que toda la vida publica esta ya teatralizada sin consentimiento; los criticos replican que esa respuesta justificaria cualquier propaganda encubierta."
+      },
+      {
+        "school": "Paul Dwyer y la critica de la cooptacion y la simplificacion",
+        "view": "Paul Dwyer, en Making Bodies Talk in Forum Theatre (Research in Drama Education, 2004), mostro con analisis empirico de sesiones reales que el curinga ejerce un control discursivo fuerte sobre lo que puede decirse en el foro: la deliberacion abierta esta mas regulada de lo que el modelo admite. Esa critica interna se suma a la externa: el TO es hoy usado por ONGs, agencias de desarrollo y empresas como tecnica de facilitacion y team-building despolitizado, donde el opresor desaparece y queda un ejercicio de habilidades blandas. Y la objecion estetica acompaña: el teatro foro tiende a representar opresiones resolubles por la accion individual del protagonista, simplificando estructuras (el capital, el patriarcado, el Estado) que ninguna intervencion escenica de un espect-actor puede revertir."
+      }
+    ],
+    "contrasts": "Lo que esta en juego es si la emancipacion puede ser un metodo. Los defensores (applied theatre, la red internacional, el teatro comunitario) sostienen que si: el foro es una maquina replicable de deliberacion encarnada, y el teatro legislativo probo que puede llegar hasta la ley. Los criticos atacan en tres niveles distintos que conviene no mezclar: Ranciere impugna la premisa filosofica (el espectador nunca fue pasivo), la critica etica impugna una tecnica especifica (el engaño del teatro invisible), y Dwyer y la critica de la cooptacion impugnan la practica realmente existente (el curinga que regula, la ONG que despolitiza). La respuesta mas fuerte de los boalianos es empirica: comunidades concretas usan el metodo y obtienen resultados. La replica mas fuerte de los criticos es conceptual: un dispositivo que se deja usar igual de bien por un sindicato y por un departamento de recursos humanos quizas no tenia la politica adentro, sino en la coyuntura que lo rodeaba.",
+    "sources": [
+      {
+        "label": "The Routledge Companion to Theatre of the Oppressed (Howe, Boal y Soeiro, eds.)",
+        "url": "https://www.routledge.com/The-Routledge-Companion-to-Theatre-of-the-Oppressed/Howe-Boal-Soeiro/p/book/9781032093796"
+      },
+      {
+        "label": "Jacques Ranciere, The Emancipated Spectator (Verso Books)",
+        "url": "https://www.versobooks.com/products/2105-the-emancipated-spectator"
+      },
+      {
+        "label": "Paul Dwyer, Making Bodies Talk in Forum Theatre (Research in Drama Education, 2004)",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/1356978042000255076"
+      },
+      {
+        "label": "Augusto Boal, Theatre of the Oppressed (Pluto Press)",
+        "url": "https://www.plutobooks.com/product/theatre-of-the-oppressed/"
+      },
+      {
+        "label": "International Theatre of the Oppressed Organisation",
+        "url": "https://www.theatreoftheoppressed.org/"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre el Teatro del oprimido de Augusto Boal. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cada vez que yo afirme algo, pedime razones y ejemplos concretos del texto o de la practica del teatro foro. Presenta objeciones de escuelas rivales concretas: la critica de Ranciere en El espectador emancipado (activar al espectador presupone que mirar es pasivo), la objecion etica al teatro invisible (espectadores que no consintieron), la critica empirica de Paul Dwyer al control del curinga, y la sospecha de cooptacion del metodo como team-building despolitizado. Si me trabo, dame una pista en forma de pregunta mas concreta. Empeza preguntandome: si el espectador del teatro aristotelico ya interpreta y juzga lo que ve, que agrega exactamente subirlo al escenario?"
+}

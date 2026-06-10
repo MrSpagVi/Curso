@@ -1,0 +1,85 @@
+{
+  "debate_deep": {
+    "intro": "La desigualdad economica y social es uno de los problemas mas disputados de la filosofia politica y la economia contemporaneas, y el desacuerdo empieza antes de cualquier dato: importa la desigualdad en si misma, o solo importa la pobreza y el sufrimiento absoluto de los peor situados? Tres familias de respuestas estructuran este debate normativo. El igualitarismo sostiene que la distancia entre ricos y pobres es intrinsecamente mala o injusta y debe reducirse. El suficientismo de Harry Frankfurt (On Inequality, 2015) niega que la igualdad tenga valor moral propio: lo que importa moralmente es que cada uno tenga lo suficiente, un umbral no comparativo de bienestar; segun Frankfurt, la obsesion por la igualdad nos distrae de lo unico relevante, que es la pobreza. El prioritarismo de Derek Parfit (Equality and Priority, 1997) ofrece una tercera via: beneficiar a alguien importa mas cuanto peor situado este, no porque este por debajo de otros, sino por su nivel absoluto bajo; asi el prioritarista evita la llamada objecion de la nivelacion hacia abajo (leveling down) que Parfit dirige contra el igualitarismo, segun la cual empeorar a los mejor situados sin mejorar a nadie no puede ser en ningun aspecto bueno. Sobre esta capa normativa se montan dos debates adicionales: el de las causas (Thomas Piketty y su tesis r mayor que g frente a las explicaciones del cambio tecnologico sesgado, la educacion y las instituciones) y el de la metrica (igualdad de que: recursos, bienestar o capacidades, segun la pregunta de Amartya Sen). Atravesandolo todo esta la cuestion fundacional de la justicia: la desigualdad resultante es una injusticia que el Estado debe corregir (Rawls), o el resultado legitimo de transacciones libres que ninguna redistribucion puede tocar sin violar derechos (Nozick)?",
+    "supporters": [
+      {
+        "school": "Igualitarismo distributivo y la teoria de la justicia de Rawls (John Rawls, principio de diferencia)",
+        "view": "Rawls, en Una teoria de la justicia (1971), no exige igualdad estricta pero somete toda desigualdad a una prueba severa: las desigualdades sociales y economicas solo son justas si benefician a los miembros peor situados de la sociedad (principio de diferencia) y si van unidas a cargos abiertos en condiciones de equitativa igualdad de oportunidades. La clave es que las dotaciones naturales de talento y la posicion social de origen son moralmente arbitrarias, fruto de una loteria natural y social que nadie merece; por eso sus frutos no pueden reclamarse como merecimiento puro. La desigualdad que no mejora la posicion absoluta del mas desfavorecido carece de justificacion. Es la formulacion liberal-igualitaria mas influyente del siglo XX y el blanco contra el que se definen casi todas las demas posiciones."
+      },
+      {
+        "school": "Igualitarismo economico y la dinamica patrimonial del capitalismo (Thomas Piketty, Anthony Atkinson)",
+        "view": "Piketty, en El capital en el siglo XXI (2013), sostiene que la desigualdad de riqueza no es un accidente sino una tendencia estructural del capitalismo: cuando la tasa de rendimiento del capital (r) supera de modo sostenido la tasa de crecimiento de la economia (g), la riqueza acumulada y heredada crece mas rapido que los ingresos del trabajo, concentrando el patrimonio en el decil y el percentil superiores y recreando el capitalismo patrimonial decimononico, en el que la herencia y el matrimonio priman sobre el merito. Las guerras y la destruccion del siglo XX, no el mercado, fueron lo que comprimio temporalmente esa desigualdad. Piketty y Atkinson proponen impuestos progresivos sobre la renta y un impuesto global sobre el patrimonio para frenar una dinamica que, dejada sola, amenaza la estabilidad social y la propia democracia."
+      },
+      {
+        "school": "Igualitarismo de la suerte y la metrica igualitaria (Ronald Dworkin, G. A. Cohen, Richard Arneson, Amartya Sen)",
+        "view": "El igualitarismo de la suerte (luck egalitarianism) refina la intuicion rawlsiana: es injusta la desigualdad que se debe a la suerte bruta (brute luck, circunstancias no elegidas como la enfermedad o la cuna), pero no la que resulta de elecciones y riesgos asumidos voluntariamente (option luck), de los que cada uno debe cargar el costo. Dworkin defiende la igualdad de recursos corregida por seguros hipoteticos; Cohen radicaliza la critica al permisivismo de Rawls con su ethos igualitario; y Sen, en Igualdad de que? (1979), desplaza la metrica desde los recursos y el bienestar hacia las capacidades, lo que cada persona puede efectivamente ser y hacer, mostrando con el ejemplo de la discapacidad que iguales recursos no producen iguales libertades reales."
+      },
+      {
+        "school": "Igualitarismo epidemiologico: la desigualdad como daño social (Richard Wilkinson y Kate Pickett, The Spirit Level)",
+        "view": "Wilkinson y Pickett, en The Spirit Level (2009), trasladan el argumento del terreno moral al empirico: la desigualdad de ingresos, no el nivel medio de riqueza, predice peores resultados en salud fisica y mental, esperanza de vida, violencia, embarazo adolescente, obesidad, confianza social y movilidad. Su tesis es que las sociedades mas igualitarias funcionan mejor para todos, incluidos los ricos, porque la jerarquia material intensifica el estres de estatus y erosiona la cohesion. Asi la desigualdad deja de ser solo un problema para los pobres y se vuelve un daño colectivo que justifica combatirla por el bien comun."
+      },
+      {
+        "school": "Desigualdad global y el debate sobre la globalizacion (Branko Milanovic)",
+        "view": "Milanovic desplaza el foco del Estado-nacion a la humanidad entera. Su curva del elefante (con Christoph Lakner, 2013) muestra que entre 1988 y 2008 los grandes ganadores de la globalizacion fueron las clases medias emergentes de Asia y el 1% mas rico global, mientras las clases trabajadoras y medias-bajas de los paises ricos quedaron estancadas. De ello extrae dos lecciones: la desigualdad global entre paises se ha reducido por la convergencia asiatica, pero la desigualdad dentro de los paises ricos ha crecido, alimentando el malestar politico y populista. Para Milanovic la desigualdad es una variable central para entender la economia politica del siglo XXI y un problema que reclama respuesta, no un mero subproducto neutral del crecimiento."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Suficientismo: la doctrina de la suficiencia (Harry Frankfurt)",
+        "view": "Frankfurt, en La desigualdad (On Inequality, 2015) y en su clasico Equality as a Moral Ideal (1987), niega de raiz que la igualdad economica tenga valor moral en si misma. Lo moralmente importante no es que todos tengan lo mismo, sino que cada uno tenga lo suficiente, un umbral no comparativo de contento razonable que puede variar entre personas. Tratar la igualdad como ideal es, para Frankfurt, un error que ademas degrada: nos hace medir nuestra vida por la de otros en vez de por nuestras propias necesidades y fines, y desvia recursos morales de lo que de verdad importa, que es erradicar la pobreza y la privacion absoluta. Si todos tienen bastante, la distancia entre ellos es moralmente irrelevante."
+      },
+      {
+        "school": "Prioritarismo: prioridad a los peor situados, no igualdad (Derek Parfit)",
+        "view": "Parfit, en Equality and Priority (1997), distingue la Vision de la Igualdad (Telic Egalitarianism) de la Vision de la Prioridad. El prioritarista sostiene que beneficiar a las personas importa mas cuanto peor situadas esten en terminos absolutos, pero no porque esten por debajo de otros: la comparacion no hace ningun trabajo moral. Esto le permite esquivar la objecion de la nivelacion hacia abajo (leveling down): para el igualitarista puro, eliminar la desigualdad cegando al que ve para igualarlo con el ciego seria en algun aspecto bueno, conclusion que Parfit considera absurda. El prioritarismo capta la preocupacion por los desfavorecidos sin comprometerse con que la desigualdad sea mala en si, relativizando asi el valor de la igualdad."
+      },
+      {
+        "school": "Libertarismo: la teoria de los titulos legitimos (Robert Nozick)",
+        "view": "Nozick, en Anarquia, Estado y utopia (1974), niega que la desigualdad sea por si misma injusta. Su teoria de los titulos (entitlement theory) afirma que una distribucion es justa si resulta de adquisiciones y transferencias legitimas, sin importar el patron que produzca. El argumento de Wilt Chamberlain lo muestra: si se parte de una distribucion igualitaria justa (D1) y miles de personas pagan voluntariamente por ver jugar a Chamberlain, la distribucion desigual resultante (D2) es igualmente justa, porque nadie fue forzado. La leccion es que la libertad altera los patrones (liberty upsets patterns): cualquier teoria que exija mantener un patron igualitario tendria que prohibir actos capitalistas entre adultos que consienten, interfiriendo continuamente en la vida de la gente. La redistribucion forzosa equivale, para Nozick, a trabajo forzado y viola el autodominio."
+      },
+      {
+        "school": "Criticas economicas a Piketty: tecnologia, educacion e instituciones (criticas de derecha y del mainstream)",
+        "view": "Numerosos economistas relativizan la tesis r mayor que g y la lectura de la desigualdad como falla estructural del capitalismo. La explicacion del cambio tecnologico sesgado hacia la cualificacion (skill-biased technical change) atribuye el aumento de la desigualdad salarial a que la tecnologia premia a los mas educados, de modo que la respuesta seria mas educacion y formacion, no impuestos al capital. Otros (en la linea de la critica de Acemoglu y Robinson, o del Financial Times sobre los datos) sostienen que las instituciones y las politicas, no una ley mecanica del capital, explican las divergencias, y que la propia identidad r mayor que g no implica concentracion creciente sin supuestos adicionales discutibles. Para esta corriente, parte de la desigualdad refleja diferencias de productividad, esfuerzo y eleccion, y puede ser eficiente al incentivar la inversion y la innovacion."
+      },
+      {
+        "school": "Igualdad de oportunidades frente a igualdad de resultados (liberalismo de mercado y meritocracia)",
+        "view": "Una posicion liberal clasica acepta combatir las barreras pero rechaza igualar los resultados. Distingue la igualdad formal de oportunidades (carreras abiertas al talento, sin discriminacion legal) de la pretension de igualar los desenlaces, que considera injusta y contraproducente porque castiga el merito, el esfuerzo y la eleccion responsable, y exige un Estado intrusivo. Desde esta optica, una desigualdad de resultados que surge de oportunidades equitativas no es una injusticia sino la expresion legitima de la libertad y la diferencia individual; pretender aplanarla confunde igualdad con uniformidad y sacrifica eficiencia y autonomia en su nombre."
+      },
+      {
+        "school": "Criticas feministas y raciales: la desigualdad interseccional (igualdad relacional)",
+        "view": "Desde otro flanco, las criticas feministas y raciales (y la tradicion del igualitarismo relacional de Elizabeth Anderson, What Is the Point of Equality?, 1999) reprochan a buena parte del debate distributivo que reduzca la igualdad a cuanto tiene cada uno, ignorando las relaciones de dominacion, jerarquia y opresion. El concepto de interseccionalidad (Kimberle Crenshaw) muestra que la desigualdad de genero, raza y clase se entrecruza y no se capta sumando metricas de ingreso. Esta critica no defiende la desigualdad ni la relativiza moralmente, pero desplaza el blanco: el problema no es primariamente la brecha de recursos sino la subordinacion social; igualar transferencias sin desmantelar las estructuras de estatus deja intacto el nucleo de la injusticia, y a la inversa, el foco economicista puede invisibilizar opresiones que no son reducibles a dinero."
+      }
+    ],
+    "contrasts": "El primer eje del debate es si la igualdad tiene valor en si misma o solo instrumental. Los igualitaristas (Rawls, Piketty, Wilkinson y Pickett) tratan la brecha como un problema en si, sea por justicia, sea por sus daños sociales; los suficientistas (Frankfurt) y prioritaristas (Parfit) responden que lo que importa es el nivel absoluto de los peor situados, no la distancia, y que el igualitarismo puro cae en la absurda nivelacion hacia abajo. El segundo eje es la causa: para Piketty la desigualdad es una tendencia estructural del capitalismo (r mayor que g) que reclama impuestos al patrimonio; para sus criticos es el efecto de la tecnologia, la educacion, las instituciones y las elecciones individuales, lo que apunta a otras politicas o a ninguna. El tercer eje es la metrica, la pregunta de Sen igualdad de que: recursos (Dworkin), bienestar o capacidades, con el igualitarismo de la suerte filtrando lo que se debe a circunstancia frente a lo que se debe a eleccion. El cuarto y mas profundo eje es la justicia: Rawls juzga injusta toda desigualdad que no beneficie al peor situado, mientras Nozick niega que cualquier desigualdad surgida de transacciones libres pueda ser injusta, por mas grande que sea, de modo que el desacuerdo no es empirico sino sobre que cuenta como injusticia. Cruzando todo, la igualdad de oportunidades frente a la de resultados divide a quienes ven en la oportunidad equitativa el limite de la exigencia igualitaria de quienes la consideran insuficiente mientras persistan ventajas de cuna. Y el igualitarismo relacional, feminista y racial reencuadra la disputa entera: quiza la pregunta correcta no sea cuanto debe tener cada uno, sino como deben relacionarse como iguales personas a las que el dinero por si solo no libera de la dominacion. La conclusion practica del debate depende de cual de estas preguntas se considere primera.",
+    "sources": [
+      {
+        "label": "Egalitarianism (Stanford Encyclopedia of Philosophy) - igualitarismo, suficientismo, prioritarismo, nivelacion hacia abajo",
+        "url": "https://plato.stanford.edu/entries/egalitarianism/"
+      },
+      {
+        "label": "Distributive Justice (Stanford Encyclopedia of Philosophy) - Rawls, principio de diferencia, Nozick",
+        "url": "https://plato.stanford.edu/entries/justice-distributive/"
+      },
+      {
+        "label": "Justice and Bad Luck (Stanford Encyclopedia of Philosophy) - igualitarismo de la suerte, Dworkin, Cohen, Arneson",
+        "url": "https://plato.stanford.edu/entries/justice-bad-luck/"
+      },
+      {
+        "label": "The Capability Approach (Stanford Encyclopedia of Philosophy) - Sen, Igualdad de que, capacidades vs recursos",
+        "url": "https://plato.stanford.edu/entries/capability-approach/"
+      },
+      {
+        "label": "Equality of Opportunity (Stanford Encyclopedia of Philosophy) - oportunidades formales y sustantivas, meritocracia",
+        "url": "https://plato.stanford.edu/entries/equal-opportunity/"
+      },
+      {
+        "label": "Robert Nozick (Internet Encyclopedia of Philosophy) - teoria de los titulos, argumento de Wilt Chamberlain",
+        "url": "https://iep.utm.edu/nozick/"
+      },
+      {
+        "label": "Thomas Piketty, Capital in the Twenty-First Century (Encyclopaedia Britannica) - r mayor que g, capitalismo patrimonial, impuesto global al patrimonio",
+        "url": "https://www.britannica.com/money/Thomas-Piketty"
+      }
+    ]
+  },
+  "socratic": "Quiero que actues como un interlocutor socratico que me ayuda a pensar un ensayo sobre la desigualdad. Reglas estrictas: hace una sola pregunta por turno y espera mi respuesta antes de continuar. Nunca me des tu propia respuesta ni resuelvas el problema por mi. Despues de cada respuesta mia, exigime las razones que la sostienen y, si flaquean, oponeme una objecion real y nombrada de la tradicion (el suficientismo de Harry Frankfurt, segun el cual solo importa que cada uno tenga lo suficiente y no la distancia entre ricos y pobres; el prioritarismo de Derek Parfit y su objecion de la nivelacion hacia abajo; el libertarismo de Robert Nozick y el argumento de Wilt Chamberlain, que niega que la desigualdad surgida de transacciones libres sea injusta; el principio de diferencia de John Rawls; la tesis r mayor que g de Thomas Piketty; la pregunta igualdad de que de Amartya Sen; o la critica relacional e interseccional de Elizabeth Anderson y Kimberle Crenshaw). Si me trabo, dame una pista breve, no la solucion. Empeza ahora con esta unica pregunta concreta y nada mas: la desigualdad economica es injusta en si misma, o lo unico que deberia preocuparnos moralmente es que los mas pobres tengan lo suficiente para vivir una vida digna, sin importar cuanto mas tengan los ricos?"
+}

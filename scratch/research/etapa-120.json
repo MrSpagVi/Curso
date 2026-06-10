@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "El muralismo mexicano es el experimento mas ambicioso del siglo XX de arte publico como pedagogia politica, y por eso mismo concentra todas las preguntas incomodas sobre la relacion entre arte y poder. El debate sigue vivo porque el muralismo fue dos cosas a la vez: un proyecto emancipatorio (sacar el arte del mercado y del salon, ponerlo en muros publicos para un pueblo analfabeto, dignificar al indigena y al obrero como protagonistas de la historia) y un aparato de Estado (el regimen posrevolucionario pagando el relato visual de su propia legitimidad). Cada generacion reabre la disputa desde un flanco distinto. Octavio Paz lo acuso de arte oficial e ideologico, una pintura que denunciaba la explotacion desde muros pagados por el gobierno de los explotadores. Jose Luis Cuevas y la generacion de la Ruptura lo declararon cortina de nopal: un nacionalismo academico que asfixiaba a los artistas jovenes. La critica decolonial pregunta quien sostuvo el pincel: el indigena ocupo el centro del muro pero casi nunca lo pinto. Y el episodio Rockefeller de 1933 (Rivera pintando a Lenin en el edificio de los Rockefeller, que ordenaron picar el mural) condensa el dilema permanente del artista politico financiado por el capital que critica. Mientras exista arte publico financiado por algun poder, el muralismo seguira siendo el caso de estudio.",
+    "supporters": [
+      {
+        "school": "David Craven y la historia del arte revolucionario",
+        "view": "Craven, en Art and Revolution in Latin America, 1910-1990 (Yale University Press, 2002), construye la defensa academica mas solida: el muralismo no fue propaganda monolitica sino un arte dialogico, que reconfiguro los recursos artisticos disponibles en vez de limitarse a ilustrar consignas. Compara las politicas culturales de las revoluciones mexicana, cubana y nicaraguense y muestra que el caso mexicano produjo algo inedito: un espacio publico visual donde Rivera, Orozco y Siqueiros sostuvieron poeticas y politicas incompatibles en los mismos edificios, a veces criticando al Estado que les pagaba. Lejos del realismo socialista sovietico, el muralismo admitio disenso interno: el escepticismo tragico de Orozco convive en Bellas Artes con la epica de Rivera. Para Craven, esa heterogeneidad es la prueba de que hubo arte y no solo encargo."
+      },
+      {
+        "school": "La recepcion estadounidense: del New Deal al arte publico contemporaneo",
+        "view": "La defensa mas contundente del muralismo es su descendencia. En 1933 el pintor George Biddle le escribio a Franklin D. Roosevelt proponiendo imitar el modelo mexicano de artistas asalariados por el Estado: de ahi salieron los programas murales del New Deal (la Works Progress Administration y la Section of Fine Arts), que cubrieron de pintura publica miles de oficinas postales y escuelas estadounidenses. Pollock paso por el taller experimental de Siqueiros en Nueva York; la exposicion Vida Americana (Whitney Museum, 2020) documento cuanto del arte estadounidense de 1925-1945 se formo mirando a los tres grandes. La tradicion llega hasta el muralismo chicano de Los Angeles y San Diego y el arte comunitario actual: alli donde se pinta un muro como afirmacion de identidad colectiva, el precedente es mexicano."
+      },
+      {
+        "school": "El mural como pedagogia nacional y patrimonio",
+        "view": "Desde la historiografia mexicana y la institucionalidad cultural (el INBA, la UNESCO, que inscribio el Hospicio Cabañas con los frescos de Orozco como patrimonio mundial), el muralismo se defiende como la unica vez que un Estado moderno intento alfabetizar visualmente a su pueblo. Vasconcelos entendio que una nacion mayormente analfabeta necesitaba una historia visible: los muros de la SEP y del Palacio Nacional fueron el libro de texto de quienes no leian. Autores como Desmond Rochfort (Mexican Muralists, 1993) subrayan que el resultado excedio el encargo: la Epopeya del pueblo mexicano de Rivera fijo el imaginario historico de generaciones, y el Hombre de fuego de Orozco es una meditacion sobre la violencia que ningun ministerio dicto. La pedagogia funciono: Mexico se piensa a si mismo, todavia hoy, con imagenes muralistas."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Octavio Paz y la critica al arte oficial",
+        "view": "Paz dedico al muralismo algunos de sus ensayos mas filosos (Los muralistas a primera vista; Ocultacion y descubrimiento de Orozco; Re/visiones: la pintura mural, recogidos en Los privilegios de la vista). Su cargo central: el muralismo fue un arte oficial que se decia revolucionario, y su interpretacion de la historia mexicana fue interesada, intolerante y parcial. La pintura que denunciaba al capital colgaba de muros pagados por el Estado, y ese Estado uso los murales como cortina de humo: la imagen de la Revolucion ocultando su domesticacion real. Paz exceptua parcialmente a Orozco, el unico que pinto la Revolucion como tragedia y farsa en vez de epopeya, y reivindica contra el dogma muralista a los pintores que el canon nacionalista margino: Tamayo ante todo. El arte publico, recuerda Paz, fue siempre el arte del poder; la modernidad artistica nacio de su critica."
+      },
+      {
+        "school": "Jose Luis Cuevas y la generacion de la Ruptura",
+        "view": "En La cortina de nopal (1956, publicado en Mexico en la Cultura), Cuevas convirtio el malestar de los artistas jovenes en manifiesto: el muralismo, vuelto Escuela Mexicana de Pintura, habia levantado una cortina (analogia deliberada con la cortina de hierro) que aislaba a Mexico del arte internacional y obligaba a los jovenes a pintar indigenas heroicos para conseguir encargos oficiales. Lo que empezo como vanguardia termino como academia estatal con monopolio del gusto. La generacion de la Ruptura (Cuevas, Vicente Rojo, Manuel Felguerez, Lilia Carrillo) no discutio la calidad de los tres grandes sino su conversion en aduana: el problema no era Rivera, era el riverismo obligatorio. La polemica con Siqueiros (no hay mas ruta que la nuestra) definio el arte mexicano de la segunda mitad del siglo."
+      },
+      {
+        "school": "La critica decolonial: el indigena representado sin voz",
+        "view": "Desde Quijano y Rivera Cusicanqui se formula la objecion mas actual: el muralismo puso al indigena en el centro del muro pero casi nunca le dio el pincel ni la palabra. Los indigenas de Rivera son figuras idealizadas dentro del relato mestizo de Vasconcelos: materia prima visual de una nacion que los integra subordinandolos, exactamente la colonialidad interna que Gonzalez Casanova teorizo. Rivera Cusicanqui, que analizo en Bolivia como las imagenes del indio fabricadas por elites letradas sustituyen su autorepresentacion (su sociologia de la imagen), ofrece el marco exacto: representar al otro sin que el otro se represente es continuar la operacion colonial con medios esteticos. El muralismo narro a los pueblos originarios; no los dejo narrar. Las preguntas de Berger aplican literalmente: quien mira, quien es mirado, quien es dueño del muro."
+      }
+    ],
+    "contrasts": "Las posiciones se ordenan segun donde cada una pone el sujeto del muralismo. Para Craven y la tradicion del arte publico, el sujeto fue el pueblo: el muralismo democratizo el acceso al arte y probo que se puede pintar para todos sin mercado. Para Paz y Cuevas, el sujeto real fue el Estado: la pedagogia era catequesis y el muro, aduana. Para la critica decolonial, ni pueblo ni Estado: el sujeto ausente es el indigena, hablado por otros en su propia imagen. El caso Rockefeller cruza las tres lecturas: heroismo del artista frente al capital, o prueba de que el arte politico vive de los poderes que denuncia. Lo que esta en juego es si el arte financiado por el poder puede ser otra cosa que su espejo, la pregunta de toda bienal, todo museo publico y todo encargo estatal de hoy.",
+    "sources": [
+      {
+        "label": "Manifiesto del Sindicato de Obreros Tecnicos, Pintores y Escultores (1923) - ICAA/MFAH",
+        "url": "https://icaa.mfah.org/s/es/item/732349"
+      },
+      {
+        "label": "Jose Luis Cuevas, La cortina de nopal (1956) - ICAA/MFAH",
+        "url": "https://icaa.mfah.org/s/es/item/788032"
+      },
+      {
+        "label": "David Craven, Art and Revolution in Latin America, 1910-1990 (Yale University Press)",
+        "url": "https://yalebooks.yale.edu/book/9780300082111/art-and-revolution-in-latin-america-1910-1990/"
+      },
+      {
+        "label": "Octavio Paz: (re)lecturas del muralismo mexicano (Araucaria, via Redalyc)",
+        "url": "https://www.redalyc.org/journal/282/28268060013/html/"
+      },
+      {
+        "label": "Hospicio Cabañas, Guadalajara (frescos de Orozco) - UNESCO Patrimonio Mundial",
+        "url": "https://whc.unesco.org/es/list/815"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre el muralismo mexicano (Rivera, Orozco, Siqueiros). No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de continuar. Cuando yo afirme algo, pedime razones y un mural concreto como evidencia. Presenta objeciones de escuelas rivales concretas: la critica de Octavio Paz al muralismo como arte oficial e ideologico, la cortina de nopal de Cuevas y la Ruptura, la critica decolonial al indigena representado sin voz (Quijano, Rivera Cusicanqui), y la defensa de David Craven del mural como arte dialogico. Si me trabo, dame una pista como pregunta mas concreta, nunca la respuesta. Empeza preguntandome: puede un mural pagado por el Estado criticar al Estado, o el encargo ya define lo decible?"
+}

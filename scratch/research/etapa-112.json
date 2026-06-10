@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "La democracia y sus criticos (1989) consolido el movimiento teorico mas influyente de la ciencia politica del siglo XX: bajar la democracia del ideal al regimen observable. La poliarquia de Dahl convirtio la palabra democracia, hasta entonces un elogio, en una variable medible con siete instituciones auditables, y su demolicion del tutelaje (guardianship) sigue siendo el argumento estandar contra el gobierno de los expertos, de Platon a la tecnocracia contemporanea. El debate sigue vivo por dos frentes. Primero, el frente metodologico: toda la industria de medicion democratica (Polity, Freedom House, V-Dem) desciende de la operacionalizacion dahliana, y cada disputa sobre si un pais es o no democracia es, en el fondo, una disputa sobre que instituciones de la lista de Dahl pesan mas. Segundo, el frente normativo: los criticos sostienen que el pluralismo de Dahl describe la superficie del poder e ignora sus caras ocultas (quien fija la agenda, quien moldea las preferencias), que la poliarquia es un techo demasiado bajo para el ideal participativo, y que en sociedades capitalistas la igualdad politica formal convive con una desigualdad de recursos que vacia el proceso. Cada ola de erosion democratica reabre la pregunta: la lista de Dahl, alcanza para distinguir democracia de su simulacro?",
+    "supporters": [
+      {
+        "school": "La politica comparada empirica y la medicion de la poliarquia (Coppedge, proyecto V-Dem)",
+        "view": "Michael Coppedge y el equipo de Varieties of Democracy (V-Dem) tomaron la poliarquia de Dahl como nucleo de la medicion democratica global: el indice de democracia electoral de V-Dem operacionaliza casi literalmente las instituciones dahlianas (elecciones limpias, sufragio, libertad de expresion y asociacion, fuentes alternativas de informacion). Coppedge, en Democratization and Research Methods (2012) y en los papers fundacionales de V-Dem, argumenta que la genialidad de Dahl fue descomponer la democracia en componentes observables que se erosionan por separado, exactamente lo que documentan los estudios actuales de retroceso democratico (democratic backsliding). Para esta escuela, Dahl no escribio solo filosofia: escribio el protocolo de medicion que la disciplina sigue usando medio siglo despues."
+      },
+      {
+        "school": "El pluralismo empirico de la escuela de Yale (Polsby, Lindblom)",
+        "view": "Nelson Polsby, en Community Power and Political Theory (1963), defendio el metodo de Who Governs? (1961) contra los teoricos de las elites: para saber quien gobierna hay que observar decisiones concretas, no inferir dominacion de la mera reputacion o posicion social. Esta escuela sostiene que el pluralismo de Dahl es la unica teoria del poder con disciplina empirica: afirma dispersion del poder donde la evidencia la muestra, y la revisa donde no, como hizo el propio Dahl al reconocer en A Preface to Economic Democracy (1985) y en Dilemmas of Pluralist Democracy (1982) que la concentracion de recursos economicos amenaza la igualdad politica. Charles Lindblom, companero de Yale, radicalizo esa autocorreccion en Politics and Markets (1977) con la posicion privilegiada de la empresa."
+      },
+      {
+        "school": "La defensa contemporanea contra la epistocracia (Estlund, Landemore)",
+        "view": "David Estlund, en Democratic Authority (2008), formalizo el argumento anti-tutelaje de Dahl: aunque existan expertos, no hay criterio aceptable para todos que justifique entregarles el poder; la pericia no genera por si sola autoridad legitima (la falacia experto/jefe). Helene Landemore, en Democratic Reason (2013) y Open Democracy (2020), agrego el argumento epistemico positivo: la inclusion de perspectivas diversas hace que el demos decida mejor que cualquier subconjunto de sabios. Ambos escriben contra el renacimiento epistocratico (Jason Brennan, Against Democracy, 2016) usando municiones dahlianas: nadie es tan superior a otro que merezca decidir por el sin su consentimiento, y quien define los fines no puede ser un experto en medios."
+      }
+    ],
+    "critics": [
+      {
+        "school": "El elitismo competitivo y la teoria de las elites (Schumpeter, C. Wright Mills)",
+        "view": "Joseph Schumpeter, en Capitalismo, socialismo y democracia (1942), habia reducido la democracia a un metodo: la lucha competitiva por el voto, sin soberania popular sustantiva ni bien comun cognoscible. Desde esta vereda, la poliarquia de Dahl es schumpeterianismo con ropaje normativo: agrega derechos y participacion al esquema, pero no escapa de la objecion de que el ciudadano comun es manipulable y la politica la hacen elites organizadas. C. Wright Mills, en The Power Elite (1956), ataco directamente al pluralismo: detras de la competencia visible de grupos hay una elite de poder (corporaciones, militares, ejecutivo) que decide lo importante fuera del proceso electoral. Para esta tradicion, Dahl describe el teatro y no la obra."
+      },
+      {
+        "school": "Las caras ocultas del poder (Bachrach y Baratz, Steven Lukes)",
+        "view": "Peter Bachrach y Morton Baratz, en Two Faces of Power (American Political Science Review, 1962), demolieron el metodo pluralista: estudiar solo decisiones observables ignora la segunda cara del poder, la capacidad de mantener temas fuera de la agenda (nondecision-making, movilizacion del sesgo). Quien logra que la desigualdad ni siquiera se discuta ejerce mas poder que quien gana una votacion. Steven Lukes, en Power: A Radical View (1974), agrego la tercera dimension: el poder de moldear las preferencias mismas, de modo que los dominados no perciban sus intereses reales. Si Lukes tiene razon, el consenso que Dahl midio en New Haven puede ser el sintoma de la dominacion, no la prueba de su ausencia."
+      },
+      {
+        "school": "Participacionistas y la critica marxista al pluralismo (Pateman, Miliband)",
+        "view": "Carole Pateman, en Participation and Democratic Theory (1970), acuso a la teoria pluralista-elitista de haber abandonado el corazon de la democracia: la participacion como educacion politica, en la linea de Rousseau y Mill. Una poliarquia donde el ciudadano solo vota cada cuatro anos produce ciudadanos pasivos; la democracia debe extenderse al lugar de trabajo. La critica marxista convergio desde otro flanco: Ralph Miliband, en The State in Capitalist Society (1969), sostuvo que el pluralismo confunde la competencia entre grupos con igualdad de influencia, cuando el Estado capitalista responde estructuralmente a la clase dominante. Las siete instituciones pueden funcionar a la perfeccion mientras la desigualdad de recursos decide de antemano que demandas prosperan."
+      }
+    ],
+    "contrasts": "Lo que esta en juego es donde se mira para saber quien gobierna. Dahl y sus herederos empiricos miran instituciones y decisiones observables: si hay elecciones limpias, prensa libre y asociacion autonoma, hay poliarquia, y eso ya es mucho. Los criticos miran lo que no se ve: la agenda que no se discute (Bachrach y Baratz), las preferencias fabricadas (Lukes), la participacion ausente (Pateman), los recursos desiguales (Mills, Miliband). Si los criticos aciertan, un regimen puede aprobar el examen de las siete instituciones y ser igualmente oligarquico en sustancia. Si Dahl acierta, las criticas radicales son inverificables: un poder que no deja huellas observables es una hipotesis que no se puede refutar. La medicion democratica contemporanea vive exactamente en esa tension.",
+    "sources": [
+      {
+        "label": "Democracy (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/democracy/"
+      },
+      {
+        "label": "Democracy and Its Critics — Yale University Press",
+        "url": "https://yalebooks.yale.edu/book/9780300049381/democracy-and-its-critics/"
+      },
+      {
+        "label": "Bachrach y Baratz, Two Faces of Power (American Political Science Review, 1962 — JSTOR)",
+        "url": "https://www.jstor.org/stable/1952796"
+      },
+      {
+        "label": "Varieties of Democracy (V-Dem) — proyecto de medicion basado en la poliarquia de Dahl",
+        "url": "https://www.v-dem.net/"
+      },
+      {
+        "label": "Robert A. Dahl — Department of Political Science, Yale University",
+        "url": "https://politicalscience.yale.edu/"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre La democracia y sus criticos de Robert Dahl. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cada vez que afirme algo, pedime razones y evidencia textual. Presenta objeciones de escuelas rivales concretas: la segunda cara del poder de Bachrach y Baratz, la tercera dimension de Lukes, la elite de poder de C. Wright Mills, el participacionismo de Pateman, la critica marxista de Miliband y el elitismo de Schumpeter. Si me trabo, dame una pista en forma de pregunta mas concreta. Empeza con esta pregunta: si un pais cumple las siete instituciones de la poliarquia pero los temas que importan a los pobres nunca llegan a la agenda, es una democracia? Como lo sabrias?"
+}

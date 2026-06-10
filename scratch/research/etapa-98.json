@@ -1,0 +1,77 @@
+{
+  "debate_deep": {
+    "intro": "Pocos terminos de la teoria politica contemporanea son a la vez tan usados y tan disputados como \"neoliberalismo\". Para algunos es la palabra mas precisa de que disponemos para nombrar el orden economico-politico dominante desde los anos setenta: un proyecto intelectual nacido en la Sociedad Mont Pelerin (1947) con Hayek, Friedman, Mises y la Escuela de Chicago, que reorganizo el Estado, el mercado y hasta la subjetividad. Para otros es un cajon de sastre, una etiqueta peyorativa que casi nunca usan sus supuestos partidarios y que ha llegado a significar todo y por tanto nada. El debate no es solo nominal: depende de el si tenemos un diagnostico potente del presente o solo un insulto erudito. Tres preguntas lo estructuran. Primero, que clase de cosa es el neoliberalismo: una ideologia, una racionalidad de gobierno, una fase del capitalismo, un proyecto de clase, o un termino vacio. Segundo, si su nucleo es \"menos Estado\" o, al contrario, un Estado activo que construye y blinda mercados, segun la influyente lectura de Foucault. Tercero, si el concepto sirve como categoria analitica o si su elasticidad lo vuelve inservible.",
+    "supporters": [
+      {
+        "school": "David Harvey (geografia marxista) - Breve historia del neoliberalismo",
+        "view": "Harvey define el neoliberalismo como un proyecto politico consciente para restaurar el poder de clase de las elites economicas tras la crisis del liberalismo embridado (embedded liberalism) de los anos sesenta y setenta. No es primariamente una teoria economica sobre la eficiencia de los mercados, sino una estrategia: la utopia del libre mercado funciono como cobertura ideologica mientras, en la practica, se reconcentraba la riqueza. Su prueba central es el salto en la participacion del 0,1% mas rico en el ingreso nacional estadounidense desde 1980. El concepto es valido precisamente porque revela la funcion de clase que el lenguaje tecnocratico oculta."
+      },
+      {
+        "school": "Wendy Brown (teoria politica) - El pueblo sin atributos / Undoing the Demos",
+        "view": "Apoyandose en Foucault, Brown sostiene que el neoliberalismo no es solo una politica economica sino una racionalidad normativa que \"economiza\" toda esfera de la vida: convierte al ciudadano en capital humano, la justicia en tasa de crecimiento, la libertad en valorizacion de uno mismo y la igualdad en competencia de mercado. Su tesis es que esta razon erosiona sigilosamente las bases mismas de la democracia: vacia al demos de su capacidad de autogobierno. El concepto es indispensable porque nombra una transformacion cultural y subjetiva que las definiciones puramente economicas no captan."
+      },
+      {
+        "school": "Pierre Dardot y Christian Laval (filosofia social) - La nueva razon del mundo",
+        "view": "Dardot y Laval rechazan ver el neoliberalismo como mera ideologia o doctrina economica: lo definen como una racionalidad que estructura tanto la accion de los gobernantes como la conducta de los gobernados, con la competencia como norma de comportamiento y la empresa como modelo de subjetivacion. Lejos de ser un retorno al laissez-faire clasico, supone una ruptura: una construccion activa que produce ciertos modos de vida y de relacion con uno mismo y con los otros. El concepto sirve porque capta la dimension gubernamental y antropologica del fenomeno, no solo las politicas de privatizacion."
+      },
+      {
+        "school": "Quinn Slobodian (historia intelectual) - Globalists",
+        "view": "Slobodian ofrece la primera historia intelectual del globalismo neoliberal y corrige el malentendido de que el neoliberalismo busca \"achicar el Estado\". Su tesis es que los neoliberales del circulo ginebrino (Hayek, Mises, Roepke, Heilperin) querian disenar instituciones supranacionales no para liberar los mercados sino para encapsularlos (encase): blindar la economia mundial frente a la amenaza de la democracia de masas y la soberania nacional. El concepto es potente porque, lejos de ser vago, designa un proyecto institucional concreto y documentable, de la caida del Imperio Habsburgo a la OMC."
+      },
+      {
+        "school": "Philip Mirowski (historia y filosofia de la economia) - Nunca dejes que una crisis grave se desperdicie",
+        "view": "Mirowski sostiene que existe un Colectivo de Pensamiento Neoliberal (Neoliberal Thought Collective) organizado en capas, con la Sociedad Mont Pelerin como nucleo, que opera desde 1947. Su argumento es que el neoliberalismo no es solo una teoria economica sino una cosmovision tan abarcadora que sobrevivio a la crisis financiera de 2008: cualquier evidencia en contra termino reforzando la fe de sus adeptos y justificando mas austeridad y desregulacion. El concepto es valido porque permite explicar la asombrosa resiliencia politica de unas ideas que la realidad economica deberia haber refutado."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Taylor Boas y Jordan Gans-Morse (ciencia politica comparada) - De filosofia liberal a eslogan antiliberal",
+        "view": "A partir del analisis de contenido de 148 articulos academicos (1990-2004), Boas y Gans-Morse muestran que \"neoliberalismo\" suele usarse sin definicion, de forma asimetrica segun la ideologia (casi siempre por criticos del libre mercado, casi nunca por sus partidarios) y aplicado a una variedad excesiva de fenomenos. Concluyen que se ha vuelto un \"vertedero conceptual\" que transmite poco contenido sustantivo y funciona sobre todo como senal de que uno no valora positivamente los mercados. Su critica no defiende necesariamente al liberalismo, sino que advierte que la imprecision del termino lo torna analiticamente inservible."
+      },
+      {
+        "school": "Defensores del liberalismo de mercado (herederos de Hayek y Friedman / think tanks liberales)",
+        "view": "Los partidarios contemporaneos de las ideas de mercado de Hayek y Friedman rechazan la caricatura implicada en el termino. Sostienen que casi nadie se autodenomina \"neoliberal\": la palabra es un arma retorica de sus adversarios que amalgama economia de mercado, ciencia economica, conservadurismo y libertarismo en un mismo monstruo. Defienden que las politicas tildadas de neoliberales (apertura comercial, estabilidad monetaria, derechos de propiedad) tienen justificaciones tecnicas y morales propias y no se reducen a un complot de las elites. Para ellos, hablar de \"neoliberalismo\" sustituye el argumento por la etiqueta."
+      },
+      {
+        "school": "Escepticos del concepto en la academia (Rajesh Venugopal y la critica de la elasticidad)",
+        "view": "Venugopal y otros documentan que el neoliberalismo se ha vuelto, en sus propias palabras, un termino controvertido, incoherente y en crisis: cuanto mas se expande su uso, menos discrimina entre cosas distintas (privatizacion britanica, ajuste latinoamericano, financiarizacion, gerencialismo universitario, individualismo cultural). El problema no es que el fenomeno no exista, sino que la palabra agrupa cosas demasiado heterogeneas como para sostener una explicacion causal. Su escepticismo apunta a la validez metodologica del concepto, no a una defensa del mercado."
+      },
+      {
+        "school": "La objecion historiografica (la lectura de la SEP: Vallier, Biebricher)",
+        "view": "Una posicion intermedia, pero critica del uso militante, sostiene que el termino solo es util si se ancla en lo que efectivamente defendieron pensadores reales (Hayek, Friedman, Buchanan): instituciones liberales y capitalistas combinadas con democracia constitucionalmente limitada y un Estado de bienestar modesto. Desde aqui se critica el uso peyorativo que atribuye a los neoliberales un \"ethos\" o una filosofia de vida que ellos nunca sostuvieron; lo que defendian era un diseno institucional. La leccion es que, depurado por la historia intelectual, el concepto deja de ser mas problematico que \"conservadurismo\" o \"socialismo\", pero ello exige abandonar su uso como insulto."
+      }
+    ],
+    "contrasts": "El choque de fondo no es izquierda contra derecha, sino dos preguntas cruzadas. La primera es ontologica: que tipo de objeto es el neoliberalismo. Harvey lo ve como proyecto de clase, Brown y Dardot-Laval como racionalidad de gobierno que reconfigura la subjetividad, Slobodian como arquitectura institucional global, Mirowski como colectivo de pensamiento organizado; los criticos del termino (Boas y Gans-Morse, Venugopal) responden que esa misma multiplicidad de definiciones delata que no hay un objeto unico, sino una etiqueta estirada hasta perder filo. La segunda es metodologica y normativa: aun si el fenomeno existe, sirve la palabra para explicarlo o solo para condenarlo. Hay puntos de convergencia que conviene no perder de vista. Foucault y Slobodian coinciden, contra el sentido comun, en que el neoliberalismo no es \"menos Estado\" sino un Estado que produce y protege mercados, y hasta varios criticos del termino aceptan ese matiz. Tambien hay un acuerdo factico sobre la genealogia (Mont Pelerin, Hayek, Friedman, Chicago) aunque se discrepe sobre su alcance. La linea divisoria real pasa por si uno cree que detras de los usos dispares late un proyecto coherente que la palabra ayuda a ver, o si cree que la palabra crea una falsa unidad que impide ver. Un buen ensayo no tiene que elegir bando de entrada: puede preguntarse para que clase de pregunta el concepto es util y para cual se vuelve un estorbo.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy - Kevin Vallier, \"Neoliberalism\" (rev. 2026): definicion, Hayek/Friedman/Buchanan, cita a Harvey y al debate sobre la imprecision (Venugopal)",
+        "url": "https://plato.stanford.edu/entries/neoliberalism/"
+      },
+      {
+        "label": "Encyclopaedia Britannica (Money) - \"Neoliberalism\": definicion como ideologia/modelo de politica de libre mercado y origenes en Hayek y Friedman",
+        "url": "https://www.britannica.com/money/neoliberalism"
+      },
+      {
+        "label": "Princeton University Press - Wendy Brown, \"Undoing the Demos: Neoliberalism's Stealth Revolution\": la razon neoliberal erosiona la democracia",
+        "url": "https://press.princeton.edu/books/paperback/9781935408543/undoing-the-demos"
+      },
+      {
+        "label": "Cambridge Core (Journal of Social Policy) - P. M. Garrett, \"Revisiting 'The Birth of Biopolitics'\": la lectura de Foucault del neoliberalismo como reconfiguracion activa del Estado, no como retirada",
+        "url": "https://www.cambridge.org/core/journals/journal-of-social-policy/article/abs/revisiting-the-birth-of-biopolitics-foucaults-account-of-neoliberalism-and-the-remaking-of-social-policy/7DF99E21282AA855D0541D470A02B46D"
+      },
+      {
+        "label": "Verso Books - Philip Mirowski, \"Never Let a Serious Crisis Go to Waste\": el Colectivo de Pensamiento Neoliberal y la supervivencia tras 2008",
+        "url": "https://www.versobooks.com/products/2303-never-let-a-serious-crisis-go-to-waste"
+      },
+      {
+        "label": "Crooked Timber - Henry Farrell, resena de Quinn Slobodian, \"Globalists\": el neoliberalismo como blindaje (encasing) del mercado mundial frente a la democracia",
+        "url": "https://crookedtimber.org/2018/05/03/quinn-slobodian-globalists/"
+      },
+      {
+        "label": "ProQuest - Taylor Boas y Jordan Gans-Morse, \"Neoliberalism: From New Liberal Philosophy to Anti-Liberal Slogan\", Studies in Comparative International Development 44(2), 2009: el termino como eslogan impreciso usado por los criticos",
+        "url": "https://www.proquest.com/openview/b28fbfc8fb884ef31de87c3eccaf4c9d/1"
+      }
+    ]
+  },
+  "socratic": "Sos mi interlocutor socratico para un ensayo sobre el neoliberalismo. No me des respuestas ni escribas el ensayo por mi: haceme pensar. Regla del juego: una sola pregunta por turno, espera mi respuesta, y recien entonces segui. Cuando yo conteste, pedime siempre las razones y un ejemplo concreto antes de avanzar. Si mi posicion es floja, oponeme una objecion real y nombrada (no un hombre de paja) y pedime que la respondas. Si me trabo, dame una pista breve, no la solucion. Arranca con esta pregunta y nada mas: cuando decis \"neoliberalismo\", a que te referis exactamente: a una ideologia, a una manera de gobernar, a una fase del capitalismo, a un proyecto de las elites, o a una palabra que usan sobre todo sus criticos? Despues, segun lo que yo conteste, llevame por estas tensiones, una por turno: (1) Boas y Gans-Morse mostraron que casi nadie se autodenomina neoliberal y que el termino casi nunca se define; si es asi, tu definicion, la usaria alguno de los supuestos neoliberales o solo sus adversarios? (2) Hayek y Friedman decian defender mercados con un Estado limitado; Foucault y Slobodian sostienen que el neoliberalismo no es \"menos Estado\" sino un Estado que construye y blinda mercados. Cual de las dos describe mejor el caso que tenes en mente, y por que? (3) Harvey lo lee como restauracion del poder de clase; podes distinguir cuando una politica es \"neoliberal\" por sus efectos distributivos de cuando lo es por sus ideas, sin que la palabra te resuelva la pregunta de antemano? (4) Brown y Dardot-Laval dicen que economiza hasta la subjetividad; podes dar un ejemplo de tu propia vida que confirme eso, y otro que lo complique? (5) Si Venugopal tiene razon y el termino agrupa cosas demasiado distintas, que perderia tu ensayo si cambiaras \"neoliberalismo\" por una descripcion mas precisa (\"financiarizacion\", \"ajuste fiscal\", \"gerencialismo\")? Cerra siempre pidiendome que formule, en una sola frase, la tesis que sostendre y la mejor objecion que un lector inteligente le haria."
+}

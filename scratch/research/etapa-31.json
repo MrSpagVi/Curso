@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "El debate central gira en torno a si la analitica del poder de Foucault, que describe el poder disciplinario, el panoptico y la biopolitica como difusos, productivos y omnipresentes, ofrece una critica coherente de la modernidad o si carece de fundamentos normativos para sostener esa misma critica. La discusion sigue viva porque sus conceptos resultan indispensables para pensar la vigilancia, la seguridad y el gobierno de las poblaciones, mientras persisten objeciones sobre su rigor historico, su tratamiento de la clase y el Estado, y su capacidad de orientar la resistencia.",
+    "supporters": [
+      {
+        "school": "Estudios de la gubernamentalidad (Rose, Miller, Dean)",
+        "view": "Esta escuela retoma la biopolitica y la gubernamentalidad como herramientas empiricas para analizar el gobierno liberal y neoliberal. Sostienen que el poder moderno opera menos por coaccion que mediante tecnologias del yo y de mercado que producen sujetos autorregulados, desplazando los riesgos sociales al individuo."
+      },
+      {
+        "school": "Lectura genealogica afirmativa",
+        "view": "Defienden que Vigilar y castigar no es un diagnostico de resignacion sino una herramienta de critica y de construccion de coaliciones politicas. La genealogia revelaria la contingencia de las instituciones penales y disciplinarias, abriendo espacios para imaginar otras formas de organizacion."
+      },
+      {
+        "school": "Marxismo que integra a Foucault (Nicos Poulantzas)",
+        "view": "Poulantzas incorpora el vocabulario foucaultiano del poder/saber y la microfisica del poder a una teoria del Estado. Reconoce el valor del analisis disciplinario, aunque insiste en reinscribirlo en las relaciones de clase y en la materialidad estatal."
+      },
+      {
+        "school": "Sociologia del castigo (David Garland)",
+        "view": "Garland valora a Foucault como uno de los pilares para una teoria social del castigo junto a Durkheim, mostrando como la penalidad se entrelaza con estrategias de poder y sensibilidades culturales. Integra sus aportes en una sintesis interpretativa mas amplia sobre la prision moderna."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Teoria critica (Jurgen Habermas)",
+        "view": "Habermas acusa a Foucault de criptonormativismo: critica la modernidad y el poder sin poder dar cuenta de los criterios normativos que sostienen su propia critica. Le atribuye una contradiccion performativa, pues haria afirmaciones de verdad mientras reduce toda verdad a efectos de poder."
+      },
+      {
+        "school": "Feminismo y teoria critica (Nancy Fraser)",
+        "view": "Fraser sostiene que la obra de Foucault mezcla agudas intuiciones empiricas con confusiones normativas. Si todo es poder y no hay un patron normativo externo, no queda claro desde donde se condena ese poder ni por que resistir seria preferible a someterse."
+      },
+      {
+        "school": "Critica marxista clasica",
+        "view": "Desde el marxismo se objeta que la concepcion difusa del poder diluye las categorias de clase y de Estado, restando centralidad a la explotacion y a la lucha de clases. Para esta tradicion, impugnar la primacia de la lucha de clases debilita el analisis de la dominacion capitalista."
+      },
+      {
+        "school": "Historiografia y exactitud historica",
+        "view": "Diversos historiadores sostienen que Foucault analiza el discurso de los reformadores penales mas que las practicas carcelarias efectivas, presentando ideales del siglo XVIII como si fueran reformas realizadas. Le reprochan anteponer la teoria a la evidencia y sobredimensionar la variable del poder."
+      },
+      {
+        "school": "Critica sobre resistencia y equivalencias",
+        "view": "Al presentar el poder disciplinario como ubicuo, se le reprocha colapsar las diferencias entre sociedades democraticas y abiertamente autoritarias. La tesis de que todo es peligroso dejaria poco margen para la resistencia y conduciria, segun estos criticos, a cierta resignacion frente al control."
+      }
+    ],
+    "contrasts": "El nucleo del desacuerdo no es si Foucault describe bien los mecanismos de vigilancia y normalizacion, algo que incluso sus criticos suelen conceder, sino que estatuto tienen esos analisis. Los habermasianos exigen fundamentos normativos explicitos y leen su silencio como incoherencia; los foucaultianos responden que esa exigencia presupone justamente el universalismo que la genealogia pone en cuestion. Los marxistas reclaman que la clase y el Estado vuelvan al centro, mientras que los estudios de la gubernamentalidad muestran que la perspectiva es fecunda al desplazarse de la soberania hacia el gobierno de las conductas. La critica historiografica no invalida sin mas el modelo del panoptico, pero advierte que su fuerza es mas conceptual que empirica. Para un curso de teoria politica, el contraste productivo consiste en usar a Foucault como lente potente sobre el poder moderno, sin perder de vista las preguntas abiertas sobre normatividad, clase y prueba historica.",
+    "sources": [
+      {
+        "label": "Michel Foucault - Stanford Encyclopedia of Philosophy (disciplina, biopolitica, gubernamentalidad)",
+        "url": "https://plato.stanford.edu/entries/foucault/"
+      },
+      {
+        "label": "Foucault, Michel: Political Thought - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/fouc-pol/"
+      },
+      {
+        "label": "Critical Theory (Frankfurt School) - Stanford Encyclopedia of Philosophy (Habermas y la normatividad)",
+        "url": "https://plato.stanford.edu/entries/critical-theory/"
+      },
+      {
+        "label": "Mascaretti, Foucault, Normativity, and Freedom: A Reappraisal - Foucault Studies (peer-reviewed)",
+        "url": "https://rauli.cbs.dk/index.php/foucault-studies/article/view/5890"
+      },
+      {
+        "label": "David Garland, Punishment and Modern Society - University of Chicago Press",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3774479.html"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre Vigilar y castigar de Foucault. No me des respuestas: hace preguntas, una por vez. Empeza preguntandome como define Foucault el poder y por que el panoptico es su figura central. Cuando afirme algo, pedime razones y opone objeciones reales (Habermas: criptonormativismo; el marxismo: y la clase y el Estado; los historiadores: exactitud del relato). Si me trabo, dame una pista, no la respuesta."
+}

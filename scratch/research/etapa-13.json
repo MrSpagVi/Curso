@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "El debate central gira en torno a la voluntad general, la formula forzar a alguien a ser libre (Libro I, cap. 7) y la soberania popular indivisible: instituyen una libertad civil superior o abren la puerta al sometimiento del individuo en nombre del colectivo. La discusion sigue viva porque la teoria es ambigua entre una lectura democratica (la voluntad general como lo que los ciudadanos deciden juntos) y una lectura trascendente (un interes comun que existe con independencia de lo que cada cual quiere), tension que atraviesa la teoria democratica contemporanea.",
+    "supporters": [
+      {
+        "school": "Lectura democratico-republicana (Joshua Cohen, Christopher Bertram)",
+        "view": "Leen la voluntad general como las decisiones que el pueblo soberano adopta legislando en conjunto, no como una entidad mistica. Bajo procedimientos adecuados, los ciudadanos convergen en leyes que expresan su interes comun; obedecerlas es obedecerse a si mismos, base de las concepciones epistemicas y deliberativas de la democracia."
+      },
+      {
+        "school": "Interpretacion kantiana de la autonomia",
+        "view": "Kant tomo de Rousseau la idea de una voluntad universal para formular la autonomia y el imperativo categorico. En esta clave, forzar a ser libre no es coaccion arbitraria sino el sometimiento a una ley que uno mismo se da, donde libertad y obediencia a la ley se reconcilian en la autodeterminacion moral."
+      },
+      {
+        "school": "Defensa de la libertad republicana",
+        "view": "Rousseau buscaba proteger la libertad civil y la autonomia, no dar rienda suelta al gobierno. La libertad republicana consiste en no quedar sujeto a la voluntad particular de ningun otro hombre; la ley general e impersonal sustituye la dependencia personal por la dependencia de reglas iguales para todos."
+      },
+      {
+        "school": "Rehabilitacion frente a la acusacion totalitaria",
+        "view": "Sostienen que la imputacion de totalitarismo ha sido en gran medida cuestionada: la voluntad general puede identificarse con una constitucion escrita en nombre del pueblo y operar como limite al despotismo, pues el gobierno pierde legitimidad cuando se coloca por encima de la ley."
+      },
+      {
+        "school": "Reivindicacion del legado igualitario",
+        "view": "Subrayan su nucleo igualitario y popular: la soberania reside en el pueblo, que conserva el derecho y aun la obligacion de rebelarse cuando un gobierno usurpa su poder. El contrato legitimo se opone al contrato fraudulento que solo protege la propiedad de los ricos."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica totalitaria (Jacob Talmon)",
+        "view": "En Los origenes de la democracia totalitaria (1952) caracterizo la voluntad general como germen de una democracia totalitaria, porque somete a los ciudadanos a una voluntad supuestamente infalible y se apoya en la idea de forzar a ser libre. Lo presenta como precursor de la politica totalitaria moderna."
+      },
+      {
+        "school": "Liberalismo de la libertad negativa (Isaiah Berlin)",
+        "view": "Berlin advirtio que asociar la libertad con la obediencia a la voluntad general permite a lideres autoritarios justificar la opresion en nombre de la libertad. Por eso conto a Rousseau entre los enemigos mas formidables de la libertad en la historia del pensamiento."
+      },
+      {
+        "school": "Liberalismo posrevolucionario (Benjamin Constant)",
+        "view": "Constant denuncio que la soberania popular ilimitada de Rousseau, al no reconocer una esfera privada sustraida al poder politico, sienta las bases del despotismo. Su distincion entre la libertad de los antiguos y la de los modernos opone la participacion colectiva a la garantia de la independencia individual."
+      },
+      {
+        "school": "Critica feminista contractualista (Carole Pateman)",
+        "view": "En El contrato sexual sostiene que Rousseau suscribe un contrato sexual que condena a la mujer a una condicion proxima a la servidumbre. Su libertad para los varones y la sujecion para las mujeres son mutuamente dependientes: rechazar la servidumbre femenina obliga a revisar tambien su ideal de libertad masculina."
+      },
+      {
+        "school": "Critica feminista liberal-igualitaria (Susan Moller Okin)",
+        "view": "En Women in Western Political Thought muestra que la educacion de Sofia en el Emilio subordina a la mujer al varon, en contradiccion con los propios valores de libertad e igualdad de Rousseau. Para Okin esa exclusion no es una exigencia logica de la teoria, sino una incoherencia reaccionaria."
+      }
+    ],
+    "contrasts": "El choque de fondo enfrenta a quienes ven en la voluntad general una sintesis de libertad y autoridad por la via de la autolegislacion (lecturas democraticas, republicanas y kantianas) con quienes temen que disuelva al individuo en el colectivo (Talmon, Berlin, Constant). Buena parte del desacuerdo depende de como se lea la voluntad general: como procedimiento deliberativo concreto del pueblo o como interes comun trascendente susceptible de ser invocado por quien dice saber lo que el pueblo realmente quiere. La acusacion de totalitarismo esta hoy en gran medida cuestionada, pero la critica feminista abre otro frente: la libertad de los ciudadanos varones se construye sobre la exclusion politica de las mujeres planteada en el Emilio. El lector puede juzgar por separado dos problemas: si la voluntad general protege o amenaza la libertad individual, y si su universalismo es genuino o se sostiene sobre exclusiones.",
+    "sources": [
+      {
+        "label": "C. Bertram, Jean Jacques Rousseau - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/rousseau/"
+      },
+      {
+        "label": "J. Delaney, Jean-Jacques Rousseau - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/rousseau/"
+      },
+      {
+        "label": "General will - Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/topic/general-will"
+      },
+      {
+        "label": "The social contract in Rousseau - Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/topic/social-contract/The-social-contract-in-Rousseau"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre el Contrato social de Rousseau. No me des respuestas: hace preguntas, una por vez. Empeza preguntandome que significa forzar a alguien a ser libre y si la voluntad general protege o amenaza la libertad individual. Cuando afirme algo, pedime razones y opone objeciones reales (Berlin y Talmon: democracia totalitaria; Constant: falta de esfera privada; Pateman: el contrato sexual). Si me trabo, dame una pista, no la respuesta."
+}

@@ -7,11 +7,11 @@ title: "Etapa 11 — Hobbes — Leviatán (selección caps. 13-21)"
 > El primer modelo riguroso del Estado moderno. Hobbes inventa el contrato social para resolver el problema más urgente de su época: cómo evitar la guerra civil. Toda la teoría política posterior razona dentro de su marco — incluso quienes lo refutan.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 25-35 h</span> · <span>:material-progress-check: Etapa 11/87</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 25-35 h</span> · <span>:material-progress-check: Etapa 11/103</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (87 etapas)</span>
+  <span class="g-label">Progreso global (103 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

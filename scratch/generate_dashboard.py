@@ -801,11 +801,9 @@ html_template = """<!DOCTYPE html>
         function loadCheckboxStates() {
             COURSE_DATA.forEach((stage, sIdx) => {
                 stage.tasks.forEach((task, tIdx) => {
-                    const key = `stage-${stage.stage}-task-${tIdx}`;
+                    const key = `advanced-stage-${stage.stage}-task-${tIdx}`;
                     const saved = localStorage.getItem(key);
-                    if (saved !== null) {
-                        task.completed = saved === 'true';
-                    }
+                    task.completed = saved === 'true';
                 });
             });
         }
@@ -815,7 +813,7 @@ html_template = """<!DOCTYPE html>
             const task = stage.tasks[taskIdx];
             task.completed = checkbox.checked;
             
-            const key = `stage-${stageNum}-task-${taskIdx}`;
+            const key = `advanced-stage-${stageNum}-task-${taskIdx}`;
             localStorage.setItem(key, checkbox.checked);
             
             const taskElement = document.getElementById(`task-item-${stageNum}-${taskIdx}`);

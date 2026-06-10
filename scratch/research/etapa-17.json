@@ -1,0 +1,65 @@
+{
+  "debate_deep": {
+    "intro": "El Segundo Tratado sobre el Gobierno Civil (1689) condensa los nucleos mas disputados de la teoria politica moderna y sus debates de post-lectura giran en torno a cuatro ejes. Primero, la teoria de la propiedad: Locke sostiene que cada individuo es propietario de su persona y de su trabajo, de modo que al mezclar el trabajo con un recurso comun y sin dueno lo convierte en propiedad privada (la teoria laboral de la apropiacion). Esa apropiacion esta acotada en el estado de naturaleza por dos limites, la clausula de suficiencia (dejar enough and as good, suficiente y tan bueno, para los demas) y el limite de no desperdicio (no apropiarse mas de lo que uno pueda usar antes de que se eche a perder). El paso decisivo y mas controvertido es la invencion del dinero: al ser imperecedero y aceptado por consentimiento tacito, el dinero permite acumular sin que nada se pudra, lo que para muchos interpretes disuelve el limite de no desperdicio y abre la puerta a la desigualdad ilimitada. Segundo, el fundamento del poder legitimo en el consentimiento, con la figura problematica del consentimiento tacito como base de la obligacion politica. Tercero, el derecho de resistencia y de revolucion cuando el gobierno traiciona el fideicomiso (trust) y se vuelve tiranico. Cuarto, los derechos naturales (vida, libertad, propiedad) como limite anterior y superior al poder politico. Estos ejes alimentan tensiones contemporaneas intensas sobre el vinculo entre Locke, el colonialismo y el despojo de tierras indigenas, sobre su relacion con la esclavitud, y sobre si el sujeto lockeano es un propietario posesivo, un agente teologicamente igual ante Dios, o el varon blanco propietario de los contratos de subordinacion.",
+    "supporters": [
+      {
+        "school": "Libertarismo de derechos naturales (Robert Nozick, Anarchy, State, and Utopia)",
+        "view": "Nozick recupera la apropiacion lockeana como base de su teoria de los titulos (entitlement theory): la justicia en las posesiones depende del proceso historico (apropiacion originaria justa, transferencia voluntaria y rectificacion) y no de patrones distributivos finales. Reformula la clausula lockeana como una restriccion debil: la apropiacion es legitima mientras la situacion de los demas no empeore respecto de la linea de base, lo que en la practica autoriza la propiedad privada extensa y el Estado minimo, en contra de los esquemas patronizados como el principio de diferencia de Rawls."
+      },
+      {
+        "school": "Lectura teologica e igualitaria (Jeremy Waldron, God, Locke and Equality; John Dunn)",
+        "view": "Waldron sostiene que la igualdad humana basica es la premisa operativa de toda la teoria de Locke y que esa igualdad solo se sostiene sobre un fundamento teista cristiano: todos somos hechura (workmanship) de Dios, su propiedad y obra, por lo que ninguno tiene autoridad natural sobre otro. Esta clave, anticipada por John Dunn al situar a Locke en su contexto calvinista, reivindica el Segundo Tratado como una doctrina genuina de derechos iguales y limites al poder, no como mera coartada del interes burgues."
+      },
+      {
+        "school": "Liberalismo constitucional del consentimiento y la resistencia",
+        "view": "La tradicion liberal lee el Segundo Tratado como la formulacion clasica del gobierno limitado: el poder politico nace del consentimiento de los gobernados, se ejerce como fideicomiso (trust) para proteger los derechos naturales y queda sujeto a revocacion. De ahi el derecho de resistencia: cuando el gobernante actua mas alla del derecho y disuelve la confianza, el pueblo recupera su poder y puede apelar al cielo. Esta lectura, recogida por la Stanford Encyclopedia y la Internet Encyclopedia of Philosophy, hace de Locke el ancestro del constitucionalismo y de las declaraciones de derechos modernas."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Individualismo posesivo (C. B. Macpherson, The Political Theory of Possessive Individualism)",
+        "view": "Macpherson argumenta que Locke concibe al individuo como propietario exclusivo de su persona y sus capacidades, sin deber nada a la sociedad por ellas. La introduccion del dinero disuelve los limites naturales (no desperdicio y suficiencia) y, junto con la asuncion tacita de la diferencia entre propietarios y asalariados que solo poseen su fuerza de trabajo, convierte la teoria en una justificacion de la acumulacion capitalista ilimitada y de una sociedad de clases, no en una doctrina de igualdad."
+      },
+      {
+        "school": "Critica poscolonial y de los derechos aborigenes (Barbara Arneil, John Locke and America; James Tully, Locke in Contexts)",
+        "view": "Arneil muestra que la teoria de la propiedad se elaboro en conexion con la actividad colonial de Locke al servicio de Shaftesbury y que el argumento de que solo el trabajo agricola crea propiedad servia para representar las tierras indigenas de America como baldias e infrautilizadas (la logica de la terra nullius y el vacuum domicilium), legitimando el despojo. Tully, por su parte, reinterpreta a Locke en su contexto para mostrar que su teoria, lejos de ser inocente, descalifica las formas de uso y tenencia colectiva de los pueblos aborigenes al medir la propiedad con la vara de la agricultura europea."
+      },
+      {
+        "school": "Contrato sexual y contrato racial (Carole Pateman; Charles W. Mills)",
+        "view": "Desde la critica feminista, Pateman sostiene que la libertad de contrato lockeana enmascara relaciones de poder desiguales al excluir a las mujeres de la esfera publica y naturalizar su subordinacion en la familia, de modo que el individuo libre y propietario es en realidad el varon cabeza de hogar. En paralelo, Mills denuncia el contrato racial subyacente al contractualismo: el sujeto de derechos se construye como blanco y europeo, mientras los pueblos no europeos quedan fuera del pacto, lo que conecta con la complicidad de Locke en la esclavitud colonial (su participacion en la Constitucion de Carolina y la justificacion de la esclavitud como cautiverio de guerra justa)."
+      },
+      {
+        "school": "Critica al consentimiento tacito (A. John Simmons y la teoria de la obligacion politica)",
+        "view": "Simmons y otros teoricos de la obligacion politica objetan que el consentimiento tacito no puede fundar la obligacion: si la mera residencia o el uso de los caminos cuentan como consentir, entonces el consentimiento pierde todo contenido voluntario y deja de distinguir entre gobiernos legitimos e ilegitimos. Como casi nadie consiente expresamente, el propio criterio de legitimidad de Locke amenaza con vaciarse, lo que ha llevado a buena parte de la filosofia politica contemporanea a abandonar el consentimiento como fundamento de la obligacion."
+      }
+    ],
+    "contrasts": "El choque central enfrenta dos lecturas opuestas del mismo texto. Para los defensores (libertarismo, lectura teologica, liberalismo constitucional) el Segundo Tratado es una doctrina emancipadora: derechos naturales iguales, gobierno limitado por consentimiento y derecho a resistir la tirania. Para los criticos es una racionalizacion historicamente situada: del capitalismo y la sociedad de clases (Macpherson), del colonialismo y el despojo indigena (Arneil, Tully), del patriarcado y la jerarquia racial (Pateman, Mills) y de una obligacion politica sin base real (Simmons). El punto de friccion mas agudo es la teoria de la propiedad: lo que para Nozick es la legitimacion del titulo individual y para Waldron una igualdad fundada en Dios, para Macpherson es acumulacion ilimitada y para la critica poscolonial es la maquina conceptual del despojo. La esclavitud funciona como prueba de fuego: o bien es una contradiccion flagrante en un teorico de la libertad (la tesis de Armitage sobre su vinculo con la esclavitud afroamericana), o bien revela, como sostiene Mills, que la exclusion racial nunca fue un accidente sino parte del diseno del contrato. El debate, en suma, no es solo sobre que dijo Locke, sino sobre si los fundamentos del liberalismo moderno son universalistas o estan estructuralmente marcados por la propiedad, la raza, el genero y el imperio.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Locke's Political Philosophy (propiedad, clausula, consentimiento, resistencia, Macpherson, Tully, Nozick, esclavitud)",
+        "url": "https://plato.stanford.edu/entries/locke-political/"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy: Locke, John: Political Philosophy (propiedad, consentimiento, derecho de resistencia)",
+        "url": "https://iep.utm.edu/locke-po/"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Robert Nozick's Political Philosophy (entitlement theory y clausula lockeana)",
+        "url": "https://plato.stanford.edu/entries/nozick-political/"
+      },
+      {
+        "label": "Notre Dame Philosophical Reviews: resena de Jeremy Waldron, God, Locke and Equality",
+        "url": "https://ndpr.nd.edu/reviews/god-locke-and-equality-christian-foundations-of-locke-s-political-thought/"
+      },
+      {
+        "label": "Notre Dame Philosophical Reviews: resena de Feminist Interpretations of John Locke (Pateman y la critica feminista)",
+        "url": "https://ndpr.nd.edu/reviews/feminist-interpretations-of-john-locke/"
+      },
+      {
+        "label": "Cambridge University Press: James Tully, An Approach to Political Philosophy: Locke in Contexts (derechos aborigenes y propiedad)",
+        "url": "https://www.cambridge.org/core/books/an-approach-to-political-philosophy/F38692FA1EAEFE608E883F69B3A87477"
+      }
+    ]
+  },
+  "socratic": "Sos un interlocutor socratico sobre el Segundo Tratado de Locke. Tu metodo: hace una sola pregunta por turno, nunca des la respuesta, pedi siempre las razones detras de cada afirmacion y, cuando el interlocutor sostenga una posicion, oponele una objecion real y nombrada (Macpherson sobre el individualismo posesivo, Arneil y Tully sobre el colonialismo y la terra nullius, Pateman sobre el contrato sexual, Mills sobre el contrato racial, Nozick sobre la clausula lockeana, Simmons sobre el consentimiento tacito, Waldron sobre el fundamento teologico). Si se traba, ofrece una pista breve, no la conclusion. Arranca exactamente con esta pregunta y espera la respuesta antes de seguir: Locke dice que al mezclar tu trabajo con un recurso comun sin dueno lo convertis en tu propiedad. Por que el hecho de trabajar algo deberia darte un derecho exclusivo sobre eso, y por que tu trabajo no se pierde en lo comun en vez de apropiarte lo comun? Despues de su respuesta, segui indagando: que pasa con el limite de no desperdicio cuando aparece el dinero, queda en pie la clausula de dejar suficiente y tan bueno para los demas, y si no queda en pie, sigue siendo legitima la apropiacion? Mas adelante, segun por donde vaya, confrontalo con la lectura de Macpherson (esto no termina justificando la acumulacion ilimitada?), con la de Arneil y Tully (no es el mismo argumento que sirvio para declarar baldias las tierras indigenas?) y con la objecion de Simmons al consentimiento tacito. No avances de tema hasta que haya dado una razon, no una mera opinion."
+}

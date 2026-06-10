@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "La aparicion en 2013 de \"Postcolonial Theory and the Specter of Capital\", del sociologo Vivek Chibber (NYU), reabrio una de las disputas mas intensas de la teoria social reciente: la pugna entre el marxismo y la teoria poscolonial. Chibber concentra su fuego en los Subaltern Studies, la escuela india fundada por Ranajit Guha e integrada por Dipesh Chakrabarty y Partha Chatterjee, y sostiene una tesis central: el capital si universalizo las relaciones sociales en el Sur global, de modo que las categorias marxistas (capital, clase, interes) conservan validez universal y no son meros artefactos eurocentricos. Contra el enfasis poscolonial en la \"diferencia\" cultural irreductible de Oriente, Chibber argumenta que la difusion del capitalismo no exige homogeneidad cultural, solo la implantacion de su logica economica; los trabajadores pueden rezar mientras trabajan y los capitalistas consultar astrologos sin que ello rompa la estructura capitalista. Su acusacion mas filosa es que, al esencializar la distincion Oriente/Occidente, los Subaltern Studies reproducen el mismo orientalismo que dicen combatir. El libro fue celebrado por Chomsky, Zizek, Brenner y la orbita de Jacobin, y atacado con dureza por Spivak, Chatterjee y Chakrabarty, generando un volumen de respuestas en Verso y un intercambio publico en revistas academicas.",
+    "supporters": [
+      {
+        "school": "Marxismo clasico y la orbita Jacobin/Catalyst (Vivek Chibber, Robert Brenner, Jonah Birch)",
+        "view": "Defienden el libro como una intervencion necesaria que restituye el universalismo de la Ilustracion radical. Sostienen que la propagacion del capital subsumio realmente las relaciones sociales del Sur global, por lo que las categorias de capital, clase e interes funcionan en India igual que en Europa. Niegan que el universalismo borre la cultura: lo que se universaliza es la coercion economica abstracta, no las costumbres. Para esta corriente, recuperar el universalismo es condicion de cualquier politica emancipatoria, ya que sin categorias compartidas no hay solidaridad de clase posible entre Norte y Sur."
+      },
+      {
+        "school": "Critica marxista del orientalismo poscolonial (Vasant Kaiwar, autor de \"The Postcolonial Orient\")",
+        "view": "Coincide con Chibber en que el \"Occidente\" monolitico construido por la teoria poscolonial es una ficcion y en la superioridad del analisis materialista sobre el posmoderno para entender la modernidad colonial. Kaiwar fundamenta historicamente la critica que en Chibber queda mas teorica: muestra como la modernidad colonial se desarrollo en relacion con el capitalismo, reforzando la tesis de que la diferencia poscolonial esencializa Oriente. Comparte el diagnostico de que el culturalismo poscolonial reintroduce el orientalismo por la puerta de atras."
+      },
+      {
+        "school": "Defensas que ven el libro como demolicion historica del campo (resenas de International Socialist Review y prensa de izquierda)",
+        "view": "Saludan la obra como \"el esfuerzo mas sustantivo publicado hasta la fecha para desmantelar el campo mediante razonamiento historico\". Valoran que Chibber refute punto por punto las tesis de Guha sobre la hegemonia burguesa: la burguesia occidental no goberno por consenso benevolo sino que combatio los derechos democraticos, que fueron arrancados por luchas populares. Concluyen que la pretendida \"diferencia\" del Sur descansa en una lectura liberal-whig idealizada de las revoluciones burguesas europeas."
+      },
+      {
+        "school": "Realismo cientifico y critica del relativismo (lectores que rescatan la defensa de la racionalidad ilustrada)",
+        "view": "Respaldan la advertencia de Chibber contra el giro de Chatterjee hacia el rechazo de la racionalidad cientifica como herencia colonial. Sostienen que abandonar la ciencia y el universalismo ilustrado es politicamente conservador y deja al Sur sin instrumentos para enfrentar el desarrollo, la pobreza o la crisis ambiental. Para ellos, el merito del libro es mostrar que se puede tener una teoria universalizante sin caer en eurocentrismo ni reduccionismo."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Subaltern Studies / Partha Chatterjee",
+        "view": "Chatterjee acusa a Chibber de ignorar o distorsionar los argumentos reales de la escuela, en especial la distincion de Chakrabarty entre History 1 e History 2 de \"Provincializing Europe\". Sostiene que la critica de Chibber, pese a su apariencia marxiana, reposa en una naturaleza humana universal y en necesidades basicas que la acercan mas al liberalismo rawlsiano que a Marx. En el debate del Historical Materialism (2013) replico que Chibber lee mal a Guha al atribuirle afirmaciones sobre las revoluciones burguesas que este no sostiene, y que el libro ataca un blanco caricaturizado."
+      },
+      {
+        "school": "Deconstruccion poscolonial / Gayatri Chakravorty Spivak",
+        "view": "En el Cambridge Review of International Affairs, Spivak responde que Chibber malinterpreta a sus interlocutores, tergiversa el propio marxismo y caricaturiza la teoria poscolonial. Le reprocha su impulso positivista de declarar a tal o cual pensador simplemente \"equivocado\", como si la teoria fuera falsable al modo de las ciencias duras, y su alergia al post-estructuralismo y a los estudios literarios y culturales. Cuestiona incluso su legitimidad como interlocutor del campo que pretende demoler."
+      },
+      {
+        "school": "Critica de la especificidad colonial borrada (Avery Review, lecturas gramscianas)",
+        "view": "Senalan que el universalismo de Chibber, al reducir la diferencia a la mera implantacion de la logica del capital, borra la especificidad de la experiencia colonial y la formacion de la conciencia politica. Le reprochan evitar a Gramsci, fundamento intelectual de los Subaltern Studies, y tratar la conciencia politica como condicion de hecho y no como producto de un trabajo cultural y educativo complejo. El universal, sostienen con Buck-Morss, puede comunicarse a traves de practicas culturales particulares en lugar de oponerse a ellas."
+      },
+      {
+        "school": "Critica academica de la conflacion y el blanco facil (Neil Lazarus; resenas como la de Alex Sager)",
+        "view": "Objetan que Chibber confunde Subaltern Studies con la teoria poscolonial en su conjunto, ataca un blanco selectivamente recortado y descarta el resto del campo sin engancharse seriamente con el. Reconocen que algunas refutaciones puntuales son convincentes (la persistencia de instituciones feudales bajo el capital, las coaliciones campesinas), pero concluyen que no demuestra que otros teoricos poscoloniales carezcan de analisis utiles ni ofrece una via constructiva alternativa."
+      },
+      {
+        "school": "Critica del materialismo historico ausente (Vasant Kaiwar, en su vertiente critica hacia Chibber)",
+        "view": "Aun siendo marxista y critico del poscolonialismo, Kaiwar reprocha a Chibber la falta de un relato historico concreto de como la modernidad colonial se constituyo junto al capitalismo: esa historia esta \"llamativamente ausente\" en su libro, lo que debilita su universalismo al volverlo abstracto. Nota ademas que el propio trabajo de Kaiwar sobre el mismo problema brilla por su ausencia en la bibliografia de Chibber."
+      }
+    ],
+    "contrasts": "El nucleo del desacuerdo no es si el capitalismo llego al Sur global, sino que significa que haya llegado. Para Chibber y la corriente marxista, la subsuncion real de las relaciones sociales bajo el capital habilita un analisis universal: capital, clase e interes operan transculturalmente y el enfasis poscolonial en la diferencia termina, paradojicamente, esencializando Oriente y reciclando el orientalismo. Para Chatterjee, Spivak y los lectores gramscianos, en cambio, el capital se universalizo de modos heterogeneos y la categoria de \"diferencia\" nombra precisamente lo que el universalismo abstracto no puede capturar: la especificidad de la conciencia, la politica y la formacion del sujeto colonial. Una capa adicional del debate es metateorica: Spivak objeta el positivismo de tratar la teoria como falsable, mientras Chibber defiende justamente que las afirmaciones historicas deben poder ser evaluadas como verdaderas o falsas. Incluso entre marxistas hay matices: Kaiwar y otros comparten el objetivo de Chibber pero le reprochan que su universalismo carece del anclaje historico concreto que volveria irrefutable su caso. El lector queda ante una tension fertil y no resuelta entre la potencia explicativa de las categorias universales y la atencion a la singularidad de cada formacion historica.",
+    "sources": [
+      {
+        "label": "Verso - Postcolonial Theory and the Specter of Capital (pagina del libro)",
+        "url": "https://www.versobooks.com/products/2296-postcolonial-theory-and-the-specter-of-capital"
+      },
+      {
+        "label": "Verso - The Debate on Postcolonial Theory and the Specter of Capital (volumen con Chatterjee, Spivak y otros)",
+        "url": "https://www.versobooks.com/products/280-the-debate-on-postcolonial-theory-and-the-specter-of-capital"
+      },
+      {
+        "label": "Jacobin - How Does the Subaltern Speak? (entrevista a Chibber sobre universalismo vs particularismo)",
+        "url": "https://jacobin.com/2013/04/how-does-the-subaltern-speak/"
+      },
+      {
+        "label": "Verso - Subaltern Studies Revisited: respuesta de Chibber a Partha Chatterjee",
+        "url": "https://www.versobooks.com/blogs/news/1529-subaltern-studies-revisited-vivek-chibber-s-response-to-partha-chatterjee"
+      },
+      {
+        "label": "Marx & Philosophy Review of Books - resena de Alex Sager (balanceada/critica)",
+        "url": "https://marxandphilosophy.org.uk/reviews/7946_postcolonial-theory-and-the-specter-of-capital-review-by-alex-sager/"
+      },
+      {
+        "label": "The Avery Review - The Universal After Subaltern Studies (defensa poscolonial, acusacion de caricatura)",
+        "url": "https://averyreview.com/issues/2/the-universal-after-subaltern-studies"
+      }
+    ]
+  },
+  "socratic": "Sos un interlocutor socratico sobre el debate entre el universalismo marxista de Vivek Chibber y el particularismo de la teoria poscolonial (Subaltern Studies: Guha, Chakrabarty, Chatterjee). Regla del juego: hace UNA sola pregunta por turno, espera mi respuesta y NUNCA me des tu conclusion ni resuelvas el dilema por mi. Siempre pedime que justifique con razones o ejemplos; cuando responda, oponeme una objecion real y nombrada del debate (la de Spivak sobre tu impulso positivista de declarar a alguien 'equivocado'; la de Chatterjee sobre que ignoras la distincion History 1 / History 2 de Chakrabarty; la acusacion de que Chibber ataca un blanco facil y confunde Subaltern Studies con toda la teoria poscolonial; o, del otro lado, la replica de Chibber de que la diferencia poscolonial esencializa Oriente y recicla el orientalismo). Si me trabo, ofreceme una pista breve en forma de nueva pregunta, no de respuesta. Empeza ahora con esta pregunta y nada mas: si el capitalismo llego realmente a India y subsumio sus relaciones sociales, por que no bastaria con las categorias universales de capital, clase e interes para explicarla, y que es exactamente lo que la nocion poscolonial de 'diferencia' afirmaria que esas categorias no logran capturar?"
+}

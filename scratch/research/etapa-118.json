@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "Lo nacional-popular en Bolivia quedo inconcluso a la muerte de Zavaleta en 1984, y sin embargo es hoy el texto mas disputado del pensamiento politico boliviano. El debate sigue vivo por una razon politica concreta: sus categorias (sociedad abigarrada, momento constitutivo, crisis como metodo de conocimiento) dejaron de ser arqueologia academica cuando el ciclo de insurrecciones de 2000-2005 y el gobierno de Evo Morales las pusieron en el centro del Estado. El grupo Comuna las uso para leer la guerra del agua y la guerra del gas; Garcia Linera, vicepresidente durante catorce años, goberno citandolas. Eso convirtio a Zavaleta en algo inusual: un teorico muerto cuya obra fue programa de gobierno. Y ahi se abren las grietas. Para sus herederos, Zavaleta fundo una ciencia social capaz de pensar sociedades que el modelo europeo de una nacion, un mercado y un Estado nunca describio. Para Silvia Rivera Cusicanqui, su matriz nacional-popular y gramsciana sigue siendo estatal, mestiza y teleologica: piensa lo indigena como material de una sintesis nacional que siempre dirige otro. Y para la critica liberal, lo nacional-popular no es una promesa emancipatoria sino la matriz misma del populismo autoritario latinoamericano. La traduccion inglesa de Anne Freeland (2018) sumo un tercer frente: el abigarramiento como categoria global para el mundo poscolonial.",
+    "supporters": [
+      {
+        "school": "Luis Tapia, el grupo Comuna y la sociologia boliviana",
+        "view": "Luis Tapia, autor de La produccion del conocimiento local: historia y politica en la obra de Rene Zavaleta (2002), es el principal sistematizador de su pensamiento y el responsable de que la obra dispersa circule como corpus. Para Tapia, Zavaleta logro lo que ningun marxista latinoamericano desde Mariategui: producir teoria desde la historia local en vez de aplicar modelos importados. El grupo Comuna (Tapia, Garcia Linera, Raul Prada, Raquel Gutierrez) reactivo en los 2000 las categorias zavaletianas para leer las insurrecciones de El Alto y Cochabamba como crisis reveladoras en sentido estricto: momentos en que la sociedad abigarrada, ilegible para la estadistica, se vuelve cognoscible. La edicion de la antologia La autodeterminacion de las masas (CLACSO, 2009), preparada por Tapia, consolido a Zavaleta como clasico del pensamiento critico latinoamericano."
+      },
+      {
+        "school": "Alvaro Garcia Linera y el marxismo plebeyo",
+        "view": "Garcia Linera tomo de Zavaleta el nucleo de su propia teoria: la forma multitud que desarrolla en La potencia plebeya (2008) extiende la idea zavaletiana de que en una sociedad abigarrada el sujeto popular no coincide con el proletariado clasico, sino que se compone de articulaciones entre lo obrero, lo comunal y lo plebeyo. Como vicepresidente de Bolivia (2006-2019) tradujo esas categorias a lenguaje de Estado: el proceso de cambio fue presentado como el momento constitutivo que por fin soldaria lo nacional con lo popular. Para esta lectura, Zavaleta no solo describio Bolivia: anticipo el unico camino por el cual una sociedad sin homogeneidad capitalista puede construir voluntad colectiva, via hegemonia gramsciana releida desde los Andes."
+      },
+      {
+        "school": "Anne Freeland y la recepcion internacional poscolonial",
+        "view": "La traduccion de Freeland, Towards a History of the National-Popular in Bolivia (Seagull Books, 2018, en la serie Elsewhere Texts impulsada por Gayatri Spivak), saco a Zavaleta del circuito andino y lo instalo en los estudios poscoloniales globales. La revista Postcolonial Studies le dedico un dossier en 2019. Para esta recepcion, el concepto de sociedad abigarrada hace un trabajo que ni el orientalismo de Said ni los estudios subalternos indios habian hecho: teoriza la coexistencia no combinada de modos de produccion y tiempos historicos sin reducirla a atraso ni a hibridez celebratoria. El abigarramiento se usa hoy para pensar India, Sudafrica o el mundo arabe, como categoria general de las sociedades donde la homogeneizacion capitalista nunca se completo."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Silvia Rivera Cusicanqui y la critica aymara",
+        "view": "En Un mundo ch'ixi es posible (Tinta Limon, 2018) y en textos anteriores, Rivera Cusicanqui discute directamente con Zavaleta, a quien conocio y respeta como interlocutor. Su objecion: el abigarramiento describe la heterogeneidad boliviana pero la piensa como falla, como bloqueo de una unidad nacional que sigue siendo el horizonte deseable. La matriz gramsciana y estatal de lo nacional-popular convierte a lo indio en materia prima de una sintesis dirigida por mestizos letrados, exactamente lo que hizo el MAS al apropiarse de esas categorias. Su contrapropuesta, lo ch'ixi (el gris jaspeado aymara donde los opuestos coexisten sin fundirse), no aspira a sintesis alguna: las sociedades indias no son fragmentos esperando nacion, son mundos con su propia politica. Desde Oprimidos pero no vencidos (1984) viene mostrando que la memoria larga anticolonial excede el ciclo nacional-popular de 1952."
+      },
+      {
+        "school": "La critica a la teleologia marxista residual",
+        "view": "Una linea de criticos academicos, visible en los balances por los treinta años de Lo nacional-popular y en parte de la propia recepcion poscolonial, señala que Zavaleta nunca abandono del todo el esquema que decia superar. Define lo abigarrado negativamente, como ausencia de la unidad que el capitalismo europeo si habria logrado: la norma sigue siendo la sociedad homogenea y Bolivia su desviacion. Su sujeto privilegiado sigue siendo el proletariado minero como centralidad articuladora, y la historia conserva una direccion: de la disponibilidad de las masas hacia la constitucion nacional-popular. Si la nacion es el telos, el pensamiento de Zavaleta seria menos una ruptura con el marxismo eurocentrico que su adaptacion mas sofisticada, y el abigarramiento una categoria transicional condenada a disolverse en la modernidad que anuncia."
+      },
+      {
+        "school": "La critica liberal: lo nacional-popular como matriz del populismo autoritario",
+        "view": "Para el liberalismo latinoamericano, representado en Bolivia por autores como H.C.F. Mansilla y alimentado por la teoria del populismo posterior a Laclau, lo nacional-popular no es un proyecto emancipatorio sino el nombre teorico del problema politico de la region. La fusion de pueblo y nacion en una voluntad colectiva unica, gestionada desde el Estado, erosiona el pluralismo, la division de poderes y los derechos individuales: el pueblo como sujeto homogeneo necesita siempre un enemigo interno y un caudillo que lo encarne. La trayectoria del MAS (reeleccion indefinida, captura judicial, el conflicto de 2019) seria la demostracion empirica: las categorias de Zavaleta, llevadas al poder por Garcia Linera, produjeron exactamente la concentracion autoritaria que esta tradicion predice."
+      }
+    ],
+    "contrasts": "Lo que esta en juego es quien hereda el concepto y para que. Tapia y Garcia Linera leen el abigarramiento como diagnostico que pide una construccion hegemonica nacional-popular; Cusicanqui lee esa misma construccion como continuacion del colonialismo interno por otros medios, y opone una heterogeneidad sin sintesis. La critica teleologica ataca por dentro: si la nacion sigue siendo el telos, Zavaleta no salio del eurocentrismo. La critica liberal ataca por fuera: el telos mismo es el peligro. La prueba historica es el ciclo del MAS: para unos, el momento constitutivo que Zavaleta anuncio; para otros, la demostracion de que lo nacional-popular en el poder deviene aparato. Leer a Zavaleta hoy es decidir si la crisis revela un pueblo en formacion o mundos que no quieren fundirse.",
+    "sources": [
+      {
+        "label": "Towards a History of the National-Popular in Bolivia, trad. Anne Freeland (Seagull Books)",
+        "url": "https://seagullbooks.org/products/towards-a-history-of-the-national-popular-in-bolivia-1879-1980"
+      },
+      {
+        "label": "Luis Tapia, La produccion del conocimiento local (CLACSO, texto completo)",
+        "url": "https://bibliotecavirtual.clacso.org.ar/ar/libros/bolivia/cides/libro1/libro1.pdf"
+      },
+      {
+        "label": "Alvaro Garcia Linera, La potencia plebeya (CLACSO, texto completo)",
+        "url": "https://biblioteca.clacso.edu.ar/clacso/coediciones/20100804084154/linera.pdf"
+      },
+      {
+        "label": "Silvia Rivera Cusicanqui, Un mundo ch'ixi es posible (Tinta Limon, texto completo)",
+        "url": "https://tintalimon.com.ar/public/s7loyv7qkqkfy9tlizbaucrk6z67/pdf_978-987-3687-36-5.pdf"
+      },
+      {
+        "label": "The National-Popular in Bolivia: history, crisis and social knowledge (Postcolonial Studies, 2019)",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/13688790.2019.1673330"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre Lo nacional-popular en Bolivia de Rene Zavaleta Mercado. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cada vez que yo afirme algo, pedime razones y evidencia textual. Presenta objeciones de escuelas rivales concretas: la critica aymara de Silvia Rivera Cusicanqui (lo ch'ixi contra la sintesis nacional-popular), la critica a la teleologia marxista residual de Zavaleta, la critica liberal que ve en lo nacional-popular la matriz del populismo autoritario, y la defensa de Luis Tapia y Garcia Linera. Si me trabo, dame una pista en forma de pregunta mas concreta, nunca la respuesta. Empeza preguntandome: si la sociedad abigarrada solo se conoce en la crisis, que valor tiene ese conocimiento cuando la normalidad vuelve?"
+}

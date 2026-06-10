@@ -1,0 +1,61 @@
+{
+  "debate_deep": {
+    "intro": "Pocos textos de ocho y sesenta paginas generaron tanta disputa viva como Que es la Ilustracion? y La paz perpetua. El proyecto kantiano (la razon como tribunal universal, la persona como fin en si, una federacion de republicas como camino a la paz) es a la vez el fundamento declarado del orden liberal de posguerra y su blanco favorito. Lo defienden tres tradiciones potentes: el constructivismo kantiano de Rawls, que convirtio el imperativo categorico en procedimiento de justicia; la teoria discursiva de Habermas, que lee la Union Europea y el derecho internacional como la constitucionalizacion gradual que Kant imagino; y la teoria de la paz democratica de Doyle, una de las tesis mas testeadas empiricamente en relaciones internacionales. Lo atacan otras cuatro: la critica hegeliana al formalismo vacio del deber; la demolicion schmittiana del cosmopolitismo ('quien dice humanidad quiere engañar'); el realismo estructural de Mearsheimer, para quien la anarquia internacional no se deroga con tratados; y las criticas poscoloniales, que pusieron sobre la mesa los textos de Kant sobre raza y preguntan si el universalismo ilustrado fue siempre un universalismo con jerarquias adentro. El debate sigue vivo porque cada guerra 'humanitaria', cada crisis de la ONU y cada discusion sobre la paz democratica vuelve a plantear la misma pregunta: el cosmopolitismo kantiano es el horizonte de la politica o su ilusion mas persistente?",
+    "supporters": [
+      {
+        "school": "John Rawls y el constructivismo kantiano",
+        "view": "Rawls se declaro explicitamente kantiano: en A Theory of Justice (1971) presenta la posicion original y el velo de ignorancia como una 'interpretacion procedimental' del imperativo categorico, y en 'Kantian Constructivism in Moral Theory' (Journal of Philosophy, 1980) sistematiza la idea de que los principios de justicia no se descubren en el cielo ni en la naturaleza: se construyen desde una concepcion de la persona como libre e igual, herencia directa de la formula kantiana de la humanidad como fin en si. En The Law of Peoples (1999) extiende el contrato al plano internacional siguiendo expresamente el foedus pacificum de La paz perpetua: una sociedad de pueblos bien ordenados, sin Estado mundial, con principios de no agresion y derechos humanos basicos. Rawls es la prueba de que la filosofia politica dominante del siglo XX es, en su nucleo, kantismo reformulado."
+      },
+      {
+        "school": "Jurgen Habermas y la constitucionalizacion del derecho internacional",
+        "view": "Habermas dedico al ensayo kantiano un texto central, 'La idea kantiana de la paz perpetua, desde la distancia historica de doscientos años' (1995), y volvio sobre el en El Occidente escindido (2006). Su tesis: el proyecto kantiano es correcto pero quedo corto; la federacion voluntaria de Estados debe evolucionar hacia una 'constitucionalizacion del derecho internacional' con derechos exigibles, de la que la ONU y sobre todo la Union Europea son etapas imperfectas. Su etica del discurso reformula el imperativo categorico en clave dialogica: una norma es valida si todos los afectados pudieran aceptarla en deliberacion libre, version intersubjetiva del uso publico de la razon que Kant defendio en Que es la Ilustracion?. Para Habermas, abandonar a Kant tras las catastrofes del siglo XX no es realismo: es desercion del unico proyecto normativo disponible."
+      },
+      {
+        "school": "Michael Doyle y la teoria de la paz democratica",
+        "view": "Doyle, en 'Kant, Liberal Legacies, and Foreign Affairs' (Philosophy and Public Affairs, 1983), tradujo los tres articulos definitivos de La paz perpetua a una hipotesis empirica: las democracias liberales casi nunca se hacen la guerra entre si, aunque si guerrean contra no democracias. El hallazgo resistio decadas de tests estadisticos; Jack Levy lo llamo 'lo mas parecido a una ley empirica que existe en relaciones internacionales', y Bruce Russett y John Oneal (Triangulating Peace, 2001) ampliaron el triangulo kantiano: democracia, interdependencia comercial y organizaciones internacionales se refuerzan mutuamente reduciendo el conflicto. La tesis salto de la academia a la politica exterior (de Clinton a la ampliacion de la UE), para bien y para mal: pocos filosofos del siglo XVIII tienen un programa de investigacion cuantitativo activo en el siglo XXI."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Hegel y la critica al formalismo",
+        "view": "Hegel, en los Fundamentos de la filosofia del derecho (1821), lanzo las dos objeciones clasicas. Primera: el imperativo categorico es un 'formalismo vacio'; la pura no-contradiccion no genera deberes concretos, y la moral kantiana (Moralitat) necesita siempre el contenido que le presta la vida etica concreta de instituciones, familia y Estado (Sittlichkeit). Segunda: contra la paz perpetua, los Estados son individualidades soberanas sin pretor por encima; los tratados dependen de voluntades particulares y permanecen en el 'deber ser', y la guerra no es un mal absoluto sino un momento en que los pueblos preservan su 'salud etica' frente al estancamiento (paragrafos 324 y 333). Toda la critica comunitarista posterior al liberalismo kantiano, de Taylor a Sandel, recicla en alguna medida el argumento hegeliano del formalismo."
+      },
+      {
+        "school": "Carl Schmitt contra el cosmopolitismo",
+        "view": "Schmitt, en El concepto de lo politico (1932), acuño la objecion mas citada: 'quien dice humanidad quiere engañar'. La humanidad no es un concepto politico sino un instrumento ideologico: quien hace la guerra en nombre de la humanidad expropia ese concepto universal contra su enemigo, lo convierte en enemigo del genero humano (criminal absoluto, no adversario legitimo) y habilita guerras de aniquilacion mas inhumanas que las que pretende abolir. En El nomos de la tierra (1950) historiza el argumento: el ius publicum europaeum habia logrado 'acotar' la guerra tratando al enemigo como justus hostis; el universalismo liberal-kantiano, al juridificar y moralizar la guerra, destruyo esa contencion. Cada debate sobre intervencion humanitaria y cada guerra 'en nombre de la comunidad internacional' reactiva esta critica."
+      },
+      {
+        "school": "El realismo ofensivo de John Mearsheimer",
+        "view": "Mearsheimer, en The Tragedy of Great Power Politics (2001) y en 'The False Promise of International Institutions' (International Security, 1994-95), representa la negacion empirica del programa kantiano: el sistema internacional es anarquico, ningun tratado ni federacion altera la logica de autoayuda, y las instituciones internacionales reflejan la distribucion de poder en lugar de domesticarla. La paz democratica seria un epifenomeno: las democracias ricas no pelearon entre si por la disuasion nuclear, la hegemonia estadounidense y la amenaza sovietica comun, no por sus constituciones republicanas. Para los realistas, ademas, la tesis tiene un lado oscuro que Doyle mismo registro: las democracias liberales son notablemente belicosas contra los no liberales, y el kantismo aplicado degenera en cruzadas de cambio de regimen, de Irak en adelante."
+      },
+      {
+        "school": "Las criticas poscoloniales y el problema de la raza en Kant",
+        "view": "Emmanuel Chukwudi Eze, en 'The Color of Reason: The Idea of Race in Kant's Anthropology' (1997), y Charles W. Mills, en 'Kant's Untermenschen' (2005), documentaron que el mismo Kant que escribio que toda persona es fin en si dicto durante decadas lecciones de geografia y antropologia con una jerarquia racial explicita con los blancos europeos en la cima. La pregunta que abren no es biografica sino estructural: el universalismo ilustrado nacio definiendo quien contaba como plenamente humano, y el derecho cosmopolita pudo funcionar como lenguaje de la mision civilizadora. Pauline Kleingeld, en 'Kant's Second Thoughts on Race' (Philosophical Quarterly, 2007), matiza: en los años 1790, justo cuando escribe La paz perpetua y condena el colonialismo, Kant abandona la jerarquia racial. El debate sobre si el racismo es accidental o constitutivo del proyecto kantiano sigue completamente abierto."
+      }
+    ],
+    "contrasts": "Lo que esta en juego es si la razon puede legislar por encima del poder y de la cultura. Rawls, Habermas y Doyle apuestan a que si: principios construibles, instituciones que civilizan la anarquia, datos que respaldan la paz entre republicas. Hegel responde que la norma sin vida etica concreta es vacia; Schmitt, que el universalismo es la mascara del poder mas peligrosa; Mearsheimer, que la estructura anarquica se traga las buenas intenciones; los poscoloniales, que el 'nosotros' universal de la Ilustracion fue escrito excluyendo a la mayor parte de la humanidad. Notese que las criticas no son acumulables sin tension: Schmitt y Mearsheimer atacan al cosmopolitismo por irreal, los poscoloniales lo atacan por demasiado real (como ideologia imperial efectiva). El lector tiene que decidir si la ONU y la UE son la prueba de que Kant tenia razon a largo plazo, o la prueba de que el formalismo sin poder y sin pueblo produce instituciones que prometen lo que no pueden cumplir.",
+    "sources": [
+      {
+        "label": "Kant's Social and Political Philosophy (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/kant-social-political/"
+      },
+      {
+        "label": "Doyle, Kant, Liberal Legacies, and Foreign Affairs (Philosophy and Public Affairs, 1983, JSTOR)",
+        "url": "https://www.jstor.org/stable/2265298"
+      },
+      {
+        "label": "Kleingeld, Kant's Second Thoughts on Race (The Philosophical Quarterly, 2007)",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9213.2007.498.x"
+      },
+      {
+        "label": "Kant, Doyle, and the Democratic Peace Thesis: A Postcolonial Critique (E-International Relations)",
+        "url": "https://www.e-ir.info/2021/10/20/kant-doyle-and-the-democratic-peace-thesis-a-postcolonial-critique/"
+      },
+      {
+        "label": "Kant, Perpetual Peace and Other Essays (Online Library of Liberty, texto completo)",
+        "url": "https://oll.libertyfund.org/title/kant-perpetual-peace-and-other-essays"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre Que es la Ilustracion? y La paz perpetua de Kant. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cuando yo afirme algo, pedime razones y el pasaje del texto en que me apoyo (los tres articulos definitivos, la distincion uso publico/uso privado de la razon). Presenta objeciones reales y nombradas del debate: el formalismo vacio segun Hegel, el 'quien dice humanidad quiere engañar' de Schmitt, el realismo de Mearsheimer sobre la anarquia internacional, y la critica poscolonial de Eze y Mills sobre los textos de Kant acerca de la raza. Si me trabo, dame una pista como pregunta mas concreta. Empeza con esta pregunta: si las republicas son mas pacificas porque quienes deciden la guerra son quienes la pagan, como explicas que las democracias liberales hayan guerreado tanto contra los no liberales?"
+}

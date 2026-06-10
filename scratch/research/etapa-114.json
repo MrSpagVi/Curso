@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "Democracia y mercado (1991) ofrecio la defensa mas fria y mas citada de la democracia: es el unico sistema donde los conflictos se procesan sin matarse, porque institucionaliza la incertidumbre. Los actores acatan derrotas no por virtud sino porque las reglas les garantizan volver a competir, y rebelarse no paga. En Minimalist Conception of Democracy: A Defense (1999), Przeworski llevo la apuesta al extremo: incluso una democracia puramente electoral, sin justicia social ni deliberacion, vale, porque permite cambiar gobiernos sin sangre. El debate sigue vivo porque el minimalismo es a la vez irresistible y escandaloso. Irresistible: es operacionalizable, no exige santos, y explica con elegancia de equilibrio por que los poderosos toleran perder. Escandaloso: parece rendir el ideal democratico justo cuando mas se lo necesita. Los deliberativistas objetan que reducir la democracia a contar cabezas vacia su nucleo legitimador; los republicanos, que elecciones sin control de la dominacion dejan al ciudadano a merced del poder arbitrario; y los criticos empiricos señalan el costado mas incomodo: si la democracia es un equilibrio donde nadie gana con alzarse, por que sobreviven democracias en paises de desigualdad extrema donde las elites tendrian todo para ganar bloqueando la redistribucion? Cada eleccion ganada por un autocrata electoral reabre la pregunta: el minimalismo describe la democracia o su cascara?",
+    "supporters": [
+      {
+        "school": "La eleccion racional en politica comparada (Przeworski, Alvarez, Cheibub, Limongi)",
+        "view": "El programa que Przeworski fundo trato la supervivencia democratica como problema de equilibrio y la sometio a datos. Democracy and Development (2000), con Alvarez, Cheibub y Limongi, uso la definicion minimalista (alternancia observable por elecciones) para clasificar todos los regimenes de 1950 a 1990 y produjo el hallazgo mas robusto de la disciplina: ninguna democracia con ingreso per capita alto ha muerto jamas, y la democracia no nace del desarrollo pero sobrevive con el. Para esta escuela, el minimalismo no es pobreza normativa sino virtud cientifica: solo una definicion austera y dicotomica permite medir, comparar y descubrir regularidades. Las definiciones infladas de democracia hacen trampa: meten en la definicion lo que habria que explicar."
+      },
+      {
+        "school": "El minimalismo schumpeteriano como teoria normativa (Riker, Posner)",
+        "view": "William Riker, en Liberalism Against Populism (1982), dio el sustento de teoria social: los teoremas de imposibilidad de Arrow muestran que no existe una voluntad popular coherente que las elecciones puedan revelar, asi que la unica interpretacion defendible del voto es la liberal-schumpeteriana: las elecciones no expresan al pueblo, permiten echar gobernantes. Richard Posner, en Law, Pragmatism, and Democracy (2003), defendio en la misma linea la democracia de elites competitivas como la unica realista. Esta escuela converge con Przeworski desde la teoria: pedir a la democracia que produzca racionalidad colectiva o autogobierno sustantivo es pedirle lo imposible; pedirle alternancia pacifica es pedirle lo unico que puede dar, y eso ya la distingue de toda autocracia."
+      },
+      {
+        "school": "Las elecciones como mecanismo de informacion y control (Fearon, Manin, Stokes)",
+        "view": "James Fearon, en Electoral Accountability and the Control of Politicians (en Democracy, Accountability, and Representation, 1999, editado por Przeworski, Stokes y Manin), formalizo por que el mecanismo minimalista rinde mas de lo que aparenta: las elecciones funcionan como dispositivo de seleccion de buenos tipos y de sancion retrospectiva, agregando informacion dispersa sobre el desempeño del gobierno. Incluso sin deliberacion ni participacion intensa, la mera anticipacion de la derrota disciplina a los gobernantes. El volumen completo explora cuando ese control funciona y cuando falla, pero el marco es przeworskiano: la democracia se evalua por los incentivos que genera, no por los ideales que proclama. Es la defensa sofisticada del voto como instrumento, no como expresion."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Deliberativistas (Habermas, Cohen)",
+        "view": "Jurgen Habermas, en Facticidad y validez (1992), sostiene que la legitimidad democratica no puede salir del mero agregado de votos: nace del proceso deliberativo en que los afectados intercambian razones bajo condiciones de igualdad comunicativa. Joshua Cohen, en Deliberation and Democratic Legitimacy (1989), define el procedimiento ideal: las decisiones son legitimas si pueden justificarse con razones aceptables para ciudadanos libres e iguales. Desde aqui, el minimalismo de Przeworski confunde el mecanismo con el fundamento: contar cabezas sin deliberacion previa es pura agregacion de preferencias dadas, manipulables por dinero y propaganda. Una eleccion sin esfera publica robusta no procesa el conflicto: lo congela en la correlacion de fuerzas existente. La paz que celebra Przeworski seria entonces la paz de los resignados, no la de los convencidos."
+      },
+      {
+        "school": "Republicanos y la objecion de la oligarquia electoral (Pettit, Green, participacionistas)",
+        "view": "Philip Pettit, en Republicanism (1997) y On the People's Terms (2012), mide la democracia por la no dominacion: un sistema donde el pueblo solo elige amos rotativos cada cuatro años no asegura que el poder este controlado de forma no arbitraria; hacen falta contestabilidad permanente, controles y voz. Jeffrey Edward Green, en The Eyes of the People (2010), agrega que el minimalismo no logra distinguir la democracia de una oligarquia electoral: si los candidatos salen siempre de la misma elite y el votante solo asiente como espectador, la alternancia es circulacion de elites, no gobierno del pueblo. Los participacionistas (Pateman, Participation and Democratic Theory, 1970) completan el cargo: sin participacion que eduque ciudadanos, el equilibrio minimalista reproduce la pasividad que lo hace posible."
+      },
+      {
+        "school": "La critica empirico-estructural (Acemoglu y Robinson)",
+        "view": "Daron Acemoglu y James Robinson, en Economic Origins of Dictatorship and Democracy (2006), aceptan el lenguaje de equilibrio pero atacan el mecanismo: la democracia no se sostiene porque la incertidumbre institucionalizada haga conveniente acatar, sino porque la distribucion del poder de facto entre elites y ciudadanos hace creible la amenaza de revolucion y costosa la represion. Bajo desigualdad extrema, el modelo de Przeworski predice mal: las elites tendrian incentivos para golpear antes que tolerar redistribucion, y sin embargo hay democracias desiguales estables (porque las elites capturaron el juego y la redistribucion nunca llega) y democracias igualitarias que colapsan. La estabilidad no depende de que todos puedan perder, sino de cuanto pierde cada uno y de quien controla los recursos fuera de la urna."
+      }
+    ],
+    "contrasts": "La linea divisoria es que se le puede exigir a la democracia. Para Przeworski y los suyos, lo unico exigible es lo unico que ningun autoritarismo concede: que los gobiernos puedan perder elecciones y se vayan. Todo lo demas (deliberacion, no dominacion, igualdad efectiva) es deseable pero no definitorio, y meterlo en la definicion arruina la ciencia y alimenta la decepcion antidemocratica. Para los criticos, ese piso es tan bajo que ya no distingue lo que importa: una oligarquia electoral con alternancia cosmetica pasa el examen minimalista, y los autocratas electorales del siglo XXI lo saben. La disputa tiene filo practico: si el minimalismo acierta, defender la democracia es defender la alternancia y nada mas; si los criticos aciertan, defender solo la alternancia es entregar la democracia con otra bandera.",
+    "sources": [
+      {
+        "label": "Democracy and the Market — Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/democracy-and-the-market/"
+      },
+      {
+        "label": "Przeworski, Minimalist Conception of Democracy: A Defense (texto del capitulo, en Democracy's Value, Cambridge UP 1999)",
+        "url": "https://is.muni.cz/el/1423/podzim2016/POL401/um/Przeworski_Minimalist_Conception_of_Democracy.pdf"
+      },
+      {
+        "label": "Przeworski, Stokes y Manin (eds.), Democracy, Accountability, and Representation — Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/democracy-accountability-and-representation/14785A2D4EE1DDFBA595CE810C51F2CA"
+      },
+      {
+        "label": "Democracy (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/democracy/"
+      },
+      {
+        "label": "Adam Przeworski — pagina academica, New York University",
+        "url": "https://as.nyu.edu/faculty/adam-przeworski.html"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre Democracia y mercado de Adam Przeworski. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de continuar. Cuando afirme algo, pedime razones y casos concretos, preferentemente latinoamericanos. Presenta objeciones de escuelas rivales concretas: la legitimidad deliberativa de Habermas y Cohen, la no dominacion de Pettit, la oligarquia electoral de Green, el participacionismo de Pateman y la critica estructural de Acemoglu y Robinson sobre desigualdad y poder de facto. Si me trabo, dame una pista como pregunta mas concreta. Empeza con esta pregunta: si la democracia es solo un sistema donde los partidos pierden elecciones, que diferencia exactamente a una democracia de una oligarquia con alternancia? Podes nombrar el rasgo que las separa?"
+}

@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "El Principe enfrenta un debate central que sigue vivo: si Maquiavelo fue el fundador de una ciencia politica realista que emancipa la accion del Estado de la moral, o un corruptor que enseno a los gobernantes a hacer el mal. La ambiguedad del texto, su tension con los republicanos Discursos sobre Tito Livio y la fuerza de conceptos como virtu y fortuna han generado lecturas opuestas que conviven hasta hoy. Cada generacion lo reinterpreta segun su propia idea de que es legitimo en politica.",
+    "supporters": [
+      {
+        "school": "Realismo politico y lectura de Croce",
+        "view": "Benedetto Croce y la tradicion realista ven a Maquiavelo como quien descubrio la autonomia de la politica respecto de la moral, observando la verita effettuale (verdad efectiva) en lugar de republicas imaginarias. Le dan la razon al sostener que gobernar exige a veces suspender la etica ordinaria, y que negar esto es ingenuidad peligrosa."
+      },
+      {
+        "school": "Republicanismo civico (Pocock)",
+        "view": "J. G. A. Pocock inscribe a Maquiavelo en el humanismo civico de raiz clasica y rastrea su influencia republicana hasta el constitucionalismo atlantico y los fundadores estadounidenses. Defiende que el verdadero Maquiavelo es el teorico de la libertad y la participacion ciudadana, no el consejero de tiranos."
+      },
+      {
+        "school": "Neorrepublicanismo (Skinner, Pettit, Viroli)",
+        "view": "Quentin Skinner, Philip Pettit y Maurizio Viroli recuperan a Maquiavelo como fuente de la libertad como no dominacion. Sostienen que prefiere la conformidad con la virtud cuando las circunstancias lo permiten, y que el conflicto entre pueblo y grandes puede producir leyes libres; le dan la razon como pensador de la republica."
+      },
+      {
+        "school": "Lectura satirico-republicana (Rousseau, Spinoza, Diderot)",
+        "view": "Rousseau leyo El Principe como satira que, fingiendo aconsejar a los reyes, en realidad instruye al pueblo y revela la corrupcion del poder principesco. Spinoza vio una advertencia de un patriota sobre lo que pueden hacer los tiranos, y Diderot lo entendio como desenmascaramiento del despotismo; defienden a Maquiavelo como republicano encubierto."
+      },
+      {
+        "school": "Marxismo gramsciano (Gramsci)",
+        "view": "Antonio Gramsci, en los Cuadernos de la carcel, reelabora al moderno Principe como el partido politico, organismo y voluntad colectiva capaz de fundar un nuevo Estado y una hegemonia. Le da la razon al valorar a Maquiavelo como quien mostro como construir una voluntad nacional-popular para la transformacion politica."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Lectura straussiana (Leo Strauss)",
+        "view": "Leo Strauss califico a Maquiavelo de maestro del mal, porque aconseja a los gobernantes abandonar la justicia, la clemencia y la templanza en favor de la crueldad, el miedo y el engano. Objeta que esta ruptura con la tradicion clasica y cristiana corrompe el horizonte moral de la politica occidental."
+      },
+      {
+        "school": "Condena moral cristiana e iusnaturalista",
+        "view": "El cardenal Reginald Pole lo llamo libro escrito por un enemigo del genero humano, y la Iglesia incluyo sus obras en el Indice de libros prohibidos en 1559. Desde el derecho natural se objeta que El Principe separa la politica de todo fundamento divino y moral, vaciando la virtu de contenido etico al admitir como virtuosos a criminales y tiranos."
+      },
+      {
+        "school": "Critica a la tesis de la satira (Berlin, Viroli)",
+        "view": "Isaiah Berlin y Maurizio Viroli rechazan que el texto sea mera ironia o satira, advirtiendo que tal defensa tergiversa su sentido literal. Objetan que tomar el consejo como burla ignora que Maquiavelo ofrece recomendaciones serias y deliberadas."
+      },
+      {
+        "school": "Lectura de la trampa (Mary Dietz, Garrett Mattingly)",
+        "view": "Garrett Mattingly vio en la obra una burla diabolica, y Mary Dietz argumento que Maquiavelo tiende una trampa: ofrece consejos (como armar al pueblo) disenados para arruinar al gobernante que los siga. Cuestionan asi la coherencia de leer el texto como manual sincero del poder principesco."
+      },
+      {
+        "school": "Moralismo politico y critica al maquiavelismo",
+        "view": "Una larga tradicion moralista objeta que separar eficacia politica de bondad legitima el fin justifica los medios y abre la puerta a la razon de Estado sin limites. Critica que la prioridad de la fortuna y la fuerza sobre la justicia disuelve toda obligacion moral del poder en mera coaccion."
+      }
+    ],
+    "contrasts": "Quien lee El Principe junto a los Discursos sobre Tito Livio tiende a ver un republicano (Pocock, Skinner, Viroli) o incluso un satirico que ensena al pueblo a desconfiar del tirano (Rousseau, Spinoza); quien lo lee como tratado autonomo encuentra a un realista fundador de la ciencia politica (Croce) o a un maestro del mal que corrompe la tradicion moral (Strauss). La condena cristiana lo rechaza por divorciar la politica de Dios y del derecho natural, mientras Gramsci lo reapropia para pensar el partido revolucionario. Berlin sugiere que el verdadero escandalo no es la inmoralidad de Maquiavelo, sino su pluralismo: la virtud pagana del exito civico y la virtud cristiana de la salvacion pueden ser irreconciliables. El lector debe decidir si la verita effettuale es lucidez necesaria o cinismo peligroso; el texto sostiene a la vez al teorico de la libertad y al consejero de la fuerza, y esa tension es lo que lo mantiene vigente.",
+    "sources": [
+      {
+        "label": "Niccolo Machiavelli - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/machiavelli/"
+      },
+      {
+        "label": "Niccolo Machiavelli - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/machiave/"
+      },
+      {
+        "label": "The Prince - Wikipedia (interpretaciones)",
+        "url": "https://en.wikipedia.org/wiki/The_Prince"
+      },
+      {
+        "label": "Gramsci, The Modern Prince - Prison Notebooks",
+        "url": "https://www.marxists.org/archive/gramsci/prison_notebooks/modern_prince/index.htm"
+      },
+      {
+        "label": "Isaiah Berlin, The Question of Machiavelli - NYRB",
+        "url": "https://www.nybooks.com/articles/1971/11/04/a-special-supplement-the-question-of-machiavelli/"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre El Principe de Maquiavelo. No me des respuestas ni resumenes: hace preguntas, una por vez. Empeza preguntandome si El Principe es un manual sincero para gobernantes, una satira que desnuda al tirano, o un acto de patriotismo, y por que lo creo. Cuando afirme algo, pedime razones y opone una lectura rival real (Strauss: maestro del mal; Pocock y Skinner: republicano civico; Croce: realismo amoral; Gramsci: el moderno principe). Si me trabo, dame una pista, no la respuesta."
+}

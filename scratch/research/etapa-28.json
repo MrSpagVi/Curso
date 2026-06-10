@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "Calibán y la bruja (2004) reúne en una sola tesis varias tradiciones: la teoría marxista de la acumulación originaria, el feminismo autonomista italiano de Wages for Housework y la historia de la caza de brujas europea. Federici sostiene que la persecución de brujas de los siglos XVI y XVII no fue un episodio de superstición residual del feudalismo, sino un componente funcional del nacimiento del capitalismo: un mecanismo de terror que destruyó el poder social y económico de las mujeres, las expropió de saberes (parteras, sanadoras), sometió su cuerpo y su capacidad reproductiva al control del Estado y del capital, e instauró una nueva división sexual del trabajo en la que el trabajo doméstico no pagado quedó naturalizado e invisibilizado. Con ello reescribe el relato de Marx sobre la acumulación originaria, que habría ignorado que la expropiación de la tierra fue acompañada de una expropiación del cuerpo femenino. El debate posterior gira en torno a tres ejes: si la cronología y la geografía de la caza de brujas respaldan empíricamente la tesis; si la explicación es funcionalista (deducir la causa de un fenómeno de su utilidad para el capital); y, dentro del propio feminismo marxista, si el trabajo reproductivo produce valor en sentido técnico o solo es condición de posibilidad de la producción de valor.",
+    "supporters": [
+      {
+        "school": "Feminismo autonomista y campaña Wages for Housework (Mariarosa Dalla Costa, Selma James, la propia Federici)",
+        "view": "Es la matriz teórica de la que nace el libro. Desde El poder de la mujer y la subversion de la comunidad (1972), Dalla Costa y James redefinieron el trabajo doméstico como trabajo reproductivo necesario para la reproduccion de la fuerza de trabajo y, por tanto, para la produccion de plusvalor: la fabrica se extiende al hogar (la fabrica social de Tronti). Calibán da profundidad histórica a esa tesis al mostrar que la subordinacion del trabajo reproductivo no es natural sino producto de una violenta construcción en la transición al capitalismo. Reivindican que la caza de brujas y la division sexual del trabajo son dos caras de un mismo proceso de disciplinamiento."
+      },
+      {
+        "school": "Teoría de la reproducción social marxista (Lise Vogel, Tithi Bhattacharya, Susan Ferguson, Cinzia Arruzza)",
+        "view": "Recuperan el aporte de Federici de poner el trabajo reproductivo no pagado y la opresion de género en el centro del análisis del capitalismo, integrándolo a una teoría unitaria de clase. Reconocen que la reproduccion cotidiana y generacional de la fuerza de trabajo (cuidado, crianza, salud) sostiene la acumulación. Aunque discrepan con Federici en si ese trabajo produce valor directamente (ellas, siguiendo a Vogel, sostienen que produce la mercancía fuerza de trabajo, no plusvalor directo), comparten la tesis de fondo: el capitalismo depende estructuralmente de una esfera reproductiva feminizada e invisibilizada, y la dominacion de género no es externa al capital sino constitutiva."
+      },
+      {
+        "school": "Filosofía política feminista marxista institucional (Stanford Encyclopedia of Philosophy, entrada Feminist Perspectives on Class and Work)",
+        "view": "La sistematizacion académica registra a Federici junto a Vogel y Malos como exponentes de la tesis de que el trabajo doméstico no pagado es parte de la reproduccion social del capitalismo y permite mayores ganancias al capital. Presenta su análisis de la transición a Europa como una contribucion legítima al debate sobre la acumulación originaria: la necesidad de la clase capitalista emergente de controlar la reproduccion de la clase trabajadora habria alimentado la campaña contra las brujas. La entrada valida la division sexual del trabajo como categoría explicativa de la desigualdad."
+      },
+      {
+        "school": "Marxismo ecológico y de la subsistencia (Maria Mies, Claudia von Werlhof)",
+        "view": "Aliadas teóricas de Federici, sostienen que el capitalismo se funda sobre la expropiación de esferas no asalariadas: el trabajo de las mujeres, los pueblos colonizados y la naturaleza, tratados como recursos gratuitos (housewifization). Desde esta óptica, la caza de brujas es el correlato europeo de la violencia colonial: ambos procesos producen sujetos expropiables. Refuerzan la lectura de Federici de la acumulación originaria como un proceso continuo y violento, no como una fase superada del pasado."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Crítica marxista heterodoxa de la transición (Andreas Bieler, Economía Política Internacional, sobre Brenner, Teschke y Lacher)",
+        "view": "Acepta la devastacion sufrida por las mujeres pero rechaza el marco funcionalista y la falta de especificidad histórica. Objeta que Federici trate los cercamientos y la acumulación originaria como un proceso uniforme en toda Europa, cuando el capitalismo agrario surgió de forma desigual (Brenner muestra diferencias entre Inglaterra, Francia y Europa oriental). Propone una cronología alternativa: la caza de brujas fue una respuesta a la crisis del feudalismo desde dentro del feudalismo, análoga al surgimiento de los Estados absolutistas. Siguiendo a Teschke y Lacher, sostiene que el capitalismo emergió dentro de un sistema de Estados absolutistas y patriarcados preexistentes; la subordinación de género precede al capital y no nace con él."
+      },
+      {
+        "school": "Crítica historiográfica del rigor empírico (Joseph Kay, a partir de Levack, Briggs, Barstow, Monter, Gibbons)",
+        "view": "Sympatiza con el marco teórico pero denuncia scholarship descuidado. Federici habla de cientos de miles de muertas, pero su propia nota cita a Barstow (unas 200.000 acusadas, al menos 100.000 muertas en tres siglos); las estimaciones académicas más sólidas son menores: Briggs calcula 40.000 a 50.000 ejecuciones de unos 100.000 procesos (1450 a 1750), Levack unas 60.000 ejecuciones de 110.000 procesos. Kay observa que el promedio resultante (del orden de 160 muertes anuales en una poblacion de decenas de millones) es significativo pero difícilmente un mecanismo disciplinario primario y sistemático del capitalismo naciente; juicios espectaculares periódicos podían disuadir sin necesidad de la escala genocida que la tesis requiere."
+      },
+      {
+        "school": "Historiografía multicausal de la caza de brujas (Brian Levack, Robin Briggs)",
+        "view": "El consenso de los historiadores especializados es multicausal: la caza de brujas se explica por la confluencia de cambios legales (procedimiento inquisitivo, tortura, leyes penales), religiosos (Reforma y Contrarreforma, demonología), sociales y de mentalidad colectiva (Briggs enfatiza las tensiones de vecindad en la comunidad rural), no por una funcionalidad económica respecto del capitalismo. Geográfica y temporalmente los picos de persecución (regiones del Sacro Imperio, zonas fronterizas confesionales) no coinciden con prolijidad con las zonas y fechas del despegue capitalista, lo que debilita la inferencia causal económica."
+      },
+      {
+        "school": "Crítica académica de la causalidad y el eurocentrismo (reseña en Essex Student Journal, Safiyyah Esat)",
+        "view": "Reconoce el libro como brillante y provocador por poner la experiencia de las mujeres en primer plano, pero objeta que Federici a menudo extrae conclusiones definitivas sin evidencia suficiente y confunde correlacion con causación (por ejemplo, al leer las leyes segregacionistas de Maryland y Virginia de la decada de 1660 como prueba de un racismo impuesto desde arriba). Critica además el eurocentrismo: imponer binarios de género occidentales a los pueblos indígenas y equiparar a las brujas europeas con las mujeres africanas esclavizadas borra diferencias decisivas entre esas experiencias."
+      },
+      {
+        "school": "Crítica marxista clásica sobre el valor y la estrategia (Paula Varela y la línea Vogel-Bhattacharya en el debate de reproducción social)",
+        "view": "Desde dentro del campo marxista, objeta el corazón autonomista de la tesis: el trabajo reproductivo produce valor de uso y la mercancía fuerza de trabajo, pero no plusvalor en sentido técnico, porque no es trabajo abstracto medible en el mercado. Sostener lo contrario (Dalla Costa, Federici, Mezzadri) confunde trabajo con fuerza de trabajo y la esfera de la reproducción con la de la producción de valor. Critica además el giro estratégico de Wages for Housework hacia el salario social y los comunes por romantizar el trabajo reproductivo en lugar de criticarlo estructuralmente."
+      }
+    ],
+    "contrasts": "El núcleo del desacuerdo no es si las mujeres sufrieron violencia atroz ni si el trabajo reproductivo sostiene el capitalismo (casi nadie lo niega), sino el tipo de explicación. Federici ofrece una explicación funcional-causal: la caza de brujas existió porque era útil para la acumulación capitalista y el control de la reproducción. Los críticos atacan ese paso en tres frentes complementarios. Los historiadores especializados (Levack, Briggs) oponen una explicación multicausal y muestran que la cronología y la geografía de la persecución no se alinean limpiamente con el despegue capitalista. Los críticos del rigor empírico (Kay) señalan que las cifras invocadas exceden la evidencia y no alcanzan la escala que un mecanismo disciplinario sistemático requeriría. Los marxistas de la transición (Bieler, vía Brenner y Teschke) reubican el fenómeno como crisis interna del feudalismo y sostienen que el patriarcado precede al capital. Dentro del propio feminismo marxista, la línea Vogel-Bhattacharya-Varela acepta la importancia política del libro pero rechaza la tesis autonomista de que el trabajo doméstico produzca plusvalor. Los defensores responden que exigir coincidencia mecánica de fechas y mapas es leer la acumulación originaria de forma demasiado estrecha, y que el aporte central (devolver el cuerpo y el trabajo reproductivo femeninos al relato de los orígenes del capitalismo) sobrevive a las objeciones sobre detalles cuantitativos. El lector queda ante una tensión productiva entre la potencia interpretativa de una gran síntesis y las exigencias de causalidad y prueba de la historia social.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy, Feminist Perspectives on Class and Work (Federici, Vogel, wages for housework, acumulación originaria)",
+        "url": "https://plato.stanford.edu/entries/feminism-class/"
+      },
+      {
+        "label": "Andreas Bieler, Witch-Hunts and the Birth of Capitalism: Reflections on Caliban and the Witch (Progress in Political Economy, Universidad de Sídney)",
+        "url": "https://www.ppesydney.net/witch-hunts-and-the-birth-of-capitalism-reflections-on-caliban-and-the-witch/"
+      },
+      {
+        "label": "Joseph Kay, Witch-hunts and the transition to capitalism? (crítica del rigor empírico; cita a Levack, Briggs, Barstow, Monter, Gibbons)",
+        "url": "https://libcom.org/article/witch-hunts-and-transition-capitalism"
+      },
+      {
+        "label": "Safiyyah Esat, reseña académica de Caliban and the Witch (Essex Student Journal, peer-reviewed, Universidad de Essex)",
+        "url": "https://publications.essex.ac.uk/esj/article/id/347/"
+      },
+      {
+        "label": "Paula Varela, Social Reproduction in Dispute (Spectre Journal): debate autonomismo vs. reproducción social sobre valor y Wages for Housework",
+        "url": "https://spectrejournal.com/social-reproduction-in-dispute/"
+      },
+      {
+        "label": "Wages for Housework (panorama de la campaña, fundadoras y debate del trabajo doméstico)",
+        "url": "https://en.wikipedia.org/wiki/Wages_for_housework"
+      }
+    ]
+  },
+  "socratic": "Vas a razonar conmigo la tesis central de Calibán y la bruja. Voy a hacerte una pregunta por vez, no te voy a dar respuestas, y cada vez que afirmes algo te voy a pedir las razones y la evidencia. Cuando convenga, te voy a oponer una objeción real de un autor concreto y te voy a dejar alguna pista, no la conclusión. Empezamos. Federici sostiene que la caza de brujas europea de los siglos XVI y XVII fue funcional al nacimiento del capitalismo: un mecanismo para disciplinar el cuerpo de las mujeres y su trabajo reproductivo durante la acumulación originaria. Primera pregunta: ¿qué tendría que ser verdad sobre la cronología y la geografía de las persecuciones para que esa relación fuera causal y no solo una coincidencia? Cuando respondas, decime concretamente qué dato histórico la confirmaría y cuál la refutaría. (Si te trabás, pensá en dónde y cuándo se concentraron realmente los procesos.) Según lo que contestes, te voy a oponer la objeción de los historiadores multicausales, Levack y Briggs, que niegan una causa económica única; o la de Andreas Bieler, que lee la caza de brujas como crisis interna del feudalismo y sostiene que el patriarcado es anterior al capital; o la de Joseph Kay sobre si las cifras que invoca Federici alcanzan la escala que su tesis necesita; y, si te vas al terreno del trabajo doméstico, la objeción marxista de Lise Vogel y Paula Varela sobre si la reproducción produce plusvalor o solo la mercancía fuerza de trabajo. ¿Cuál es tu respuesta a la primera pregunta?"
+}

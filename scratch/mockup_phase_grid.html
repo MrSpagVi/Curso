@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mockup: Vista de Fases e Itinerarios Didácticos</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #090d16;
+            --bg-card: rgba(17, 24, 39, 0.7);
+            --primary: #6366f1;
+            --secondary: #ec4899;
+            --accent: #10b981;
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --border: rgba(255, 255, 255, 0.05);
+            --card-glow: rgba(99, 102, 241, 0.05);
+        }
+
+        [data-theme="light"] {
+            --bg-dark: #f3f4f6;
+            --bg-card: rgba(255, 255, 255, 0.9);
+            --primary: #4f46e5;
+            --secondary: #db2777;
+            --accent: #059669;
+            --text-main: #1f2937;
+            --text-muted: #6b7280;
+            --border: rgba(0, 0, 0, 0.05);
+            --card-glow: rgba(79, 70, 229, 0.03);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Lexend', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            min-height: 100vh;
+            padding: 3rem 2rem;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1000px;
+        }
+
+        header {
+            margin-bottom: 3rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .theme-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border);
+            padding: 0.5rem 1.25rem;
+            border-radius: 10px;
+            color: var(--text-main);
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .theme-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        /* Phase Grid layout */
+        .phase-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .phase-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(12px);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+            overflow: hidden;
+            position: relative;
+        }
+        .phase-card:hover {
+            border-color: rgba(99, 102, 241, 0.3);
+            box-shadow: 0 15px 35px var(--card-glow);
+        }
+
+        .phase-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        .phase-title-area {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+        }
+
+        .phase-badge {
+            width: 50px;
+            height: 50px;
+            border-radius: 14px;
+            background: rgba(99, 102, 241, 0.1);
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Outfit', sans-serif;
+            font-weight: 900;
+            font-size: 1.25rem;
+            border: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .phase-info h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.3rem;
+            font-weight: 700;
+        }
+        .phase-info p {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            margin-top: 0.15rem;
+        }
+
+        .phase-meta {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+        }
+
+        .progress-bar-container {
+            width: 120px;
+            height: 8px;
+            background: rgba(156, 163, 175, 0.1);
+            border-radius: 999px;
+            overflow: hidden;
+        }
+        .progress-bar-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            border-radius: 999px;
+            width: 0%;
+            transition: width 1s ease;
+        }
+
+        .toggle-arrow {
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.05);
+            transition: transform 0.3s ease;
+        }
+        .phase-card.open .toggle-arrow {
+            transform: rotate(180deg);
+        }
+
+        /* Collapsible body content */
+        .phase-body {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s cubic-bezier(0.16, 1, 0.3, 1), margin-top 0.4s ease;
+        }
+        .phase-card.open .phase-body {
+            max-height: 1000px;
+            margin-top: 2rem;
+            border-top: 1px solid var(--border);
+            padding-top: 1.5rem;
+        }
+
+        /* Readings and videos lists */
+        .grid-columns {
+            display: grid;
+            grid-template-columns: 1.2fr 1fr;
+            gap: 2rem;
+        }
+        @media(max-width: 768px) {
+            .grid-columns {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .readings-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .reading-item {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            transition: all 0.2s ease;
+        }
+        .reading-item:hover {
+            background: rgba(255, 255, 255, 0.04);
+            transform: translateX(4px);
+        }
+
+        .reading-checkbox {
+            width: 20px;
+            height: 20px;
+            border: 2px solid var(--text-muted);
+            border-radius: 6px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+        }
+        .reading-checkbox.checked {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: #fff;
+        }
+
+        .videos-section {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        .video-card {
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 1rem;
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .video-card:hover {
+            border-color: var(--secondary);
+            transform: scale(1.02);
+        }
+        .video-thumbnail {
+            width: 80px;
+            height: 55px;
+            background: linear-gradient(135deg, #1e293b, #0f172a);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .video-thumbnail::after {
+            content: '▶';
+            font-size: 0.8rem;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <h1>Itinerario Académico: Módulos y Fases</h1>
+                <p style="color: var(--text-muted); font-size: 0.95rem; margin-top: 0.25rem;">Navegación estructurada y contenidos multimedia del curso</p>
+            </div>
+            <button class="theme-btn" onclick="toggleTheme()">🌓 Modo</button>
+        </header>
+
+        <div class="phase-grid">
+            <!-- Phase 0 -->
+            <div class="phase-card open" id="phase-0">
+                <div class="phase-header" onclick="togglePhase('phase-0')">
+                    <div class="phase-title-area">
+                        <div class="phase-badge">0</div>
+                        <div class="phase-info">
+                            <h2>Métodos de Lectura e Investigación</h2>
+                            <p>Organización personal, Zettelkasten y técnicas de asimilación rápida.</p>
+                        </div>
+                    </div>
+                    <div class="phase-meta">
+                        <div class="progress-bar-container">
+                            <div class="progress-bar-fill" style="width: 100%;"></div>
+                        </div>
+                        <div style="font-size: 0.85rem; font-weight: 700; width: 40px; text-align: right;">100%</div>
+                        <div class="toggle-arrow">▼</div>
+                    </div>
+                </div>
+                <div class="phase-body">
+                    <div class="grid-columns">
+                        <div>
+                            <h4 style="margin-bottom: 1rem; font-size: 1rem;">Lecturas & Hitos del Módulo</h4>
+                            <div class="readings-list">
+                                <div class="reading-item">
+                                    <span>1. Setup del sistema de notas permanentes</span>
+                                    <div class="reading-checkbox checked">✓</div>
+                                </div>
+                                <div class="reading-item">
+                                    <span>2. Tutorial práctico de escritura reflexiva (30 días)</span>
+                                    <div class="reading-checkbox checked">✓</div>
+                                </div>
+                                <div class="reading-item">
+                                    <span>3. Adler - Cómo leer un libro (Capítulos clave)</span>
+                                    <div class="reading-checkbox checked">✓</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="videos-section">
+                            <h4 style="font-size: 1rem;">Clases en Video Recomendadas</h4>
+                            <div class="video-card">
+                                <div class="video-thumbnail"></div>
+                                <div>
+                                    <div style="font-size: 0.85rem; font-weight: 600;">Introducción al Zettelkasten</div>
+                                    <div style="font-size: 0.75rem; color: var(--text-muted);">Duración: 15 min - Niklas Luhmann y el orden mental.</div>
+                                </div>
+                            </div>
+                            <div class="video-card">
+                                <div class="video-thumbnail"></div>
+                                <div>
+                                    <div style="font-size: 0.85rem; font-weight: 600;">Lectura activa y crítica</div>
+                                    <div style="font-size: 0.75rem; color: var(--text-muted);">Duración: 22 min - Cómo diseccionar textos complejos.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Phase 1 -->
+            <div class="phase-card" id="phase-1">
+                <div class="phase-header" onclick="togglePhase('phase-1')">
+                    <div class="phase-title-area">
+                        <div class="phase-badge">1</div>
+                        <div class="phase-info">
+                            <h2>Filosofía Política Clásica e Ilustración</h2>
+                            <p>El nacimiento del concepto de Estado y el contrato social.</p>
+                        </div>
+                    </div>
+                    <div class="phase-meta">
+                        <div class="progress-bar-container">
+                            <div class="progress-bar-fill" style="width: 25%;"></div>
+                        </div>
+                        <div style="font-size: 0.85rem; font-weight: 700; width: 40px; text-align: right;">25%</div>
+                        <div class="toggle-arrow">▼</div>
+                    </div>
+                </div>
+                <div class="phase-body">
+                    <div class="grid-columns">
+                        <div>
+                            <h4 style="margin-bottom: 1rem; font-size: 1rem;">Lecturas & Hitos del Módulo</h4>
+                            <div class="readings-list">
+                                <div class="reading-item">
+                                    <span>1. Platón - La República (Libro VI y VII)</span>
+                                    <div class="reading-checkbox checked">✓</div>
+                                </div>
+                                <div class="reading-item">
+                                    <span>2. Hobbes - Leviatán (Capítulo XIII y XIV)</span>
+                                    <div class="reading-checkbox"></div>
+                                </div>
+                                <div class="reading-item">
+                                    <span>3. Locke - Segundo Ensayo sobre el Gobierno Civil</span>
+                                    <div class="reading-checkbox"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="videos-section">
+                            <h4 style="font-size: 1rem;">Clases en Video Recomendadas</h4>
+                            <div class="video-card">
+                                <div class="video-thumbnail"></div>
+                                <div>
+                                    <div style="font-size: 0.85rem; font-weight: 600;">Hobbes vs Locke: Contrato Social</div>
+                                    <div style="font-size: 0.75rem; color: var(--text-muted);">Duración: 18 min - Dos visiones del estado de naturaleza.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function togglePhase(id) {
+            const card = document.getElementById(id);
+            card.classList.toggle('open');
+        }
+
+        function toggleTheme() {
+            const current = document.documentElement.getAttribute('data-theme');
+            if (current === 'light') {
+                document.documentElement.removeAttribute('data-theme');
+            } else {
+                document.documentElement.setAttribute('data-theme', 'light');
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "Las Reflexiones sobre la Revolucion en Francia (1790) son el texto fundacional del conservadurismo moderno, y por eso mismo el debate sobre Burke nunca se cierra: discutir a Burke es discutir si la tradicion es sabiduria acumulada o privilegio congelado. El libro admite lecturas opuestas. Para sus defensores, Burke vio antes que nadie que demoler una sociedad entera con principios abstractos no produce libertad sino terror y dictadura militar: su prediccion del desenlace napoleonico, escrita nueve anos antes del 18 Brumario, es la credencial empirica del gradualismo. Para sus criticos, empezando por Paine y Wollstonecraft que le respondieron en caliente, el argumento de la tradicion prueba demasiado: si la antiguedad justifica, justifica tambien la esclavitud, la monarquia absoluta y toda injusticia heredada. A esto se suma un problema biografico que alimenta la disputa academica: el mismo Burke que condena 1789 defendio a los colonos americanos, a los irlandeses catolicos y proceso a Warren Hastings por los abusos en India. Hay quien resuelve la tension leyendo a Burke como conservador coherente (la tradicion de Kirk y Scruton), quien lo lee como whig reformista malinterpretado (Pocock y la escuela de Cambridge), y quien la disuelve leyendolo como ideologo de la propiedad burguesa disfrazado de tradicionalista (Macpherson y la lectura marxista). Cada vez que una sociedad debate la velocidad legitima del cambio, el expediente Burke se reabre.",
+    "supporters": [
+      {
+        "school": "Russell Kirk, Roger Scruton y el canon conservador",
+        "view": "Kirk, en The Conservative Mind: From Burke to Eliot (1953), construye a Burke como padre fundador de toda la tradicion conservadora angloamericana: de las Reflexiones extrae los canones del conservadurismo (orden trascendente, prescripcion, desconfianza ante los reformadores abstractos, vinculo entre libertad y propiedad). Scruton continua esa linea en The Meaning of Conservatism (1980) y Conservatism: An Invitation to the Great Tradition (2017), donde presenta el contrato burkeano entre muertos, vivos y no nacidos como la mejor respuesta al individualismo contractualista: la sociedad es una herencia que recibimos en fideicomiso, no un acuerdo que cada generacion firma desde cero. Para esta escuela, el Terror y el siglo XX entero confirmaron a Burke."
+      },
+      {
+        "school": "Michael Oakeshott y la critica al racionalismo politico",
+        "view": "Oakeshott, en Rationalism in Politics and Other Essays (1962), traduce la intuicion burkeana a filosofia del conocimiento: el racionalista politico cree que toda practica puede reducirse a tecnica escrita en un manual, pero el conocimiento politico es practico, tacito, transmitido por tradicion y aprendizaje, no por axiomas. La defensa burkeana del prejuicio como razon condensada se vuelve en Oakeshott una teoria completa: las instituciones encarnan un saber que ningun planificador puede explicitar ni reemplazar. Aunque Oakeshott evita el providencialismo de Burke, su ensayo es la version filosoficamente mas sofisticada del argumento de las Reflexiones contra los rediseñadores de sociedades."
+      },
+      {
+        "school": "J.G.A. Pocock y la lectura del Burke whig",
+        "view": "Pocock, en Burke and the Ancient Constitution (1960) y en su introduccion a la edicion de Hackett de las Reflexiones (1987), desarma la imagen del Burke reaccionario: Burke argumenta dentro de la tradicion juridica del common law y de la constitucion antigua inglesa, la misma con la que los whigs justificaron 1688. Su rechazo de 1789 no es rechazo de toda revolucion sino la distincion entre una revolucion que restaura derechos heredados y una que pretende fundar la sociedad desde la nada. Para la escuela contextualista de Cambridge, leer a Burke como profeta del conservadurismo del siglo XX es un anacronismo: era un reformista whig respondiendo a un debate britanico concreto."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Thomas Paine, Rights of Man",
+        "view": "Paine publico Rights of Man (1791-1792) como demolicion directa de las Reflexiones, y sigue siendo la replica canonica. Sus dos golpes centrales: primero, los muertos no pueden gobernar a los vivos; cada generacion tiene pleno derecho a decidir sus instituciones, y el contrato intergeneracional de Burke es una formula para que los privilegios del pasado hipotequen el futuro. Segundo, Burke siente compasion estetica por Maria Antonieta pero ninguna por los campesinos hambrientos: se compadece del plumaje y olvida al pajaro que muere. Donde Burke ve sabiduria heredada, Paine ve la usurpacion conquistadora de 1066 vestida de costumbre. El exito del libro (cerca de un millon de ejemplares) convirtio el duelo Burke-Paine en el debate fundacional sobre la legitimidad revolucionaria."
+      },
+      {
+        "school": "Mary Wollstonecraft, A Vindication of the Rights of Men",
+        "view": "Wollstonecraft publico la primera respuesta a Burke, A Vindication of the Rights of Men (1790), escrita en menos de un mes. Su ataque apunta al metodo: el argumento de la tradicion carece de criterio para distinguir la herencia valiosa de la injusticia heredada; si la costumbre justifica, justifica tambien la esclavitud y la trata. Ademas desenmascara la retorica de Burke: su apelacion a los sentimientos, la caballerosidad y la belleza del orden antiguo es una estetica del privilegio que confunde lo sublime con lo justo. La propiedad, no la sabiduria, es lo que el sistema burkeano protege. Dos anos despues, en la Vindicacion de los derechos de la mujer, extendera el mismo argumento a la mitad excluida de la especie."
+      },
+      {
+        "school": "C.B. Macpherson y la lectura marxista",
+        "view": "Macpherson, en Burke (Oxford Past Masters, 1980), sostiene que el enigma Burke se resuelve cuando se ve que su tradicionalismo y su economia van juntos: el orden tradicional que Burke defiende ya era un orden capitalista, y sus Thoughts and Details on Scarcity (1795) muestran un defensor implacable del laissez-faire que llama leyes de Dios a las leyes del mercado. Burke no defiende la costumbre contra el comercio: defiende la subordinacion tradicional porque disciplina a los trabajadores que la economia de mercado necesita. Esta lectura recoge la acusacion de Marx en El Capital, donde llama a Burke sicofante vendido, y reaparece en la historiografia critica reciente sobre el Burke imperial y la deferencia social."
+      }
+    ],
+    "contrasts": "Lo que esta en juego es el criterio para evaluar el cambio politico. Si Kirk, Scruton y Oakeshott tienen razon, las instituciones heredadas contienen un saber que ninguna razon individual puede auditar completo, y la carga de la prueba recae siempre sobre el reformador. Si Paine y Wollstonecraft tienen razon, la carga de la prueba recae sobre la institucion: la antiguedad no es titulo de legitimidad y cada generacion puede rehacer el contrato. Pocock complica el duelo mostrando que el Burke historico estaba mas cerca del reformismo de lo que ambos bandos admiten, y Macpherson lo disuelve: el debate tradicion contra razon seria una pantalla del debate real, quien posee y quien obedece. El lector tiene que decidir si el gradualismo de Burke es prudencia epistemica o defensa del privilegio, y la respuesta probablemente dependa del caso: la prediccion del Terror le da credito; la esclavitud y el sufragio se lo quitan.",
+    "sources": [
+      {
+        "label": "Edmund Burke (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/burke/"
+      },
+      {
+        "label": "Reflections on the Revolution in France, texto completo (Online Library of Liberty)",
+        "url": "https://oll.libertyfund.org/title/burke-reflections-on-the-revolution-in-france"
+      },
+      {
+        "label": "Thomas Paine, Rights of Man, texto completo (Project Gutenberg)",
+        "url": "https://www.gutenberg.org/ebooks/3742"
+      },
+      {
+        "label": "Russell Kirk and The Conservative Mind (The Russell Kirk Center)",
+        "url": "https://kirkcenter.org/essays/russell-kirk-and-the-conservative-mind/"
+      },
+      {
+        "label": "Edmund Burke (Encyclopaedia Britannica)",
+        "url": "https://www.britannica.com/biography/Edmund-Burke-British-philosopher-and-statesman"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre las Reflexiones sobre la Revolucion en Francia de Edmund Burke. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cada vez que yo afirme algo, pedime razones y en que pasaje del texto me apoyo. Cuando de una razon, oponeme una objecion real y nombrada: la replica de Paine en Rights of Man (los muertos no gobiernan a los vivos), la de Wollstonecraft (si la costumbre justifica, justifica la esclavitud), la lectura marxista de Macpherson (Burke como ideologo de la propiedad) o, del otro lado, la defensa de Kirk, Scruton y Oakeshott. Si me trabo, dame una pista en forma de pregunta mas concreta. Empeza preguntandome: si Burke acepta la revolucion de 1688 pero condena la de 1789, que criterio distingue una revolucion legitima de una ilegitima, y ese criterio resiste el caso de la esclavitud?"
+}

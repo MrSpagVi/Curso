@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "Orientalismo (1978) sostiene una tesis a la vez erudita y explosiva: el orientalismo no es un saber neutral sobre Oriente sino un discurso, en el sentido de Foucault, un sistema estructurado de conceptos, imagenes y practicas academicas con el que Occidente produjo, regulo y autorizo lo que se podia decir sobre Oriente. Said anuda asi saber y poder: conocer Oriente fue parte del proyecto de dominarlo, porque la representacion del arabe, el musulman o el asiatico como irracional, sensual, despotico y estatico no describia un objeto real sino que fabricaba un Otro inferior cuya tutela colonial quedaba justificada de antemano. De ahi tres nucleos que la post-lectura discute. Primero, la complicidad de la cultura alta y de la academia con el imperialismo: filologos, novelistas, viajeros y funcionarios participan de un mismo archivo, de modo que la erudicion mas refinada (Renan, Massignon, Lane) es inseparable de la empresa imperial. Segundo, el problema de la representacion del Otro: si todo discurso sobre Oriente esta atravesado por el poder, puede alguien representar al Otro sin reproducir la dominacion, y puede el subalterno hablar por si mismo. Tercero, la fundacion misma de los estudios poscoloniales, que nacen de este libro y lo convierten en texto canonico. Pero el debate tiene tambien una tension interna que recorre toda la recepcion: Said usa a Foucault (el discurso como poder que disuelve al autor y la verdad) y al mismo tiempo invoca un humanismo de raiz auerbachiana y una critica moral del poder que presupone sujetos, verdad y mejor representacion, dos marcos teoricos que muchos consideran incompatibles. Sobre ese filo se ordenan quienes lo continuan y quienes lo impugnan.",
+    "supporters": [
+      {
+        "school": "Estudios poscoloniales: teoria de la ambivalencia (Homi Bhabha, The Location of Culture, 1994)",
+        "view": "Bhabha parte de Said y a la vez lo corrige desde adentro. Acepta que el orientalismo es un discurso de poder colonial, pero objeta que Said lo presenta como un sistema demasiado cerrado y unidireccional, en el que Occidente domina sin fisuras. Frente a eso introduce la ambivalencia, la hibridez, el mimetismo y el tercer espacio: el discurso colonial es inestable, esta dividido por el deseo y el miedo al Otro, y produce sujetos que repiten al colonizador con una diferencia que socava su autoridad. Asi salva la potencia critica de Said mostrando, contra su rigidez, las grietas por donde aparece la resistencia."
+      },
+      {
+        "school": "Estudios poscoloniales: deconstruccion feminista y subalternidad (Gayatri Spivak, Can the Subaltern Speak?, 1988)",
+        "view": "Spivak radicaliza el problema de la representacion del Otro que Said abrio. En su ensayo mas citado pregunta si el subalterno, y en particular la mujer subalterna, puede hablar, y responde que el intelectual occidental, incluso bien intencionado, tiende a re-presentar al subalterno borrando su voz bajo la propia. Hereda de Said la sospecha sobre el saber que habla por el Otro y la lleva al limite con herramientas de Derrida y del marxismo, advirtiendo que tambien la critica poscolonial puede reinscribir la dominacion que denuncia."
+      },
+      {
+        "school": "Estudios subalternos y giro poscolonial en la historiografia (Ranajit Guha y el Subaltern Studies Collective)",
+        "view": "El colectivo de historiadores de la India encuentra en Orientalismo la legitimacion teorica para deconstruir el archivo colonial: los textos administrativos, censales y etnograficos no registran a la India, la construyen como objeto gobernable. Aplicando la idea saidiana de que conocer es dominar, reescriben la historia desde abajo, recuperando la agencia de campesinos y grupos subordinados contra el relato colonial y tambien contra el nacionalista de elite."
+      },
+      {
+        "school": "Lectura academica consolidada del libro como fundacion disciplinar (recepcion en estudios culturales, geografia humana e historia)",
+        "view": "Una amplia corriente posterior toma Orientalismo como el texto que fundo los estudios poscoloniales y reorganizo la teoria literaria, la historia y la geografia humana. Valora sobre todo su aporte metodologico: mostrar que no hay saber sobre el otro al margen del poder, desnaturalizar la idea de conocimiento desinteresado y habilitar la lectura de textos canonicos como documentos del proyecto imperial. Para esta lectura, los errores de detalle no anulan el desplazamiento epistemico que el libro produjo."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Orientalismo academico clasico (Bernard Lewis, polemica directa con Said, The New York Review of Books, 1982)",
+        "view": "Lewis, principal antagonista de Said, califica el libro de insolente, arbitrario, falso y absurdo. Sostiene que Said comete errores eruditos, malinterpreta la lexicografia arabe, ignora la gran filologia oriental y, sobre todo, confunde el estudio academico legitimo con la ideologia imperial. Defiende el orientalismo como una busqueda humanista de conocimiento movida por la curiosidad. Said replica acusandolo de mala fe y de encubrir bajo apariencia academica una agenda politica proisraeli, en lo que es la confrontacion publica mas famosa del debate."
+      },
+      {
+        "school": "Historiografia del orientalismo (Robert Irwin, For Lust of Knowing / Dangerous Knowledge, 2006)",
+        "view": "Irwin escribe a la vez una historia de la disciplina y un ataque frontal: llama al libro de Said charlataneria maligna en la que cuesta distinguir el error honesto de la tergiversacion deliberada. Documenta inexactitudes historicas y omisiones decisivas: Said se concentra en Francia e Inglaterra e ignora a los orientalistas alemanes, que fueron los mas innovadores pese a que Alemania carecia de imperio colonial en la region, lo que socava la ecuacion orientalismo igual imperialismo. Tambien objeta el ensamblaje incoherente de Foucault y Gramsci. Maya Jasanoff, en la London Review of Books, concede que las correcciones factuales de Irwin son saludables pero astillan ladrillos sueltos sin derribar el edificio teorico."
+      },
+      {
+        "school": "Critica marxista (Aijaz Ahmad, In Theory: Classes, Nations, Literatures, 1992)",
+        "view": "Ahmad denuncia la incoherencia teorica de Said: usa simultaneamente el antihumanismo de Foucault, para quien el discurso disuelve al sujeto y la verdad, y un humanismo auerbachiano que presupone sujetos morales y mejores representaciones; ambos marcos no pueden sostenerse juntos. Critica ademas la idea de una continuidad del discurso occidental de Homero a hoy como una esencializacion, reprocha que Said meta a Marx en el mismo saco orientalista y, sobre todo, que la explicacion cultural desplace a la economia politica y a la clase, vaciando el analisis materialista del colonialismo."
+      },
+      {
+        "school": "Marxismo arabe y critica del esencialismo (Sadik Jalal al-Azm, Orientalism and Orientalism in Reverse, Khamsin, 1981)",
+        "view": "Al-Azm, filosofo sirio, formula dos objeciones. Primero defiende a Marx contra Said, sosteniendo que solo la fascinacion de Said por lo textual y linguistico puede llevar a presentar la mente de Marx como usurpada por el vocabulario orientalista, cuando Marx pensaba desde el materialismo historico. Segundo, y mas influyente, denuncia que al rastrear el orientalismo hasta una inclinacion europea casi inmemorial Said termina esencializando a Occidente con la misma logica que critica, y advierte que de ahi nace un orientalismo en reverso: nacionalistas arabes e islamistas que reafirman una esencia oriental, ahora valorada positivamente, igual de reaccionaria que la original."
+      },
+      {
+        "school": "Critica de las contradicciones internas: el problema saber-poder (linea compartida por criticos marxistas e historicistas)",
+        "view": "Una objecion transversal sostiene que la tesis fuerte del libro se autodestruye. Si todo saber sobre Oriente es discurso al servicio del poder, entonces tambien el libro de Said es discurso situado y no puede pretender una verdad mas justa sobre el orientalismo; pero Said si reclama esa verdad superior y denuncia tergiversaciones, lo que presupone que existe una representacion mas fiel del Otro. La oscilacion entre el determinismo discursivo foucaultiano y la critica humanista de la distorsion deja sin resolver como seria posible una representacion no dominadora del Otro, que es precisamente la pregunta que el libro abre."
+      }
+    ],
+    "contrasts": "El campo se ordena menos por estar a favor o en contra del libro que por como cada uno trata su tension constitutiva entre Foucault y el humanismo. Bhabha, Spivak y los estudios subalternos aceptan el nucleo saber-poder y trabajan justamente en sus grietas: corrigen la rigidez del sistema (ambivalencia), radicalizan la pregunta por la voz del Otro (subalternidad) o lo vuelven metodo historiografico, de modo que su critica a Said es interna y productiva. Lewis e Irwin atacan desde afuera de la teoria, en el terreno de la erudicion: errores, omisiones (el orientalismo aleman sin imperio) y la defensa de un saber movido por curiosidad y no por dominacion, aunque sus rivales responden que corregir datos no toca la tesis epistemica. Ahmad y al-Azm comparten un mismo gesto marxista: rescatan a Marx del saco orientalista y reprochan que la explicacion cultural borre la clase y la economia politica. El punto donde casi todos los criticos convergen, incluso los que admiran el libro, es el reproche de esencialismo en espejo: al denunciar que Occidente esencializa Oriente, Said tenderia a esencializar Occidente, y al-Azm muestra ademas el efecto bumerang del orientalismo en reverso. Debajo de todo late la contradiccion que ni partidarios ni adversarios disuelven del todo: usar a Foucault para decir que todo saber es poder y, a la vez, reclamar una representacion mas verdadera y menos dominadora del Otro.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Colonialism (Said, Orientalismo, analisis del discurso de Foucault, saber-poder, fundacion de los estudios poscoloniales, Spivak y el subalterno)",
+        "url": "https://plato.stanford.edu/entries/colonialism/"
+      },
+      {
+        "label": "Encyclopaedia Britannica: Orientalism, obra de Edward Said (tesis central, representacion del Otro, influencia y fundacion de los estudios poscoloniales y subalternos)",
+        "url": "https://www.britannica.com/topic/Orientalism-by-Said"
+      },
+      {
+        "label": "Orientalism: An Exchange (polemica directa Edward Said, Bernard Lewis y Oleg Grabar, The New York Review of Books, 1982)",
+        "url": "https://www.nybooks.com/articles/1982/08/12/orientalism-an-exchange/"
+      },
+      {
+        "label": "For Lust of Knowing / Dangerous Knowledge (Robert Irwin: charlataneria maligna, errores historicos, omision del orientalismo aleman, mezcla de Foucault y Gramsci, respuesta de Maya Jasanoff en la LRB)",
+        "url": "https://en.wikipedia.org/wiki/For_Lust_of_Knowing"
+      },
+      {
+        "label": "Orientalism and Orientalism in Reverse (Sadik Jalal al-Azm, Khamsin, 1981: defensa de Marx, esencializacion de Occidente y orientalismo en reverso)",
+        "url": "https://libcom.org/article/orientalism-and-orientalism-reverse-sadik-jalal-al-azm"
+      },
+      {
+        "label": "Encyclopaedia Britannica: Edward Said (biografia, Orientalismo de 1978 como una de las obras academicas mas influyentes del siglo XX)",
+        "url": "https://www.britannica.com/biography/Edward-Said"
+      }
+    ]
+  },
+  "socratic": "Sos un tutor socratico de teoria politica y vamos a pensar juntos Orientalismo de Edward Said, sobre todo la tesis del orientalismo como discurso que liga saber y poder. Reglas: preguntame de a una pregunta por vez, nunca me des la respuesta, exigime siempre que justifique con razones o con el texto, y cuando yo afirme algo oponeme una objecion real de un autor nombrado (Bernard Lewis, Robert Irwin, Aijaz Ahmad, Sadik Jalal al-Azm, Homi Bhabha, Gayatri Spivak). Si me trabo, dame una pista, no la solucion. Arranca con esta pregunta concreta: cuando Said dice, siguiendo a Foucault, que conocer Oriente fue parte del proyecto de dominarlo, que esta afirmando exactamente, que el saber refleja al poder, que lo sirve como instrumento, o que el saber es el mismo una forma de poder; y como distinguirias en un caso real un estudio orientalista que domina de uno que solo describe? Despues de mi respuesta, segui indagando: pediime que precise si entonces existe alguna representacion del Otro que no sea dominacion. Mas adelante oponeme la objecion de incoherencia de Aijaz Ahmad (Said usa a la vez el antihumanismo de Foucault, que disuelve sujeto y verdad, y un humanismo que presupone sujetos y mejores representaciones) y preguntame cual de los dos marcos estoy usando cuando digo que Said descubre la verdad sobre el orientalismo. Llevame tambien al reproche de esencialismo en espejo de al-Azm (no esencializa Said a Occidente igual que denuncia que Occidente esencializa Oriente, y que es el orientalismo en reverso) y a la objecion factica de Irwin (si el orientalismo es instrumento del imperio, como se explica que los alemanes, sin imperio colonial en la region, fueran los orientalistas mas innovadores). Cuando defiendas el valor del libro, oponeme la correccion de Bhabha (el discurso colonial no es un sistema cerrado sino ambivalente) y la pregunta de Spivak (puede el subalterno hablar, o tambien el critico lo silencia al representarlo). Cerra siempre devolviendome la pregunta de si la tesis fuerte saber igual poder no se vuelve contra el propio libro de Said, que tambien seria discurso situado."
+}

@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "En su leccion inaugural de 1958 en Oxford, Isaiah Berlin distingue dos familias de conceptos de libertad. La libertad negativa responde a la pregunta por el area en la que el sujeto debe ser dejado hacer sin interferencia de otros: ser libre es la ausencia de obstaculos, barreras o coacciones externas. La libertad positiva responde a una pregunta distinta, por la fuente del control: quien me gobierna, ser libre es ser amo de uno mismo, autodeterminarse y realizar el propio yo verdadero. El nervio polemico del ensayo es la tesis de que la libertad positiva, por una pendiente logica, puede pervertirse: si se postula un yo racional superior frente a un yo empirico esclavo de pasiones, resulta facil sostener que coaccionar a alguien hacia su yo verdadero es en realidad liberarlo, la paradoja del forzar a ser libre que Berlin rastrea de Rousseau, Kant mal leido, Hegel y Marx hasta las justificaciones totalitarias del siglo XX. Detras late su monismo versus pluralismo: Berlin rechaza la idea de una armonia final de todos los valores y defiende un pluralismo de valores genuinos, multiples, en conflicto e inconmensurables, sin patron de medida comun que los jerarquice. El debate posterior gira en torno a si la dicotomia se sostiene, si la libertad positiva merece esa sospecha, y si existe un tercer concepto que escape al binario.",
+    "supporters": [
+      {
+        "school": "Liberalismo de la Guerra Fria (Isaiah Berlin, Karl Popper, Friedrich Hayek)",
+        "view": "Berlin y la tradicion del liberalismo de Guerra Fria privilegian la libertad negativa como salvaguarda contra el utopismo coactivo. La sospecha hacia la libertad positiva como autorrealizacion colectiva es leida como diagnostico de las patologias de los regimenes que invocaban liberar al pueblo de su falsa conciencia. Popper, en La sociedad abierta y sus enemigos, comparte el blanco (Platon, Hegel, Marx como raices del totalitarismo) y Hayek en Los fundamentos de la libertad defiende la libertad como ausencia de coaccion arbitraria, en sintonia con la prioridad berliniana del area de no interferencia."
+      },
+      {
+        "school": "Pluralismo de valores agonista (John Gray)",
+        "view": "Gray, en su Isaiah Berlin (1995), radicaliza el pluralismo de valores: lo lee no como relativismo ni escepticismo sino como pluralismo objetivo, la tesis de que hay bienes genuinos inconmensurables que no pueden realizarse todos a la vez. Para Gray esto socava el monismo de la Ilustracion y la creencia en una armonia final, pero tambien tensiona el propio liberalismo de Berlin: si ningun modo de vida es el unico racional, el liberalismo pierde su pretension de validez universal y debe contentarse con un modus vivendi."
+      },
+      {
+        "school": "Pluralismo liberal sistematico (William Galston, George Crowder)",
+        "view": "Galston (Liberal Pluralism, 2002) toma el pluralismo de valores berliniano como fundamento positivo de un liberalismo de la diversidad que maximiza el espacio para formas de vida distintas y limita la imposicion estatal de una unica concepcion del bien. Crowder, aunque critico de algunos pasos, defiende que el pluralismo de valores, bien entendido, ofrece argumentos a favor de la libertad y la diversidad liberales, intentando cerrar la brecha entre pluralismo y liberalismo que Gray daba por irreparable."
+      },
+      {
+        "school": "Defensa analitica de la dicotomia (Ian Carter, Matthew Kramer, Hillel Steiner)",
+        "view": "Frente a quienes disuelven o moralizan la libertad, Carter, Kramer y Steiner defienden una concepcion pura y mensurable de la libertad negativa como ausencia de impedimentos fisicos, deslindada del valor moral del agente. Esta corriente conserva el nucleo del concepto negativo berliniano y lo blinda contra la objecion republicana de que la mera no interferencia no captura la dominacion, sosteniendo que una teoria de la libertad debe permanecer descriptiva y no convertirse en una teoria moralizada de la legitimidad."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Republicanismo neorromano (Quentin Skinner, Philip Pettit)",
+        "view": "Skinner (A Third Concept of Liberty, leccion de la British Academy, 2002) y Pettit (Republicanism, 1997) rechazan la dicotomia: proponen un tercer concepto, la libertad como no dominacion o ausencia de dependencia respecto de una voluntad arbitraria. Un esclavo de amo benevolo que nunca interfiere sigue siendo no libre porque vive a merced de otro. Contra Berlin, la mera no interferencia (libertad negativa) es insuficiente; y a diferencia de la libertad positiva, esta libertad neorromana, heredera del humanismo italiano y del republicanismo ingles, no exige autodominio interior, evitando asi la pendiente totalitaria que Berlin temia."
+      },
+      {
+        "school": "Defensa de la libertad positiva como concepto-ejercicio (Charles Taylor)",
+        "view": "Taylor (Whats Wrong with Negative Liberty, 1979) distingue la libertad negativa como concepto-oportunidad (ser libre es que haya puertas abiertas, las hagas o no) de la libertad positiva como concepto-ejercicio (ser libre es ejercer efectivamente el control sobre la propia vida). Argumenta que ningun relato puramente de oportunidad es defendible: hay obstaculos internos (miedos, deseos no autenticos, falsa conciencia) que nos hacen no libres, de modo que la autorrealizacion exige discriminar deseos de segundo orden. La sospecha de Berlin hacia el yo verdadero seria, para Taylor, un caso del bebe tirado con el agua sucia."
+      },
+      {
+        "school": "Disolucion triadica del binario (Gerald MacCallum)",
+        "view": "MacCallum (Negative and Positive Freedom, 1967) sostiene que no hay dos conceptos sino uno solo, con estructura triadica: x es libre de y para hacer o ser z. Toda afirmacion sobre la libertad especifica un agente, un conjunto de constricciones y un fin. Negativo y positivo no serian conceptos distintos sino enfasis distintos al rellenar las mismas tres variables. La dicotomia de Berlin quedaria asi disuelta: las disputas reales versan sobre que cuenta como agente, como constriccion y como accion posible, no sobre dos libertades rivales."
+      },
+      {
+        "school": "Critica marxista: libertad formal versus libertad real (G. A. Cohen, marxismo)",
+        "view": "Cohen (Freedom and Money; Capitalism, Freedom and the Proletariat) argumenta, en memoria de Berlin pero contra el, que la falta de dinero es una falta de libertad negativa, no solo de capacidad. Quien no puede pagar el pasaje es interferido por los agentes armados del Estado que protegen la propiedad ajena tan realmente como quien tiene prohibido viajar. La distribucion desigual de la riqueza es una distribucion desigual de la libertad de interferencia. La tradicion marxista lee asi la libertad negativa burguesa como libertad formal e ilusoria para los desposeidos, que carecen de los medios materiales para ejercerla."
+      },
+      {
+        "school": "Critica del pluralismo como relativismo y de su tension con el liberalismo",
+        "view": "Diversos criticos (entre ellos lecturas que objetan a John Gray, y autores como Robert Talisse) sostienen que el pluralismo de valores inconmensurables de Berlin se desliza hacia el relativismo o queda en tension con su propio compromiso liberal: si no hay patron racional para jerarquizar valores, el principio da carta blanca tanto a liberales como a antiliberales, y no se ve por que el pluralismo entranaria el liberalismo en lugar de cualquier otro regimen que tolere o suprima la diversidad. La ambiguedad berliniana sobre el origen y la naturaleza de los valores alimenta esta acusacion."
+      }
+    ],
+    "contrasts": "El eje del desacuerdo es si la libertad se agota en la no interferencia o exige algo mas, y de que tipo. Berlin y el liberalismo de Guerra Fria defienden la prioridad de la libertad negativa y desconfian de la positiva por su pendiente coactiva (forzar a ser libre). Taylor responde que sin un componente de ejercicio y autorrealizacion la libertad es vacia, reivindicando lo positivo. El republicanismo de Skinner y Pettit rechaza el dilema entero y propone un tercer concepto, la no dominacion, que captura lo que la no interferencia pierde (el esclavo de amo amable) sin caer en el autodominio metafisico que Berlin temia. MacCallum, por debajo de todos, niega que haya dos o tres conceptos: hay uno triadico y las diferencias son de relleno. La critica marxista (Cohen) ataca el flanco economico: la propia libertad negativa, tomada en serio, condena la pobreza como interferencia, de modo que la libertad formal liberal es ilusoria sin igualdad material. Por ultimo, el debate sobre el pluralismo enfrenta a sus defensores (Gray, Galston, Crowder) con quienes lo acusan de relativismo o de minar el universalismo liberal que Berlin queria conservar. Asi, mientras unos discuten el contenido de la libertad, otros discuten su fundamento valorativo: la negacion berliniana de una armonia final de los valores.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Positive and Negative Liberty (distincion, paradoja totalitaria, MacCallum, republicanismo)",
+        "url": "https://plato.stanford.edu/entries/liberty-positive-negative/"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Isaiah Berlin (pluralismo de valores, inconmensurabilidad, rechazo de la armonia final, relacion con el liberalismo)",
+        "url": "https://plato.stanford.edu/entries/berlin/"
+      },
+      {
+        "label": "Quentin Skinner, A Third Concept of Liberty (Isaiah Berlin Lecture, British Academy 2002): el tercer concepto neorromano",
+        "url": "https://www.thebritishacademy.ac.uk/documents/1972/pba117p237.pdf"
+      },
+      {
+        "label": "Notre Dame Philosophical Reviews: Republicanism and Political Theory (Pettit, no dominacion frente a la dicotomia de Berlin)",
+        "url": "https://ndpr.nd.edu/reviews/republicanism-and-political-theory/"
+      },
+      {
+        "label": "Wikipedia: Two Concepts of Liberty (tesis del ensayo, forzar a ser libre, criticos Taylor, Cohen, MacCallum)",
+        "url": "https://en.wikipedia.org/wiki/Two_Concepts_of_Liberty"
+      },
+      {
+        "label": "Jacobin: A Lack of Money Means a Lack of Freedom (la critica marxista de G. A. Cohen a la libertad negativa)",
+        "url": "https://jacobin.com/2023/11/negative-freedom-g-a-cohen-marxism-capitalism"
+      }
+    ]
+  },
+  "socratic": "Sos un interlocutor socratico sobre Dos conceptos de libertad de Isaiah Berlin. Tu metodo: hace UNA pregunta por vez y espera mi respuesta antes de seguir. Nunca me des tu opinion ni la respuesta correcta. Despues de cada respuesta mia, pedime las razones (por que sostenes eso?) y oponeme una objecion real de un autor nombrado, no una generica. Si me trabo, da una pista breve, no la solucion. Empeza con esta pregunta concreta: imagina a una persona pobre que tiene legalmente permitido volar en avion pero no puede pagar el pasaje. Es libre o no es libre de volar, en el sentido NEGATIVO de libertad (ausencia de interferencia) y no solo en el positivo (capacidad de autorrealizarse)? Segun como responda, llevame por estas tensiones, una a la vez: (1) si decis que es libre porque nadie le pone obstaculos, oponeme a G. A. Cohen, que sostiene que los agentes armados del Estado que protegen la propiedad ajena interfieren con ella tan realmente como una prohibicion, de modo que la falta de dinero ya es falta de libertad negativa; (2) si decis que no es libre porque le falta capacidad, preguntame entonces en que se distingue eso de la libertad positiva como concepto-ejercicio de Charles Taylor, y si no estoy borrando la distincion de Berlin; (3) presioname con Berlin: por que le preocupaba tanto que decir que alguien no es libre por sus obstaculos internos abra la puerta a que un tercero lo fuerce a ser libre en nombre de su yo verdadero?; (4) introduci a Quentin Skinner y Philip Pettit: y si el problema no fuera ni la interferencia ni el autodominio sino la dominacion, depender de la voluntad arbitraria de otro aunque nunca te interfiera, como el esclavo de un amo amable?; (5) cerra con MacCallum: no seran negativo y positivo el mismo concepto triadico (alguien libre de algo para hacer algo) y toda la disputa un malentendido? Y detras de todo, preguntame si creo, con Berlin, que estos valores en conflicto pueden algun dia armonizarse del todo, o si la eleccion tragica entre ellos es irreductible."
+}

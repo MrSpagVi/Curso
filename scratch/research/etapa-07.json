@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "La Apologia de Socrates plantea el conflicto fundacional de la teoria politica occidental: la tension entre la filosofia como examen libre e incondicionado de la vida y la ciudad como comunidad que necesita opiniones compartidas, dioses comunes y obediencia a sus leyes para sostenerse. El debate sigue vivo porque admite dos lecturas opuestas e igualmente verosimiles del mismo texto. En una, Socrates es el martir de la libertad de conciencia y de la libre indagacion, condenado injustamente por una democracia que no tolero al disidente. En la otra, Socrates es un critico antidemocratico cuya ensenanza erosionaba las instituciones atenienses, y su juicio fue una respuesta defensiva, comprensible aunque cuestionable, de un regimen que se sentia fragil tras la derrota en la guerra del Peloponeso y la dictadura de los Treinta. A esto se suma un enigma interno: por que Socrates desafia al jurado en la Apologia (declarando que obedecera al dios antes que a la ciudad y que no dejara de filosofar) pero luego, en el Criton, rechaza huir y acepta morir invocando su deber de obedecer a las Leyes. La incompatibilidad aparente entre ambos textos vuelve a abrirse cada vez que se discute la desobediencia civil, la objecion de conciencia y los limites de la autoridad legitima.",
+    "supporters": [
+      {
+        "school": "Lectura liberal e ilustrada (Socrates como martir de la libre indagacion)",
+        "view": "Esta tradicion, dominante desde la Ilustracion y popularizada en manuales como la Encyclopaedia Britannica y la Internet Encyclopedia of Philosophy, lee la Apologia como el acta fundacional de la libertad de pensamiento. Socrates encarna la conciencia individual que se niega a abandonar el examen filosofico aunque la ciudad se lo ordene: la vida no examinada no merece ser vivida (Apologia 38a). Su negativa a callar y su afirmacion de que obedecera al dios antes que a los hombres lo convierten en simbolo del derecho a disentir frente al poder, y su condena en el martir del dogmatismo civico y de la tirania de la mayoria."
+      },
+      {
+        "school": "Gregory Vlastos y la lectura analitica anglosajona",
+        "view": "Vlastos, en Socrates: Ironist and Moral Philosopher y en Socratic Studies, reconstruye al Socrates historico de los dialogos tempranos como filosofo moral y critico amistoso de la democracia, no como su enemigo. Distingue al Socrates de Platon del personaje posterior y sostiene que su metodo (el elenchos) y su ironia compleja apuntan a la mejora etica de los ciudadanos, no a derribar el regimen. Para esta escuela la condena fue un error tragico: la ciudad mato a quien la examinaba para hacerla mejor, confundiendo la critica filosofica con la subversion politica."
+      },
+      {
+        "school": "Hannah Arendt y la brecha entre filosofia y politica",
+        "view": "En Philosophy and Politics y en sus lecciones sobre Socrates, Arendt sostiene que el juicio y la condena abrieron una brecha decisiva entre la vida del filosofo y la vida del ciudadano, brecha que llevo a Platon a desesperar de la polis. Lee a Socrates como un pensador que respetaba la pluralidad humana e intentaba persuadir, no imponer verdades; su fracaso ante el jurado hizo dudar a Platon del valor de la persuasion (peithein). Arendt rescata al Socrates dialogante, partero de los pensamientos ajenos, frente al filosofo rey que su discipulo construyo despues."
+      },
+      {
+        "school": "Lectura straussiana (Leo Strauss y la escuela de Chicago)",
+        "view": "En sus cursos sobre la Apologia y el Criton, y en Persecution and the Art of Writing, Strauss interpreta el juicio como la dramatizacion del conflicto permanente entre filosofia y ciudad. La filosofia, que cuestiona las opiniones autoritativas sobre las que descansa toda comunidad, es por naturaleza sospechosa para la polis; de ahi la necesidad del filosofo de escribir y hablar con cautela (esoterismo) para protegerse de la persecucion. Para Strauss, Socrates es el heroe filosofico que afirma que la vida que cuestiona la vida justa es ella misma la vida justa, y la Apologia muestra como el filosofo justifica su modo de vida ante la ciudad que lo amenaza."
+      }
+    ],
+    "critics": [
+      {
+        "school": "I. F. Stone, The Trial of Socrates",
+        "view": "Stone, periodista y helenista aficionado, defiende a la democracia ateniense contra la version platonica. En su libro y en su ensayo de 1979 en el New York Times Magazine sostiene que el caso fue politico: Socrates difundia ideas antidemocraticas (el desprecio por el sorteo de cargos, la conviccion de que solo deben gobernar los pocos que saben, el elogio de Esparta) y formo a figuras como Critias, lider de los Treinta Tiranos. Stone condena la pena de muerte como una traicion a la libertad de palabra que Atenas honraba, pero insiste en que la democracia tenia motivos reales para temer a Socrates, motivos que Platon oculto deliberadamente en la Apologia."
+      },
+      {
+        "school": "Lectura politica de la fragilidad democratica (Britannica, Donald Kagan y la historiografia ateniense)",
+        "view": "Esta corriente historica situa el juicio en 399 a.C., apenas restaurada la democracia tras la derrota frente a Esparta y el terror de los Treinta. Subraya las asociaciones de Socrates con Alcibiades, Critias y Carmides, y recuerda que el orador Esquines afirmo que los atenienses lo condenaron por haber sido maestro de Critias. Aunque la acusacion formal era de impiedad, el contexto de ansiedad democratica explica por que un hombre tolerado durante decadas fue procesado: la ciudad percibia su influencia como una amenaza concreta a la estabilidad del regimen."
+      },
+      {
+        "school": "El argumento religioso (M. F. Burnyeat y la cuestion de la impiedad)",
+        "view": "Burnyeat, en The Impiety of Socrates, toma en serio el cargo legal de impiedad en lugar de reducirlo a un pretexto politico. Argumenta que el dios del que habla Socrates (su daimonion, su mision por orden del oraculo) era radicalmente distinto de los dioses civicos, y que en Grecia la identidad y estabilidad de la comunidad estaban ligadas a sus observancias y mitos religiosos. Si Socrates rechazaba la religion de la ciudad, atacaba a la ciudad misma; desde esta optica un jurado ateniense razonable podia considerarlo genuinamente culpable, no victima de un fanatismo arbitrario."
+      },
+      {
+        "school": "Criticos del Socrates desobediente (la paradoja Apologia-Criton)",
+        "view": "Numerosos comentaristas senalan la tension entre la Apologia, donde Socrates anuncia que desobedecera cualquier orden de dejar de filosofar, y el Criton, donde se niega a huir invocando el deber absoluto de obedecer a las Leyes. La Stanford Encyclopedia of Philosophy reconoce que las opiniones eruditas difieren sobre como reconciliar ambos textos. Algunos resuelven la paradoja con la doctrina persuadir-u-obedecer (persuade-or-obey): se puede intentar convencer a la ciudad de que una ley es injusta, pero si no se logra hay que acatarla. Para los criticos, sin embargo, la incoherencia revela que la imagen del Socrates martir de la libertad es una proyeccion moderna que el propio corpus platonico no sostiene."
+      }
+    ],
+    "contrasts": "El nudo del debate es que el mismo Socrates puede leerse como heroe o como amenaza segun donde se ponga el peso. Quien prioriza al individuo y la conciencia (la tradicion liberal, Vlastos, Arendt, en parte Strauss) ve en la Apologia la defensa de la libre indagacion frente al poder, y la condena como una injusticia que inaugura la sospecha de la ciudad hacia el pensamiento. Quien prioriza la comunidad politica y su derecho a sostenerse (Stone, la historiografia de la fragilidad democratica, Burnyeat) ve a un critico cuyas ideas y companias erosionaban el regimen, y un juicio comprensible aunque su desenlace fuera condenable. La paradoja entre la Apologia y el Criton es el banco de pruebas: si se la lee como coherencia (persuadir o obedecer, desobedecer solo cuando se ordena cometer injusticia), Socrates resulta un ciudadano leal que distingue critica de sedicion; si se la lee como contradiccion, el mito del martir se desarma. El lector tiene que decidir que pesa mas: el derecho del filosofo a examinar todo sin limite, o el derecho de la ciudad a defender las creencias compartidas sin las cuales no existe comunidad. La Apologia no cierra esa cuestion; la deja abierta como el problema politico permanente.",
+    "sources": [
+      {
+        "label": "Socrates (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/socrates/"
+      },
+      {
+        "label": "Plato's Shorter Ethical Works: Apology y Crito (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/plato-ethics-shorter/"
+      },
+      {
+        "label": "Socrates (Internet Encyclopedia of Philosophy)",
+        "url": "https://iep.utm.edu/socrates/"
+      },
+      {
+        "label": "Socrates: The Perceived Fragility of Athenian Democracy (Encyclopaedia Britannica)",
+        "url": "https://www.britannica.com/biography/Socrates/The-perceived-fragility-of-Athenian-democracy"
+      },
+      {
+        "label": "Review: Leo Strauss and the Problem of Political Philosophy (Notre Dame Philosophical Reviews)",
+        "url": "https://ndpr.nd.edu/reviews/leo-strauss-and-the-problem-of-political-philosophy/"
+      },
+      {
+        "label": "I. F. Stone, I.F. Stone Breaks the Socrates Story (New York Times Magazine, 1979)",
+        "url": "https://msuweb.montclair.edu/~furrg/essays/ifstoneonsocrates.html"
+      }
+    ]
+  },
+  "socratic": "Quiero que actues como un interlocutor socratico mayeutico sobre la Apologia de Socrates de Platon. Reglas estrictas: haceme una sola pregunta por turno y espera mi respuesta antes de continuar. No me des respuestas, resumenes ni explicaciones largas; tu trabajo es preguntar, no ensenar. Cada vez que yo afirme algo, pedime las razones (por que sostenes eso, en que parte del texto te apoyas). Cuando yo de una razon, oponeme una objecion real y nombrada de la tradicion (por ejemplo: la critica de I. F. Stone que defiende a la democracia ateniense y ve a Socrates como antidemocratico; la lectura liberal de Socrates como martir de la libre indagacion; la lectura straussiana del conflicto entre filosofia y ciudad; el argumento religioso de M. F. Burnyeat sobre la impiedad; la paradoja entre la Apologia y el Criton). Si me trabo o me quedo en silencio, no resuelvas por mi: dame una pista corta en forma de otra pregunta mas concreta. Manten un tono firme pero respetuoso, como Socrates con sus interlocutores. Empeza ahora con esta pregunta y nada mas: Si Socrates declara ante el jurado que obedecera al dios antes que a la ciudad y que jamas dejara de filosofar aunque se lo prohiban, por que en el Criton se niega a escapar y acepta morir invocando su deber de obedecer a las Leyes de Atenas? Son ambas posturas compatibles, y como lo sabes?"
+}

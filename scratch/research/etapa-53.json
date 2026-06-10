@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "Las venas abiertas de America Latina (1971) es menos un tratado academico que un ensayo-denuncia de prosa apasionada que cuenta cinco siglos de historia como un unico relato: el de un continente saqueado. La tesis central pertenece a la teoria de la dependencia (dependentismo), nacida en torno a la CEPAL de Raul Prebisch y radicalizada por Andre Gunder Frank, Theotonio dos Santos, Ruy Mauro Marini y, en version mas moderada y reformista, por Fernando Henrique Cardoso y Enzo Faletto. Su nucleo es una inversion de sentido: el subdesarrollo latinoamericano no es atraso ni una etapa previa al desarrollo, sino el producto historico del mismo proceso que enriquecio al centro; en la formula de Galeano, perdimos nosotros y ganaron otros, pero quienes ganaron lo hicieron porque nosotros perdimos. El libro recorre la cadena del despojo (el oro y la plata de Potosi, el azucar, el caucho, el cacao, el cafe, el cobre, el petroleo) y la prolonga hasta el imperialismo del siglo XX y las multinacionales, leyendo la pobreza presente como herencia de un sistema mundial centro-periferia. El debate de post-lectura tiene tres planos entrelazados. Uno teorico-empirico: si el dependentismo describe bien la causalidad del subdesarrollo o si su modelo monocausal (todo se explica por el saqueo externo) no resiste la evidencia, sobre todo tras el ascenso del Este asiatico y la propia industrializacion latinoamericana. Otro sobre el genero: si la fuerza literaria del libro, su pasion y su capacidad de denuncia compensan o socavan su rigor historico y economico. Y un tercero biografico-politico, detonado en 2014 cuando el propio Galeano dijo que ya no podria releer ese libro de prosa de izquierda tradicional, frase que la derecha celebro como retractacion y que la izquierda matizo como autocritica de estilo, no de contenido. El telon de fondo es su descomunal impacto popular y politico: prohibido por las dictaduras del Cono Sur, convertido en simbolo del antiimperialismo y catapultado a las listas de ventas en 2009 cuando Hugo Chavez se lo regalo a Barack Obama.",
+    "supporters": [
+      {
+        "school": "Dependentismo clasico, version radical (Andre Gunder Frank, El desarrollo del subdesarrollo, 1966)",
+        "view": "Frank provee el andamiaje teorico que Galeano narrativiza: el subdesarrollo no es ausencia de capitalismo sino su producto, generado por la insercion secular de America Latina en el desarrollo capitalista mundial. La relacion metropoli-satelite (centro-periferia) extrae excedente de la periferia hacia el centro y reproduce el atraso; de ahi su tesis de que la unica salida es romper con el capitalismo dependiente. Esta corriente abraza Las venas abiertas como divulgacion poderosa de su diagnostico estructural."
+      },
+      {
+        "school": "Dependentismo marxista de la superexplotacion (Ruy Mauro Marini y Theotonio dos Santos, CESO, Universidad de Chile)",
+        "view": "Marini (Dialectica de la dependencia, 1973) y Dos Santos aportan la idea de que la dependencia se sostiene en la superexplotacion del trabajo en la periferia, que compensa la transferencia de valor al centro. Esta vertiente comparte con Galeano la denuncia del imperialismo y de las multinacionales como agentes activos del despojo contemporaneo, no solo del pasado colonial, y aporta el rigor categorial que el ensayo deja implicito."
+      },
+      {
+        "school": "Antiimperialismo latinoamericano y la izquierda politica (de la Nueva Cancion al chavismo)",
+        "view": "Mas que una escuela academica, es una tradicion politico-cultural que convirtio al libro en biblia de la conciencia continental. Prohibido por las dictaduras de Chile, Argentina y Uruguay, leido como denuncia y memoria del despojo, alcanzo su cima simbolica cuando Hugo Chavez se lo regalo a Obama en la Cumbre de las Americas de 2009, lo que disparo sus ventas del puesto 54.295 al segundo en Amazon. Su valor aqui es performativo: dar voz a un sentimiento de agravio historico compartido."
+      },
+      {
+        "school": "Defensa del valor literario y de la memoria (Nuria Vilanova y la lectura del libro como ensayo literario)",
+        "view": "Frente a las objeciones empiricas, esta linea sostiene que el merito perdurable de Las venas abiertas es literario antes que analitico: como las obras de Jose Marti u Octavio Paz, trasciende las fronteras disciplinarias y captura el espiritu, la esperanza y la rabia de una epoca mediante metafora y simbolo. Releerlo con ojos frescos sigue valiendo la pena precisamente como documento de denuncia y como artefacto cultural, no como manual de economia."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica liberal-clasica (Carlos Alberto Montaner, Plinio Apuleyo Mendoza y Alvaro Vargas Llosa, Manual del perfecto idiota latinoamericano, 1996)",
+        "view": "Para esta corriente el libro es la biblia del idiota latinoamericano: un relato victimista que reduce siglos de historia a la formula somos pobres y es culpa de ellos, sirviendo para justificar la desconfianza del libre mercado, la lucha de clases, la idolatria del Estado y el proteccionismo. Cuando Galeano se autocritico en 2014, Montaner titulo Galeano se corrige y los idiotas se quedan sin Biblia; Galeano respondio que esos criticos estaban gravemente enfermos de mala fe."
+      },
+      {
+        "school": "Critica del determinismo monocausal y descuido de los factores internos (Carlos Rangel, Del buen salvaje al buen revolucionario, 1976)",
+        "view": "Rangel, contemporaneo y antitesis de Galeano, desmitifica el relato del saqueo externo y senala que explica todo por causas externas oculta los factores internos del subdesarrollo: instituciones debiles, corrupcion, resistencia de las clases dirigentes a la reforma democratica, errores de politica economica. La objecion de simplismo monocausal acusa al libro de tratar a America Latina como puro objeto pasivo de fuerzas foraneas, sin agencia ni responsabilidad propia."
+      },
+      {
+        "school": "Critica empirica desde la economia del desarrollo (el contraejemplo del Este asiatico)",
+        "view": "Economistas del desarrollo objetan que las predicciones dependentistas fallaron: paises tambien marcados por el colonialismo y la insercion periferica (Corea del Sur, Taiwan, luego China e India) lograron industrializarse y ascender en la jerarquia mundial, algo que el modelo centro-periferia consideraba imposible sin ruptura con el capitalismo. La teoria, se argumenta, fue incapaz de explicar el paso de la periferia al centro y se desgasto con las crisis de los anos ochenta."
+      },
+      {
+        "school": "Autocritica del propio Galeano y la izquierda revisionista (Feria del Libro de Brasilia, 2014)",
+        "view": "El golpe mas comentado vino del autor: en 2014 Galeano dijo que no seria capaz de releer ese libro, que la prosa de la izquierda tradicional le resultaba demasiado plumbea y que cuando lo escribio no sabia suficiente economia ni politica para una obra de ese alcance. Aclaro despues que criticaba el estilo, no el contenido (el libro sigue vivito y coleando), pero la frase abrio la pregunta interna sobre los limites del paradigma dependentista que el mismo habia popularizado."
+      },
+      {
+        "school": "Critica desde el dependentismo reformista (Fernando Henrique Cardoso y Enzo Faletto, Dependencia y desarrollo en America Latina, 1969)",
+        "view": "Desde dentro de la propia teoria de la dependencia, Cardoso y Faletto rechazan el fatalismo del estancamiento absoluto: la organizacion de los mercados internos y los arreglos politicos nacionales pueden modificar el grado de dependencia, de modo que es posible un desarrollo asociado dependiente. Cardoso rechazo ademas la categoria de superexplotacion de Marini como aberracion historica, no como rasgo estructural. Esta version reformista expone que el relato cerrado del saqueo de Galeano es solo una de las dependencias posibles."
+      }
+    ],
+    "contrasts": "El choque de fondo no es solo si el imperialismo existio (casi nadie niega el despojo del oro, la plata o el caucho) sino que peso causal tiene hoy. Para Frank, Marini y la izquierda antiimperialista, el saqueo es la variable estructural que explica el subdesarrollo, y el libro es divulgacion legitima de esa verdad; para los criticos liberales (Montaner, Rangel, Vargas Llosa) ese monocausalismo es coartada victimista que exime de mirar las propias instituciones, y la fuerza literaria del libro es justamente lo que lo hace peligroso como economia. En el medio se ubican dos posiciones incomodas para ambos bandos. La primera es el dependentismo reformista de Cardoso, que desde la izquierda admite que la dependencia no condena al estancamiento, debilitando el fatalismo de Galeano sin abrazar el liberalismo. La segunda es la defensa literaria de Vilanova, que concede las vulnerabilidades empiricas pero salva el libro como ensayo, memoria y grito de epoca, no como manual. La autocritica de 2014 funciona como prisma de todo el debate: la derecha la leyo como retractacion del contenido, la izquierda como autocritica del estilo, y la propia ambiguedad de la frase revela la tension de un libro que vale a la vez como pasion movilizadora y como argumento discutible. El contraejemplo asiatico opera como prueba empirica que tensiona a todos: obliga a los defensores a explicar por que algunas periferias ascendieron y a los criticos a no negar que esos casos fueron excepciones con condiciones historicas singulares.",
+    "sources": [
+      {
+        "label": "Open Veins of Latin America (Wikipedia): tesis del saqueo, dependentismo, regalo de Chavez a Obama, declaracion de Galeano en 2014, reaccion de Montaner",
+        "url": "https://en.wikipedia.org/wiki/Open_Veins_of_Latin_America"
+      },
+      {
+        "label": "Nuria Vilanova, The Open Veins of Latin America: Disowned? (AULA Blog, American University): analisis de la autocritica de 2014, estilo vs contenido, defensa del valor literario y los factores internos descuidados",
+        "url": "https://aulablog.net/2014/12/02/the-open-veins-of-latin-america-disowned/"
+      },
+      {
+        "label": "Encyclopaedia Britannica: Dependency theory (Prebisch, centro-periferia, Cardoso moderado vs Frank radical, mecanismo del subdesarrollo)",
+        "url": "https://www.britannica.com/topic/dependency-theory"
+      },
+      {
+        "label": "Independent Institute: Galeano vs. Rangel, A Conflict of Visions in Latin America (critica liberal-clasica, contraste con Carlos Rangel, lectura de la autocritica como vindicacion)",
+        "url": "https://www.independent.org/article/2015/05/04/galeano-vs-rangel-a-conflict-of-visions-in-latin-america/"
+      },
+      {
+        "label": "Latin American Research Review (Cambridge): Dependency Theory and Its Revival in the Twenty-First Century (auge, declive, criticas empiricas, contraejemplo asiatico, disputa Marini-Cardoso sobre superexplotacion)",
+        "url": "https://www.cambridge.org/core/journals/latin-american-research-review/article/dependency-theory-and-its-revival-in-the-twentyfirst-century/33333A2BF1108CF2276DE2415DD38C87"
+      },
+      {
+        "label": "Global South Studies (University of Virginia): Latin American Dependency Theory (Prebisch, Frank, Cardoso y Faletto, terminos de intercambio, criticas a la incapacidad de explicar el paso de periferia a centro)",
+        "url": "https://www.globalsouthstudies.org/keyword-essay/latin-american-dependency-theory/"
+      }
+    ]
+  },
+  "socratic": "Sos un tutor socratico de teoria politica y economia del desarrollo, y vamos a pensar juntos Las venas abiertas de America Latina de Galeano, sobre todo la tesis del saqueo y la teoria de la dependencia. Reglas: preguntame de a una pregunta por vez, nunca me des la respuesta, exigime siempre que justifique con razones, datos o el texto, y cuando yo afirme algo oponeme una objecion real de un autor nombrado (Andre Gunder Frank, Ruy Mauro Marini, Cardoso y Faletto, Carlos Rangel, Carlos Alberto Montaner, Alvaro Vargas Llosa, Nuria Vilanova). Si me trabo, dame una pista, no la solucion. Arranca con esta pregunta concreta: cuando Galeano dice que perdimos nosotros y ganaron otros porque nosotros perdimos, esta afirmando que el saqueo colonial e imperial es la causa principal del subdesarrollo actual de America Latina, o solo una causa entre varias? Que diferencia practica hay entre las dos lecturas? Despues de mi respuesta, segui indagando: pediime que distinga entre describir el despojo historico (oro, plata, caucho) y demostrar que ese despojo explica la pobreza de hoy; oponeme el contraejemplo del Este asiatico (Corea, Taiwan, China, India tambien fueron periferia colonial y se industrializaron) y preguntame como lo encaja la teoria de la dependencia. Mas adelante llevame al problema del monocausalismo (la objecion de Rangel de que explicar todo por causas externas oculta las instituciones, la corrupcion y los errores propios) y preguntame que peso le doy a los factores internos. Despues tensiona el genero del libro: si concedo que tiene fallas empiricas, sigue valiendo como denuncia y memoria (la defensa de Vilanova) o eso es excusarlo? Y traeme la autocritica del propio Galeano en 2014 (que no podria releerlo por su prosa de izquierda tradicional): preguntame si eso fue retractarse del contenido o solo del estilo, y oponeme las dos lecturas, la de Montaner (se quedaron sin Biblia) y la del propio Galeano (sigue vivito y coleando). Cerra siempre devolviendome la pregunta de si mi posicion distingue de verdad entre el saqueo como hecho historico innegable y el saqueo como explicacion suficiente del presente."
+}

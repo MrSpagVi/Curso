@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "El concepto de ciudadania es uno de los mas disputados de la teoria politica contemporanea porque condensa tres preguntas distintas que no siempre coinciden: que estatus juridico define al ciudadano, que actividad o virtud se le exige y a que comunidad pertenece. La discusion moderna suele organizarse en torno a tres concepciones rivales. La liberal entiende la ciudadania como un estatus de derechos (civiles, politicos y, tras T.H. Marshall, sociales) que protege al individuo frente al Estado y frente a los demas. La republicana o civica la entiende como participacion activa en el autogobierno y como ejercicio de virtud civica, recuperando a Aristoteles, Maquiavelo y Rousseau. La comunitarista la entiende como pertenencia e identidad: ser ciudadano es formar parte de una comunidad de significados compartidos que constituye al sujeto antes de cualquier eleccion. Sobre estas tres bases se montan los grandes debates del ultimo medio siglo: la crisis de la ciudadania social, la pugna entre el universalismo liberal y la ciudadania diferenciada o multicultural, la disputa entre el cosmopolitismo posnacional y la defensa de la ciudadania nacional, y la critica feminista que denuncia que el ciudadano abstracto fue siempre, en realidad, un varon.",
+    "supporters": [
+      {
+        "school": "Liberalismo de derechos y ciudadania social (T.H. Marshall, tradicion rawlsiana)",
+        "view": "La ciudadania es ante todo un estatus igual de derechos garantizados que confiere libertad y proteccion al individuo. Marshall, en Citizenship and Social Class (1950), describio una expansion historica de los derechos civiles (siglo XVIII), politicos (XIX) y sociales (XX), y sostuvo que los derechos sociales -educacion, salud, seguridad- son condicion para que la igualdad civil y politica no sea meramente formal. La ciudadania plena exige integrar a las clases trabajadoras mediante el Estado de bienestar; sin un piso material, la igualdad ante la ley es una ficcion."
+      },
+      {
+        "school": "Republicanismo civico (Pettit, Pocock, Sandel republicano)",
+        "view": "La ciudadania no es un estatus pasivo sino una practica: ser ciudadano es compartir el gobierno, deliberar y ejercer virtud civica. Pocock recupera la tradicion del humanismo civico florentino y Pettit reformula el republicanismo como libertad entendida como no-dominacion, que solo se sostiene con instituciones participativas y ciudadanos vigilantes. Frente al individuo liberal que delega y se retira a lo privado, esta escuela advierte que una republica donde nadie participa queda a merced de los poderosos."
+      },
+      {
+        "school": "Multiculturalismo liberal y politica del reconocimiento (Will Kymlicka, Charles Taylor)",
+        "view": "El universalismo de derechos identicos es insuficiente porque ignora que la pertenencia cultural es un contexto de eleccion necesario para la autonomia. Kymlicka, en Multicultural Citizenship (1995), defiende una ciudadania diferenciada con derechos de grupo (autogobierno, derechos polietnicos, representacion especial) que son compatibles con el liberalismo cuando funcionan como protecciones externas y no como restricciones internas. Taylor agrega que la identidad se forma dialogicamente y que el falso reconocimiento daña a las personas: la igualdad real puede exigir un trato diferenciado."
+      },
+      {
+        "school": "Cosmopolitismo y ciudadania posnacional (Habermas, Soysal, patriotismo constitucional)",
+        "view": "En la era de la migracion, la integracion europea y los derechos humanos, la ciudadania ya no puede anclarse exclusivamente en el Estado-nacion. Habermas propone un patriotismo constitucional: la lealtad se debe a principios democraticos y constitucionales universalizables, no a una identidad etnica o cultural cerrada, de modo que la comunidad politica queda abierta a todos. Soysal documenta una membresia posnacional en la que residentes no ciudadanos acceden a derechos por su condicion de persona y no por su nacionalidad, desacoplando derechos e identidad nacional."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica igualitaria al multiculturalismo (Brian Barry, Culture and Equality)",
+        "view": "Conceder derechos de grupo fragmenta la ciudadania igual y traiciona el ideal liberal de trato uniforme. Barry sostiene que los individuos deben asumir las consecuencias de sus compromisos culturales igual que cualquier otro y que las exenciones por cultura crean privilegios arbitrarios. El multiculturalismo, lejos de profundizar la igualdad, balcaniza la sociedad, debilita la solidaridad necesaria para el Estado de bienestar y sustituye la justicia distributiva universal por una politica de la identidad."
+      },
+      {
+        "school": "Critica feminista al multiculturalismo (Susan Moller Okin, Is Multiculturalism Bad for Women?)",
+        "view": "Los derechos de grupo pueden blindar practicas patriarcales y sacrificar a las mujeres en nombre de la preservacion de la cultura. Okin advierte que muchas culturas minoritarias controlan la vida privada -matrimonio, sexualidad, division del trabajo- precisamente alli donde las mujeres son mas vulnerables, de modo que reconocer derechos colectivos a esos grupos puede agravar la subordinacion de sus miembros mas debiles. La ciudadania diferenciada entra en tension directa con la igualdad de genero."
+      },
+      {
+        "school": "Comunitarismo nacional y defensa de la ciudadania nacional (David Miller, On Nationality)",
+        "view": "El cosmopolitismo posnacional es ilusorio porque no existe un demos mundial capaz de sostener obligaciones de justicia ni una identidad compartida que motive la solidaridad. Miller argumenta que la nacionalidad genera deberes especiales entre conciudadanos -analogos a los de la amistad o la familia- y que el Estado de bienestar redistributivo presupone una identidad nacional compartida. Una ciudadania puramente procedimental o cosmopolita erosiona el lazo de confianza que hace posible la democracia y la redistribucion."
+      },
+      {
+        "school": "Critica feminista de la ciudadania generizada (Carole Pateman, Ruth Lister)",
+        "view": "El ciudadano universal y abstracto de la tradicion liberal y republicana es, en realidad, un varon. Pateman muestra que el contrato social descansa en un contrato sexual previo que excluye a las mujeres de la condicion de sujetos plenos y relega lo femenino a lo privado, definido en oposicion a lo politico. Lister denuncia que el ciudadano-trabajador modelo es masculino y que el cuidado y el trabajo reproductivo quedan invisibilizados; propone una ciudadania que reconozca la diferencia sin renunciar a la igualdad."
+      }
+    ],
+    "contrasts": "El debate no enfrenta a defensores y detractores de un autor, sino a posiciones contrapuestas sobre que debe ser la ciudadania. Por un lado, el eje universalismo frente a diferencia: el liberalismo de derechos identicos (y su version igualitaria en Barry) sostiene que la igualdad exige tratar a todos por igual, mientras el multiculturalismo de Kymlicka y Taylor responde que la igualdad real a veces requiere derechos diferenciados; Okin tensiona ese eje desde dentro, mostrando que la diferencia cultural puede chocar con la diferencia de genero. Por otro lado, el eje nacion frente a cosmopolis: Habermas y Soysal apuestan a desanclar la ciudadania del Estado-nacion, mientras Miller replica que sin identidad nacional compartida no hay solidaridad ni redistribucion posibles. Atraviesa todo el debate la critica feminista de Pateman y Lister, que no toma partido por ninguna de las concepciones clasicas sino que las acusa a todas de haber construido un ciudadano implicitamente masculino. No hay sintesis cerrada: cada posicion ilumina un valor real -la igualdad de estatus, la participacion, la pertenencia, la inclusion de las minorias, la apertura cosmopolita, la igualdad de genero- y la pregunta del ensayo es como ponderarlos cuando entran en conflicto.",
+    "sources": [
+      {
+        "label": "Citizenship - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/citizenship/"
+      },
+      {
+        "label": "Multiculturalism - Stanford Encyclopedia of Philosophy (Kymlicka, Taylor, Barry, Okin)",
+        "url": "https://plato.stanford.edu/entries/multiculturalism/"
+      },
+      {
+        "label": "Cosmopolitanism - Stanford Encyclopedia of Philosophy (incluye la critica de David Miller)",
+        "url": "https://plato.stanford.edu/entries/cosmopolitanism/"
+      },
+      {
+        "label": "Communitarianism - Stanford Encyclopedia of Philosophy (Sandel, Taylor, Walzer)",
+        "url": "https://plato.stanford.edu/entries/communitarianism/"
+      },
+      {
+        "label": "Citizenship - Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/topic/citizenship"
+      },
+      {
+        "label": "Carole Pateman - Encyclopaedia Britannica (contrato sexual y critica feminista de la ciudadania)",
+        "url": "https://www.britannica.com/biography/Carole-Pateman"
+      }
+    ]
+  },
+  "socratic": "Quiero que me ayudes a pensar un ensayo sobre la ciudadania actuando como un interlocutor socratico. Regla del juego: haceme una sola pregunta por turno y espera mi respuesta antes de seguir. Nunca me des tu respuesta ni redactes el ensayo por mi; tu trabajo es que yo piense. Cada vez que afirme algo, pedime las razones y un ejemplo concreto. Cuando defienda una posicion, oponeme una objecion real y nombrala con su autor (por ejemplo: el liberalismo de derechos identicos y la critica igualitaria de Brian Barry en Culture and Equality contra la ciudadania diferenciada; los derechos de grupo de Will Kymlicka contra el universalismo liberal; la critica feminista de Susan Okin en Is Multiculturalism Bad for Women a esos mismos derechos de grupo; el patriotismo constitucional de Habermas y la membresia posnacional de Soysal contra la defensa de la ciudadania nacional de David Miller en On Nationality; la critica feminista de Carole Pateman y Ruth Lister al ciudadano abstracto que en realidad es varon; el republicanismo civico de Pettit y Pocock contra el ciudadano liberal pasivo). Si me trabo, no me resuelvas: dame una pista en forma de otra pregunta o senalame una distincion util. Mantene un tono exigente pero amable. Empeza con esta pregunta y nada mas: cuando decis que alguien es ciudadano, que estas afirmando exactamente sobre esa persona: que tiene ciertos derechos, que participa en el gobierno o que pertenece a una comunidad? Elegi una y defendela."
+}

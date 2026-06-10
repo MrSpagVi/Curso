@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mockup: Fichero Luhmann Interactivo (Zettelkasten Sandbox)</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&family=Special+Elite&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --wood-dark: #1e130c;
+            --wood-light: #9a7b56;
+            --card-cream: #fbf7ee;
+            --text-card: #2c251e;
+            --accent: #d97706;
+            --bg-dark: #0b0f19;
+            --text-main: #f3f4f6;
+            --border: rgba(255, 255, 255, 0.05);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Lexend', sans-serif;
+            padding: 2rem;
+        }
+
+        .sandbox-container {
+            width: 100%;
+            max-width: 850px;
+        }
+
+        header {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, #f59e0b, #d97706);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        header p {
+            color: #9ca3af;
+            font-size: 0.9rem;
+        }
+
+        /* 3D Vintage Wooden Cabinet styling */
+        .wood-cabinet {
+            background: linear-gradient(135deg, #2a1b12 0%, #150d08 100%);
+            border: 3px solid #3d271a;
+            border-radius: 20px;
+            padding: 3rem 2.5rem;
+            box-shadow: 
+                inset 0 4px 30px rgba(0,0,0,0.8),
+                0 15px 30px rgba(0,0,0,0.6),
+                0 30px 60px rgba(0,0,0,0.4);
+            position: relative;
+            overflow: hidden;
+        }
+        .wood-cabinet::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at center, rgba(251, 191, 36, 0.04) 0%, transparent 80%);
+            pointer-events: none;
+        }
+
+        /* Index divider tabs (protruding cardboard dividers) */
+        .index-tabs {
+            display: flex;
+            gap: 0.25rem;
+            border-bottom: 4px solid #150d08;
+            padding-bottom: 0px;
+            margin-bottom: 2.5rem;
+            overflow-x: auto;
+        }
+        .index-tab {
+            background: #ab8e70;
+            border: 1px solid #8e7355;
+            border-bottom: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px 30px 0 0;
+            color: #382512;
+            font-family: 'Lexend', sans-serif;
+            font-weight: 700;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            position: relative;
+            z-index: 2;
+            margin-bottom: -1px;
+            box-shadow: inset 0 -4px 8px rgba(0,0,0,0.1);
+            border-top: 3px solid #6b4d2f;
+        }
+        .index-tab:hover {
+            background: #bc9f81;
+            transform: translateY(-4px);
+        }
+        .index-tab.active {
+            background: var(--card-cream);
+            color: var(--text-card);
+            border-color: #d1c1a9;
+            border-bottom: 1.5px solid var(--card-cream);
+            transform: translateY(-5px);
+            z-index: 3;
+            box-shadow: 0 -4px 15px rgba(0,0,0,0.3);
+            border-top: 4px solid #d97706; /* Golden indicator strip */
+        }
+
+        /* Stack Display Desk area */
+        .desk-surface {
+            min-height: 380px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            perspective: 1200px;
+            padding: 1.5rem 0;
+        }
+
+        /* Typewriter styled Zettel Card */
+        .luhmann-card {
+            width: 100%;
+            max-width: 520px;
+            background-color: var(--card-cream);
+            color: var(--text-card);
+            border-radius: 8px;
+            border: 1px solid #e7d8c4;
+            box-shadow: 
+                0 15px 40px rgba(0, 0, 0, 0.4),
+                0 5px 15px rgba(0, 0, 0, 0.2);
+            padding: 2.5rem 2rem 2.5rem 3rem;
+            font-family: 'Special Elite', monospace;
+            font-size: 1rem;
+            line-height: 1.6rem;
+            transform-style: preserve-3d;
+            background-image: 
+                linear-gradient(rgba(239, 68, 68, 0.25) 1px, transparent 1px),
+                linear-gradient(rgba(0, 150, 255, 0.05) 1px, transparent 1px);
+            background-size: 100% 100%, 100% 1.6rem;
+            background-position: 2.2rem 0, 0 1.5rem;
+            background-repeat: no-repeat, repeat;
+            transform: translateY(30px) rotateX(15deg);
+            opacity: 0;
+            transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1), opacity 0.6s ease;
+            position: relative;
+        }
+        .luhmann-card.reveal {
+            transform: translateY(0) rotateX(0deg);
+            opacity: 1;
+        }
+
+        /* Physical Rod Hole at the bottom */
+        .luhmann-card::after {
+            content: '';
+            position: absolute;
+            bottom: 14px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 16px;
+            height: 16px;
+            background: #150d08; /* Dark drawer interior */
+            border-radius: 50%;
+            box-shadow: 
+                inset 0 3px 5px rgba(0,0,0,0.8),
+                0 1px 1px rgba(255,255,255,0.7);
+        }
+
+        /* Stamp details */
+        .card-index-badge {
+            position: absolute;
+            top: 1.5rem;
+            right: 1.5rem;
+            border: 2px dashed rgba(217, 119, 6, 0.4);
+            border-radius: 6px;
+            padding: 0.2rem 0.6rem;
+            font-family: 'Special Elite', monospace;
+            font-weight: bold;
+            font-size: 0.85rem;
+            color: #d97706;
+            transform: rotate(5deg);
+        }
+
+        .card-body p {
+            margin-bottom: 1.25rem;
+            text-indent: 1.5rem;
+        }
+
+        /* Interactive Cross references */
+        .zettel-link {
+            color: #2563eb;
+            text-decoration: underline;
+            cursor: pointer;
+            font-weight: bold;
+            display: inline-block;
+            transition: all 0.2s ease;
+        }
+        .zettel-link:hover {
+            color: #1d4ed8;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="sandbox-container">
+        <header>
+            <h1>Fichero Luhmann (Zettelkasten Sandbox)</h1>
+            <p>Visualizador tridimensional interactivo de notas permanentes e interconexión sociológica</p>
+        </header>
+
+        <div class="wood-cabinet">
+            <!-- Dividers -->
+            <div class="index-tabs">
+                <button class="index-tab active" onclick="showCard(0)">Ficha 12a</button>
+                <button class="index-tab" onclick="showCard(1)">Ficha 12b</button>
+                <button class="index-tab" onclick="showCard(2)">Ficha 7c</button>
+                <button class="index-tab" onclick="showCard(3)">Ficha 15a</button>
+            </div>
+
+            <!-- Card Stack Display Desk -->
+            <div class="desk-surface">
+                <div class="luhmann-card reveal" id="zettel-card">
+                    <!-- Rendered dynamically -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const MOCK_CARDS = [
+            {
+                index: "12a",
+                content: `<p>El "velo de ignorancia" de Rawls presupone un sujeto político abstracto, desprovisto de contingencias históricas y corporales.</p>
+                          <p>Esto permite fundar un marco ideal de justicia equitativa, pero deja fuera las condiciones estructurales de desigualdad real.</p>
+                          <p>Conexión directa: Ver la crítica feminista e interseccional en <span class="zettel-link" onclick="showCard(1)">Ficha 12b (Crenshaw)</span>.</p>`
+            },
+            {
+                index: "12b",
+                content: `<p>Crenshaw y la interseccionalidad demuestran que el sujeto de Rawls no es universal, sino que silencia la experiencia de opresiones cruzadas.</p>
+                          <p>La justicia no puede diseñarse "a ciegas", sino partiendo del reconocimiento del lugar social y de las asimetrías de poder.</p>
+                          <p>Conexión de origen: Retornar a la fundamentación del velo en <span class="zettel-link" onclick="showCard(0)">Ficha 12a (Rawls)</span>.</p>`
+            },
+            {
+                index: "7c",
+                content: `<p>Quijano teoriza la colonialidad del poder, argumentando que el fin del colonialismo formal no acabó con la jerarquía racial del trabajo.</p>
+                          <p>La eurocentración de la cultura y la ciencia sigue operando como filtro civilizatorio de todo conocimiento legítimo.</p>
+                          <p>Conexión epistémica: Ver libertad de pensamiento en <span class="zettel-link" onclick="showCard(3)">Ficha 15a (Libertad)</span>.</p>`
+            },
+            {
+                index: "15a",
+                content: `<p>La libertad académica y de expresión no es la simple ausencia de censura jurídica, sino la capacidad material de cuestionar paradigmas hegemónicos.</p>
+                          <p>En el plano epistémico, no hay libertad real sin descolonización de las estructuras de investigación.</p>
+                          <p>Conexión de base colonial: Ver justificación de la jerarquía eurocéntrica en <span class="zettel-link" onclick="showCard(2)">Ficha 7c (Quijano)</span>.</p>`
+            }
+        ];
+
+        const cardEl = document.getElementById('zettel-card');
+
+        function showCard(idx) {
+            // Update active tabs
+            const tabs = document.querySelectorAll('.index-tab');
+            tabs.forEach((tab, i) => {
+                if (i === idx) tab.classList.add('active');
+                else tab.classList.remove('active');
+            });
+
+            // Card pull and flip animation
+            cardEl.classList.remove('reveal');
+            
+            setTimeout(() => {
+                const card = MOCK_CARDS[idx];
+                cardEl.innerHTML = `
+                    <div class="card-index-badge">${card.index}</div>
+                    <div class="card-body">
+                        ${card.content}
+                    </div>
+                `;
+                cardEl.classList.add('reveal');
+                setup3DTilt();
+            }, 300);
+        }
+
+        // Setup dynamic 3D hover tilt effect
+        function setup3DTilt() {
+            cardEl.onmousemove = function(e) {
+                const rect = cardEl.getBoundingClientRect();
+                const x = e.clientX - rect.left - (rect.width/2);
+                const y = e.clientY - rect.top - (rect.height/2);
+                
+                const rotateX = -y / 15;
+                const rotateY = x / 15;
+                
+                cardEl.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-8px)`;
+                cardEl.style.boxShadow = `${-rotateY * 2}px ${rotateX * 2 + 25}px 45px rgba(0,0,0,0.5)`;
+            };
+            
+            cardEl.onmouseleave = function() {
+                cardEl.style.transform = 'rotateX(0deg) rotateY(0deg) translateY(0)';
+                cardEl.style.boxShadow = '0 15px 40px rgba(0, 0, 0, 0.4), 0 5px 15px rgba(0, 0, 0, 0.2)';
+            };
+        }
+
+        // Initialize first card
+        showCard(0);
+    </script>
+</body>
+</html>

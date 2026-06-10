@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "Una falacia es, en la definicion clasica heredada de Aristoteles y consolidada en los manuales, un argumento que parece valido o solido pero no lo es: un razonamiento defectuoso con apariencia de correccion. La tradicion del pensamiento critico lo convirtio en herramienta de combate intelectual y civico: aprender una lista de patrones malos con nombre (muchos en latin: ad hominem, ad verecundiam, ad populum, post hoc, peticion de principio) para detectarlos y desarmarlos. Pero ese mismo 'enfoque de las falacias' abrio un debate de fondo dentro de la logica informal y la teoria de la argumentacion que un crash course no suele mostrar: que es exactamente una falacia, si la definicion estandar funciona, y sobre todo si etiquetar argumentos con nombres latinos es realmente util o esta teoricamente mal fundado. El hito que reabrio la discusion fue 'Fallacies' (1970) de C. L. Hamblin, que acuso al 'tratamiento estandar' de los manuales de ser degradado, gastado y dogmatico, desconectado de la logica moderna. Desde entonces el campo se divide entre quienes reconstruyen y rehabilitan el estudio de las falacias sobre bases nuevas y quienes sospechan que la categoria misma es demasiado rara, demasiado mal definida o demasiado propensa al abuso como para sostener el peso pedagogico que se le pone encima.",
+    "supporters": [
+      {
+        "school": "Pensamiento critico y logica informal (tradicion pedagogica)",
+        "view": "La corriente dominante en la ensenanza universitaria de razonamiento sostiene que el catalogo de falacias es una herramienta civica y cognitiva valiosa: dar nombre a los patrones de mal argumento (ad hominem, hombre de paja, pendiente resbaladiza, falsa causa) le da al ciudadano y al estudiante un vocabulario compartido para identificar, nombrar y resistir manipulacion retorica en la prensa, la publicidad y el debate publico. La utilidad no es taxonomica sino practica: tener la etiqueta a mano acelera la deteccion y vuelve discutible lo que antes pasaba inadvertido."
+      },
+      {
+        "school": "Sistematizacion moderna post-Hamblin (C. L. Hamblin)",
+        "view": "Hamblin, en 'Fallacies' (1970), no destruye el campo: lo refunda. Critica el 'tratamiento estandar' de los manuales por dogmatico y desconectado de la logica, y rechaza el supuesto de que toda falacia deba 'parecer valida'. Su aporte decisivo es proponer que las falacias se entiendan mejor en un marco dialectico -dentro de las reglas de un dialogo o juego de argumentacion- y no como meros errores de forma logica. Ese giro reavivo el estudio serio de las falacias y fundo la teoria contemporanea de la argumentacion."
+      },
+      {
+        "school": "Pragma-dialectica (Frans van Eemeren y Rob Grootendorst)",
+        "view": "La escuela de Amsterdam redefine la falacia como la violacion de una de las diez reglas de la 'discusion critica', el modelo ideal de un intercambio orientado a resolver razonablemente una diferencia de opinion. Una falacia ya no es un argumento invalido aislado, sino un movimiento que descarrila el procedimiento de resolucion: por ejemplo, atacar a la persona en vez del punto, o desplazar indebidamente la carga de la prueba. Esto da un criterio funcional y unificado -por que ese movimiento obstruye la resolucion- en lugar de una lista suelta de etiquetas latinas."
+      },
+      {
+        "school": "Teoria pragmatica y esquemas de argumentacion (Douglas Walton)",
+        "view": "Walton rehabilita buena parte de las 'falacias' tradicionales mostrando que muchas son, en contexto, argumentos razonables aunque derrotables (defeasible). La apelacion a la autoridad, a la emocion o el ad hominem no son falaces por definicion: corresponden a esquemas de argumentacion legitimos que vienen con 'preguntas criticas'. Solo se vuelven falaces cuando se usan mal -saltando esos requisitos o trasladandolos al tipo de dialogo equivocado-. La evaluacion, entonces, debe ser caso por caso y sensible al contexto, no un veredicto automatico por la etiqueta."
+      }
+    ],
+    "critics": [
+      {
+        "school": "La 'fallacy fork' (Maarten Boudry, Fabio Paglieri, Massimo Pigliucci)",
+        "view": "En 'The Fake, the Flimsy, and the Fallacious' (Argumentation, 2015) plantean un dilema destructivo: o se define la falacia como una forma de razonamiento estrictamente invalida -y entonces casi nunca aparece en la vida real, porque nadie argumenta de modo tan crudamente deductivo- o se afloja la definicion para captar los argumentos reales con su contexto -y entonces deja de tener filo, porque esos argumentos ya no son claramente falaces-. En cualquiera de las dos puntas del 'tenedor', el enfoque de etiquetar falacias pierde su valor diagnostico."
+      },
+      {
+        "school": "Escepticismo sobre la categoria: las falacias son raras (Maurice Finocchiaro)",
+        "view": "Finocchiaro prolonga la critica de Hamblin observando que los manuales casi no contienen ejemplos de falacias reales: los inventan o los caricaturizan. De ahi duda de que 'falacia' sea una categoria logica genuina. Admite que en la vida real abundan los errores de razonamiento, pero sostiene que los 'tipos de argumentos logicamente incorrectos' -las falacias con nombre- probablemente no son comunes. Prefiere hablar de 'argumentos falaces' particulares antes que de una taxonomia de falacias."
+      },
+      {
+        "school": "Critica a la definicion estandar (Hans V. Hansen)",
+        "view": "En 'The Straw Thing of Fallacy Theory' (Argumentation, 2002) Hansen examina la definicion estandar -falacia como argumento que parece valido y no lo es- y revisa los manuales de logica desde Aristoteles, Whately, Mill y De Morgan hasta el siglo XX. Su conclusion incomoda a ambos bandos: apenas hay respaldo historico para sostener que esa definicion fuera realmente la dominante. Es decir, parte del 'tratamiento estandar' que Hamblin ataca seria un blanco de paja, lo que muestra cuan inestable y mal documentada esta la base conceptual del campo."
+      },
+      {
+        "school": "El 'fallacy fallacy' y el juego del gotcha (argument from fallacy)",
+        "view": "La objecion mas practica es que cazar falacias degenera en su propia falacia: la 'falacia de la falacia' o argumento desde la falacia (argumentum ad logicam) consiste en concluir que la conclusion es falsa solo porque el argumento que la sostiene es falaz. Pero una falacia es un error de razonamiento, no una prueba de falsedad: una conclusion verdadera puede estar mal argumentada. Convertir el catalogo en un juego de 'te pille' (gotcha) -descartar tesis por la etiqueta en vez de evaluar su merito- es exactamente lo contrario del pensamiento critico que se decia promover."
+      }
+    ],
+    "contrasts": "El choque de fondo no es si existen los malos argumentos -nadie lo niega- sino si la lista de falacias con nombre es el mejor instrumento para detectarlos. Los defensores -pedagogia del pensamiento critico, la refundacion de Hamblin, la pragma-dialectica de van Eemeren y Grootendorst, los esquemas de Walton- coinciden en que el problema no es estudiar falacias sino estudiarlas mal: con base dialectica, criterios funcionales y atencion al contexto, las etiquetas dejan de ser dogma y se vuelven diagnostico afinado. Los criticos -la fallacy fork de Boudry y colegas, el escepticismo de Finocchiaro, la revision historica de Hansen, la objecion del fallacy fallacy- responden que ese mismo refinamiento delata el problema: cuanto mas realista y sensible al contexto se vuelve la definicion, menos sirve como regla automatica, y cuanto mas estricta, menos se aplica a argumentos reales; ademas, la version popular y de internet del enfoque deriva facil en un juego de gotcha que descarta conclusiones por la etiqueta. Un buen crash course deberia, entonces, ensenar las falacias y al mismo tiempo vacunar contra su uso ingenuo: la etiqueta abre la pregunta -este movimiento es razonable en este contexto?- pero no la cierra.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy - Fallacies (Hans Hansen)",
+        "url": "https://plato.stanford.edu/entries/fallacies/"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy - Fallacies (Bradley Dowden)",
+        "url": "https://iep.utm.edu/fallacy/"
+      },
+      {
+        "label": "Encyclopaedia Britannica - Fallacy (logic)",
+        "url": "https://www.britannica.com/topic/fallacy"
+      },
+      {
+        "label": "Skeptical Inquirer - The Fallacy Fork (Boudry, Paglieri, Pigliucci)",
+        "url": "https://skepticalinquirer.org/2017/09/the-fallacy-fork/"
+      },
+      {
+        "label": "van Eemeren y Grootendorst - The Pragma-Dialectical Approach to Fallacies",
+        "url": "https://www.ditext.com/eemeren/pd.html"
+      },
+      {
+        "label": "Notre Dame Philosophical Reviews - Argumentation Schemes (Walton, Reed, Macagno)",
+        "url": "https://ndpr.nd.edu/reviews/argumentation-schemes/"
+      }
+    ]
+  },
+  "socratic": "Sos un tutor socratico de logica informal y teoria de la argumentacion, y vamos a pensar juntos que es una falacia y si vale la pena cazarlas. Reglas: hace una sola pregunta por turno y espera mi respuesta antes de seguir; nunca me des la respuesta hecha; despues de cada respuesta mia pedime las razones ('por que?', 'en que te basas?', 'dame un ejemplo concreto') y oponeme una objecion real y nombrada del campo; si me trabo, dame una pista breve, no la solucion. Las objeciones tienen que venir de posiciones reales: la refundacion dialectica de C. L. Hamblin, la pragma-dialectica de van Eemeren y Grootendorst (falacia = violacion de una regla de la discusion critica), los esquemas de argumentacion de Douglas Walton (muchas 'falacias' son razonables segun el contexto), la 'fallacy fork' de Boudry, Paglieri y Pigliucci, el escepticismo de Maurice Finocchiaro (las falacias son raras), la revision de Hans Hansen sobre la definicion estandar, y la objecion del 'fallacy fallacy' (descartar la conclusion solo porque el argumento es falaz). Empeza ahora con esta pregunta y nada mas: si yo te digo que un argumento es 'falaz', que es exactamente lo que estoy afirmando que esta mal en el? Esta mal la forma, las premisas, la conclusion, o el modo en que se uso en la conversacion?"
+}

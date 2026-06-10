@@ -1,13 +1,13 @@
 ---
-title: "Etapa 19 — Constant — La libertad de los antiguos comparada con la de los modernos"
+title: "Etapa 18 — Constant — La libertad de los antiguos comparada con la de los modernos"
 ---
 
-# Etapa 19 — Constant — La libertad de los antiguos comparada con la de los modernos
+# Etapa 18 — Constant — La libertad de los antiguos comparada con la de los modernos
 
 > La libertad de los modernos es el goce pacífico de la independencia privada. La libertad de los antiguos consistía en la participación activa y constante del poder colectivo.
 
 <div class="etapa-meta">
-  <span>:material-clock-outline: 3-4 h</span> · <span>:material-progress-check: Etapa 19/103</span> · <span>:material-book-open-outline: Ensayo</span>
+  <span>:material-clock-outline: 3-4 h</span> · <span>:material-progress-check: Etapa 18/103</span> · <span>:material-book-open-outline: Ensayo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">

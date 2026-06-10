@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "La Teoria general del empleo, el interes y el dinero (1936) se propone refutar el nucleo de la economia clasica heredada de Say, Ricardo y Marshall: la idea de que la oferta crea su propia demanda (la ley de Say) y que, dejado a su libre juego, el mercado tiende automaticamente al pleno empleo. Keynes invierte la causalidad: es la demanda efectiva agregada (el gasto esperado en consumo e inversion) la que determina el nivel de produccion y empleo, de modo que una economia monetaria puede estabilizarse en un equilibrio con desempleo involuntario, esto es, con trabajadores dispuestos a emplearse al salario vigente sin que exista demanda para ellos. La flexibilidad de salarios y precios no garantiza el ajuste, porque el problema no esta en el mercado de trabajo sino en la insuficiencia del gasto. Tres piezas sostienen el argumento: la propension a consumir y el multiplicador, que vinculan inversion e ingreso; la eficiencia marginal del capital, cuyas expectativas dependen de un futuro fundamentalmente incierto (no de un riesgo calculable), donde la inversion descansa en animal spirits, impulsos espontaneos a la accion; y la preferencia por la liquidez, que hace del dinero un refugio frente a la incertidumbre y puede conducir a la trampa de la liquidez, situacion en que la tasa de interes no baja mas y la politica monetaria pierde traccion. De ahi la conclusion politica que vertebra el debate: el Estado debe sostener la demanda mediante politica fiscal. El debate de post-lectura se organiza en torno a cuatro fracturas: (1) si Keynes realmente refuto la ley de Say o solo describio un caso especial de rigideces; (2) si su sistema fue fielmente formalizado o domesticado por la sintesis neoclasica; (3) si la incertidumbre radical es el corazon irreductible de la teoria o un residuo prescindible; y (4) si la intervencion fiscal estabiliza la economia o introduce inflacion, malinversion e ineficiencia.",
+    "supporters": [
+      {
+        "school": "Sintesis neoclasica y el modelo IS-LM (John Hicks, Paul Samuelson, Alvin Hansen, Franco Modigliani)",
+        "view": "Hicks, en Mr. Keynes and the Classics (1937), tradujo la Teoria general a un sistema de equilibrio general simplificado mediante las curvas IS-LM, que articulan el mercado de bienes (ahorro-inversion) con el mercado monetario (preferencia por la liquidez). Samuelson popularizo el resultado en su manual Economics (1948) bajo el nombre de sintesis neoclasica: a corto plazo, con precios rigidos, rige la logica keynesiana de la demanda y la politica de estabilizacion; a largo plazo, alcanzado el pleno empleo, vuelve a regir el aparato neoclasico. Para esta tradicion dominante de posguerra, IS-LM no traiciona a Keynes sino que lo vuelve operativo y ensenable, integrando la demanda efectiva, el multiplicador y la trampa de la liquidez (el tramo horizontal de la curva LM) en un marco riguroso que justifico decadas de politica fiscal y monetaria activa."
+      },
+      {
+        "school": "Postkeynesianismo y la fidelidad al Keynes radical (Joan Robinson, Paul Davidson, Sidney Weintraub)",
+        "view": "Los postkeynesianos sostienen ser quienes permanecieron mas cerca del espiritu de la obra. Acusan a la sintesis de ser un keynesianismo bastardo (expresion de Joan Robinson) que amputo lo decisivo: la incertidumbre fundamental, irreducible a probabilidad calculable, que Davidson coloca en el centro junto al tiempo historico y la naturaleza del dinero. Robinson lidero ademas la controversia del capital de Cambridge contra la funcion de produccion agregada del mainstream. Para esta escuela, la demanda efectiva y la no neutralidad del dinero son verdades estructurales de una economia monetaria, no fricciones transitorias: por eso rechazan IS-LM y la dicotomia corto/largo plazo que reabsorbe a Keynes en el equilibrio neoclasico."
+      },
+      {
+        "school": "La hipotesis de la inestabilidad financiera (Hyman Minsky)",
+        "view": "Minsky radicaliza la lectura de la incertidumbre del capitulo 12 y de la inversion para sostener que el capitalismo genera inestabilidad de manera endogena: en las expansiones, la euforia desplaza las estructuras de financiamiento desde posiciones cubiertas (hedge) hacia posiciones especulativas y, finalmente, Ponzi, hasta que el sistema se torna fragil y sobreviene el colapso (el llamado momento Minsky). Critico de la sintesis neoclasica por ignorar los factores financieros que Keynes habia situado en el corazon del funcionamiento del capitalismo, Minsky fue uno de los fundadores del postkeynesianismo y su obra, marginal en su epoca, recupero atencion central tras 2008."
+      },
+      {
+        "school": "El resurgimiento keynesiano tras la crisis de 2008 (Paul Krugman, Gauti Eggertsson, nueva sintesis del zero lower bound)",
+        "view": "La crisis financiera de 2008 produjo, en palabras del Financial Times, un giro asombroso hacia la politica keynesiana. Con las tasas de interes en el limite inferior cero (la trampa de la liquidez moderna), la investigacion de Eggertsson mostro que aumentar la base monetaria no afecta producto ni precios si no cambia las expectativas, mientras que el multiplicador del gasto publico es teoricamente mucho mayor en esas condiciones que en tiempos normales. Krugman, retomando a Keynes, Fisher y Minsky, defendio el estimulo fiscal y reinstalo la economia de la depresion, dando soporte analitico a los paquetes de estimulo y validando empiricamente el nucleo de la Teoria general."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Monetarismo (Milton Friedman, Anna Schwartz)",
+        "view": "Friedman resucito la teoria cuantitativa del dinero y sostuvo que, a largo plazo, el crecimiento monetario afecta los precios y casi no el producto, restando potencia a la politica fiscal frente a la regla monetaria. Su Teoria de la funcion de consumo (1957) reemplazo la propension a consumir keynesiana, atada al ingreso corriente, por la hipotesis del ingreso permanente, debilitando el multiplicador del gasto. Y con la hipotesis de la tasa natural mostro que la curva de Phillips es vertical a largo plazo: el intento de comprar menos desempleo con mas inflacion solo funciona mientras los agentes no se adapten, anticipando la estanflacion de los anos setenta, que muchos leyeron como refutacion del recetario keynesiano."
+      },
+      {
+        "school": "Nueva macroeconomia clasica y expectativas racionales (Robert Lucas, Thomas Sargent, Robert Barro)",
+        "view": "Lucas, premio Nobel por la hipotesis de expectativas racionales, asume que los agentes comprenden los modelos de politica y no pueden ser enganados sistematicamente: una expansion monetaria o fiscal anticipada no altera el producto real, solo los precios. La critica de Lucas (1976) demolio ademas el aparato econometrico keynesiano al mostrar que las relaciones empiricas estimadas cambian cuando cambia la politica, por lo que carecen de fundamentos microeconomicos estables y no sirven para evaluar politicas. La macroeconomia debia reconstruirse sobre optimizacion individual y equilibrio, lo que para muchos significaba el fin del paradigma keynesiano."
+      },
+      {
+        "school": "Escuela austriaca (Friedrich Hayek, Ludwig von Mises)",
+        "view": "Hayek objeto el agregacionismo de Keynes: magnitudes como inversion, consumo o empleo ocultan mas de lo que revelan, porque el capital no es homogeneo sino una estructura temporal de bienes heterogeneos. Para la teoria austriaca del ciclo, la expansion crediticia y las tasas artificialmente bajas distorsionan los precios relativos y generan malinversion, sembrando el auge insostenible que precede a la crisis; la recesion es un reajuste necesario, no una falla de demanda que el Estado deba compensar. Estimular la demanda agregada con gasto y dinero barato, sostuvo, solo causa inflacion y posterga la correccion, prediccion sobre la inflacion que el propio relato mainstream termino incorporando."
+      },
+      {
+        "school": "Critica clasica de la ley de Say y la flexibilidad de precios (lectura del equilibrio walrasiano)",
+        "view": "Desde la ortodoxia que Keynes pretendia refutar, sus criticos sostienen que no demostro la imposibilidad logica del pleno empleo sino que supuso rigideces de salarios y precios: con flexibilidad plena, la caida de salarios nominales y el efecto de saldos reales (efecto Pigou) restaurarian la demanda y el empleo, de modo que el desempleo involuntario keynesiano seria un caso particular de fricciones, no una propiedad general de la economia de mercado. La ley de Say, reformulada, seguiria valiendo en el largo plazo, y el equilibrio con desempleo de Keynes dependeria de hipotesis ad hoc sobre la inflexibilidad nominal mas que de una verdadera teoria general."
+      }
+    ],
+    "contrasts": "El eje del debate es que se conserva y que se pierde al traducir a Keynes. La sintesis neoclasica de Hicks y Samuelson lo vuelve manejable con IS-LM y justifica la politica de estabilizacion, pero los postkeynesianos (Robinson, Davidson) la acusan de keynesianismo bastardo por amputar la incertidumbre fundamental y reabsorber el sistema en el equilibrio neoclasico mediante la dicotomia corto/largo plazo. Un segundo contraste opone la naturaleza del futuro: para Keynes y sus herederos postkeynesianos y para Minsky, la incertidumbre es radical e incalculable y la inestabilidad financiera es endogena; para Lucas y las expectativas racionales, los agentes optimizan con toda la informacion disponible y la politica anticipada es neutral, lo que vacia de eficacia al estimulo. Un tercer contraste enfrenta los diagnosticos de la crisis: el monetarismo de Friedman traslada el peso de la politica fiscal a la regla monetaria y reinterpreta la curva de Phillips como vertical, mientras la austriaca de Hayek niega que el problema sea de demanda agregada y lo situa en la distorsion de la estructura del capital por el credito barato, de modo que el remedio keynesiano agravaria la enfermedad. El contraste mas decisivo es metodologico y se juega sobre la ley de Say: los criticos ortodoxos sostienen que con precios flexibles y efecto Pigou el desempleo involuntario se disuelve, reduciendo a Keynes a un caso de rigideces; los defensores responden que en una economia monetaria con incertidumbre la flexibilidad puede ser desestabilizadora y que la trampa de la liquidez y la preferencia por el dinero impiden el ajuste automatico. La crisis de 2008, con tasas en el limite inferior cero y multiplicadores fiscales elevados, reactivo el nucleo keynesiano y volvio a Minsky lectura central, sin cerrar la disputa: el resurgimiento mismo es leido por unos como vindicacion empirica de la Teoria general y por otros como un retorno coyuntural que no resuelve sus problemas teoricos de fundamentos.",
+    "sources": [
+      {
+        "label": "Keynesian Economics (Econlib, The Concise Encyclopedia of Economics) - demanda agregada, rechazo del ajuste automatico, politica fiscal, criticas nueva clasica",
+        "url": "https://www.econlib.org/library/Enc/KeynesianEconomics.html"
+      },
+      {
+        "label": "Milton Friedman (Econlib) - monetarismo, ingreso permanente, curva de Phillips y tasa natural",
+        "url": "https://www.econlib.org/library/Enc/bios/Friedman.html"
+      },
+      {
+        "label": "Robert E. Lucas Jr. (Econlib) - expectativas racionales, nueva macroeconomia clasica, critica de Lucas",
+        "url": "https://www.econlib.org/library/Enc/bios/Lucas.html"
+      },
+      {
+        "label": "Friedrich August Hayek (Econlib) - critica austriaca al agregacionismo, capital heterogeneo, ciclo economico",
+        "url": "https://www.econlib.org/library/Enc/bios/Hayek.html"
+      },
+      {
+        "label": "Post-Keynesian economics (Wikipedia) - keynesianismo bastardo de Robinson, incertidumbre fundamental, Davidson, Minsky",
+        "url": "https://en.wikipedia.org/wiki/Post-Keynesian_economics"
+      },
+      {
+        "label": "Macroeconomic Policy in a Liquidity Trap (NBER, Gauti Eggertsson) - limite inferior cero, multiplicador fiscal, crisis de 2008",
+        "url": "https://www.nber.org/reporter/2017number1/macroeconomic-policy-liquidity-trap"
+      }
+    ]
+  },
+  "socratic": "Quiero que actues como un interlocutor socratico sobre la Teoria general del empleo, el interes y el dinero de John Maynard Keynes. Reglas: hace una sola pregunta por turno y espera mi respuesta antes de seguir. Nunca me des tu respuesta ni resuelvas el problema por mi. Despues de cada respuesta mia, exigime las razones que la sostienen y, si flaquean, oponeme una objecion real y nombrada de la tradicion (la ley de Say y el efecto Pigou de la critica clasica; el monetarismo de Milton Friedman con la tasa natural y la curva de Phillips vertical; las expectativas racionales y la critica de Lucas; la objecion austriaca de Hayek al agregacionismo y al capital homogeneo; y, del otro lado, la acusacion postkeynesiana de Joan Robinson y Paul Davidson de que la sintesis IS-LM de Hicks domestico a Keynes). Si me trabo, dame una pista breve, no la solucion. Empeza ahora con esta pregunta concreta y nada mas: Keynes afirma que puede existir un equilibrio con desempleo involuntario, es decir, trabajadores dispuestos a emplearse al salario vigente para quienes no hay demanda; antes de explicar por que, decime: si los salarios fueran totalmente flexibles y cayeran, no deberia eso por si solo restaurar el pleno empleo como sostiene la ley de Say, o hay alguna razon por la que bajar los salarios podria incluso reducir aun mas la demanda efectiva?"
+}

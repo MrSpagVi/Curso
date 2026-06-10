@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "Regimenes totalitarios y autoritarios (1975) rompio el binarismo de la Guerra Fria: entre la democracia y el totalitarismo existe un tercer tipo con logica propia, el autoritarismo, definido por pluralismo limitado, mentalidades en lugar de ideologias, desmovilizacion y un poder con limites mal definidos pero predecibles. La tipologia de Linz organizo medio siglo de estudios comparados y su otra gran obra, La quiebra de las democracias (1978), fundo la literatura sobre como mueren las democracias desde adentro. El debate sigue vivo por tres razones. Primero, los autoritarismos del siglo XXI no se parecen al franquismo que Linz tenia enfrente: celebran elecciones, toleran oposicion y manipulan el campo de juego, lo que obligo a preguntarse si la tipologia clasica alcanza o si los regimenes hibridos exigen categorias nuevas. Segundo, su tesis mas influyente fuera de la tipologia, que el presidencialismo hace mas probable el quiebre democratico que el parlamentarismo, fue sometida a decadas de prueba empirica con resultados que la cuestionan seriamente. Tercero, la transitologia que sus discipulos construyeron sobre sus categorias, con su supuesto de que todo regimen no democratico esta en transito hacia la democracia, fue declarada en crisis cuando la tercera ola se estanco. Discutir a Linz es discutir si los conceptos de 1975 sirven para clasificar a Venezuela, Hungria o Rusia.",
+    "supporters": [
+      {
+        "school": "La transitologia (O'Donnell, Schmitter, Stepan)",
+        "view": "Guillermo O'Donnell y Philippe Schmitter, en Transitions from Authoritarian Rule (1986), construyeron directamente sobre Linz: si el autoritarismo tiene pluralismo limitado, entonces existen blandos y duros dentro del regimen, y la transicion pactada es posible cuando los blandos negocian con la oposicion moderada. España, el caso de Linz, fue el modelo. Alfred Stepan, coautor de Linz en Problems of Democratic Transition and Consolidation (1996), extendio el aparato: el tipo de regimen previo (autoritario, totalitario, postotalitario, sultanistico) determina las rutas de salida disponibles y las tareas de consolidacion. Para esta escuela, la tipologia no es un ejercicio clasificatorio: es la variable explicativa central de como terminan los regimenes no democraticos y que democracia los sucede."
+      },
+      {
+        "school": "Los estudios de regimenes hibridos que construyen sobre la tipologia (Schedler, Geddes)",
+        "view": "Andreas Schedler, en Electoral Authoritarianism: The Dynamics of Unfree Competition (2006) y en The Menu of Manipulation (Journal of Democracy, 2002), trato el autoritarismo electoral como la continuacion del programa de Linz: regimenes que usan instituciones representativas como instrumentos de dominacion, una variante nueva del pluralismo limitado. Barbara Geddes, en What Do We Know about Democratization after Twenty Years? (Annual Review of Political Science, 1999), refino la intuicion linziana de que los regimenes mueren segun su tipo: los autoritarismos militares, de partido unico y personalistas tienen vidas y muertes sistematicamente distintas. Ambos muestran que la apuesta metodologica de Linz, clasificar para explicar, sigue rindiendo: las categorias cambian, el metodo es suyo."
+      },
+      {
+        "school": "Los herederos del estudio del quiebre democratico (Levitsky y Ziblatt, Bermeo)",
+        "view": "Steven Levitsky y Daniel Ziblatt declaran en How Democracies Die (2018) que su libro actualiza La quiebra de las democracias: las democracias mueren por la accion de politicos electos, las semilealtades que toleran la violencia del propio bando y el abandono de la tolerancia mutua, exactamente el guion linziano, ahora sin tanques. Nancy Bermeo, en On Democratic Backsliding (Journal of Democracy, 2016), documento el desplazamiento del golpe clasico hacia la erosion gradual por via legal, confirmando la tesis central de Linz: los responsables del quiebre casi siempre incluyen a los propios democratas. Esta escuela considera que la autopsia de 1978 es el texto mas vigente de Linz, mas incluso que la tipologia."
+      }
+    ],
+    "critics": [
+      {
+        "school": "La critica a la tipologia estatica y la superacion por el autoritarismo competitivo (Levitsky y Way)",
+        "view": "Steven Levitsky y Lucan Way, en Elections Without Democracy: The Rise of Competitive Authoritarianism (Journal of Democracy, 2002) y en Competitive Authoritarianism (2010), argumentan que la tipologia de Linz quedo corta para la pos-Guerra Fria: decenas de regimenes combinan elecciones reales y competitivas con un campo de juego sistematicamente inclinado, y no son ni autoritarismos clasicos ni democracias defectuosas en transito. Tratarlos con las categorias de 1975 produce errores: el pluralismo limitado de Linz supone exclusion de la competencia, mientras el autoritarismo competitivo vive de ella. Ademas, la tipologia es una foto, no una pelicula: clasifica regimenes en equilibrio y dice poco de las dinamicas de vinculacion internacional (linkage y leverage) que para Levitsky y Way explican las trayectorias divergentes."
+      },
+      {
+        "school": "La variacion institucional del presidencialismo (Shugart y Carey, Mainwaring)",
+        "view": "Matthew Shugart y John Carey, en Presidents and Assemblies: Constitutional Design and Electoral Dynamics (1992), desarmaron la generalizacion de Los peligros del presidencialismo: no existe el presidencialismo en singular. Los poderes legislativos del presidente, las reglas electorales y el sistema de partidos generan variantes con riesgos muy distintos; algunos disenos presidenciales (premier-presidencialismo, presidentes con pocos poderes de decreto) funcionan establemente. Scott Mainwaring, en Presidentialism, Multipartism, and Democracy (Comparative Political Studies, 1993), preciso que la combinacion peligrosa no es el presidencialismo por si solo sino su matrimonio con el multipartidismo fragmentado. La critica no niega los problemas que Linz identifico (legitimidad dual, rigidez), pero muestra que son condicionales, no constitutivos del tipo."
+      },
+      {
+        "school": "La refutacion empirica del argumento presidencialismo-quiebre (Cheibub)",
+        "view": "Jose Antonio Cheibub, en Presidentialism, Parliamentarism, and Democracy (2007), uso datos de todas las democracias entre 1946 y 2002 para someter la tesis de Linz a prueba: las democracias presidenciales mueren mas, pero no por los mecanismos linzianos. Los incentivos del presidencialismo no impiden coaliciones (existen y son frecuentes) ni generan por si mismos paralisis fatal. La correlacion entre presidencialismo y quiebre es espuria: el presidencialismo fue adoptado desproporcionadamente en paises con legados militares y condiciones donde cualquier democracia muere mas, sobre todo en America Latina. Cheibub concluye que lo que mata a las democracias presidenciales no es la constitucion sino donde estan plantadas, una refutacion empirica directa del argumento institucional mas famoso de Linz."
+      }
+    ],
+    "contrasts": "El nucleo en disputa es si las categorias de Linz son herramientas vivas o piezas de museo. Sus herederos (transitologos, estudiosos del quiebre) sostienen que el metodo linziano, tipos de regimen con logicas propias que explican como nacen y mueren, sigue siendo el chasis de la disciplina; las categorias se actualizan sin romper el marco. Los criticos responden en dos planos: conceptual (los regimenes hibridos no caben en la tipologia y exigen conceptos nuevos como autoritarismo competitivo) y empirico (la tesis presidencialismo-quiebre, puesta a prueba con datos, no sobrevive: Cheibub muestra que la correlacion es espuria). Lo que esta en juego es practico: con que vara clasificar a los regimenes actuales y que reformas constitucionales recomendar a las democracias fragiles.",
+    "sources": [
+      {
+        "label": "Totalitarian and Authoritarian Regimes — Lynne Rienner Publishers",
+        "url": "https://www.rienner.com/title/Totalitarian_and_Authoritarian_Regimes"
+      },
+      {
+        "label": "Levitsky y Way, Elections Without Democracy: The Rise of Competitive Authoritarianism (Journal of Democracy, 2002 — Project MUSE)",
+        "url": "https://muse.jhu.edu/article/17196"
+      },
+      {
+        "label": "Cheibub, Presidentialism, Parliamentarism, and Democracy — Cambridge University Press",
+        "url": "https://www.cambridge.org/0521834678"
+      },
+      {
+        "label": "O'Donnell, Schmitter y Whitehead, Transitions from Authoritarian Rule — Johns Hopkins University Press",
+        "url": "https://www.press.jhu.edu/books/title/29413/transitions-authoritarian-rule"
+      },
+      {
+        "label": "Competitive Authoritarianism — Journal of Democracy (pagina tematica)",
+        "url": "https://www.journalofdemocracy.org/subjects/competitive-authoritarianism/"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre Regimenes totalitarios y autoritarios y La quiebra de las democracias de Juan Linz. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta. Cuando afirme algo, pedime razones y ejemplos de regimenes concretos. Presenta objeciones de escuelas rivales concretas: el autoritarismo competitivo de Levitsky y Way como superacion de la tipologia, la variacion institucional de Shugart y Carey, la refutacion empirica de Cheibub al argumento presidencialismo-quiebre, y la critica a la tipologia estatica. Si me trabo, ofreceme una pista como pregunta mas concreta. Empeza con esta pregunta: un regimen que celebra elecciones competitivas pero inclina sistematicamente la cancha, entra en la categoria de autoritarismo de Linz o la rompe? Que rasgo de la definicion decide?"
+}

@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "Los Siete ensayos de interpretacion de la realidad peruana (1928) no son un tratado de filosofia sino una aplicacion del materialismo historico a un pais concreto: Mariategui examina la evolucion economica, el problema del indio, el problema de la tierra, la educacion, el factor religioso, el regionalismo y la literatura para entender el Peru y, sobre todo, para transformarlo. De ese intento surgen las tesis en disputa. La primera y mas famosa es el desplazamiento del problema del indio: contra el indigenismo liberal y la filantropia, Mariategui sostiene que la cuestion indigena no es racial, ni moral, ni administrativa, ni pedagogica, ni eclesiastica, sino economica y social, es decir, un problema de la tierra y de la estructura de propiedad (el gamonalismo y el latifundio feudal). La segunda es la reivindicacion del comunismo agrario incaico: el ayllu, la propiedad colectiva de la tierra y los habitos de cooperacion y reciprocidad supervivientes en la comunidad campesina se leen como un sustrato socialista autoctono que la conquista destruyo sin reemplazar por algo mas productivo, y que conecta el pasado andino con el socialismo futuro. La tercera es el metodo mismo: un marxismo que Mariategui quiso hacer crecer en suelo americano sin calco ni copia, abierto a la potencia del mito, la fe y la voluntad (deuda explicita con Georges Sorel) y atento al factor religioso, lo que lo separo tanto del determinismo economicista de la Segunda Internacional como de la ortodoxia sovietica de la Komintern. El debate de post-lectura se libra en tres frentes entrelazados: si esa heterodoxia (el marxismo indoamericano) es una creacion fertil o una desviacion populista, romantica y voluntarista; si la reivindicacion del incario es programa revolucionario o idealizacion historica de una teocracia despotica; y si Mariategui es precursor del marxismo latinoamericano, de la teoria de la dependencia y del giro decolonial, o un pensador cuyo nacionalismo del indio debia subordinarse a la linea de clase internacional que le exigia Moscu.",
+    "supporters": [
+      {
+        "school": "Marxismo romantico (Michael Lowy, entrevista Mariategui's Heroic Socialism y su tesis del romanticismo revolucionario)",
+        "view": "Lowy ubica a Mariategui en el centro de un marxismo romantico: un anticapitalismo que recupera valores comunitarios precapitalistas (el comunismo agrario del ayllu) no para volver al pasado, sino para proyectarlos hacia el socialismo futuro. Celebra la heterodoxia mariateguiana, su socialismo como creacion heroica y no calco ni copia, y reivindica el papel del mito, la fe, la pasion y la voluntad heredados de Sorel como nucleo vivo del marxismo. Ante la acusacion de poca ortodoxia responde con ironia que no existe un marxometro que mida quien es verdadero marxista: hay mil marxismos, y el de Mariategui es uno legitimo y fecundo."
+      },
+      {
+        "school": "Marxismo latinoamericano y teoria de la dependencia (lectura de Mariategui como precursor; Helleiner y Rosales sobre el debate Haya-Mariategui)",
+        "view": "Esta corriente reivindica a Mariategui como fundador de un marxismo enraizado en la realidad latinoamericana y como precursor intelectual de la teoria de la dependencia. En el desencuentro con Haya de la Torre, Mariategui anticipa el analisis del capitalismo dependiente y distorsionado introducido por el imperialismo en la periferia, pero rechaza la salida policlasista y nacional-burguesa del APRA: insiste en que solo una revolucion socialista dirigida por el proletariado y el campesinado indigena puede resolver la condicion dependiente. Su metodo historico-estructural y su atencion a la posicion del Peru en el capitalismo mundial son leidos como semilla del paradigma dependentista posterior."
+      },
+      {
+        "school": "Giro decolonial y colonialidad del poder (Anibal Quijano, prologo a la edicion Biblioteca Ayacucho de los Siete ensayos e Introduccion a Mariategui)",
+        "view": "Quijano relee a Mariategui como punto de partida de una teoria propia: a partir de su tratamiento del indio, la raza y la herencia colonial elabora la colonialidad del poder y del saber, segun la cual las jerarquias raciales y epistemicas instauradas por la conquista persisten mucho despues de la independencia formal. En esta lectura, la insistencia mariateguiana en pensar el Peru desde su realidad concreta y desde los pueblos originarios, sin subordinarse a los moldes europeos, prefigura la critica decolonial contemporanea y la reconstitucion epistemologica que esta reclama."
+      },
+      {
+        "school": "Indigenismo socialista y herencia indianista/katarista (Mariategui como matriz de la reivindicacion politica de lo indigena)",
+        "view": "Para esta tradicion, el aporte decisivo de Mariategui fue convertir al indio en sujeto historico y en fundamento de la nacionalidad en formacion, ligando su emancipacion a la recuperacion de la tierra y de la comunidad. Al fundar el problema indigena en la estructura economica y no en la raza o la caridad, abrio el camino para que las luchas campesinas e indigenas posteriores se pensaran como proyecto politico autonomo y comunitario, una linea que mas tarde resonara en corrientes indianistas y kataristas que reivindican lo comunal andino como base de un proyecto propio."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica de la idealizacion del incario (historiografia andina; Victor Andres Belaunde y Juan Carlos Grijalva)",
+        "view": "Esta linea impugna la reivindicacion del comunismo incaico como idealizacion. Belaunde cuestiono la exactitud de la reconstruccion mariateguiana del pasado andino, y criticos como Grijalva sostienen que Mariategui idealiza las civilizaciones incaicas de modo poco realista. El reparo de fondo es que el supuesto comunismo agrario funcionaba dentro de una teocracia centralizada y altamente represiva, sin libertad ni propiedad individual, de modo que proyectar sobre el incario el ideal socialista moderno confunde colectivismo despotico con emancipacion. El propio Mariategui reconoce parte de esto en una nota extensa del ensayo sobre el problema del indio."
+      },
+      {
+        "school": "Critica ortodoxa: los limites de la heterodoxia (Peter David Morgan, Discipline, Programs, and Systems, Modern Intellectual History)",
+        "view": "Morgan discute la imagen del Mariategui heterodoxo y abierto. Sostiene que, pese a su reputacion, Mariategui valoraba la disciplina politica de la actividad teorica y concebia la innovacion acotada por los marcos del marxismo: usaba ortodoxia en sentido positivo para referirse a la concepcion cosmopolita e internacionalista de la revolucion socialista propia del bolchevismo. El mito soreliano le servia solo cuando estaba inscripto en el movimiento obrero organizado; sin esa disciplina podia derivar hacia el fascismo. La heterodoxia, en esta lectura, no se opone a la disciplina sino que esta inmanentemente ligada a ella, lo que relativiza la imagen del marxismo indio enteramente libre."
+      },
+      {
+        "school": "Critica desde la Komintern y el marxismo ortodoxo (acusacion de populismo, romanticismo y voluntarismo; debate sobre la republica india)",
+        "view": "La Internacional Comunista y sus voceros sudamericanos (Victorio Codovilla y el Secretariado Sudamericano) chocaron con Mariategui: en la Conferencia Comunista Latinoamericana de Buenos Aires de 1929 se le encargo evaluar la creacion de una republica india, en el molde de las republicas negras propuestas para Estados Unidos y Sudafrica. Mariategui rechazo la formula etnica y la juzgo un error frente al analisis de clase, lo que le valio sospechas de desviacion. Desde la ortodoxia se lo tacho de populista por su lectura del indio y la nacion, y de romantico y voluntarista por su confianza en el mito, la fe y la voluntad mas que en las leyes objetivas de la historia."
+      },
+      {
+        "school": "Critica aprista (Victor Raul Haya de la Torre y el APRA; el desencuentro de 1928)",
+        "view": "Desde el aprismo, Haya de la Torre disputo a Mariategui la estrategia antiimperialista. Frente al socialismo proletario e indigena de Mariategui, Haya defendia un frente unico policlasista que integraba a las capas medias y a la burguesia nacional, y un programa de regulacion estatal del capital extranjero y de nacionalismo economico continental (indoamericano). El reparo aprista es que la apuesta de Mariategui por la direccion del proletariado y del campesinado indigena, en un pais de escaso desarrollo capitalista, resultaba prematura y sectaria; de ahi la ruptura de 1928 entre ambos."
+      }
+    ],
+    "contrasts": "El nudo del debate es que casi cada virtud que celebran los partidarios es, vista desde otro angulo, el defecto que denuncian los criticos. Lo que Lowy llama marxismo romantico y creacion heroica, la Komintern y la ortodoxia lo leen como romanticismo voluntarista que sustituye las leyes de la historia por la fe y el mito. Lo que los dependentistas y Quijano celebran como un marxismo enraizado, precursor de la dependencia y de la colonialidad, Morgan matiza mostrando que Mariategui se pensaba a si mismo dentro de la disciplina ortodoxa del bolchevismo, no contra ella. La reivindicacion del ayllu funciona como caso de prueba: para el indigenismo socialista y el indianismo posterior es la base de un proyecto comunitario autoctono; para la historiografia andina (Belaunde, Grijalva) es idealizacion de una teocracia represiva. Y el problema del indio condensa el choque estrategico: Mariategui lo funda en la tierra y la clase, lo que lo enfrenta a la vez con el indigenismo liberal (que lo veia como cuestion moral o educativa), con la Komintern (que queria una republica india de base etnica) y con el APRA (que prefería un frente policlasista). El propio Mariategui ofrece munición a sus criticos al admitir en nota al pie las disrupciones coloniales y los limites del incario, lo que sugiere que su reivindicacion del pasado andino era mas estrategica que arqueologica. El debate sigue abierto porque la obra es deliberadamente no sistematica: permite leer al mismo autor como heterodoxo fundacional o como ortodoxo disciplinado segun que ensayos y que notas se privilegien.",
+    "sources": [
+      {
+        "label": "Encyclopaedia Britannica: Seven Interpretive Essays on Peruvian Reality (sintesis del marxismo economico con el mito y la religion en el tratamiento del indio)",
+        "url": "https://www.britannica.com/topic/Seven-Interpretive-Essays-on-Peruvian-Reality"
+      },
+      {
+        "label": "Wikipedia: Seven Interpretive Essays on Peruvian Reality (el indio como problema de la tierra, comunismo agrario incaico, recepcion y criticas de Belaunde y Grijalva por idealizar el incario)",
+        "url": "https://en.wikipedia.org/wiki/Seven_Interpretive_Essays_on_Peruvian_Reality"
+      },
+      {
+        "label": "Mariategui, texto integro del Ensayo 3 El problema de la tierra (ayllu, comunismo agrario, gamonalismo y latifundio), marxists.org",
+        "url": "https://www.marxists.org/archive/mariateg/works/7-interpretive-essays/essay03.htm"
+      },
+      {
+        "label": "Peter David Morgan, Discipline, Programs, and Systems: The Limits of Heterodoxy in the Thought of Jose Carlos Mariategui, 1917-1930, Modern Intellectual History (Cambridge)",
+        "url": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/discipline-programs-and-systems-the-limits-of-heterodoxy-in-the-thought-of-jose-carlos-mariategui-19171930/8319A4FFCC83B4747E3A7560FD1437B5"
+      },
+      {
+        "label": "Eric Helleiner y Antulio Rosales, Toward Global IPE: The Overlooked Significance of the Haya-Mariategui Debate, International Studies Review (Oxford)",
+        "url": "https://academic.oup.com/isr/article/19/4/667/3977927"
+      },
+      {
+        "label": "Michael Lowy (entrevista de Nicolas Allen), Mariategui's Heroic Socialism: marxismo romantico, mito, Sorel y heterodoxia, Jacobin",
+        "url": "https://jacobin.com/2018/12/jose-carlos-mariategui-seven-interpretive-essays-peru-marxism-revolutionary-myth"
+      },
+      {
+        "label": "Wikipedia: Anibal Quijano (prologo a los Siete ensayos, Introduccion a Mariategui y colonialidad del poder como relectura decolonial)",
+        "url": "https://en.wikipedia.org/wiki/An%C3%ADbal_Quijano"
+      }
+    ]
+  },
+  "socratic": "Sos un tutor socratico de teoria politica y vamos a pensar juntos los Siete ensayos de Mariategui, sobre todo el marxismo indoamericano y el problema del indio. Reglas: preguntame de a una pregunta por vez, nunca me des la respuesta, exigime siempre que justifique con razones o con el texto, y cuando yo afirme algo oponeme una objecion real de un autor o escuela nombrada (Michael Lowy y el marxismo romantico; Peter Morgan sobre los limites de la heterodoxia; la critica de la Komintern de populista y voluntarista; Haya de la Torre y el APRA; Belaunde y Grijalva sobre la idealizacion del incario; Anibal Quijano y la relectura decolonial). Si me trabo, dame una pista, no la solucion. Arranca con esta pregunta concreta: Mariategui dice que el problema del indio no es racial ni moral ni educativo ni religioso, sino que es economico, es el problema de la tierra; que gana y que pierde al reducirlo asi, y como sabrias si tiene razon? Despues de mi respuesta segui indagando: pediime que distinga el indio como clase del indio como nacion o raza, y oponeme la propuesta de la Komintern de 1929 de una republica india de base etnica que el mismo Mariategui rechazo en nombre de la clase: cual de los dos enfoques defendes y por que? Mas adelante llevame al comunismo agrario incaico (es programa revolucionario o idealizacion de una teocracia represiva como objetan Belaunde y Grijalva? el ayllu prueba que hubo socialismo andino o solo colectivismo despotico?), despues al metodo (si Mariategui apela al mito, la fe y la voluntad de Sorel, sigue siendo marxismo o cae en romanticismo voluntarista como denunciaba la ortodoxia? y como responderia Lowy con su mil marxismos?), y al limite que marca Morgan (era de veras heterodoxo o se pensaba dentro de la disciplina ortodoxa del bolchevismo?). Cerra siempre devolviendome la pregunta de si reivindicar a Mariategui como precursor de la dependencia y del giro decolonial de Quijano lo ilumina o lo proyecta anacronicamente sobre debates que el no tuvo."
+}

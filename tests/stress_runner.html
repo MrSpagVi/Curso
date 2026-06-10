@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Stress Test Runner - Curso de Ciencia Política</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 20px;
+      background: #f4f6f8;
+      color: #333;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .header {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
+    }
+    .summary-box {
+      font-size: 1.2rem;
+      margin-top: 10px;
+      padding: 10px;
+      border-radius: 4px;
+      background: #eef2f7;
+    }
+    .results-table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
+    }
+    .results-table th, .results-table td {
+      padding: 12px 15px;
+      text-align: left;
+      border-bottom: 1px solid #eee;
+    }
+    .results-table th {
+      background: #e65100;
+      color: #fff;
+    }
+    .status-passed {
+      color: #2e7d32;
+      font-weight: bold;
+    }
+    .status-failed {
+      color: #c62828;
+      font-weight: bold;
+    }
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Stress Test Suite Runner</h1>
+      <div id="summary" class="summary-box">Iniciando pruebas de estrés...</div>
+    </div>
+    
+    <table class="results-table">
+      <thead>
+        <tr>
+          <th style="width: 50px;">#</th>
+          <th style="width: 350px;">Nombre de la Prueba de Estrés</th>
+          <th style="width: 100px;">Estado</th>
+          <th style="width: 120px;">Duración</th>
+          <th>Detalle / Vulnerabilidad Encontrada</th>
+        </tr>
+      </thead>
+      <tbody id="results-body">
+        <!-- Los resultados se llenarán dinámicamente -->
+      </tbody>
+    </table>
+    
+    <h2>Vista previa del Dashboard (Estrés)</h2>
+    <iframe id="dashboard-iframe" src="../dashboard.html"></iframe>
+  </div>
+
+  <script>
+    const delay = ms => new Promise(r => setTimeout(r, ms));
+
+    function getDoc() {
+      const iframe = document.getElementById('dashboard-iframe');
+      const doc = iframe.contentDocument || iframe.contentWindow.document;
+      if (!doc) throw new Error("No se puede acceder al document del iframe");
+      return doc;
+    }
+
+    function getWin() {
+      const iframe = document.getElementById('dashboard-iframe');
+      const win = iframe.contentWindow;
+      if (!win) throw new Error("No se puede acceder al window del iframe");
+      return win;
+    }
+
+    const stressTests = [
+      {
+        name: "ST-1: Socratic Phase Quiz Progress Leakage Across Tracks",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          // Switch to simple track
+          win.changeTrack('simple');
+          await delay(50);
+          
+          // Complete quiz for Phase 0 (requires answering 2 questions correctly)
+          win.selectPhase(0);
+          await delay(50);
+          
+          win.answerQuiz(0, true);
+          await delay(20);
+          win.answerQuiz(0, true);
+          await delay(50);
+          
+          // Check that simple quiz is passed
+          const isPassedSimple = win.getPhaseQuizStatus(0);
+          if (!isPassedSimple) {
+            throw new Error("El quiz de la Fase 0 debió marcarse como aprobado en el simple track.");
+          }
+          
+          // Switch to advanced track
+          win.changeTrack('advanced');
+          await delay(50);
+          
+          // Check if Phase 0 quiz is marked as passed in advanced track
+          const isPassedAdvanced = win.getPhaseQuizStatus(0);
+          if (isPassedAdvanced) {
+            throw new Error("¡VULNERABILIDAD DE FILTRADO DE PROGRESO DETECTADA! El quiz de la Fase 0 se marcó como aprobado en el advanced track sin haber sido realizado en dicho track.");
+          }
+        }
+      },
+      {
+        name: "ST-2: Phase Completion Status Leakage Across Tracks",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          // Switch to simple track
+          win.changeTrack('simple');
+          await delay(50);
+          
+          // Mark phase 0 completed (in addition to quiz, complete tasks for simple stage 1, 2, 3, 5)
+          // Wait, phase completion in simple might depend on completing stages.
+          // Let's pass the quiz first.
+          win.selectPhase(0);
+          await delay(50);
+          win.answerQuiz(0, true);
+          await delay(20);
+          win.answerQuiz(0, true);
+          await delay(50);
+          
+          // Check if phase-0-completed is set in localStorage
+          const completedKey = win.localStorage.getItem('phase-0-completed');
+          if (completedKey !== 'true') {
+            throw new Error("La Fase 0 no se marcó como completada en localStorage.");
+          }
+          
+          // Switch to advanced track
+          win.changeTrack('advanced');
+          await delay(50);
+          
+          // Verify if phase 0 is marked as completed in advanced track
+          const isCompletedAdvanced = win.localStorage.getItem('phase-0-completed') === 'true';
+          if (isCompletedAdvanced) {
+            throw new Error("¡VULNERABILIDAD DE FILTRADO DE COMPLETITUD! La Fase 0 se marca como completada en todos los tracks porque la llave 'phase-0-completed' no está segmentada por track.");
+          }
+        }
+      },
+      {
+        name: "ST-3: Theme Configuration Persistence Check",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          // Get current theme
+          const currentTheme = doc.body.getAttribute('data-theme') || 'dark';
+          const targetTheme = currentTheme === 'dark' ? 'light' : 'dark';
+          
+          // Toggle theme
+          win.toggleTheme();
+          await delay(50);
+          
+          const changedTheme = doc.body.getAttribute('data-theme');
+          if (changedTheme !== targetTheme) {
+            throw new Error(`El tema no cambió a ${targetTheme}`);
+          }
+          
+          // Simulate page reload/re-init
+          win.init();
+          await delay(50);
+          
+          const reloadedTheme = doc.body.getAttribute('data-theme') || 'dark';
+          if (reloadedTheme !== targetTheme) {
+            throw new Error("¡ERROR DE PERSISTENCIA DE TEMA! El tema seleccionado no se guardó en localStorage y se restableció al valor por defecto tras inicializar de nuevo.");
+          }
+        }
+      },
+      {
+        name: "ST-4: Theme Configuration Backup and Restore",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          // Set to light theme
+          document.body.setAttribute('data-theme', 'light');
+          win.updateThemeIcon();
+          await delay(50);
+          
+          win.exportData();
+          await delay(50);
+          
+          const textarea = doc.getElementById('backup-textarea');
+          const backupJSON = JSON.parse(textarea.value);
+          
+          if (!backupJSON['theme'] && !backupJSON['data-theme']) {
+            throw new Error("¡DATOS DE TEMA EXCLUIDOS DE LA EXPORTACIÓN! La configuración del tema no se incluye en el archivo JSON de copia de seguridad.");
+          }
+        }
+      },
+      {
+        name: "ST-5: Backup Import Merge Progress Leakage (Non-Destructive Overwrite)",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          // Simulate existing progress on current machine
+          win.localStorage.setItem('advanced-stage-1-task-0', 'true');
+          win.localStorage.setItem('simple-stage-1-task-0', 'true');
+          
+          // Simulate restoring a backup from another machine that has NO progress at all (empty backup)
+          win.openBackupModal();
+          await delay(50);
+          
+          const textarea = doc.getElementById('backup-textarea');
+          textarea.value = JSON.stringify({
+            "active-track": "simple"
+          });
+          
+          win.importData();
+          await delay(50);
+          
+          // Check if previous progress was cleared
+          const simpleVal = win.localStorage.getItem('simple-stage-1-task-0');
+          const advVal = win.localStorage.getItem('advanced-stage-1-task-0');
+          
+          if (simpleVal === 'true' || advVal === 'true') {
+            throw new Error("¡ERROR DE FUSIÓN EN RESTAURACIÓN! La importación de la copia de seguridad no limpia el progreso local preexistente que no está presente en la copia de seguridad. Esto produce una fuga/mezcla de progreso no deseada.");
+          }
+        }
+      },
+      {
+        name: "ST-6: Chat History Sharing Across Tracks",
+        fn: async (doc, win) => {
+          win.localStorage.clear();
+          
+          // Switch to simple track
+          win.changeTrack('simple');
+          await delay(50);
+          
+          // Write a chat message on Stage 1
+          win.selectStage(1);
+          await delay(50);
+          
+          const chatInput = doc.getElementById('chat-input');
+          chatInput.value = "Mensaje exclusivo de Simple Track";
+          win.sendChatMessage(1);
+          await delay(100);
+          
+          // Switch to advanced track
+          win.changeTrack('advanced');
+          await delay(50);
+          
+          // Go to Stage 1 and check chat history
+          win.selectStage(1);
+          await delay(50);
+          
+          const historyKey = 'socratic-chat-stage-1';
+          const history = JSON.parse(win.localStorage.getItem(historyKey) || '[]');
+          
+          const hasMsg = history.some(m => m.text.includes("Mensaje exclusivo de Simple Track"));
+          if (hasMsg) {
+            throw new Error("¡COMPARTICIÓN DE CHAT DETECTADA! El historial del chat de la etapa 1 se comparte entre tracks en lugar de estar aislado por el track activo.");
+          }
+        }
+      }
+    ];
+
+    async function runSuite() {
+      const summaryEl = document.getElementById('summary');
+      const tbody = document.getElementById('results-body');
+      
+      summaryEl.innerText = "Esperando que cargue el dashboard para pruebas de estrés...";
+      await delay(1500);
+      
+      let passedCount = 0;
+      let failedCount = 0;
+      const testReport = [];
+      const suiteStartTime = Date.now();
+      
+      for (let i = 0; i < stressTests.length; i++) {
+        const test = stressTests[i];
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td>${i + 1}</td>
+          <td>${test.name}</td>
+          <td id="status-${i}">Corriendo...</td>
+          <td id="time-${i}">-</td>
+          <td id="error-${i}">-</td>
+        `;
+        tbody.appendChild(row);
+        
+        const startTime = Date.now();
+        let status = 'passed';
+        let errorMsg = '';
+        
+        try {
+          const doc = getDoc();
+          const win = getWin();
+          
+          // Clear any state between tests
+          win.localStorage.clear();
+          win.init();
+          await delay(50);
+          
+          await test.fn(doc, win);
+          passedCount++;
+        } catch (err) {
+          status = 'failed';
+          errorMsg = err.message || err.toString();
+          failedCount++;
+        }
+        
+        const duration = Date.now() - startTime;
+        
+        const statusTd = document.getElementById(`status-${i}`);
+        statusTd.innerText = status === 'passed' ? 'PASSED' : 'FAILED';
+        statusTd.className = status === 'passed' ? 'status-passed' : 'status-failed';
+        document.getElementById(`time-${i}`).innerText = `${duration}ms`;
+        
+        if (status === 'failed') {
+          document.getElementById(`error-${i}`).innerText = errorMsg;
+        }
+        
+        testReport.push({
+          name: test.name,
+          status: status,
+          duration_ms: duration,
+          error: status === 'failed' ? errorMsg : undefined
+        });
+        
+        await delay(50);
+      }
+      
+      const totalDuration = Date.now() - suiteStartTime;
+      summaryEl.innerText = `Pruebas de estrés completadas: ${passedCount} pasaron, ${failedCount} fallaron en ${totalDuration}ms`;
+      
+      const resultsPayload = {
+        summary: {
+          total: stressTests.length,
+          passed: passedCount,
+          failed: failedCount,
+          duration_ms: totalDuration
+        },
+        tests: testReport
+      };
+      
+      // Enviar resultados al servidor local de pruebas
+      try {
+        await fetch('/api/results', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(resultsPayload)
+        });
+      } catch (err) {
+        console.error("Error al reportar resultados de estrés:", err);
+      }
+    }
+
+    window.addEventListener('load', runSuite);
+  </script>
+</body>
+</html>

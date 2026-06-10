@@ -1,13 +1,13 @@
 ---
-title: "Etapa 84 — Frantz Fanon — Los condenados de la tierra"
+title: "Etapa 69 — Frantz Fanon — Los condenados de la tierra"
 ---
 
-# Etapa 84 — Frantz Fanon — Los condenados de la tierra
+# Etapa 69 — Frantz Fanon — Los condenados de la tierra
 
 > La descolonización es siempre un fenómeno violento. En cualquier nivel que se estudie... la descolonización es simplemente la sustitución de una "especie" de hombres por otra "especie" de hombres.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 7 días (Lectura densa)</span> · <span>:material-progress-check: Etapa 84/103</span> · <span>:material-bookmark: Anticolonialismo</span>
+<span>:material-clock-outline: 7 días (Lectura densa)</span> · <span>:material-progress-check: Etapa 69/103</span> · <span>:material-bookmark: Anticolonialismo</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">

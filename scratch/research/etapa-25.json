@@ -1,0 +1,81 @@
+{
+  "debate_deep": {
+    "intro": "La Fenomenologia del espiritu de Hegel contiene en su seccion sobre autoconciencia la dialectica del amo y el esclavo (Herrschaft und Knechtschaft): dos autoconciencias se enfrentan en una lucha a muerte por reconocimiento, hasta que una se somete por miedo a morir y otra domina. El nudo politico es que la dominacion fracasa como fuente de reconocimiento, porque el amo solo recibe el reconocimiento de un siervo a quien no reconoce como igual, mientras el esclavo, mediante el trabajo y la disciplina del miedo, accede a una autoconciencia que el amo no alcanza. De ahi Hegel deriva una tesis fuerte: la libertad genuina no es independencia solitaria sino reconocimiento reciproco, que solo se realiza dentro de un orden institucional de derechos y de eticidad (Sittlichkeit). El debate sigue abierto porque enfrenta lecturas opuestas sobre que significa ese reconocimiento, si la historia tiene un fin, y si el armazon idealista de Hegel es liberador o mistificador.",
+    "supporters": [
+      {
+        "school": "Lectura antropologica de Kojeve (deseo y fin de la historia)",
+        "view": "Alexandre Kojeve, en sus seminarios parisinos de los anos treinta, lee la dialectica como clave de toda la historia humana: el hombre se distingue del animal porque desea el deseo del otro, es decir, busca ser reconocido. El motor de la historia es esa lucha por reconocimiento, que culmina en un reconocimiento universal y reciproco, el Estado homogeneo universal, donde la historia llega a su fin. Esta lectura, aunque heterodoxa, fue enormemente influyente sobre la filosofia francesa del siglo XX y, mas tarde, sobre Fukuyama."
+      },
+      {
+        "school": "Tesis del fin de la historia (Francis Fukuyama)",
+        "view": "Fukuyama retoma a Kojeve y Hegel para sostener que la democracia liberal capitalista es la forma final de gobierno humano, el punto en que la lucha ideologica por reconocimiento (lo que llama thymos, el deseo de reconocimiento) queda satisfecha. La historia entendida como evolucion ideologica habria culminado; los conflictos restantes serian de implementacion, no de principio."
+      },
+      {
+        "school": "Teoria critica del reconocimiento (Axel Honneth)",
+        "view": "Honneth, en La lucha por el reconocimiento, reconstruye la intuicion hegeliana como teoria social: la formacion de la persona depende de tres esferas de reconocimiento, el amor, el derecho y la solidaridad o estima social. Las luchas sociales se originan en experiencias de menosprecio (Missachtung) y la injusticia se entiende, en el fondo, como denegacion de reconocimiento. Asi actualiza a Hegel como fundamento normativo de la teoria critica contemporanea."
+      },
+      {
+        "school": "Politica del reconocimiento (Charles Taylor)",
+        "view": "Taylor sostiene que el reconocimiento es una necesidad humana vital y que la identidad se forma dialogicamente; el falso reconocimiento o su ausencia pueden ser una forma de opresion. De ahi deriva una politica que combina el reconocimiento universal de la dignidad igual con el reconocimiento de la diferencia, base de los debates sobre multiculturalismo y derechos de las minorias."
+      },
+      {
+        "school": "Lectura post-kantiana o no metafisica (Robert Pippin, Terry Pinkard)",
+        "view": "Pippin y Pinkard releen a Hegel como continuador critico de Kant, no como metafisico dogmatico del Absoluto. El Geist no es una entidad teologica sino nuestra constitucion racional compartida; la libertad es autodeterminacion racional que solo se realiza en practicas sociales de dar y pedir razones y en el reconocimiento mutuo. Esta lectura conecta a Hegel con el pragmatismo y la filosofia analitica (Sellars, Brandom) y lo defiende del cargo de oscurantismo."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Inversion materialista de Marx",
+        "view": "Marx conserva la dialectica hegeliana pero la declara invertida: en Hegel esta de cabeza y debe ponerse sobre los pies para hallar el nucleo racional dentro de la envoltura mistica. El motor de la historia no es el espiritu ni la conciencia sino las condiciones materiales y las relaciones de produccion. La lucha por reconocimiento se traduce en lucha de clases, y la emancipacion no se consuma en una reconciliacion del pensamiento sino en la transformacion practica del mundo."
+      },
+      {
+        "school": "Marxismo hegeliano (Georg Lukacs)",
+        "view": "Lukacs reivindica la deuda de Marx con Hegel pero historiza y limita la dialectica: en Historia y conciencia de clase sostiene que la dialectica solo opera donde hay unidad de sujeto y objeto y de teoria y praxis, es decir, en la sociedad, y critica su extension a la naturaleza. Reformula el reconocimiento como problema de reificacion y de la conciencia de clase del proletariado, no como reconciliacion espiritual."
+      },
+      {
+        "school": "Liberalismo antitotalitario (Karl Popper, Bertrand Russell)",
+        "view": "Popper, en La sociedad abierta y sus enemigos, presenta a Hegel como fuente intelectual del totalitarismo: su historicismo, la creencia en leyes inevitables de la historia con un fin predeterminado, justificaria el sacrificio del presente y la concentracion de poder. Acusa ademas su prosa de mistificacion oscura. Russell, que respaldo la obra de Popper, comparte el rechazo a la oscuridad y al estatismo hegelianos. Criticos como Walter Kaufmann replicaron que Popper repite mitos de larga data sobre Hegel."
+      },
+      {
+        "school": "Critica feminista (Simone de Beauvoir)",
+        "view": "Beauvoir, que leyo a Hegel a traves de Kojeve, aplica la dialectica amo-esclavo a la condicion de la mujer en El segundo sexo: la mujer es construida como el Otro absoluto del varon. Pero introduce una diferencia decisiva: a diferencia del esclavo hegeliano, las mujeres estan dispersas entre los hombres y carecen de la solidaridad y la conciencia historica para organizarse como sujeto colectivo; son el Otro inesencial. El reconocimiento reciproco que la dialectica promete queda bloqueado por la estructura patriarcal."
+      },
+      {
+        "school": "Relectura postestructuralista del deseo (Judith Butler)",
+        "view": "Butler, en Subjects of Desire, examina la recepcion francesa de Hegel (via Kojeve, Hyppolite, Lacan) y muestra que el sujeto del deseo es inestable: el yo debe perderse y reconstituirse, el deseo es siempre falta y apertura al Otro. De ahi extrae una critica a las politicas de reconocimiento: como la identidad de genero se constituye en normas atravesadas por el poder, demandar reconocimiento puede reinscribir las mismas categorias opresivas que se buscan superar."
+      }
+    ],
+    "contrasts": "El desacuerdo no recae tanto en el texto de Hegel como en que se hace con el. Una linea (Kojeve, Fukuyama) lo lee como filosofia de la historia que culmina en un reconocimiento universal ya realizado o realizable; otra (Honneth, Taylor) extrae de la dialectica una teoria normativa del reconocimiento todavia incumplida, motor de luchas presentes. Frente a ambas, la tradicion marxista acepta la dialectica pero la invierte: el reconocimiento espiritual seria ideologia mientras persistan la explotacion material y las clases. Los criticos liberales antitotalitarios atacan el armazon mismo, su historicismo y su oscuridad, aunque su lectura ha sido cuestionada como caricatura. Las criticas feminista y postestructuralista operan desde dentro: usan la potencia descriptiva del amo-esclavo pero muestran sus puntos ciegos, el genero en Beauvoir, la inestabilidad del sujeto y los riesgos del reconocimiento en Butler. Entre medio, las lecturas no metafisicas de Pippin y Pinkard intentan salvar a Hegel de la acusacion de misticismo reinterpretando el Geist como racionalidad social compartida. El resultado es un texto cuya tesis central, que no hay libertad sin reconocimiento reciproco, es ampliamente compartida, mientras se disputa abiertamente su fundamento metafisico, su direccion historica y su suficiencia material.",
+    "sources": [
+      {
+        "label": "Recognition - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/recognition/"
+      },
+      {
+        "label": "Alexandre Kojeve - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/kojeve/"
+      },
+      {
+        "label": "Recognition, Social and Political - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/recog_sp/"
+      },
+      {
+        "label": "Georg Wilhelm Friedrich Hegel - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/hegel/"
+      },
+      {
+        "label": "Simone de Beauvoir - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/beauvoir/"
+      },
+      {
+        "label": "Karl Marx, Afterword to the Second German Edition of Capital Vol. I (1873) - marxists.org",
+        "url": "https://www.marxists.org/archive/marx/works/1867-c1/p3.htm"
+      },
+      {
+        "label": "Karl Popper: Political Philosophy - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/popp-pol/"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre la Fenomenologia del espiritu de Hegel, con foco en la dialectica del amo y el esclavo, el reconocimiento y la libertad. No me des respuestas: hace preguntas, una por vez. Empeza preguntandome esto: cuando el amo vence en la lucha a muerte y somete al esclavo, por que el reconocimiento que recibe del esclavo termina siendo insatisfactorio para el amo? Cuando afirme algo, pedime razones y opone objeciones reales nombradas: la lectura de Kojeve (el deseo del deseo del otro, el fin de la historia); la inversion materialista de Marx (la dialectica esta de cabeza, hay que ponerla sobre los pies; el reconocimiento como ideologia frente a la explotacion); el cargo de Popper en La sociedad abierta (historicismo y oscuridad); la objecion de Beauvoir (la mujer como Otro inesencial que no puede organizarse como el esclavo); la sospecha de Butler (demandar reconocimiento puede reinscribir las normas que oprimen). Si me trabo, dame una pista, no la respuesta."
+}

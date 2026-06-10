@@ -1,0 +1,77 @@
+{
+  "debate_deep": {
+    "intro": "El nucleo politico de las Analectas (Lunyu) descansa en una tesis fuerte: el orden no se logra por la coaccion sino por la virtud y el ejemplo moral. En el pasaje 2.3, Confucio contrasta dos modos de gobierno: 'si guias al pueblo con leyes y lo uniformas con castigos, lo evadira y no tendra sentido de la verguenza; si lo guias con la virtud (de) y lo uniformas con los ritos (li), tendra sentido de la verguenza y se corregira por si mismo'. De ahi se desprende toda la arquitectura politica confuciana: el gobernante legitima su autoridad por su caracter moral (el simil del viento y la hierba en 12.19), el ren (humanidad, benevolencia) como disposicion central, el li (ritos) como gramatica del orden social, la piedad filial (xiao) como raiz domestica de la obediencia politica (1.2: quien es filial rara vez se rebela contra sus superiores), y la rectificacion de los nombres (zhengming, 13.3) como condicion para que el lenguaje, las funciones y el poder coincidan. Esto define el contraste clasico con el legalismo de Han Fei, que confia en leyes publicas, recompensas y castigos en vez de en la virtud del soberano. El debate sigue vivo porque la misma matriz -virtud, jerarquia, armonia, ritos- es leida hoy por unos como base de una alternativa meritocratica o de una democracia confuciana, y por otros como justificacion del autoritarismo, de la jerarquia y de la subordinacion de la mujer.",
+    "supporters": [
+      {
+        "school": "Nuevo Confucianismo y humanismo confuciano (Tu Weiming)",
+        "view": "Tu Weiming, confuciano de tercera generacion, sostiene que el confucianismo de la 'tercera epoca' debe responder a los desafios de la ciencia, la democracia, la religiosidad occidental y el psicoanalisis, integrando selectivamente valores como la razon, la libertad, la igualdad y el imperio de la ley sin perder la identidad cultural confuciana. Para Tu el fin de la politica no es solo el orden legal sino construir una 'comunidad fiduciaria' basada en la confianza mutua, moralizando la politica mediante la rectificacion del caracter del gobernante. Lee el confucianismo como compatible con la modernidad democratica en una clave de 'modernidades multiples'."
+      },
+      {
+        "school": "Meritocracia politica (Daniel A. Bell, 'The China Model')",
+        "view": "Bell defiende que la nocion de democracia como sufragio universal es defectuosa y que una meritocracia politica de raiz confuciana -seleccionar a los lideres por su capacidad intelectual y moral y no por elecciones- puede ser un sistema superior o complementario. Apoyandose en el ideal confuciano del gobernante virtuoso y en el valor de la armonia, sostiene que la competencia individualista de la democracia electoral genera campanas de difamacion y cortoplacismo que un sistema meritocratico evitaria, y propone un modelo hibrido ('democracia en la base, meritocracia en la cumbre')."
+      },
+      {
+        "school": "Confucianismo institucional / constitucionalismo confuciano (Jiang Qing)",
+        "view": "Jiang Qing, desde la Escuela Gongyang, rechaza que el consentimiento del pueblo sea la fuente principal de la legitimidad y propone una 'autoridad humana' (wang dao) fundada en tres fuentes de legitimidad: el Cielo, la tierra (la continuidad historica y cultural) y el pueblo. De ahi deriva un orden constitucional confuciano con una legislatura tricameral y un monarca simbolico que encarne la continuidad del Estado. Es el intento mas sistematico de traducir las Analectas en instituciones politicas alternativas tanto al statu quo chino como a la democracia liberal de estilo occidental."
+      },
+      {
+        "school": "Defensa de los 'valores asiaticos' (Lee Kuan Yew)",
+        "view": "Lee Kuan Yew, en el debate de los anos noventa que arranca en la Conferencia de Viena de 1993, argumenta que las sociedades asiaticas tienen valores propios -respeto a la autoridad, primacia de la comunidad sobre el individuo, armonia social- de raiz confuciana, y que imponer la democratizacion a marcha forzada dana su desarrollo socioeconomico y favorece patologias sociales que se ven en Occidente. Reivindica asi una version del orden confuciano como base de un autoritarismo desarrollista legitimo y culturalmente arraigado."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica liberal a la meritocracia y al apologismo (resenas de 'The China Model')",
+        "view": "Criticos liberales y socialistas (entre ellos Bai Tongdong en la resena de Notre Dame) reprochan a Bell que conceda demasiado credito al regimen chino actual y muy poco a sus criticas, que asuma que su exito continuara indefinidamente y que su defensa del partido unico como condicion de la seleccion meritocratica es debil, pues existen canales alternativos para el talento. Mas alla de la resena academica, la objecion recurrente es que la 'meritocracia confuciana' funciona de hecho como apologia del Partido Comunista y de un poder sin rendicion de cuentas."
+      },
+      {
+        "school": "Critica liberal de Amartya Sen (los derechos no son ajenos a Asia)",
+        "view": "Sen, en 'Human Rights and Asian Values' (1997), rechaza que la libertad y los derechos sean nociones 'occidentales' ajenas a Asia y denuncia el caracter groseramente esencialista de la tesis de los 'valores asiaticos'. Muestra ademas que el propio Confucio no es un autoritario monolitico: aconsejaba decir la verdad al principe aunque le ofenda y reconocia tensiones entre la lealtad familiar y la obediencia al Estado. La defensa de la libertad, sostiene, es tan fuerte en Asia como en cualquier otra parte."
+      },
+      {
+        "school": "Critica feminista al patriarcado confuciano",
+        "view": "La critica feminista senala que las Analectas asignan a la mujer el rol domestico y al varon la esfera publica, y se apoya en pasajes como 17.25 ('solo las mujeres y los hombres mezquinos son dificiles de tratar') para mostrar el desprecio por el caracter moral femenino. La escasez de referencias positivas a las mujeres dejo espacio a interpretaciones posteriores que naturalizaron su subordinacion mediante la ideologia yin/yang. Para esta linea, la jerarquia de genero esta embebida en la propia estructura relacional del orden confuciano."
+      },
+      {
+        "school": "Critica legalista (Han Fei: gobierno por la ley, no por la virtud)",
+        "view": "Desde el legalismo, confiar el orden en la virtud personal del gobernante es ingenuo e inestable: hace falta gobernar con estandares publicos, leyes, recompensas y castigos, y emparejar los 'nombres' (las funciones declaradas) con los resultados efectivos para premiar o castigar. Frente al ideal confuciano del soberano sabio que se da raramente, Han Fei propone instituciones impersonales que funcionen aun con gobernantes mediocres, anticipando la objecion moderna de que la virtud sin reglas ni controles deja el poder sin limites."
+      },
+      {
+        "school": "Critica al fundamento monarquico y jerarquico (lectura historica)",
+        "view": "Una linea historiografica subraya que el pensamiento confuciano clasico fue fundamentalmente monarquico y jerarquico, no democratico, y que armonizarlo con la democracia exige reconstrucciones modernas (como las de Mou Zongsan, que separan moralidad personal y estandar politico). Para estos criticos, presentar las Analectas como compatibles con la igualdad ciudadana proyecta categorias contemporaneas sobre un texto cuya logica es la del orden estamental y la deferencia a los superiores."
+      }
+    ],
+    "contrasts": "El contraste de fondo enfrenta dos respuestas a la pregunta de que sostiene el orden politico: la virtud ejemplar y los ritos interiorizados (de y li), o las leyes impersonales y los controles institucionales. Quienes recuperan las Analectas -el Nuevo Confucianismo de Tu Weiming, la meritocracia de Bell, el constitucionalismo de Jiang Qing y los defensores de los valores asiaticos- valoran que el ideal del gobernante virtuoso, la armonia y la comunidad fiduciaria ofrecen un fundamento sustantivo del bien comun y de la competencia moral del poder que, segun ellos, la democracia electoral procedimental no garantiza. Pero deben mostrar como evitar que ese ideal, sin rendicion de cuentas ni igualdad de derechos, se deslice hacia la justificacion del autoritarismo: es justo lo que objetan Sen (los derechos no son ajenos a Asia), los criticos liberales de Bell (apologia del partido unico), la critica feminista (la jerarquia de genero embebida) y el propio legalismo de Han Fei (la virtud sin reglas deja el poder sin limites). El lector debe juzgar si el gobierno por la virtud y la jerarquia armonica son un nucleo recuperable y reconstruible en clave democratica, o un marco cuya logica jerarquica y deferente contamina tambien cualquier intento de hacerlo compatible con la igualdad y la libertad modernas.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy - Confucius",
+        "url": "https://plato.stanford.edu/entries/confucius/"
+      },
+      {
+        "label": "Stanford Encyclopedia of Philosophy - Social and Political Thought in Chinese Philosophy",
+        "url": "https://plato.stanford.edu/entries/chinese-social-political/"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy - Tu Weiming",
+        "url": "https://iep.utm.edu/tu-weimi/"
+      },
+      {
+        "label": "Princeton University Press - Daniel A. Bell, The China Model: Political Meritocracy and the Limits of Democracy",
+        "url": "https://press.princeton.edu/books/paperback/9780691173047/the-china-model"
+      },
+      {
+        "label": "Notre Dame Philosophical Reviews - Resena critica de The China Model",
+        "url": "https://ndpr.nd.edu/reviews/the-china-model-political-meritocracy-and-the-limits-of-democracy/"
+      },
+      {
+        "label": "Princeton University Press - Jiang Qing, A Confucian Constitutional Order",
+        "url": "https://press.princeton.edu/books/hardcover/9780691154602/a-confucian-constitutional-order"
+      },
+      {
+        "label": "Carnegie Council - Amartya Sen, Human Rights and Asian Values (Morgenthau Lecture, 1997)",
+        "url": "https://www.carnegiecouncil.org/media/series/morgenthau/morgenthau-lectures-1981-2006-human-rights-and-asian-values"
+      }
+    ]
+  },
+  "socratic": "Sos un tutor socratico de teoria politica y vamos a trabajar sobre las 'Analectas' (Lunyu) de Confucio. Reglas: hace una sola pregunta por turno y espera mi respuesta antes de seguir; nunca me des la respuesta hecha; despues de cada respuesta mia pedime las razones ('por que?', 'en que te basas?', 'que pasaje lo sostiene?') y oponeme una objecion real y nombrada de la tradicion; si me trabo, dame una pista breve en vez de la solucion. Las objeciones tienen que venir de posiciones reales: el legalismo de Han Fei (gobierno por la ley y el castigo, no por la virtud), la critica de Amartya Sen a los 'valores asiaticos' (la libertad y los derechos no son ajenos a Asia), la meritocracia politica de Daniel A. Bell, el constitucionalismo confuciano de Jiang Qing, el Nuevo Confucianismo de Tu Weiming y la critica feminista al patriarcado confuciano. Empeza ahora con esta pregunta y nada mas: Confucio dice en 2.3 que si guias al pueblo con leyes y castigos lo evadira sin verguenza, pero que si lo guias con la virtud (de) y los ritos (li) tendra verguenza y se corregira solo. Que crees que significa exactamente gobernar 'por la virtud y el ejemplo', y por que tendria que ser mas eficaz que gobernar con leyes claras y castigos?"
+}

@@ -1,0 +1,77 @@
+{
+  "debate_deep": {
+    "intro": "De los medios a las mediaciones (1987) no es un libro sobre medios sino un giro de mirada: Jesus Martin-Barbero propone dejar de partir de los medios, los mensajes y sus efectos para partir de la cultura, es decir de los procesos sociales y de los usos populares en los que la comunicacion cobra sentido. El titulo condensa la tesis: lo decisivo no esta en el aparato tecnico ni en el contenido emitido, sino en las mediaciones, esas instancias culturales desde las que los publicos producen y reconocen sentido. El autor las ancla en tres lugares concretos que despues se vuelven su mapa de investigacion: la cotidianidad familiar (el espacio domestico donde se ve television y se negocia su significado), la temporalidad social (el tiempo repetitivo y del ocio frente al tiempo productivo del capital) y la competencia cultural (los saberes y matrices narrativas con que cada sector lee los medios). Sobre esa base reabre dos discusiones de fondo. Primero, la de lo popular-masivo: contra la tradicion frankfurtiana y contra cierto marxismo latinoamericano que veian en la cultura de masas pura alienacion y manipulacion, Martin-Barbero sostiene que lo masivo es tambien una forma de existencia de lo popular, un terreno de luchas y de reconocimiento, no solo de dominacion. Segundo, la relectura de Gramsci: toma la hegemonia como proceso de negociacion y consenso, no como imposicion mecanica, lo que le permite romper con la teoria de la dependencia y con la tesis del imperialismo cultural entendida como inoculacion directa de ideologia desde el centro hacia la periferia. El debate de post-lectura tiene entonces dos planos. Uno celebra el desplazamiento como la partida de nacimiento de una escuela latinoamericana de comunicacion propia, centrada en la recepcion activa y los usos sociales. Otro advierte que ese mismo desplazamiento, llevado al extremo, puede deslizarse hacia un populismo cultural que celebra al consumidor, sobreestima la resistencia del placer popular y descuida la economia politica y el poder real de los medios. A esos planos se suma hoy la pregunta por la vigencia del mapa en la era de las plataformas y los algoritmos, reavivada tras la muerte del autor en 2021.",
+    "supporters": [
+      {
+        "school": "Escuela latinoamericana de comunicacion y estudios de recepcion (Guillermo Orozco Gomez, modelo de las multimediaciones y el uso social de los medios, Mexico)",
+        "view": "Orozco lee el desplazamiento de los medios a las mediaciones como la refundacion del campo: corre el foco del efecto del mensaje a las practicas de recepcion, mostrando que el sentido se produce en la negociacion cultural y no se transmite de forma directa. Operacionaliza ese giro en un modelo de multimediaciones (individual, situacional, institucional, videotecnologica) para investigar empiricamente a las audiencias televisivas, anclando el analisis en sectores concretos y en su produccion social de sentido sin caer en el determinismo tecnologico."
+      },
+      {
+        "school": "Estudios culturales latinoamericanos e hibridacion (Nestor Garcia Canclini, Culturas hibridas)",
+        "view": "Garcia Canclini reconoce que los analisis de Martin-Barbero sobre los procesos de recepcion y consumo, situados en las mediaciones sociales, renovaron el pensamiento critico y abrieron estrategias de exploracion ineditas. Comparte el desplazamiento hacia el consumo y la cultura como lugar donde se disputan identidad y poder, y prolonga la critica a las visiones que reducen lo masivo a alienacion, pensando America Latina desde la hibridacion entre lo culto, lo popular y lo masivo."
+      },
+      {
+        "school": "Lectura historico-politica de la obra (Fabio Lopez de la Roche, en Mapas nocturnos, Siglo del Hombre Editores)",
+        "view": "Lopez de la Roche subraya que el supuesto giro culturalista de Martin-Barbero conserva una preocupacion permanente por lo politico: el libro estudia como dominacion, resistencia y negociacion operan en lo cultural. Valora que reconozca a las culturas populares como legitimas sin romantizarlas, que entienda lo masivo como una forma de existencia de lo popular y que piense el nudo entre Estado, nacion y pueblo (el Estado busca legitimarse en la imagen del pueblo y el pueblo busca ciudadania en el reconocimiento oficial), recuperando asi la deuda con Gramsci."
+      },
+      {
+        "school": "Relectura digital y vigencia del mapa (Maria Belen Fernandez Massara, mediaciones tecnoeducativas, Comunicacion y sociedad)",
+        "view": "Fernandez Massara defiende que el doble desplazamiento de Martin-Barbero (de los medios a las mediaciones y de la comunicacion a la cultura) sigue siendo vital para pensar las tecnologias de informacion y comunicacion. Articula las mediaciones con la categoria de apropiacion: el acceso tecnico no garantiza democratizacion, hace falta una apropiacion critica en sus dimensiones cognitiva y simbolica. Sostiene que las audiencias resignifican y a veces subvierten los sentidos hegemonicos de la cultura masiva, lo que mantiene fertil el marco original frente a la pantalla digital."
+      },
+      {
+        "school": "Actualizacion del mapa a la era de plataformas (Kerley Winques, Mapa de las mediaciones algoritmicas, Chasqui, 2024)",
+        "view": "Winques prolonga los mapas nocturnos de Martin-Barbero hacia el presente proponiendo un mapa de las mediaciones algoritmicas: cartografia flexible para estudiar como los artefactos tecnicos median los procesos sociales de uso, apropiacion y produccion de sentido. Argumenta que ya es dificil separar los algoritmos de las actividades que constituyen cultura y politica, y que el esquema barberiano permite captar a la vez las constricciones estructurales de las plataformas y las resistencias creativas de los usuarios latinoamericanos, frente a la desigualdad digital y el colonialismo de datos."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica del populismo cultural (Jim McGuigan, Cultural Populism, 1992)",
+        "view": "McGuigan formula la objecion mas citada contra el giro a la recepcion: el populismo cultural es el supuesto, propio de cierto estudio de la cultura popular, de que las experiencias simbolicas de la gente comun importan analitica y politicamente mas que la Cultura con mayuscula. Acusa a esa corriente (su blanco principal es John Fiske, pero alcanza a toda celebracion de la audiencia activa) de derivar de una ideologia neoclasica de soberania del consumidor, de volverse exclusivamente consumista y de descuidar las condiciones materiales de produccion. Lo que se presenta como potencial resistente y subversivo del placer popular, sostiene, suele ser ilusorio e ideologicamente ingenuo, porque sobredimensiona la agencia y minimiza las estructuras economicas y politicas."
+      },
+      {
+        "school": "Economia politica de la comunicacion",
+        "view": "Desde la economia politica critica (en la linea de Nicholas Garnham, Peter Golding y Graham Murdock) se objeta que el entusiasmo por la recepcion y los usos populares despolitiza el analisis al desplazar la atencion de la propiedad de los medios, la concentracion, la publicidad y la logica de acumulacion. El propio Martin-Barbero admitia que la economia politica descuidaba la recepcion; esta corriente devuelve el reproche simetrico: centrarse en el consumo y el sentido sin estudiar la produccion y el poder economico deja intacto el poder real de los conglomerados y subestima la dimension estructural de la dominacion mediatica."
+      },
+      {
+        "school": "Critica al funcionalismo de izquierda y al optimismo de la resistencia",
+        "view": "Una linea critica dentro del propio campo latinoamericano advierte que la teoria critica de la comunicacion se libero del funcionalismo norteamericano pero conservo rasgos suyos, quedando como un funcionalismo de izquierda. Aplicado al giro de las mediaciones, el riesgo es transformar todo consumo en resistencia y toda recepcion activa en autonomia, perdiendo capacidad para distinguir cuando el publico negocia el sentido y cuando simplemente reproduce el orden hegemonico. La celebracion del consumidor activo correria el riesgo de naturalizar el statu quo bajo el ropaje de la agencia popular."
+      },
+      {
+        "school": "Critica de la vaguedad conceptual y la operacionalizacion de las mediaciones",
+        "view": "Investigadores de la recepcion, incluido en parte el propio Orozco, senalan que la categoria de mediacion en Martin-Barbero es teoricamente potente pero dificil de operacionalizar: al ubicar las mediaciones en la cultura y la cotidianidad, queda un concepto amplio y elastico que cada estudio rellena de modo distinto, lo que complica la comparacion empirica y la verificacion. La objecion no niega el aporte sino que reclama precisar donde estan las mediaciones y como se miden, para que el programa no se vuelva un ensayismo culturalista sin contrastacion."
+      },
+      {
+        "school": "Debate sobre la vigencia del mapa en la era de plataformas y algoritmos",
+        "view": "Una discusion mas reciente cuestiona si el mapa de las mediaciones, pensado para la television y la cultura masiva del siglo XX, alcanza para la mediacion algoritmica. La objecion es que las plataformas no solo son apropiadas por usuarios activos sino que estructuran activamente la circulacion mediante datos, recomendacion y vigilancia, reintroduciendo una asimetria de poder que el enfasis barberiano en la recepcion creativa tiende a opacar. De ahi los intentos de reactualizar o reemplazar el mapa, que reconocen su valor fundacional pero discuten su suficiencia frente al colonialismo de datos."
+      }
+    ],
+    "contrasts": "El nudo del debate es hasta donde llevar el desplazamiento. Para los partidarios (Orozco, Garcia Canclini, Lopez de la Roche) pasar de los medios a las mediaciones no fue abandonar el poder sino reubicarlo: la hegemonia gramsciana es negociacion y consenso, lo masivo es terreno de lucha y no solo alienacion, y reconocer la recepcion activa corrige tanto el mecanicismo del imperialismo cultural como la unilateralidad de la teoria de la dependencia. Para los criticos (McGuigan, la economia politica, la critica al funcionalismo de izquierda) ese mismo movimiento puede deslizarse en su contrario: convertir cada consumo en resistencia, celebrar al consumidor y despolitizar el analisis al perder de vista la propiedad de los medios y la logica economica. El punto exacto de friccion es el placer popular: lo que para una parte es agencia y produccion de sentido, para la otra es ilusion de soberania que minimiza las estructuras. Cruza ambos bandos una objecion metodologica, en parte interna a la escuela: la mediacion es un concepto fertil pero elastico, dificil de operacionalizar y verificar. Y por encima de todo gravita la pregunta contemporanea, agudizada tras la muerte de Martin-Barbero en 2021: si un mapa disenado para la cultura masiva televisiva sigue sirviendo cuando la mediacion la ejercen plataformas, datos y algoritmos que estructuran la circulacion antes de que el usuario la apropie. Los homenajes recientes oscilan entre reivindicar la vigencia del marco y reescribirlo como mapa de mediaciones algoritmicas.",
+    "sources": [
+      {
+        "label": "Guillermo Orozco Gomez, De las mediaciones a los medios. Contribuciones de la obra de Martin-Barbero al estudio de los medios y sus procesos de recepcion, en Mapas nocturnos (Siglo del Hombre Editores, OpenEdition Books)",
+        "url": "https://books.openedition.org/sdh/135?lang=en"
+      },
+      {
+        "label": "Fabio Lopez de la Roche, Historia y politica en De los medios a las mediaciones de Jesus Martin-Barbero, en Mapas nocturnos (Siglo del Hombre Editores, OpenEdition Books)",
+        "url": "https://books.openedition.org/sdh/139?lang=en"
+      },
+      {
+        "label": "Maria Belen Fernandez Massara, Mediaciones tecnoeducativas. Consideraciones teoricas a partir de la obra de Jesus Martin-Barbero, Comunicacion y sociedad num. 27 (2016), SciELO",
+        "url": "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-252X2016000300197"
+      },
+      {
+        "label": "Cultural Populism (Jim McGuigan): la critica al populismo cultural, la audiencia activa, Fiske, la soberania del consumidor y el descuido de la economia politica. European Center for Populism Studies",
+        "url": "https://www.populismstudies.org/Vocabulary/cultural-populism/"
+      },
+      {
+        "label": "Kerley Winques, Mapa de las mediaciones algoritmicas: pistas para entrever los usos sociales de las tecnologias digitales, Chasqui. Revista Latinoamericana de Comunicacion (2024)",
+        "url": "https://revistachasqui.org/index.php/chasqui/article/view/5005"
+      },
+      {
+        "label": "De los medios a las mediaciones (Wikipedia en espanol): tesis del libro, mediaciones, recepcion activa, Gramsci y hegemonia, lo popular-masivo",
+        "url": "https://es.wikipedia.org/wiki/De_los_medios_a_las_mediaciones"
+      }
+    ]
+  },
+  "socratic": "Sos un tutor socratico de teoria de la comunicacion y vamos a pensar juntos De los medios a las mediaciones de Jesus Martin-Barbero, sobre todo el paso de los medios a las mediaciones. Reglas: preguntame de a una pregunta por vez, nunca me des la respuesta, exigime siempre que justifique con razones o con el texto, y cuando yo afirme algo oponeme una objecion real de un autor o escuela nombrada (Jim McGuigan y el populismo cultural, la economia politica de la comunicacion, la critica al funcionalismo de izquierda, la objecion de que la mediacion es un concepto difícil de operacionalizar, el debate sobre las plataformas y los algoritmos). Si me trabo, dame una pista, no la solucion. Arranca con esta pregunta concreta: cuando Martin-Barbero dice que hay que pasar de los medios a las mediaciones, que es exactamente lo que pide dejar de mirar y que pide empezar a mirar, y por que sostiene que el sentido de un programa de television no esta en el mensaje sino en la cotidianidad familiar, la temporalidad social y la competencia cultural de quien lo recibe? Despues de mi respuesta, segui indagando: pediime un ejemplo concreto de las tres mediaciones y preguntame si en ese ejemplo el publico de verdad produce un sentido propio o solo cree hacerlo. Cuando defienda la recepcion activa y el placer popular como resistencia, oponeme la objecion de McGuigan (que eso es populismo cultural, soberania del consumidor e ingenuidad ideologica) y la de la economia politica (que centrarse en el consumo despolitiza y deja intacta la propiedad de los medios); pedime que distinga cuando el publico negocia el sentido y cuando reproduce el orden hegemonico. Mas adelante llevame a la relectura de Gramsci (la hegemonia es consenso o imposicion?, en que se diferencia esto de la tesis del imperialismo cultural y de la teoria de la dependencia?), a la objecion metodologica (como se mide una mediacion?, donde esta?) y, al final, a la vigencia del mapa: sigue sirviendo el esquema pensado para la television cuando la mediacion la ejercen plataformas, datos y algoritmos que ordenan la circulacion antes de que yo apropie nada? Cerra siempre devolviendome la pregunta de si mi interpretacion sostiene a la vez la agencia del publico y el poder real de los medios, sin sacrificar ninguno de los dos."
+}

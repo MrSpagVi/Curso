@@ -1,0 +1,69 @@
+{
+  "debate_deep": {
+    "intro": "Desde su publicacion en 1971, la Teoria de la Justicia de Rawls se volvio el eje obligado del debate sobre justicia distributiva: casi todas las corrientes posteriores se definieron por su acuerdo o rechazo con la posicion original, el velo de ignorancia y el principio de diferencia. El debate sigue vivo porque condensa tensiones irresueltas entre libertad e igualdad, entre individuo y comunidad, y entre la distribucion de recursos y la realizacion efectiva de las personas. Cada critica abrio, a su vez, una tradicion teorica autonoma.",
+    "supporters": [
+      {
+        "school": "Liberalismo igualitario (Rawls, Pogge, Freeman)",
+        "view": "Defienden que la posicion original modela de forma imparcial la equidad, neutralizando ventajas moralmente arbitrarias como la clase, el talento o la suerte natural. El principio de diferencia justifica las desigualdades solo si mejoran la situacion de los menos aventajados, combinando libertad e igualdad sin caer en el utilitarismo."
+      },
+      {
+        "school": "Argumento del maximin",
+        "view": "Sostienen que, tras un velo de ignorancia grueso y ante incertidumbre genuina, es racional elegir segun la regla maximin: asegurar el mejor de los peores resultados antes que apostar por promedios. Quien no sabe que posicion ocupara prefiere garantizar un piso digno a arriesgar la indigencia."
+      },
+      {
+        "school": "Equilibrio reflexivo como metodo",
+        "view": "Valoran que Rawls no deduce principios de axiomas fijos, sino que ajusta principios e intuiciones morales consideradas hasta alcanzar coherencia. Este metodo ofrece una justificacion falible pero publica, abierta a la revision y al desacuerdo razonable."
+      },
+      {
+        "school": "Liberalismo politico y estabilidad",
+        "view": "Argumentan que la justicia como equidad puede ser objeto de un consenso entrecruzado entre doctrinas distintas, sin imponer una sola vision del bien. Asi la teoria asegura estabilidad y respeto mutuo en sociedades pluralistas."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Libertarismo (Robert Nozick)",
+        "view": "Nozick rechaza toda justicia distributiva basada en un patron final: una distribucion es justa si surge de adquisiciones y transferencias legitimas, no de un esquema impuesto. El principio de diferencia, al redistribuir, viola la autopropiedad y trata a las personas como medios para igualar resultados."
+      },
+      {
+        "school": "Comunitarismo (Sandel, MacIntyre, Taylor, Walzer)",
+        "view": "Critican el yo desvinculado que supone la posicion original: las personas reales estan constituidas por su comunidad, historia y lazos, no eligen sus fines tras un velo. Walzer anade que los criterios de justicia varian segun las esferas y tradiciones de cada sociedad, no son universales y abstractos."
+      },
+      {
+        "school": "Enfoque de las capacidades (Sen, Nussbaum)",
+        "view": "Objetan que los bienes primarios son una metrica inadecuada porque ignoran que las personas difieren en su capacidad de convertir recursos en oportunidades reales. Una persona con discapacidad puede necesitar mas recursos para alcanzar el mismo nivel de vida; lo relevante es que pueden ser y hacer efectivamente las personas."
+      },
+      {
+        "school": "Critica feminista (Susan Moller Okin)",
+        "view": "Okin senala que Rawls trata a la familia como una institucion justa y modela a las partes como jefes de hogar, ocultando las relaciones de poder y la division sexual del trabajo dentro del hogar. No obstante, rescata el velo de ignorancia como herramienta potente para criticar las normas de genero si se aplica de forma consecuente."
+      },
+      {
+        "school": "Critica utilitarista (John Harsanyi)",
+        "view": "Harsanyi sostiene que, bajo incertidumbre, lo racional es maximizar la utilidad esperada segun la racionalidad bayesiana, no aplicar el maximin, que conduciria a decisiones de aversion extrema al riesgo. La teoria de Rawls descuidaria las necesidades legitimas de quienes estan en buena posicion por evitar todo sacrificio del peor situado."
+      }
+    ],
+    "contrasts": "El debate enfrenta, en un extremo, a Nozick, para quien Rawls sacrifica demasiada libertad y propiedad en nombre de la igualdad, y en el otro a Sen, Nussbaum y Okin, que lo consideran insuficientemente sensible a las diferencias reales entre personas, generos y capacidades. Comunitaristas y rawlsianos discuten un problema mas profundo: si es posible o deseable razonar sobre la justicia desde un punto de vista imparcial y abstraido de toda pertenencia concreta. Harsanyi y los rawlsianos disputan el terreno tecnico de la eleccion racional: maximin frente a utilidad esperada. Es revelador que varias criticas, sobre todo la de Okin, no abandonen el aparato rawlsiano sino que lo radicalicen, mostrando su fecundidad incluso para quienes lo cuestionan.",
+    "sources": [
+      {
+        "label": "Original Position - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/original-position/"
+      },
+      {
+        "label": "John Rawls - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/rawls/"
+      },
+      {
+        "label": "Communitarianism - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/communitarianism/"
+      },
+      {
+        "label": "Sen Capability Approach - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/sen-cap/"
+      },
+      {
+        "label": "The Capability Approach - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/capability-approach/"
+      }
+    ]
+  },
+  "socratic": "Actua como interlocutor socratico sobre la Teoria de la Justicia de Rawls. No me des respuestas: hace preguntas, una por vez. Empeza preguntandome que principios elegiria detras del velo de ignorancia y por que. Cuando afirme algo, pedime razones y opone objeciones reales (Nozick: viola la autopropiedad; Sandel: el yo desvinculado; Sen y Nussbaum: bienes primarios frente a capacidades; Okin: la familia y el genero). Si me trabo, dame una pista, no la respuesta."
+}

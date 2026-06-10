@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "El ensayo \"Codificar/decodificar\" (1973, publicado en su forma canonica en 1980) que Stuart Hall escribio en el Centre for Contemporary Cultural Studies de Birmingham constituye una de las rupturas teoricas mas influyentes de los estudios de comunicacion del siglo XX. Frente al modelo lineal emisor-mensaje-receptor heredado de la teoria matematica de la informacion y de la sociologia funcionalista de los efectos, Hall propuso pensar la comunicacion como un circuito articulado de momentos relativamente autonomos pero interdependientes: produccion, circulacion, uso y reproduccion. El mensaje no llega ya constituido a un receptor pasivo; debe ser codificado en un discurso significante y luego decodificado para tener efecto. Como el codigo de la codificacion y el de la decodificacion no son simetricos, surge la posibilidad de la no correspondencia: el significado producido raramente coincide con el recibido. De ahi las tres hipoteticas posiciones de lectura -dominante-hegemonica, negociada y oposicional- y la nocion de que el signo televisivo es polisemico pero no infinitamente abierto, porque existe un \"sentido preferente\" sostenido por el orden hegemonico. El debate posterior giro en torno a cuatro ejes: si el modelo describe correctamente la actividad de la audiencia, si esa actividad fue luego exagerada hasta un populismo acritico, si los estudios culturales olvidaron la economia politica de la cultura, y como reformular el esquema en la era digital.",
+    "supporters": [
+      {
+        "school": "Escuela de Birmingham / estudios de recepcion empiricos (David Morley, The Nationwide Audience, 1980)",
+        "view": "Morley tomo el modelo de Hall como hipotesis comprobable y la puso a prueba mostrando episodios del programa Nationwide de la BBC a grupos diferenciados por clase, ocupacion, raza y formacion. Hallo que las tres posiciones de lectura efectivamente aparecian -gerentes y bancarios tendian a lecturas dominantes, estudiantes y formadores a lecturas negociadas, sindicalistas a lecturas oposicionales o negociadas-, dando contenido empirico a la tesis de la audiencia activa. Al mismo tiempo, su trabajo confirmo el nucleo del modelo: la decodificacion no se deduce mecanicamente de la codificacion ni se reduce sin mas a la posicion de clase, lo que valido la idea de Hall de un proceso ideologicamente disputado."
+      },
+      {
+        "school": "Estudios feministas de recepcion (Ien Ang, Watching Dallas, 1985; Janice Radway, Reading the Romance, 1984)",
+        "view": "Ang y Radway extendieron el programa de la audiencia activa a la cultura popular de consumo femenino. Mediante metodos cualitativos y etnograficos -cartas de espectadoras de telenovela, entrevistas a lectoras de novela rosa- mostraron que los publicos negocian placer y sentido desde su propia posicion social y de genero, en lugar de absorber pasivamente el texto. Su trabajo confirmo el giro halliano contra la masa pasiva de la teoria de los efectos y dio densidad sociologica a la idea de lecturas negociadas y oposicionales, leyendo el consumo como practica significante y no como mera recepcion."
+      },
+      {
+        "school": "Estudios culturales de la audiencia activa y la cultura popular (linea John Fiske / teoria de la recepcion)",
+        "view": "Esta corriente radicalizo el aporte de Hall subrayando la creatividad semiotica del publico: si el signo es polisemico y la decodificacion oposicional es posible, la audiencia puede producir significados y placeres resistentes frente al sentido preferente del orden dominante. Defiende el modelo como un antidoto al pesimismo de la teoria de los efectos y de la Escuela de Frankfurt, restituyendo agencia interpretativa a los sujetos populares y desplazando el analisis del texto hacia el momento del uso."
+      },
+      {
+        "school": "Relecturas en la era digital (Henrik Bodker, Critical Studies in Media Communication, 2016; modelo encoding/decoding revisitado en plataformas)",
+        "view": "Investigadores contemporaneos reivindican el modelo como marco aun fertil para pensar la circulacion del sentido en plataformas y redes sociales, donde la distincion entre codificadores y decodificadores se vuelve porosa. Sostienen que la insistencia de Hall en ver la circulacion dentro de un circuito cultural mas amplio es \"tan importante como siempre\", a la vez que proponen ampliarlo: el sentido ya no se fija en un unico momento de produccion, sino que emerge de la interaccion continua entre estrategias de contenido, mediaciones algoritmicas y practicas de usuarios que recodifican lo que decodifican."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Critica interna del propio David Morley y revisiones del giro etnografico",
+        "view": "Morley reconocio en sus posfacios criticos las limitaciones del experimento Nationwide: los terminos de clase eran etiquetas descriptivas que no captaban la etnografia fina de los sujetos, las respuestas resultaban contradictorias y no se mapeaban limpiamente sobre las tres categorias, y el dispositivo de grupos forzaba lecturas en un contexto artificial. La critica posterior (por ejemplo la reanalisis de Sujeong Kim) discutio incluso si los datos no mostraban patrones mas consistentes de los que Morley admitia, evidenciando que el esquema de tres posiciones es mas heuristico que descriptivo."
+      },
+      {
+        "school": "Critica del esquematismo y del textualismo semiotico",
+        "view": "Diversos comentaristas senalan que el modelo es demasiado esquematico: confunde polisemia (significados no buscados) con oposicion ideologica, no distingue con claridad entre comprender un texto y evaluarlo, y asume que todo mensaje mediatico esta codificado dentro de la ideologia dominante. La nocion de \"sentido preferente\" se acusa de ser textualista y dificil de localizar empiricamente, de modo que algunos proponen reemplazarla por un abanico abierto de lecturas posibles. El esquema heredaria del estructuralismo semiotico una atencion excesiva a la estructura interna del texto en desmedro de los procesos reales de produccion e interpretacion."
+      },
+      {
+        "school": "Critica del populismo cultural (Jim McGuigan, Cultural Populism, 1992)",
+        "view": "McGuigan argumenta que en los anos ochenta los estudios culturales tomaron un giro populista acritico: la celebracion de la audiencia activa, del consumo placentero y de la resistencia simbolica perdio de vista la lucha economica y politica por la circulacion de la cultura. Con John Fiske como blanco principal, sostiene que presentar el consumo de cultura popular como politicamente subversivo es ilusorio e ideologicamente ingenuo, que se cierra la tension entre cultura popular y cultura de masas, y que se borra la relacion entre la interpretacion cultural y la economia politica de la cultura. La sobrevaloracion de la agencia del receptor termina, en esta lectura, coincidiendo con la soberania del consumidor del liberalismo de mercado."
+      },
+      {
+        "school": "Economia politica de la comunicacion (Nicholas Garnham, Political Economy and Cultural Studies: Reconciliation or Divorce?, 1995)",
+        "view": "Desde la economia politica critica, Garnham acusa a los estudios culturales de la audiencia activa de olvidar las estructuras economicas que condicionan la produccion y distribucion del sentido: propiedad de los medios, mercados, division del trabajo cultural. Sostiene que el antagonismo entre economia politica y estudios culturales descansa en un malentendido y que el proyecto de los estudios culturales solo puede prosperar si se reconstruye el puente con la economia politica. La replica de figuras como Lawrence Grossberg -que considera la economia politica de Garnham demasiado reduccionista y reflejista- muestra que el debate quedo sin resolver, en una tregua incomoda que reparte el mundo entre \"economia\" y \"cultura\"."
+      },
+      {
+        "school": "Critica de la sobrestimacion de la libertad del receptor frente a la teoria de los efectos y de Frankfurt",
+        "view": "Una linea mas amplia objeta que, al reaccionar contra la masa pasiva de la teoria de los efectos y del pesimismo frankfurtiano, el modelo y sus desarrollos pendularon hacia el extremo opuesto, exagerando la libertad interpretativa del publico. Si toda decodificacion puede ser negociada u oposicional, se corre el riesgo de relativizar el poder real de los medios y la persistencia de la ideologia dominante, vaciando de fuerza la propia nocion de hegemonia que Hall tomaba de Gramsci. La capacidad de leer en contra no equivale a poder politico, y celebrar la resistencia semiotica puede ocultar la asimetria estructural entre quienes codifican y quienes decodifican."
+      }
+    ],
+    "contrasts": "El debate no enfrenta a quienes aceptan y quienes rechazan en bloque a Hall, sino que se ordena segun donde se coloca el acento. Los partidarios -Morley en su fase empirica, Ang, Radway, la tradicion de la audiencia activa y las relecturas digitales- valoran que el modelo restituyo agencia interpretativa al publico y rompio tanto con la transmision lineal como con el determinismo de la teoria de los efectos y de Frankfurt. Los criticos se dividen a su vez en dos frentes que tiran en direcciones opuestas: por un lado, quienes piensan que el modelo concede demasiado poco rigor y demasiado esquematismo (criticas al textualismo, a la confusion entre polisemia y oposicion, autocriticas de Morley); por otro, quienes piensan que el programa derivado concedio demasiado al receptor y olvido las estructuras -el populismo cultural de McGuigan y la economia politica de Garnham. El propio Hall mantuvo una posicion intermedia que sus seguidores mas entusiastas a veces abandonaron: el signo es polisemico pero no infinitamente abierto, hay un sentido preferente sostenido por la hegemonia, y la lectura oposicional es posible pero no garantizada ni automaticamente politica. Leido asi, el modelo sigue siendo menos una teoria cerrada que un mapa de tensiones -entre estructura y agencia, entre texto y audiencia, entre cultura y economia- que cada escuela resuelve de manera distinta.",
+    "sources": [
+      {
+        "label": "Hall, Encoding and Decoding in the Television Discourse (CCCS Stencilled Paper 7, 1973) - University of Birmingham ePapers",
+        "url": "https://epapers.bham.ac.uk/2962"
+      },
+      {
+        "label": "Morley, The Nationwide Audience: Structure and Decoding (BFI Television Monograph 11, 1980) - Internet Archive",
+        "url": "https://archive.org/details/nationwideaudien0000morl"
+      },
+      {
+        "label": "Ang, Watching Dallas: Soap Opera and the Melodramatic Imagination (1985) - Internet Archive",
+        "url": "https://archive.org/details/watchingdallasso0000angi"
+      },
+      {
+        "label": "McGuigan, Cultural Populism (1992, critica del populismo cultural y de Fiske) - Internet Archive",
+        "url": "https://archive.org/details/culturalpopulism0000mcgu"
+      },
+      {
+        "label": "Garnham, Political Economy and Cultural Studies: Reconciliation or Divorce? (Critical Studies in Mass Communication, 1995) - ERIC",
+        "url": "https://eric.ed.gov/?id=EJ501109"
+      },
+      {
+        "label": "Bodker, Stuart Hall's encoding/decoding model and the circulation of journalism in the digital landscape (Critical Studies in Media Communication, 2016) - Aarhus University Pure",
+        "url": "https://pure.au.dk/portal/en/publications/stuart-halls-encodingdecoding-model-and-the-circulation-of-journa/"
+      }
+    ]
+  },
+  "socratic": "Sos mi interlocutor socratico sobre \"Codificar/decodificar\" de Stuart Hall. Tu metodo: preguntas DE A UNA, nunca varias juntas. No me das respuestas; me pedis razones y ejemplos. Cuando afirmo algo, me opones una objecion real y nombrada (Morley, Ang, McGuigan, Garnham, Fiske, la teoria de los efectos, la Escuela de Frankfurt). Si me trabo, das una pista breve, no la solucion. Vamos de a poco y solo avanzas cuando justifico lo anterior.\n\nEmpeza con esta pregunta exacta y despues segui en funcion de lo que responda:\n\n\"Hall describe tres posiciones de lectura: dominante-hegemonica, negociada y oposicional. Eligi un programa o pieza mediatica concreta que conozcas y describime que seria, para ese caso, una lectura oposicional. Ahora la pregunta dificil: esa lectura oposicional, ?demuestra que la audiencia es realmente libre frente al medio, o solo que puede entender el mensaje y rechazarlo sin tener ningun poder para cambiar las estructuras que lo producen?\"\n\nGuias para la conversacion, segun por donde vaya:\n- Si defiendo la audiencia activa, oponele el populismo cultural de McGuigan: ?no estaras confundiendo resistencia semiotica con poder politico, celebrando el consumo como si fuera subversion?\n- Si exagero la libertad del receptor, recordame el sentido preferente y la hegemonia gramsciana: si toda lectura puede ser oposicional, ?que queda de la nocion de ideologia dominante?\n- Si me apoyo solo en el texto, traeme a Morley y la prueba empirica de Nationwide: ?aparecieron de verdad las tres posiciones, o las respuestas eran mas contradictorias que el esquema?\n- Si ignoro las estructuras, traeme a Garnham y la economia politica: ?quien es dueño de los medios, y como condiciona eso lo que se puede codificar y decodificar?\n- Si caigo en el determinismo de los efectos o de Frankfurt, recordame por que Hall rompio con la masa pasiva y el emisor-mensaje-receptor lineal.\n- Pedime siempre un ejemplo concreto antes de aceptar una generalizacion, y haceme distinguir entre comprender un texto, evaluarlo y oponerme a el."
+}

@@ -1,13 +1,13 @@
 ---
-title: "Etapa 20 — Tocqueville — La democracia en América (selección)"
+title: "Etapa 19 — Tocqueville — La democracia en América (selección)"
 ---
 
-# Etapa 20 — Tocqueville — La democracia en América (selección)
+# Etapa 19 — Tocqueville — La democracia en América (selección)
 
 > El primer gran análisis sociológico de la democracia moderna. Tocqueville visita Estados Unidos en 1831 y produce el manual sobre cómo funciona realmente una democracia en condiciones reales — no en teoría. Anticipa la tiranía de la mayoría, el individualismo democrático y el despotismo blando.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 20/103</span> · <span>:material-bookmark: Libro</span>
+<span>:material-clock-outline: 18-25 h</span> · <span>:material-progress-check: Etapa 19/103</span> · <span>:material-bookmark: Libro</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">

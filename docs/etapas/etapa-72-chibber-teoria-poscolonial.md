@@ -1,13 +1,13 @@
 ---
-title: "Etapa 87 — Chibber — La teoría poscolonial y el espectro del capital"
+title: "Etapa 72 — Chibber — La teoría poscolonial y el espectro del capital"
 ---
 
-# Etapa 87 — Chibber — La teoría poscolonial y el espectro del capital
+# Etapa 72 — Chibber — La teoría poscolonial y el espectro del capital
 
 > La teoría poscolonial, al rechazar las categorías universales del marxismo y la Ilustración, exotiza al Sur Global y lo priva de las herramientas materiales y universales necesarias para resistir a la dominación del capitalismo global.
 
 <div class="etapa-meta">
-  <span>:material-clock-outline: 5-6 h</span> · <span>:material-progress-check: Etapa 87/103</span> · <span>:material-book-open-outline: Libro (Selección)</span>
+  <span>:material-clock-outline: 5-6 h</span> · <span>:material-progress-check: Etapa 72/103</span> · <span>:material-book-open-outline: Libro (Selección)</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">

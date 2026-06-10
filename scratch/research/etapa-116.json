@@ -1,0 +1,57 @@
+{
+  "debate_deep": {
+    "intro": "Dependencia y desarrollo en America Latina (1969) es probablemente el libro de ciencias sociales latinoamericanas mas discutido del siglo XX, y el debate que abrio nunca se cerro porque toca la pregunta que la region no termina de responder: por que no se desarrolla como los paises centrales. La tesis de Cardoso y Faletto — el subdesarrollo no es atraso sino posicion en el capitalismo mundial, reproducida a traves de alianzas de clases internas — fue atacada desde todos los flancos a la vez. Desde la derecha teorica, la modernizacion y la economia neoclasica respondieron que el Este asiatico refuto la dependencia: Corea y Taiwan eran periferia y se industrializaron integrandose mas al mercado mundial, no menos. Desde la izquierda, los marxistas ortodoxos y la propia ala radical de la teoria (Marini, dos Santos) acusaron a Cardoso de diluir la lucha de clases en la categoria de nacion y de preparar, con el desarrollo dependiente-asociado, la rendicion teorica ante el capital multinacional. Y la historia agrego un giro unico: Cardoso fue presidente de Brasil (1995-2003) y goberno con privatizaciones y apertura que muchos leyeron como la refutacion viviente de su propio libro. Que el autor mas citado de la teoria haya terminado administrando la dependencia — o gestionandola realistamente, segun se mire — mantiene el debate abierto medio siglo despues, justo cuando los estudios del Sur global lo estan reabriendo.",
+    "supporters": [
+      {
+        "school": "La teoria marxista de la dependencia (Ruy Mauro Marini y Theotonio dos Santos)",
+        "view": "El ala radical de la escuela defendio el nucleo del marco — el subdesarrollo como posicion, no etapa — pero lo llevo mas lejos. Marini, en Dialectica de la dependencia (1973), le dio fundamento en la teoria del valor: la periferia compensa el intercambio desigual con superexplotacion del trabajo (salarios por debajo del valor de la fuerza de trabajo), lo que produce economias que no dependen del consumo obrero y regimenes politicos que lo reprimen — de ahi su concepto de subimperialismo brasileño. Dos Santos, en Imperialismo y dependencia (1978), sistematizo las formas historicas de la dependencia y sostuvo que la nueva dependencia tecnologico-industrial era estructural, no transitoria. Para esta corriente, Cardoso y Faletto tienen razon en lo esencial contra la modernizacion; el error seria quedarse corto: la dependencia no admite gestion, exige ruptura."
+      },
+      {
+        "school": "El analisis de sistemas-mundo (Immanuel Wallerstein)",
+        "view": "Wallerstein, en The Modern World-System (1974) y en World-Systems Analysis: An Introduction (2004), generalizo la intuicion dependentista a escala historica universal: no existen sociedades nacionales que se desarrollan, existe una sola economia-mundo capitalista con centro, semiperiferia y periferia, posiciones que se constituyen mutuamente desde el siglo XVI. Es la confirmacion teorica del punto central de Cardoso y Faletto — no se alcanza al centro recorriendo sus etapas, porque la periferia ya esta integrada subordinadamente al sistema — con una innovacion util: la semiperiferia describe bien a los paises del desarrollo dependiente-asociado (Brasil, Mexico, Argentina), que ascienden de posicion sin salir de la estructura. La escuela de sistemas-mundo institucionalizo esta agenda en el Fernand Braudel Center y la revista Review, y mantuvo viva la perspectiva cuando la dependencia paso de moda en el Norte."
+      },
+      {
+        "school": "El revival contemporaneo en los estudios del Sur global",
+        "view": "Desde los años 2010 la dependencia volvio a la agenda academica por dos vias. Una es el giro decolonial: Anibal Quijano — formado en el debate dependentista — reformulo la posicion periferica como colonialidad del poder, y autores como Ramon Grosfoguel releyeron la dependencia como antecedente directo de los estudios poscoloniales latinoamericanos. La otra es la economia politica critica de la globalizacion: los estudios sobre cadenas globales de valor, subordinacion financiera y dependent development en Europa del Este y Asia recuperan explicitamente a Cardoso y Faletto — el dossier de Argumentos (UAM) por los 40 años de Dialectica de la dependencia y la nueva literatura sobre dependencia financiera muestran que el marco describe mejor que la convergencia neoclasica un mundo donde la brecha centro-periferia persiste bajo formas nuevas: tecnologicas, monetarias y de datos."
+      }
+    ],
+    "critics": [
+      {
+        "school": "La teoria de la modernizacion (W. W. Rostow y sus herederos)",
+        "view": "El blanco original del libro nunca acepto la refutacion. Rostow, en The Stages of Economic Growth: A Non-Communist Manifesto (1960), sostuvo que todas las sociedades recorren etapas — de la sociedad tradicional al consumo de masas — y que el atraso es retraso, no posicion: se resuelve con ahorro, inversion, difusion tecnologica e instituciones adecuadas. Sus herederos (la literatura de convergencia, los indices de buena gobernanza, el institucionalismo de Acemoglu y Robinson en Why Nations Fail) reformularon el argumento: lo que explica el subdesarrollo no es el lugar en el sistema mundial sino las instituciones extractivas internas — y notan que esa explicacion conserva lo mejor de la intuicion dependentista (las elites locales importan) sin el determinismo de la estructura externa, que no logra explicar por que paises con la misma posicion periferica divergieron tan radicalmente."
+      },
+      {
+        "school": "La critica neoclasica y el milagro del Este asiatico",
+        "view": "Para la economia neoclasica del desarrollo (Bela Balassa, Anne Krueger, el informe The East Asian Miracle del Banco Mundial, 1993), Corea del Sur, Taiwan y Singapur son la refutacion empirica: eran periferia pobre y dependiente en 1960 y convergieron con el centro en una generacion, no desacoplandose del mercado mundial sino integrandose agresivamente via exportaciones. Si la posicion periferica condenara al desarrollo dependiente y excluyente, el Este asiatico seria imposible. La trayectoria posterior de Cardoso funciona como autocritica viviente de esta linea: como presidente de Brasil (1995-2003) goberno con estabilizacion monetaria, privatizaciones y apertura — el recetario opuesto al de la teoria que fundo — y defendio esa praxis como realismo. Sus criticos de izquierda lo llaman traicion; los neoclasicos, simplemente aprendizaje: el propio autor habria reconocido que la dependencia no era una prision."
+      },
+      {
+        "school": "La critica marxista ortodoxa y el debate Marini-Cardoso",
+        "view": "Desde el marxismo clasico, Agustin Cueva (El desarrollo del capitalismo en America Latina, 1977) objeto que la teoria de la dependencia sustituye la contradiccion capital-trabajo por la contradiccion centro-periferia: diluye la clase en la nacion, convierte al imperialismo en sujeto y a la burguesia local en victima, y desemboca en nacionalismo burgues con vocabulario marxista. El analisis correcto seria el de los modos de produccion y la lucha de clases interna, sin categoria especial de dependencia. El debate estallo tambien dentro de la escuela: Cardoso y Jose Serra atacaron a Marini en Las desventuras de la dialectica de la dependencia (1978), acusando a la superexplotacion de error teorico y de fatalismo politico; Marini respondio en Las razones del neodesarrollismo que Cardoso preparaba la conciliacion con el capital multinacional y el orden autoritario brasileño. La presidencia de Cardoso le dio a Marini, retrospectivamente, su mejor argumento."
+      }
+    ],
+    "contrasts": "Las posiciones se ordenan sobre dos ejes. El primero: el subdesarrollo es etapa (Rostow, neoclasicos) o posicion (todas las dependencias y Wallerstein). El Este asiatico es el campo de batalla — refutacion para unos, caso de movilidad semiperiferica con Estado fuerte para otros. El segundo eje divide a la propia izquierda: la unidad de analisis es la nacion dependiente (Cardoso-Faletto) o la clase (Cueva, Marini), y de eso se sigue todo — alianzas posibles, reformismo o ruptura. Lo que esta en juego no es historiografico: es si un pais periferico puede desarrollarse dentro del sistema, negociando su insercion como hizo Cardoso presidente, o si esa via solo reproduce, modernizada, la dependencia que pretendia superar.",
+    "sources": [
+      {
+        "label": "Dependency and Development in Latin America (University of California Press)",
+        "url": "https://www.ucpress.edu/book/9780520035270/dependency-and-development-in-latin-america"
+      },
+      {
+        "label": "Dependencia y desarrollo en America Latina (Siglo XXI Editores)",
+        "url": "https://www.sigloxxieditores.com.mx/libro/dependencia-y-desarrollo-en-america-latina/"
+      },
+      {
+        "label": "Dossier: Ruy Mauro Marini, 40 años de Dialectica de la dependencia (Argumentos, UAM)",
+        "url": "https://www.scielo.org.mx/pdf/argu/v26n72/v26n72a4.pdf"
+      },
+      {
+        "label": "Dialectica de la dependencia y el debate: la critica de Cardoso y Serra (Nulan, UNMdP)",
+        "url": "http://nulan.mdp.edu.ar/id/eprint/3189/"
+      },
+      {
+        "label": "CEPAL — archivo del pensamiento cepalino",
+        "url": "https://www.cepal.org/es"
+      }
+    ]
+  },
+  "socratic": "Actua como un interlocutor socratico sobre Dependencia y desarrollo en America Latina de Cardoso y Faletto. No me des respuestas ni resumenes: hace preguntas, una por vez, y espera mi respuesta antes de seguir. Cuando yo afirme algo, pedime razones y ejemplos historicos concretos. Presenta objeciones de escuelas rivales concretas: la modernizacion de Rostow; la critica neoclasica con el milagro del Este asiatico como refutacion; la critica marxista ortodoxa de Cueva de que la dependencia diluye la clase en la nacion; y la acusacion de Marini de que el desarrollo dependiente-asociado es neodesarrollismo conciliador. Usa la presidencia de Cardoso como caso incomodo. Si me trabo, dame una pista en forma de pregunta mas concreta. Empeza preguntandome: si Corea del Sur era periferia en 1960 y convergio con el centro, que queda de la tesis de que el subdesarrollo es posicion y no etapa?"
+}

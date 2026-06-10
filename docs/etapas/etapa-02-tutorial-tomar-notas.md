@@ -7,11 +7,11 @@ title: "Etapa 2 — Tutorial — aprender a tomar notas (30 días)"
 > Tenés el sistema y los formatos. Falta la HABILIDAD. Esta etapa es el entrenamiento: 30 días con 15 ejercicios graduados, 4 ejemplos trabajados de mal a excelente, los 7 movimientos del experto y los 10 errores comunes corregidos. Esto no se hace antes de Adler — se hace **en paralelo** desde la primera semana.
 
 <div class="etapa-meta">
-<span>:material-clock-outline: 4 semanas (en paralelo a etapas 3-6)</span> · <span>:material-progress-check: Etapa 2/87</span> · <span>:material-bookmark: Método</span>
+<span>:material-clock-outline: 4 semanas (en paralelo a etapas 3-6)</span> · <span>:material-progress-check: Etapa 2/103</span> · <span>:material-bookmark: Método</span>
 </div>
 
 <div class="curso-progress-box" id="curso-progress-mini" style="display:none;">
-  <span class="g-label">Progreso global (87 etapas)</span>
+  <span class="g-label">Progreso global (103 etapas)</span>
   <div class="curso-progress-text">
     <strong id="curso-completed">0</strong> de <strong id="curso-total">0</strong> tareas (<span id="curso-pct">0%</span>)
   </div>

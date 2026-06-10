@@ -1,0 +1,77 @@
+{
+  "debate_deep": {
+    "intro": "Maquiavelo es, probablemente, el autor mas disputado del canon politico: como observo Isaiah Berlin, ningun otro pensador ha presentado tantas caras a sus interpretes. El problema no es solo si fue bueno o malo, sino algo previo y mas dificil: como se lo debe leer. Una clase universitaria que comenta a Maquiavelo no transmite un sentido fijo del texto, sino que ensena a elegir entre escuelas interpretativas rivales que discrepan sobre el metodo mismo de lectura. En el centro de esa disputa late el llamado problema Maquiavelo: la tension entre El Principe, manual aparentemente monarquico dedicado a un Medici, y los Discursos sobre la primera decada de Tito Livio, obra de inspiracion republicana. Que escuela uno adopte determina cual de los dos Maquiavelos cuenta como el verdadero, si es que la pregunta admite respuesta. Lo que sigue ordena las grandes tradiciones de lectura por su aporte y por las objeciones que cada una arrastra.",
+    "supporters": [
+      {
+        "school": "Lectura straussiana (esoterica): Leo Strauss y Harvey Mansfield",
+        "view": "Para Strauss en Thoughts on Machiavelli (1958), Maquiavelo es un maestro del mal que escribe en dos planos: una superficie exoterica para el lector ingenuo y un mensaje esoterico, oculto, accesible solo a lectores atentos. Bajo la presion de la persecucion politica y religiosa, el filosofo cifra su doctrina entre lineas: pequenas discrepancias, citas alteradas de los clasicos o patrones numericos serian senales deliberadas de blasfemias y de un proyecto de ruptura con la tradicion clasica y cristiana. El aporte de esta escuela es tomar en serio la radicalidad moral de Maquiavelo y leer El Principe y los Discursos como una obra unitaria y deliberada, no como dos textos contradictorios: Maquiavelo seria el fundador consciente de la modernidad y su deriva.",
+        "url": "https://en.wikipedia.org/wiki/Thoughts_on_Machiavelli"
+      },
+      {
+        "school": "Escuela de Cambridge (contextualista): Quentin Skinner y J. G. A. Pocock",
+        "view": "La Escuela de Cambridge sostiene que un texto solo se entiende reconstruyendo el contexto linguistico e intelectual en que fue escrito y lo que su autor estaba haciendo al escribirlo. Skinner, apoyandose en la teoria de los actos de habla, y Pocock en The Machiavellian Moment (1975) ubican a Maquiavelo dentro del lenguaje del humanismo civico florentino y de la tradicion republicana clasica. Leido asi, su tema central no es el cinismo del poder sino la libertad como no dominacion: el imperio de la ley, el bien comun, el equilibrio entre clases y la participacion popular. Su aporte es restituir al Maquiavelo de los Discursos su densidad republicana y romper con la caricatura del consejero amoral.",
+        "url": "https://en.wikipedia.org/wiki/Cambridge_School_(intellectual_history)"
+      },
+      {
+        "school": "Lectura realista o cientificista: Benedetto Croce y la ciencia politica moderna",
+        "view": "Esta tradicion, asociada a Croce y recogida luego por buena parte de la ciencia politica del siglo XX, ve en Maquiavelo al descubridor de la autonomia de la politica: una esfera con leyes propias, situada mas alla, o mas bien por debajo, del bien y del mal morales, contra las cuales es inutil rebelarse. Maquiavelo seria el fundador del analisis autonomo del poder, el primero en estudiar la politica tal como es y no como deberia ser, suspendiendo la moral corriente cuando lo exige la conservacion del Estado. Su aporte es haber instalado a Maquiavelo como padre del realismo politico y del estudio empirico del poder, separado de la teologia y de la filosofia moral clasica.",
+        "url": "https://plato.stanford.edu/entries/machiavelli/"
+      },
+      {
+        "school": "Lectura pluralista o de la incompatibilidad de valores: Isaiah Berlin",
+        "view": "En La originalidad de Maquiavelo (1972), Berlin parte del escandalo interpretativo mismo: cataloga mas de veinte lecturas rivales y se pregunta que otro pensador ha ofrecido tantas caras. Su tesis es que Maquiavelo no separa una politica tecnica de la moral, como queria Croce, sino que enfrenta dos sistemas morales incompatibles: la virtud civica pagana de Roma frente a la etica cristiana. La originalidad y la incomodidad de Maquiavelo consisten en sugerir que los valores ultimos pueden ser racionalmente irreconciliables y que no hay sintesis que los armonice. Su aporte es convertir la propia multiplicidad de interpretaciones en la clave del texto.",
+        "url": "https://www.nybooks.com/articles/1971/11/04/a-special-supplement-the-question-of-machiavelli/"
+      }
+    ],
+    "critics": [
+      {
+        "school": "Objecion a la lectura esoterica straussiana",
+        "view": "La principal critica acusa a la lectura straussiana de ser especulativa e infalsable: al convertir cualquier discrepancia menor, cita inexacta o patron numerico en senal de un mensaje cifrado, el metodo termina hallando exactamente lo que el interprete decide buscar y se vuelve la creencia en la lectura esoterica desbocada. Sin criterios publicos para distinguir la senal del ruido, la interpretacion se vuelve irrefutable y, por eso mismo, dudosa como conocimiento historico.",
+        "url": "https://lawliberty.org/book-review/political-philosophy-thoughts-on-strauss-and-machiavelli/"
+      },
+      {
+        "school": "Objecion al contextualismo de Cambridge",
+        "view": "Se reprocha al contextualismo que, al disolver a Maquiavelo en su contexto linguistico florentino, neutraliza o relativiza el filo de su filosofia: si su pensamiento solo vale en relacion con su epoca, queda sin fuerza normativa para el presente. Incluso se senala una tension interna en Skinner: su defensa militante de la libertad republicana como no dominacion choca con su propia regla metodologica, ya que el contextualismo, llevado a fondo, no permitiria preferir una concepcion de la libertad sobre otra al margen de su contexto historico.",
+        "url": "https://journals.sagepub.com/doi/10.1177/09526951211049930"
+      },
+      {
+        "school": "Objecion a la lectura realista o cientificista (Berlin contra Croce)",
+        "view": "Berlin objeta que la tesis de la autonomia de la politica de Croce malinterpreta a Maquiavelo: este no opone una tecnica amoral del poder a la moral, sino una etica frente a otra, la virtud civica pagana frente a la cristiana. Reducir a Maquiavelo a proto-cientifico neutral del poder, al modo de Cassirer o Sabine, pierde su compromiso apasionado con un ideal republicano y patriotico concreto, y por eso el propio Berlin senala que esa lectura ha caido en gran medida en desuso.",
+        "url": "https://www.nybooks.com/articles/1971/11/04/a-special-supplement-the-question-of-machiavelli/"
+      },
+      {
+        "school": "Objecion a la lectura pop (Maquiavelo para gerentes y politicos)",
+        "view": "La vulgarizacion divulgativa, que lee El Principe como manual de astucia para ejecutivos o lideres, extrae frases provocadoras fuera de su contexto historico y construye una caricatura del maquiavelismo como simple manipulacion amoral. Cosans y Reina muestran que la escala Mach IV de Christie y Geis (1970), heredada por la literatura de management, reduce una etica de la consecuencia, donde la dureza solo se justifica como mal menor para fundar el imperio de la ley, a un rasgo de personalidad antisocial, perdiendo por completo la sofisticacion del texto.",
+        "url": "https://www.cambridge.org/core/journals/business-ethics-quarterly/article/leadership-ethics-of-machiavellis-prince/315847F82C4EED2B1E642D6A34974812"
+      }
+    ],
+    "contrasts": "Ninguna escuela ha logrado imponerse como lectura definitiva, y esa misma imposibilidad es informativa. La straussiana gana en profundidad y unidad de la obra lo que arriesga en verificabilidad; la de Cambridge gana en rigor historico lo que algunos ven como perdida de fuerza normativa; la realista gana claridad conceptual al precio de aplanar la dimension moral y patriotica del autor; la pluralista de Berlin convierte el desacuerdo en virtud explicativa pero no ofrece un metodo de lectura unico. El problema Maquiavelo, la coexistencia del Principe y los Discursos, funciona como prueba de fuego de cada enfoque: para unos los textos son una obra cifrada y coherente, para otros expresan distintos generos y contextos, para otros revelan dos morales en pugna. Quien estudie a Maquiavelo gana mas preguntandose que esta haciendo cada interprete con el texto que buscando una respuesta unica sobre cual Maquiavelo es el autentico.",
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Niccolo Machiavelli",
+        "url": "https://plato.stanford.edu/entries/machiavelli/"
+      },
+      {
+        "label": "Isaiah Berlin, The Question of Machiavelli (The New York Review of Books, 1971)",
+        "url": "https://www.nybooks.com/articles/1971/11/04/a-special-supplement-the-question-of-machiavelli/"
+      },
+      {
+        "label": "Wikipedia: Thoughts on Machiavelli (Leo Strauss)",
+        "url": "https://en.wikipedia.org/wiki/Thoughts_on_Machiavelli"
+      },
+      {
+        "label": "Wikipedia: Cambridge School (intellectual history)",
+        "url": "https://en.wikipedia.org/wiki/Cambridge_School_(intellectual_history)"
+      },
+      {
+        "label": "Encyclopaedia Britannica: Quentin Skinner",
+        "url": "https://www.britannica.com/biography/Quentin-Skinner"
+      },
+      {
+        "label": "Cosans y Reina, The Leadership Ethics of Machiavelli's Prince (Business Ethics Quarterly, Cambridge Core)",
+        "url": "https://www.cambridge.org/core/journals/business-ethics-quarterly/article/leadership-ethics-of-machiavellis-prince/315847F82C4EED2B1E642D6A34974812"
+      }
+    ]
+  },
+  "socratic": "Vas a interpretar a Maquiavelo conmigo. Te hago una sola pregunta por vez, no te doy respuestas y, cada vez que afirmes algo, te pido la razon o el pasaje que lo sostiene; cuando avances, te opongo una objecion real de alguna escuela rival y, si te trabas, te doy una pista pero no la conclusion. Primera pregunta: si tuvieras que decidir cual es el verdadero Maquiavelo, el de El Principe, que aconseja al monarca usar el miedo y el engano, o el de los Discursos, que elogia la libertad republicana y la participacion del pueblo, cual elegirias y por que? Antes de responder, pensa: en que apoyas tu eleccion, en lo que el texto dice literalmente, en el contexto en que escribio, o en lo que crees que callaba a proposito?"
+}

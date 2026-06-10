@@ -1,0 +1,73 @@
+{
+  "debate_deep": {
+    "intro": "El moderno sistema mundial (vol. I, 1974) propone un giro de unidad de analisis: no el Estado-nacion ni la sociedad nacional, sino la economia-mundo capitalista como totalidad indivisible nacida en la larga decimosexta centuria (c. 1450-1640). Esa economia-mundo no es un imperio politicamente unificado sino un unico sistema integrado por una division internacional del trabajo y articulado en tres zonas jerarquicas: un centro (originalmente el noroeste de Europa) que monopoliza la produccion intensiva en capital y los Estados fuertes; una periferia que exporta materias primas bajo formas de trabajo coercitivo y carece de Estados solidos; y una semiperiferia intermedia que a la vez es explotada por el centro y explota a la periferia, funcionando como amortiguador politico del sistema. El armazon metodologico viene de Fernand Braudel y la escuela de los Annales: la longue duree y la economie-monde desplazan el foco del acontecimiento al tiempo estructural y a las regiones geo-ecologicas. La filiacion teorica es la teoria de la dependencia latinoamericana (Prebisch, Frank): el subdesarrollo no es atraso ni etapa previa sino producto de la misma relacion que produce el desarrollo del centro (el desarrollo del subdesarrollo), lo que implica una critica frontal al desarrollismo etapista de la teoria de la modernizacion (Rostow). El debate de post-lectura tiene varios frentes. Uno teorico de fondo: define Wallerstein el capitalismo por el intercambio y el mercado (produccion para la ganancia en un mercado mundial) o por las relaciones de produccion (la relacion capital-trabajo asalariado)? De ahi nace la acusacion de marxismo neosmithiano de Robert Brenner. Otro metodologico: el funcionalismo y el teleologismo que denuncia Theda Skocpol. Otro politico: si el sistema es tan determinista que no deja lugar a la agencia, a la clase y a la politica. Y otro conceptual: la propia consistencia de la semiperiferia y las criticas desde la teoria poscolonial por su eurocentrismo persistente.",
+    "supporters": [
+      {
+        "school": "Teoria de la dependencia y desarrollo del subdesarrollo (Andre Gunder Frank, Capitalism and Underdevelopment in Latin America, 1967)",
+        "view": "Frank aporta el nucleo del que Wallerstein parte: la cadena metropoli-satelite drena el excedente de la periferia hacia el centro, de modo que desarrollo y subdesarrollo son dos caras de un mismo proceso historico unico desde el siglo XVI. No hay sociedades dualmente atrasadas a la espera de modernizarse; la pobreza periferica es activamente producida por la insercion en el mercado mundial capitalista. En sus obras tardias (ReOrient, 1998) radicaliza la tesis hasta sostener un sistema-mundo de cinco mil anos centrado historicamente en Asia, llevando el descentramiento del Estado-nacion mas alla que el propio Wallerstein."
+      },
+      {
+        "school": "Marxismo de la dependencia y el intercambio desigual (Samir Amin, Le developpement inegal / Accumulation on a World Scale)",
+        "view": "Amin sostiene la economia-mundo como unidad real de acumulacion y teoriza el intercambio desigual: dada la movilidad del capital y la inmovilidad relativa del trabajo, salarios mas bajos en la periferia transfieren valor sistematicamente al centro aun a igual productividad. Defiende la categoria de acumulacion a escala mundial y la desconexion (delinking) de la periferia respecto del centro como estrategia de salida. Refuerza asi la lectura de que la unidad pertinente es el sistema mundial, no la economia nacional aislada."
+      },
+      {
+        "school": "Analisis de sistemas-mundo y ciclos de acumulacion (Giovanni Arrighi, The Long Twentieth Century, 1994)",
+        "view": "Arrighi extiende el programa con los ciclos sistemicos de acumulacion (genoves-iberico, holandes, britanico, estadounidense), en los que la hegemonia del centro pasa por una fase de expansion material y otra financiera que anuncia su declive y el traspaso del liderazgo. Conserva la longue duree braudeliana y la centralidad de la totalidad sistemica, pero reintroduce dinamica historica, conflicto interestatal y agencia hegemonica, respondiendo en parte a la acusacion de estatismo del modelo."
+      },
+      {
+        "school": "Programa institucionalizado del analisis de sistemas-mundo (Immanuel Wallerstein y el Fernand Braudel Center, Binghamton)",
+        "view": "La propia escuela defiende el cambio de unidad de analisis como su aporte decisivo: estudiar Estados, clases o naciones por separado es cometer un error de encuadre, porque todos son productos del mismo sistema historico. La semiperiferia no es residuo descriptivo sino pieza estructural que estabiliza politicamente la polarizacion (impide que el sistema se divida en dos bloques antagonicos) y permite la movilidad ascendente y descendente que explica la persistencia del capitalismo a lo largo de la longue duree."
+      }
+    ],
+    "critics": [
+      {
+        "school": "Marxismo politico y critica al neosmithianismo (Robert Brenner, The Origins of Capitalist Development: A Critique of Neo-Smithian Marxism, New Left Review I/104, 1977)",
+        "view": "Brenner sostiene que Wallerstein (junto con Frank y Sweezy) define el capitalismo por la produccion para el mercado y el comercio mundial y no por las relaciones sociales de produccion, es decir por la relacion de clase capital-trabajo asalariado. Por eso lo califica de marxismo neosmithiano: hereda de Adam Smith la idea de que el comercio y la division del trabajo generan el desarrollo. Al situar el motor en la circulacion y la apropiacion de excedente centro-periferia, no puede explicar el rasgo distintivo del capitalismo: el aumento sistematico de la productividad del trabajo (plusvalor relativo) que solo nace de relaciones de produccion competitivas forjadas en la lucha de clases."
+      },
+      {
+        "school": "Sociologia historica comparada (Theda Skocpol, Wallersteins World Capitalist System, American Journal of Sociology 82-5, 1977)",
+        "view": "Skocpol acusa al modelo de funcionalismo y reduccionismo en dos pasos: reduce las estructuras socioeconomicas a determinacion por las oportunidades del mercado mundial y reduce las estructuras estatales a instrumentos de los intereses de la clase dominante. Le reprocha ademas teleologismo: Wallerstein explica los hechos a posteriori, argumentando que la crisis tenia que resolverse para que el sistema sobreviviera, y recurre al accidente para tapar los huecos. Reclama autonomia causal para los Estados y el sistema interestatal, que no son mera superestructura de la economia-mundo."
+      },
+      {
+        "school": "Critica del determinismo estructural y la ausencia de agencia (sociologia y estudios culturales)",
+        "view": "Una linea amplia objeta que el sistema-mundo es tan determinista que no deja lugar para la agencia humana, la subjetividad, la politica ni la cultura: todo queda subordinado a las fuerzas estructurales de la totalidad. Las clases, los movimientos y los Estados aparecen como funciones de la posicion en la division del trabajo y no como sujetos capaces de torcer el rumbo. Esta critica conecta con la objecion de que el modelo carece de una teoria del cambio: explica la reproduccion del sistema mejor que sus transformaciones."
+      },
+      {
+        "school": "Critica conceptual a la semiperiferia y al estiramiento del concepto",
+        "view": "Se discute que la semiperiferia sea una categoria analitica solida o un cajon de sastre residual: agrupa casos heterogeneos (potencias en ascenso, centros en decadencia, economias mixtas) definidos mas por exclusion que por un mecanismo propio, y resulta dificil de operacionalizar empiricamente. La funcion de amortiguador politico que se le atribuye es, segun los criticos, una explicacion funcionalista construida a posteriori, lo que la vuelve inmune a la falsacion."
+      },
+      {
+        "school": "Critica poscolonial y al eurocentrismo persistente",
+        "view": "Desde la teoria poscolonial se objeta que, pese a denunciar la teoria de la modernizacion, el analisis sigue siendo eurocentrico: situa el origen y el motor del sistema en el noroeste de Europa y narra el resto del mundo como incorporado pasivamente a una logica europea, sin explicar la politica de la colonizacion, la persistencia de las formas discursivas imperiales ni la agencia de los pueblos colonizados. Al privilegiar la economia sobre la cultura, no da cuenta de la dimension simbolica y subjetiva del dominio colonial."
+      }
+    ],
+    "contrasts": "El eje del desacuerdo es donde se localiza el capitalismo y, por lo tanto, cual es la unidad de analisis correcta. Para Frank, Amin, Arrighi y la propia escuela de Wallerstein, el capitalismo es un sistema mundial de division del trabajo e intercambio desigual cuya unidad pertinente es la totalidad centro-periferia-semiperiferia; estudiar la economia nacional por separado es un error de encuadre. Para Brenner ese mismo gesto es el pecado original: al definir el capitalismo por el mercado y no por la relacion de clase en la produccion, el modelo se vuelve neosmithiano y pierde lo especificamente capitalista, el plusvalor relativo. Skocpol comparte con Brenner la objecion de economicismo pero la desplaza al terreno del metodo: el problema es el funcionalismo teleologico y la negacion de autonomia causal al sistema interestatal. Las criticas del determinismo y de la semiperiferia atacan un costado complementario: si todo se explica por la posicion estructural, no queda lugar para la agencia ni para el cambio, y la pieza que deberia salvar la dinamica (la semiperiferia movil) parece construida a medida para que el modelo nunca falle. La critica poscolonial cierra el cerco senalando que el descentramiento del Estado-nacion no alcanzo a descentrar a Europa. El propio campo de los supporters no es homogeneo: Arrighi reintroduce ciclos, hegemonia y conflicto para responder al reproche de estatismo, y Frank tardio descentra el sistema hacia Asia, mostrando que ni siquiera los aliados acuerdan sobre el origen y el centro del sistema-mundo.",
+    "sources": [
+      {
+        "label": "Encyclopaedia Britannica: World-systems theory (economia-mundo como unidad de analisis, centro-periferia-semiperiferia, dependencia, critica de eurocentrismo)",
+        "url": "https://www.britannica.com/topic/world-systems-theory"
+      },
+      {
+        "label": "Encyclopaedia Britannica Money: Development theory - Dependency and world-systems theories (las tres zonas, intercambio desigual, critica al desarrollismo etapista de la modernizacion)",
+        "url": "https://www.britannica.com/money/development-theory/Dependency-and-world-systems-theories"
+      },
+      {
+        "label": "Encyclopaedia Britannica: Immanuel M. Wallerstein (biografia, The Modern World-System, dependencia permanente, semiperiferia, limites del modelo)",
+        "url": "https://www.britannica.com/biography/Immanuel-M-Wallerstein"
+      },
+      {
+        "label": "Robert Brenner, The Origins of Capitalist Development: A Critique of Neo-Smithian Marxism, New Left Review I/104 (1977)",
+        "url": "https://newleftreview.org/issues/i104/articles/robert-brenner-the-origins-of-capitalist-development-a-critique-of-neo-smithian-marxism"
+      },
+      {
+        "label": "Wikipedia: World-systems theory (deuda con Braudel y la longue duree, raices en la dependencia de Frank y Prebisch, supporters Amin/Arrighi/Frank, criticas de Brenner y Skocpol, agencia y cultura)",
+        "url": "https://en.wikipedia.org/wiki/World-systems_theory"
+      },
+      {
+        "label": "Theda Skocpol, Wallersteins World Capitalist System: A Theoretical and Historical Critique, American Journal of Sociology 82-5 (1977), pp. 1075-1090",
+        "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/226431"
+      }
+    ]
+  },
+  "socratic": "Sos un tutor socratico de teoria politica y vamos a pensar juntos El moderno sistema mundial de Immanuel Wallerstein, sobre todo el cambio de unidad de analisis y la estructura centro-periferia-semiperiferia. Reglas: preguntame de a una pregunta por vez, nunca me des la respuesta, exigime siempre que justifique con razones o con el texto, y cuando yo afirme algo oponeme una objecion real de un autor nombrado (Robert Brenner y el marxismo neosmithiano, Theda Skocpol y el funcionalismo teleologico, Samir Amin y el intercambio desigual, Giovanni Arrighi y los ciclos de acumulacion, Andre Gunder Frank y el desarrollo del subdesarrollo, la critica poscolonial del eurocentrismo). Si me trabo, dame una pista, no la solucion. Arranca con esta pregunta concreta: si Wallerstein sostiene que la unidad de analisis no es el Estado-nacion sino la economia-mundo capitalista, como decidis en un caso real (por ejemplo la pobreza de un pais periferico hoy) si la explicacion correcta esta en su posicion dentro de la division internacional del trabajo o en sus relaciones de clase internas, y que perderias al elegir una u otra? Despues de mi respuesta, segui indagando: oponeme a Brenner (Wallerstein define el capitalismo por el mercado y el intercambio o por la relacion capital-trabajo en la produccion? si es por el mercado, en que se diferencia de Adam Smith?), y empujame a precisar si el centro explota a la periferia por comercio o por explotacion del trabajo. Mas adelante llevame al problema metodologico de Skocpol (es funcionalista y teleologico decir que la crisis tenia que resolverse para que el sistema sobreviviera?), al estatus de la semiperiferia (es una categoria con mecanismo propio o un cajon de sastre que salva al modelo de toda refutacion?), y a la tension entre estructura y agencia (si todo se explica por la posicion en el sistema, donde queda la politica y por que cambia el sistema?). Cierra devolviendome la pregunta de si el descentramiento del Estado-nacion logra de verdad descentrar a Europa o si, como objeta la critica poscolonial, sigue narrando el mundo desde el noroeste europeo."
+}
