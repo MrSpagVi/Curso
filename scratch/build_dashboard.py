@@ -3358,6 +3358,13 @@ styles_css = _css + "\n" + LANDING_CSS
 app_js = _app_js
 course_data_js = "window.COURSE_DATA = " + json.dumps(course_data, ensure_ascii=False) + ";\n"
 
+# Cache busting: los HTML referencian los assets con ?v=<hash de contenido>,
+# asi cada deploy invalida el cache del navegador (GitHub Pages cachea 10 min).
+import hashlib
+def _asset_v(s):
+    return hashlib.md5(s.encode("utf-8")).hexdigest()[:10]
+V_CSS, V_APP, V_DATA = _asset_v(styles_css), _asset_v(app_js), _asset_v(course_data_js)
+
 # 3) Datos de la portada (calculados desde course_data).
 _deep = sum(1 for s in course_data if 'debate-list' in (s.get('debates_html') or ''))
 
@@ -3561,6 +3568,13 @@ curso_html = (
     + '    <script src="assets/app.js"></script>\n'
     + "</body>\n</html>\n"
 )
+
+# 5.5) Inyectar la version de cada asset en los HTML (cache busting).
+index_html = index_html.replace('href="assets/styles.css"', 'href="assets/styles.css?v=%s"' % V_CSS)
+curso_html = (curso_html
+    .replace('href="assets/styles.css"', 'href="assets/styles.css?v=%s"' % V_CSS)
+    .replace('src="assets/course-data.js"', 'src="assets/course-data.js?v=%s"' % V_DATA)
+    .replace('src="assets/app.js"', 'src="assets/app.js?v=%s"' % V_APP))
 
 # 6) Escribir todo en web/ (carpeta dedicada del sitio; site/ es el build de MkDocs).
 _root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
