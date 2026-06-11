@@ -961,15 +961,17 @@
         .mobile-nav-backdrop { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 190; }
 
         @media (max-width: 768px) {
-            html, body { overflow-x: clip; }
-            header { height: auto; min-height: 52px; flex-wrap: wrap; gap: 0.4rem; padding: 0.5rem 0.8rem; }
+            /* El layout desktop fija body a 100vh con scroll interno en el panel;
+               en mobile el documento entero scrollea de forma nativa. */
+            html, body { height: auto; min-height: 100dvh; overflow-x: clip; overflow-y: auto; }
+            header { height: auto; min-height: 52px; flex-wrap: wrap; gap: 0.5rem; row-gap: 0.55rem; padding: 0.75rem 0.9rem 0.85rem; }
             .header-title-area h1 { font-size: 1rem; line-height: 1.2; }
             .header-title-area span { display: none; }
-            .header-right { flex-wrap: wrap; gap: 0.35rem; justify-content: flex-end; }
-            .header-right .theme-toggle-btn, .header-right .continue-btn { font-size: 0.7rem; padding: 0.4rem 0.6rem; }
+            .header-right { flex-wrap: wrap; gap: 0.45rem; row-gap: 0.5rem; justify-content: flex-end; }
+            .header-right .theme-toggle-btn, .header-right .continue-btn { font-size: 0.7rem; padding: 0.45rem 0.65rem; }
             .header-right .track-select { font-size: 0.72rem; max-width: 145px; }
             .workspace-grid { height: auto; min-height: calc(100dvh - 52px); overflow: visible; }
-            .workspace-panel { padding: 1.1rem 0.95rem 4.5rem; overflow: visible; }
+            .workspace-panel { padding: 1.6rem 0.95rem 5rem; overflow: visible; }
             .workspace-panel h2, .stage-hero h2 { font-size: 1.35rem; overflow-wrap: anywhere; }
             .stage-hero-meta { flex-wrap: wrap; row-gap: 0.35rem; }
             .reading-toolbar { row-gap: 0.4rem; }

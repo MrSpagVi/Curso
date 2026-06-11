@@ -1159,7 +1159,8 @@
             openPhases[stage.phase_index] = true;
             
             const panel = document.getElementById('workspace-panel');
-            let quoteHtml = stage.quote ? `<div class="workspace-quote">"${stage.quote}"</div>` : '';
+            // Las citas de los .md ya traen sus propias comillas; no agregar otras.
+            let quoteHtml = stage.quote ? `<div class="workspace-quote">${stage.quote}</div>` : '';
             
             // Dynamic generation of Growth Application section
             let growthHtml = stage.growth_html;

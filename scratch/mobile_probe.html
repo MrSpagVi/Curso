@@ -14,7 +14,8 @@ f.onload = () => {
       const d = f.contentDocument;
       const w = f.contentWindow;
       const vw = d.documentElement.clientWidth;
-      let report = ['viewport=' + vw, 'scrollWidth=' + d.documentElement.scrollWidth, 'bodyScrollWidth=' + d.body.scrollWidth];
+      const de = d.documentElement; const canScroll = (de.scrollHeight > de.clientHeight) && (w.getComputedStyle(d.body).overflowY !== 'hidden') && (w.getComputedStyle(de).overflowY !== 'hidden');
+      let report = ['viewport=' + vw, 'scrollH=' + de.scrollHeight, 'clientH=' + de.clientHeight, 'canScroll=' + canScroll, 'scrollWidth=' + d.documentElement.scrollWidth, 'bodyScrollWidth=' + d.body.scrollWidth];
       const offenders = [];
       d.querySelectorAll('*').forEach(el => {
         const r = el.getBoundingClientRect();
