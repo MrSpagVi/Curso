@@ -879,12 +879,11 @@ html_template = """<!DOCTYPE html>
             }
         }
 
+        /* En mobile el grid pasa a 1 columna; el sidebar-left se convierte en un
+           drawer off-canvas (reglas al final del CSS, para ganar la cascada). */
         @media (max-width: 768px) {
             .workspace-grid {
                 grid-template-columns: 1fr;
-            }
-            .sidebar-left {
-                display: none;
             }
         }
 
@@ -1653,6 +1652,58 @@ html_template = """<!DOCTYPE html>
         .harada-home-card .s { font-size: 0.8rem; color: var(--text-muted); }
         .harada-home-card .pct { font-family: var(--font-display, Georgia, serif); font-size: 1.5rem; font-weight: 800; color: var(--primary); }
         @media (max-width: 700px) { .hw-grid { grid-template-columns: 1fr 1fr; } .hw-row { flex-wrap: wrap; } }
+
+        /* ==== Mobile (<=768px): drawer de navegacion + ajustes de layout ==== */
+        .mobile-nav-toggle {
+            display: none; position: fixed; bottom: 1rem; left: 1rem; z-index: 220;
+            padding: 0.7rem 1.1rem; border-radius: 99px; border: none; cursor: pointer;
+            background: var(--primary); color: #fff; font-weight: 700; font-size: 0.85rem;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.35);
+        }
+        .mobile-nav-backdrop { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 190; }
+
+        @media (max-width: 768px) {
+            html, body { overflow-x: clip; }
+            header { height: auto; min-height: 52px; flex-wrap: wrap; gap: 0.4rem; padding: 0.5rem 0.8rem; }
+            .header-title-area h1 { font-size: 1rem; line-height: 1.2; }
+            .header-title-area span { display: none; }
+            .header-right { flex-wrap: wrap; gap: 0.35rem; justify-content: flex-end; }
+            .header-right .theme-toggle-btn, .header-right .continue-btn { font-size: 0.7rem; padding: 0.4rem 0.6rem; }
+            .header-right .track-select { font-size: 0.72rem; max-width: 145px; }
+            .workspace-grid { height: auto; min-height: calc(100dvh - 52px); overflow: visible; }
+            .workspace-panel { padding: 1.1rem 0.95rem 4.5rem; overflow: visible; }
+            .workspace-panel h2, .stage-hero h2 { font-size: 1.35rem; overflow-wrap: anywhere; }
+            .stage-hero-meta { flex-wrap: wrap; row-gap: 0.35rem; }
+            .reading-toolbar { row-gap: 0.4rem; }
+            .read-themes { flex-wrap: wrap; }
+            .welcome-progress-box { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+            .welcome-progress-box > div[style*="right"] { text-align: left; }
+            .stage-footer { flex-wrap: wrap; }
+            pre, .socratic-prompt-text, table { max-width: 100%; overflow-x: auto; }
+            img, svg, iframe, video { max-width: 100%; }
+
+            /* Drawer: el sidebar-left sale de la grilla y se vuelve panel deslizante */
+            .sidebar-left {
+                display: flex; position: fixed; top: 0; left: 0; bottom: 0;
+                width: min(86vw, 330px); z-index: 200;
+                transform: translateX(-105%); transition: transform 0.25s ease;
+                box-shadow: 0 0 40px rgba(0,0,0,0.45);
+                border-right: 1px solid var(--border-color);
+            }
+            body.nav-open .sidebar-left { transform: translateX(0); }
+            body.nav-open .mobile-nav-backdrop { display: block; }
+            .mobile-nav-toggle { display: inline-flex; align-items: center; gap: 0.4rem; }
+            body.nav-open .mobile-nav-toggle { z-index: 230; }
+
+            /* El panel derecho aparece debajo del contenido como bloque normal */
+            .sidebar-right { display: block; border-left: none; border-top: 1px solid var(--border-color); height: auto; overflow: visible; }
+
+            /* Modal de respaldo usable con teclado en pantalla */
+            .modal-card { width: min(94vw, 560px); }
+        }
+        @media (prefers-reduced-motion: reduce) {
+            .sidebar-left { transition: none; }
+        }
     </style>
 </head>
 <body data-theme="dark">
@@ -1683,6 +1734,10 @@ html_template = """<!DOCTYPE html>
             <button class="theme-toggle-btn" onclick="openBackupModal()">Respaldar</button>
         </div>
     </header>
+
+    <!-- Navegacion mobile: boton flotante + backdrop del drawer -->
+    <button class="mobile-nav-toggle" id="mobile-nav-toggle" onclick="toggleMobileNav()" aria-label="Abrir navegacion de etapas">Etapas</button>
+    <div class="mobile-nav-backdrop" onclick="closeMobileNav()"></div>
 
     <div class="workspace-grid">
         <!-- Sidebar Left -->
@@ -1835,6 +1890,18 @@ html_template = """<!DOCTYPE html>
             // Nada que restaurar: home de la app.
             selectedStageNum = null;
             renderWelcomePage();
+        }
+
+        // Drawer de navegacion en mobile.
+        function toggleMobileNav() {
+            document.body.classList.toggle('nav-open');
+            const t = document.getElementById('mobile-nav-toggle');
+            if (t) t.textContent = document.body.classList.contains('nav-open') ? 'Cerrar' : 'Etapas';
+        }
+        function closeMobileNav() {
+            document.body.classList.remove('nav-open');
+            const t = document.getElementById('mobile-nav-toggle');
+            if (t) t.textContent = 'Etapas';
         }
 
         function goHome() {
@@ -2411,6 +2478,7 @@ html_template = """<!DOCTYPE html>
             renderHaradaPage();
         }
         function goHarada() {
+            closeMobileNav();
             selectedStageNum = null;
             localStorage.removeItem('selected-stage-num');
             if (location.hash !== '#/harada') { history.pushState(null, '', '#/harada'); }
@@ -2850,6 +2918,7 @@ html_template = """<!DOCTYPE html>
         }
         
         function selectStage(stageNum) {
+            closeMobileNav();
             selectedStageNum = stageNum;
             localStorage.setItem('selected-stage-num', stageNum);
             // Cada etapa tiene su propia URL. Si el cambio vino de un click (no del router),
@@ -3246,6 +3315,29 @@ LANDING_CSS = """
         .lp-harada-txt h3 { font-family: var(--font-display, Georgia, serif); font-size: 1.3rem; margin: 0 0 0.5rem; }
         .lp-harada-txt p { font-size: 0.9rem; line-height: 1.6; color: var(--text-muted); margin: 0 0 0.8rem; }
         .lp-harada-txt ul { margin: 0 0 1.1rem; padding-left: 1.1rem; font-size: 0.85rem; line-height: 1.7; color: var(--text-muted); }
+
+        /* Mobile: sin overflow horizontal, tipografia y grillas ajustadas */
+        body.lp { overflow-x: clip; }
+        .lp-hero > * { max-width: 100%; }
+        @media (max-width: 640px) {
+            .lp-topbar { padding: 0.65rem 1rem; }
+            .lp-topbar .lp-btn { padding: 0.55rem 0.9rem; font-size: 0.82rem; white-space: nowrap; }
+            .lp-brand { font-size: 0.92rem; }
+            .lp-hero { padding: 2.75rem 1rem 4.25rem; min-height: calc(100svh - 54px); }
+            .lp-kicker { letter-spacing: 0.12em; font-size: 0.66rem; }
+            .lp-hero h1 { font-size: clamp(2rem, 9vw, 2.6rem); }
+            .lp-cta { width: 100%; }
+            .lp-cta .lp-btn { flex: 1 1 auto; text-align: center; }
+            .lp-stats { grid-template-columns: repeat(2, 1fr); gap: 1.1rem 0.5rem; margin-top: 2.25rem; }
+            .lp-stat .n { font-size: 1.7rem; }
+            .lp-wrap { padding: 0 1rem 3rem; }
+            .lp-section { padding: 2.5rem 0 1.75rem; }
+            .lp-phase { grid-template-columns: auto 1fr; row-gap: 0.2rem; }
+            .lp-phase .meta { grid-column: 2; display: flex; gap: 0.7rem; text-align: left; white-space: normal; }
+            .lp-phase .meta .go { margin-top: 0; }
+            .lp-harada { padding: 1.15rem; gap: 1.15rem; }
+            .lp-ow { max-width: 300px; margin: 0 auto; }
+        }
 
         .lp-reveal { opacity: 0; transform: translateY(18px); transition: opacity 0.55s ease, transform 0.55s ease; }
         .lp-reveal.is-in { opacity: 1; transform: none; }

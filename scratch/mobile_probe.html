@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"></head>
+<body>
+<iframe id="f" width="390" height="844" style="border:0"></iframe>
+<pre id="out">PENDING</pre>
+<script>
+const target = new URLSearchParams(location.search).get('p') || 'index.html';
+const f = document.getElementById('f');
+f.src = '../web/' + target;
+f.onload = () => {
+  setTimeout(() => {
+    try {
+      const d = f.contentDocument;
+      const w = f.contentWindow;
+      const vw = d.documentElement.clientWidth;
+      let report = ['viewport=' + vw, 'scrollWidth=' + d.documentElement.scrollWidth, 'bodyScrollWidth=' + d.body.scrollWidth];
+      const offenders = [];
+      d.querySelectorAll('*').forEach(el => {
+        const r = el.getBoundingClientRect();
+        if (r.right > vw + 1 || r.left < -1) {
+          const cls = (el.className && el.className.baseVal !== undefined) ? el.className.baseVal : (el.className || '');
+          offenders.push(el.tagName + '.' + String(cls).split(' ')[0] + ' L=' + Math.round(r.left) + ' R=' + Math.round(r.right) + ' W=' + Math.round(r.width));
+        }
+      });
+      report.push('offenders=' + offenders.length);
+      report = report.concat(offenders.slice(0, 25));
+      document.getElementById('out').textContent = 'PROBE:' + report.join(' | ');
+    } catch (e) {
+      document.getElementById('out').textContent = 'PROBE:ERROR ' + e.message;
+    }
+  }, 1200);
+};
+</script>
+</body>
+</html>

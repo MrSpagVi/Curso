@@ -110,6 +110,18 @@
             renderWelcomePage();
         }
 
+        // Drawer de navegacion en mobile.
+        function toggleMobileNav() {
+            document.body.classList.toggle('nav-open');
+            const t = document.getElementById('mobile-nav-toggle');
+            if (t) t.textContent = document.body.classList.contains('nav-open') ? 'Cerrar' : 'Etapas';
+        }
+        function closeMobileNav() {
+            document.body.classList.remove('nav-open');
+            const t = document.getElementById('mobile-nav-toggle');
+            if (t) t.textContent = 'Etapas';
+        }
+
         function goHome() {
             selectedStageNum = null;
             localStorage.removeItem('selected-stage-num');
@@ -684,6 +696,7 @@
             renderHaradaPage();
         }
         function goHarada() {
+            closeMobileNav();
             selectedStageNum = null;
             localStorage.removeItem('selected-stage-num');
             if (location.hash !== '#/harada') { history.pushState(null, '', '#/harada'); }
@@ -1123,6 +1136,7 @@
         }
         
         function selectStage(stageNum) {
+            closeMobileNav();
             selectedStageNum = stageNum;
             localStorage.setItem('selected-stage-num', stageNum);
             // Cada etapa tiene su propia URL. Si el cambio vino de un click (no del router),
