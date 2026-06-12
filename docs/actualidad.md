@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-06-11 10:09 UTC_
+_Última actualización: 2026-06-12 09:58 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[El Mundial "más caro y más politizado": 4 claves del conflictivo megatorneo en Norteamérica](https://www.bbc.com/mundo/articles/cd0mgg47ry3o?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
-  - Todo apunta a que, más allá del espectáculo futbolístico, este gigantesco Mundial será recordado como uno de los más polémicos de la historia.
-- **[Estados Unidos e Irán intercambian ataques en Medio Oriente por segundo día consecutivo](https://www.bbc.com/mundo/articles/cx23n125658o?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
-  - El Mando Central de EE.UU. (Centcom) dijo que los ataques son "en respuesta a la agresión injustificada y continuada de Irán", mientras que Teherán declara el estrecho de Ormuz completamente cerrado.
-- **["Han hecho lo que han querido con nosotros porque somos pobres": el pueblo de Perú al que el Vaticano pidió perdón de rodillas por el despojo de tierras atribuido al Sodalicio](https://www.bbc.com/mundo/articles/cvgzm2n3n70o?at_medium=RSS&at_campaign=rss)** · *2026-06-10*
-  - Un grupo de campesinos indígenas del norte del país lleva años acusando a empresas ligadas a la organización religiosa -suprimida por orden del Vaticano en 2025- por amenazas y criminalización.
-- **["Un escenario apocalíptico": el brutal ataque con cuchillo a un hombre que desató violentas protestas en Belfast](https://www.bbc.com/mundo/articles/cjwg09lpe57o?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
-  - Un brutal ataque con cuchillo del que se acusa a un refugiado sudanés desató una violenta oleada de protestas en Irlanda del Norte, en las que familias enteras se vieron obligadas a huir aterrorizadas de sus hogares.
-- **["Tinder para esperma": cómo funciona el mercado ilegal de semen en el que se engaña a mujeres vulnerables que desean quedar embarazadas](https://www.bbc.com/mundo/articles/ckg8n3vxn8lo?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
-  - Una investigación de la BBC reveló que se pagaron US$133 por una muestra con entrega al día siguiente de un hombre que anunciaba su "semen para bebés" en internet
+- **[Síguelo en directo aquí](https://www.bbc.com/mundo/articles/c3v25v922k4o?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
+  - Consulta los partidos, los marcadores y las tablas en tiempo real y en el horario de tu país
+- **[Cómo es el dron marítimo con el que EE.UU. rescató a los tripulantes del helicóptero Apache derribado en el estrecho de Ormuz](https://www.bbc.com/mundo/articles/c4gypx283p5o?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
+  - BBC Verify investiga lo que se conoce sobre el barco teledirigido Corsair y cómo se realizó la misión de rescate.
+- **[Elecciones en Perú: Keiko Fujimori adelanta a Roberto Sánchez, pero poco más de 1.000 votos los separan en las disputadas presidenciales](https://www.bbc.com/mundo/articles/c1kye78j4nyo?at_medium=RSS&at_campaign=rss)** · *2026-06-12*
+  - Keiko Fujimori lidera el recuento de votos en las elecciones presidenciales de Perú con una mínima ventaja sobre Roberto Sánchez.
+- **[La princesa Bajrakitiyabha de Tailandia muere tras pasar más de 3 años en coma](https://www.bbc.com/mundo/articles/cd95xj7e9g8o?at_medium=RSS&at_campaign=rss)** · *2026-06-12*
+  - Bajrakitiyabha era la mayor de los siete hijos del rey Vajiralongkorn y la miembro más destacada de la realeza tailandesa.
+- **[Los científicos dicen que el fenómeno de El Niño ya empezó y advierten de los efectos climáticos extremos que puede traer](https://www.bbc.com/mundo/articles/cgrkww90dgeo?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
+  - Un fenómeno de El Niño ha comenzado oficialmente, según científicos estadounidenses, lo que genera temores de condiciones meteorológicas extremas y temperaturas más elevadas.
 
 ## El País — Internacional
 
-- **[Los intercambios de fuego entre Estados Unidos e Irán abren una peligrosa nueva fase en la guerra](https://elpais.com/internacional/2026-06-11/los-intercambios-de-fuego-entre-estados-unidos-e-iran-abren-una-peligrosa-nueva-fase-en-la-guerra.html)** · *2026-06-11*
-  - Trump amenaza con una nueva ronda de ataques este jueves si Teherán no acepta sus condiciones para la paz
-- **[Belfast sufre una segunda noche de violencia contra los inmigrantes pero con focos más reducidos](https://elpais.com/internacional/2026-06-10/belfast-sufre-una-segunda-noche-de-violencia-contra-los-inmigrantes-pero-con-focos-mas-reducidos.html)** · *2026-06-10*
-  - La policía usa cañones de agua para controlar a los manifestantes
-- **[Jean-Luc Mélenchon: “La derecha ya no tiene nada que proponer salvo el miedo”](https://elpais.com/internacional/2026-06-11/jean-luc-melenchon-la-derecha-ya-no-tiene-nada-que-proponer-salvo-el-miedo.html)** · *2026-06-11*
-  - El líder del partido de extrema izquierda La Francia Insumisa, que lanzó su campaña el pasado domingo en la periferia parisina de Saint-Denis, es el único candidato claro ahora mismo a las presidenciales francesas de 2027
+- **[Trump anuncia un acuerdo de paz que Irán desmiente](https://elpais.com/internacional/2026-06-11/trump-cancela-subitamente-sus-amenazas-de-atacar-iran-y-anuncia-un-posible-acuerdo.html)** · *2026-06-11*
+  - El presidente estadounidense asegura que ha cancelado los ataques y que los últimos detalles de las negociaciones “han sido aprobados por todas las partes”
+- **[El régimen iraní acelera la represión con acusaciones de espionaje](https://elpais.com/internacional/2026-06-12/el-regimen-irani-acelera-la-represion-interna-mientras-aumenta-la-tension-con-ee-uu.html)** · *2026-06-12*
+  - Aumentan las detenciones y procedimientos judiciales contra personas acusadas de colaborar con Israel
+- **[La revolución de los flamencos se levanta contra los megaproyectos de la familia Trump en Albania: “Nuestro país no está en venta”](https://elpais.com/internacional/2026-06-12/la-revolucion-de-los-flamencos-se-levanta-contra-los-megaproyectos-de-la-familia-trump-en-albania-nuestro-pais-no-esta-en-venta.html)** · *2026-06-12*
+  - Miles de manifestantes salen a las calles de Tirana por duodécimo día consecutivo en una de las mayores protestas en el país de las últimas décadas
 - **[La UE debe parar los pies a Israel](https://elpais.com/opinion/2026-06-10/la-ue-debe-parar-los-pies-a-israel.html)** · *2026-06-10*
   - Europa no puede seguir haciendo la vista gorda ante las ilegalidades y las violaciones de derechos humanos que el Gobierno de Netanyahu comete en Palestina
 - **[Venezuela, país portátil](https://elpais.com/opinion/2026-06-09/venezuela-pais-portatil.html)** · *2026-06-09*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Supergirl: why DC comics is betting big on a hero long stuck in Superman’s shadow](https://theconversation.com/supergirl-why-dc-comics-is-betting-big-on-a-hero-long-stuck-in-supermans-shadow-284238)** · *2026-06-11*
-  - Supergirl has long struggled to emerge from the shadow of her cousin, Superman.
-- **[Why some men with prostate cancer may soon need only five radiotherapy sessions](https://theconversation.com/why-some-men-with-prostate-cancer-may-soon-need-only-five-radiotherapy-sessions-284986)** · *2026-06-11*
-  - The treatment is shorter and more convenient, but it will not suit every man with prostate cancer.
-- **[Hardening the body: the science behind martial arts conditioning](https://theconversation.com/hardening-the-body-the-science-behind-martial-arts-conditioning-282449)** · *2026-06-11*
-  - Centuries-old conditioning techniques are remaking bone, muscle and skin at a cellular level. Modern science is only just catching up.
-- **[How the US finally fell in love with soccer](https://theconversation.com/how-the-us-finally-fell-in-love-with-soccer-284984)** · *2026-06-11*
-  - Listen to football historian John Sloop trace the history of soccer in the US on The Conversation Weekly podcast.
-- **[Grattan on Friday: Albanese’s broken promises have played into Hanson’s insurgency](https://theconversation.com/grattan-on-friday-albaneses-broken-promises-have-played-into-hansons-insurgency-284306)** · *2026-06-11*
-  - The Albanese government latest budget has given fodder to those seeking to feed the disillusionment that is overtaking a growing number of Australians.
+- **[Do you lose your whole day to one appointment? ‘Waiting mode’ may be why](https://theconversation.com/do-you-lose-your-whole-day-to-one-appointment-waiting-mode-may-be-why-280608)** · *2026-06-12*
+  - A growing term for a familiar feeling: how ‘waiting mode’ captures the difficulty of time and anticipation.
+- **[Windfarms on this Scottish isle are contentious – renewables must work for local people too](https://theconversation.com/windfarms-on-this-scottish-isle-are-contentious-renewables-must-work-for-local-people-too-282534)** · *2026-06-12*
+  - New infrastructure planning is putting the future of community-owned energy at risk.
+- **[Why tiny amounts of vitamin B12 matter more as we age](https://theconversation.com/why-tiny-amounts-of-vitamin-b12-matter-more-as-we-age-282520)** · *2026-06-12*
+  - A century after liver was found to treat pernicious anaemia, scientists are still uncovering how vitamin B12 helps blood, nerves and cells.
+- **[Why drinking alcohol makes you reach for chips and nachos](https://theconversation.com/why-drinking-alcohol-makes-you-reach-for-chips-and-nachos-284540)** · *2026-06-12*
+  - Alcohol stimulates a hunger for protein. And if it’s not satisfied, it persists.
+- **[View from The Hill: antisemitism royal commission soon to wade into tricky terrorities](https://theconversation.com/view-from-the-hill-antisemitism-royal-commission-soon-to-wade-into-tricky-terrorities-284305)** · *2026-06-12*
+  - It was imperative to have the post-Bondi royal commission, but the evidence to come will highlight and could even exacerbate the strains in our fractured society.
 
 ## Nueva Sociedad
 
