@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-06-12 09:58 UTC_
+_Última actualización: 2026-06-13 08:48 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -19,27 +19,27 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 - **[Síguelo en directo aquí](https://www.bbc.com/mundo/articles/c3v25v922k4o?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
   - Consulta los partidos, los marcadores y las tablas en tiempo real y en el horario de tu país
-- **[Cómo es el dron marítimo con el que EE.UU. rescató a los tripulantes del helicóptero Apache derribado en el estrecho de Ormuz](https://www.bbc.com/mundo/articles/c4gypx283p5o?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
-  - BBC Verify investiga lo que se conoce sobre el barco teledirigido Corsair y cómo se realizó la misión de rescate.
-- **[Elecciones en Perú: Keiko Fujimori adelanta a Roberto Sánchez, pero poco más de 1.000 votos los separan en las disputadas presidenciales](https://www.bbc.com/mundo/articles/c1kye78j4nyo?at_medium=RSS&at_campaign=rss)** · *2026-06-12*
-  - Keiko Fujimori lidera el recuento de votos en las elecciones presidenciales de Perú con una mínima ventaja sobre Roberto Sánchez.
-- **[La princesa Bajrakitiyabha de Tailandia muere tras pasar más de 3 años en coma](https://www.bbc.com/mundo/articles/cd95xj7e9g8o?at_medium=RSS&at_campaign=rss)** · *2026-06-12*
-  - Bajrakitiyabha era la mayor de los siete hijos del rey Vajiralongkorn y la miembro más destacada de la realeza tailandesa.
-- **[Los científicos dicen que el fenómeno de El Niño ya empezó y advierten de los efectos climáticos extremos que puede traer](https://www.bbc.com/mundo/articles/cgrkww90dgeo?at_medium=RSS&at_campaign=rss)** · *2026-06-11*
-  - Un fenómeno de El Niño ha comenzado oficialmente, según científicos estadounidenses, lo que genera temores de condiciones meteorológicas extremas y temperaturas más elevadas.
+- **[Trump anuncia la muerte del "Niño Guerrero", líder del Tren de Aragua, en una operación militar de EE.UU.](https://www.bbc.com/mundo/articles/c75yw52yq5yo?at_medium=RSS&at_campaign=rss)** · *2026-06-13*
+  - El Comando Sur de Estados Unidos llevó a cabo un ataque "rápido y letal" que logró "ejecutar con éxito" a Guerrero Flores, en una operación que se realizó en estrecha coordinación con el gobierno venezolano, según Trump.
+- **[Las represalias de China contra Panamá después de que le revocaran las licencias de dos puertos en el canal](https://www.bbc.com/mundo/articles/c2d29r3zk40o?at_medium=RSS&at_campaign=rss)** · *2026-06-12*
+  - China aumentó las detenciones de buques con bandera panameña en puertos chinos tras una decisión desfavorable contra una empresa que gestionaba dos importantes puertos del Canal de Panamá.
+- **[Por qué algunos lugares quieren ser retirados de la Lista del Patrimonio Mundial de la Unesco](https://www.bbc.com/mundo/articles/cd95x3vl9jno?at_medium=RSS&at_campaign=rss)** · *2026-06-12*
+  - En algunos sitios incluidos en la lista de Patrimonio Mundial de la Unesco, sus habitantes creen que la distinción les causa más inconvenientes que ventajas.
+- **[Quién era Monika Silva Koniuszek, la activista polaca hallada muerta en Ecuador (y por qué la fiscalía pide ayuda internacional para la investigación)](https://www.bbc.com/mundo/articles/cy5vl9wl6ngo?at_medium=RSS&at_campaign=rss)** · *2026-06-12*
+  - La muerte de la activsta polaca es uno de varios casos que han causado conmoción en la sociedad ecuatoriana en los últimos meses.
 
 ## El País — Internacional
 
-- **[Trump anuncia un acuerdo de paz que Irán desmiente](https://elpais.com/internacional/2026-06-11/trump-cancela-subitamente-sus-amenazas-de-atacar-iran-y-anuncia-un-posible-acuerdo.html)** · *2026-06-11*
-  - El presidente estadounidense asegura que ha cancelado los ataques y que los últimos detalles de las negociaciones “han sido aprobados por todas las partes”
+- **[Estados Unidos e Irán aseguran que el acuerdo está “más cerca que nunca” pero discrepan sobre su contenido](https://elpais.com/internacional/2026-06-12/estados-unidos-e-iran-aseguran-que-el-acuerdo-esta-mas-cerca-que-nunca-pero-discrepan-sobre-su-contenido.html)** · *2026-06-12*
+  - Trump ha acusado a Teherán de difundir términos que “no tienen nada que ver” con lo pactado por escrito, mientras un alto cargo en Washington considera posible la firma este fin de semana
 - **[El régimen iraní acelera la represión con acusaciones de espionaje](https://elpais.com/internacional/2026-06-12/el-regimen-irani-acelera-la-represion-interna-mientras-aumenta-la-tension-con-ee-uu.html)** · *2026-06-12*
   - Aumentan las detenciones y procedimientos judiciales contra personas acusadas de colaborar con Israel
-- **[La revolución de los flamencos se levanta contra los megaproyectos de la familia Trump en Albania: “Nuestro país no está en venta”](https://elpais.com/internacional/2026-06-12/la-revolucion-de-los-flamencos-se-levanta-contra-los-megaproyectos-de-la-familia-trump-en-albania-nuestro-pais-no-esta-en-venta.html)** · *2026-06-12*
-  - Miles de manifestantes salen a las calles de Tirana por duodécimo día consecutivo en una de las mayores protestas en el país de las últimas décadas
+- **[Viviendas, sanidad y otros servicios: los suizos se preguntan hasta dónde pueden crecer](https://elpais.com/internacional/2026-06-13/viviendas-sanidad-y-otros-servicios-los-suizos-se-preguntan-hasta-donde-pueden-crecer.html)** · *2026-06-13*
+  - El país vota este domingo si fija un tope de 10 millones a la población. Una localidad pequeña que conserva el sabor rural y una del área metropolitana de Zúrich que levanta rascacielos exponen el dilema que plantea el referéndum
+- **[Tres derrotas (y una victoria) de Putin](https://elpais.com/opinion/2026-06-13/tres-derrotas-y-una-victoria-de-putin.html)** · *2026-06-13*
+  - El resultado desfavorable para el Kremlin de las elecciones en Armenia se enmarca en una pauta esperanzadora para el proyecto europeísta
 - **[La UE debe parar los pies a Israel](https://elpais.com/opinion/2026-06-10/la-ue-debe-parar-los-pies-a-israel.html)** · *2026-06-10*
   - Europa no puede seguir haciendo la vista gorda ante las ilegalidades y las violaciones de derechos humanos que el Gobierno de Netanyahu comete en Palestina
-- **[Venezuela, país portátil](https://elpais.com/opinion/2026-06-09/venezuela-pais-portatil.html)** · *2026-06-09*
-  - Cuando el país ocupa titulares por su desgraciada historia política, vale la pena volver a la novela de Adriano González León
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Do you lose your whole day to one appointment? ‘Waiting mode’ may be why](https://theconversation.com/do-you-lose-your-whole-day-to-one-appointment-waiting-mode-may-be-why-280608)** · *2026-06-12*
-  - A growing term for a familiar feeling: how ‘waiting mode’ captures the difficulty of time and anticipation.
-- **[Windfarms on this Scottish isle are contentious – renewables must work for local people too](https://theconversation.com/windfarms-on-this-scottish-isle-are-contentious-renewables-must-work-for-local-people-too-282534)** · *2026-06-12*
-  - New infrastructure planning is putting the future of community-owned energy at risk.
-- **[Why tiny amounts of vitamin B12 matter more as we age](https://theconversation.com/why-tiny-amounts-of-vitamin-b12-matter-more-as-we-age-282520)** · *2026-06-12*
-  - A century after liver was found to treat pernicious anaemia, scientists are still uncovering how vitamin B12 helps blood, nerves and cells.
-- **[Why drinking alcohol makes you reach for chips and nachos](https://theconversation.com/why-drinking-alcohol-makes-you-reach-for-chips-and-nachos-284540)** · *2026-06-12*
-  - Alcohol stimulates a hunger for protein. And if it’s not satisfied, it persists.
-- **[View from The Hill: antisemitism royal commission soon to wade into tricky terrorities](https://theconversation.com/view-from-the-hill-antisemitism-royal-commission-soon-to-wade-into-tricky-terrorities-284305)** · *2026-06-12*
-  - It was imperative to have the post-Bondi royal commission, but the evidence to come will highlight and could even exacerbate the strains in our fractured society.
+- **[As AI plays a bigger role in relationships, true intimacy is getting lost](https://theconversation.com/as-ai-plays-a-bigger-role-in-relationships-true-intimacy-is-getting-lost-284118)** · *2026-06-12*
+  - The normalisation of AI to mediate and shape intimacy arguably erodes self-curiosity.
+- **[Baby slings: what the evidence says about benefits, risks and safe use](https://theconversation.com/baby-slings-what-the-evidence-says-about-benefits-risks-and-safe-use-284356)** · *2026-06-12*
+  - New research finds that baby slings offer important benefits, but better safety information could help prevent rare deaths and injuries.
+- **[Pieter Obels and Feng Xiao-Min: a compelling exploration of nature through steel and paint](https://theconversation.com/pieter-obels-and-feng-xiao-min-a-compelling-exploration-of-nature-through-steel-and-paint-284856)** · *2026-06-12*
+  - The two artists have very different, yet curiously complimentary, responses to nature.
+- **[Criminal fly-tipping gangs are costing governments millions – AI and drones can help track waste dumpers](https://theconversation.com/criminal-fly-tipping-gangs-are-costing-governments-millions-ai-and-drones-can-help-track-waste-dumpers-283092)** · *2026-06-12*
+  - Technology could help find illegal waste sites faster and increase the chances of tracking down criminals.
+- **[Fungal highways are vast, yet hidden underground – new study](https://theconversation.com/fungal-highways-are-vast-yet-hidden-underground-new-study-285166)** · *2026-06-12*
+  - A new study provides a crucial baseline: the first global map of where these fungal networks are and how much of them exists.
 
 ## Nueva Sociedad
 
