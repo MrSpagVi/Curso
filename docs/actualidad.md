@@ -6,13 +6,15 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-07-02 08:43 UTC_
+_Última actualización: 2026-07-03 08:51 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
 
 ## Real Instituto Elcano
 
+- **[Enfoques de política pública para liderazgo digital efectivo en el Marco Financiero Plurianual y el Fondo Europeo de Competitividad](https://www.realinstitutoelcano.org/analisis/enfoques-de-politica-publica-para-liderazgo-digital-efectivo-en-el-marco-financiero-plurianual-y-el-fondo-europeo-de-competitividad/)** · *2026-07-02*
+  - Introducción[1] El liderazgo digital será una de las cuatro ventanas de inversión temáticas del futuro Fondo Europeo de Competitividad (FEC), el nuevo instrumento diseñado para consolidar los programas industriales y de innovación…
 - **[El nuevo orden de seguridad de Rusia en el Sahel y sus implicaciones euroatlánticas](https://www.realinstitutoelcano.org/analisis/el-nuevo-orden-de-seguridad-de-rusia-en-el-sahel-y-sus-implicaciones-euroatlanticas/)** · *2026-07-01*
   - Mensajes clave Análisis Introducción El entorno de seguridad en el Sahel está cambiando con rapidez. Las juntas militares de Mali, Burkina Faso y Níger han estrechado sus lazos con Moscú y han expulsado a las fuerzas occidentales. La…
 - **[La “cyber posture of entities” en la futura CSA2 y su fricción con la arquitectura de la Directiva NIS2](https://www.realinstitutoelcano.org/analisis/la-cyber-posture-of-entities-en-la-futura-csa2-y-su-friccion-con-la-arquitectura-de-la-directiva-nis2/)** · *2026-06-30*
@@ -21,30 +23,28 @@ _Última actualización: 2026-07-02 08:43 UTC_
   - El problema de la medición El riesgo geopolítico se ha convertido en una variable central para interpretar la economía internacional. No sólo importa a diplomáticos y analistas de seguridad. También condiciona decisiones de inversión,…
 - **[Ucrania y Moldavia: ¿una ampliación geopolítica?](https://www.realinstitutoelcano.org/comentarios/ucrania-y-moldavia-una-ampliacion-geopolitica/)** · *2026-06-22*
   - El (largo) camino hacia la Unión Europea El pasado 15 de junio, los Estados miembros acordaron la apertura de las negociaciones del primer grupo de capítulos para la adhesión de Ucrania y Moldavia a la Unión Europea (UE). Un año y medio…
-- **[La puesta en marcha del Pacto Europeo de Migración y Asilo: un acuerdo de mínimos entre dudas y certezas, apoyos y detractores](https://www.realinstitutoelcano.org/comentarios/la-puesta-en-marcha-del-pacto-europeo-de-migracion-y-asilo-un-acuerdo-de-minimos-entre-dudas-y-certezas-apoyos-y-detractores/)** · *2026-06-22*
-  - El Pacto Europeo de Migración y Asilo (PEMA), es decir el núcleo de la nueva política europea de inmigración y asilo, lleva una década diseñándose, negociándose, dibujándose y decidiéndose. Europa se encontró tras 2015 en una encrucijada:…
 
 ## BBC News Mundo
 
-- **["Estoy vivo, veo el cielo. Llamen a mi familia": las impactantes historias de cómo sobrevivieron algunos venezolanos la primera semana después del doble terremoto](https://www.bbc.com/mundo/articles/cy06385x9keo?at_medium=RSS&at_campaign=rss)** · *2026-07-02*
-  - Testimonios de fortaleza y pérdida mientras siguen las tareas de rescate en medio de la indignación por la falta de medios y la respuesta de las autoridades.
-- **[La destrucción que han sufrido otras localidades de Venezuela golpeadas por los terremotos y opacadas por la magnitud de la tragedia en La Guaira](https://www.bbc.com/mundo/articles/cn8qzd1jg0po?at_medium=RSS&at_campaign=rss)** · *2026-07-01*
-  - A una semana de los poderosos sismos, los habitantes de otras regiones afectadas afirman sentirse olvidados y desasistidos por parte de las autoridades.
-- **["Viajé desde Colombia a Venezuela para buscar a mi madre y ahora solo quiero encontrar su cuerpo"](https://www.bbc.com/mundo/articles/c2dy1y9n3n0o?at_medium=RSS&at_campaign=rss)** · *2026-07-01*
-  - Daniel Franco busca el cadáver de su madre para intentar darle una sepultura digna antes de regresar a Colombia.
-- **[Quiénes son los lefebvrianos, el grupo ultraconservador que desafió al papa León XIV ordenando a 4 obispos y que hace temer un cisma en la Iglesia católica](https://www.bbc.com/mundo/articles/c05yv48m0dgo?at_medium=RSS&at_campaign=rss)** · *2026-07-02*
-  - La ordenación de cuatro nuevos obispos sin la autorización de León XIV profundiza la brecha con el Vaticano.
-- **[Por qué lleva una banda en la cabeza Raúl Jiménez, el futbolista que estuvo a punto de morir y hoy lidera la esperanza de México en el Mundial](https://www.bbc.com/mundo/articles/c862y83x1ndo?at_medium=RSS&at_campaign=rss)** · *2026-07-01*
-  - Raúl Jiménez cuida de su cabeza con una banda protectora que ha usado desde 2020, luego de una lesión que puso en riesgo su vida.
+- **["Me da miedo lo que voy a ver allá dentro": BBC Mundo visita la morgue improvisada de Los Silos, donde los cadáveres se acumulan al aire libre tras los terremotos en Venezuela](https://www.bbc.com/mundo/articles/c4gyjxxdkxno?at_medium=RSS&at_campaign=rss)** · *2026-07-03*
+  - En una morgue improvisada en La Guaira, decenas de familias enfrentan un proceso doloroso y prolongado para identificar a sus seres queridos tras los devastadores terremotos. La mayoría de los rostros son irreconocibles.
+- **[3 factores que explican por qué se derrumbaron tantos edificios en La Guaira por el terremoto en Venezuela](https://www.bbc.com/mundo/articles/c4gy818p6n4o?at_medium=RSS&at_campaign=rss)** · *2026-07-02*
+  - El doblete sísmico fue devastador, pero ¿qué factores influyeron en los derrumbes de numerosos edificios? Esto es lo que dicen los expertos.
+- **["¡Un milagro!": el extraordinario rescate de Hernán, el hombre que estuvo 8 días bajo los escombros tras los terremotos en Venezuela](https://www.bbc.com/mundo/articles/cpd351vpl08o?at_medium=RSS&at_campaign=rss)** · *2026-07-02*
+  - Al quedar atrapado en una caseta de hormigón, el guardia de seguridad Hernán Gil sobrevivió sin romperse ni una uña, según les dijo a los rescatistas mientras trabajaban para sacarlo de las ruinas de un estacionamiento.
+- **[El Vaticano excomulga a los obispos rebeldes del grupo de los lefebvrianos y advierte a sus miles de seguidores](https://www.bbc.com/mundo/articles/cly76q6478po?at_medium=RSS&at_campaign=rss)** · *2026-07-02*
+  - Seis obispos de la la Fraternidad Sacerdotal San Pío X fueron excomulgados por el Vaticano al participar en un acto cismático para la Iglesia católica. Sus fieles también quedaron advertidos de la expulsión.
+- **["Gasté US$6.000 en un viaje para ver el Mundial y me dejaron tirado en la puerta del estadio"](https://www.bbc.com/mundo/articles/c6214nkgzgro?at_medium=RSS&at_campaign=rss)** · *2026-07-02*
+  - Cientos de aficionados que compraron entradas para el Mundial en la plataforma de reventa StubHub denuncian que fueron canceladas a última hora.
 
 ## El País — Internacional
 
-- **[Al menos 13 muertos en un bombardeo masivo ruso contra Kiev: “Esto es un ataque terrorista”](https://elpais.com/internacional/2026-07-02/varios-muertos-en-un-ataque-masivo-ruso-contra-kiev.html)** · *2026-07-02*
-  - Moscú reivindica la acción en represalia por la ofensiva ucrania contra infraestructuras civiles del país
-- **[Los otros negocios de Trump: de hoteles y campos de golf hasta relojes y biblias](https://elpais.com/internacional/2026-07-02/los-otros-negocios-de-trump-de-hoteles-y-campos-de-golf-hasta-relojes-y-biblias.html)** · *2026-07-02*
-  - El presidente posee un vasto imperio inmobiliario, con clubes de golf, residenciales de lujo y rascacielos repartidos por medio mundo
-- **[Harvard gana a Trump la primera batalla, pero la guerra no ha terminado: “Nos jugamos la democracia”](https://elpais.com/internacional/2026-07-02/harvard-gana-a-trump-la-primera-batalla-pero-la-guerra-no-ha-terminado-nos-jugamos-la-democracia.html)** · *2026-07-02*
-  - La universidad más rica y prestigiosa de Estados Unidos teme las consecuencias para el próximo curso de la nueva oleada de amenazas de la Administración republicana
+- **[¿”Gran Satán” o “Potencia Indispensable”? En su 250 aniversario, EE UU se plantea su papel en el mundo](https://elpais.com/internacional/2026-07-03/gran-satan-o-potencia-indispensable-en-su-250-aniversario-ee-uu-se-plantea-su-papel-en-el-mundo.html)** · *2026-07-03*
+  - Desde su fundación en 1776, Estados Unidos ha intervenido más de medio millar de veces en el exterior. Una tercera parte de las ocasiones, desde 1999
+- **[Irán y Omán negocian un modelo de pago para el estrecho de Ormuz](https://elpais.com/internacional/2026-07-03/iran-y-oman-negocian-un-modelo-de-pago-para-el-estrecho-de-ormuz.html)** · *2026-07-03*
+  - La Casa Blanca se opone a la imposición de una tasa a los barcos y juega la baza del levantamiento de sanciones sobre el petróleo iraní, pero Teherán insiste en su cobro
+- **[Delcy Rodríguez culpa a “laboratorios mediáticos” del caos en las primeras horas tras el doble terremoto en Venezuela](https://elpais.com/america/2026-07-03/delcy-rodriguez-culpa-a-laboratorios-mediaticos-del-caos-en-las-primeras-horas-tras-el-doble-terremoto-en-venezuela.html)** · *2026-07-03*
+  - La presidenta encargada de Venezuela defiende su gestión y niega que el despliegue de rescate fuera lento o insuficiente
 - **[La guerra de Ormuz](https://elpais.com/internacional/2026-07-01/la-guerra-de-ormuz.html)** · *2026-07-01*
   - De nuevo, la geografía y el comercio marcan la guerra en Oriente Próximo. Como si los últimos 70 años hubieran sido un sueño bienintencionado
 - **[La solidaridad con Venezuela, imperativo urgente](https://elpais.com/internacional/2026-06-30/la-solidaridad-con-venezuela-imperativo-urgente.html)** · *2026-06-30*
@@ -56,16 +56,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Grattan on Friday: Albanese wants Labor’s national conference to ‘showcase’ the party – but not its AUKUS division](https://theconversation.com/grattan-on-friday-albanese-wants-labors-national-conference-to-showcase-the-party-but-not-its-aukus-division-286038)** · *2026-07-02*
-  - The late July conference will be a tightly stage-managed affair, particularly when it comes to discussions about AUKUS and Palestine.
-- **[From the Fourth of July to Bastille Day: How France and America reinvent their nations through ritual](https://theconversation.com/from-the-fourth-of-july-to-bastille-day-how-france-and-america-reinvent-their-nations-through-ritual-286397)** · *2026-07-02*
-  - Two revolutions, two republics and the enduring power of national myths and civic festivities come to the fore in July as France and the US both celebrate national holidays.
-- **[The world’s oceans are the hottest on record for June – and El Niño is set to turn up the heat even more](https://theconversation.com/the-worlds-oceans-are-the-hottest-on-record-for-june-and-el-nino-is-set-to-turn-up-the-heat-even-more-286561)** · *2026-07-02*
-  - More than 90% of the heat trapped by greenhouses goes into the ocean. But what happens in the oceans doesn’t stay there.
-- **[Trump has made more than $1 billion from crypto in a year. How?](https://theconversation.com/trump-has-made-more-than-1-billion-from-crypto-in-a-year-how-286635)** · *2026-07-02*
-  - Turns out it can be quite easy – if you are the US president.
-- **[How much do friends influence teens’ mental health? What a new study can (and can’t) tell us](https://theconversation.com/how-much-do-friends-influence-teens-mental-health-what-a-new-study-can-and-cant-tell-us-286558)** · *2026-07-02*
-  - This study shows peers are linked to mental health. But this doesn’t mean anxiety and depression are ‘contagious’.
+- **[Deeming delays de-selection move, as Hanson declares One Nation doesn’t want her](https://theconversation.com/deeming-delays-de-selection-move-as-hanson-declares-one-nation-doesnt-want-her-286039)** · *2026-07-03*
+  - A planned meeting of the Liberal Party executive was nixed after Deeming brought court action against them.
+- **[America at 250: still a ‘democratic experiment’](https://theconversation.com/america-at-250-still-a-democratic-experiment-286695)** · *2026-07-03*
+  - Marking the first 250 years of the United States of America.
+- **[A suspected bird flu case has now been found in NSW. Here’s what that means](https://theconversation.com/a-suspected-bird-flu-case-has-now-been-found-in-nsw-heres-what-that-means-286764)** · *2026-07-03*
+  - Another apparent case of H5 avian influenza in a wild bird is a cause for concern – but it’s not the same as an outbreak.
+- **[We took a self-driving car on the road for 100 days to see how it handled itself – these are the mistakes it kept making](https://theconversation.com/we-took-a-self-driving-car-on-the-road-for-100-days-to-see-how-it-handled-itself-these-are-the-mistakes-it-kept-making-286265)** · *2026-07-03*
+  - Autonomous vehicles work much better than many people think – and much worse. Some simple changes to our roads could make them safer.
+- **[Blind boxes are a game of chance. Here’s how to keep kids from getting hooked](https://theconversation.com/blind-boxes-are-a-game-of-chance-heres-how-to-keep-kids-from-getting-hooked-282965)** · *2026-07-03*
+  - If you are a parent of kids who love blind boxes, you might be worried about how the game of luck echoes gambling.
 
 ## Nueva Sociedad
 
