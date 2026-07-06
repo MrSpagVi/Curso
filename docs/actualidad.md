@@ -6,40 +6,49 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-07-05 08:42 UTC_
+_Última actualización: 2026-07-06 09:58 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
 
 ## Real Instituto Elcano
 
-_Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.org/feed/](https://www.realinstitutoelcano.org/feed/)_
+- **[El epicentro geopolítico de Asia Occidental y meridional. Parte II: la India, Irán e Israel](https://www.realinstitutoelcano.org/analisis/el-epicentro-geopolitico-de-asia-occidental-y-meridional-parte-ii-la-india-iran-e-israel/)** · *2026-07-06*
+  - Mensajes clave Análisis Introducción En esta segunda entrega de dos análisis sobre la conexión entre estas dos regiones asiáticas, se tratarán las relaciones de la India con Israel e Irán. En Oriente Medio o Asia Occidental, Nueva Delhi…
+- **[250 años después: ¿sigue existiendo la idea de Estados Unidos?](https://www.realinstitutoelcano.org/comentarios/250-anyos-despues-sigue-existiendo-la-idea-de-estados-unidos/)** · *2026-07-03*
+  - Estados Unidos (EEUU) celebra el 250 aniversario de su Declaración de Independencia, un acontecimiento que constituye, por sí mismo, un logro histórico extraordinario. Pocas democracias representativas pueden presumir de una continuidad…
+- **[Enfoques de política pública para liderazgo digital efectivo en el Marco Financiero Plurianual y el Fondo Europeo de Competitividad](https://www.realinstitutoelcano.org/analisis/enfoques-de-politica-publica-para-liderazgo-digital-efectivo-en-el-marco-financiero-plurianual-y-el-fondo-europeo-de-competitividad/)** · *2026-07-02*
+  - Introducción[1] El liderazgo digital será una de las cuatro ventanas de inversión temáticas del futuro Fondo Europeo de Competitividad (FEC), el nuevo instrumento diseñado para consolidar los programas industriales y de innovación…
+- **[El nuevo orden de seguridad de Rusia en el Sahel y sus implicaciones euroatlánticas](https://www.realinstitutoelcano.org/analisis/el-nuevo-orden-de-seguridad-de-rusia-en-el-sahel-y-sus-implicaciones-euroatlanticas/)** · *2026-07-01*
+  - Mensajes clave Análisis Introducción El entorno de seguridad en el Sahel está cambiando con rapidez. Las juntas militares de Mali, Burkina Faso y Níger han estrechado sus lazos con Moscú y han expulsado a las fuerzas occidentales. La…
+- **[La “cyber posture of entities” en la futura CSA2 y su fricción con la arquitectura de la Directiva NIS2](https://www.realinstitutoelcano.org/analisis/la-cyber-posture-of-entities-en-la-futura-csa2-y-su-friccion-con-la-arquitectura-de-la-directiva-nis2/)** · *2026-06-30*
+  - Mensajes clave Análisis La revisión del marco europeo de ciberseguridad abierta por la Comisión a comienzos de 2026 persigue, según la documentación oficial del paquete, alinear el sistema normativo de la Unión con un entorno de amenazas…
 
 ## BBC News Mundo
 
+- **[Cómo el nuevo régimen de Irán es totalmente diferente del anterior](https://www.bbc.com/mundo/articles/c4gyy2gezzeo?at_medium=RSS&at_campaign=rss)** · *2026-07-06*
+  - El funeral de Jamenei es otro recordatorio del cambio que ha experimentado Irán, pero ¿qué quiere su nuevo liderazgo?
 - **[Qué sentí al volver a La Guaira y ver que el lugar en el que nací está ahora devastado y con cadáveres apilados](https://www.bbc.com/mundo/articles/ceqdvrejn1vo?at_medium=RSS&at_campaign=rss)** · *2026-07-05*
   - Desde La Guaira, el reportero de BBC Mundo Norberto Paredes describe la magnitud de la destrucción tras dos terremotos que transformaron su ciudad natal en cuestión de segundos.
-- **[Cómo el expansionismo en territorio y población de EE.UU. a lo largo de 250 años convirtió al país en una superpotencia pero con profundas divisiones](https://www.bbc.com/mundo/articles/c1ey2vnglz1o?at_medium=RSS&at_campaign=rss)** · *2026-07-04*
-  - Estados Unidos ha crecido, tanto en territorio como en población, a lo largo de los últimos 250 años. ¿Qué sigue?
-- **[6 cosas que quizá no sabías de Cabo Verde, el pequeño país que hizo historia en el Mundial 2026](https://www.bbc.com/mundo/articles/c3w9p87dd68o?at_medium=RSS&at_campaign=rss)** · *2026-07-04*
-  - Al margen del fútbol, rescatamos los elementos distintivos que hacen de Cabo Verde un país único en África y el mundo.
-- **[Francia destruye el sueño de Paraguay con un gol de penal de Mbappé](https://www.bbc.com/mundo/articles/c20y2yy04y7o?at_medium=RSS&at_campaign=rss)** · *2026-07-04*
-  - La selección sudamericana se despide del mundial tras llegar a los octavos de final, mientras Francia se enfrentará el próximo jueves en cuartos a Marruecos.
-- **[Quiénes fueron las "madres fundadoras", clave en la formación de Estados Unidos hace 250 años](https://www.bbc.com/mundo/articles/czrxe150xejo?at_medium=RSS&at_campaign=rss)** · *2026-07-04*
-  - ¿Dónde están las mujeres que lucharon codo a codo para la fundación de Estados Unidos como país? ¿Hubo también "madres fundadoras"?
+- **["Jugamos como nunca y perdimos como siempre": el sueño mundialista de México se acaba tras la derrota con Inglaterra](https://www.bbc.com/mundo/articles/c9q22nx721vo?at_medium=RSS&at_campaign=rss)** · *2026-07-06*
+  - El tri se quedó a un gol de completar la remontada contra Inglaterra y sale de un Mundial en que hizo soñar a la hinchada.
+- **["Una comida durante unas vacaciones me dejó con 38 parásitos en el cerebro"](https://www.bbc.com/mundo/articles/c4gyjnvjd79o?at_medium=RSS&at_campaign=rss)** · *2026-07-06*
+  - Los médicos se dieron cuenta de que los dolores de cabeza, las convulsiones y la psicosis de Lowri se debían a una infección causada por larvas de la tenia del cerdo.
+- **[Trump agradece a la FIFA por suspender la sanción a la estrella de EE.UU., Folarin Balogun, que ahora podrá jugar contra Bélgica en el Mundial](https://www.bbc.com/mundo/articles/c4gyyr3z06lo?at_medium=RSS&at_campaign=rss)** · *2026-07-05*
+  - Folarin Balogun había sido expulsado en el último partido, por lo que se le había impuesto un partido de sanción.
 
 ## El País — Internacional
 
-- **[250 años de presidentes de Estados Unidos y ninguno tan destructivo como Trump](https://elpais.com/internacional/2026-07-05/250-anos-de-presidentes-de-estados-unidos-y-ninguno-tan-destructivo-como-trump.html)** · *2026-07-05*
-  - El republicano amenaza con cambiar para siempre, a base de corrupción y expansión del poder ejecutivo, la institución que representa, cuyo diseño emana de la Declaración de Independencia
-- **[El mundo se precipita a una peligrosa espiral de gasto militar](https://elpais.com/internacional/2026-07-05/el-mundo-se-precipita-a-una-peligrosa-espiral-de-gasto-militar.html)** · *2026-07-05*
-  - La conflictividad geopolítica, la revolución tecnológica, intereses económicos y falta de tratados internacionales apuntan a un persistente avance de la carrera armamentística
-- **[Los hijos del manicomio del horror en Brasil exigen justicia: “Fue toda una vida de castigo”](https://elpais.com/america/2026-07-05/los-hijos-del-manicomio-del-horror-en-brasil-exigen-justicia-fue-toda-una-vida-de-castigo.html)** · *2026-07-05*
-  - Descendientes de dos mujeres internadas en el psiquiátrico de Barbacena, donde murieron 60.000 personas, relatan cómo descubrieron su pasado y sus motivos para demandar al Estado en los tribunales
+- **[Al menos 14 muertos en un ataque ruso contra Kiev en la víspera de la cumbre de la OTAN](https://elpais.com/internacional/2026-07-06/varios-muertos-y-heridos-en-un-ataque-de-rusia-contra-kiev-esta-madrugada.html)** · *2026-07-06*
+  - Los servicios de emergencias siguen buscando víctimas entre los escombros de los edificios alcanzados por el bombardeo, el segundo contra la capital en cuatro días
+- **[La justicia francesa decide entre el todo o nada para Marine Le Pen](https://elpais.com/internacional/2026-07-06/la-justicia-francesa-decide-entre-el-todo-o-nada-para-marine-le-pen.html)** · *2026-07-06*
+  - La histórica líder del ultraderechista Reagrupamiento Nacional afronta este martes una posible inhabilitación que dejaría al partido en manos de un dirigente ajeno a la familia
+- **[Louis Aliot, vicepresidente del Reagrupamiento Nacional: “El lepenismo no terminaría con una condena a Marine Le Pen”](https://elpais.com/internacional/2026-07-06/louis-aliot-vicepresidente-del-reagrupamiento-nacional-el-lepenismo-no-terminaria-con-una-condena-a-marine-le-pen.html)** · *2026-07-06*
+  - El alcalde de Perpiñán cree que la sentencia por malversación contra la líder del partido y él mismo será menos severa que en primera instancia. Asegura que la formación está cubierta en caso de inhabilitación
+- **[Tal vez las vidas americanas sí tengan una segunda oportunidad](https://elpais.com/internacional/2026-07-06/tal-vez-las-vidas-americanas-si-tengan-una-segunda-oportunidad.html)** · *2026-07-06*
+  - El fracaso es un tema central en la cultura de Estados Unidos, que en su 250 cumpleaños se enfrenta más que nunca al peligro del final de su democracia
 - **[Hannah Arendt contra Nixon y Trump](https://elpais.com/internacional/2026-07-05/hannah-arendt-contra-nixon-y-trump.html)** · *2026-07-05*
   - En el actual Supremo se constituye una mayoría casi automática cuando se trata de cabalgar hacia la autocracia presidencial, pero tropieza con el texto de la Constitución cuando revisa derechos inscritos en los grandes documentos…
-- **[Esperando a Mojtaba](https://elpais.com/internacional/2026-07-04/esperando-a-mojtaba.html)** · *2026-07-04*
-  - La atención durante las exequias del ayatolá Alí Jameneí, líder supremo de Irán asesinado por Israel y EEUU, se centra en si asiste su hijo y sucesor
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +56,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[A Super El Niño is coming: 5 hard-won lessons the world can learn from Africa](https://theconversation.com/a-super-el-nino-is-coming-5-hard-won-lessons-the-world-can-learn-from-africa-286294)** · *2026-07-05*
-  - A powerful Super El Niño is looming. Africa has learned hard lessons from past climate disasters that could help the world prepare.
-- **[Tanzania has banned political rallies again: what the government fears](https://theconversation.com/tanzania-has-banned-political-rallies-again-what-the-government-fears-286663)** · *2026-07-05*
-  - Rallies hold great significance in Tanzania and are central to everyday political communication.
-- **[Want to raise money for research? 5 things donors will look for before they trust you](https://theconversation.com/want-to-raise-money-for-research-5-things-donors-will-look-for-before-they-trust-you-285828)** · *2026-07-05*
-  - Well-run institutions are more resilient to financial instability and better positioned to attract long-term partnerships.
-- **[The Pharaohs rule in Dallas as the Socceroos are knocked out](https://theconversation.com/the-pharaohs-rule-in-dallas-as-the-socceroos-are-knocked-out-286441)** · *2026-07-03*
-  - The Socceroos World Cup campaign is over. But there’s plenty to be optimistic about for the next one in four years’ time.
-- **[Is your child devastated the Socceroos lost? Here’s how to help](https://theconversation.com/is-your-child-devastated-the-socceroos-lost-heres-how-to-help-286642)** · *2026-07-03*
-  - No parent likes seeing their child upset. But moments like these can also be opportunities to help kids build emotional skills.
+- **[View from The Hill: WA state byelection within Hastie’s seat another ‘real time’ test for One Nation](https://theconversation.com/view-from-the-hill-wa-state-byelection-within-hasties-seat-another-real-time-test-for-one-nation-286041)** · *2026-07-06*
+  - The contest will be closely watched for whether One Nation erodes Labor in an outer suburban area, and also for its implications for Hastie.
+- **[Victorian Redbridge poll has One Nation just ahead of Labor and the Coalition](https://theconversation.com/victorian-redbridge-poll-has-one-nation-just-ahead-of-labor-and-the-coalition-286753)** · *2026-07-06*
+  - With a state election set for late November, a new poll has One Nation ahead of the two major parties.
+- **[ABC will trial using AI for journalism. What are the risks and benefits?](https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841)** · *2026-07-06*
+  - The decision tracks with a long history of editors and journalists being early adopters of tech innovations.
+- **[As US celebrates independence, Iran mourns its fallen leader – and both countries claim victory](https://theconversation.com/as-us-celebrates-independence-iran-mourns-its-fallen-leader-and-both-countries-claim-victory-286842)** · *2026-07-06*
+  - The leaders of both countries have used significant events to claim victory over the other.
+- **[Wilsons Prom has been scarred by bushfires. It may help us protect other fire-prone forests](https://theconversation.com/wilsons-prom-has-been-scarred-by-bushfires-it-may-help-us-protect-other-fire-prone-forests-283377)** · *2026-07-06*
+  - A new study unpacks how Victoria’s eucalypt forests have coped with past bushfires – with lessons for the future.
 
 ## Nueva Sociedad
 
