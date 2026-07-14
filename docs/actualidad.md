@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-07-13 08:52 UTC_
+_Última actualización: 2026-07-14 07:49 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Las personas que se mudan de Occidente a Rusia en busca de valores tradicionales (y la realidad que encuentran)](https://www.bbc.com/mundo/articles/cwykjylv1xdo?at_medium=RSS&at_campaign=rss)** · *2026-07-13*
-  - La BBC preguntó a los occidentales que se mudaron a Rusia si la vida allí cumple con sus expectativas.
-- **[Muere a los 78 años Sam Neill, el actor que protagonizó "Jurassic Park"](https://www.bbc.com/mundo/articles/cx2k9ry810xo?at_medium=RSS&at_campaign=rss)** · *2026-07-13*
-  - Su familia informó mediante un comunicado que "la pérdida fue repentina e inesperada".
-- **[El auge de la femosfera: las mujeres que renuncian al romance y buscan hombres de "alto valor"](https://www.bbc.com/mundo/articles/c14yr2ye3p8o?at_medium=RSS&at_campaign=rss)** · *2026-07-12*
-  - Una corriente que invita a las mujeres a "despertar" ante las relaciones heterosexuales y a protegerse con reglas estrictas, cálculo emocional y cero margen de error.
-- **[Pasé de vivir en la calle a ser un experto en finanzas en el banco más grande de Reino Unido](https://www.bbc.com/mundo/articles/c39yrvjn083o?at_medium=RSS&at_campaign=rss)** · *2026-07-12*
-  - Con apenas tres meses fue entregado a una familia de acogida. A partir de ese momento, su vida tuvo unos tremendos giros que lo llevaron a vivir en la calle a los 18 años y luego, a convertirse en un prestigioso asesor financiero.
-- **[La erupción volcánica que produjo el sonido más fuerte que se haya registrado en la historia](https://www.bbc.com/mundo/articles/c8d23ym2430o?at_medium=RSS&at_campaign=rss)** · *2026-07-12*
-  - Un volcán en Indonesia entró en erupción esta semana. En el mismo lugar, en 1833, ocurrió uno de los desastres naturales más mortíferos del siglo XIX.
+- **[El inicio de una nueva era en Gibraltar con la eliminación de los controles fronterizos entre España y Reino Unido](https://www.bbc.com/mundo/articles/c5yz14y8e7do?at_medium=RSS&at_campaign=rss)** · *2026-07-14*
+  - Se espera que la libre circulación entre el territorio británico y España impulse la economía local.
+- **["Eran de cartón": el colapso de más de 100 viviendas sociales turcas en el terremoto de Venezuela que pone bajo escrutinio el programa estrella de Chávez](https://www.bbc.com/mundo/articles/c8d2nlmv7ngo?at_medium=RSS&at_campaign=rss)** · *2026-07-13*
+  - El colapso de cientos de viviendas sociales construidas durante el gobierno de Hugo Chávez abre un debate sobre la calidad de las edificaciones de la Gran Misión Vivienda Venezuela.
+- **[Matan a tiros a ciudadano colombiano durante una operación de ICE en Maine](https://www.bbc.com/mundo/articles/czx5x8prjj1o?at_medium=RSS&at_campaign=rss)** · *2026-07-14*
+  - Esto ocurre menos de una semana después de que un inmigrante indocumentado fuera abatido a tiros en Houston por un agente de inmigración.
+- **[Trump restablece el bloqueo a los puertos iraníes e impone un recargo del 20% a la carga que transita por el estrecho de Ormuz](https://www.bbc.com/mundo/articles/c9q28zz403no?at_medium=RSS&at_campaign=rss)** · *2026-07-13*
+  - Menos de un mes después de la firma del cese el fuego, Irán y EE.UU. vuelven a intercambiar ataques y Trump restableció el bloqueo naval al comercio iraní.
+- **[Muere por eutanasia Catalina Giraldo, la mujer de 30 años que emprendió una  batalla legal en Colombia para acceder al suicidio médicamente asistido](https://www.bbc.com/mundo/articles/clyzygk7vd4o?at_medium=RSS&at_campaign=rss)** · *2026-07-14*
+  - Tras años sufriendo de un cuadro de depresión severa, entre otros diagnósticos, Catalina le pidió al sistema de salud colombiano que la ayudara y acompañara a terminar su vida.
 
 ## El País — Internacional
 
-- **[Europa vuelve a arrastrar los pies en las sanciones a Israel por la masacre en Gaza y Cisjordania](https://elpais.com/internacional/2026-07-13/europa-vuelve-a-arrastrar-los-pies-en-las-sanciones-a-israel-por-la-masacre-en-gaza-y-cisjordania.html)** · *2026-07-13*
-  - Los ministros de Exteriores analizan este lunes “opciones” para prohibir el comercio con los asentamientos ilegales de colonos, pero una decisión concreta se ve lejana
-- **[Nueve meses de falsa tregua en Gaza: 1.100 palestinos muertos y una crisis humanitaria sin fin](https://elpais.com/internacional/2026-07-13/nueve-meses-de-falsa-tregua-en-gaza-1100-palestinos-muertos-y-una-crisis-humanitaria-sin-fin.html)** · *2026-07-13*
-  - Israel extiende la ocupación y boicotea el acuerdo de alto el fuego, mientras la población malvive en condiciones insalubres
-- **[Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia](https://elpais.com/internacional/2026-07-13/dentro-de-la-casa-blanca-asi-ejerce-trump-un-poder-desenfrenado-para-dejar-su-huella-en-la-historia.html)** · *2026-07-13*
-  - ‘Cambio de régimen’, un libro escrito por dos periodistas de ‘The New York Times’, desvela interioridades de la Administración estadounidense en el segundo mandato del magnate neoyorquino
+- **[Estados Unidos e Irán vuelven a la guerra abierta tras una semana de enfrentamientos en Ormuz](https://elpais.com/internacional/2026-07-14/estados-unidos-e-iran-vuelven-a-la-guerra-abierta-tras-una-semana-de-enfrentamientos-en-ormuz.html)** · *2026-07-14*
+  - Los ataques a petroleros matan a un marinero y provocan ocho heridos. El conflicto amenaza con extenderse de nuevo al mar Rojo y a Irak
+- **[Trump notificó al Congreso el fin de semana que Estados Unidos está de nuevo en guerra con Irán](https://elpais.com/internacional/2026-07-13/trump-notifico-al-congreso-el-fin-de-semana-que-estados-unidos-esta-de-nuevo-en-guerra-con-iran.html)** · *2026-07-13*
+  - El presidente defiende una “acción militar coherente” para proteger a su país. La misiva abre un plazo de 60 días en los que el Gobierno puede usar la fuerza sin la aprobación del Capitolio
+- **[Japón emprende la mayor reorganización de los servicios secretos desde la II Guerra Mundial](https://elpais.com/internacional/2026-07-14/japon-emprende-la-mayor-reorganizacion-de-los-servicios-secretos-desde-la-ii-guerra-mundial.html)** · *2026-07-14*
+  - El nuevo modelo prevé la creación de un Consejo Nacional de Inteligencia que centraliza la gestión bajo el mando directo de la primera ministra
+- **[El círculo marroquí de Alí Lmrabet](https://elpais.com/internacional/2026-07-14/el-circulo-marroqui-de-ali-lmrabet.html)** · *2026-07-14*
+  - Marruecos, a pesar de su imagen brillante de país abierto por su desarrollo económico y en infraestructuras sigue teniendo un déficit en lo que a derechos humanos se refiere
 - **[Rusia está perdiendo la guerra, Ucrania la gana solo a medias](https://elpais.com/internacional/2026-07-12/rusia-esta-perdiendo-la-guerra-ucrania-la-gana-solo-a-medias.html)** · *2026-07-12*
   - Lecciones humanas y geopolíticas de cuatro años viviendo en el conflicto bélico que determina el futuro de Europa
-- **[Putin sustituye a Zelenski como perdedor a ojos de Trump](https://elpais.com/internacional/2026-07-12/putin-sustituye-a-zelenski-como-perdedor-a-ojos-de-trump.html)** · *2026-07-12*
-  - No ha habido en la cumbre de la OTAN nada parecido a la ruptura atlántica que algunos temían, sino más bien el inicio de una transición hacia una Alianza más europea y canadiense
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Another poll shows One Nation’s surge has turned around. Has the party peaked?](https://theconversation.com/another-poll-shows-one-nations-surge-has-turned-around-has-the-party-peaked-287358)** · *2026-07-13*
-  - The far-right party’s momentum may have slowed, but it still attracts strong support – Victoria’s November state election will show just how much.
-- **[There’s more to being a goalkeeper than just stopping shots. Here’s how they get there](https://theconversation.com/theres-more-to-being-a-goalkeeper-than-just-stopping-shots-heres-how-they-get-there-286542)** · *2026-07-13*
-  - Goalkeepers are different to ‘normal’ soccer players but their role, and how they train, is changing.
-- **[5 winter gardening jobs to set you up for a splendid spring](https://theconversation.com/5-winter-gardening-jobs-to-set-you-up-for-a-splendid-spring-284297)** · *2026-07-13*
-  - Winter is a time to take stock of what’s working and what’s not in the garden. Time will flash by – so don’t neglect these winter jobs.
-- **[Why is everything an app now? Stores must step up to tackle this spread](https://theconversation.com/why-is-everything-an-app-now-stores-must-step-up-to-tackle-this-spread-281348)** · *2026-07-13*
-  - The proliferation of apps might seem innocuous. But it comes with several hidden problems.
-- **[‘You are a G. Not a gangster – you are a gift’: how art is supporting First Nations women in prison](https://theconversation.com/you-are-a-g-not-a-gangster-you-are-a-gift-how-art-is-supporting-first-nations-women-in-prison-284834)** · *2026-07-13*
-  - Since 2019, a number of workshops have been held in the Darwin Correctional Precinct, as part of an ongoing prison education project.
+- **[The US and Iran are back at war. And due to one main sticking point, there’s no end in sight](https://theconversation.com/the-us-and-iran-are-back-at-war-and-due-to-one-main-sticking-point-theres-no-end-in-sight-287492)** · *2026-07-14*
+  - Both sides are at an impasse over control of the Strait of Hormuz, with no end in sight.
+- **[Australians brace for higher fuel prices as US-Iran conflict resumes (again)](https://theconversation.com/australians-brace-for-higher-fuel-prices-as-us-iran-conflict-resumes-again-287476)** · *2026-07-14*
+  - The closed Hormuz Strait and a dearth of Russian diesel will trigger further volatility.
+- **[Can scientists make a new element for the periodic table?](https://theconversation.com/can-scientists-make-a-new-element-for-the-periodic-table-287397)** · *2026-07-14*
+  - Listen to the The Conversation’s Curious Kids podcast to hear biochemist Mark Lorch explain how scientists are trying to make new elements for the periodic table.
+- **[Who needs another COVID vaccine – and who might be able to skip it?](https://theconversation.com/who-needs-another-covid-vaccine-and-who-might-be-able-to-skip-it-284941)** · *2026-07-14*
+  - It depends how old you are and if you have an underlying health condition.
+- **[The MSO and Lattouf rulings are seemingly at odds. Where does this leave free speech at work?](https://theconversation.com/the-mso-and-lattouf-rulings-are-seemingly-at-odds-where-does-this-leave-free-speech-at-work-287288)** · *2026-07-14*
+  - The court has found the cancellation of Jason Gillham’s concert by the Melbourne Symphony Orchestra was not prohibited by Australian workplace laws.
 
 ## Nueva Sociedad
 
