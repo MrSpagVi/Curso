@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-07-18 07:29 UTC_
+_Última actualización: 2026-07-19 08:01 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,27 +17,27 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["Tenía que mostrarle al partido comunista chino que no me puede controlar": el disidente que pasó 40 horas en un bote inflable en el mar para escapar de su país](https://www.bbc.com/mundo/articles/cddj7mdn864o?at_medium=RSS&at_campaign=rss)** · *2026-07-18*
-  - Dong Guangping, quien se ha reasentado en Canadá, relata su peligrosa huida de China a Corea del Sur.
+- **[Argentina y España, dos "enemigos íntimos" que disputan una final de Mundial inédita](https://www.bbc.com/mundo/articles/c1j1lz2k7epo?at_medium=RSS&at_campaign=rss)** · *2026-07-19*
+  - Estadísticas, curiosidades y antecedentes futbolísticos de argentinos y españoles, que este domingo se cruzan por primera vez en la final de un Mundial.
+- **[Quiénes ganaron dinero y quiénes lo perdieron con el Mundial 2026](https://www.bbc.com/mundo/articles/cd7lx5rr51go?at_medium=RSS&at_campaign=rss)** · *2026-07-18*
+  - El torneo de 2026 está generando grandes ganancias fuera del terreno de juego, pero ¿quiénes son los que más se benefician y quiénes salen perdiendo?
 - **["Si sobreviví fue para encontrarlos": la joven que se niega a abandonar los escombros donde se encuentran los cuerpos de sus familiares a 3 semanas de los terremotos en Venezuela](https://www.bbc.com/mundo/articles/c5y08m32vpqo?at_medium=RSS&at_campaign=rss)** · *2026-07-17*
   - Lorena Laya encontró los restos de su madrastra y su hermana menor dos semanas después de los sismos. Aún espera recuperar los cuerpos de su padre y su hermano en La Guaira.
-- **[Vuelo 901: las incógnitas que rodean el caso del avión derribado por un atacante suicida en Panamá un día después del atentado a la AMIA en Argentina](https://www.bbc.com/mundo/articles/cly09e1eddwo?at_medium=RSS&at_campaign=rss)** · *2026-07-17*
-  - Tras más de tres décadas de incógnitas e impunidad, el esclarecimiento del caso parece hoy más probable que nunca. Con un imputado extraditado desde Venezuela y que Israel vincula a Hezbolá, la Fiscalía panameña lo investiga como "un acto…
-- **[Quiénes ganaron y quiénes perdieron dinero con el Mundial 2026](https://www.bbc.com/mundo/articles/cd7lx5rr51go?at_medium=RSS&at_campaign=rss)** · *2026-07-18*
-  - El torneo de 2026 está generando grandes ganancias fuera del terreno de juego, pero ¿quiénes son los que más se benefician y quiénes salen perdiendo?
-- **["A veces no sé cómo ayudarle": Marc Cucurella, el jugador de la selección española al que el diagnóstico de autismo de su hijo le cambió la vida](https://www.bbc.com/mundo/articles/c9v4ppy92dvo?at_medium=RSS&at_campaign=rss)** · *2026-07-17*
-  - El defensa de la selección española da voz a una realidad que viven muchas familias y ayuda con su experiencia a darle visibilidad.
+- **[La mujer que vivió 73 años metida varias horas al día en un pulmón de acero que le permitía respirar](https://www.bbc.com/mundo/articles/c6212en9jdqo?at_medium=RSS&at_campaign=rss)** · *2026-07-18*
+  - La hermana de la última paciente de polio que usaba pulmón de acero en Estados Unidos habló con la BBC sobre la enfermedad.
+- **[Inglaterra gana 6-4 a Francia en un épico partido por el tercer puesto del Mundial 2026: Mbappé es el máximo goleador de la historia del torneo](https://www.bbc.com/mundo/articles/clyl4y80x1no?at_medium=RSS&at_campaign=rss)** · *2026-07-19*
+  - Bukayo Saka marcó un triplete en la extraordinaria victoria de Inglaterra 6-4 sobre Francia, en un partido trepidante que les valió a los ingleses el tercer puesto en el Mundial de 2026.
 
 ## El País — Internacional
 
-- **[Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html)** · *2026-07-17*
-  - El presidente desclasifica información en parte ya conocida y no vinculante, que incluye archivos de la CIA sobre Venezuela. El republicano está en una cruzada para arrojar dudas sobre las ‘midterms’, en las que los suyos llevan las de…
-- **[China tacha de “invenciones” las acusaciones de Trump sobre su supuesta injerencia en las elecciones de 2020](https://elpais.com/internacional/2026-07-17/china-tacha-de-invenciones-las-acusaciones-de-trump-sobre-su-supuesta-injerencia-en-las-elecciones-de-2020.html)** · *2026-07-17*
-  - Las declaraciones del líder estadounidense, cargando directamente contra Pekín, amenazan con enturbiar la relación bilateral antes del próximo encuentro entre el republicano y Xi
-- **[Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono](https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html)** · *2026-07-18*
-  - El anuncio del secretario de Defensa de revisar los niveles de la hormona masculina en los soldados es la última prueba de la obsesión del aliado de Trump con un ejército viril sin lugar para mujeres y minorías
-- **[La guerra de Ucrania castiga a las minorías y a los pobres de Rusia](https://elpais.com/internacional/2026-07-18/la-guerra-de-ucrania-castiga-a-las-minorias-y-a-los-pobres-de-rusia.html)** · *2026-07-18*
-  - Las bajas de la contienda desatada por Vladímir Putin no se reparten de modo uniforme por la geografía del país
+- **[Nadie protesta en la Rusia de Putin, pero la guerra empieza a pasar factura a su popularidad](https://elpais.com/internacional/2026-07-19/nadie-protesta-en-la-rusia-de-putin-pero-la-guerra-empieza-a-pasar-factura-a-su-popularidad.html)** · *2026-07-19*
+  - Las bajas en el frente, la amenaza de un nuevo reclutamiento masivo y los recortes en el suministro de combustible reducen el apoyo social al Kremlin
+- **[Andy Burnham, un político fuera de la burbuja](https://elpais.com/internacional/2026-07-19/andy-burnham-un-politico-fuera-de-la-burbuja.html)** · *2026-07-19*
+  - El exalcalde de Mánchester, nuevo líder del laborismo británico e inminente primer ministro, ha construido su reputación desde el contacto directo con la población y lejos del poder de Londres
+- **[Los muertos de nadie, los cadáveres del ICE: “Que se revele la verdad. A mi hijo lo mató el guardia”](https://elpais.com/us/migracion/2026-07-19/los-muertos-de-nadie-los-cadaveres-del-ice-que-se-revele-la-verdad-a-mi-hijo-lo-mato-el-guardia.html)** · *2026-07-19*
+  - El cubano Denny Adán González murió en abril en el centro de detención de Stewart, después de dos días de haber discutido con un oficial de la instalación. La familia pide justicia para él, uno más de los 54 migrantes que han fallecido en…
+- **[La testosterona, al mando en la Casa Blanca](https://elpais.com/internacional/2026-07-19/la-testosterona-al-mando-en-la-casa-blanca.html)** · *2026-07-19*
+  - Al presidente de EE UU se le da muy bien amedrentar con bombardeos, pero no es capaz de alcanzar su objetivo: la derrota de Irán
 - **[El círculo marroquí de Alí Lmrabet](https://elpais.com/internacional/2026-07-14/el-circulo-marroqui-de-ali-lmrabet.html)** · *2026-07-14*
   - Marruecos, a pesar de su imagen brillante de país abierto por su desarrollo económico y en infraestructuras sigue teniendo un déficit en lo que a derechos humanos se refiere
 
