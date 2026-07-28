@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-07-27 09:34 UTC_
+_Última actualización: 2026-07-28 08:17 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["Todo el mundo se queda en la playa mirando los misiles en el cielo": el contraste de Odesa, el balneario de Ucrania con turismo de lujo y bombardeos diarios](https://www.bbc.com/mundo/articles/c1w1003y4rzo?at_medium=RSS&at_campaign=rss)** · *2026-07-27*
-  - En la llamada "perla del mar Negro" las playas y restaurantes están repletos de turistas a pesar de que todos los días allí mismo mueren personas por los bombardeos rusos.
-- **[Detienen en Chile a condenado por el asesinato del cantautor Víctor Jara que estuvo prófugo por años](https://www.bbc.com/mundo/articles/ckgd1779vpdo?at_medium=RSS&at_campaign=rss)** · *2026-07-26*
-  - Según medios locales, el militar retirado fue encontrado por agentes policiales en una parcela en Puyehue, en la región de Los Lagos, en el sur del país.
-- **[Isaac del Toro, el ciclista que cuatro años después de un terrible accidente se convirtió en el primer mexicano en llegar al podio del Tour de Francia](https://www.bbc.com/mundo/articles/cj63769rr79o?at_medium=RSS&at_campaign=rss)** · *2026-07-26*
-  - El bajacaliforniano de 22 años rompió otro récord para el ciclismo mexicano llegando al podio de la competencia más prestigiosa del ciclismo al lado de su compañero y amigo Tadej Pogačar.
-- **["Me lavaron el cerebro por completo": la secta apocalíptica de los años 80 que atrapó a jóvenes modelos](https://www.bbc.com/mundo/articles/cd7wqv0vr41o?at_medium=RSS&at_campaign=rss)** · *2026-07-26*
-  - Liderada por una enigmática figura de la alta sociedad neoyorquina que afirmaba ser un extraterrestre en forma humana, Eternal Values ​​contaba con miembros de élite. Ahora, uno de sus exseguidores más destacados cuenta su historia.
-- **[Lo que la Edad Media puede enseñarnos para prevenir el agotamiento extremo](https://www.bbc.com/mundo/articles/czded0074m6o?at_medium=RSS&at_campaign=rss)** · *2026-07-26*
-  - La sabiduría medieval puede darnos pistas sobre cómo tener una mejor salud mental
+- **[Qué papel tiene realmente la escasez de municiones en que Trump haya puesto en pausa la guerra con Irán](https://www.bbc.com/mundo/articles/c1d1e3zwpqdo?at_medium=RSS&at_campaign=rss)** · *2026-07-28*
+  - Washington ha utilizado misiles difíciles de reemplazar durante su guerra contra Teherán. Analizamos si realmente se está quedando sin reservas.
+- **[Las mujeres víctimas de violencia doméstica que mataron a sus parejas: "Dijo que nos iba a matar a mí y a mi hijo y después se iba a suicidar"](https://www.bbc.com/mundo/articles/czdmyp45ng7o?at_medium=RSS&at_campaign=rss)** · *2026-07-27*
+  - Milene y Úrsula mataron a sus parejas y alegaron que lo hicieron en defensa propia, tras un historial de violencia doméstica. Las comisarías y los tribunales en Brasil juzgan si, ante un riesgo inminente para la vida, la reacción fue…
+- **["Siento que jamás podré arrancarme ese olor a muerte": el impacto de los terremotos de Venezuela en una rescatista que trabajó 18 días en La Guaira](https://www.bbc.com/mundo/articles/cq89v83ngwgo?at_medium=RSS&at_campaign=rss)** · *2026-07-27*
+  - Un mes después de los sismos, Daniela Villarroel recuerda los cadáveres que sobrepasó para llegar a los sobrevivientes bajo los escombros, los gritos de las personas que pedían ayuda y el olor a muerte que todavía percibe en su ropa.
+- **[Las monjas inversoras que presionan a gigantes tecnológicos y bancarios para "proteger la creación de Dios"](https://www.bbc.com/mundo/articles/cn7ng522mdeo?at_medium=RSS&at_campaign=rss)** · *2026-07-27*
+  - La participación accionarial de este grupo de monjas en Palantir y otras empresas les permite cuestionar formalmente las prácticas comerciales de estas compañías.
+- **[Cruzamos el Atlántico en dos autos flotantes para cumplir el sueño de mi padre](https://www.bbc.com/mundo/articles/cgljx7jd1p0o?at_medium=RSS&at_campaign=rss)** · *2026-07-27*
+  - Dos jóvenes italianos intentaron cruzar el Atlántico en coches flotantes por amor a un padre moribundo ¡y lo lograron!
 
 ## El País — Internacional
 
 - **[La periferia de Burdeos, en vilo por los incendios: “Sabemos que en cualquier momento tendremos que irnos”](https://elpais.com/internacional/2026-07-27/la-periferia-de-burdeos-en-vilo-por-los-incendios-sabemos-que-en-cualquier-momento-tendremos-que-irnos.html)** · *2026-07-27*
   - El fuego obliga al desalojo de más de una decena de pueblos en el suroeste de Francia
-- **[La Policía mata a tiros al sospechoso del atentado contra el Orgullo en Berlín](https://elpais.com/internacional/2026-07-26/alemania-busca-al-autor-del-atropello-masivo-en-berlin-que-causo-al-menos-un-muerto-y-16-heridos.html)** · *2026-07-26*
-  - Una furgoneta embistió a los asistentes a la marcha del Día del Orgullo LGTBI+ y causó un muerto y 29 heridos
-- **[Trump encuentra en Irán su guerra interminable](https://elpais.com/internacional/2026-07-26/trump-encuentra-en-iran-su-guerra-interminable.html)** · *2026-07-26*
-  - La vuelta al enfrentamiento directo con Teherán evidencia la dificultad de EE UU de cerrar un acuerdo de paz y coloca al presidente ante uno de esos conflictos sin salida que prometió abandonar para siempre
+- **[Merz abre la puerta a reforzar el seguimiento de islamistas peligrosos tras el atentado de Berlín](https://elpais.com/internacional/2026-07-28/merz-abre-la-puerta-a-reforzar-el-seguimiento-de-islamistas-peligrosos-tras-el-atentado-de-berlin.html)** · *2026-07-28*
+  - El presunto autor del ataque, que fue abatido a tiros el domingo, se encontraba en libertad a pesar de haber sido condenado en mayo por preparar una acción grave de violencia contra la seguridad del Estado
+- **[Icono antiimperalista y liberticida, las dos caras del capitán Traoré](https://elpais.com/internacional/2026-07-28/icono-antiimperalista-y-liberticida-las-dos-caras-del-capitan-traore.html)** · *2026-07-28*
+  - El presidente de Burkina Faso se ha convertido en el referente 2.0 del soberanismo africano pero, al mismo tiempo, reprime con dureza a activistas, opositores y periodistas
 - **[Jean Monnet en Ormuz](https://elpais.com/internacional/2026-07-26/jean-monnet-en-ormuz.html)** · *2026-07-26*
   - Nada avanzará con Trump desatado al mando y Netanyahu al frente del Gobierno más extremista de la historia de Israel. Pero todo puede cambiar con las elecciones de mitad de mandato en Estados Unidos y las generales en Israel
 - **[La testosterona, al mando en la Casa Blanca](https://elpais.com/internacional/2026-07-19/la-testosterona-al-mando-en-la-casa-blanca.html)** · *2026-07-19*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[The Victorian Labor government had many successes. But it has also had its failures – and these have lost the voters](https://theconversation.com/the-victorian-labor-government-had-many-successes-but-it-has-also-had-its-failures-and-these-have-lost-the-voters-288374)** · *2026-07-27*
-  - The Andrews-Allan government has been in power for almost 12 years . But sliding popularity and leadership turmoil could see it lose its golden electoral touch.
-- **[The Victorian premier could lose her job just 4 months before a state election. How did it come to this?](https://theconversation.com/the-victorian-premier-could-lose-her-job-just-4-months-before-a-state-election-how-did-it-come-to-this-288372)** · *2026-07-27*
-  - Unpopular in the polls and with One Nation threatening to be a major force in the November state election, Labor has now headed into a period of leadership turmoil.
-- **[An abandoned SpaceX rocket is about to crash into the Moon. The real problem comes next](https://theconversation.com/an-abandoned-spacex-rocket-is-about-to-crash-into-the-moon-the-real-problem-comes-next-288287)** · *2026-07-27*
-  - As the Moon starts getting crowded, questions of safety and responsibility are becoming hard to ignore.
-- **[Has the government failed to protect Torres Strait culture from rising seas? The full Federal Court is about to decide](https://theconversation.com/has-the-government-failed-to-protect-torres-strait-culture-from-rising-seas-the-full-federal-court-is-about-to-decide-287687)** · *2026-07-27*
-  - Rising seas threaten low-lying islands in the Torres Strait. Does the government have a duty of care?
-- **[Governments have a financial vested interest not to reform gambling laws. Here’s why](https://theconversation.com/governments-have-a-financial-vested-interest-not-to-reform-gambling-laws-heres-why-288196)** · *2026-07-27*
-  - Australian state governments have spent years making up funding shortfalls by bringing in billions in gambling revenue.
+- **[Falling birth rates mean schools are closing – affecting whole communities](https://theconversation.com/falling-birth-rates-mean-schools-are-closing-affecting-whole-communities-287438)** · *2026-07-28*
+  - Schools provide a link between generations in a local area.
+- **[After a decade leading the ACTU, what is the legacy of Sally McManus and Michele O'Neil?](https://theconversation.com/after-a-decade-leading-the-actu-what-is-the-legacy-of-sally-mcmanus-and-michele-oneil-288492)** · *2026-07-28*
+  - Australian unions, representing around 1.6 million workers, are about to get two new leaders. Here’s what changed in the past decade and the challenges ahead.
+- **[How do we know what dinosaurs looked like?](https://theconversation.com/how-do-we-know-what-dinosaurs-looked-like-288231)** · *2026-07-28*
+  - Listen to palaeobiologist Neil Gostling on The Conversation’s Curious Kids podcast talk about how scientists work out what dinosaurs looked like.
+- **[Why does singing feel so good? And is it good for your health?](https://theconversation.com/why-does-singing-feel-so-good-and-is-it-good-for-your-health-288203)** · *2026-07-28*
+  - Singing does something measurable to your body and brain, whether you are alone, harmonising in a choir, or singing with your friends at a karaoke bar.
+- **[Batteries are getting cheaper while gas gets pricier. Here’s why](https://theconversation.com/batteries-are-getting-cheaper-while-gas-gets-pricier-heres-why-287956)** · *2026-07-28*
+  - The battery boom is accelerating Australia’s shift away from gas.
 
 ## Nueva Sociedad
 
