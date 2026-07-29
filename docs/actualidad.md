@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-07-28 08:17 UTC_
+_Última actualización: 2026-07-29 08:23 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Qué papel tiene realmente la escasez de municiones en que Trump haya puesto en pausa la guerra con Irán](https://www.bbc.com/mundo/articles/c1d1e3zwpqdo?at_medium=RSS&at_campaign=rss)** · *2026-07-28*
-  - Washington ha utilizado misiles difíciles de reemplazar durante su guerra contra Teherán. Analizamos si realmente se está quedando sin reservas.
-- **[Las mujeres víctimas de violencia doméstica que mataron a sus parejas: "Dijo que nos iba a matar a mí y a mi hijo y después se iba a suicidar"](https://www.bbc.com/mundo/articles/czdmyp45ng7o?at_medium=RSS&at_campaign=rss)** · *2026-07-27*
-  - Milene y Úrsula mataron a sus parejas y alegaron que lo hicieron en defensa propia, tras un historial de violencia doméstica. Las comisarías y los tribunales en Brasil juzgan si, ante un riesgo inminente para la vida, la reacción fue…
-- **["Siento que jamás podré arrancarme ese olor a muerte": el impacto de los terremotos de Venezuela en una rescatista que trabajó 18 días en La Guaira](https://www.bbc.com/mundo/articles/cq89v83ngwgo?at_medium=RSS&at_campaign=rss)** · *2026-07-27*
-  - Un mes después de los sismos, Daniela Villarroel recuerda los cadáveres que sobrepasó para llegar a los sobrevivientes bajo los escombros, los gritos de las personas que pedían ayuda y el olor a muerte que todavía percibe en su ropa.
-- **[Las monjas inversoras que presionan a gigantes tecnológicos y bancarios para "proteger la creación de Dios"](https://www.bbc.com/mundo/articles/cn7ng522mdeo?at_medium=RSS&at_campaign=rss)** · *2026-07-27*
-  - La participación accionarial de este grupo de monjas en Palantir y otras empresas les permite cuestionar formalmente las prácticas comerciales de estas compañías.
-- **[Cruzamos el Atlántico en dos autos flotantes para cumplir el sueño de mi padre](https://www.bbc.com/mundo/articles/cgljx7jd1p0o?at_medium=RSS&at_campaign=rss)** · *2026-07-27*
-  - Dos jóvenes italianos intentaron cruzar el Atlántico en coches flotantes por amor a un padre moribundo ¡y lo lograron!
+- **[El mapa que muestra cómo la derecha ha extendido su poder en América Latina (y qué explica esta tendencia)](https://www.bbc.com/mundo/articles/ckg9x4ejprwo?at_medium=RSS&at_campaign=rss)** · *2026-07-29*
+  - Los líderes derechistas ganan fuerza en la región al vencer una serie de elecciones y contar con respaldo de Washington. ¿Un fenómeno duradero?
+- **["En la cárcel descubrí que presos y guardias éramos víctimas de una cúpula que mantiene a Cuba secuestrada": Luis Manuel Otero Alcántara, el artista que pasó 5 años en prisión](https://www.bbc.com/mundo/articles/cgew1n5l8plo?at_medium=RSS&at_campaign=rss)** · *2026-07-28*
+  - Recién llegado a Miami tras verse obligado a abandonar Cuba, el cofundador del Movimiento San Isidro relata cómo sobrevivió al encierro y por qué quiere convertir sus creaciones desde la prisión en una nueva forma de resistencia.
+- **[Un potente terremoto en Japón deja al menos 13 muertos y varias personas atrapadas en un centro comercial](https://www.bbc.com/mundo/articles/c5y62l02y3jo?at_medium=RSS&at_campaign=rss)** · *2026-07-29*
+  - El epicentro se situó unos 20 km al sur de Kumamoto, la ciudad más grande de la isla de Kyushu, con una población de unos 700.000 habitantes.
+- **["Aún me siento invencible": Marianela Núñez, la argentina que lleva casi 3 décadas en la élite del Royal Ballet de Londres](https://www.bbc.com/mundo/articles/c3v0x6rr46no?at_medium=RSS&at_campaign=rss)** · *2026-07-28*
+  - Ingresó al Royal Ballet de Londres en 1998 y se convirtió en primera bailarina de la compañía británica en 2002.
+- **["Me daría vergüenza haber escrito ese guion": las duras críticas a 'La Odisea' de la traductora de la obra en la que se basó la película de Nolan](https://www.bbc.com/mundo/articles/c24m9g9j69ro?at_medium=RSS&at_campaign=rss)** · *2026-07-28*
+  - La película ha recibido reseñas entusiastas por parte de los críticos de cine, pero una traductora de la obra de Homero no quedó muy contenta.
 
 ## El País — Internacional
 
-- **[La periferia de Burdeos, en vilo por los incendios: “Sabemos que en cualquier momento tendremos que irnos”](https://elpais.com/internacional/2026-07-27/la-periferia-de-burdeos-en-vilo-por-los-incendios-sabemos-que-en-cualquier-momento-tendremos-que-irnos.html)** · *2026-07-27*
-  - El fuego obliga al desalojo de más de una decena de pueblos en el suroeste de Francia
-- **[Merz abre la puerta a reforzar el seguimiento de islamistas peligrosos tras el atentado de Berlín](https://elpais.com/internacional/2026-07-28/merz-abre-la-puerta-a-reforzar-el-seguimiento-de-islamistas-peligrosos-tras-el-atentado-de-berlin.html)** · *2026-07-28*
-  - El presunto autor del ataque, que fue abatido a tiros el domingo, se encontraba en libertad a pesar de haber sido condenado en mayo por preparar una acción grave de violencia contra la seguridad del Estado
-- **[Icono antiimperalista y liberticida, las dos caras del capitán Traoré](https://elpais.com/internacional/2026-07-28/icono-antiimperalista-y-liberticida-las-dos-caras-del-capitan-traore.html)** · *2026-07-28*
-  - El presidente de Burkina Faso se ha convertido en el referente 2.0 del soberanismo africano pero, al mismo tiempo, reprime con dureza a activistas, opositores y periodistas
+- **[Estados Unidos asegura haber frustrado un ataque sorpresa de Teherán con misiles balísticos contra sus bases en Jordania](https://elpais.com/internacional/2026-07-29/estados-unidos-asegura-haber-frustrado-un-ataque-sorpresa-de-teheran-con-misiles-balisticos-contra-sus-bases-en-jordania.html)** · *2026-07-29*
+  - El incidente muestra la incertidumbre ante el nuevo escenario sin hostilidades que había anunciado Trump
+- **[Los muertos en el terremoto de Japón se elevan ya a 13 mientras prosigue la búsqueda de desaparecidos](https://elpais.com/internacional/2026-07-29/los-muertos-en-el-terremoto-de-japon-se-elevan-ya-a-13-mientras-prosigue-la-busqueda-de-desaparecidos.html)** · *2026-07-29*
+  - Hay al menos una veintena de personas sin localizar, la mitad de ellos atrapados en un centro comercial en el que hubo una explosión tras el seísmo
+- **[Netanyahu se reúne con Trump en medio de los esfuerzos por volver a la negociación con Irán](https://elpais.com/internacional/2026-07-28/netanyahu-se-reune-con-trump-en-medio-de-los-esfuerzos-por-volver-a-la-negociacion-con-iran.html)** · *2026-07-28*
+  - Ambos líderes tratan de reconducir su relación a pocos meses de sus respectivas elecciones y con diferencias sobre el alto el fuego con Teherán
 - **[Jean Monnet en Ormuz](https://elpais.com/internacional/2026-07-26/jean-monnet-en-ormuz.html)** · *2026-07-26*
   - Nada avanzará con Trump desatado al mando y Netanyahu al frente del Gobierno más extremista de la historia de Israel. Pero todo puede cambiar con las elecciones de mitad de mandato en Estados Unidos y las generales en Israel
 - **[La testosterona, al mando en la Casa Blanca](https://elpais.com/internacional/2026-07-19/la-testosterona-al-mando-en-la-casa-blanca.html)** · *2026-07-19*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Falling birth rates mean schools are closing – affecting whole communities](https://theconversation.com/falling-birth-rates-mean-schools-are-closing-affecting-whole-communities-287438)** · *2026-07-28*
-  - Schools provide a link between generations in a local area.
-- **[After a decade leading the ACTU, what is the legacy of Sally McManus and Michele O'Neil?](https://theconversation.com/after-a-decade-leading-the-actu-what-is-the-legacy-of-sally-mcmanus-and-michele-oneil-288492)** · *2026-07-28*
-  - Australian unions, representing around 1.6 million workers, are about to get two new leaders. Here’s what changed in the past decade and the challenges ahead.
-- **[How do we know what dinosaurs looked like?](https://theconversation.com/how-do-we-know-what-dinosaurs-looked-like-288231)** · *2026-07-28*
-  - Listen to palaeobiologist Neil Gostling on The Conversation’s Curious Kids podcast talk about how scientists work out what dinosaurs looked like.
-- **[Why does singing feel so good? And is it good for your health?](https://theconversation.com/why-does-singing-feel-so-good-and-is-it-good-for-your-health-288203)** · *2026-07-28*
-  - Singing does something measurable to your body and brain, whether you are alone, harmonising in a choir, or singing with your friends at a karaoke bar.
-- **[Batteries are getting cheaper while gas gets pricier. Here’s why](https://theconversation.com/batteries-are-getting-cheaper-while-gas-gets-pricier-heres-why-287956)** · *2026-07-28*
-  - The battery boom is accelerating Australia’s shift away from gas.
+- **[How can I check my offset account is collecting the savings it should?](https://theconversation.com/how-can-i-check-my-offset-account-is-collecting-the-savings-it-should-288594)** · *2026-07-29*
+  - 55% of Australian home loans have an offset account. But they can be difficult to navigate, set up and monitor – and they’re not a good deal for everyone.
+- **[Australia hasn’t built an oil refinery in decades. But that could change](https://theconversation.com/australia-hasnt-built-an-oil-refinery-in-decades-but-that-could-change-288497)** · *2026-07-29*
+  - Western Australia could be home to the country’s newest large-scale oil refinery, if a government proposal goes ahead.
+- **[Labor only trailed narrowly in a Victorian Newspoll despite Allan’s dismal ratings](https://theconversation.com/labor-only-trailed-narrowly-in-a-victorian-newspoll-despite-allans-dismal-ratings-288393)** · *2026-07-29*
+  - With a new premier in Ben Carroll, Labor’s chances of winning the November election are likely to improve.
+- **[Politics with Michelle Grattan: Bridie O'Donnell on the ‘precarious business’ of the Tour de France](https://theconversation.com/politics-with-michelle-grattan-bridie-odonnell-on-the-precarious-business-of-the-tour-de-france-288518)** · *2026-07-29*
+  - The ex-champion cyclist turned commentator explains why heat is a growing risk to the annual summer event, and points to some Australian women to watch this weekend.
+- **[A lifelike robot called ‘Sally’ was going to teach in a US school. It’s not a weird as it sounds](https://theconversation.com/a-lifelike-robot-called-sally-was-going-to-teach-in-a-us-school-its-not-a-weird-as-it-sounds-288493)** · *2026-07-29*
+  - A rural district in New York state has made global headlines for plans to introduce a humanoid robot into high school classrooms as a teaching assistant.
 
 ## Nueva Sociedad
 
