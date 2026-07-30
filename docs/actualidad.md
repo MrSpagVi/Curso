@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-07-29 08:23 UTC_
+_Última actualización: 2026-07-30 08:09 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[El mapa que muestra cómo la derecha ha extendido su poder en América Latina (y qué explica esta tendencia)](https://www.bbc.com/mundo/articles/ckg9x4ejprwo?at_medium=RSS&at_campaign=rss)** · *2026-07-29*
-  - Los líderes derechistas ganan fuerza en la región al vencer una serie de elecciones y contar con respaldo de Washington. ¿Un fenómeno duradero?
-- **["En la cárcel descubrí que presos y guardias éramos víctimas de una cúpula que mantiene a Cuba secuestrada": Luis Manuel Otero Alcántara, el artista que pasó 5 años en prisión](https://www.bbc.com/mundo/articles/cgew1n5l8plo?at_medium=RSS&at_campaign=rss)** · *2026-07-28*
-  - Recién llegado a Miami tras verse obligado a abandonar Cuba, el cofundador del Movimiento San Isidro relata cómo sobrevivió al encierro y por qué quiere convertir sus creaciones desde la prisión en una nueva forma de resistencia.
-- **[Un potente terremoto en Japón deja al menos 13 muertos y varias personas atrapadas en un centro comercial](https://www.bbc.com/mundo/articles/c5y62l02y3jo?at_medium=RSS&at_campaign=rss)** · *2026-07-29*
-  - El epicentro se situó unos 20 km al sur de Kumamoto, la ciudad más grande de la isla de Kyushu, con una población de unos 700.000 habitantes.
-- **["Aún me siento invencible": Marianela Núñez, la argentina que lleva casi 3 décadas en la élite del Royal Ballet de Londres](https://www.bbc.com/mundo/articles/c3v0x6rr46no?at_medium=RSS&at_campaign=rss)** · *2026-07-28*
-  - Ingresó al Royal Ballet de Londres en 1998 y se convirtió en primera bailarina de la compañía británica en 2002.
-- **["Me daría vergüenza haber escrito ese guion": las duras críticas a 'La Odisea' de la traductora de la obra en la que se basó la película de Nolan](https://www.bbc.com/mundo/articles/c24m9g9j69ro?at_medium=RSS&at_campaign=rss)** · *2026-07-28*
-  - La película ha recibido reseñas entusiastas por parte de los críticos de cine, pero una traductora de la obra de Homero no quedó muy contenta.
+_Sin datos en esta ejecución. Visitar fuente: [https://feeds.bbci.co.uk/mundo/rss.xml](https://feeds.bbci.co.uk/mundo/rss.xml)_
 
 ## El País — Internacional
 
-- **[Estados Unidos asegura haber frustrado un ataque sorpresa de Teherán con misiles balísticos contra sus bases en Jordania](https://elpais.com/internacional/2026-07-29/estados-unidos-asegura-haber-frustrado-un-ataque-sorpresa-de-teheran-con-misiles-balisticos-contra-sus-bases-en-jordania.html)** · *2026-07-29*
-  - El incidente muestra la incertidumbre ante el nuevo escenario sin hostilidades que había anunciado Trump
-- **[Los muertos en el terremoto de Japón se elevan ya a 13 mientras prosigue la búsqueda de desaparecidos](https://elpais.com/internacional/2026-07-29/los-muertos-en-el-terremoto-de-japon-se-elevan-ya-a-13-mientras-prosigue-la-busqueda-de-desaparecidos.html)** · *2026-07-29*
-  - Hay al menos una veintena de personas sin localizar, la mitad de ellos atrapados en un centro comercial en el que hubo una explosión tras el seísmo
-- **[Netanyahu se reúne con Trump en medio de los esfuerzos por volver a la negociación con Irán](https://elpais.com/internacional/2026-07-28/netanyahu-se-reune-con-trump-en-medio-de-los-esfuerzos-por-volver-a-la-negociacion-con-iran.html)** · *2026-07-28*
-  - Ambos líderes tratan de reconducir su relación a pocos meses de sus respectivas elecciones y con diferencias sobre el alto el fuego con Teherán
+- **[EE UU responde a la agresión iraní contra sus bases en Jordania con una “intensa” oleada de ataques](https://elpais.com/internacional/2026-07-30/ee-uu-cumple-la-amenaza-de-atacar-iran-en-respuesta-a-los-misiles-lanzados-contra-sus-bases-en-jordania.html)** · *2026-07-30*
+  - La operación devuelve el escenario de guerra abierta con el riesgo de extender el conflicto con actores como los hutíes y Arabia Saudí
+- **[La cifra de muertos por el terremoto de Japón asciende a 30](https://elpais.com/internacional/2026-07-30/la-cifra-de-muertos-por-el-terremoto-de-japon-asciende-a-30.html)** · *2026-07-30*
+  - La policía, los bomberos y el ejército continúan realizando “desesperados esfuerzos en las operaciones de rescate”
+- **[Arabia Saudí lanza un ataque coordinado con Estados Unidos contra milicias proiraníes en Irak](https://elpais.com/internacional/2026-07-29/arabia-saudi-lanza-un-ataque-coordinado-con-estados-unidos-contra-milicias-proiranies-en-irak.html)** · *2026-07-29*
+  - Estos bombardeos, que han matado a 20 milicianos iraquíes, son los primeros ejecutados conjuntamente por Riad y Washington en territorio iraquí y representan una escalada en la guerra contra Irán
 - **[Jean Monnet en Ormuz](https://elpais.com/internacional/2026-07-26/jean-monnet-en-ormuz.html)** · *2026-07-26*
   - Nada avanzará con Trump desatado al mando y Netanyahu al frente del Gobierno más extremista de la historia de Israel. Pero todo puede cambiar con las elecciones de mitad de mandato en Estados Unidos y las generales en Israel
 - **[La testosterona, al mando en la Casa Blanca](https://elpais.com/internacional/2026-07-19/la-testosterona-al-mando-en-la-casa-blanca.html)** · *2026-07-19*
@@ -47,16 +38,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[How can I check my offset account is collecting the savings it should?](https://theconversation.com/how-can-i-check-my-offset-account-is-collecting-the-savings-it-should-288594)** · *2026-07-29*
-  - 55% of Australian home loans have an offset account. But they can be difficult to navigate, set up and monitor – and they’re not a good deal for everyone.
-- **[Australia hasn’t built an oil refinery in decades. But that could change](https://theconversation.com/australia-hasnt-built-an-oil-refinery-in-decades-but-that-could-change-288497)** · *2026-07-29*
-  - Western Australia could be home to the country’s newest large-scale oil refinery, if a government proposal goes ahead.
-- **[Labor only trailed narrowly in a Victorian Newspoll despite Allan’s dismal ratings](https://theconversation.com/labor-only-trailed-narrowly-in-a-victorian-newspoll-despite-allans-dismal-ratings-288393)** · *2026-07-29*
-  - With a new premier in Ben Carroll, Labor’s chances of winning the November election are likely to improve.
-- **[Politics with Michelle Grattan: Bridie O'Donnell on the ‘precarious business’ of the Tour de France](https://theconversation.com/politics-with-michelle-grattan-bridie-odonnell-on-the-precarious-business-of-the-tour-de-france-288518)** · *2026-07-29*
-  - The ex-champion cyclist turned commentator explains why heat is a growing risk to the annual summer event, and points to some Australian women to watch this weekend.
-- **[A lifelike robot called ‘Sally’ was going to teach in a US school. It’s not a weird as it sounds](https://theconversation.com/a-lifelike-robot-called-sally-was-going-to-teach-in-a-us-school-its-not-a-weird-as-it-sounds-288493)** · *2026-07-29*
-  - A rural district in New York state has made global headlines for plans to introduce a humanoid robot into high school classrooms as a teaching assistant.
+- **[Grattan on Friday: A reluctant Albanese is under pressure over telehealth for VAD](https://theconversation.com/grattan-on-friday-a-reluctant-albanese-is-under-pressure-over-telehealth-for-vad-288348)** · *2026-07-30*
+  - The parliament seems poised to test Labor’s platform commitment to the use of Telehealth in voluntary assisted dying cases, even as Albanese remains personally opposed.
+- **[Gina Rinehart paid $1.2 million to Australia’s Commonwealth Games swimmers. Is there any problem with that?](https://theconversation.com/gina-rinehart-paid-1-2-million-to-australias-commonwealth-games-swimmers-is-there-any-problem-with-that-288616)** · *2026-07-30*
+  - It’s no surprise the generous bonuses are well received by most swimmers, but it also raises several ethical quandaries.
+- **[Australia’s online watchdog is taking messaging app Telegram to court over ‘pro-terrorist’ posts](https://theconversation.com/australias-online-watchdog-is-taking-messaging-app-telegram-to-court-over-pro-terrorist-posts-288708)** · *2026-07-30*
+  - The eSafety Commissioner alleges Telegram failed to detect and remove pro-terrorist and extremist material, including videos of executions and attacks.
+- **[Luke Bateman says boys need books ‘written for boys’ to become readers. But it’s not that simple](https://theconversation.com/luke-bateman-says-boys-need-books-written-for-boys-to-become-readers-but-its-not-that-simple-288602)** · *2026-07-30*
+  - What’s the best way to get boys reading more? The answer might actually lie in less focus on gender.
+- **[World game at war: why some European nations have threatened a World Cup boycott](https://theconversation.com/world-game-at-war-why-some-european-nations-have-threatened-a-world-cup-boycott-288596)** · *2026-07-30*
+  - There is widespread unease about changes to the world game that will hyper-commercialise it, with the fallout potentially enormous.
 
 ## Nueva Sociedad
 
