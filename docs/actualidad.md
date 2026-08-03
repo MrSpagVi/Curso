@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-08-02 08:07 UTC_
+_Última actualización: 2026-08-03 09:25 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
+- **["Nuestras casas se han convertido en prisiones": cómo es vivir en un pueblo palestino en Cisjordania que sufre constantes ataques de colonos israelíes](https://www.bbc.com/mundo/articles/czjlk731dzwo?at_medium=RSS&at_campaign=rss)** · *2026-08-03*
+  - La población de al Mughayyir denuncia cómo colonos israelíes atacan su población para quedarse con terrenos palestinos.
 - **["El planeta en el que nosotros nacimos ya no existe": el climatólogo que alerta de la epidemia de eventos extremos y aún así es optimista](https://www.bbc.com/mundo/articles/c24mz1jrnpzo?at_medium=RSS&at_campaign=rss)** · *2026-08-02*
   - El climatólogo Raúl Cordero explicó a BBC Mundo por qué el hemisferio norte se está calentando casi al doble de rápido que el hemisferio sur, qué esperar del efecto combinado del cambio climático y El Niño, y cómo, a pesar de todo,…
-- **[La tormenta política en Europa que desató la llegada de miles de migrantes africanos a Ceuta](https://www.bbc.com/mundo/articles/ce8k6y8ym3no?at_medium=RSS&at_campaign=rss)** · *2026-08-02*
-  - Los cruces de multitudes desde Marruecos hacia Ceuta pusieron de manifiesto las divisiones existentes en Europa en torno al delicado tema de la migración, escribe Sarah Rainsford de la BBC.
-- **[Muere en una avalancha Nirmal Purja, el alpinista que conquistó las 14 montañas más altas del mundo](https://www.bbc.com/mundo/articles/cx2j98y93qro?at_medium=RSS&at_campaign=rss)** · *2026-08-01*
-  - El renombrado alpinista se hizo famoso por haber escalado las 14 cumbres más altas del mundo en poco más de seis meses en 2019.
-- **[Cómo dos policías encubiertos ayudaron a esclarecer un asesinato que había quedado impune por más de 40 años](https://www.bbc.com/mundo/articles/cjrgw2d39w2o?at_medium=RSS&at_campaign=rss)** · *2026-08-01*
-  - Cuatro décadas después de la muerte de Anthony Littler, la policía británica logró infiltrarse entre los responsables y lograr su condena.
-- **[Cómo un tornillo ayudó a EE.UU. a conquistar el mundo](https://www.bbc.com/mundo/articles/c5y4vdwk401o?at_medium=RSS&at_campaign=rss)** · *2026-08-01*
-  - A principios del siglo XX, muchas cosas no encajaban; unas décadas después, el mundo se ajustó a las medidas de Estados Unidos.
+- **[Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México](https://www.bbc.com/mundo/articles/cg4w2pe5zrro?at_medium=RSS&at_campaign=rss)** · *2026-08-02*
+  - Hace un siglo, el país norteamericano se vio envuelto en un conflicto político, militar y religioso que dejó alrededor de 250.000 muertos y en el que las mujeres tuvieron un papel protagónico.
+- **[Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida](https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss)** · *2026-08-02*
+  - La cofundadora de la plataforma de mercados de predicción Kalshi, cambió los tutús por los libros y se le ocurrió una idea que cambió la ley y su fortuna.
+- **[Ariana Grande se tomará un descanso de la vida pública por el escrutinio "constante" al que se siente sometida](https://www.bbc.com/mundo/articles/c3v0z6pw4x7o?at_medium=RSS&at_campaign=rss)** · *2026-08-03*
+  - La cantante estadounidense se "retirará de la vida pública" al finalizar su gira mundial, declaró su representante.
 
 ## El País — Internacional
 
-- **[Estados Unidos activa el modo electoral a tres meses de las ‘midterms’](https://elpais.com/internacional/2026-08-02/estados-unidos-activa-el-modo-electoral-a-tres-meses-de-las-midterms.html)** · *2026-08-02*
-  - Los demócratas están cerca de recuperar el control de la Cámara de Representantes, pero tienen más difícil ganar el Senado
-- **[Mamdani y Ocasio-Cortez forjan una alianza para impulsar su ideario socialista en EE UU](https://elpais.com/internacional/2026-08-02/mamdani-y-ocasio-cortez-forjan-una-alianza-para-impulsar-su-ideario-socialista-en-ee-uu.html)** · *2026-08-02*
-  - El alcalde de Nueva York, alentado por sus éxitos en las primarias demócratas, estrecha lazos con la congresista, que tantea una posible candidatura a la presidencia
-- **[Yakarta, la ciudad más poblada del mundo, se hunde en el mar de Java](https://elpais.com/internacional/2026-08-02/yakarta-la-ciudad-mas-poblada-del-mundo-se-hunde-en-el-mar-de-java.html)** · *2026-08-02*
-  - Con 42 millones de habitantes, la capital de Indonesia es la más expuesta al aumento del nivel de los océanos, está contaminada y sus ciudadanos viven hacinados. Viaje a la gran metrópolis asiática del siglo XXI
-- **[Un asunto sensible](https://elpais.com/opinion/2026-08-02/un-asunto-sensible.html)** · *2026-08-02*
-  - Las investigaciones para combatir las enfermedades olvidadas atraviesan una situación crítica por los recortes de los países ricos a la ayuda al desarrollo
-- **[Jean Monnet en Ormuz](https://elpais.com/internacional/2026-07-26/jean-monnet-en-ormuz.html)** · *2026-07-26*
-  - Nada avanzará con Trump desatado al mando y Netanyahu al frente del Gobierno más extremista de la historia de Israel. Pero todo puede cambiar con las elecciones de mitad de mandato en Estados Unidos y las generales en Israel
+- **[El centro de deportación de migrantes de Italia en Albania sigue casi vacío por segundo año consecutivo](https://elpais.com/internacional/2026-08-03/el-centro-de-deportacion-de-migrantes-de-italia-en-albania-sigue-casi-vacio-por-segundo-ano-consecutivo.html)** · *2026-08-03*
+  - La agresividad de Meloni con Ceuta se debe en parte a que le sirve para intentar superar el fracaso de su modelo: queda fuera del Pacto de Asilo de la UE, que ya permite opciones menos costosas, y el tribunal europeo aún debe aclarar si es…
+- **[Menores ante un juez: la ultraderecha impulsa el endurecimiento de la justicia juvenil](https://elpais.com/internacional/2026-08-03/menores-ante-un-juez-la-ultraderecha-impulsa-el-endurecimiento-de-la-justicia-juvenil.html)** · *2026-08-03*
+  - De Escandinavia a América Latina, las propuestas para endurecer las penas a los adolescentes ganan terreno pese a las reticencias de expertos y organizaciones dedicadas a la protección de la infancia
+- **[Gironda, el incendio que desbordó a Francia: “Sin la solidaridad internacional, habría sido dramático”](https://elpais.com/internacional/2026-08-03/gironda-el-incendio-que-desbordo-a-francia-sin-la-solidaridad-internacional-habria-sido-dramatico.html)** · *2026-08-03*
+  - El fuego desatado hace 10 días en el suroeste de Francia, el mayor desde la II Guerra Mundial, ha obligado a evacuar a 220.000 personas y ha abierto el debate sobre la falta de adaptación al cambio climático
+- **[‘Una familia, un voto’, el enésimo debate reaccionario](https://elpais.com/opinion/2026-08-03/una-familia-un-voto-el-enesimo-debate-reaccionario.html)** · *2026-08-03*
+  - La defensa de la familia patriarcal y del rol tradicional de la esposa-madre es una piedra angular y definitoria de las derechas
+- **[Los estadounidenses tienen menos de cien días para salvar su democracia](https://elpais.com/opinion/2026-08-03/los-estadounidenses-tienen-menos-de-cien-dias-para-salvar-su-democracia.html)** · *2026-08-03*
+  - Una avalancha al estilo húngaro es lo único que podrá desbaratar los intentos de Donald Trump de amañar las elecciones de mitad de mandato
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[FIFA and Infantino face an uncertain future as leading soccer nations fight for change](https://theconversation.com/fifa-and-infantino-face-an-uncertain-future-as-leading-soccer-nations-fight-for-change-288815)** · *2026-08-02*
-  - Recent FIFA controversies have exposed structural tensions within world soccer, which may result in significant change at the top.
-- **[The warning signs are over: Australia now faces a devastating bird flu outbreak in wildlife](https://theconversation.com/the-warning-signs-are-over-australia-now-faces-a-devastating-bird-flu-outbreak-in-wildlife-288889)** · *2026-08-01*
-  - We cannot stop wild birds from flying. But we can control whether this becomes an unmanaged catastrophe or a closely tracked outbreak.
-- **[What is Genocost? Understanding Congo’s new language of remembrance and justice](https://theconversation.com/what-is-genocost-understanding-congos-new-language-of-remembrance-and-justice-286987)** · *2026-08-01*
-  - Every year on August 2, the Congolese community around the world observes a day of remembrance for the victims of the genocide perpetrated against the people of eastern DRC for economic gain.
-- **[Does Saudi Arabia want to develop nuclear weapons? Here’s what history can tell us](https://theconversation.com/does-saudi-arabia-want-to-develop-nuclear-weapons-heres-what-history-can-tell-us-288418)** · *2026-08-01*
-  - US pressure and economic factors have historically prevented Saudi Arabia from developing a nuclear arsenal.
-- **[How the Ceuta border crossing incident immediately played into the hands of Spain’s far right](https://theconversation.com/how-the-ceuta-border-crossing-incident-immediately-played-into-the-hands-of-spains-far-right-288859)** · *2026-07-31*
-  - In the absence of information, dramatic images are feeding misinformation – and shifting public opinion.
+- **[How white farmers still dominate land ownership in South Africa in spite of land reform – new research](https://theconversation.com/how-white-farmers-still-dominate-land-ownership-in-south-africa-in-spite-of-land-reform-new-research-285507)** · *2026-08-03*
+  - Research shows that market-based land reform in South Africa since 1994 has often benefited white farmers and preserved inequality instead of reducing it.
+- **[Closed court, no jury: a legal expert explains what’s happening with Alan Jones’ trial](https://theconversation.com/closed-court-no-jury-a-legal-expert-explains-whats-happening-with-alan-jones-trial-288901)** · *2026-08-03*
+  - The trial of the former shock jock on indecent assault and sexual touching charges is taking place without a jury and in a closed court. Here’s why.
+- **[Australia has long relied on volunteers and wildlife carers. As bird flu spreads, they will need support](https://theconversation.com/australia-has-long-relied-on-volunteers-and-wildlife-carers-as-bird-flu-spreads-they-will-need-support-288389)** · *2026-08-03*
+  - Volunteers have been a mainstay of conservation in Australia. As bird flu spreads, they must be supported – and kept safe.
+- **[Ariana Grande’s appearance attracted intense scrutiny, not just genuine concern](https://theconversation.com/ariana-grandes-appearance-attracted-intense-scrutiny-not-just-genuine-concern-288926)** · *2026-08-03*
+  - There’s an important difference between scrutiny and concern. Here’s why this matters.
+- **[View from The Hill: Hanson announces One Nation Victorian leader, bans major media outlets](https://theconversation.com/view-from-the-hill-hanson-announces-one-nation-victorian-leader-bans-major-media-outlets-288350)** · *2026-08-03*
+  - Pauline Hanson formally announced a suite of candidates for the Victorian election, including her lead candidate Warren Pickering, 43, who will run for the seat of Pakenham
 
 ## Nueva Sociedad
 
