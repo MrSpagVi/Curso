@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-08-03 09:25 UTC_
+_Última actualización: 2026-08-04 08:23 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["Nuestras casas se han convertido en prisiones": cómo es vivir en un pueblo palestino en Cisjordania que sufre constantes ataques de colonos israelíes](https://www.bbc.com/mundo/articles/czjlk731dzwo?at_medium=RSS&at_campaign=rss)** · *2026-08-03*
-  - La población de al Mughayyir denuncia cómo colonos israelíes atacan su población para quedarse con terrenos palestinos.
-- **["El planeta en el que nosotros nacimos ya no existe": el climatólogo que alerta de la epidemia de eventos extremos y aún así es optimista](https://www.bbc.com/mundo/articles/c24mz1jrnpzo?at_medium=RSS&at_campaign=rss)** · *2026-08-02*
-  - El climatólogo Raúl Cordero explicó a BBC Mundo por qué el hemisferio norte se está calentando casi al doble de rápido que el hemisferio sur, qué esperar del efecto combinado del cambio climático y El Niño, y cómo, a pesar de todo,…
-- **[Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México](https://www.bbc.com/mundo/articles/cg4w2pe5zrro?at_medium=RSS&at_campaign=rss)** · *2026-08-02*
-  - Hace un siglo, el país norteamericano se vio envuelto en un conflicto político, militar y religioso que dejó alrededor de 250.000 muertos y en el que las mujeres tuvieron un papel protagónico.
-- **[Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida](https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss)** · *2026-08-02*
-  - La cofundadora de la plataforma de mercados de predicción Kalshi, cambió los tutús por los libros y se le ocurrió una idea que cambió la ley y su fortuna.
-- **[Ariana Grande se tomará un descanso de la vida pública por el escrutinio "constante" al que se siente sometida](https://www.bbc.com/mundo/articles/c3v0z6pw4x7o?at_medium=RSS&at_campaign=rss)** · *2026-08-03*
-  - La cantante estadounidense se "retirará de la vida pública" al finalizar su gira mundial, declaró su representante.
+- **[Qué es la Red Foxtrot, el enigmático grupo criminal escandinavo acusado de atacar objetivos israelíes y judíos en nombre de Irán](https://www.bbc.com/mundo/articles/c9w0ydjdzgjo?at_medium=RSS&at_campaign=rss)** · *2026-08-04*
+  - La Red Foxtrot, sancionada por los gobiernos del Reino Unido y Estados Unidos, está acusada de contratar sicarios adolescentes para asesinar a objetivos en varios países europeos a instancias de Irán.
+- **["El escándalo de los exámenes de la UNAM es una oportunidad para abandonar la escuela tradicional basada en la memoria"](https://www.bbc.com/mundo/articles/c330rvm4xpzo?at_medium=RSS&at_campaign=rss)** · *2026-08-03*
+  - El colombiano Julián de Zubiría lleva toda su carrera en la pedagogía argumentando que la educación basada en la memoria debe cambiar. La llegada de la inteligencia artificial, que puede boicotear procesos como la admisión a la universidad…
+- **[El impactante momento en el que un dron ucraniano explota en una playa del mar Negro: hay al menos 7 muertos y 40 heridos](https://www.bbc.com/mundo/articles/cly54egprk4o?at_medium=RSS&at_campaign=rss)** · *2026-08-03*
+  - El impacto de un dron a un centro turístico del mar Negro dejó además 40 heridos, según las autoridades rusas.
+- **[El trágico caso de la pareja que temía ser deportada de EE.UU. y acabó asesinada en Guatemala](https://www.bbc.com/mundo/articles/cr7k9ypmnnlo?at_medium=RSS&at_campaign=rss)** · *2026-08-03*
+  - Nixon Pérez Paz fue deportado de EE.UU. en mayo de 2025. Al año, su mujer, Glendy González de la Cruz, decidió volver a su Guatemala natal para reunificar a la familia. La semana pasada fueron hallados en un cañaveral con sendas heridas de…
+- **["No sabía que durante años tuve un parásito en mi cuerpo, hasta que sentí el dolor más intenso de mi vida"](https://www.bbc.com/mundo/articles/cy07kl5kwwvo?at_medium=RSS&at_campaign=rss)** · *2026-08-03*
+  - Un agricultor que padece quistes de crecimiento lento causados por una tenia afirma que no tenía ni idea de que algo anduviera mal.
 
 ## El País — Internacional
 
-- **[El centro de deportación de migrantes de Italia en Albania sigue casi vacío por segundo año consecutivo](https://elpais.com/internacional/2026-08-03/el-centro-de-deportacion-de-migrantes-de-italia-en-albania-sigue-casi-vacio-por-segundo-ano-consecutivo.html)** · *2026-08-03*
-  - La agresividad de Meloni con Ceuta se debe en parte a que le sirve para intentar superar el fracaso de su modelo: queda fuera del Pacto de Asilo de la UE, que ya permite opciones menos costosas, y el tribunal europeo aún debe aclarar si es…
-- **[Menores ante un juez: la ultraderecha impulsa el endurecimiento de la justicia juvenil](https://elpais.com/internacional/2026-08-03/menores-ante-un-juez-la-ultraderecha-impulsa-el-endurecimiento-de-la-justicia-juvenil.html)** · *2026-08-03*
-  - De Escandinavia a América Latina, las propuestas para endurecer las penas a los adolescentes ganan terreno pese a las reticencias de expertos y organizaciones dedicadas a la protección de la infancia
-- **[Gironda, el incendio que desbordó a Francia: “Sin la solidaridad internacional, habría sido dramático”](https://elpais.com/internacional/2026-08-03/gironda-el-incendio-que-desbordo-a-francia-sin-la-solidaridad-internacional-habria-sido-dramatico.html)** · *2026-08-03*
-  - El fuego desatado hace 10 días en el suroeste de Francia, el mayor desde la II Guerra Mundial, ha obligado a evacuar a 220.000 personas y ha abierto el debate sobre la falta de adaptación al cambio climático
+- **[Trump amenaza a Irán con una última oportunidad de negociar para evitar “la decapitación”](https://elpais.com/internacional/2026-08-03/trump-asegura-que-las-conversaciones-con-iran-se-reanudaran-este-lunes.html)** · *2026-08-03*
+  - El presidente de EE UU había anunciado para este lunes conversaciones, pero Teherán las desmiente
+- **[Jordania, en el foco indeseado de la guerra de Oriente Próximo](https://elpais.com/internacional/2026-08-04/jordania-en-el-foco-indeseado-de-la-guerra-de-oriente-proximo.html)** · *2026-08-04*
+  - Irán incrementa los ataques contra el país árabe, que alberga 4.000 militares estadounidenses, y da pie a una inusual crítica hacia la sólida alianza de seguridad con Washington
+- **[El verano al rojo vivo de Luís Montenegro al frente del Gobierno de Portugal](https://elpais.com/internacional/2026-08-04/el-verano-al-rojo-vivo-de-luis-montenegro-al-frente-del-gobierno-de-portugal.html)** · *2026-08-04*
+  - Irregularidades en torno a dos de sus ministros sacuden al Ejecutivo conservador, incapaz de sacar adelante su reforma laboral y en horas bajas en los sondeos
 - **[‘Una familia, un voto’, el enésimo debate reaccionario](https://elpais.com/opinion/2026-08-03/una-familia-un-voto-el-enesimo-debate-reaccionario.html)** · *2026-08-03*
   - La defensa de la familia patriarcal y del rol tradicional de la esposa-madre es una piedra angular y definitoria de las derechas
 - **[Los estadounidenses tienen menos de cien días para salvar su democracia](https://elpais.com/opinion/2026-08-03/los-estadounidenses-tienen-menos-de-cien-dias-para-salvar-su-democracia.html)** · *2026-08-03*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[How white farmers still dominate land ownership in South Africa in spite of land reform – new research](https://theconversation.com/how-white-farmers-still-dominate-land-ownership-in-south-africa-in-spite-of-land-reform-new-research-285507)** · *2026-08-03*
-  - Research shows that market-based land reform in South Africa since 1994 has often benefited white farmers and preserved inequality instead of reducing it.
-- **[Closed court, no jury: a legal expert explains what’s happening with Alan Jones’ trial](https://theconversation.com/closed-court-no-jury-a-legal-expert-explains-whats-happening-with-alan-jones-trial-288901)** · *2026-08-03*
-  - The trial of the former shock jock on indecent assault and sexual touching charges is taking place without a jury and in a closed court. Here’s why.
-- **[Australia has long relied on volunteers and wildlife carers. As bird flu spreads, they will need support](https://theconversation.com/australia-has-long-relied-on-volunteers-and-wildlife-carers-as-bird-flu-spreads-they-will-need-support-288389)** · *2026-08-03*
-  - Volunteers have been a mainstay of conservation in Australia. As bird flu spreads, they must be supported – and kept safe.
-- **[Ariana Grande’s appearance attracted intense scrutiny, not just genuine concern](https://theconversation.com/ariana-grandes-appearance-attracted-intense-scrutiny-not-just-genuine-concern-288926)** · *2026-08-03*
-  - There’s an important difference between scrutiny and concern. Here’s why this matters.
-- **[View from The Hill: Hanson announces One Nation Victorian leader, bans major media outlets](https://theconversation.com/view-from-the-hill-hanson-announces-one-nation-victorian-leader-bans-major-media-outlets-288350)** · *2026-08-03*
-  - Pauline Hanson formally announced a suite of candidates for the Victorian election, including her lead candidate Warren Pickering, 43, who will run for the seat of Pakenham
+- **[AI-generated fashion models: innovation, illusion or a step too far?](https://theconversation.com/ai-generated-fashion-models-innovation-illusion-or-a-step-too-far-285550)** · *2026-08-04*
+  - AI-generated fashion models may become the future, but they should be used responsibly.
+- **[Are summer holidays good for children? It’s time researchers asked them](https://theconversation.com/are-summer-holidays-good-for-children-its-time-researchers-asked-them-287543)** · *2026-08-04*
+  - Children have a right to leisure.
+- **[Two Victorian polls have the Coalition leading Labor, with One Nation down](https://theconversation.com/two-victorian-polls-have-the-coalition-leading-labor-with-one-nation-down-288811)** · *2026-08-04*
+  - In the immediate aftermath of Labor’s leadership spill, new polls bring better news for the struggling Coalition.
+- **[There are new blood tests for Alzheimer’s. Should I have one?](https://theconversation.com/there-are-new-blood-tests-for-alzheimers-should-i-have-one-288716)** · *2026-08-04*
+  - New blood tests for Alzheimer’s won’t give you an instant diagnosis. Here’s what they’ll tell you instead.
+- **[Companies may find it easier to join the ASX if these rule changes go ahead](https://theconversation.com/companies-may-find-it-easier-to-join-the-asx-if-these-rule-changes-go-ahead-288911)** · *2026-08-04*
+  - Right now, you can’t advertise a stock market debut before filing a prospectus. Could loosening this rule give shrinking public markets a boost?
 
 ## Nueva Sociedad
 
