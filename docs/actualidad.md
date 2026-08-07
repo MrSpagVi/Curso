@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-08-06 08:18 UTC_
+_Última actualización: 2026-08-07 07:01 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Atrapados en la guerra: los soldados heridos que Rusia vuelve a enviar al frente de batalla con Ucrania](https://www.bbc.com/mundo/articles/c74gjmm9gdro?at_medium=RSS&at_campaign=rss)** · *2026-08-06*
-  - BBC News Rusia tuvo acceso a documentos judiciales que revelan reiteradas acusaciones de que los soldados heridos volvían a ser enviados al combate en Ucrania en lugar de someterlos a las evaluaciones médicas legalmente requeridas.
-- **[Asesinato de César Gastélum: cómo los influencers en México se convirtieron en objetivo del narco](https://www.bbc.com/mundo/articles/clye03eyr96o?at_medium=RSS&at_campaign=rss)** · *2026-08-05*
+- **[Cuál es el origen de la histórica alianza entre EE.UU. y Marruecos y qué papel juega en la crisis migratoria en el enclave español de Ceuta](https://www.bbc.com/mundo/articles/c23515gx482o?at_medium=RSS&at_campaign=rss)** · *2026-08-07*
+  - Analizamos el vínculo especial que une a Marruecos y Estados Unidos, desde un tratado del siglo XVIII hasta la alianza estratégica que define la posición de Washington sobre el Sahara Occidental y la crisis de Ceuta.
+- **[Quiénes son los presuntos líderes del Cartel Jalisco Nueva Generación por los que EE.UU. ofrece más de US$100 millones en recompensas](https://www.bbc.com/mundo/articles/cx2jdq0qjyxo?at_medium=RSS&at_campaign=rss)** · *2026-08-06*
+  - El gobierno de EE.UU. identificó a Juan Carlos Valencia como sucesor de "El Mencho" en el liderazgo del Cartel Jalisco Nueva Generación. También a otros siete líderes por los que ofreció altas recompensas.
+- **[Los graves efectos que los científicos pronostican en América Latina por el fenómeno del "Súper El Niño"](https://www.bbc.com/mundo/articles/crrvepyp5g2o?at_medium=RSS&at_campaign=rss)** · *2026-08-06*
+  - Un parte importante de la región experimentará un clima más extremo, como olas de calor, sequía o lluvias torrenciales, por el fenómeno de El Niño, que se pronostica "muy fuerte" este año.
+- **[Cómo los influencers en México se convirtieron en objetivo de los asesinatos del narco](https://www.bbc.com/mundo/articles/clye03eyr96o?at_medium=RSS&at_campaign=rss)** · *2026-08-05*
   - El asesinato de César Gastélum mientras hacía una transmisión en vivo desde Culiacán, Sinaloa, sugiere una relación simbólica, inesperada y compleja entre la cultura del algoritmo y la cultura del narco.
-- **[César Gastélum, el influencer mexicano de 25 años al que mataron a tiros mientras hacía un streaming](https://www.bbc.com/mundo/articles/czek8n2wnd0o?at_medium=RSS&at_campaign=rss)** · *2026-08-05*
-  - De acuerdo con los reportes iniciales de las autoridades, dos personas en motocicleta se acercaron al creador de contenido y le dispararon a quemarropa.
-- **[Cómo funciona Pix, el sistema brasileño de pagos que Trump ve como una amenaza (y por qué es diferente a otros)](https://www.bbc.com/mundo/articles/c98vj2g5npjo?at_medium=RSS&at_campaign=rss)** · *2026-08-05*
-  - La herramienta Pix fue desarrollada por técnicos del banco central y rápidamente se popularizó en todo Brasil.
-- **[Los curiosos métodos que usaba la gente para despertarse antes de que existieran las alarmas (y el celular)](https://www.bbc.com/mundo/articles/c4g8y90g513o?at_medium=RSS&at_campaign=rss)** · *2026-08-05*
-  - A lo largo de la historia la gente ha ideado muchas formas ingeniosas de asegurarse el despertar a tiempo.
+- **[Multan a Meta con US$567 millones en el mayor fallo sobre seguridad infantil contra el gigante de las redes sociales](https://www.bbc.com/mundo/articles/cd7lzn00vd8o?at_medium=RSS&at_campaign=rss)** · *2026-08-07*
+  - Un juez de Nuevo México ordenó a la empresa matriz de Instagram, Facebook y WhatsApp pagar por el daño causado a los niños.
 
 ## El País — Internacional
 
-- **[Irán insiste en mantener el control del estrecho de Ormuz mientras Trump amenaza con abrirlo por la fuerza](https://elpais.com/internacional/2026-08-05/iran-insiste-en-mantener-el-control-del-estrecho-de-ormuz-mientras-trump-amenaza-con-abrirlo-por-la-fuerza.html)** · *2026-08-05*
-  - Teherán propone a Omán un sistema que le atribuiría la supervisión del tráfico y el cobro de tasas vinculadas a cuestiones de seguridad y el medio ambiente
-- **[La llegada de Burnham como primer ministro da un nuevo impulso a los laboristas en el Reino Unido](https://elpais.com/internacional/2026-08-06/la-llegada-de-burnham-como-primer-ministro-da-un-nuevo-impulso-a-los-laboristas-en-el-reino-unido.html)** · *2026-08-06*
-  - El mandatario toma la iniciativa y marca el ritmo de la política británica durante sus dos primeras semanas en el poder
-- **[Viviendas de lujo o memoria histórica: polémica en Berlín por un proyecto inmobiliario sobre un antiguo búnker nazi](https://elpais.com/internacional/2026-08-06/viviendas-de-lujo-o-memoria-historica-polemica-en-berlin-por-un-proyecto-inmobiliario-sobre-un-antiguo-bunker-nazi.html)** · *2026-08-06*
-  - Un inversor planea construir sobre un terreno que guarda los vestigios de la Nueva Cancillería del Reich, junto al Memorial del Holocausto
+- **[Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia](https://elpais.com/internacional/2026-08-07/un-estudiante-mata-al-menos-a-seis-personas-en-un-tiroteo-en-un-colegio-de-tailandia.html)** · *2026-08-07*
+  - Las víctimas son alumnos y profesores del colegio. Según la información policial, el atacante, de unos 15 años, acabó con la vida también de sus abuelos antes de dirigirse al centro educativo
+- **[La CIA refuerza su presencia en Cuba para presionar por un cambio de régimen](https://elpais.com/internacional/2026-08-06/la-cia-refuerza-su-presencia-en-cuba-para-presionar-por-un-cambio-de-regimen.html)** · *2026-08-06*
+  - Estados Unidos considera a la isla una prioridad de sus agencias de inteligencia y los equipos en el terreno buscan obtener más información en un momento en que no está descartada una operación militar
+- **[La guerra económica de Israel ahoga la sanidad en Cisjordania](https://elpais.com/internacional/2026-08-07/la-guerra-economica-de-israel-ahoga-la-sanidad-en-cisjordania.html)** · *2026-08-07*
+  - La población sufre cada vez más las carencias por la retención de fondos a la Autoridad Palestina, que acumula una deuda millonaria con hospitales y proveedores
 - **[Los estadounidenses tienen menos de cien días para salvar su democracia](https://elpais.com/opinion/2026-08-03/los-estadounidenses-tienen-menos-de-cien-dias-para-salvar-su-democracia.html)** · *2026-08-03*
   - Una avalancha al estilo húngaro es lo único que podrá desbaratar los intentos de Donald Trump de amañar las elecciones de mitad de mandato
 - **[‘Una familia, un voto’, el enésimo debate reaccionario](https://elpais.com/opinion/2026-08-03/una-familia-un-voto-el-enesimo-debate-reaccionario.html)** · *2026-08-03*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Grattan on Friday: The battle for Victoria will send important signals to federal players](https://theconversation.com/grattan-on-friday-the-battle-for-victoria-will-send-important-signals-to-federal-players-288349)** · *2026-08-06*
-  - Victoria’s election on November 28 has taken on a drama and significance we wouldn’t have anticipated a year ago and will be watched closely by federal players.
-- **[The world’s mangrove forests are bouncing back. That’s good news for our coasts and climate](https://theconversation.com/the-worlds-mangrove-forests-are-bouncing-back-thats-good-news-for-our-coasts-and-climate-288724)** · *2026-08-06*
-  - A new study suggests the world’s mangrove forests are expanding.
-- **[Now Jetstar wants to charge extra for overhead bags. What are your options?](https://theconversation.com/now-jetstar-wants-to-charge-extra-for-overhead-bags-what-are-your-options-289211)** · *2026-08-06*
-  - Billed as offering more flexibility, the new fees just add another burden for travellers.
-- **[Trump has tried to bend the legal system to his will. He’s increasingly facing pushback](https://theconversation.com/trump-has-tried-to-bend-the-legal-system-to-his-will-hes-increasingly-facing-pushback-289209)** · *2026-08-06*
-  - Trump has demanded loyalty from his appointees – but he’s finding he can’t control the judiciary.
-- **[Dry needling is different to acupuncture. So what’s involved? And is it effective?](https://theconversation.com/dry-needling-is-different-to-acupuncture-so-whats-involved-and-is-it-effective-286321)** · *2026-08-06*
-  - This therapy is thought to relax the muscle, reduce inflammation, promote healing and reduce pain. But what does the science say?
+- **[I feel deep sadness about bird flu and environmental loss. Is this normal?](https://theconversation.com/i-feel-deep-sadness-about-bird-flu-and-environmental-loss-is-this-normal-289145)** · *2026-08-07*
+  - Grief is an understandable response to witnessing harm to places and species that matter to us.
+- **[Dense breasts or breast cancer in the family? What screening changes mean for you](https://theconversation.com/dense-breasts-or-breast-cancer-in-the-family-what-screening-changes-mean-for-you-289221)** · *2026-08-07*
+  - If you are at higher risk of breast cancer, screening looks set to change. Here’s what we know so far.
+- **[We want to hear from you about data centres](https://theconversation.com/we-want-to-hear-from-you-about-data-centres-289053)** · *2026-08-07*
+  - What do you want to know about data centres?
+- **[You might be buying the wrong home battery. Here’s how to tell](https://theconversation.com/you-might-be-buying-the-wrong-home-battery-heres-how-to-tell-288935)** · *2026-08-07*
+  - Four experts explain why the design of your home matters more than the size of your home battery.
+- **[Ships stuck in the Strait of Hormuz region may be biosecurity risks when they leave. What can we do?](https://theconversation.com/ships-stuck-in-the-strait-of-hormuz-region-may-be-biosecurity-risks-when-they-leave-what-can-we-do-288551)** · *2026-08-07*
+  - Idle vessels accumulate biofouling quickly, especially in tropical waters. But there are precautions other ports can take against alien pests, parasites or disease.
 
 ## Nueva Sociedad
 
