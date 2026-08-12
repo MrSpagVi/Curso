@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-08-11 06:51 UTC_
+_Última actualización: 2026-08-12 07:10 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en Colombia](https://www.bbc.com/mundo/articles/cjd4824d9ljo?at_medium=RSS&at_campaign=rss)** · *2026-08-11*
-  - El sismo tuvo su epicentro en el departamento del Chocó y golpeó con dureza distintas localidades del occidente del país, incluidas Cali, Manizales, Pereira y Quibdó.
-- **[Continúan las labores de rescate tras el terremoto de magnitud 7,4 que deja al menos 132 muertos y más de 500 heridos en Colombia](https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss)**
-  - El recién inaugurado presidente de Colombia, Abelardo de la Espriella, decretó desastre nacional para actuar ante el sismo catalogado como el más fuerte de la última década. El epicentro ocurrió en la zona de San José del Palmar, en la…
-- **[Terremoto en Colombia: "Todo en mi apartamento se movía, por la ventana veía los edificios alrededor sacudirse de un lado a otro"](https://www.bbc.com/mundo/articles/c70g5e58k24o?at_medium=RSS&at_campaign=rss)** · *2026-08-10*
-  - El periodista y meteorólogo Luis Felipe Molina habló con BBC Mundo desde Manizales, una de las ciudades más afectadas por el terremoto registrado este lunes en el occidente de Colombia.
-- **[Todos necesitan a Trump: cómo EE.UU. tutela los intereses opuestos de gobierno y oposición en Venezuela](https://www.bbc.com/mundo/articles/ce8l6xj85ppo?at_medium=RSS&at_campaign=rss)** · *2026-08-10*
-  - La creciente influencia de Washington sobre lo que ocurre en Caracas es palpable no solamente en las acciones y decisiones del gobierno de Delcy Rodríguez, sino también en las acciones y silencios de la oposición.
-- **["Los contenedores de basura del océano": la dieta salvaje de los tiburones más temibles](https://www.bbc.com/mundo/articles/c629njdr2ypo?at_medium=RSS&at_campaign=rss)** · *2026-08-10*
-  - Los tiburones tigre no son muy quisquillosos con la comida, consumen casi cualquier cosa y nadan grandes distancias para darse un festín. Afortunadamente, su dieta extrema también trae beneficios.
+- **["Cada vez que anuncian a una persona con vida, me nace la esperanza de encontrar a mi hermano": la desesperada búsqueda de sobrevivientes del sismo en Cali](https://www.bbc.com/mundo/articles/c75gk07kr79o?at_medium=RSS&at_campaign=rss)** · *2026-08-12*
+  - En el sur de la tercera ciudad más poblada de Colombia y una de las más afectadas por el terremoto, cientos de personas apuran esfuerzos para encontrar sobrevivientes bajo los escombros.
+- **[Los mapas y gráficos que muestran la magnitud y el impacto del potente terremoto en Colombia](https://www.bbc.com/mundo/articles/c9985j8x59no?at_medium=RSS&at_campaign=rss)** · *2026-08-11*
+  - Colombia se ubica sobre la zona de interacción de tres placas tectónicas. Es una de las naciones con mayor actividad sísmica de América Latina y ha sido escenario de potentes terremotos como el de este lunes.
+- **[Qué es la subducción de placas que provocó el mayor terremoto en Colombia de la última década (y por qué no está conectado con los de Venezuela)](https://www.bbc.com/mundo/articles/cre41wdd4qeo?at_medium=RSS&at_campaign=rss)** · *2026-08-11*
+  - Te explicamos el fenómeno que provocó el terremoto magnitud 7,4 que sacudió el occidente de Colombia.
+- **["Una auténtica rareza astronómica": la inusual trilogía de eclipses que se verá desde España](https://www.bbc.com/mundo/articles/cddjg74l8q9o?at_medium=RSS&at_campaign=rss)** · *2026-08-12*
+  - España ha esperado más de un siglo para tener un eclipse total de sol en la península ibérica. Y entre 2026 y 2028 tendrá tres eclipses, dos de ellos totales, algo extraordinariamente raro.
+- **[Trump se escondió en un contenedor de comida para cambiar de avión en secreto por una amenaza de Irán, según medios en EE.UU.](https://www.bbc.com/mundo/articles/c24m8ymgz7ro?at_medium=RSS&at_campaign=rss)** · *2026-08-11*
+  - Según fuentes de medios de EE.UU., el presidente fue reubicado secretamente en un avión diferente al Air Force One para evitar una amenaza iraní al volar desde Turquía a EE.UU.
 
 ## El País — Internacional
 
-- **[Más de un centenar de muertos tras un terremoto de 7,4 en Colombia](https://elpais.com/america-colombia/2026-08-10/un-fuerte-temblor-sacude-colombia.html)** · *2026-08-10*
-  - Abelardo de la Espriella, que lleva tres días en la Presidencia, convoca a un Plan de Mando Unificado para coordinar la atención
-- **[Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto](https://elpais.com/mexico/2026-08-10/estados-unidos-y-mexico-tienden-la-mano-a-colombia-y-ofrecen-enviar-ayuda-tras-el-terremoto.html)** · *2026-08-11*
-  - Marco Rubio y Claudia Sheinbaum se solidarizan con las víctimas del sismo de 7,4 que ha dejado más de un centenar de fallecidos
-- **[Italia y Dinamarca vinculan la “inmigración descontrolada” con la delincuencia y piden centros de deportación tras la crisis de Ceuta](https://elpais.com/internacional/2026-08-10/italia-y-dinamarca-rechazan-la-inmigracion-descontrolada-y-piden-centros-de-deportacion.html)** · *2026-08-10*
-  - La primera ministra italiana, Giorgia Meloni, y su homóloga danesa, Mette Frederiksen, publican un comunicado en el que afirman que los inmigrantes sin papeles cometen “delitos violentos”, “narcotráfico” y “violencia sexual”
+- **[Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”](https://elpais.com/america-colombia/2026-08-11/colombia-se-vuelca-en-el-rescate-de-los-supervivientes-del-terremoto-no-se-desgasten-aqui-la-unica-senal-de-vida-es-en-el-otro-lado.html)** · *2026-08-11*
+  - El sismo de magnitud 7,4 deja más de dos centenares de muertos en un país que lanza un despliegue urgente de bomberos, militares y vecinos
+- **[Colombia en las 72 horas tras el terremoto: despliegue desigual y titubeos ante el auxilio internacional](https://elpais.com/america-colombia/2026-08-12/colombia-en-las-72-horas-tras-el-terremoto-despliegue-desigual-y-titubeos-ante-el-auxilio-internacional.html)** · *2026-08-12*
+  - Continúan los operativos de rescate para tratar de encontrar a las cerca de 200 personas que aún permanecen desaparecidas
+- **[Dos terremotos, dos respuestas: las reacciones de Venezuela y Colombia a la tragedia](https://elpais.com/america-colombia/2026-08-12/dos-terremotos-dos-respuestas-las-reacciones-de-venezuela-y-colombia-a-la-tragedia.html)** · *2026-08-12*
+  - La maquinaria especializada, desplegada a tiempo en Colombia, ha sido una de las grandes diferencias con Venezuela, donde en algunas zonas pasó una semana antes de que enviaran retroexcavadoras
 - **[Las últimas elecciones de Trump](https://elpais.com/opinion/2026-08-10/las-ultimas-elecciones-de-trump.html)** · *2026-08-10*
   - Diga lo que diga y haga lo que haga el presidente tras los comicios de noviembre, sus resultados y sus consecuencias no van a cambiar
 - **[Contra la cretinización tecnológica](https://elpais.com/opinion/2026-08-08/contra-la-cretinizacion-tecnologica.html)** · *2026-08-08*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[RBA holds rates steady as the housing market softens. But another hike is still possible](https://theconversation.com/rba-holds-rates-steady-as-the-housing-market-softens-but-another-hike-is-still-possible-289383)** · *2026-08-11*
-  - The housing market matters for the broader economy. The RBA will be watching closely before it makes another interest rate move.
-- **[Vitamin K shots stop internal bleeding in newborns. So why are some parents refusing them?](https://theconversation.com/vitamin-k-shots-stop-internal-bleeding-in-newborns-so-why-are-some-parents-refusing-them-288115)** · *2026-08-11*
-  - In the US and Sweden, there’s been a drop in the number of babies receiving the vitamin K injection. But Australia doesn’t collect national data.
-- **[Colombia earthquake has killed at least 132. My research helps explain why it was so destructive](https://theconversation.com/colombia-earthquake-has-killed-at-least-132-my-research-helps-explain-why-it-was-so-destructive-289478)** · *2026-08-11*
-  - Many buildings in Colombia have thin concrete walls, which makes them extremely vulnerable to collapse.
-- **[Luxon’s leadership on the line – again. Neither National nor Labour stand to benefit](https://theconversation.com/luxons-leadership-on-the-line-again-neither-national-nor-labour-stand-to-benefit-289475)** · *2026-08-11*
-  - Whatever the outcome at tomorrow’s caucus meeting, Christopher Luxon has been found wanting as a political leader. But so has Labour’s Chris Hipkins.
-- **[Brain scans provide world-first evidence dogs can distinguish between human fear and sadness](https://theconversation.com/brain-scans-provide-world-first-evidence-dogs-can-distinguish-between-human-fear-and-sadness-288916)** · *2026-08-11*
-  - Think your dog can tell when you’re angry rather than sad? New research inside dogs’ brains suggests the answer might be more complicated than you think.
+- **[Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years](https://theconversation.com/why-trumps-mmr-vaccine-order-is-the-latest-public-health-disaster-with-effects-set-to-last-years-289479)** · *2026-08-12*
+  - Trump’s latest executive order is set to lead to delayed vaccinations, falling coverage and a resurgence of diseases once brought under control.
+- **[Luxon survives. But why do National and Labour both struggle with effective leadership?](https://theconversation.com/luxon-survives-but-why-do-national-and-labour-both-struggle-with-effective-leadership-289596)** · *2026-08-12*
+  - Both major parties have had a revolving door of leaders. What is it about modern politics that makes the job so challenging – and are others doing any better?
+- **[Massive Attack deliver history lesson on K-pop’s roots in political protest](https://theconversation.com/massive-attack-deliver-history-lesson-on-k-pops-roots-in-political-protest-289392)** · *2026-08-12*
+  - The lyrics of a famous Korean pop song, covered by Massive Attack during recent shows, express frustration with the establishment and with political hypocrisy.
+- **[The experience of tickling and ticklishness is the same across cultures: new research](https://theconversation.com/the-experience-of-tickling-and-ticklishness-is-the-same-across-cultures-new-research-289505)** · *2026-08-12*
+  - More than 98% of people have been tickled. But scientists still don’t understand why we do it
+- **[People with psychosocial disability from mental illness will lose out from tightened NDIS eligibility](https://theconversation.com/people-with-psychosocial-disability-from-mental-illness-will-lose-out-from-tightened-ndis-eligibility-289378)** · *2026-08-12*
+  - Symptoms and impacts may fluctuate and it can be difficult to show you’ve tried other treatments.
 
 ## Nueva Sociedad
 
