@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-08-12 07:10 UTC_
+_Última actualización: 2026-08-13 07:13 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["Cada vez que anuncian a una persona con vida, me nace la esperanza de encontrar a mi hermano": la desesperada búsqueda de sobrevivientes del sismo en Cali](https://www.bbc.com/mundo/articles/c75gk07kr79o?at_medium=RSS&at_campaign=rss)** · *2026-08-12*
-  - En el sur de la tercera ciudad más poblada de Colombia y una de las más afectadas por el terremoto, cientos de personas apuran esfuerzos para encontrar sobrevivientes bajo los escombros.
-- **[Los mapas y gráficos que muestran la magnitud y el impacto del potente terremoto en Colombia](https://www.bbc.com/mundo/articles/c9985j8x59no?at_medium=RSS&at_campaign=rss)** · *2026-08-11*
-  - Colombia se ubica sobre la zona de interacción de tres placas tectónicas. Es una de las naciones con mayor actividad sísmica de América Latina y ha sido escenario de potentes terremotos como el de este lunes.
-- **[Qué es la subducción de placas que provocó el mayor terremoto en Colombia de la última década (y por qué no está conectado con los de Venezuela)](https://www.bbc.com/mundo/articles/cre41wdd4qeo?at_medium=RSS&at_campaign=rss)** · *2026-08-11*
-  - Te explicamos el fenómeno que provocó el terremoto magnitud 7,4 que sacudió el occidente de Colombia.
-- **["Una auténtica rareza astronómica": la inusual trilogía de eclipses que se verá desde España](https://www.bbc.com/mundo/articles/cddjg74l8q9o?at_medium=RSS&at_campaign=rss)** · *2026-08-12*
-  - España ha esperado más de un siglo para tener un eclipse total de sol en la península ibérica. Y entre 2026 y 2028 tendrá tres eclipses, dos de ellos totales, algo extraordinariamente raro.
-- **[Trump se escondió en un contenedor de comida para cambiar de avión en secreto por una amenaza de Irán, según medios en EE.UU.](https://www.bbc.com/mundo/articles/c24m8ymgz7ro?at_medium=RSS&at_campaign=rss)** · *2026-08-11*
-  - Según fuentes de medios de EE.UU., el presidente fue reubicado secretamente en un avión diferente al Air Force One para evitar una amenaza iraní al volar desde Turquía a EE.UU.
+- **["Al sentir el terremoto volví a la escuela por mi hija y una niña de 10 años acabó muriendo en mis brazos"](https://www.bbc.com/mundo/articles/c1l12ed1336o?at_medium=RSS&at_campaign=rss)** · *2026-08-12*
+  - La psicóloga Kelly Díaz ejemplifica el sacrificio de los voluntarios en las labores de rescate en Cali, una de las ciudades más afectadas por el terremoto en Colombia.
+- **["¡No, Marruecos no!": el dilema de qué hacer con los niños no acompañados que llegaron a Ceuta y que España no sabe a quién devolver](https://www.bbc.com/mundo/articles/cly9p3lgw6no?at_medium=RSS&at_campaign=rss)** · *2026-08-13*
+  - Días después de la irrupción masiva de extranjeros en la ciudad española en el norte de África, cientos de menores no acompañados deambulan por sus calles.
+- **["Nunca imaginé que me pudiera pasar algo así": el creciente número de migrantes que están siendo detenidos por ICE en los aeropuertos de EE.UU.](https://www.bbc.com/mundo/articles/cn0nye17n5wo?at_medium=RSS&at_campaign=rss)** · *2026-08-12*
+  - Claudia Rodríguez se disponia a abordar un vuelo doméstico cuando la interceptaron unos agentes migratorios. Libre bajo fianza tras pasar dos semanas en detención, su caso ilustra un fenómeno que denuncian organizaciones y abogados.
+- **[Así fue el espectacular eclipse solar total que se pudo ver en parte de Europa](https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss)**
+  - España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.
+- **[Crítica de la BBC: "El Spiderman de Tom Holland tiene que evolucionar o el actor debe dejar el papel"](https://www.bbc.com/mundo/articles/cddjq4g1e1do?at_medium=RSS&at_campaign=rss)** · *2026-08-12*
+  - “Spiderman: un nuevo día” es la más reciente entrega de la saga y ya es un mega éxito. Pero la encarnación de Holland del superhéroe se está quedando sin red y necesita madurar o entregársela a un actor más joven.
 
 ## El País — Internacional
 
-- **[Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”](https://elpais.com/america-colombia/2026-08-11/colombia-se-vuelca-en-el-rescate-de-los-supervivientes-del-terremoto-no-se-desgasten-aqui-la-unica-senal-de-vida-es-en-el-otro-lado.html)** · *2026-08-11*
-  - El sismo de magnitud 7,4 deja más de dos centenares de muertos en un país que lanza un despliegue urgente de bomberos, militares y vecinos
-- **[Colombia en las 72 horas tras el terremoto: despliegue desigual y titubeos ante el auxilio internacional](https://elpais.com/america-colombia/2026-08-12/colombia-en-las-72-horas-tras-el-terremoto-despliegue-desigual-y-titubeos-ante-el-auxilio-internacional.html)** · *2026-08-12*
-  - Continúan los operativos de rescate para tratar de encontrar a las cerca de 200 personas que aún permanecen desaparecidas
-- **[Dos terremotos, dos respuestas: las reacciones de Venezuela y Colombia a la tragedia](https://elpais.com/america-colombia/2026-08-12/dos-terremotos-dos-respuestas-las-reacciones-de-venezuela-y-colombia-a-la-tragedia.html)** · *2026-08-12*
-  - La maquinaria especializada, desplegada a tiempo en Colombia, ha sido una de las grandes diferencias con Venezuela, donde en algunas zonas pasó una semana antes de que enviaran retroexcavadoras
+- **[Críticas a Trump por usar como señuelos a periodistas y altos cargos para salir de Turquía](https://elpais.com/internacional/2026-08-12/criticas-a-trump-por-usar-como-senuelos-a-periodistas-y-altos-cargos-para-salir-de-turquia.html)** · *2026-08-12*
+  - El republicano viajó en otra aeronave para ponerse a salvo tras recibir amenazas de Irán, sin informar a quienes iban en el avión presidencial. Los demócratas piden crear una comisión de investigación en el Senado para aclarar la operación
+- **[La lluvia amenaza los albergues improvisados de Cali: “No tenemos a dónde ir”](https://elpais.com/america-colombia/2026-08-13/la-lluvia-amenaza-los-albergues-improvisados-de-cali-no-tenemos-a-donde-ir.html)** · *2026-08-13*
+  - La ciudadanía ha construido albergues informales para atender, con sus propias manos, a cientos de personas que no han recibido el apoyo de la Alcaldía
+- **[El chavismo y la oposición venezolana acuerdan renovar a todos los magistrados del Supremo](https://elpais.com/america/2026-08-13/el-chavismo-y-la-oposicion-venezolana-acuerdan-renovar-a-todos-los-magistrados-del-supremo.html)** · *2026-08-13*
+  - La mesa de negociación, tutelada por Estados Unidos, volverá a reunirse a mediados de septiembre
+- **[El Kremlin teme los votos por la paz](https://elpais.com/internacional/2026-08-13/el-kremlin-teme-los-votos-por-la-paz.html)** · *2026-08-13*
+  - El partido Yábloko, única formación de Rusia contra la guerra en Ucrania, ha pasado a ser contemplado por el poder como un peligro y ha sido excluido de las elecciones
 - **[Las últimas elecciones de Trump](https://elpais.com/opinion/2026-08-10/las-ultimas-elecciones-de-trump.html)** · *2026-08-10*
   - Diga lo que diga y haga lo que haga el presidente tras los comicios de noviembre, sus resultados y sus consecuencias no van a cambiar
-- **[Contra la cretinización tecnológica](https://elpais.com/opinion/2026-08-08/contra-la-cretinizacion-tecnologica.html)** · *2026-08-08*
-  - Los móviles y ciertas aplicaciones digitales son un arma de destrucción masiva de las capacidades cognitivas y relacionales, de la salud mental y democrática
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years](https://theconversation.com/why-trumps-mmr-vaccine-order-is-the-latest-public-health-disaster-with-effects-set-to-last-years-289479)** · *2026-08-12*
-  - Trump’s latest executive order is set to lead to delayed vaccinations, falling coverage and a resurgence of diseases once brought under control.
-- **[Luxon survives. But why do National and Labour both struggle with effective leadership?](https://theconversation.com/luxon-survives-but-why-do-national-and-labour-both-struggle-with-effective-leadership-289596)** · *2026-08-12*
-  - Both major parties have had a revolving door of leaders. What is it about modern politics that makes the job so challenging – and are others doing any better?
-- **[Massive Attack deliver history lesson on K-pop’s roots in political protest](https://theconversation.com/massive-attack-deliver-history-lesson-on-k-pops-roots-in-political-protest-289392)** · *2026-08-12*
-  - The lyrics of a famous Korean pop song, covered by Massive Attack during recent shows, express frustration with the establishment and with political hypocrisy.
-- **[The experience of tickling and ticklishness is the same across cultures: new research](https://theconversation.com/the-experience-of-tickling-and-ticklishness-is-the-same-across-cultures-new-research-289505)** · *2026-08-12*
-  - More than 98% of people have been tickled. But scientists still don’t understand why we do it
-- **[People with psychosocial disability from mental illness will lose out from tightened NDIS eligibility](https://theconversation.com/people-with-psychosocial-disability-from-mental-illness-will-lose-out-from-tightened-ndis-eligibility-289378)** · *2026-08-12*
-  - Symptoms and impacts may fluctuate and it can be difficult to show you’ve tried other treatments.
+- **[‘No, I want Mum!’ Does it feel like your child has a favourite parent?](https://theconversation.com/no-i-want-mum-does-it-feel-like-your-child-has-a-favourite-parent-289398)** · *2026-08-13*
+  - It’s okay if a child occasionally chooses one parent over the other. What matters more is whether the child has reliable relationships with both parents.
+- **[As Brisbane 2032 gets closer, Australian girls are quitting organised sports. What can be done?](https://theconversation.com/as-brisbane-2032-gets-closer-australian-girls-are-quitting-organised-sports-what-can-be-done-289152)** · *2026-08-13*
+  - Girls who are 15 now will be about 21 when Brisbane 2032 rolls around. But many will have walked away from sports by then.
+- **[Why the $2.5 billion Tomago aluminium deal is no ordinary bailout](https://theconversation.com/why-the-2-5-billion-tomago-aluminium-deal-is-no-ordinary-bailout-289629)** · *2026-08-13*
+  - The government’s approach to saving Tomago offers a blueprint for other interventions to future-proof industry, such as at Whyalla.
+- **[Safe havens protect Australian mammals from invasive predators. Why aren’t they working for other animal groups?](https://theconversation.com/safe-havens-protect-australian-mammals-from-invasive-predators-why-arent-they-working-for-other-animal-groups-289228)** · *2026-08-13*
+  - Fenced-off safe havens and islands free from cats and foxes have given endangered mammals breathing space. But they’re not yet helping many other groups of animals
+- **[A new ADHD drug targets three brain chemicals instead of two. Here’s what that means](https://theconversation.com/a-new-adhd-drug-targets-three-brain-chemicals-instead-of-two-heres-what-that-means-288710)** · *2026-08-13*
+  - Along with dopamine and noradrenaline, this new drug also impacts levels of serotonin.
 
 ## Nueva Sociedad
 
