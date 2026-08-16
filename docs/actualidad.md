@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-08-15 06:22 UTC_
+_Última actualización: 2026-08-16 06:24 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["La presión y las amenazas no están funcionando": el dilema de cómo tratar al Talibán para generar un cambio en Afganistán](https://www.bbc.com/mundo/articles/cjwxg155egno?at_medium=RSS&at_campaign=rss)** · *2026-08-15*
-  - Cinco años después de que los talibanes regresaran al poder, muchos se preguntan si a Occidente le quedan bazas para negociar.
-- **[La tragedia de Ana María Saavedra, la joven trilliza que perdió a sus dos hermanas y a sus padres en el terremoto en Colombia](https://www.bbc.com/mundo/articles/cly59kek9w9o?at_medium=RSS&at_campaign=rss)** · *2026-08-14*
-  - La joven de 23 años lo perdió todo en el terremoto que azotó el occidente de Colombia el 10 de agosto: el edificio en el que vivía con sus papás y sus dos hermanas en Cali colapsó, quedando como la única sobreviviente de su núcleo familiar.
-- **["Somos demasiado pobres": cómo el terremoto agrava la desesperada situación en el Chocó, una de las regiones más olvidadas de Colombia](https://www.bbc.com/mundo/articles/c80n2vp7kvzo?at_medium=RSS&at_campaign=rss)** · *2026-08-14*
-  - El Chocó es el departamento más pobre de los cinco afectados por el terremoto del pasado lunes, que dejó más de 280 muertos en todo el país.
-- **[Los obreros que descubrieron un tesoro de US$10 millones en lingotes y monedas de oro sepultado en las paredes de una casa en Bélgica](https://www.bbc.com/mundo/articles/c4gkyp2917go?at_medium=RSS&at_campaign=rss)** · *2026-08-14*
-  - Unos obreros de la construcción encontraron el botín en las paredes de un sótano mientras perforaban para instalar tuberías de alcantarillado.
-- **[De "La Invitación" a "La Odisea": 12 de las mejores películas de 2026, según los críticos de la BBC](https://www.bbc.com/mundo/articles/cn8nqxlg82vo?at_medium=RSS&at_campaign=rss)** · *2026-08-14*
-  - Los críticos de cine de la BBC Caryn James y Nicholas Barber seleccionan sus películas favoritas del año. Desde la audaz reinvención de la novela de Emily Brontë hasta la épica superproducción de Christopher Nolan.
+- **[Por qué no se han podido encontrar los restos de García Lorca 90 años después de su ejecución en la Guerra Civil española](https://www.bbc.com/mundo/articles/c78gxlj1e55o?at_medium=RSS&at_campaign=rss)** · *2026-08-16*
+  - Más de 11.000 personas permanecen enterradas, sin identificar, en fosas comunes de España. Pero una de las más complicadas de encontrar es la del poeta universal de Granada.
+- **[¿Cuánto más puede aguantar Irán la guerra con Estados Unidos?](https://www.bbc.com/mundo/articles/c0rdylwpj4no?at_medium=RSS&at_campaign=rss)** · *2026-08-15*
+  - Siete meses después del inicio de la guerra, y a pesar de la enorme presión sobre la economía y la infraestructura del país, sus responsables políticos aún no parecen tener prisa por ponerle fin.
+- **[Muere Daniela Largo, la mujer rescatada tras pasar 36 horas atrapada en los escombros por el terremoto en Colombia](https://www.bbc.com/mundo/articles/ckg447er5gpo?at_medium=RSS&at_campaign=rss)** · *2026-08-15*
+  - Daniela Largo Sánchez falleció por complicaciones médicas la noche del viernes 14 de agosto, informó su padre.
+- **[Armenia, la ciudad de Colombia que se reconstruyó tras el terremoto de 1999 y ahora no registró muertos](https://www.bbc.com/mundo/articles/ckgd8pzkyzxo?at_medium=RSS&at_campaign=rss)** · *2026-08-15*
+  - Hace 27 años, la ciudad quedó completamente devastada por un terremoto que sus habitantes jamás olvidarán. Ahora tuvieron que vivir un nuevo sismo, pero la historia fue completamente diferente.
+- **["Nunca pensamos en no lanzarla": el relato de un científico que ayudó a fabricar la bomba atómica que arrasó Nagasaki](https://www.bbc.com/mundo/articles/cgr7p2z8xwwo?at_medium=RSS&at_campaign=rss)** · *2026-08-15*
+  - El 9 de agosto de 1945, una bomba de plutonio fue lanzada sobre la ciudad japonesa de Nagasaki, poniendo fin a la Segunda Guerra Mundial. Uno de los físicos que ayudó a ensamblarla habló 30 años después con la BBC.
 
 ## El País — Internacional
 
-- **[El ultra británico Farage revalida su escaño en el Parlamento tras vencer al estrafalario Conde Cubo de Basura](https://elpais.com/internacional/2026-08-14/el-ultra-britanico-farage-revalida-su-escano-en-el-parlamento-tras-vencer-al-variopinto-conde-cubo-de-basura.html)** · *2026-08-14*
-  - El líder de Reform UK, que había dimitido por investigaciones de posible corrupción, gana la elección en Clacton-On-Sea. El político no acude al anuncio del resultado por seguridad, pero la policía niega que hubiera riesgo
-- **[Luigi Mangione se declara culpable en el juicio federal por asesinar a un ejecutivo de una compañía de seguros de salud](https://elpais.com/internacional/2026-08-14/luigi-mangione-se-declara-culpable-en-el-juicio-federal-por-asesinar-a-un-ejecutivo-de-una-compania-de-seguros-de-salud.html)** · *2026-08-14*
-  - El acusado tratará de invalidar el otro juicio estatal alegando doble enjuiciamiento. El acuerdo con la Fiscalía se produce semanas antes del proceso impulsado por el Departamento de Justicia
-- **[La “carrera de obstáculos” de las afganas para pedir el traslado a España: años de espera, documentos “imposibles” y recursos judiciales](https://elpais.com/internacional/2026-08-14/la-carrera-de-obstaculos-de-las-afganas-para-pedir-el-traslado-a-espana-anos-de-espera-documentos-imposibles-y-recursos-judiciales.html)** · *2026-08-14*
-  - Las embajadas españolas en Irán y Pakistán deniegan un número creciente de peticiones de víctimas de los talibanes, según varias ONG
-- **[Saturno siendo devorado por sus hijos](https://elpais.com/opinion/2026-08-15/saturno-siendo-devorado-por-sus-hijos.html)** · *2026-08-15*
-  - Las instituciones liberales parecen incapaces de formar élites que garanticen su supervivencia frente el auge ultra
-- **[Inestabilidad cronificada](https://elpais.com/internacional/2026-08-15/inestabilidad-cronificada.html)** · *2026-08-15*
-  - Irán ha hecho valer en Ormuz la tesis clásica de Yves Lacoste de que la geografía es un arma inventada para la guerra
+- **[La supervivencia de Hamás complica la reelección a Netanyahu](https://elpais.com/internacional/2026-08-16/la-supervivencia-de-hamas-complica-la-reeleccion-a-netanyahu.html)** · *2026-08-16*
+  - El primer ministro israelí afronta las urnas en octubre con la promesa incumplida de la “victoria total” y la necesidad de cumplir el plan de Trump
+- **[El callejón sin salida de Irán suma un nuevo problema interno a Trump](https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html)** · *2026-08-16*
+  - El subterfugio para huir de Turquía, la escasez de arsenal y el deterioro de las condiciones en el ‘USS Abraham Lincoln’ evidencian las dificultades en Oriente Próximo
+- **[La vida en Gaza, un infierno cotidiano tras 300 días de alto el fuego](https://elpais.com/internacional/2026-08-16/la-vida-en-gaza-un-infierno-cotidiano-tras-300-dias-de-alto-el-fuego.html)** · *2026-08-16*
+  - Sin agua corriente ni electricidad, la población sigue a la espera de un futuro distinto. Israel bombardea menos, pero mantiene a cientos de miles de palestinos en tiendas de campaña al bloquear la reconstrucción
+- **[Gaza bajo la tregua o la banalización del horror](https://elpais.com/internacional/2026-08-16/gaza-bajo-la-tregua-o-la-banalizacion-del-horror.html)** · *2026-08-16*
+  - La Franja se ha convertido en uno de los mayores infiernos, con la población sometida a unas miserables condiciones de vida que debieran sonrojar a la humanidad
+- **[La frontera de Ceuta como muro de Berlín invertido](https://elpais.com/opinion/2026-08-16/la-frontera-de-ceuta-como-muro-de-berlin-invertido.html)** · *2026-08-16*
+  - Tan importante es garantizar la seguridad de las fronteras como evitar que ese propósito destruya nuestros principios y valores
 
 ## Le Monde Diplomatique (Cono Sur)
 
