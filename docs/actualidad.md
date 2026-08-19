@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-08-18 06:27 UTC_
+_Última actualización: 2026-08-19 06:28 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[El pacto de La Meca: 4 claves para entender la "OTAN musulmana" creada por Turquía, Arabia Saudita y Pakistán](https://www.bbc.com/mundo/articles/cm2grvk85vlo?at_medium=RSS&at_campaign=rss)** · *2026-08-18*
-  - El pacto de defensa entre Turquía, Arabia Saudita y Pakistán ha sido llamado la "OTAN musulmana" o "pacto sunita". Pero, ¿funcionará así en la práctica? Lo analizamos.
-- **["Te pude haber rescatado, hija": la culpa del sobreviviente y la dificultad de ayudar a las víctimas de los terremotos](https://www.bbc.com/mundo/articles/cp8x411l3d6o?at_medium=RSS&at_campaign=rss)** · *2026-08-17*
-  - Tras los terremotos que dejaron más de 6.000 muertos en Venezuela y más de 280 en Colombia, especialistas en salud mental enfrentan el reto de apoyar a los sobrevivientes, muchos de los cuales aún buscan a sus seres queridos entre los…
-- **[Las empresas de IA prometen que se trabajará menos, pero sus empleados dicen que tienen jornadas de 90 horas semanales](https://www.bbc.com/mundo/articles/c9802y9lk76o?at_medium=RSS&at_campaign=rss)** · *2026-08-17*
-  - Las empresas tecnológicas no están respaldando con hechos sus propias afirmaciones de que la tecnología proporciona a las personas más tiempo libre.
-- **["Me sumergí en mi propio infierno": la difícil vida de la fallecida actriz Hayden Panettiere mientras triunfaba en televisión](https://www.bbc.com/mundo/articles/cg4d910r0pro?at_medium=RSS&at_campaign=rss)** · *2026-08-17*
-  - Pasó de ser actriz infantil a estrella de Hollywood, pero tuvo que soportar la adicción, el acoso y traumas personales.
-- **[Quién es Duane Davis, el acusado del asesinato del rapero Tupac Shakur hace 30 años (y el libro de memorias que fue clave para incriminarlo)](https://www.bbc.com/mundo/articles/cdrv7g5g7jno?at_medium=RSS&at_campaign=rss)** · *2026-08-17*
-  - Tres décadas después del crimen más importante en la historia del hip-hop, empieza el primer juicio contra un acusado.
+- **[La niña de 10 años traficada de Perú a Ecuador para casarse con un hombre de 50 (y qué revela sobre el matrimonio infantil en América Latina)](https://www.bbc.com/mundo/articles/c5yvrnqd2pdo?at_medium=RSS&at_campaign=rss)** · *2026-08-18*
+  - Una de cada cuatro niñas en Latinoamérica se han visto envueltas en un matrimonio infantil o unión temprana. Y es la única región del mundo donde no se ha producido una reducción significativa de esta práctica.
+- **["La generación sobria": por qué cada vez más jóvenes reemplazan el alcohol por medicamentos para la ansiedad](https://www.bbc.com/mundo/articles/cd9w4pzgp2yo?at_medium=RSS&at_campaign=rss)** · *2026-08-18*
+  - Cada vez más jóvenes recurren a medicamentos contra la ansiedad para sentirse "ebrios" en las fiestas.
+- **[La indignación por el daño que causó un hombre con su camioneta en la Pampa del Leoncito, un ecosistema único de Argentina](https://www.bbc.com/mundo/articles/c8dn3m2ng11o?at_medium=RSS&at_campaign=rss)** · *2026-08-18*
+  - La Pampa del Leoncito es una amplia planicie blanquecina, que corresponde al lecho de un antiguo lago que se secó hace miles de años.
+- **["Que encuentres la paz eterna": el emotivo tributo a la fallecida actriz Hayden Panettiere del padre de su hija](https://www.bbc.com/mundo/articles/cqx7v5yz3vlo?at_medium=RSS&at_campaign=rss)** · *2026-08-18*
+  - El excampeón mundial de boxeo de peso pesado Wladimir Klitschko tuvo una hija con la actriz fallecida a los 36 años.
+- **[Qué se sabe del controvertido hallazgo de petróleo cerca del río Amazonas (y por qué Lula lo considera clave para acabar con los combustibles fósiles)](https://www.bbc.com/mundo/articles/ce3q0098nkvo?at_medium=RSS&at_campaign=rss)** · *2026-08-18*
+  - El presidente de Brasil, quien se presenta como defensor del medioambiente, ha respaldado la exploración petrolera al argumentar que responde a los intereses nacionales, pese a la oposición de grupos ambientalistas e indígenas.
 
 ## El País — Internacional
 
-- **[El fin del conflicto se aleja tras expirar el acuerdo entre Estados Unidos e Irán](https://elpais.com/internacional/2026-08-17/el-fin-del-conflicto-se-aleja-tras-expirar-el-acuerdo-entre-estados-unidos-e-iran.html)** · *2026-08-17*
-  - Washington amenaza con bombardear a su antiguo aliado Omán, que dialoga con Teherán para una reapertura del estrecho de Ormuz, el principal escollo en las negociaciones
-- **[Ni OTAN islámica, ni pacto suní](https://elpais.com/internacional/2026-08-18/ni-otan-islamica-ni-pacto-suni.html)** · *2026-08-18*
-  - El acuerdo de La Meca entre Arabia Saudí, Pakistán y Turquía es, por ahora, más político y estratégico que militar
-- **[Las horas más bajas de Salvini, acorralado en su partido y presionado por el auge del ultra Vannacci](https://elpais.com/internacional/2026-08-18/las-horas-mas-bajas-de-salvini-acorralado-en-su-partido-y-presionado-por-el-auge-del-ultra-vannacci.html)** · *2026-08-18*
-  - La Liga se replantea su rumbo tras años de pérdida de apoyos, con apenas un 5% de intención de voto
-- **[Sentencias contra el pacifismo en Rusia](https://elpais.com/internacional/2026-08-18/sentencias-contra-el-pacifismo-en-rusia.html)** · *2026-08-18*
-  - El político Lev Schlosberg, del partido Yábloko, condenado a 11 años de cárcel por manifestarse contra la guerra
-- **[El ocaso del Tribunal Penal Internacional](https://elpais.com/opinion/2026-08-18/el-ocaso-del-tribunal-penal-internacional.html)** · *2026-08-18*
-  - La orden de arresto de Netanyahu ha puesto de relieve la impotencia de la institución y su tendencia hacia una justicia selectiva
+- **[Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”](https://elpais.com/internacional/2026-08-18/trump-declara-el-estrecho-de-ormuz-nuevo-territorio-de-estados-unidos.html)** · *2026-08-18*
+  - El republicano va un paso más allá en sus amenazas de anexión con una imagen publicada en su propia red social
+- **[Estados Unidos amplía su campaña contra el Tribunal Penal Internacional y sanciona a su presidenta](https://elpais.com/internacional/2026-08-18/estados-unidos-amplia-su-campana-contra-el-tribunal-penal-internacional-y-sanciona-a-su-presidenta.html)** · *2026-08-18*
+  - Las medidas contra Tomoko Akane y el fiscal Abdoulaye Seye se suman a las adoptadas contra otros 11 magistrados. Washington aspira a desmantelar la institución responsable de procesar crímenes de guerra y contra la humanidad
+- **[Las casas de Qusra rodeadas por colonos y soldados israelíes: “Me siento en una prisión”](https://elpais.com/internacional/2026-08-19/las-casas-de-qusra-rodeadas-por-colonos-y-soldados-israelies-me-siento-en-una-prision.html)** · *2026-08-19*
+  - Los habitantes de tres viviendas de la aldea palestina llevan diez días sin poder salir y recibiendo comida de la ONU, mientras el ejército permite a los colonos moverse por la zona
+- **[Decapitados sin intérprete. ¿Todos son iguales?](https://elpais.com/opinion/2026-08-19/decapitados-sin-interprete-todos-son-iguales.html)** · *2026-08-19*
+  - Emigrantes etíopes que trabajan en Arabia Saudí están siendo condenados y ejecutados en juicios sin abogados ni traductores
+- **[¡Llamad a la primera dama!](https://elpais.com/opinion/2026-08-19/llamad-a-la-primera-dama.html)** · *2026-08-19*
+  - La ausencia de representación femenina en la campaña electoral en Brasil muestra la brecha entre la realidad de la calle y la política partidista
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Your back cracked, but what does the sound mean? A physio explains](https://theconversation.com/your-back-cracked-but-what-does-the-sound-mean-a-physio-explains-288189)** · *2026-08-18*
-  - Did the cracking noise create that satisfying feeling, or did it just occur alongside a movement that felt good? Here’s what the research says.
-- **[More than 5,000 little penguins will be vaxxed against bird flu. How will this protect them?](https://theconversation.com/more-than-5-000-little-penguins-will-be-vaxxed-against-bird-flu-how-will-this-protect-them-289962)** · *2026-08-18*
-  - Little penguins are flightless and return at night to the same burrow, making it easier to capture and vaccinate them.
-- **[Want to fully electrify your house? Don’t start with a battery](https://theconversation.com/want-to-fully-electrify-your-house-dont-start-with-a-battery-287963)** · *2026-08-18*
-  - It makes more sense to go solar and quit gas before getting a home battery.
-- **[From Mel Gibson to Anthony LaPaglia: why Australian stages keep returning to Death of a Salesman](https://theconversation.com/from-mel-gibson-to-anthony-lapaglia-why-australian-stages-keep-returning-to-death-of-a-salesman-289719)** · *2026-08-18*
-  - There have been more than 30 professional Australian productions of Death of a Salesman in 70 years. Now, Anthony LaPaglia steps into Willy Loman’s shoes.
-- **[Bipartisan deal on gambling includes a review after three years](https://theconversation.com/bipartisan-deal-on-gambling-includes-a-review-after-three-years-289896)** · *2026-08-18*
-  - After striking an agreement with the opposition, the government agreed to somewhat toughen its original plan on the legislation.
+- **[What’s the difference between psychotherapy and psychoanalysis?](https://theconversation.com/whats-the-difference-between-psychotherapy-and-psychoanalysis-288273)** · *2026-08-19*
+  - Do you hear ‘psychotherapy’ and imagine lying on a couch, talking about dreams? Here’s where that image comes from – and why it might be time for an update.
+- **[One Nation wants to cut the tobacco tax. Would that curb the illicit cigarette market?](https://theconversation.com/one-nation-wants-to-cut-the-tobacco-tax-would-that-curb-the-illicit-cigarette-market-289966)** · *2026-08-19*
+  - A 75% cut in tobacco tax won’t make cigarettes as cheap as you might think. Here’s what really helps smokers in a cost of living crisis.
+- **[Microfinance was supposed to save Asia’s poor. Why has it failed to live up to its promise?](https://theconversation.com/microfinance-was-supposed-to-save-asias-poor-why-has-it-failed-to-live-up-to-its-promise-289887)** · *2026-08-19*
+  - For the poorest households in Asia, even small loans can lead to expensive debt traps.
+- **[Parasite linked to ‘mushy fish’ could be much more widespread than thought](https://theconversation.com/parasite-linked-to-mushy-fish-could-be-much-more-widespread-than-thought-289212)** · *2026-08-19*
+  - Ordered kingfish sashimi recently? A parasite can infect some fish, yet they still look and taste the same when raw.
+- **[Is the laundry still damp, or just cold? Why your skin can’t tell the difference](https://theconversation.com/is-the-laundry-still-damp-or-just-cold-why-your-skin-cant-tell-the-difference-288495)** · *2026-08-19*
+  - Our skin alone can’t actually tell if something is wet.
 
 ## Nueva Sociedad
 
