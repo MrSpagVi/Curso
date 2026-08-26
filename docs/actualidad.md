@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-08-25 06:31 UTC_
+_Última actualización: 2026-08-26 06:32 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["Las mujeres tienen deficiencias intelectuales": el exclusivo acceso de la BBC para ver cómo el Talibán gobierna Afganistán](https://www.bbc.com/mundo/articles/cpveym9rpvjo?at_medium=RSS&at_campaign=rss)** · *2026-08-25*
-  - Cinco años después del regreso de los talibanes al poder, un equipo de periodistas ha seguido durante dos años a figuras destacadas del movimiento islamista mientras este transforma el país.
-- **[Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.](https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss)** · *2026-08-24*
-  - Canadá y EE.UU. están enfilados hacia una guerra comercial luego de que las negociaciones para un acuerdo definitivo no llegaran a buen puerto. El primer ministro canadiense tiene ahora que convencer a su población de asumir las…
-- **["El miedo ahora es otro": cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras](https://www.bbc.com/mundo/articles/c07rl0nl44no?at_medium=RSS&at_campaign=rss)** · *2026-08-24*
-  - En una visita al país, BBC Brasil habló con comunidades que dicen sentirse aliviadas con el fin del dominio de las pandillas, pero también con madres que aseguran tener hijos presos sin pruebas y vecinos que hablan del miedo a expresarse o…
-- **[Qué son las chagras, las "granjas" en la selva tropical que desafían la agricultura moderna en Colombia y Ecuador](https://www.bbc.com/mundo/articles/cp8e6pz7kglo?at_medium=RSS&at_campaign=rss)** · *2026-08-24*
-  - Este método indígena único de producción de alimentos no utiliza pesticidas y devuelve las parcelas a la selva tropical al cabo de cinco años. ¿Qué podemos aprender de esta práctica de 4.500 años de antigüedad?
-- **[Los océanos del planeta alcanzan la temperatura media más alta jamás registrada mientras El Niño se intensifica](https://www.bbc.com/mundo/articles/c790wv4gznwo?at_medium=RSS&at_campaign=rss)** · *2026-08-24*
-  - Esta situación fortalece los efectos del fenómeno de El Niño, cuyo pico se espera para finales de año.
+- **["Cuanto más difíciles son las cosas, más fuertes somos": los rusos mantienen alto su patriotismo pese a sentir cada vez más la gravedad de la guerra](https://www.bbc.com/mundo/articles/cx2re2mx82no?at_medium=RSS&at_campaign=rss)** · *2026-08-26*
+  - A pesar de la escasez de gasolina (los conductores esperan horas para repostar, muchas veces sin lograrlo), muchos rusos celebran el día de su bandera. La sensación que dejan es que lo único que pueden hacer es adaptarse a las…
+- **[Por qué Cuba no produce suficiente comida y depende del exterior para alimentar a su población](https://www.bbc.com/mundo/articles/c5y013l2pp4o?at_medium=RSS&at_campaign=rss)** · *2026-08-25*
+  - Cuba importa el 80% de sus alimentos pese a su potencial agrícola, debido a décadas de mala planificación, dependencia del azúcar y sanciones de EE.UU.
+- **[Cómo puede contraatacar Canadá para perjudicar a la economía de EE.UU. (y a Trump) en plena guerra comercial](https://www.bbc.com/mundo/articles/ce8x1l47l30o?at_medium=RSS&at_campaign=rss)** · *2026-08-25*
+  - Aunque el país vende alrededor del 70% de sus productos a su vecino del sur cuenta con herramientas para propinarle daños.
+- **[Muere Dolly Parton, la leyenda del country que conquistó a millones cantando desde el corazón](https://www.bbc.com/mundo/articles/cx2z92rgleko?at_medium=RSS&at_campaign=rss)** · *2026-08-26*
+  - "La tristeza nos invade a nosotros, no a Dolly", dijo Brian Seaver, sobrino de Parton, en un video publicado en las redes sociales de la artista.
+- **[La historia de "I Will Always Love You", la canción escrita por Dolly Parton que Whitney Houston convirtió en un himno del amor](https://www.bbc.com/mundo/articles/cp935z5r5x2o?at_medium=RSS&at_campaign=rss)** · *2026-08-25*
+  - El tema nació como una despedida, pasó por Elvis Presley y terminó alcanzando fama mundial en la voz de Whitney Houston.
 
 ## El País — Internacional
 
-- **[Operación ‘Paria Económico’: Estados Unidos apuesta por aislar a Irán de los gobiernos que sostienen sus finanzas](https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html)** · *2026-08-24*
-  - El secretario del Tesoro, Scott Bessent, ha lanzado “un disparo de advertencia” a los socios de Teherán, a los que amenaza con sanciones, pero sin concretar el anunciado “día D económico”
-- **[Casi 50 años de sanciones infructuosas contra Irán](https://elpais.com/internacional/2026-08-24/medio-siglo-de-sanciones-estadounidenses-infructuosas-contra-iran.html)** · *2026-08-24*
-  - Trump profundiza en la estrategia estadounidenses de asfixiar a la República Islámica por la vía coercitiva, pero el margen de acción cada vez es menor
-- **[El fantasma de la guerra civil se cierne sobre Yemen en plena crisis del Golfo](https://elpais.com/internacional/2026-08-25/el-fantasma-de-la-guerra-civil-se-cierne-sobre-yemen-en-plena-crisis-del-golfo.html)** · *2026-08-25*
-  - Las recientes hostilidades entre los rebeldes hutíes, aliados de Irán, y Arabia Saudí y el Gobierno yemení son la mayor escalada militar desde la tregua de 2022
+- **[Las sanciones de EE UU para aislar la economía de Irán excluyen entidades clave](https://elpais.com/internacional/2026-08-25/las-sanciones-de-ee-uu-para-aislar-la-economia-de-iran-excluyen-entidades-clave.html)** · *2026-08-25*
+  - El Departamento del Tesoro castiga a la flota fantasma iraní y a empresas, pero deja fuera a los bancos de China, uno de los grandes apoyos del sistema financiero de Teherán
+- **[China adoptará “las medidas necesarias” ante las sanciones de EE UU por su apoyo a Irán](https://elpais.com/internacional/2026-08-25/china-entra-en-el-punto-de-mira-del-nuevo-cerco-economico-de-estados-unidos-a-iran.html)** · *2026-08-25*
+  - El paquete de castigo alcanza a empresas chinas y hongkonesas vinculadas al comercio de crudo y tecnología a un mes de la cumbre Trump-Xi
+- **[Colas en las gasolineras y miedo a las subidas de precios en Irán: “Cada día somos más pobres”](https://elpais.com/internacional/2026-08-25/iran-amenaza-con-represalias-tras-la-tibia-ampliacion-de-las-sanciones-de-estados-unidos.html)** · *2026-08-25*
+  - Las autoridades de la República Islámica aseguran estar preparadas para afrontar las nuevas sanciones económicas y anuncian una “nueva derrota” estadounidense
 - **[Carta abierta de Sergio Ramírez al presidente Lula da Silva](https://elpais.com/opinion/2026-08-25/carta-abierta-de-sergio-ramirez-al-presidente-lula-da-silva.html)** · *2026-08-25*
   - Ortega ha suprimido las elecciones. No le niegue usted a Nicaragua el derecho a elegir libremente, el mismo que puede hacerlo presidente de Brasil por cuarta vez
 - **[Escuchar a Europa y forjar su futuro](https://elpais.com/opinion/2026-08-25/escuchar-a-europa-y-forjar-su-futuro.html)** · *2026-08-25*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[The Suburban Rail Loop will play a major role in the 2026 Victorian election. Why is it so controversial?](https://theconversation.com/the-suburban-rail-loop-will-play-a-major-role-in-the-2026-victorian-election-why-is-it-so-controversial-288923)** · *2026-08-25*
-  - It is an unenviable position for a government to have potentially misallocated tens of billions of dollars to poorly selected infrastructure.
-- **[NZ election poll watch: right still leads left, but Opportunity could deny it a majority](https://theconversation.com/nz-election-poll-watch-right-still-leads-left-but-opportunity-could-deny-it-a-majority-290340)** · *2026-08-25*
-  - With just over two months until the election, polls have settled into a new normal, with no clear frontrunner evident.
-- **[Can you eat too much tinned tuna?](https://theconversation.com/can-you-eat-too-much-tinned-tuna-289229)** · *2026-08-25*
-  - Tinned tuna is affordable, high in protein and doesn’t need cooking, making it a convenient and nutritious lunchtime staple. Here’s how much you can eat.
-- **[Aussie players are smashing transfer records. Does this benefit or harm Australian soccer?](https://theconversation.com/aussie-players-are-smashing-transfer-records-does-this-benefit-or-harm-australian-soccer-290321)** · *2026-08-25*
-  - Several Socceroos have earned huge new deals at European clubs. These moves can both boost, and harm, Australian soccer as a whole.
-- **[Can you teach yourself to detect AI writing? Maybe](https://theconversation.com/can-you-teach-yourself-to-detect-ai-writing-maybe-289236)** · *2026-08-25*
-  - There’s no single giveaway. But there are patterns.
+- **[Inflation eases less than expected, making another interest rate hike more likely](https://theconversation.com/inflation-eases-less-than-expected-making-another-interest-rate-hike-more-likely-290333)** · *2026-08-26*
+  - The Reserve Bank has warned that if we don’t see inflation coming down, it will have to raise interest rates again.
+- **[The Airport Chaplain: SBS’s global Netflix debut is heartfelt TV that will blow you away](https://theconversation.com/the-airport-chaplain-sbss-global-netflix-debut-is-heartfelt-tv-that-will-blow-you-away-290415)** · *2026-08-26*
+  - The new drama starring Hugo Weaving and Shabana Azeez finds humour and humanity in one of the most chaotic places.
+- **[Jolene, I Will Always Love You and 9 to 5: the genius of Dolly Parton in three songs](https://theconversation.com/jolene-i-will-always-love-you-and-9-to-5-the-genius-of-dolly-parton-in-three-songs-290516)** · *2026-08-26*
+  - The biggest legacy Dolly Parton leaves is her songwriting, and three songs define her more than any others.
+- **[Vaping is better than patches or gums for quitting smoking – updated review](https://theconversation.com/vaping-is-better-than-patches-or-gums-for-quitting-smoking-updated-review-290420)** · *2026-08-26*
+  - The review found vapes containing nicotine were more effective at helping people quit cigarettes than these other methods.
+- **[Nursing students are rejecting careers in aged care. A staffing crisis is coming](https://theconversation.com/nursing-students-are-rejecting-careers-in-aged-care-a-staffing-crisis-is-coming-290137)** · *2026-08-26*
+  - Nursing students often opt out of aged care after their work placement. No amount of downstream reform will undo that first impression of an under-resourced sector.
 
 ## Nueva Sociedad
 
