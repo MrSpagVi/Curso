@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-08-30 10:57 UTC_
+_Última actualización: 2026-08-31 12:14 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Fui secuestrada por Corea del Norte y forzada a casarme con un soldado de EE.UU.](https://www.bbc.com/mundo/articles/cn7n8mp86m5o?at_medium=RSS&at_campaign=rss)** · *2026-08-30*
-  - Hitomi Soga estuvo retenida durante más de dos décadas; es una de al menos 17 ciudadanas que, según Japón, fueron secuestradas durante las décadas de 1970 y 1980.
-- **[Islandia rechaza por estrecho margen la posibilidad de adherirse a la UE en un referendo que marca la división en el país](https://www.bbc.com/mundo/articles/c2dwx19gp8no?at_medium=RSS&at_campaign=rss)** · *2026-08-30*
-  - Según los informes preliminares, el 52,5% rechazó la propuesta del gobierno, mientras que el 47,5% la aprobó. La diferencia entre ambos fue de unos 9.500 votos.
-- **[Donald Trump y Delcy Rodríguez anuncian un acuerdo que otorga a EE.UU. el control de más del 20% de las reservas de petróleo de Venezuela](https://www.bbc.com/mundo/articles/cwyz1d15w9go?at_medium=RSS&at_campaign=rss)** · *2026-08-29*
-  - Según la presidenta interina de Venezuela, operadores privados de Estados Unidos desarrollarán 17 yacimientos petroleros que contienen unos 65.000 millones de barriles de reservas.
-- **["No me apetece beber ni una gota más": cómo las nuevas inyecciones para perder peso afectan al consumo de alcohol](https://www.bbc.com/mundo/articles/cedjde06x92o?at_medium=RSS&at_campaign=rss)** · *2026-08-30*
-  - Algunas personas que consumen medicamentos para bajar de peso afirman que sus antojos de alcohol desaparecieron o que sintieron náuseas al beber.
-- **[Por qué las imágenes de las inundaciones en Tíbet no se están mostrando en China y sabemos poco sobre las víctimas allí](https://www.bbc.com/mundo/articles/czrz3mm0d82o?at_medium=RSS&at_campaign=rss)** · *2026-08-29*
-  - Algunas de las imágenes más impactantes de las mortales inundaciones repentinas permanecen ocultas al público en China.
+- **[En qué consiste el "mayor acuerdo petrolero de la historia" anunciado por EE.UU. y Venezuela, y por qué es tan polémico](https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss)** · *2026-08-31*
+  - El acuerdo anunciado por Donald Trump y Delcy Rodriguez le otorga acceso a EE.UU. a campos con reservas probadas de 65.000 millones de barriles de crudo venezolano.
+- **[El director de una escuela que evacuó a 900 niños minutos antes de que las inundaciones en Nepal azotaran las aulas](https://www.bbc.com/mundo/articles/cy8zy0eplp4o?at_medium=RSS&at_campaign=rss)** · *2026-08-30*
+  - Rajendra Dawadi actuó con rapidez tras recibir advertencias sobre la crecida de las aguas que se dirigían hacia su institución.
+- **[EE.UU. bombardea lanzadores iraníes en la isla de Larek en el primer ataque en semanas](https://www.bbc.com/mundo/articles/cly4e67lzpgo?at_medium=RSS&at_campaign=rss)** · *2026-08-31*
+  - El gobierno de Teherán asegura que la acción militar de Washington causó la muerte de algunos civiles y prometió "respuesta y castigo".
+- **[Me daban morfina para soportar el dolor hasta que los médicos descubrieron que tenía endometriosis a los 13 años](https://www.bbc.com/mundo/articles/c5y5854gn1do?at_medium=RSS&at_campaign=rss)** · *2026-08-31*
+  - La joven Grace siente que los médicos le restaron importancia a su dolor y quiere dar a conocer los síntomas para ayudar a otras chicas a evitar pasar por la misma experiencia.
+- **["Un diagnóstico de alzhéimer no es el final para una persona": el actor que padece la enfermedad e interpretará un difícil monólogo de Beckett en Londres](https://www.bbc.com/mundo/articles/c7v4dn99v46o?at_medium=RSS&at_campaign=rss)** · *2026-08-31*
+  - Peter Marinker se enfrenta en solitario a una de las obras más famosas de Samuel Beckett en un escenario londinense.
 
 ## El País — Internacional
 
-- **[Islandia cierra la puerta a la integración en la Unión Europea](https://elpais.com/internacional/2026-08-30/islandia-cierra-la-puerta-a-la-integracion-en-la-union-europea.html)** · *2026-08-30*
-  - La población del país nórdico rechaza en un ajustado referéndum reabrir las negociaciones con Bruselas
-- **[La campaña militar de Estados Unidos en América Latina entra en una nueva fase tras un año de ataques a supuestas narcolanchas](https://elpais.com/america/2026-08-30/la-campana-militar-de-estados-unidos-en-america-latina-entra-en-una-nueva-fase-tras-un-ano-de-ataques-a-supuestas-narcolanchas.html)** · *2026-08-30*
-  - Mientras Washington retoma los bombardeos tras una pausa de dos meses, los expertos denuncian que la antigua Operación Lanza del Sur se transforma y puede dar paso a ataques terrestres
-- **[La nueva ruta del Ártico redibuja los mapas de la economía y la geopolítica](https://elpais.com/internacional/2026-08-30/la-nueva-ruta-del-artico-redibuja-los-mapas-de-la-economia-y-la-geopolitica.html)** · *2026-08-30*
-  - El deshielo abre la puerta a rutas comerciales regulares entre Asia y Europa, pero sitúa a Rusia como árbitro
-- **[Fin de época en Oriente Próximo](https://elpais.com/internacional/2026-08-30/fin-de-epoca-en-oriente-proximo.html)** · *2026-08-30*
-  - El poder ha pasado de manos de la superpotencia americana a las de las potencias regionales: Israel, Irán, Pakistán, Turquía y Arabia Saudí
-- **[El mundo de ayer](https://elpais.com/opinion/2026-08-28/el-mundo-de-ayer.html)** · *2026-08-28*
-  - Ucrania cumple 1.647 días de guerra, y asumes que lo único seguro en la vida es que no se puede dar nada por sentado
+- **[EE UU e Irán intercambian ataques por primera vez desde julio](https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html)** · *2026-08-31*
+  - Washington bombardea dos lanzaderas en la isla de Larak y Teherán responde con el lanzamiento de misiles a Jordania y drones sobre una base aérea en Emiratos
+- **[El rescate en Nepal tras la riada avanza metro a metro entre túneles cegados de barro](https://elpais.com/internacional/2026-08-31/el-rescate-en-nepal-tras-la-riada-avanza-metro-a-metro-entre-tuneles-cegados-de-barro.html)** · *2026-08-31*
+  - La catástrofe suma al menos 919 muertos entre Nepal y Tíbet y más de 4.700 desaparecidos
+- **[La visita del jefe de la CIA a Moscú se envuelve en mentiras y medias verdades en plena ‘guerra’ del espionaje ruso en Europa](https://elpais.com/internacional/2026-08-31/la-visita-del-jefe-de-la-cia-a-moscu-se-envuelve-en-mentiras-y-medias-verdades-en-plena-guerra-del-espionaje-ruso-en-europa.html)** · *2026-08-31*
+  - La reunión de John Ratcliffe con los jefes de la inteligencia rusa ha desatado todo tipo de conjeturas mientras aumenta la tensión por los sabotajes en Europa
+- **[Portazo en Reikiavik, oportunidad perdida en Bruselas](https://elpais.com/internacional/2026-08-31/portazo-en-reikiavik-oportunidad-perdida-en-bruselas.html)** · *2026-08-31*
+  - Islandia renuncia a un paraguas de seguridad y a una salida a su crisis de precios, pero la UE ve esfumarse una ocasión única: un refuerzo sencillo para un proyecto en horas bajas
+- **[El legado de odio de Mladic](https://elpais.com/internacional/2026-08-31/el-legado-de-odio-de-mladic.html)** · *2026-08-31*
+  - El fallecido genocida serbobosnio fue el primero en formular postulados de orgullo de tribu y miedo a los que vienen de fuera que amenazan nuestra cultura
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Nairobi’s expansion is swallowing up rural land: new book reveals the impacts on families](https://theconversation.com/nairobis-expansion-is-swallowing-up-rural-land-new-book-reveals-the-impacts-on-families-289739)** · *2026-08-30*
-  - Urbanisation is experienced through growing tensions within families over precious yet meagre plots of land.
-- **[Food garden or swimming pool? South Africa’s water crisis isn’t just about a shortage. It’s about equality](https://theconversation.com/food-garden-or-swimming-pool-south-africas-water-crisis-isnt-just-about-a-shortage-its-about-equality-287716)** · *2026-08-30*
-  - South Africa is running short of water, but new research finds scarcity is only part of the problem: water is also not being shared fairly among those who need it.
-- **[View from The Hill: Fresh from its WA triumph, how will One Nation do in the eastern trenches?](https://theconversation.com/view-from-the-hill-fresh-from-its-wa-triumph-how-will-one-nation-do-in-the-eastern-trenches-290346)** · *2026-08-30*
-  - The Secret Harbour win will remove any Labor complacency that One Nation is just a problem for the conservatives.
-- **[One Nation thumps Labor to gain WA state seat of Secret Harbour at byelection](https://theconversation.com/one-nation-thumps-labor-to-gain-wa-state-seat-of-secret-harbour-at-byelection-290620)** · *2026-08-29*
-  - Pauline Hanson’s party takes the outer-Perth seat from Labor in a win that will have the major parties worried.
-- **[When a mountain falls: How ice and rock triggered Nepal’s catastrophic flood – and why climate change is raising the risks](https://theconversation.com/when-a-mountain-falls-how-ice-and-rock-triggered-nepals-catastrophic-flood-and-why-climate-change-is-raising-the-risks-290779)** · *2026-08-29*
-  - A geologist explains how thawing permafrost and melting ice are increasing the risk of destructive floods in the Himalayas and other high mountain regions around the world.
+- **[Old people in Namibia are going into debt to pay for everyday costs – new report examines strained household budgets](https://theconversation.com/old-people-in-namibia-are-going-into-debt-to-pay-for-everyday-costs-new-report-examines-strained-household-budgets-289948)** · *2026-08-31*
+  - Caregivers said their priorities were pension increases, a dedicated allowance, food security and basic infrastructure.
+- **[3D scans of Tasmanian tiger’s skull reveal it had crocodile-style snapping jaws](https://theconversation.com/3d-scans-of-tasmanian-tigers-skull-reveal-it-had-crocodile-style-snapping-jaws-290515)** · *2026-08-31*
+  - A new study has found that Tasmanian tigers had an adaptation is found in no living carnivorous mammal.
+- **[Mum Club is a necessarily confronting play and a tribute to Blak motherhood](https://theconversation.com/mum-club-is-a-necessarily-confronting-play-and-a-tribute-to-blak-motherhood-290436)** · *2026-08-31*
+  - Jorjia Gillis’ comedy on racism and sexism is premiering at Griffin Theatre Company. It has a sharp edge and a big heart.
+- **[Is history a school subject in crisis? New research shows it isn’t, at least not yet](https://theconversation.com/is-history-a-school-subject-in-crisis-new-research-shows-it-isnt-at-least-not-yet-290517)** · *2026-08-31*
+  - There are fewer students continuing to study history in Year 12 than ever before. But that doesn’t mean they don’t value it.
+- **[Where is AI headed? Two media theorists from the 1960s can help us figure it out](https://theconversation.com/where-is-ai-headed-two-media-theorists-from-the-1960s-can-help-us-figure-it-out-290733)** · *2026-08-31*
+  - AI is a kind of media – and we’ve seen before what new media can do to society.
 
 ## Nueva Sociedad
 
