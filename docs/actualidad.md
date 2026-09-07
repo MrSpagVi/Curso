@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-09-06 09:57 UTC_
+_Última actualización: 2026-09-07 11:08 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["Los ilegales": cuáles son los vínculos con América Latina del programa de espionaje más secreto de Rusia](https://www.bbc.com/mundo/articles/ce8kl8yd76yo?at_medium=RSS&at_campaign=rss)** · *2026-09-06*
-  - El programa clandestino empezó antes del Revolución Rusa y llega hasta nuestros días, con Putin como gran valedor. Fue revelado en toda su dimensión en 2010 con el arresto de espías "durmientes" en EE.UU. Y ha tenido una larga relación con…
-- **["Me creí todo lo que me dijeron": la mujer que alquiló un apartamento a los terroristas del 11-S habla en exclusiva con la BBC](https://www.bbc.com/mundo/articles/crl63jdn7n4o?at_medium=RSS&at_campaign=rss)** · *2026-09-05*
-  - Una mujer que alquiló una vivienda a dos miembros de al Qaeda sin saber que irían a participar en los ataque del 11-S, habla públicamente por primera vez con la BBC.
-- **[Qué es la proyección de Mercator y por qué los países de África lucharon para que se deje de usar para elaborar los mapamundis](https://www.bbc.com/mundo/articles/cx2zv86p1ryo?at_medium=RSS&at_campaign=rss)** · *2026-09-05*
-  - La proyección de Mercator muestra a Europa y Norteamérica desproporcionadamente grandes con respecto a África. La Asamblea General de la ONU votó a favor de sustituirla.
-- **[Cómo el juicio por asesinato de Lindsay Clancy ha dividido a EE.UU. sobre si es víctima de psicosis posparto o una criminal que mató a sus 3 hijos](https://www.bbc.com/mundo/articles/c98094mlydvo?at_medium=RSS&at_campaign=rss)** · *2026-09-05*
-  - Mientras algunos estadounidenses creen que el caso puso en evidencia las problemas de salud mental que enfrentan algunas madres, otros insisten en que estas dificultades no son justificación para cometer delitos.
-- **[Por qué nos salen úlceras en la boca y qué puedes hacer para aliviar sus síntomas](https://www.bbc.com/mundo/articles/cp8djeyrpd8o?at_medium=RSS&at_campaign=rss)** · *2026-09-06*
-  - Estas pequeñas llagas pueden ser extremadamente dolorosas. Te contamos por qué pueden aparecer y qué hacer para reducir el dolor que provocan y acortar su duración.
+- **["Lo que ocurrió en Venezuela no lo he visto ni en Haití ni en Pakistán": la experta en desastres que alerta sobre los desafíos de la reconstrucción tras los terremotos](https://www.bbc.com/mundo/articles/cvgywxgyrmpo?at_medium=RSS&at_campaign=rss)** · *2026-09-07*
+  - Con más de dos décadas de experiencia en asistencia humanitaria, Susana Raffalli asegura que la escala del daño en Venezuela no puede ser abordada por las ONG ni los voluntarios. La reconstrucción requiere del Estado.
+- **["Vivimos en una política de la crueldad que busca normalizar cosas que antes no podíamos tragar"](https://www.bbc.com/mundo/articles/cd6985dl78xo?at_medium=RSS&at_campaign=rss)** · *2026-09-07*
+  - El autor de "Lo intolerable" plantea la responsabilidad colectiva como una respuesta ante la violencia del Estado.
+- **[La red de propaganda prorrusa que explota la violencia sexual y utiliza a mujeres del ejército ucraniano como cebo](https://www.bbc.com/mundo/articles/c0klgne2jd6o?at_medium=RSS&at_campaign=rss)** · *2026-09-07*
+  - Los canales rusos de Telegram utilizan denuncias falsas de violación e imágenes de mujeres ucranianas para atraer a millones de usuarios a redes de propaganda a favor de la guerra.
+- **[Por qué más de 70 países guardan sus reservas de oro en el Banco de Inglaterra (y qué lo diferencia de otros bancos)](https://www.bbc.com/mundo/articles/cvgyper4gdeo?at_medium=RSS&at_campaign=rss)** · *2026-09-07*
+  - Guardar las reservas de oro en el Banco de Inglaterra tiene varias ventajas y un inconveniente.
+- **[Cómo el cerebro de las moscas puede ofrecer pistas sobre el comportamiento de los seres humanos](https://www.bbc.com/mundo/articles/c158v3e8dx4o?at_medium=RSS&at_campaign=rss)** · *2026-09-07*
+  - Una comparación entre los cerebros de moscas macho y hembra puede transformar nuestra comprensión de cómo los genes dan forma al comportamiento de otros animales, incluidos los humanos.
 
 ## El País — Internacional
 
-- **[Escalada de amenazas en las fronteras de Europa](https://elpais.com/internacional/2026-09-06/escalada-de-amenazas-en-las-fronteras-de-europa.html)** · *2026-09-06*
-  - La más que probable intensificación del conflicto bélico en Ucrania en otoño se suma a la guerra híbrida que ha emprendido Rusia contra la Unión Europea
-- **[Tomoko Akane, presidenta del Tribunal Penal Internacional: “Tarde o temprano la Historia nos pedirá cuentas a todos. ¿Dónde estabas?"](https://elpais.com/internacional/2026-09-06/tomoko-akane-presidenta-del-tribunal-penal-internacional-tarde-o-temprano-la-historia-nos-pedira-cuentas-a-todos-donde-estabas.html)** · *2026-09-06*
-  - Sancionada por Estados Unidos, la magistrada considera que el TPI afronta la mayor crisis desde su creación pero cree que la búsqueda de justicia es una responsabilidad compartida y un derecho de las víctimas
-- **[Canadá se atreve a plantar cara a Trump](https://elpais.com/internacional/2026-09-06/canada-se-atreve-a-plantar-cara-a-trump.html)** · *2026-09-06*
-  - El país se vuelca con Carney tras romper las negociaciones comerciales con EE UU. Pese a acercarse a un precipicio, la mayoría cree que ceder al chantaje sería peor
-- **[¿Confusión europea? ¡Volver a Ventotene!](https://elpais.com/opinion/2026-09-06/confusion-europea-volver-a-ventotene.html)** · *2026-09-06*
-  - En las horas difíciles de la UE, resulta útil acudir a quienes mantienen y actualizan el ímpetu de sus fundadores
-- **[Donald Trump, el más peligroso proliferador nuclear](https://elpais.com/internacional/2026-09-06/donald-trump-el-mas-peligroso-proliferador-nuclear.html)** · *2026-09-06*
-  - Trump concede a una tiranía aliada el derecho que niega a una tiranía enemiga, y se dispone a negociar con una potencia nuclear ilegal peligrosa, que tiene al alcance de sus misiles territorios periféricos estadounidenses
+- **[La extrema derecha arrasa en Sajonia-Anhalt y opta a gobernar por primera vez en un Estado alemán](https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html)** · *2026-09-06*
+  - AfD roza la mayoría absoluta y depende del apoyo del partido de la izquierda nacionalista BSW para llegar al poder. Los democristianos del canciller Friedrich Merz se desploman y pasan de 40 a 16 diputados
+- **[Las calles en Alemania  tras la victoria de AfD: “Todos tenemos que levantarnos”](https://elpais.com/internacional/2026-09-06/todos-tenemos-que-levantarnos-no-tiene-ningun-sentido-resignarse.html)** · *2026-09-06*
+  - La posibilidad de que la ultraderecha gobierne por primera vez en un Estado supone un varapalo para manifestantes y dirigentes políticos del país
+- **[Cómo (no) frenar a la extrema derecha](https://elpais.com/opinion/2026-09-06/como-no-frenar-a-la-extrema-derecha.html)** · *2026-09-06*
+  - El éxito de AfD en las elecciones de la región alemana de Sajonia-Anhalt muestra los límites del cordón sanitario y del aprendizaje concienzudo de la historia
+- **[La marea ultraderechista en Alemania: otro ladrillo en el muro](https://elpais.com/internacional/2026-09-07/la-marea-ultraderechista-en-alemania-otro-ladrillo-en-el-muro.html)** · *2026-09-07*
+  - La arrolladora victoria del neofascismo en Sajonia-Anhalt reabre una cicatriz en Alemania y en la UE: ¿es útil mantener el cordón sanitario a partidos que superan el 40% del voto?
+- **[El excremento del diablo](https://elpais.com/opinion/2026-09-07/el-excremento-del-diablo.html)** · *2026-09-07*
+  - Ningún otro recurso natural ha tenido mayor poder que el petróleo en el imaginario nacionalista latinoamericano
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Proposed laws would let you opt out of social media algorithms. An expert explains](https://theconversation.com/proposed-laws-would-let-you-opt-out-of-social-media-algorithms-an-expert-explains-291347)** · *2026-09-06*
-  - There have long been calls for digital duty of care laws in Australia – since well before the under-16s social media ban. But enforcement may be tricky.
-- **[Discovery of ancient DNA from antelope fossils in South Africa opens a new window on the past](https://theconversation.com/discovery-of-ancient-dna-from-antelope-fossils-in-south-africa-opens-a-new-window-on-the-past-289848)** · *2026-09-06*
-  - Researchers managed to extract DNA from African fossils dating back to the last ice age.
-- **[Africa gets only 23% of the climate finance it needs – and pays too much for it](https://theconversation.com/africa-gets-only-23-of-the-climate-finance-it-needs-and-pays-too-much-for-it-291103)** · *2026-09-06*
-  - Climate finance should not be separated from development funding.
-- **[The Lindsay Clancy case looks tragically like NZ’s Lauren Dickason trial. Here’s where they differ](https://theconversation.com/the-lindsay-clancy-case-looks-tragically-like-nzs-lauren-dickason-trial-heres-where-they-differ-291154)** · *2026-09-05*
-  - A legal defence of infanticide exists in NZ and other similar jurisdictions. But it is not an option in US courts, making the Clancy jury’s job more difficult.
-- **[The legacy of Gloria Steinem: A woman who mattered](https://theconversation.com/the-legacy-of-gloria-steinem-a-woman-who-mattered-291230)** · *2026-09-04*
-  - Feminist scholar Rebecca Sullivan says meeting Gloria Steinem was a highlight of her career. Here, she reflects on everything she gave us, but also how she may have overshadowed other feminists.
+- **[Star Trek used wormholes to jump through space – what’s the science behind them?](https://theconversation.com/star-trek-used-wormholes-to-jump-through-space-whats-the-science-behind-them-291297)** · *2026-09-07*
+  - The first appearance of a wormhole in Star Trek was a typically pioneering reference to what was then a niche research topic.
+- **[Immigration in Sweden: how the country went from one of Europe’s most welcoming, to one of its most restrictive](https://theconversation.com/immigration-in-sweden-how-the-country-went-from-one-of-europes-most-welcoming-to-one-of-its-most-restrictive-288995)** · *2026-09-07*
+  - The 2015 refugee crisis fundamentally changed the political debate around migration.
+- **[View from The Hill: Pauline Hanson sets new hares running on super](https://theconversation.com/view-from-the-hill-pauline-hanson-sets-new-hares-running-on-super-290827)** · *2026-09-07*
+  - Pauline Hanson’s attention-grabbing policy to give mortgage holders and renters is high populism while being – according to its many critics – low economics.
+- **[Could the White Australia Party succeed in challenging its ban?](https://theconversation.com/could-the-white-australia-party-succeed-in-challenging-its-ban-291352)** · *2026-09-07*
+  - Whatever the outcome, it will be far more consequential than the existence of the White Australia Party.
+- **[Even if it doesn’t form government, the far-right AfD has shaken Germany’s political establishment to the core](https://theconversation.com/even-if-it-doesnt-form-government-the-far-right-afd-has-shaken-germanys-political-establishment-to-the-core-291354)** · *2026-09-07*
+  - Voters in the eastern state of Saxony-Anhalt punished the major parties for their handling of the cost-of-living crisis.
 
 ## Nueva Sociedad
 
