@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-09-11 10:17 UTC_
+_Última actualización: 2026-09-12 09:50 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo](https://www.bbc.com/mundo/articles/c62jl6gyrjyo?at_medium=RSS&at_campaign=rss)** · *2026-09-11*
-  - Los países han aprendido lecciones en materia de estrategia e inteligencia tras varios errores tanto en la previsión como en la respuesta a los ataques del 11 de septiembre de 2001.
-- **[25 años del 11-S: quién fue el arquitecto de los ataques que sigue detenido en Guantánamo y otras 5 preguntas básicas](https://www.bbc.com/mundo/articles/cr50rzejdj3o?at_medium=RSS&at_campaign=rss)** · *2026-09-10*
-  - Los atentados del 11 de septiembre de 2001 dejaron miles de muertos y marcaron un punto de inflexión en la política internacional.
-- **["De mi padre solo encontraron su casco de bombero": por qué aún quedan por identificar tantas víctimas 25 años después del 11-S](https://www.bbc.com/mundo/articles/ce8x4zgw72no?at_medium=RSS&at_campaign=rss)** · *2026-09-11*
-  - Desde los ataques, las autoridades de Nueva York están trabajando con tecnología nueva y compleja para encontrar rastros de más de 1.000 víctimas no identificadas.
-- **[La IA es cada vez más difícil de dominar: ¿podrán los seres humanos mantener el control?](https://www.bbc.com/mundo/articles/cd94yn9834zo?at_medium=RSS&at_campaign=rss)** · *2026-09-10*
-  - Los agentes de IA iniciaron una ola de pirateo informático sin control, lo que generó preocupación en algunos sectores de la industria.
-- **[La lucha por la sucesión en el seno de la familia real de Uganda tras la muerte del monarca más joven del mundo](https://www.bbc.com/mundo/articles/c0lrk15j391o?at_medium=RSS&at_campaign=rss)** · *2026-09-10*
-  - La familia del rey Oyo afirma que dejó un testamento en el que nombraba a su hijo pequeño como heredero del reino de Tooro.
+- **[Por qué España registró sus peores resultados educativos en la historia del informe PISA (y las causas de que hayan caído en todo el mundo)](https://www.bbc.com/mundo/articles/cz6z0407lnlo?at_medium=RSS&at_campaign=rss)** · *2026-09-12*
+  - Los estudiantes españoles obtuvieron resultados por debajo de la media de los países de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) y de la Unión Europea. ¿Cuáles pueden ser las causas?
+- **[Las 2 causas científicas por las que se derrumbaron las Torres Gemelas tras el impacto de los aviones el 11 de septiembre de 2001](https://www.bbc.com/mundo/articles/cx2z51gprlxo?at_medium=RSS&at_campaign=rss)** · *2026-09-11*
+  - Una serie de fenómenos físicos y químicos desataron una catástrofe que nadie, para ese entonces, era capaz de imaginar.
+- **[Especial BBC Mundo | 11-S: los 149 minutos de caos y terror que cambiaron el mundo](https://www.bbc.com/mundo/resources/idt-ed9fe44b-4603-411e-8c37-e8a4a232ab89?at_medium=RSS&at_campaign=rss)** · *2026-09-11*
+  - El 11-S fue y es el mayor ataque en suelo estadounidense de la historia. Esto es lo que pasó aquella mañana de fines de verano boreal en que el mundo cambió.
+- **[La historia detrás de la icónica imagen del hombre cayendo de una de las Torres Gemelas el 11-S](https://www.bbc.com/mundo/articles/clyr0l5qgwpo?at_medium=RSS&at_campaign=rss)** · *2026-09-11*
+  - Durante un cuarto de siglo la polémica ha acompañado a "El hombre que cae", una de las fotografías más impactantes de los atentados contra las Torres Gemelas.
+- **[EN FOTOS: Las protestas en Chile tras la decisión de Kast de no realizar ceremonias oficiales para conmemorar el golpe contra Salvador Allende](https://www.bbc.com/mundo/articles/cz9z15k5kxpo?at_medium=RSS&at_campaign=rss)** · *2026-09-12*
+  - El presidente Kast defendió su decisión de no recordar la fecha, alegando que el país tiene que “mirar hacia el futuro”.
 
 ## El País — Internacional
 
-- **[Trump promete 5.000 dólares a “todos los estadounidenses adultos” si los republicanos ganan las elecciones legislativas](https://elpais.com/us/2026-09-10/trump-promete-en-el-trump-a-palooza-un-bono-de-5000-dolares-si-los-republicanos-ganan-las-midterms.html)** · *2026-09-10*
-  - “Quiero que finjáis que me presento a estas elecciones”, pide en su primer mitin de la convención de Dallas el presidente, que se vende en un discurso de casi dos horas como el único capaz de hacer ganar los comicios a su partido
-- **[Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán](https://elpais.com/us/2026-09-11/nueva-york-de-los-recelos-contra-el-islam-tras-el-11-s-a-elegir-a-su-primer-alcalde-musulman.html)** · *2026-09-11*
-  - La comunidad que profesa la fe a Mahoma ha ganado peso e influencia en la ciudad en estos 25 años. Los republicanos usan el miedo al islam como arma electoral en todo el país
-- **[Los socialdemócratas y la ultraderecha pugnan por el voto obrero en Suecia](https://elpais.com/internacional/2026-09-11/los-socialdemocratas-y-la-ultraderecha-pugnan-por-el-voto-obrero-en-suecia.html)** · *2026-09-11*
-  - Los progresistas aspiran a recuperar el poder en el país escandinavo en las elecciones del domingo
+- **[El ultra Farage recibe 42 millones de un empresario cripto, la mayor donación individual de la historia del Reino Unido](https://elpais.com/internacional/2026-09-12/el-ultra-farage-recibe-42-millones-de-un-empresario-cripto-la-mayor-donacion-individual-de-la-historia-del-reino-unido.html)** · *2026-09-12*
+  - El regalo del polémico empresario Ben Delo resucita el debate sobre los límites legales de estas ayudas
+- **[La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz](https://elpais.com/internacional/2026-09-11/el-polvorin-del-mar-rojo-se-suma-al-cierre-de-ormuz-y-agrava-la-crisis-petrolera.html)** · *2026-09-11*
+  - Los hutíes toman la isla de Mayun horas después de hacerse con el control del puerto yemení de Moca. La superposición de crisis en Oriente Próximo multiplica las amenazas para un mercado petrolero cogido con alfileres
+- **[Raúl Incertis, médico español en Gaza: “Perdí la cuenta de los niños heridos que se quedaban sin familia en Gaza”](https://elpais.com/internacional/2026-09-12/raul-incertis-medico-espanol-en-gaza-perdi-la-cuenta-de-los-ninos-heridos-que-se-quedaban-sin-familia-en-gaza.html)** · *2026-09-12*
+  - El doctor español que trabajó en varios hospitales en la Franja en 2025 publica ‘Ojalá curar fuera más fácil’, donde relata la barbarie de la que fue testigo
 - **[¿Han ganado los terroristas tras el 11-S?](https://elpais.com/opinion/2026-09-11/han-ganado-los-terroristas-tras-el-11-s.html)** · *2026-09-11*
   - Estados Unidos respondió al atentado en Nueva York como querían sus atacantes y contribuyó a crear un mundo donde el terrorismo es tan normal que ya ni sabemos cuándo usar esa palabra
 - **[La guerra de la ultraderecha contra la Bauhaus](https://elpais.com/opinion/2026-09-10/la-guerra-de-la-ultraderecha-contra-la-bauhaus.html)** · *2026-09-10*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Populists claim to speak for ‘the people’ – but who are they actually talking about?](https://theconversation.com/populists-claim-to-speak-for-the-people-but-who-are-they-actually-talking-about-290641)** · *2026-09-11*
-  - “The people” is a slippery, vague concept – and this is precisely what makes it so powerful.
-- **[Albanese and Taylor explore possibility of deal on migration reforms](https://theconversation.com/albanese-and-taylor-explore-possibility-of-deal-on-migration-reforms-291556)** · *2026-09-11*
-  - The discussions between the two leaders reflect a desire by both sides to reduce the heat around the migration issue, which is being fuelled by One Nation.
-- **[UK changes its tune on Israeli policies in the West Bank](https://theconversation.com/uk-changes-its-tune-on-israeli-policies-in-the-west-bank-291705)** · *2026-09-11*
-  - The Burnham government has announced it will sanction all trade in goods and services from illegal settlements in the West Bank.
-- **[‘We really do earnestly believe AI could kill all humans’: if AI labs are so worried about AI doom, why don’t they stop?](https://theconversation.com/we-really-do-earnestly-believe-ai-could-kill-all-humans-if-ai-labs-are-so-worried-about-ai-doom-why-dont-they-stop-291595)** · *2026-09-11*
-  - A powerful mix of hopes, fears and arms-race dynamics means AI companies won’t slow down unless they’re forced.
-- **[Yes, it’s the economy, stupid. But One Nation is outflanking the government on messaging, too](https://theconversation.com/yes-its-the-economy-stupid-but-one-nation-is-outflanking-the-government-on-messaging-too-291148)** · *2026-09-11*
-  - Voters’ economic pain is real. But perceptions matter too, and the government must get better at selling its message on its key policies.
+- **[How anti-bribery laws apply to Trump’s promise of $5,000 payments if Republicans keep control of Congress](https://theconversation.com/how-anti-bribery-laws-apply-to-trumps-promise-of-5-000-payments-if-republicans-keep-control-of-congress-291722)** · *2026-09-11*
+  - Bribery involves offering money to a particular person, but Trump did not make his $5,000 offer to any single voter or set of voters.
+- **[Volodymyr Zelenskyy’s visit to Canada advances the interests of both countries](https://theconversation.com/volodymyr-zelenskyys-visit-to-canada-advances-the-interests-of-both-countries-291761)** · *2026-09-11*
+  - Canada’s deepening ties with Ukraine can strengthen both countries as they navigate an increasingly unstable world and a less reliable U.S. ally.
+- **[A Swedish ghost story](https://theconversation.com/a-swedish-ghost-story-291400)** · *2026-09-11*
+  - Swedes take pride in being modern – and secular. But interest in the paranormal is high.
+- **[Why do people get married these days?](https://theconversation.com/why-do-people-get-married-these-days-290978)** · *2026-09-11*
+  - Most young people aren’t religious – but marriage is still a place where secular culture has quietly absorbed many of the values we associate with religion.
+- **[Pharmacogenomics: how your genes could help doctors choose the right medicine and dose](https://theconversation.com/pharmacogenomics-how-your-genes-could-help-doctors-choose-the-right-medicine-and-dose-291222)** · *2026-09-11*
+  - Your genes can affect how some medicines work. A reusable result could help doctors prescribe more safely, alongside other clinical evidence.
 
 ## Nueva Sociedad
 
