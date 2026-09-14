@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-09-13 10:51 UTC_
+_Última actualización: 2026-09-14 11:19 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Por qué la figura de Mao sigue tan vigente en China 50 años después de su muerte](https://www.bbc.com/mundo/articles/cn9w2jzq2w3o?at_medium=RSS&at_campaign=rss)** · *2026-09-13*
-  - Los videos del difunto líder comunista están acumulando millones de visitas en internet, ya que parece haber un resurgimiento de su popularidad entre algunos jóvenes.
-- **[Tania Head, la impostora española que engañó al mundo al hacerse pasar por sobreviviente del 11-S](https://www.bbc.com/mundo/articles/cg49xwyxg6wo?at_medium=RSS&at_campaign=rss)** · *2026-09-12*
-  - Tania Head afirmó haber escapado de la Torre Sur tras los ataques al World Trade Center, pero no era cierto. Tampoco ese era su verdadero nombre.
-- **[Por qué el director de Anthropic, una de las grandes firmas tecnológicas, pide ralentizar el desarrollo de la inteligencia artificial](https://www.bbc.com/mundo/articles/c86x7vnegvvo?at_medium=RSS&at_campaign=rss)** · *2026-09-12*
-  - La petición surge en medio de la creciente preocupación por que los modelos de IA puedan llegar a ser capaces de causar graves daños en todo el mundo.
-- **[Las razones de las grandes empresas de Silicon Valley para ignorar las advertencias sobre los peligros de la IA](https://www.bbc.com/mundo/articles/cr7dmd1ydp0o?at_medium=RSS&at_campaign=rss)** · *2026-09-13*
-  - Una ola de alertas respecto a los posibles los peligros para el futuro de la humanidad que entrañan la inteligencia artificial ha sido recibida con escepticismo por parte de ejecutivos e inversores.
-- **["Me iban a ejecutar y él me salvó la vida": Jorge Silva, el capitán de la Fuerza Aérea de Chile que desafió las órdenes de los golpistas y terminó torturado](https://www.bbc.com/mundo/articles/ced792eyg7po?at_medium=RSS&at_campaign=rss)** · *2026-09-12*
-  - La poco conocida historia de los miembros de las Fuerza Armadas que se rebelaron contra sus superiores durante el golpe de Estado de 1973 y arriesgaron su propia vida.
+- **[Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra](https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss)** · *2026-09-14*
+  - El debate sobre la soberanía de las islas gana intensidad con comentarios ambiguos de Trump y varios intereses internacionales en juego.
+- **[Por qué el estrecho de Bab el‑Mandeb es clave para el comercio mundial y cómo el avance de los hutíes podría desencadenar una crisis marítima](https://www.bbc.com/mundo/articles/c9dw91d5yx5o?at_medium=RSS&at_campaign=rss)** · *2026-09-14*
+  - Por Bab el‑Mandeb pasa cerca del 12% del petróleo transportado por mar en el mundo. Con Ormuz bajo presión por la guerra, cualquier alteración de esta ruta tendría un fuerte impacto global.
+- **["Los empleados estamos aterrados": la advertencia de un exinvestigador de Anthropic a la BBC sobre los riesgos de la IA (y por qué genera críticas)](https://www.bbc.com/mundo/articles/c4gq5lq8jzvo?at_medium=RSS&at_campaign=rss)** · *2026-09-13*
+  - Esto ocurre después de que el director de la empresa de IA pidiera ralentizar el desarrollo de la tecnología, citando riesgos "graves".
+- **["Estuve a semanas de casarme con un violador en serie. Mis seres queridos me salvaron la vida"](https://www.bbc.com/mundo/articles/c5yelx5l880o?at_medium=RSS&at_campaign=rss)** · *2026-09-14*
+  - La mujer le contó a la BBC cómo su familia y amigos enviaron pruebas cruciales a la policía, lo que condujo a la detención del violador.
+- **[Cómo los hombres pueden ayudar a las mujeres a compartir la "carga mental" de llevar un hogar](https://www.bbc.com/mundo/articles/c0re1elv79xo?at_medium=RSS&at_campaign=rss)** · *2026-09-14*
+  - La planificación y organización de las tareas domésticas suelen recaer de manera desproporcionada en las madres. A continuación, te ofrecemos algunos consejos para contribuir a una distribución más equitativa de esta carga.
 
 ## El País — Internacional
 
-- **[La socialdemocracia aspira a recuperar el poder en Suecia en unas elecciones reñidas](https://elpais.com/internacional/2026-09-13/la-socialdemocracia-aspira-a-recuperar-el-poder-en-suecia-en-unas-renidas-elecciones.html)** · *2026-09-13*
-  - Los progresistas encabezan todos los sondeos, aunque el margen sobre el bloque de la derecha se ha reducido mucho en la recta final de la campaña
-- **[AfD, el socio díscolo de la Internacional Reaccionaria](https://elpais.com/internacional/2026-09-13/afd-el-socio-discolo-de-la-internacional-reaccionaria.html)** · *2026-09-13*
-  - A diferencia de Le Pen y Meloni, los ultras alemanes se han radicalizado. Tienen escasos vínculos con partidos similares en Europa, aunque sí se relacionan con el trumpismo y los tecnooligarcas
-- **[Una nueva donación multimillonaria al ultra Farage hace sonar las alarmas en el resto de partidos británicos](https://elpais.com/internacional/2026-09-13/una-nueva-donacion-multimillonaria-al-ultra-farage-hace-sonar-las-alarmas-en-el-resto-de-partidos-britanicos.html)** · *2026-09-13*
-  - Reform UK acumula ya más dinero en regalos que todas las demás formaciones políticas juntas en un año
+- **[El bloque de la izquierda se perfila como vencedor en Suecia con casi el 95% del voto escrutado](https://elpais.com/internacional/2026-09-13/los-socialdemocratas-ganan-las-elecciones-en-suecia-segun-los-sondeos-a-pie-de-urna.html)** · *2026-09-14*
+  - El conteo sitúa en cabeza al centroizquierda, con 176 escaños frente a los 173 de la derecha. El Partido Socialdemócrata gana las elecciones, mientras la ultraderecha retrocede y se ve superada por los conservadores
+- **[Todo menos la membresía: la UE y Canadá negocian acuerdos estratégicos para reforzar su relación en la ‘era Trump’](https://elpais.com/internacional/2026-09-14/todo-menos-la-membresia-la-ue-y-canada-negocian-acuerdos-estrategicos-para-reforzar-su-relacion-en-la-era-trump.html)** · *2026-09-14*
+  - Bruselas y Ottawa tejen una red inédita de pactos frente a los ataques de Estados Unidos y el empuje de China
+- **[Marine Le Pen exorciza fantasmas en el feudo que alumbró su proyecto político](https://elpais.com/internacional/2026-09-13/marine-le-pen-exorciza-fantasmas-en-el-feudo-que-alumbro-su-proyecto-politico.html)** · *2026-09-13*
+  - La líder ultraderechista invoca la “prioridad nacional” para los franceses en su primer gran mitin del curso. Promete solucionar la crisis de la vivienda, pero evita alusiones a su condena y a la UE
+- **[Emma Bonino en el corazón](https://elpais.com/internacional/2026-09-14/emma-bonino-en-el-corazon.html)** · *2026-09-14*
+  - Fue cercana, de una pieza y la dirigente italiana que mayor impulso transformador desplegó
 - **[Democracia en venta](https://elpais.com/internacional/2026-09-13/democracia-en-venta.html)** · *2026-09-13*
   - No es la primera vez que Trump ofrece cheques en tiempo electoral, pero esta vez se trata de un cínico y descarado soborno que promete dinero a cambio de retener poder
-- **[¿Han ganado los terroristas tras el 11-S?](https://elpais.com/opinion/2026-09-11/han-ganado-los-terroristas-tras-el-11-s.html)** · *2026-09-11*
-  - Estados Unidos respondió al atentado en Nueva York como querían sus atacantes y contribuyó a crear un mundo donde el terrorismo es tan normal que ya ni sabemos cuándo usar esa palabra
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[View from The Hill:  Albanese lashes Hanson over attack on his mother](https://theconversation.com/view-from-the-hill-albanese-lashes-hanson-over-attack-on-his-mother-291561)** · *2026-09-13*
-  - It is the second time in just days that the One Nation leader is on the back foot after making a personal attack.
-- **[New world map makes Africa look bigger: what’s the fuss about? Cartographers explain](https://theconversation.com/new-world-map-makes-africa-look-bigger-whats-the-fuss-about-cartographers-explain-291691)** · *2026-09-13*
-  - Correcting the mental map of global leaders is an important step in amplifying Africa’s relevance and rights.
-- **[Africa’s climate services need local detail and knowledge, say people who use the information](https://theconversation.com/africas-climate-services-need-local-detail-and-knowledge-say-people-who-use-the-information-290108)** · *2026-09-13*
-  - People restoring Africa’s ecosystems need climate services that combine forecasts with Indigenous knowledge and information about land, water and livelihoods.
-- **[South Africa has good water laws but bad services. What’s stopping fair access](https://theconversation.com/south-africa-has-good-water-laws-but-bad-services-whats-stopping-fair-access-284505)** · *2026-09-13*
-  - South Africa’s water law promises fairness, but ageing infrastructure, weak governance and unequal power leave many without reliable water.
-- **[Your memories of how you heard about 9/11 may well be wrong – we’ve been asking the same people what they remember for 25 years](https://theconversation.com/your-memories-of-how-you-heard-about-9-11-may-well-be-wrong-weve-been-asking-the-same-people-what-they-remember-for-25-years-291820)** · *2026-09-12*
-  - Memories are dynamic, not fixed. Even if what you’re remembering about your own experience isn’t quite how it all happened, those memories serve important roles.
+- **[Who should own the knowledge that underpins AI technology?](https://theconversation.com/who-should-own-the-knowledge-that-underpins-ai-technology-291503)** · *2026-09-14*
+  - None of the rapid development in AI exists in a vacuum. It is built on decades of blue-skies work by academics.
+- **[How to build climate-resilient transport systems](https://theconversation.com/how-to-build-climate-resilient-transport-systems-290089)** · *2026-09-14*
+  - Our transport infrastructure and logistics supply chains were built for a stable environmental and energy baseline that no longer exists.
+- **[All-round condemnation for Pauline Hanson over Indigenous slur](https://theconversation.com/all-round-condemnation-for-pauline-hanson-over-indigenous-slur-291562)** · *2026-09-14*
+  - Pauline Hanson’s derogatory remarks about Indigenous people on a podcast last year have been slammed by members of the government, the Liberals and the Nationals.
+- **[Is calisthenics as good as weight training? Here’s what the science says](https://theconversation.com/is-calisthenics-as-good-as-weight-training-heres-what-the-science-says-291740)** · *2026-09-14*
+  - Your muscles can’t tell the difference between a dumbbell and a push-up
+- **[Trailblazing lawyer Mary Gaudron, a woman of many firsts, leaves a huge and lasting legacy](https://theconversation.com/trailblazing-lawyer-mary-gaudron-a-woman-of-many-firsts-leaves-a-huge-and-lasting-legacy-291864)** · *2026-09-14*
+  - The first women judge on the High Court shaped Australian legal history and was an inspiration to many.
 
 ## Nueva Sociedad
 
