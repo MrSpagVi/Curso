@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-09-14 11:19 UTC_
+_Última actualización: 2026-09-15 10:43 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra](https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss)** · *2026-09-14*
-  - El debate sobre la soberanía de las islas gana intensidad con comentarios ambiguos de Trump y varios intereses internacionales en juego.
-- **[Por qué el estrecho de Bab el‑Mandeb es clave para el comercio mundial y cómo el avance de los hutíes podría desencadenar una crisis marítima](https://www.bbc.com/mundo/articles/c9dw91d5yx5o?at_medium=RSS&at_campaign=rss)** · *2026-09-14*
-  - Por Bab el‑Mandeb pasa cerca del 12% del petróleo transportado por mar en el mundo. Con Ormuz bajo presión por la guerra, cualquier alteración de esta ruta tendría un fuerte impacto global.
-- **["Los empleados estamos aterrados": la advertencia de un exinvestigador de Anthropic a la BBC sobre los riesgos de la IA (y por qué genera críticas)](https://www.bbc.com/mundo/articles/c4gq5lq8jzvo?at_medium=RSS&at_campaign=rss)** · *2026-09-13*
-  - Esto ocurre después de que el director de la empresa de IA pidiera ralentizar el desarrollo de la tecnología, citando riesgos "graves".
-- **["Estuve a semanas de casarme con un violador en serie. Mis seres queridos me salvaron la vida"](https://www.bbc.com/mundo/articles/c5yelx5l880o?at_medium=RSS&at_campaign=rss)** · *2026-09-14*
-  - La mujer le contó a la BBC cómo su familia y amigos enviaron pruebas cruciales a la policía, lo que condujo a la detención del violador.
-- **[Cómo los hombres pueden ayudar a las mujeres a compartir la "carga mental" de llevar un hogar](https://www.bbc.com/mundo/articles/c0re1elv79xo?at_medium=RSS&at_campaign=rss)** · *2026-09-14*
-  - La planificación y organización de las tareas domésticas suelen recaer de manera desproporcionada en las madres. A continuación, te ofrecemos algunos consejos para contribuir a una distribución más equitativa de esta carga.
+- **[Qué se sabe de los Geran-3, los nuevos drones a reacción que Rusia está usando contra Ucrania y que han golpeado con dureza a Kyiv](https://www.bbc.com/mundo/articles/cwyz1293enxo?at_medium=RSS&at_campaign=rss)** · *2026-09-15*
+  - Los nuevos modelos pueden alcanzar velocidades de hasta 480 km/h, más que los interceptores de defensa aérea de Ucrania.
+- **[Por qué preocupa que la IA pueda amenazar a la humanidad y qué tan real es ese temor](https://www.bbc.com/mundo/articles/cqkg0dvwm99vo?at_medium=RSS&at_campaign=rss)** · *2026-09-14*
+  - Los llamados a la regulación de la IA aumentan a medida que investigadores y directivos preocupados emiten advertencias inquietantes sobre el potencial de esta tecnología.
+- **[Jantelagen, la idea que explica por qué los suecos valoran la humildad y no ponerse por encima de los demás](https://www.bbc.com/mundo/articles/c86x11y8g2zo?at_medium=RSS&at_campaign=rss)** · *2026-09-15*
+  - En Suecia se valora la igualdad y sus habitantes son famosos por su reticencia a destacar. Sin embargo, también son tremendamente individualistas y saben cómo divertirse. Un concepto centenario ayuda a explicar estas contradicciones.
+- **[Recibí quimioterapia durante 11 años por un cáncer que no tenía](https://www.bbc.com/mundo/articles/crer35p25lzo?at_medium=RSS&at_campaign=rss)** · *2026-09-15*
+  - Becky Jones se encuentra entre las más de 40 personas que han emprendido acciones legales contra la junta directiva de un hospital en el centro de Inglaterra.
+- **[Premios Emmy 2026: estos son los ganadores de una gala en la que hizo historia la serie de comedia "Widow's Bay"](https://www.bbc.com/mundo/articles/cmx2zex83g59o?at_medium=RSS&at_campaign=rss)** · *2026-09-15*
+  - "Widow's Bay" se llevó 14 premios, más que ningún otra serie de comedia en una edición de los Emmy.
 
 ## El País — Internacional
 
-- **[El bloque de la izquierda se perfila como vencedor en Suecia con casi el 95% del voto escrutado](https://elpais.com/internacional/2026-09-13/los-socialdemocratas-ganan-las-elecciones-en-suecia-segun-los-sondeos-a-pie-de-urna.html)** · *2026-09-14*
-  - El conteo sitúa en cabeza al centroizquierda, con 176 escaños frente a los 173 de la derecha. El Partido Socialdemócrata gana las elecciones, mientras la ultraderecha retrocede y se ve superada por los conservadores
-- **[Todo menos la membresía: la UE y Canadá negocian acuerdos estratégicos para reforzar su relación en la ‘era Trump’](https://elpais.com/internacional/2026-09-14/todo-menos-la-membresia-la-ue-y-canada-negocian-acuerdos-estrategicos-para-reforzar-su-relacion-en-la-era-trump.html)** · *2026-09-14*
-  - Bruselas y Ottawa tejen una red inédita de pactos frente a los ataques de Estados Unidos y el empuje de China
-- **[Marine Le Pen exorciza fantasmas en el feudo que alumbró su proyecto político](https://elpais.com/internacional/2026-09-13/marine-le-pen-exorciza-fantasmas-en-el-feudo-que-alumbro-su-proyecto-politico.html)** · *2026-09-13*
-  - La líder ultraderechista invoca la “prioridad nacional” para los franceses en su primer gran mitin del curso. Promete solucionar la crisis de la vivienda, pero evita alusiones a su condena y a la UE
+- **[Un sabotaje bloquea gran parte de la red ferroviaria de Países Bajos](https://elpais.com/internacional/2026-09-15/un-presunto-sabotaje-interrumpe-gran-parte-de-la-red-ferroviaria-de-paises-bajos.html)** · *2026-09-15*
+  - Varios tubos colocados en las vías paralizan decenas de trenes en el centro y el norte del país
+- **[El Supremo rechaza las restricciones de Trump al voto por correo para las legislativas](https://elpais.com/us/2026-09-15/el-tribunal-suprema-rechaza-por-ahora-las-restricciones-de-trump-al-voto-por-correo-antes-de-las-elecciones-legislativas.html)** · *2026-09-15*
+  - La reforma del republicano ponía en riesgo el sufragio de millones de personas por no haber tiempo suficiente para que los Estados implementaran las nuevas normas
+- **[Un oligarca ruso del círculo de Putin pagó los festejos tras la boda del hijo mayor de Trump en Bahamas](https://elpais.com/internacional/2026-09-14/un-oligarca-ruso-cercano-a-putin-pago-los-festejos-tras-la-boda-del-hijo-mayor-de-donald-trump-en-las-bahamas.html)** · *2026-09-14*
+  - La pareja ha confirmado que Umar Kremlev se hizo cargo de las facturas. “Esto debería ser impensable para el hijo del presidente. Y punto”, apunta un antiguo alto cargo del FBI
 - **[Emma Bonino en el corazón](https://elpais.com/internacional/2026-09-14/emma-bonino-en-el-corazon.html)** · *2026-09-14*
   - Fue cercana, de una pieza y la dirigente italiana que mayor impulso transformador desplegó
 - **[Democracia en venta](https://elpais.com/internacional/2026-09-13/democracia-en-venta.html)** · *2026-09-13*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Who should own the knowledge that underpins AI technology?](https://theconversation.com/who-should-own-the-knowledge-that-underpins-ai-technology-291503)** · *2026-09-14*
-  - None of the rapid development in AI exists in a vacuum. It is built on decades of blue-skies work by academics.
-- **[How to build climate-resilient transport systems](https://theconversation.com/how-to-build-climate-resilient-transport-systems-290089)** · *2026-09-14*
-  - Our transport infrastructure and logistics supply chains were built for a stable environmental and energy baseline that no longer exists.
-- **[All-round condemnation for Pauline Hanson over Indigenous slur](https://theconversation.com/all-round-condemnation-for-pauline-hanson-over-indigenous-slur-291562)** · *2026-09-14*
-  - Pauline Hanson’s derogatory remarks about Indigenous people on a podcast last year have been slammed by members of the government, the Liberals and the Nationals.
-- **[Is calisthenics as good as weight training? Here’s what the science says](https://theconversation.com/is-calisthenics-as-good-as-weight-training-heres-what-the-science-says-291740)** · *2026-09-14*
-  - Your muscles can’t tell the difference between a dumbbell and a push-up
-- **[Trailblazing lawyer Mary Gaudron, a woman of many firsts, leaves a huge and lasting legacy](https://theconversation.com/trailblazing-lawyer-mary-gaudron-a-woman-of-many-firsts-leaves-a-huge-and-lasting-legacy-291864)** · *2026-09-14*
-  - The first women judge on the High Court shaped Australian legal history and was an inspiration to many.
+- **[Europe’s e-waste is a valuable resource – let’s not throw it away](https://theconversation.com/europes-e-waste-is-a-valuable-resource-lets-not-throw-it-away-290453)** · *2026-09-15*
+  - Europe is not facing a scarcity problem but a recovery challenge, and one that can be solved.
+- **[Can an ancient virus be brought back to life? What 500-year-old smallpox DNA reveals](https://theconversation.com/can-an-ancient-virus-be-brought-back-to-life-what-500-year-old-smallpox-dna-reveals-289662)** · *2026-09-15*
+  - Smallpox DNA from two people buried in Chile reveals the virus’s arrival through European colonisation – but recreating it would require deliberate laboratory work.
+- **[More than 2 million Indigenous people lived in Australia in 1788: new research](https://theconversation.com/more-than-2-million-indigenous-people-lived-in-australia-in-1788-new-research-291278)** · *2026-09-15*
+  - Genetic, archaeological and environmental evidence suggest the Indigenous population fell by more than 90% In the 70 years after the British invaded.
+- **[AFP commissioner urges ‘conversation’ about link between Australians’ level of illicit drug use and organised crime](https://theconversation.com/afp-commissioner-urges-conversation-about-link-between-australians-level-of-illicit-drug-use-and-organised-crime-291991)** · *2026-09-15*
+  - Krissy Barrett’s call comes after recent murders in Sydney linked to organised crime included two cases of mistaken identity in one week.
+- **[175 years of university architecture reflects Australian history. We shouldn’t let that history be lost](https://theconversation.com/175-years-of-university-architecture-reflects-australian-history-we-shouldnt-let-that-history-be-lost-290941)** · *2026-09-15*
+  - University campuses reflect the layers of architectural and landscape styles that have shaped our cities and suburbs.
 
 ## Nueva Sociedad
 
