@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-09-17 10:42 UTC_
+_Última actualización: 2026-09-18 10:17 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Quiénes son los hutíes, los rebeldes aliados de Irán en Yemen que tienen en vilo al mercado mundial de petróleo](https://www.bbc.com/mundo/articles/cmy0z5egwg42o?at_medium=RSS&at_campaign=rss)** · *2026-09-17*
-  - El rápido avance de los hutíes en Yemen podría añadir una nueva y peligrosa dimensión a la guerra de Irán.
-- **[Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.](https://www.bbc.com/mundo/articles/cr5yevn02vv8o?at_medium=RSS&at_campaign=rss)** · *2026-09-16*
-  - Las fotografías obtenidas por la cadena CBS muestran aviones destruidos, remolques aplastados y edificios gravemente dañados en bases de Arabia Saudita y Kuwait.
-- **[4 muertes en 7 meses: la indignación por los crímenes contra mujeres en la Universidad de Morelos, en la que estudiaba la joven española asesinada](https://www.bbc.com/mundo/articles/c6x2zyqevrd5o?at_medium=RSS&at_campaign=rss)** · *2026-09-16*
-  - La estudiante española Claudia Tacoronte se ha convertido en un nuevo símbolo de la violencia machista que azota a México a pesar de que Claudia Sheinbuam reporta una caída de dichos homicidios.
-- **[10 casas diseñadas para mezclarse con la naturaleza que las rodea](https://www.bbc.com/mundo/articles/cmn5d6ywn1gzo?at_medium=RSS&at_campaign=rss)** · *2026-09-17*
-  - Desde una residencia en la selva brasileña hasta un refugio entre ruinas vikingas en Islandia, estos proyectos finalistas del World Architecture Festival exploran nuevas formas de integrarse en la naturaleza.
-- **[Cómo la secundaria se presta para estereotipos que nos marcan hasta cuando somos adultos](https://www.bbc.com/mundo/articles/c99d4042m7ko?at_medium=RSS&at_campaign=rss)** · *2026-09-17*
-  - La popularidad, una de esas fijaciones que definen la adolescencia, parece aferrarse a nuestra consciencia incluso décadas después de graduarnos.
+- **[Por qué a Putin le importan las elecciones legislativas en Rusia, pese a que no habrá sorpresas](https://www.bbc.com/mundo/articles/cqgl75nenp3no?at_medium=RSS&at_campaign=rss)** · *2026-09-18*
+  - No hay dudas sobre el resultado de esta votación, pero para el Kremlin sigue siendo importante.
+- **["Los hispanos se sienten traicionados": el mensaje a Trump de la congresista republicana María Elvira Salazar en plena ola de arrestos y deportaciones](https://www.bbc.com/mundo/articles/c64g7jz9yzvno?at_medium=RSS&at_campaign=rss)** · *2026-09-17*
+  - La congresista republicana, que busca la reelección en un distrito de Miami de mayoría hispana, cuestiona las detenciones de migrantes sin antecedentes penales y advierte que los votantes latinos que apoyaron a Trump se sienten…
+- **[La playa de los huesos: cómo Rusia intenta olvidar la represión soviética (pero las pruebas siguen aflorando en un lago)](https://www.bbc.com/mundo/articles/cqm2m487e0kro?at_medium=RSS&at_campaign=rss)** · *2026-09-17*
+  - En un remoto pueblo ruso construido por prisioneros soviéticos, los huesos de las víctimas del gulag siguen apareciendo en una playa artificial.
+- **[Cómo es Macondo Park, el escenario más grande de Europa que creó Shakira para su residencia artística en Madrid](https://www.bbc.com/mundo/articles/cme8xwzz3ygzo?at_medium=RSS&at_campaign=rss)** · *2026-09-18*
+  - El recinto no solo acogerá los conciertos de la cantante colombiana, sino que también será un espacio para la difusión de la gastronomía y la literatura latinoamericanas.
+- **[Por qué mancharte las manos con tierra tiene beneficios para tu salud](https://www.bbc.com/mundo/articles/c9dr7emvd5ejo?at_medium=RSS&at_campaign=rss)** · *2026-09-18*
+  - Cada vez más investigaciones indican que el contacto prolongado o frecuente de la piel con la naturaleza podría alterar significativamente lo que ocurre en nuestra piel y en nuestro organismo.
 
 ## El País — Internacional
 
-- **[Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá](https://elpais.com/internacional/2026-09-17/trump-amenaza-con-cortar-el-comercio-si-la-ue-se-asocia-con-canada.html)** · *2026-09-17*
-  - El presidente de Estados Unidos se reserva la imposición de “elevados aranceles” si prospera el plan de alianza transatlántica entre su vecino del Norte y Europa
-- **[Israel y Marruecos elevan el nivel de sus relaciones diplomáticas en plena crisis de Ceuta](https://elpais.com/internacional/2026-09-17/israel-y-marruecos-elevan-el-nivel-de-sus-relaciones-diplomaticas-bajo-los-auspicios-de-estados-unidos.html)** · *2026-09-17*
-  - Los dos países sellan en Nueva York un acuerdo que incluye la apertura de embajadas, el nombramiento de embajadores y ampliar sus conexiones aéreas
-- **[La crisis de la vivienda y el avance de la extrema derecha marcan las elecciones regionales en Berlín](https://elpais.com/internacional/2026-09-17/las-elecciones-regionales-de-berlin-llegan-marcadas-por-la-vivienda-y-el-avance-de-la-extrema-derecha.html)** · *2026-09-17*
-  - La izquierda y los conservadores llegan casi empatados a la cita del domingo, mientras el partido radical AfD aspira a duplicar su resultado hasta rondar el 18% de los votos
+- **[Putin extiende la persecución a los comunistas pese a su lealtad](https://elpais.com/internacional/2026-09-18/putin-extiende-la-persecucion-a-los-comunistas-pese-a-su-lealtad.html)** · *2026-09-18*
+  - La inhabilitación de decenas de candidatos críticos con el Gobierno convierte los comicios legislativos en un trámite
+- **[Merz y el Gobierno alemán se juegan su futuro en las elecciones regionales del domingo](https://elpais.com/internacional/2026-09-18/merz-y-el-gobierno-aleman-se-juegan-su-futuro-en-las-elecciones-regionales-de-domingo.html)** · *2026-09-18*
+  - Una probable derrota de la CDU en los comicios de Berlín y en Mecklemburgo-Pomerania Occidental pueden provocar grandes cambios en el Ejecutivo o incluso forzar el cese del canciller
+- **[Yuli Novak, directora de la ONG israelí B’Tselem: “Ningún pueblo que ha cometido un genocidio era consciente de que lo hacía”](https://elpais.com/internacional/2026-09-18/yuli-novak-directora-de-la-ong-israeli-btselem-ningun-pueblo-que-ha-cometido-un-genocidio-era-consciente-de-que-lo-hacia.html)** · *2026-09-18*
+  - La responsable de la organización de derechos humanos lamenta el “mensaje claro” de impunidad que el mundo ha dado al sistema político de su país al seguirle tratando como “legítimo” después de tres años de masacres
 - **[Carl Schmitt se cuela en los grandes discursos de Bruselas](https://elpais.com/espana/2026-09-16/carl-schmitt-se-cuela-en-los-grandes-discursos-de-bruselas.html)** · *2026-09-16*
   - Von der Leyen anuncia que los Veintisiete podrán flexibilizar temporalmente los procedimientos de asilo en caso de crisis agudas como la de Ceuta
 - **[Emma Bonino en el corazón](https://elpais.com/internacional/2026-09-14/emma-bonino-en-el-corazon.html)** · *2026-09-14*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Houthi offensive in Yemen adds to fear that Iran war could escalate into a wider global conflict](https://theconversation.com/houthi-offensive-in-yemen-adds-to-fear-that-iran-war-could-escalate-into-a-wider-global-conflict-286816)** · *2026-09-17*
-  - Recent events in Yemen could drag Saudi Arabia into the conflict.
-- **[Why AI consciousness could become the next great societal divide](https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886)** · *2026-09-17*
-  - Ideally, experts should guide this debate. Unfortunately, they disagree too.
-- **[Australia’s vast Nullarbor Plain hides deep caves that can teach us about alien worlds](https://theconversation.com/australias-vast-nullarbor-plain-hides-deep-caves-that-can-teach-us-about-alien-worlds-290637)** · *2026-09-17*
-  - It might appear featureless, but one of the world’s largest limestone regions hides a remarkable underground world.
-- **[Life just got tougher for international students under new visa rules. Why is this group being targeted?](https://theconversation.com/life-just-got-tougher-for-international-students-under-new-visa-rules-why-is-this-group-being-targeted-292138)** · *2026-09-17*
-  - The federal government will make it harder for international students to bring their families with them to Australia, among other changes.
-- **[Politics with Michelle Grattan: Matt Canavan on why One Nation is ‘not really compatible’ as a Coalition partner](https://theconversation.com/politics-with-michelle-grattan-matt-canavan-on-why-one-nation-is-not-really-compatible-as-a-coalition-partner-292228)** · *2026-09-17*
-  - The Nationals leader said he’ll do ‘whatever it takes’ to beat the Labor government – including not ruling out a move to the lower house before the next election.
+- **[Members of right-leaning parties prefer leaders with ‘dark triad’ personality traits](https://theconversation.com/members-of-right-leaning-parties-prefer-leaders-with-dark-triad-personality-traits-292011)** · *2026-09-18*
+  - The ‘dark triad’ is made up of narcissism, Machiavellianism and psychopathy.
+- **[The long fascinating history of food additives – and why we’re stuck with them](https://theconversation.com/the-long-fascinating-history-of-food-additives-and-why-were-stuck-with-them-283094)** · *2026-09-18*
+  - We’ve gone from celebrating foods with additives to despising them, but living without them seems an impossibility.
+- **[The Bayeux tapestry: how this medieval wonder was reinvented for modern times](https://theconversation.com/the-bayeux-tapestry-how-this-medieval-wonder-was-reinvented-for-modern-times-291812)** · *2026-09-18*
+  - From replicas to politicians’ ties, from satire to humour, the Bayeux tapestry inspires creative, artistic and political acts a thousand years later.
+- **[How a traditional Nordic way of eating could help you live longer](https://theconversation.com/how-a-traditional-nordic-way-of-eating-could-help-you-live-longer-282282)** · *2026-09-18*
+  - Adopting a Nordic diet could cut your risk of heart disease and diabetes.
+- **[Houthi rebel offensive fuels fears of escalation in the Middle East and Europe](https://theconversation.com/houthi-rebel-offensive-fuels-fears-of-escalation-in-the-middle-east-and-europe-292273)** · *2026-09-18*
+  - The Iran-backed rebel group has taken control of the vital Bab al-Mandab Strait.
 
 ## Nueva Sociedad
 
