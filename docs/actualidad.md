@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-09-19 10:00 UTC_
+_Última actualización: 2026-09-20 10:20 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[EE.UU. y Dinamarca anuncian un acuerdo por el que Washington asumirá el "control permanente de la seguridad" de Groenlandia](https://www.bbc.com/mundo/articles/cx05rdze7v60o?at_medium=RSS&at_campaign=rss)** · *2026-09-19*
-  - La noticia del acuerdo fue confirmada por la primera ministra de Dinamarca, Mette Frederiksen.
-- **[Qué son los agentes de la IA, los poderosos sistemas que despiertan el temor de los expertos](https://www.bbc.com/mundo/articles/c6zxz1z7zejro?at_medium=RSS&at_campaign=rss)** · *2026-09-18*
-  - Son una de las formas de aplicar inteligencia artificial en tareas de todo tipo, pero su capacidad de pensar soluciones e improvisar está desconcertando a los especialistas.
-- **[Exclusiva BBC | "Estoy diciendo la verdad": el hermano de Diana de Gales defiende sus señalamientos de que Carlos III estaba "eufórico" tras la muerte de la princesa](https://www.bbc.com/mundo/articles/cmkgw3g6y7gdo?at_medium=RSS&at_campaign=rss)** · *2026-09-18*
-  - Charles Spencer asegura en entrevista con la BBC que escuchó al entonces príncipe de Gales decirle que olvidarían "muy pronto" a la princesa tras la muerte de esta.
-- **[Condenan a Uber a pagar US$40 millones a la familia de una joven que murió en California después de que un conductor la abandonara en la autopista](https://www.bbc.com/mundo/articles/c9vgy052d71zo?at_medium=RSS&at_campaign=rss)** · *2026-09-18*
-  - La joven de 23 años regresaba a casa con una amiga que vomitó en el vehículo, por lo que el conductor de Uber les ordenó que se bajaran en plena autopista.
-- **[La más corta, la más antigua y una isla compartida: 6 ejemplos que hacen de España uno de los países con las fronteras más peculiares del mundo](https://www.bbc.com/mundo/articles/c2e0g8j2wwvo?at_medium=RSS&at_campaign=rss)** · *2026-09-19*
+- **[Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU.](https://www.bbc.com/mundo/articles/cm2dw10jdlrpo?at_medium=RSS&at_campaign=rss)** · *2026-09-20*
+  - Los esfuerzos para abordar los riesgos que plantea la IA podrían complicarse por la intensa rivalidad entre las dos principales superpotencias mundiales, China y Estados Unidos.
+- **[Ed Sheeran admite en un concierto haber cometido "errores" tras la polémica por la exclusión de su gira del rapero Macklemore](https://www.bbc.com/mundo/articles/cm790jgwj0z4o?at_medium=RSS&at_campaign=rss)** · *2026-09-20*
+  - El artista habló sobre el tema y sobre Israel y Gaza en su primer concierto desde que el rapero Macklemore fue excluido de su gira y otros artistas se retiraran.
+- **[6 ejemplos que hacen de España uno de los países con las fronteras más peculiares del mundo](https://www.bbc.com/mundo/articles/c2e0g8j2wwvo?at_medium=RSS&at_campaign=rss)** · *2026-09-19*
   - España cuenta con fronteras con Francia, Portugal, Reino Unido, Andorra y Marruecos, y algunas de ellas son especialmente particulares.
+- **[Las razones por las que Michelle Bachelet se retira de la carrera por la Secretaría General de la ONU](https://www.bbc.com/mundo/articles/c52e0v8xxlk3o?at_medium=RSS&at_campaign=rss)** · *2026-09-20*
+  - La candidatura de la exmandataria chilena venía perdiendo apoyo en las últimas votaciones no vinculantes del organismo multilateral.
+- **[Por qué Zeus creó a Pandora, la primera mujer según la mitología griega y ¿realmente abrió una caja?](https://www.bbc.com/mundo/articles/c30j01ygzq2o?at_medium=RSS&at_campaign=rss)** · *2026-09-20*
+  - ¿Por qué Zeus castigó a los hombres si fue Prometeo quien desobedeció? ¿Y qué papel juega la esperanza en todo esto? Te contamos la historia detrás del mito.
 
 ## El País — Internacional
 
-- **[Trump anuncia un acuerdo con Dinamarca para asumir el “control permanente de la seguridad” de Groenlandia](https://elpais.com/internacional/2026-09-18/trump-anuncia-un-acuerdo-militar-historico-con-dinamarca-sobre-groenlandia.html)** · *2026-09-19*
-  - La primera ministra danesa, Mette Frederiksen, confirma el compromiso, pero habla de “seguridad compartida en el Ártico”. El pacto entre las tres partes incluye el veto a países enemigos, según la versión del presidente estadounidense
-- **[Estados Unidos envió esta semana a ingenieros militares a inspeccionar una antigua base en el sur de Groenlandia](https://elpais.com/internacional/2026-09-19/estados-unidos-envia-a-ingenieros-militares-a-inspeccionar-una-antigua-base-en-el-sur-de-groenlandia.html)** · *2026-09-19*
-  - El Pentágono estudia reutilizar unas instalaciones abandonadas en los años cincuenta en la isla ártica bajo soberanía de Dinamarca
-- **[La Alemania que quiere a Rusia de aliada abraza a la extrema derecha](https://elpais.com/internacional/2026-09-19/la-alemania-que-quiere-a-rusia-de-aliada-abraza-a-la-extrema-derecha.html)** · *2026-09-19*
-  - El gas de Moscú que alimentaba a la economía alemana llegó al municipio de Lubmin hasta que la guerra en Ucrania cerró el grifo. Desde entonces, AfD arrasa electoralmente en el pueblo
-- **[Carl Schmitt se cuela en los grandes discursos de Bruselas](https://elpais.com/espana/2026-09-16/carl-schmitt-se-cuela-en-los-grandes-discursos-de-bruselas.html)** · *2026-09-16*
-  - Von der Leyen anuncia que los Veintisiete podrán flexibilizar temporalmente los procedimientos de asilo en caso de crisis agudas como la de Ceuta
-- **[Emma Bonino en el corazón](https://elpais.com/internacional/2026-09-14/emma-bonino-en-el-corazon.html)** · *2026-09-14*
-  - Fue cercana, de una pieza y la dirigente italiana que mayor impulso transformador desplegó
+- **[Un mundo en llamas se da cita en una ONU en ruinas](https://elpais.com/internacional/2026-09-20/un-mundo-en-llamas-se-da-cita-en-una-onu-en-ruinas.html)** · *2026-09-20*
+  - El aumento de los conflictos, los peligros climáticos y tecnológicos y la erosión democrática marcan la cita anual en Naciones Unidas, mermada por la escasez de fondos y los ataques al multilateralismo
+- **[El pacto con Groenlandia y el encuentro entre Delcy Rodríguez y Trump trastocan la agenda de la Asamblea General de la ONU](https://elpais.com/internacional/2026-09-20/el-pacto-con-groenlandia-y-el-encuentro-entre-delcy-rodriguez-y-trump-trastocan-la-agenda-de-la-asamblea-general-de-la-onu.html)** · *2026-09-20*
+  - Unos 130 mandatarios hablarán la próxima semana en Nueva York ante un organismo atascado en la búsqueda de su nuevo líder
+- **[Dos mujeres de izquierdas y una misión: frenar a la extrema derecha en Alemania](https://elpais.com/internacional/2026-09-20/dos-mujeres-de-izquierdas-y-una-mision-frenar-a-la-extrema-derecha-en-alemania.html)** · *2026-09-20*
+  - Las candidatas del SPD y de los poscomunistas de Die Linke llegan empatadas con AfD para ganar en las elecciones de este domingo en Mecklemburgo-Pomerania y Berlín
+- **[El estrecho infinito](https://elpais.com/internacional/2026-09-20/el-estrecho-infinito.html)** · *2026-09-20*
+  - Un cierre de Ormuz prolongado y desbordado sería el punto de inflexión de unos mercados energéticos al límite y tener efectos políticos duraderos
+- **[Piloto automático hacia el Apocalipsis](https://elpais.com/internacional/2026-09-20/piloto-automatico-hacia-el-apocalipsis.html)** · *2026-09-20*
+  - La humanidad está tomando conciencia de que la Inteligencia Artificial, una tecnología que puede escapar del control de sus creadores y abocarla a la extinción
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
+- **[Trump declares victory in Greenland, but the deal exposes a deeper crisis of trust](https://theconversation.com/trump-declares-victory-in-greenland-but-the-deal-exposes-a-deeper-crisis-of-trust-292440)** · *2026-09-20*
+  - When a loyal ally can be squeezed over land inside its own territory, collective defence starts to look like an open protection racket.
+- **[Demolishing Lagos informal settlements also destroys the city’s best defences against climate change](https://theconversation.com/demolishing-lagos-informal-settlements-also-destroys-the-citys-best-defences-against-climate-change-291071)** · *2026-09-20*
+  - Residents whose homes cluster along waterways, canals and shorelines have built organised systems for living with climate change.
+- **[Teenage girls may know how to prevent pregnancy – that doesn’t mean they have the power to do it](https://theconversation.com/teenage-girls-may-know-how-to-prevent-pregnancy-that-doesnt-mean-they-have-the-power-to-do-it-290007)** · *2026-09-20*
+  - Teenage pregnancy makes visible the pressures, relationships and reproductive conditions that shape young people’s lives across southern Africa.
 - **[Annie Dillard brought poetry into prose, pioneering a mystical form of creative nonfiction that critics both admired and misunderstood](https://theconversation.com/annie-dillard-brought-poetry-into-prose-pioneering-a-mystical-form-of-creative-nonfiction-that-critics-both-admired-and-misunderstood-290676)** · *2026-09-18*
   - For Annie Dillard, the sonic intensity of poetry was critical to every form of writing she published throughout her life.
 - **[John Vanbrugh at 300: the man described as ‘the Shakespeare of architecture’](https://theconversation.com/john-vanbrugh-at-300-the-man-described-as-the-shakespeare-of-architecture-290749)** · *2026-09-18*
   - Vanbrugh’s houses deliver on sensory impact and stirred emotions – the wow factor.
-- **[Who do you trust in an emergency? We asked people in places hit by extreme weather](https://theconversation.com/who-do-you-trust-in-an-emergency-we-asked-people-in-places-hit-by-extreme-weather-286574)** · *2026-09-18*
-  - The problem wasn’t the volume of emergency information – it was who it came from, and how it was delivered.
-- **[Neuroscience offers new insights into how our brain solves ‘the cocktail party problem’](https://theconversation.com/neuroscience-offers-new-insights-into-how-our-brain-solves-the-cocktail-party-problem-292169)** · *2026-09-18*
-  - Trying to understand how the brain is so good at focusing on one conversation has kept auditory neuroscientists occupied since the 1950s.
-- **[Stop adapting Jane Austen! Five other 18th-century writers perfect for the screen](https://theconversation.com/stop-adapting-jane-austen-five-other-18th-century-writers-perfect-for-the-screen-292178)** · *2026-09-18*
-  - From Eliza Haywood to Anne Radcliffe, there are other great 18-century writers whose work would be great on screen.
 
 ## Nueva Sociedad
 
