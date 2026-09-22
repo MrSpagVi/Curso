@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-09-21 11:32 UTC_
+_Última actualización: 2026-09-22 10:38 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["Para mí, eran como mis hijos": el duelo de una profesora que perdió a más de 200 alumnos en el doble terremoto de Venezuela](https://www.bbc.com/mundo/articles/cxr501n9z45qo?at_medium=RSS&at_campaign=rss)** · *2026-09-21*
-  - Madeleine Cova es una profesora de secundaria que llora los estudiantes que perdió en los terremotos que sacudieron el norte de Venezuela el 24 de junio. “Me queda un vacío, es como si me faltara una parte de mi cuerpo”.
-- **[Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv](https://www.bbc.com/mundo/articles/cw8d3l13p113o?at_medium=RSS&at_campaign=rss)** · *2026-09-21*
-  - Desde hace meses, la capital ucraniana viene sufriendo ataques cada vez más frecuentes y feroces.
-- **[Karl Bushby, el aventurero británico que partió de Chile y lleva 28 años recorriendo el mundo a pie](https://www.bbc.com/mundo/articles/cqn4kvv0jv7xo?at_medium=RSS&at_campaign=rss)** · *2026-09-20*
-  - La BBC se traslada a Bélgica para caminar un tramo con el aventurero Karl Bushby, cuyo viaje de regreso a casa se acerca al final tras 28 años.
-- **[Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford](https://www.bbc.com/mundo/articles/c6wyz27241l2o?at_medium=RSS&at_campaign=rss)** · *2026-09-21*
-  - La familia del joven modelo pidió privacidad durante este "momento muy difícil y doloroso".
-- **[Cómo la IA influye en la selección de candidatos: 5 novedades que debes conocer antes de postularte a un empleo](https://www.bbc.com/mundo/articles/c79gpqxyyd1o?at_medium=RSS&at_campaign=rss)** · *2026-09-21*
-  - La inteligencia artificial tiene cada vez más protagonismo en el mercado laboral. Te contamos lo que debes saber a la hora de buscar empleo.
+- **[Por qué los estados de la antigua Alemania comunista se convirtieron en el bastión de la extrema derecha en el país europeo](https://www.bbc.com/mundo/articles/cr93ex2jyz54o?at_medium=RSS&at_campaign=rss)** · *2026-09-22*
+  - La inmigración, el declive económico, las secuelas de la reunificación e incluso el legado del nazismo son algunos de los factores que los expertos señalan para explicar el voto de los alemanes orientales.
+- **["Eran como mis hijos": el duelo de una profesora que perdió a más de 200 alumnos en el doble terremoto de Venezuela](https://www.bbc.com/mundo/articles/cxr501n9z45qo?at_medium=RSS&at_campaign=rss)** · *2026-09-21*
+  - Madeleine Cova es una profesora de secundaria que llora los estudiantes que perdió en los terremotos que sacudieron el norte de Venezuela el 24 de junio.
+- **[Muere Presley Gerber: la lucha contra los problemas de adicción y salud mental del hijo de la modelo Cindy Crawford](https://www.bbc.com/mundo/articles/crwyz2076608o?at_medium=RSS&at_campaign=rss)** · *2026-09-21*
+  - El joven, quien murió en un centro de rehabilitación este domingo, hablaba abiertamente del tema en entrevistas y en su perfil en Instagram, en una serie de publicaciones al que llamaba "lunes de salud mental".
+- **[Los voluntarios que arriesgan sus vidas para desactivar las "bombas de carbono" de los catastróficos incendios forestales que azotan Indonesia](https://www.bbc.com/mundo/articles/c36lxky8ky2o?at_medium=RSS&at_campaign=rss)** · *2026-09-22*
+  - Los incendios en las turberas de Borneo están liberando antiguas reservas de carbono y extendiendo una nube tóxica por todo el sudeste asiático.
+- **["Nuestro director era un abusador": cómo dos exalumnos de un internado unieron fuerzas para buscar justicia y terminaron casándose](https://www.bbc.com/mundo/articles/c6y0z1x7z79zo?at_medium=RSS&at_campaign=rss)** · *2026-09-22*
+  - Dos excompañeros de clase indonesios dedicaron años a reunir pruebas contra el director de su escuela antes de enamorarse.
 
 ## El País — Internacional
 
-- **[El presidente de Irán viajará a la Asamblea General de la ONU en Nueva York](https://elpais.com/internacional/2026-09-21/el-presidente-de-iran-viajara-a-la-asamblea-general-de-la-onu-en-nueva-york.html)** · *2026-09-21*
-  - Teherán niega que en su agenda haya ningún encuentro con “funcionarios” estadounidenses, aunque Trump se dice dispuesto a reunirse con Pezeshkian
-- **[La extrema derecha se dispara en las elecciones regionales alemanas y agrava la crisis del partido de Merz](https://elpais.com/internacional/2026-09-20/la-extrema-derecha-se-dispara-en-las-elecciones-regionales-alemanas-y-profundiza-la-crisis-de-la-cdu-del-canciller-merz.html)** · *2026-09-21*
-  - La CDU del canciller se queda por primera vez en su historia sin representación parlamentaria, pero el líder ha descartado su dimisión. La izquierda triunfa en Berlín
-- **[La debacle electoral de la CDU del canciller Merz pone en cuestión la coalición de gobierno](https://elpais.com/internacional/2026-09-21/la-debacle-electoral-de-la-cdu-del-canciller-merz-pone-en-cuestion-la-coalicion-de-gobierno.html)** · *2026-09-21*
-  - La extrema derecha de AfD no detiene su avance en Alemania. La crisis estructural en la que se encuentra sumido el país coloca bajo presión al canciller
+- **[Trump lleva sus batallas a la Asamblea General de Naciones Unidas](https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html)** · *2026-09-22*
+  - El presidente estadounidense planea ampliar las sanciones al Tribunal Penal Internacional mientras se le acumulan los problemas internos y en la guerra en Irán
+- **[La Izquierda rompe la alternancia en Berlín y acaricia la alcaldía con la promesa de abaratar la vivienda](https://elpais.com/internacional/2026-09-22/la-izquierda-rompe-la-alternancia-en-berlin-y-acaricia-la-alcaldia-con-la-promesa-de-abaratar-la-vivienda.html)** · *2026-09-22*
+  - Elif Eralp, de origen turco, necesitará pactar una coalición con Los Verdes y el SPD
+- **[Putin militariza el Parlamento ruso](https://elpais.com/internacional/2026-09-22/putin-militariza-el-parlamento-ruso.html)** · *2026-09-22*
+  - La formación del presidente ruso reserva decenas de escaños para veteranos. El Partido Comunista le apoya pese a denunciar el fraude electoral
+- **[Lo que estamos escuchando de los votantes latinos: los republicanos tienen las prioridades totalmente equivocadas](https://elpais.com/us/2026-09-22/lo-que-estamos-escuchando-de-los-votantes-latinos-los-republicanos-tienen-las-prioridades-totalmente-equivocadas.html)** · *2026-09-22*
+  - Los demócratas buscan ganarse el apoyo de los latinos en las ‘midterms’, enfocándose en los temas importantes: la economía, el costo de vida y la seguridad para ellos y sus familias
 - **[El estrecho infinito](https://elpais.com/internacional/2026-09-20/el-estrecho-infinito.html)** · *2026-09-20*
   - Un cierre de Ormuz prolongado y desbordado sería el punto de inflexión de unos mercados energéticos al límite y tener efectos políticos duraderos
-- **[Piloto automático hacia el Apocalipsis](https://elpais.com/internacional/2026-09-20/piloto-automatico-hacia-el-apocalipsis.html)** · *2026-09-20*
-  - La humanidad está tomando conciencia de que la Inteligencia Artificial, una tecnología que puede escapar del control de sus creadores y abocarla a la extinción
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[End of humanity? Blow-by-blow account of what would happen if the Yellowstone supervolcano erupted now](https://theconversation.com/end-of-humanity-blow-by-blow-account-of-what-would-happen-if-the-yellowstone-supervolcano-erupted-now-288649)** · *2026-09-21*
-  - Anybody within the eruption zone would be pulverised by blasts, crisped by the heat, or asphyxiated by ash.
-- **[Could AI really kill all humans? Most scenarios require physical access, making AI armageddon unlikely](https://theconversation.com/could-ai-really-kill-all-humans-most-scenarios-require-physical-access-making-ai-armageddon-unlikely-292379)** · *2026-09-21*
-  - Are the warnings of a potential AI apocalypse credible?
-- **[Forgotten Mozart notebook reveals how a young woman learned to compose](https://theconversation.com/forgotten-mozart-notebook-reveals-how-a-young-woman-learned-to-compose-292028)** · *2026-09-21*
-  - The notebook preserves something that composer-centred histories often miss: the musical work taking place around Mozart, in this case by a young woman.
-- **[Can nutrients in our foods mimic calorie restriction and increase our healthspan?](https://theconversation.com/can-nutrients-in-our-foods-mimic-calorie-restriction-and-increase-our-healthspan-290174)** · *2026-09-21*
-  - Researchers are investigating whether food compounds can imitate calorie restriction. The strongest evidence still comes from cells and animals.
-- **[View from The Hill: Albanese seeks to advance Australia’s middle power diplomacy via UN Security Council seat](https://theconversation.com/view-from-the-hill-albanese-seeks-to-advance-australias-middle-power-diplomacy-via-un-security-council-seat-291995)** · *2026-09-21*
-  - The prime minister has flagged Australia saw membership of the council as a way to enhance its interest in and voice on technology issues, including AI.
+- **[Politics with Michelle Grattan: Jim Chalmers warns rising debt bills are set to hit the budget](https://theconversation.com/politics-with-michelle-grattan-jim-chalmers-warns-rising-debt-bills-are-set-to-hit-the-budget-292589)** · *2026-09-22*
+  - The treasurer says there’s ‘likely to be billions of dollars extra’ in higher bills on government debt in December’s budget update.
+- **[What kind of a person am I? How fear and rejection can underpin OCD](https://theconversation.com/what-kind-of-a-person-am-i-how-fear-and-rejection-can-underpin-ocd-290243)** · *2026-09-22*
+  - Some people with obsessive-compulsive disorder have experienced traumatic events as children, and develop a deeply held fear of who they are or might become.
+- **[Two native turtles are vying to survive in a coastal Australian river. One doesn’t belong there](https://theconversation.com/two-native-turtles-are-vying-to-survive-in-a-coastal-australian-river-one-doesnt-belong-there-292111)** · *2026-09-22*
+  - Not all conservation threats come from overseas. Some are our own native animals.
+- **[Feuds, power and entitlement: 5 revealing royal books](https://theconversation.com/feuds-power-and-entitlement-5-revealing-royal-books-292268)** · *2026-09-22*
+  - Ahead of the release of Charles Spencer’s controversial memoir, Dennis Altman picks 5 reads shedding light on the British monarchy.
+- **[Mandate domestic mobile roaming and strip telcos of Triple Zero, inquiry recommends](https://theconversation.com/mandate-domestic-mobile-roaming-and-strip-telcos-of-triple-zero-inquiry-recommends-292466)** · *2026-09-22*
+  - A Senate inquiry report into last year’s Optus outage provides the government with a blueprint to modernise the telco industry.
 
 ## Nueva Sociedad
 
