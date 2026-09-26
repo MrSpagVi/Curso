@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-09-25 10:52 UTC_
+_Última actualización: 2026-09-26 10:33 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Cómo la amenaza de la guerra puede salvar a los grandes fabricantes europeos de automóviles](https://www.bbc.com/mundo/articles/cwj3d6v53376o?at_medium=RSS&at_campaign=rss)** · *2026-09-25*
-  - Los ejecutivos del sector automovilístico de toda Europa esperan que el rearme les ayude a volver a demostrar su poderío industrial.
-- **[Valentina Agudelo, la colombiana que creó un innovador dispositivo que identifica el riesgo de cáncer de mama en minutos y en cualquier parte](https://www.bbc.com/mundo/articles/cr89j2n7z7y0o?at_medium=RSS&at_campaign=rss)** · *2026-09-25*
-  - El cáncer de mama es uno de los más tratables, pero sigue siendo el que más mujeres mata. La clave es un diagnóstico oportuno. Y una colombiana lo está logrando,
-- **[Qué es y cómo opera Urbagestión, la empresa detrás del desalojo de la anciana Maricarmen a los 87 años en Madrid](https://www.bbc.com/mundo/articles/c68xknvz71e1o?at_medium=RSS&at_campaign=rss)** · *2026-09-24*
-  - La actividad de la empresa consiste en aumentar el valor de edificios tras comprarlos, vaciarlos de inquilinos y hacer reformas.
-- **["No sabía que mi pareja me violaba mientras dormía"](https://www.bbc.com/mundo/articles/cm4gjv80vr4zo?at_medium=RSS&at_campaign=rss)** · *2026-09-24*
-  - Adelle Overton llevaba 13 años con Steven Uden cuando descubrió que él la había estado violando mientras dormía.
-- **[Cómo la hermética comunidad Amish combate el brote de sarampión más mortal de la historia reciente en EE.UU.](https://www.bbc.com/mundo/articles/cwe9e73e8x04o?at_medium=RSS&at_campaign=rss)** · *2026-09-24*
-  - Después de 4 muertes relacionadas con el sarampión en Pensilvania, las autoridades sanitarias esperan que la gente se anime a vacunarse en privado.
+- **["Me enteré de que lo mataron por las redes sociales": el doble castigo que sufren los condenados en Arabia Saudita, uno de los países que ejecuta más personas en el mundo](https://www.bbc.com/mundo/articles/cqkgwx3zed53o?at_medium=RSS&at_campaign=rss)** · *2026-09-26*
+  - Arabia Saudita se encuentra entre los tres países con mayor número de ejecuciones, que se aplican a extranjeros en más del 40% de los casos.
+- **[Irán ofrece a EE.UU. un acuerdo para reabrir el estrecho de Ormuz en 7 días](https://www.bbc.com/mundo/articles/crx2zzgjledno?at_medium=RSS&at_campaign=rss)** · *2026-09-26*
+  - Araghchi declaró a la prensa en la sede de la ONU en Nueva York que esto podría lograrse "si se cumplen las condiciones necesarias", señalando que dichas condiciones figuran en el memorando de entendimiento firmado en junio.
+- **[¿Qué es el kratom, la "heroína de las gasolineras" que causa alarma entre las autoridades en EE.UU.?](https://www.bbc.com/mundo/articles/c6z0zzrzxk44o?at_medium=RSS&at_campaign=rss)** · *2026-09-25*
+  - Hallado durante una investigación sobre la muerte de dos estudiantes universitarios, esta hierba se vende en Estados Unidos desde hace aproximadamente una década.
+- **["Uno de los grandes misterios de la ciencia": lo que la anestesia general revela sobre cómo funciona nuestro cerebro](https://www.bbc.com/mundo/articles/cmp306q0dwd1o?at_medium=RSS&at_campaign=rss)** · *2026-09-25*
+  - Los expertos tratan de conocer qué áreas del cerebro actúan en la pérdida de la conciencia.
+- **[Declaran al Manchester City culpable de romper más de 100 reglas financieras del fútbol inglés: ¿cuál puede ser la sanción?](https://www.bbc.com/mundo/articles/cmpd00l123eno?at_medium=RSS&at_campaign=rss)** · *2026-09-25*
+  - El club inglés fue acusado de 115 cargos de infracción a las reglas que buscan poner un suelo parejo en el financiamiento del fútbol. Las consecuencias podrían ser graves.
 
 ## El País — Internacional
 
-- **[La cena de gala (y un águila calva) de Trump para agasajar a Xi Jinping](https://elpais.com/internacional/2026-09-25/la-cena-de-gala-y-un-aguila-calva-de-trump-para-agasajar-a-xi-jinping.html)** · *2026-09-25*
-  - El presidente chino ha llamado a Washington y Pekín a explorar nuevas vías de colaboración entre potencias
-- **[Netanyahu reta a una Asamblea de la ONU semivacía en protesta por su invasión de Gaza: “Acusarnos de genocidio es la mayor mentira del siglo”](https://elpais.com/internacional/2026-09-24/netanyahu-reta-a-una-asamblea-de-la-onu-semivacia-en-protesta-por-su-invasion-de-gaza-acusarnos-de-genocidio-es-la-mayor-mentira-del-siglo.html)** · *2026-09-24*
-  - El primer ministro israelí, que se juega su futuro el próximo mes en las elecciones, lanza un mensaje de dureza frente a las críticas. Abbas denuncia una “limpieza étnica” contra los palestinos
-- **[El Papa, sobre Ceuta: “Realmente es una crisis humanitaria”](https://elpais.com/internacional/2026-09-25/el-papa-sobre-ceuta-lo-he-seguido-desde-el-primer-dia-realmente-es-una-crisis-humanitaria.html)** · *2026-09-25*
-  - León XIV habla en el avión rumbo a París, y aborda cuestiones como la IA o el veto a medios en la Casa Blanca: “Es muy importante tener una buena cobertura en todas partes y para todo el mundo”
+- **[Todos contra la inmigración, pero divididos frente a Putin: qué une y qué separa a la extrema derecha europea](https://elpais.com/internacional/2026-09-26/todos-contra-la-inmigracion-pero-divididos-frente-a-putin-que-une-y-que-separa-a-la-extrema-derecha-europea.html)** · *2026-09-26*
+  - Un análisis académico de 23 partidos ultra muestra sus diferencias frente a Rusia, los derechos de la mujer o el cambio climático y unos programas a la carta destinados a “contentar” a la opinión pública
+- **[Friedrich Merz, el impopular ‘canciller de las reformas’ que lucha por mantenerse a flote](https://elpais.com/internacional/2026-09-26/friedrich-merz-el-impopular-canciller-de-las-reformas-que-lucha-por-mantenerse-a-flote.html)** · *2026-09-26*
+  - Los batacazos electorales en varias elecciones regionales de Alemania han puesto en duda el liderazgo del conservador
+- **[Yalda Moaiery, fotoperiodista iraní condenada a 15 años de prisión: “La guerra ha dado paso a la peor versión de la República Islámica”](https://elpais.com/internacional/2026-09-26/yalda-moaiery-fotoperiodista-irani-condenada-a-15-anos-de-prision-la-guerra-ha-dado-paso-a-la-peor-version-de-la-republica-islamica.html)** · *2026-09-26*
+  - Las autoridades iraníes acusaron a esta profesional, pendiente de un recurso, de espiar para Israel y Estados Unidos por cubrir para medios internacionales las protestas contra el régimen de enero
 - **[Delcy Rodríguez y Trump, la imagen del nuevo mundo](https://elpais.com/opinion/2026-09-25/delcy-rodriguez-y-trump-la-imagen-del-nuevo-mundo.html)** · *2026-09-25*
   - Los herederos de Chávez sonríen junto al pirata que se ha llevado el botín petrolífero
 - **[Logros y descalabros geopolíticos de Trump: un balance](https://elpais.com/internacional/2026-09-24/logros-y-descalabros-geopoliticos-de-trump-un-balance.html)** · *2026-09-24*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Nigeria faces the world’s highest projected death toll from super El Niño heat: what could save lives](https://theconversation.com/nigeria-faces-the-worlds-highest-projected-death-toll-from-super-el-nino-heat-what-could-save-lives-292786)** · *2026-09-25*
-  - The super El Niño could cause 31,400 extra heat deaths in Nigeria alone. Heat warnings, cooling centres and worker protections could help save lives.
-- **[Ian Berry’s Sharpeville images exposed apartheid violence to the world](https://theconversation.com/ian-berrys-sharpeville-images-exposed-apartheid-violence-to-the-world-292479)** · *2026-09-25*
-  - Ian Berry’s photographs of the Sharpeville massacre provided evidence of a crime against humanity.
-- **[Trump-XI summit aims to head off an AI arms race](https://theconversation.com/trump-xi-summit-aims-to-head-off-an-ai-arms-race-292823)** · *2026-09-25*
-  - Can the two leaders achieve the sort of rapport that helped Ronald Reagan and Mikhail Gorbachev face the threat of nuclear proliferation in the 1980s.
-- **[Trump’s US ratings drop to new record low as Democrats become clear favourites in both chambers of Congress](https://theconversation.com/trumps-us-ratings-drop-to-new-record-low-as-democrats-become-clear-favourites-in-both-chambers-of-congress-292769)** · *2026-09-25*
-  - Trump’s net approval is below what any past president since Harry Truman had at this point in their term.
-- **[Could an ‘Australian AI’ protect us from being hacked? Cybersecurity isn’t that simple](https://theconversation.com/could-an-australian-ai-protect-us-from-being-hacked-cybersecurity-isnt-that-simple-292888)** · *2026-09-25*
-  - News that an OpenAI agent hacked Medicare has prompted calls for Australia to develop its own AI system.
+- **[In ‘NAZA,’ Israeli whistleblowers’ revelations about civilian deaths in Gaza reflect a longer history of Palestinian isolation](https://theconversation.com/in-naza-israeli-whistleblowers-revelations-about-civilian-deaths-in-gaza-reflect-a-longer-history-of-palestinian-isolation-292348)** · *2026-09-25*
+  - Barriers, checkpoints and surveillance have made the plight of Palestinians easier to keep hidden. But thanks to films like ‘NAZA,’ that’s starting to change.
+- **[Trump has gotten rid of many of the checks and balances that could stop him from demolishing the Kennedy Center](https://theconversation.com/trump-has-gotten-rid-of-many-of-the-checks-and-balances-that-could-stop-him-from-demolishing-the-kennedy-center-292436)** · *2026-09-25*
+  - A hierarchy of oversight for the iconic arts venue has essentially collapsed.
+- **[Trump frames unregulated AI as a way to keep ahead of China – but in fact, it harms US national security](https://theconversation.com/trump-frames-unregulated-ai-as-a-way-to-keep-ahead-of-china-but-in-fact-it-harms-us-national-security-292642)** · *2026-09-25*
+  - An unregulated sector has risks in itself but will also aid the rapid advancement of AI in China.
+- **[Arsenal’s Mikel Arteta uses ‘desirable difficulties’ to prepare his players – is this a good coaching strategy?](https://theconversation.com/arsenals-mikel-arteta-uses-desirable-difficulties-to-prepare-his-players-is-this-a-good-coaching-strategy-292813)** · *2026-09-25*
+  - Arteta’s tactics include delaying the players’ meals, unexpectedly changing their travel plans, and making dressing rooms hotter.
+- **[BBC climate thriller The Rapture isn’t so far-fetched](https://theconversation.com/bbc-climate-thriller-the-rapture-isnt-so-far-fetched-291702)** · *2026-09-25*
+  - We are not wired to deal with the complexity of climate change – but we can tune into relatable stories that emphasise common experiences and values.
 
 ## Nueva Sociedad
 
