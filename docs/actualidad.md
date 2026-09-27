@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-09-26 10:33 UTC_
+_Última actualización: 2026-09-27 11:05 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
+- **[Por qué un nuevo pacto fronterizo entre Pakistán y China enfurece a India](https://www.bbc.com/mundo/articles/cqgmrp4kr88yo?at_medium=RSS&at_campaign=rss)** · *2026-09-27*
+  - Un acuerdo de fronteras entre China y Pakistán desafía las reivindicaciones territoriales de India y profundiza las preocupaciones estratégicas sobre la disputada región de Cachemira.
+- **[Trump rechaza la oferta de Irán para reabrir el estrecho de Ormuz en 7 días](https://www.bbc.com/mundo/articles/crx2zzgjledno?at_medium=RSS&at_campaign=rss)** · *2026-09-26*
+  - El fin del conflicto entre Irán y Estados Unidos parece cada vez más lejano, después de que el presidente estadounidense calificara de "inaceptable" la última oferta presentada por Teherán.
 - **["Me enteré de que lo mataron por las redes sociales": el doble castigo que sufren los condenados en Arabia Saudita, uno de los países que ejecuta más personas en el mundo](https://www.bbc.com/mundo/articles/cqkgwx3zed53o?at_medium=RSS&at_campaign=rss)** · *2026-09-26*
   - Arabia Saudita se encuentra entre los tres países con mayor número de ejecuciones, que se aplican a extranjeros en más del 40% de los casos.
-- **[Irán ofrece a EE.UU. un acuerdo para reabrir el estrecho de Ormuz en 7 días](https://www.bbc.com/mundo/articles/crx2zzgjledno?at_medium=RSS&at_campaign=rss)** · *2026-09-26*
-  - Araghchi declaró a la prensa en la sede de la ONU en Nueva York que esto podría lograrse "si se cumplen las condiciones necesarias", señalando que dichas condiciones figuran en el memorando de entendimiento firmado en junio.
-- **[¿Qué es el kratom, la "heroína de las gasolineras" que causa alarma entre las autoridades en EE.UU.?](https://www.bbc.com/mundo/articles/c6z0zzrzxk44o?at_medium=RSS&at_campaign=rss)** · *2026-09-25*
-  - Hallado durante una investigación sobre la muerte de dos estudiantes universitarios, esta hierba se vende en Estados Unidos desde hace aproximadamente una década.
-- **["Uno de los grandes misterios de la ciencia": lo que la anestesia general revela sobre cómo funciona nuestro cerebro](https://www.bbc.com/mundo/articles/cmp306q0dwd1o?at_medium=RSS&at_campaign=rss)** · *2026-09-25*
-  - Los expertos tratan de conocer qué áreas del cerebro actúan en la pérdida de la conciencia.
-- **[Declaran al Manchester City culpable de romper más de 100 reglas financieras del fútbol inglés: ¿cuál puede ser la sanción?](https://www.bbc.com/mundo/articles/cmpd00l123eno?at_medium=RSS&at_campaign=rss)** · *2026-09-25*
-  - El club inglés fue acusado de 115 cargos de infracción a las reglas que buscan poner un suelo parejo en el financiamiento del fútbol. Las consecuencias podrían ser graves.
+- **[Quién fue Francisco Morazán y por qué Bukele mandó ahora trasladar sus restos a un nuevo mausoleo](https://www.bbc.com/mundo/articles/cq98609xx5p6o?at_medium=RSS&at_campaign=rss)** · *2026-09-26*
+  - Los restos de Francisco Morazán fueron trasladados a un nuevo mausoleo durante una ceremonia cargada de simbolismo. ¿Quién fue este caudillo militar y qué representa hoy para Nayib Bukele?
+- **["Nadie había escuchado nada parecido": el extraordinario momento en que el mundo se dio cuenta de que las ballenas cantan](https://www.bbc.com/mundo/articles/cjg49p0d1qk3o?at_medium=RSS&at_campaign=rss)** · *2026-09-26*
+  - Una serie de descubrimientos en las décadas de 1950, 1960 y 1970 revolucionaron lo que sabíamos sobre las ballenas, convirtiéndolas en los carismáticos animales que conocemos hoy en día.
 
 ## El País — Internacional
 
-- **[Todos contra la inmigración, pero divididos frente a Putin: qué une y qué separa a la extrema derecha europea](https://elpais.com/internacional/2026-09-26/todos-contra-la-inmigracion-pero-divididos-frente-a-putin-que-une-y-que-separa-a-la-extrema-derecha-europea.html)** · *2026-09-26*
-  - Un análisis académico de 23 partidos ultra muestra sus diferencias frente a Rusia, los derechos de la mujer o el cambio climático y unos programas a la carta destinados a “contentar” a la opinión pública
-- **[Friedrich Merz, el impopular ‘canciller de las reformas’ que lucha por mantenerse a flote](https://elpais.com/internacional/2026-09-26/friedrich-merz-el-impopular-canciller-de-las-reformas-que-lucha-por-mantenerse-a-flote.html)** · *2026-09-26*
-  - Los batacazos electorales en varias elecciones regionales de Alemania han puesto en duda el liderazgo del conservador
-- **[Yalda Moaiery, fotoperiodista iraní condenada a 15 años de prisión: “La guerra ha dado paso a la peor versión de la República Islámica”](https://elpais.com/internacional/2026-09-26/yalda-moaiery-fotoperiodista-irani-condenada-a-15-anos-de-prision-la-guerra-ha-dado-paso-a-la-peor-version-de-la-republica-islamica.html)** · *2026-09-26*
-  - Las autoridades iraníes acusaron a esta profesional, pendiente de un recurso, de espiar para Israel y Estados Unidos por cubrir para medios internacionales las protestas contra el régimen de enero
-- **[Delcy Rodríguez y Trump, la imagen del nuevo mundo](https://elpais.com/opinion/2026-09-25/delcy-rodriguez-y-trump-la-imagen-del-nuevo-mundo.html)** · *2026-09-25*
-  - Los herederos de Chávez sonríen junto al pirata que se ha llevado el botín petrolífero
-- **[Logros y descalabros geopolíticos de Trump: un balance](https://elpais.com/internacional/2026-09-24/logros-y-descalabros-geopoliticos-de-trump-un-balance.html)** · *2026-09-24*
-  - El presidente de EE UU presumió en la ONU de sus éxitos. La realidad es que sus victorias se ven desbordadas por los fracasos
+- **[Europa se atrinchera frente a la guerra híbrida de Rusia](https://elpais.com/internacional/2026-09-27/europa-se-atrinchera-frente-a-la-guerra-hibrida-de-rusia.html)** · *2026-09-27*
+  - Los aliados europeos de Ucrania refuerzan su seguridad ante el aumento de los sabotajes y acciones hostiles del Kremlin
+- **[La escalada rusa alimenta el debate en el flanco oriental de la OTAN sobre la capacidad de respuesta aliada](https://elpais.com/internacional/2026-09-27/la-escalada-rusa-alimenta-el-debate-en-el-flanco-oriental-de-la-otan-sobre-la-capacidad-de-respuesta-aliada.html)** · *2026-09-27*
+  - Polonia multiplica las advertencias sobre la agresividad creciente de Moscú, mientras los países bálticos intentan contener el alarmismo ante una amenaza que consideran real pero no inminente
+- **[La policía británica detiene a varios sospechosos por manejar explosivos cerca de la base militar aérea de Fairford](https://elpais.com/internacional/2026-09-27/la-policia-britanica-detiene-a-varios-sospechosos-por-manejar-explosivos-cerca-de-la-base-militar-aerea-de-fairford.html)** · *2026-09-27*
+  - Cazas estadounidenses utilizan las instalaciones para participar en la ofensiva contra Irán
+- **[¿Teléfono rojo? Volamos hacia Pekín](https://elpais.com/internacional/2026-09-27/telefono-rojo-volamos-hacia-pekin.html)** · *2026-09-27*
+  - China ha sustituido a la Unión Soviética en su disputa por el liderazgo mundial. Y ya no es el arma atómica el emblema de la bipolaridad, sino la Inteligencia Artificial, de idénticas si no mayores potencialidades letales para el conjunto…
+- **[Trump es un ‘loser’, un perdedor](https://elpais.com/opinion/2026-09-27/trump-es-un-loser-un-perdedor.html)** · *2026-09-27*
+  - El presidente de EE UU canta siempre victoria incluso en sus palmarias derrotas
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
+- **[Xenia Fedorova, or how Russian propaganda turns free thinking on itself](https://theconversation.com/xenia-fedorova-or-how-russian-propaganda-turns-free-thinking-on-itself-292858)** · *2026-09-27*
+  - The Fedorova case is emblematic of a rhetorical method used by Russian propaganda: appealing to the targeted public’s critical thinking to convince them to disregard sources seen as “official” and “dominant.”
+- **[Africa’s mineral strength is wasted if countries don’t work together – new report](https://theconversation.com/africas-mineral-strength-is-wasted-if-countries-dont-work-together-new-report-290306)** · *2026-09-27*
+  - Africa has the minerals to power the green transition. Capturing more value means countries must pool market power and build shared capabilities.
+- **[Online attacks on Kenyan journalists: what makes audiences join in, push back or stay silent](https://theconversation.com/online-attacks-on-kenyan-journalists-what-makes-audiences-join-in-push-back-or-stay-silent-291471)** · *2026-09-27*
+  - Whether the public rallies to defend journalists can depend on whether audiences believe they deserve that support.
+- **[Stripped titles? Compensating rivals? How the Manchester City cheating scandal could play out](https://theconversation.com/stripped-titles-compensating-rivals-how-the-manchester-city-cheating-scandal-could-play-out-292970)** · *2026-09-26*
+  - Manchester City could be facing enormous sanctions for cheating – and the fallout may spread to its 13 teams around the world, from New York to Melbourne.
 - **[In ‘NAZA,’ Israeli whistleblowers’ revelations about civilian deaths in Gaza reflect a longer history of Palestinian isolation](https://theconversation.com/in-naza-israeli-whistleblowers-revelations-about-civilian-deaths-in-gaza-reflect-a-longer-history-of-palestinian-isolation-292348)** · *2026-09-25*
   - Barriers, checkpoints and surveillance have made the plight of Palestinians easier to keep hidden. But thanks to films like ‘NAZA,’ that’s starting to change.
-- **[Trump has gotten rid of many of the checks and balances that could stop him from demolishing the Kennedy Center](https://theconversation.com/trump-has-gotten-rid-of-many-of-the-checks-and-balances-that-could-stop-him-from-demolishing-the-kennedy-center-292436)** · *2026-09-25*
-  - A hierarchy of oversight for the iconic arts venue has essentially collapsed.
-- **[Trump frames unregulated AI as a way to keep ahead of China – but in fact, it harms US national security](https://theconversation.com/trump-frames-unregulated-ai-as-a-way-to-keep-ahead-of-china-but-in-fact-it-harms-us-national-security-292642)** · *2026-09-25*
-  - An unregulated sector has risks in itself but will also aid the rapid advancement of AI in China.
-- **[Arsenal’s Mikel Arteta uses ‘desirable difficulties’ to prepare his players – is this a good coaching strategy?](https://theconversation.com/arsenals-mikel-arteta-uses-desirable-difficulties-to-prepare-his-players-is-this-a-good-coaching-strategy-292813)** · *2026-09-25*
-  - Arteta’s tactics include delaying the players’ meals, unexpectedly changing their travel plans, and making dressing rooms hotter.
-- **[BBC climate thriller The Rapture isn’t so far-fetched](https://theconversation.com/bbc-climate-thriller-the-rapture-isnt-so-far-fetched-291702)** · *2026-09-25*
-  - We are not wired to deal with the complexity of climate change – but we can tune into relatable stories that emphasise common experiences and values.
 
 ## Nueva Sociedad
 
