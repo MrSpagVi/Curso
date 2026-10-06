@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-10-05 13:07 UTC_
+_Última actualización: 2026-10-06 12:28 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Pedro Sánchez convoca elecciones anticipadas tras el fracaso en el Congreso de sus decretos para enfrentar la crisis de la vivienda en España](https://www.bbc.com/mundo/articles/crgj9408el84o?at_medium=RSS&at_campaign=rss)** · *2026-10-05*
-  - El anuncio de Sánchez se produce tras varios días de protestas en el país europeo, surgidas a raíz del desalojo de la anciana Maricarmen. Las elecciones se celebrarán el próximo 29 de noviembre.
-- **[Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después](https://www.bbc.com/mundo/articles/cqvgjdkrmr7ro?at_medium=RSS&at_campaign=rss)** · *2026-10-05*
-  - El senador derechista pasa fortalecido al balotaje contra el presidente de izquierda tras obtener más votos en la primera vuelta contra varios pronósticos, pero la elección sigue abierta.
-- **["Estamos listos para ir de inmediato": los millonarios cubanoestadounidenses que esperan en Miami que caiga el gobierno de Cuba](https://www.bbc.com/mundo/articles/cq8jzlyz7yrpo?at_medium=RSS&at_campaign=rss)** · *2026-10-05*
-  - Los exiliados cubanos en Florida tienen cada vez más esperanzas de que un cambio de régimen en Cuba esté ahora a la vista.
-- **[El "interruptor de luz" para neuronas por el que 3 científicos ganaron el Nobel de Medicina y que ayuda a descifrar los misterios del cerebro](https://www.bbc.com/mundo/articles/cx7vp6974q15o?at_medium=RSS&at_campaign=rss)** · *2026-10-05*
-  - Te explicamos qué es la optogenética, la disciplina por la que Karl Deisseroth, Peter Hegemann y Georg Nagel ganaron el Nobel de Medicina.
-- **[Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva](https://www.bbc.com/mundo/articles/c6pwg8rxyq7go?at_medium=RSS&at_campaign=rss)** · *2026-10-05*
-  - En los últimos años, la mayor marca de ropa deportiva del planeta perdió ventas y clientes frente a su competencia. ¿Qué está pasando?
+- **[La investigación de la BBC que reveló cómo Putin está ampliando su residencia en el mar Negro que apenas visita](https://www.bbc.com/mundo/articles/c84g19k9nvn9o?at_medium=RSS&at_campaign=rss)** · *2026-10-06*
+  - Imágenes satelitales revelan una importante transformación llevada a cabo en la residencia durante la guerra, mientras que los registros judiciales y los anuncios de empleo con pago en efectivo exponen el rastro documental oculto de este…
+- **[EE.UU. "sigue de cerca" el caso de una científica rusa que falleció en un centro de investigación de la peste en Siberia](https://www.bbc.com/mundo/articles/cx5yn8y1yg2qo?at_medium=RSS&at_campaign=rss)** · *2026-10-05*
+  - El secretario de Estado, Marco Rubio, expresó su preocupación de que el incidente pudiera haber provocado la propagación de la peste neumónica, aunque señaló que no había motivos para alarmarse.
+- **[Qué tiene Chapinero Alto en Bogotá para que lo hayan elegido como el barrio más cool de América Latina](https://www.bbc.com/mundo/articles/c60qxqeyx8xjo?at_medium=RSS&at_campaign=rss)** · *2026-10-06*
+  - Un barrio vibrante en la muchas veces denostada capital colombiana atrae las miradas del mundo. Residentes y urbanistas debaten sus beneficios y problemas.
+- **[5 ejercicios para proteger tu cuello del estrés y la mala postura](https://www.bbc.com/mundo/articles/c6x2w5kel5edo?at_medium=RSS&at_campaign=rss)** · *2026-10-06*
+  - El mundo moderno supone un reto para el cuello, pero hay mucho que podemos hacer para mitigar la aparición de problemas.
+- **[Qué son los neutrinos, las "partículas fantasma" del universo por las que el belga Francis Halzen ganó el Nobel de Física](https://www.bbc.com/mundo/articles/ckpdgvzn0v51o?at_medium=RSS&at_campaign=rss)** · *2026-10-06*
+  - Te contamos qué son los neutrinos, las elusivas partículas por las que el físico belga Francis Halzen fue galardonado con el Premio Nobel de Física.
 
 ## El País — Internacional
 
-- **[Pedro Sánchez, único líder socialdemócrata en una UE derechizada, activa el súper año electoral en Europa](https://elpais.com/internacional/2026-10-05/pedro-sanchez-unico-lider-socialdemocrata-en-una-ue-derechizada-activa-el-super-ano-electoral-en-europa.html)** · *2026-10-05*
-  - El español ha sido el referente de la izquierda europea con su postura sobre Gaza, la defensa, Trump y la agenda verde
-- **[Bruselas plantea retirar el derecho al voto a los nuevos miembros de la UE si no cumplen las reglas](https://elpais.com/internacional/2026-10-05/bruselas-plantea-retirar-el-derecho-al-voto-a-los-nuevos-miembros-de-la-ue-si-no-cumplen-las-reglas.html)** · *2026-10-05*
-  - La Comisión Europea avisa de que la ampliación requerirá reformas y propone recortar el número de comisarios e implantar un sistema rotatorio
-- **[Bolsonaro vence a Lula en primera vuelta de las elecciones y acaricia el retorno de la ultraderecha al poder en Brasil](https://elpais.com/america/2026-10-05/bolsonaro-vence-a-lula-en-primera-vuelta-y-acaricia-el-retorno-de-la-ultraderecha-al-poder-en-brasil.html)** · *2026-10-05*
-  - El senador, hijo del expresidente condenado por golpismo, logra el 47,1% de los votos frente al 45% del mandatario izquierdista. Ambos se medirán en la segunda vuelta del 25 de octubre
-- **[El apellido Bolsonaro gana desde la cárcel](https://elpais.com/america/2026-10-05/el-apellido-bolsonaro-gana-desde-la-carcel.html)** · *2026-10-05*
-  - Mayor bancada de la Cámara desde 2022, el Partido Liberal pasa a dominar también el Senado, con 28 de los 81 escaños, más del triple que el partido de Lula
-- **[Arrasadora victoria de la derecha en Brasil](https://elpais.com/america/2026-10-05/arrasadora-victoria-de-la-derecha-en-brasil.html)** · *2026-10-05*
-  - Lula tendrá que volver a construir en pocas semanas una coalición que en 2022 nació del rechazo a Jair Bolsonaro
+- **[La extrema derecha consigue la primera presidencia de un Parlamento en Alemania: “Terminó la idiotez del cordón sanitario”:](https://elpais.com/internacional/2026-10-06/la-extrema-derecha-consigue-la-primera-presidencia-de-un-parlamento-en-alemania-termino-la-idiotez-del-cordon-sanitario.html)** · *2026-10-06*
+  - Un mes después de la victoria de AfD en Sajonia-Anhalt, Tobias Rausch encabezará la Cámara regional con el apoyo de la izquierda nacionalista y de diputados de la CDU
+- **[Alemania arresta al exjefe de su servicio de inteligencia en el exterior acusado de alta traición](https://elpais.com/internacional/2026-10-06/alemania-arresta-al-exjefe-de-su-servicio-de-inteligencia-en-el-exterior-acusado-de-alta-traicion.html)** · *2026-10-06*
+  - La Fiscalía investiga a August Hanning, de 80 años, por trabajar para otro país tras dejar el cargo
+- **[¿Por qué la izquierda de Die Linke da miedo en Alemania?](https://elpais.com/internacional/2026-10-06/por-que-la-izquierda-de-die-linke-da-miedo-en-alemania.html)** · *2026-10-06*
+  - El Ejecutivo federal, la justicia, los servicios secretos, medios de comunicación y la comunidad judía advierten de las posiciones radicales de la formación, que ganó las elecciones en Berlín el 20 de septiembre
+- **[La ola conservadora de América Latina llega a Brasil](https://elpais.com/america/2026-10-05/la-ola-conservadora-de-america-latina-llega-a-brasil.html)** · *2026-10-05*
+  - Un triunfo del candidato afín a Trump cambiaría la relación con Washington menos de lo que parece
+- **[El lulismo cruje ante la ofensiva ultra](https://elpais.com/america/2026-10-05/el-lulismo-cruje-ante-la-ofensiva-ultra.html)** · *2026-10-05*
+  - Si se cae el dique brasileño, la ‘trumpización de América Latina’ dará un salto político y geopolítico aún difícil de dimensionar, pero también se fortalecerá una derecha tan oscura como violenta en el país más grande de la región
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[US migrant flights to Liberia evoke troubling history of sending people deemed unwanted to the West African nation](https://theconversation.com/us-migrant-flights-to-liberia-evoke-troubling-history-of-sending-people-deemed-unwanted-to-the-west-african-nation-293186)** · *2026-10-05*
-  - In the 1800s, West Africa became a focal point for efforts to remove Black people from America. The arrival of free people later gave the country its name.
-- **[Daily doses of ‘digital ibuprofen’: how burnt-out Chinese youth soothe their anxieties](https://theconversation.com/daily-doses-of-digital-ibuprofen-how-burnt-out-chinese-youth-soothe-their-anxieties-293143)** · *2026-10-05*
-  - Stories of cute furry animals that manage to find moments of joy while doing crushing jobs are bringing some solace to a generation of burnt-out workers.
-- **[Fewer Americans are getting help buying groceries from SNAP benefits as states grapple with the program’s cascade of changes](https://theconversation.com/fewer-americans-are-getting-help-buying-groceries-from-snap-benefits-as-states-grapple-with-the-programs-cascade-of-changes-292829)** · *2026-10-05*
-  - Some of these changes have already taken effect. Others that are a year or more away could make it hard for some states to keep participating in the program at all.
-- **[Why it’s more important than ever to jump-start entrepreneurial careers from the college classroom](https://theconversation.com/why-its-more-important-than-ever-to-jump-start-entrepreneurial-careers-from-the-college-classroom-292831)** · *2026-10-05*
-  - Hands-on learning about building a business is something students of all majors can benefit from.
-- **[What 1,000 years of golden roses tell us about popes’ authority and influence, from Leo IX to Leo XIV](https://theconversation.com/what-1-000-years-of-golden-roses-tell-us-about-popes-authority-and-influence-from-leo-ix-to-leo-xiv-293311)** · *2026-10-05*
-  - Popes have bestowed golden roses on warriors, rulers, women – and, increasingly in recent decades, shrines.
+- **[October 7: a Palestinian-Israeli memoir seeks to break the cycle of violence](https://theconversation.com/october-7-a-palestinian-israeli-memoir-seeks-to-break-the-cycle-of-violence-293403)** · *2026-10-06*
+  - The Future is Peace, by Maoz Inon and Aziz Abu Sarah, offers a rare example of “resolution media”.
+- **[Why old dogs might be able to teach Alzheimer’s researchers new tricks](https://theconversation.com/why-old-dogs-might-be-able-to-teach-alzheimers-researchers-new-tricks-291257)** · *2026-10-06*
+  - As dogs age, their brains undergo similar changes to human brains, making them a valuable natural model to study dementia and other neurodegenerative diseases.
+- **[Taylor Swift’s new video marks her ghostly return to Daphne du Maurier’s Rebecca](https://theconversation.com/taylor-swifts-new-video-marks-her-ghostly-return-to-daphne-du-mauriers-rebecca-293469)** · *2026-10-06*
+  - Taylor Swift’s ‘Patient Zero’ retells Daphne du Maurier’s classic Gothic novel, giving Rebecca a chance to speak for herself.
+- **[The UK and Denmark: a dentist assesses the state of the nations’ teeth](https://theconversation.com/the-uk-and-denmark-a-dentist-assesses-the-state-of-the-nations-teeth-283019)** · *2026-10-06*
+  - England and Denmark are both wealthy, welfare-minded nations – so why is one catching dental problems early, and the other catching up?
+- **[What helps children feel safe at school?](https://theconversation.com/what-helps-children-feel-safe-at-school-250858)** · *2026-10-06*
+  - schools can provide a supportive environment that allows children to explore, but also to return to safety when they feel vulnerable.
 
 ## Nueva Sociedad
 
