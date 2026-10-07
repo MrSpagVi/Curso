@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-10-06 12:28 UTC_
+_Última actualización: 2026-10-07 12:22 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[La investigación de la BBC que reveló cómo Putin está ampliando su residencia en el mar Negro que apenas visita](https://www.bbc.com/mundo/articles/c84g19k9nvn9o?at_medium=RSS&at_campaign=rss)** · *2026-10-06*
-  - Imágenes satelitales revelan una importante transformación llevada a cabo en la residencia durante la guerra, mientras que los registros judiciales y los anuncios de empleo con pago en efectivo exponen el rastro documental oculto de este…
-- **[EE.UU. "sigue de cerca" el caso de una científica rusa que falleció en un centro de investigación de la peste en Siberia](https://www.bbc.com/mundo/articles/cx5yn8y1yg2qo?at_medium=RSS&at_campaign=rss)** · *2026-10-05*
-  - El secretario de Estado, Marco Rubio, expresó su preocupación de que el incidente pudiera haber provocado la propagación de la peste neumónica, aunque señaló que no había motivos para alarmarse.
-- **[Qué tiene Chapinero Alto en Bogotá para que lo hayan elegido como el barrio más cool de América Latina](https://www.bbc.com/mundo/articles/c60qxqeyx8xjo?at_medium=RSS&at_campaign=rss)** · *2026-10-06*
-  - Un barrio vibrante en la muchas veces denostada capital colombiana atrae las miradas del mundo. Residentes y urbanistas debaten sus beneficios y problemas.
-- **[5 ejercicios para proteger tu cuello del estrés y la mala postura](https://www.bbc.com/mundo/articles/c6x2w5kel5edo?at_medium=RSS&at_campaign=rss)** · *2026-10-06*
-  - El mundo moderno supone un reto para el cuello, pero hay mucho que podemos hacer para mitigar la aparición de problemas.
-- **[Qué son los neutrinos, las "partículas fantasma" del universo por las que el belga Francis Halzen ganó el Nobel de Física](https://www.bbc.com/mundo/articles/ckpdgvzn0v51o?at_medium=RSS&at_campaign=rss)** · *2026-10-06*
-  - Te contamos qué son los neutrinos, las elusivas partículas por las que el físico belga Francis Halzen fue galardonado con el Premio Nobel de Física.
+- **["Uno de cada cuatro de nosotros fue secuestrado o asesinado": cómo intentan reconstruir sus vidas los residentes de un kibutz israelí devastado por los ataques de Hamás del 7 de octubre](https://www.bbc.com/mundo/articles/c6jrw4wl90eqo?at_medium=RSS&at_campaign=rss)** · *2026-10-07*
+  - Tres años después del ataque a Nir Oz, en el que murieron 47 personas y 76 fueron tomadas como rehenes, algunos sobrevivientes han regresado a vivir allí. Los recuerdos son difíciles e imborrables.
+- **[Cómo se ha degradado la "relación estratégica" que mantienen Venezuela y Cuba desde hace años tras la captura de Maduro](https://www.bbc.com/mundo/articles/c5dj4j739013o?at_medium=RSS&at_campaign=rss)** · *2026-10-07*
+  - Nueves meses después de la captura de Maduro, la alianza estratégica forjada durante más de un cuarto de siglo entre ambos gobiernos da señales de debilitamiento.
+- **[El creciente acercamiento de España a China y las tensiones que provoca en la Unión Europea](https://www.bbc.com/mundo/articles/cw054jpyp84po?at_medium=RSS&at_campaign=rss)** · *2026-10-07*
+  - En medio de la agitación mundial, las estrechas relaciones entre ambos países despiertan recelos dentro de la Unión Europea.
+- **[Premian con el Nobel de Química a dos investigadores que revolucionaron la fabricación de medicamentos, fragancias y nuevos materiales](https://www.bbc.com/mundo/articles/cx2405jy841yo?at_medium=RSS&at_campaign=rss)** · *2026-10-07*
+  - El jurado señaló que sus descubrimientos contribuyeron a resolver "uno de los mayores misterios de la química".
+- **[Los hábitos ocultos que empeoran tu ansiedad social (y cómo romperlos)](https://www.bbc.com/mundo/articles/cwj345v8ldz5o?at_medium=RSS&at_campaign=rss)** · *2026-10-07*
+  - La afección es más común de lo que muchos creen. Te explicamos qué es y qué recomiendan los expertos para superarla.
 
 ## El País — Internacional
 
-- **[La extrema derecha consigue la primera presidencia de un Parlamento en Alemania: “Terminó la idiotez del cordón sanitario”:](https://elpais.com/internacional/2026-10-06/la-extrema-derecha-consigue-la-primera-presidencia-de-un-parlamento-en-alemania-termino-la-idiotez-del-cordon-sanitario.html)** · *2026-10-06*
-  - Un mes después de la victoria de AfD en Sajonia-Anhalt, Tobias Rausch encabezará la Cámara regional con el apoyo de la izquierda nacionalista y de diputados de la CDU
-- **[Alemania arresta al exjefe de su servicio de inteligencia en el exterior acusado de alta traición](https://elpais.com/internacional/2026-10-06/alemania-arresta-al-exjefe-de-su-servicio-de-inteligencia-en-el-exterior-acusado-de-alta-traicion.html)** · *2026-10-06*
-  - La Fiscalía investiga a August Hanning, de 80 años, por trabajar para otro país tras dejar el cargo
-- **[¿Por qué la izquierda de Die Linke da miedo en Alemania?](https://elpais.com/internacional/2026-10-06/por-que-la-izquierda-de-die-linke-da-miedo-en-alemania.html)** · *2026-10-06*
-  - El Ejecutivo federal, la justicia, los servicios secretos, medios de comunicación y la comunidad judía advierten de las posiciones radicales de la formación, que ganó las elecciones en Berlín el 20 de septiembre
+- **[Israel revive dividido y en plena campaña electoral el dolor del ataque de Hamás en 2023](https://elpais.com/internacional/2026-10-07/israel-revive-dividido-y-en-plena-campana-electoral-el-dolor-del-ataque-de-hamas-en-2023.html)** · *2026-10-07*
+  - El país recuerda a las más de 1.200 víctimas en un aniversario impregnado por la cercanía de los comicios, que medirán la responsabilidad política de Netanyahu
+- **[Tres años de sufrimiento en Gaza: “Aquel 7 de octubre sentí que nuestras vidas acabarían destrozadas. Es lo que ha sucedido”](https://elpais.com/internacional/2026-10-07/tres-anos-de-sufrimiento-en-gaza-aquel-7-de-octubre-senti-que-nuestras-vidas-acabarian-destrozadas-es-lo-que-ha-sucedido.html)** · *2026-10-07*
+  - Los palestinos de la Franja siguen padeciendo la brutal reacción israelí al ataque de Hamás. Reprochan a los países árabes su inacción y cada vez apoyan menos al movimiento islamista
+- **[La OMS exige más información a Rusia sobre el supuesto brote de peste tras la cuarentena de varios hospitales](https://elpais.com/internacional/2026-10-07/la-organizacion-mundial-de-la-salud-exige-mas-informacion-a-rusia-sobre-el-supuesto-brote-de-peste-tras-la-cuarentena-de-varios-hospitales.html)** · *2026-10-07*
+  - La opacidad alimenta el pánico sobre la crisis sanitaria, aunque Moscú sostiene que no ha registrado “ningún caso de enfermedad peligrosa”. Trump dice que tiene una conversación pendiente con Putin sobre el asunto
 - **[La ola conservadora de América Latina llega a Brasil](https://elpais.com/america/2026-10-05/la-ola-conservadora-de-america-latina-llega-a-brasil.html)** · *2026-10-05*
   - Un triunfo del candidato afín a Trump cambiaría la relación con Washington menos de lo que parece
 - **[El lulismo cruje ante la ofensiva ultra](https://elpais.com/america/2026-10-05/el-lulismo-cruje-ante-la-ofensiva-ultra.html)** · *2026-10-05*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[October 7: a Palestinian-Israeli memoir seeks to break the cycle of violence](https://theconversation.com/october-7-a-palestinian-israeli-memoir-seeks-to-break-the-cycle-of-violence-293403)** · *2026-10-06*
-  - The Future is Peace, by Maoz Inon and Aziz Abu Sarah, offers a rare example of “resolution media”.
-- **[Why old dogs might be able to teach Alzheimer’s researchers new tricks](https://theconversation.com/why-old-dogs-might-be-able-to-teach-alzheimers-researchers-new-tricks-291257)** · *2026-10-06*
-  - As dogs age, their brains undergo similar changes to human brains, making them a valuable natural model to study dementia and other neurodegenerative diseases.
-- **[Taylor Swift’s new video marks her ghostly return to Daphne du Maurier’s Rebecca](https://theconversation.com/taylor-swifts-new-video-marks-her-ghostly-return-to-daphne-du-mauriers-rebecca-293469)** · *2026-10-06*
-  - Taylor Swift’s ‘Patient Zero’ retells Daphne du Maurier’s classic Gothic novel, giving Rebecca a chance to speak for herself.
-- **[The UK and Denmark: a dentist assesses the state of the nations’ teeth](https://theconversation.com/the-uk-and-denmark-a-dentist-assesses-the-state-of-the-nations-teeth-283019)** · *2026-10-06*
-  - England and Denmark are both wealthy, welfare-minded nations – so why is one catching dental problems early, and the other catching up?
-- **[What helps children feel safe at school?](https://theconversation.com/what-helps-children-feel-safe-at-school-250858)** · *2026-10-06*
-  - schools can provide a supportive environment that allows children to explore, but also to return to safety when they feel vulnerable.
+- **[The circumstances you grow up in are linked to how long you live](https://theconversation.com/the-circumstances-you-grow-up-in-are-linked-to-how-long-you-live-293460)** · *2026-10-07*
+  - Growing up in disadvantaged circumstances is linked to higher death rates decades later, according to a review of 102 studies involving 8.5 million people.
+- **[Can picking up a book really improve your brain?](https://theconversation.com/can-picking-up-a-book-really-improve-your-brain-292274)** · *2026-10-07*
+  - Reading draws on brain systems involved in language and imagination. Studies are exploring how it relates to wellbeing and understanding others.
+- **[Prosecution of Kosovan leader Hashim Thaçi illustrates the challenges of bringing war criminals to justice](https://theconversation.com/prosecution-of-kosovan-leader-hashim-thaci-illustrates-the-challenges-of-bringing-war-criminals-to-justice-292534)** · *2026-10-07*
+  - It took 27 years after the end of hostilities in Kosovo to bring the leader of the KLA to book for his war crimes.
+- **[Success for Andy Burnham’s national care service will depend on home essentials](https://theconversation.com/success-for-andy-burnhams-national-care-service-will-depend-on-home-essentials-293641)** · *2026-10-07*
+  - The prime minister wants to create a social care system to mirror the NHS.
+- **[Smokers have a lower risk of Parkinson’s – we may have found out why](https://theconversation.com/smokers-have-a-lower-risk-of-parkinsons-we-may-have-found-out-why-293270)** · *2026-10-07*
+  - Why do smokers get Parkinson’s less often? New evidence from half a million adults in China points to carbon monoxide, not smoking itself.
 
 ## Nueva Sociedad
 
