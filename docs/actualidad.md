@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-10-16 10:23 UTC_
+_Última actualización: 2026-10-17 09:55 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Investigación BBC: el ejército de Israel no ha hecho públicos los resultados de cientos de pesquisas por muertos y heridos en Medio Oriente](https://www.bbc.com/mundo/articles/c69wzgv94g11o?at_medium=RSS&at_campaign=rss)** · *2026-10-16*
-  - BBC Verify ha identificado 254 incidentes de los últimos tres años que el ejército israelí ha declarado estar revisando tras haber sido acusado de causar daños, pero sin informar los resultados.
-- **[Un adolescente de 16 años mata a al menos 3 niños y un maestro en un tiroteo en una escuela primaria de Oregón](https://www.bbc.com/mundo/articles/ckj0l9lrenq6o?at_medium=RSS&at_campaign=rss)** · *2026-10-16*
-  - El incidente ocurrió en la escuela Silver Rail de la localidad de Bend alrededor de las 13:00, hora local. El sospechoso fue abatido, indicó la policía.
-- **[Los rancheros que se cuestionan haber apoyado a Trump en Nebraska, gran bastión del presidente](https://www.bbc.com/mundo/articles/cwm235lgg69lo?at_medium=RSS&at_campaign=rss)** · *2026-10-15*
-  - Muchos ganaderos de estados que apoyaron al presidente muestran su descontento a tan solo unas semanas de las cruciales elecciones de mitad de mandato.
-- **[Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia](https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss)** · *2026-10-16*
-  - Starlink es considerada la "columna vertebral de las comunicaciones militares en Ucrania", proporcionando internet de alta velocidad vital a las fuerzas armadas en todo el país.
-- **[Por qué la estafadora Elizabeth Holmes sigue causando fascinación en EE.UU.](https://www.bbc.com/mundo/articles/c65yng81r7g4o?at_medium=RSS&at_campaign=rss)** · *2026-10-15*
-  - La creadora de Theranos, una compañía que prometía diagnósticos con una sola gota de sangre, es objeto de un nuevo documental.
+- **[Por qué Irlanda es uno de los países del mundo más críticos con Israel por la guerra en Gaza](https://www.bbc.com/mundo/articles/c8r4vy17rx62o?at_medium=RSS&at_campaign=rss)** · *2026-10-17*
+  - Las narrativas históricas y el pasado irlandés como colonia inglesa juegan un rol clave en las percepciones actuales.
+- **[Análisis BBC: Katie Zacharia fue arrojada a un torbellino y falló en un momento crítico para Trump](https://www.bbc.com/mundo/articles/cj040dx1yx0vo?at_medium=RSS&at_campaign=rss)** · *2026-10-17*
+  - La Casa Blanca se enfrenta a una adversidad creciente, escribe Anthony Zurcher de la BBC, a semanas de las cruciales elecciones de mitad de mandato.
+- **[Katie Zacharia deja el cargo de secretaria de prensa de la Casa Blanca apenas días después de asumirlo](https://www.bbc.com/mundo/articles/cm86zggzj6e0o?at_medium=RSS&at_campaign=rss)** · *2026-10-16*
+  - Katie Zacharia se convirtió en la secretaria de prensa de la Casa Blanca con el mandato más breve en la historia moderna de Estados Unidos.
+- **["Un gran héroe": el padre que persiguió y abatió al atacante de la escuela de Oregón que mató a 3 niños y una profesora](https://www.bbc.com/mundo/articles/cm369xj3lxy6o?at_medium=RSS&at_campaign=rss)** · *2026-10-16*
+  - Kaylub Giamanco vio al atacante mientras conducía y lo siguió al interior de la escuela, donde logró abatirlo con su arma personal.
+- **[Orcas vs. tiburones blancos: la sangrienta batalla entre los mayores depredadores marinos que tiene perplejos a los científicos](https://www.bbc.com/mundo/articles/cm9qzxwz9y3qo?at_medium=RSS&at_campaign=rss)** · *2026-10-17*
+  - El cambio climático está haciendo que los dos grandes cazadores del mar estén cada vez más cerca. Y las orcas parecen estar ganando la batalla.
 
 ## El País — Internacional
 
-- **[Trump regala a Putin un nuevo balón de oxígeno con el acuerdo sobre el diésel](https://elpais.com/internacional/2026-10-16/trump-regala-a-putin-un-nuevo-balon-de-oxigeno-con-el-acuerdo-sobre-el-diesel.html)** · *2026-10-16*
-  - El pacto, que apenas tendrá impacto en los precios, dinamita la posición común de Occidente y afloja la soga financiera al Kremlin
-- **[Ucrania necesita usar los satélites de Starlink en la guerra, pero el Pentágono tiene el control](https://elpais.com/internacional/2026-10-16/ucrania-necesita-usar-los-satelites-de-starlink-en-la-guerra-pero-el-pentagono-tiene-el-control.html)** · *2026-10-16*
-  - La información del sistema de comunicación de la empresa de Elon Musk permite a las fuerzas ucranias ser más certeras en las operaciones de interceptación de proyectiles rusos y en ataques en el frente. No hay alternativa europea semejante
-- **[Escepticismo y desencanto en Iowa: la siderúrgica prometida por Trump despierta viejos fantasmas](https://elpais.com/us/2026-10-16/escepticismo-y-desencanto-en-iowa-la-siderurgica-prometida-por-trump-despierta-viejos-fantasmas.html)** · *2026-10-16*
-  - Los vecinos de Fort Madison dudan de que el anuncio para instalar la mayor acería de EE UU, con una inversión de 15.000 millones de dólares, vaya a cambiar el voto
+- **[Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones](https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html)** · *2026-10-17*
+  - El republicano justifica la medida, que llega una semana después del acuerdo para comprar diésel a Moscú, en el “interés nacional” de Estados Unidos
+- **[Kathleen Belew, historiadora: “Trump utiliza y se beneficia de los supremacistas blancos”](https://elpais.com/internacional/2026-10-17/kathleen-belew-historiadora-trump-utiliza-y-se-beneficia-de-los-supremacistas-blancos.html)** · *2026-10-17*
+  - La especialista advierte de los peligros que entraña abrir las puertas de la política a grupos racistas y violentos, un movimiento que gana terreno en todo el mundo
+- **[La rabia de los estudiantes, los agricultores y los funcionarios confluye en una gran protesta en toda Francia](https://elpais.com/internacional/2026-10-17/la-rabia-de-los-estudiantes-los-agricultores-y-los-funcionarios-confluye-en-una-gran-protesta-en-toda-francia.html)** · *2026-10-17*
+  - Los chalecos amarillos han convocado marchas que culminan semanas de enfrentamientos en la calle entre la policía y los estudiantes por el deterioro de la educación pública
 - **[Quien tiene la mayoría, tiene la chequera](https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html)** · *2026-10-14*
   - El 3 de noviembre se decide quién liderará el Congreso estadounidense, y con ello quién maneja el presupuesto y pone las condiciones de la política exterior. Un momento crucial para la región en sus relaciones con Washington
 - **[Un cataclismo geopolítico empezó en Gaza hace tres años](https://elpais.com/internacional/2026-10-11/un-cataclismo-geopolitico-empezo-en-gaza-hace-tres-anos.html)** · *2026-10-11*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[The mafia isn’t keeping fentanyl out of Europe – the lack of demand is](https://theconversation.com/the-mafia-isnt-keeping-fentanyl-out-of-europe-the-lack-of-demand-is-294078)** · *2026-10-16*
-  - The theory that Italian mafia groups are choosing to keep fentanyl out of Europe does not fit what we know about drug markets or organised crime.
-- **[Could your plastic film packaging serve a purpose? We won’t know until recycling laws change](https://theconversation.com/could-your-plastic-film-packaging-serve-a-purpose-we-wont-know-until-recycling-laws-change-293561)** · *2026-10-16*
-  - Hard-to-recycle plastic waste could be an untapped resource but current laws make it difficult for UK companies to innovate.
-- **[Cardiac arrest: why the quality of CPR could affect your chances of survival](https://theconversation.com/cardiac-arrest-why-the-quality-of-cpr-could-affect-your-chances-of-survival-294164)** · *2026-10-16*
-  - Starting CPR quickly can save lives. Research suggests that how effectively chest compressions are performed could also influence survival.
-- **[Prime’s Carrie miniseries expands Stephen King’s story – but weakens its central horror](https://theconversation.com/primes-carrie-miniseries-expands-stephen-kings-story-but-weakens-its-central-horror-294512)** · *2026-10-16*
-  - This is the fourth screen adaptation of Stephen King’s debut novel.
-- **[The complicated history of women being seen as ‘monstrous bitches’ – from ancient Mesopatamia to modern film](https://theconversation.com/the-complicated-history-of-women-being-seen-as-monstrous-bitches-from-ancient-mesopatamia-to-modern-film-294305)** · *2026-10-16*
-  - The fear of the feminine has led the patriarchy to cast women as monstrous across time and culture.
+- **[Young voters fear mass shootings like the one in Oregon, but that fear divides them on gun control](https://theconversation.com/young-voters-fear-mass-shootings-like-the-one-in-oregon-but-that-fear-divides-them-on-gun-control-294620)** · *2026-10-16*
+  - An Oregon school shooting comes weeks before midterms when young voters could break turnout records, but research shows shared fear doesn’t mean shared views on guns.
+- **[Is it better to vaccinate against COVID and flu together, or separately?](https://theconversation.com/is-it-better-to-vaccinate-against-covid-and-flu-together-or-separately-294394)** · *2026-10-16*
+  - The target groups for these two jabs are not exactly the same.
+- **[Rabbits were a medieval royal luxury in England – until the Black Death made them commonplace](https://theconversation.com/rabbits-were-a-medieval-royal-luxury-in-england-until-the-black-death-made-them-commonplace-293400)** · *2026-10-16*
+  - Once the preserve of the aristocracy, rabbits became commonplace by the end of the Middle Ages as the world was turned upside down after the arrival of plague.
+- **[Can AI screen for heart disease using photos of your tongue and face?](https://theconversation.com/can-ai-screen-for-heart-disease-using-photos-of-your-tongue-and-face-294192)** · *2026-10-16*
+  - Photos of the face and tongue helped an AI identify heart disease with 98% accuracy, but screening the general public is a much harder task.
+- **[Could the UK actually split? Experts explain the legal route for pro-independence leaders](https://theconversation.com/could-the-uk-actually-split-experts-explain-the-legal-route-for-pro-independence-leaders-293379)** · *2026-10-16*
+  - The UK’s legal framework means the independence question can keep being asked – and continue to be kicked down the road.
 
 ## Nueva Sociedad
 
