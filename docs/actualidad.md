@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-10-18 10:07 UTC_
+_Última actualización: 2026-10-19 11:39 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Un yate con una piscina de 50 metros y toboganes acuáticos: imágenes satelitales revelan el lujoso complejo de vacaciones de Kim Jong-un en Corea del Norte](https://www.bbc.com/mundo/articles/c63r59qq0vd3o?at_medium=RSS&at_campaign=rss)** · *2026-10-18*
-  - La BBC sigue la pista de una embarcación de 80 metros de largo equipada con toboganes acuáticos para saber más sobre cómo Kim pasa sus vacaciones, algo inalcanzable para la mayoría de los norcoreanos.
-- **["No hay lugar para la violencia": edificios en llamas, saqueos y más de 1.200 detenidos en multitudinarias protestas en Francia](https://www.bbc.com/mundo/articles/cvwy7rzx34r1o?at_medium=RSS&at_campaign=rss)** · *2026-10-18*
-  - Durante la jornada de protestas en París y otras ciudades hubo choques con la policía, que enfrentó a los manifestantes con gases lacrimógenos.
-- **[En video | El momento en que la torre de un histórico ayuntamiento francés se derrumba en llamas en medio de las protestas](https://www.bbc.com/mundo/articles/c6m2dvek0gv9o?at_medium=RSS&at_campaign=rss)** · *2026-10-18*
-  - Un histórico ayuntamiento de la ciudad de Limoges, en el sur de Francia, fue incendiado durante las protestas nacionales.
-- **[Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky](https://www.bbc.com/mundo/articles/c6x2vx8pvdv2o?at_medium=RSS&at_campaign=rss)** · *2026-10-18*
-  - El presidente de Estados Unidos suspendió temporalmente muchas de las restricciones impuestas a Moscú, aprobadas recientemente por el Congreso por motivos de "seguridad nacional".
-- **[El paraguas envenenado con el que se cometió un sofisticado asesinato político durante la Guerra Fría](https://www.bbc.com/mundo/articles/c8jd1xnryppo?at_medium=RSS&at_campaign=rss)** · *2026-10-18*
-  - Georgi Markov murió en septiembre de 1978 en Londres. Al año siguiente, la viuda y el hermano mayor de Markov declararon a la BBC que habían sido advertidos sobre el complot de asesinato apenas unos meses antes por parte de un anónimo.
+- **[Las numerosas preguntas que siguen abiertas en Francia tras el "fin de semana de furia" y por qué se temen más protestas](https://www.bbc.com/mundo/articles/cr86z0z5yd3lo?at_medium=RSS&at_campaign=rss)** · *2026-10-19*
+  - La tensión política se apodera de Francia después de que los disturbios empañaran las protestas por el coste de la vida y las dificultades de los servicios públicos.
+- **["La cámara del teléfono es tu arma": cómo las mujeres iraquíes desafían las amenazas de muerte para luchar contra la violencia sexual](https://www.bbc.com/mundo/articles/cm4g17q284xlo?at_medium=RSS&at_campaign=rss)** · *2026-10-19*
+  - La BBC entrevista a una activista que comparte vídeos en Instagram para denunciar los abusos y a una madre que lucha para que su hija víctima de violación tenga justicia.
+- **[Los hijos temporales que los ancianos contratan en China para combatir la soledad](https://www.bbc.com/mundo/articles/cmx2we79kxzdo?at_medium=RSS&at_campaign=rss)** · *2026-10-19*
+  - A medida que aumenta la soledad en China, está surgiendo una nueva industria para brindar compañía y apoyo.
+- **[Cindy Crawford habla por primera vez tras la muerte de su hijo Presley: "Estoy más que destrozada"](https://www.bbc.com/mundo/articles/c5vgjv131nvmo?at_medium=RSS&at_campaign=rss)** · *2026-10-18*
+  - El fallecimiento de Presley Gerber en septiembre está siendo investigada como una posible sobredosis.
+- **[Cuándo son realmente preocupantes las subidas de azúcar en sangre](https://www.bbc.com/mundo/articles/c6rmyzg1wkego?at_medium=RSS&at_campaign=rss)** · *2026-10-19*
+  - Preocuparse por los picos de azúcar en sangre está de moda. Pero estos pueden ser una respuesta normal al comer. Aquí te explicamos cuándo no es necesario preocuparse.
 
 ## El País — Internacional
 
-- **[Francia prende fuego al macronismo](https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html)** · *2026-10-18*
-  - El segundo mandato del presidente, desconectado de la sociedad, tiene aún por delante seis largos meses en los que el país debe aprobar un presupuesto y buscar respuestas al imparable ascenso de la ultraderecha
-- **[El despido de la portavoz de Trump desliza a la Casa Blanca hacia el caos  a dos semanas de las ‘midterms’](https://elpais.com/us/2026-10-18/el-despido-de-la-portavoz-de-trump-desliza-a-la-casa-blanca-hacia-el-caos-a-dos-semanas-de-las-midterms.html)** · *2026-10-18*
-  - El ‘show’ de la salida de Zacharia tras solo cinco días en el cargo revive, en mitad de una campaña descarrilada, las turbulencias de la primera Administración del republicano
-- **[Ucrania lanza un intenso ataque sobre San Petersburgo y golpea una terminal petrolera, un centro de datos y un centro logístico](https://elpais.com/internacional/2026-10-18/ucrania-lanza-un-intenso-ataque-sobre-san-petersburgo-y-golpea-una-terminal-petrolera-un-centro-de-datos-y-un-centro-logistico.html)** · *2026-10-18*
-  - Al menos una persona ha fallecido durante el bombardeo. La segunda ciudad rusa alberga una de las mayores instalaciones de carga del Báltico
-- **[Trump apuñala a Ucrania por la espalda](https://elpais.com/internacional/2026-10-18/trump-apunala-a-ucrania-por-la-espalda.html)** · *2026-10-18*
-  - Putin ha perdido su condición de apestado gracias al presidente de Estados Unidos
-- **[Quien tiene la mayoría, tiene la chequera](https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html)** · *2026-10-14*
-  - El 3 de noviembre se decide quién liderará el Congreso estadounidense, y con ello quién maneja el presupuesto y pone las condiciones de la política exterior. Un momento crucial para la región en sus relaciones con Washington
+- **[Francia implantará toques de queda parciales en algunas ciudades para evitar disturbios](https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html)** · *2026-10-19*
+  - Macron pide al ministro del Interior que despliegue nuevos métodos de intervención policial contra los grupos violentos, que el sábado han convocado otra gran manifestación como la del 17 de octubre
+- **[Francia hace balance tras el mayor estallido de violencia en décadas: 2.000 detenidos y un millar de comercios saqueados](https://elpais.com/internacional/2026-10-18/francia-hace-balance-tras-el-mayor-estallido-de-violencia-y-caos-en-decadas-1800-detenidos-y-un-millar-de-comercios-saqueados.html)** · *2026-10-18*
+  - Muchas calles de París, Marsella o Lyon han amanecido completamente arrasadas. Solo en la capital se produjeron 855 arrestos, una cifra récord
+- **[La juventud europea se planta ante un futuro sin salidas](https://elpais.com/internacional/2026-10-19/la-juventud-europea-se-rebela-contra-un-futuro-cada-vez-mas-precario.html)** · *2026-10-19*
+  - Las protestas se extienden por Francia, Italia, Bélgica, Albania, Portugal y España. La generación del mañana no se resigna
+- **[Cinco estrategias de los demócratas contra Trump](https://elpais.com/us/2026-10-19/cinco-estrategias-de-los-democratas-contra-trump.html)** · *2026-10-19*
+  - A unas dos semanas de las ‘midterms’, encuestas reflejan una posible ola demócrata que haría a los republicanos perder el control del Congreso
+- **[C’est non](https://elpais.com/internacional/2026-10-19/cest-non.html)** · *2026-10-19*
+  - Los jóvenes franceses dan la puntilla al ciclo político de Macron y apuntan a una primavera del descontento, con los extremos al frente de los sondeos
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[African countries could save billions by cutting air pollution and greenhouse gases at the same time](https://theconversation.com/african-countries-could-save-billions-by-cutting-air-pollution-and-greenhouse-gases-at-the-same-time-291944)** · *2026-10-18*
-  - African countries could save billions, prevent deaths and slow climate change by cutting air pollution.
-- **[Blood pressure rising: over 50% of Nigerians we tested had hypertension and over 65% didn’t know it](https://theconversation.com/blood-pressure-rising-over-50-of-nigerians-we-tested-had-hypertension-and-over-65-didnt-know-it-292931)** · *2026-10-18*
-  - Millions of Nigerians are living with hypertension without knowing it – and the gaps in diagnosis and care run deep.
-- **[Ultra-trail running: why women excel yet remain under-represented](https://theconversation.com/ultra-trail-running-why-women-excel-yet-remain-under-represented-291606)** · *2026-10-18*
-  - Why are women still under-represented in trail and mountain running even though they excel over very long distances?
-- **[Young voters fear mass shootings like the one in Oregon, but that fear divides them on gun control](https://theconversation.com/young-voters-fear-mass-shootings-like-the-one-in-oregon-but-that-fear-divides-them-on-gun-control-294620)** · *2026-10-16*
-  - An Oregon school shooting comes weeks before midterms when young voters could break turnout records, but research shows shared fear doesn’t mean shared views on guns.
-- **[Is it better to vaccinate against COVID and flu together, or separately?](https://theconversation.com/is-it-better-to-vaccinate-against-covid-and-flu-together-or-separately-294394)** · *2026-10-16*
-  - The target groups for these two jabs are not exactly the same.
+- **[Independent MP Helen Haines critically injured in attack, PM says counter-terrorism team activated, 43-year-old man arrested](https://theconversation.com/independent-mp-helen-haines-critically-injured-in-attack-pm-says-counter-terrorism-team-activated-43-year-old-man-arrested-47823)** · *2026-10-19*
+  - MPs from across the political divide have expressed their shock and distress at the attack on the highly respected member for Indi.
+- **[Former Labor attorney-general to be new head of the National Anti-Corruption Commission](https://theconversation.com/former-labor-attorney-general-to-be-new-head-of-the-national-anti-corruption-commission-28583)** · *2026-10-19*
+  - Robert McClelland, who is currently deputy chief justice of the Federal Circuit and Family Court, replaces Paul Brereton at the top of the commission.
+- **[View from The Hill: Shoebridge and his defiant senator at loggerheads over leave](https://theconversation.com/view-from-the-hill-shoebridge-and-his-defiant-senator-at-loggerheads-over-leave-33851)** · *2026-10-19*
+  - Jordan Steele-Johns and leader David Shoebridge lock horns as the Greens’ crisis escalates dramatically.
+- **[From comedy skits to podcast gaffes, what’s Anthony Albanese’s social media strategy?](https://theconversation.com/from-comedy-skits-to-podcast-gaffes-whats-anthony-albaneses-social-media-strategy-294241)** · *2026-10-19*
+  - The prime minister’s social media presence has landed him in hot water both on and offline this year. He’s discovering visibility is not the same as credibility.
+- **[How gas prices became a lightning rod for voter anger ahead of the US midterms](https://theconversation.com/how-gas-prices-became-a-lightning-rod-for-voter-anger-ahead-of-the-us-midterms-294663)** · *2026-10-19*
+  - Donald Trump has repeatedly promised oil prices will “drop like a rock”. The opposite has happened, and Americans will likely punish his party at the midterms.
 
 ## Nueva Sociedad
 
