@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-10-21 10:53 UTC_
+_Última actualización: 2026-10-22 10:53 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Qué es el "efecto bola de nieve" de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia](https://www.bbc.com/mundo/articles/c65ynve23xj7o?at_medium=RSS&at_campaign=rss)** · *2026-10-21*
-  - Mientras siguen las protestas en Francia, las cuentas del país empiezan a generar preocupación.
-- **[En gráficos: ¿cómo le está yendo realmente a la economía de EE.UU. bajo la presidencia de Trump?](https://www.bbc.com/mundo/articles/cq0ldk70n888o?at_medium=RSS&at_campaign=rss)** · *2026-10-20*
-  - Antes de las elecciones de mitad de mandato, Trump ha presumido del desempeño de la economía estadounidense. BBC Verify analiza los datos de inflación, empleo y crecimiento económico para evaluar si esas afirmaciones se sostienen.
-- **[Las imágenes de las fascinantes especies del nuevo atlas de las islas Galápagos](https://www.bbc.com/mundo/articles/ck1wvglvpqyqo?at_medium=RSS&at_campaign=rss)** · *2026-10-21*
-  - El atlas te presenta más de 60 especies del archipiélago, sus interacciones y lo que aún no se sabe de ellas. También explica sus principales amenazas, desde las especies invasoras hasta el fenómeno de El Niño.
-- **[Cómo contarles a tus hijos menores de edad que tienes una nueva pareja, según dos expertas](https://www.bbc.com/mundo/articles/cvlydk8nnr20o?at_medium=RSS&at_campaign=rss)** · *2026-10-21*
-  - Una situación que puede ser muy ilusionante y motivo de felicidad puede convertirse en un problema si no manejamos las cosas con cautela y cariño.
-- **["Empecé a consumir ketamina a los 14 años y a los 22 necesitaba pañales"](https://www.bbc.com/mundo/articles/cqlyeljpn3p8o?at_medium=RSS&at_campaign=rss)** · *2026-10-20*
-  - En los últimos dos años, Megan ha sufrido un dolor insoportable y ha sido incapaz de mantenerse erguida debido a su consumo de la droga.
+- **[¿Qué es PHP y por qué generó una falla de seguridad en internet que desató una alerta global?](https://www.bbc.com/mundo/articles/cmly0k9y9p1vo?at_medium=RSS&at_campaign=rss)** · *2026-10-22*
+  - Una IA detectó fallos de programación ocultos durante años, lo que desencadenó una inusual respuesta de ciberseguridad por temor a que fueran explotados por ciberatacantes.
+- **[Sitios web de todo el mundo quedan desactivados tras detectarse una falla de seguridad crítica en internet](https://www.bbc.com/mundo/articles/cq3djnk48ly8o?at_medium=RSS&at_campaign=rss)** · *2026-10-21*
+  - Una grieta en el lenguaje de programación PHP, que es ampliamente utilizado en internet, ha sido descrita como las más importantes jamás descubiertas por la inteligencia artificial.
+- **[Corea del Norte publica fotos de Kim Jong-un: ¿por qué siguen surgiendo rumores sobre su supuesta muerte?](https://www.bbc.com/mundo/articles/cv5ynk4x1161o?at_medium=RSS&at_campaign=rss)** · *2026-10-22*
+  - Los medios estatales de Corea del Norte divulgaron fotos del líder norcoreano con su hija tras la difusión de un rumor infundado.
+- **["Todavía no sabemos la magnitud real del daño": el joven que diseñó un software para buscar a  desaparecidos en los terremotos en Venezuela](https://www.bbc.com/mundo/articles/crx23yejwe1do?at_medium=RSS&at_campaign=rss)** · *2026-10-21*
+  - Jorge Bastidas creó el portal Desaparecidos Terremoto Venezuela, una iniciativa ciudadana para reportar a los desaparecidos en los sismos, a falta de cifras del gobierno venezolano.
+- **["Dejé secretos de Estado en el tren; soy la prueba de que es posible recuperarse del mayor error de tu vida"](https://www.bbc.com/mundo/articles/c6wyd5wx4xq1o?at_medium=RSS&at_campaign=rss)** · *2026-10-22*
+  - El alto funcionario Richard Jackson relata aquel fatídico día en el que olvidó importantes documentos y cómo se recuperó tras lo sucedido.
 
 ## El País — Internacional
 
-- **[Italia sospecha que el caos de Milán no fue espontáneo y cree que un actor extranjero pudo agitar a los jóvenes](https://elpais.com/internacional/2026-10-21/italia-sospecha-que-el-caos-de-milan-no-fue-espontaneo-y-cree-que-un-actor-extranjero-pudo-agitar-a-los-jovenes.html)** · *2026-10-21*
-  - Los servicios de inteligencia trazan un paralelismo con lo sucedido en Ceuta y el juez a cargo cree que hubo “un proyecto preciso de desestabilización del orden público”
-- **[La crisis de la deuda deja al Gobierno de Francia sin margen ante las reivindicaciones sociales](https://elpais.com/internacional/2026-10-21/la-crisis-de-la-deuda-deja-al-gobierno-de-francia-sin-margen-ante-las-reivindicaciones-sociales.html)** · *2026-10-21*
-  - Al creciente descontento ciudadano se une la desconfianza de los inversores en la solvencia del país, sobre todo tras los violentos choques del fin de semana
-- **[Crece la presión diplomática para socorrer a la población ucrania de Oleshki, azotada por el hambre tras la ocupación rusa](https://elpais.com/internacional/2026-10-21/crece-la-presion-diplomatica-para-socorrer-a-la-poblacion-ucrania-de-oleshki-azotada-por-el-hambre-tras-la-ocupacion-rusa.html)** · *2026-10-21*
-  - El Papa intercede entre Putin y Zelenski para lograr un alto el fuego y que sean evacuados los civiles de esta localidad y varias de los alrededores
+- **[El Tribunal Penal Internacional, premio Sájarov 2026 del Parlamento Europeo](https://elpais.com/internacional/2026-10-22/el-tribunal-penal-internacional-premio-sajarov-2026-del-parlamento-europeo.html)** · *2026-10-22*
+  - La Eurocámara galardona a la corte de justicia con sede en La Haya en plena campaña de Estados Unidos en su contra
+- **[Milán, una ciudad rota por el lujo y la desigualdad](https://elpais.com/internacional/2026-10-22/milan-una-ciudad-rota-por-el-lujo-y-la-desigualdad.html)** · *2026-10-22*
+  - Los disturbios en la metrópoli italiana no salen de la nada porque es un caso extremo de los males de otras capitales: acoge una de las mayores concentraciones de millonarios pero expulsa a sus vecinos
+- **[Alemania aumentará las deportaciones de afganos sin antecedentes penales](https://elpais.com/internacional/2026-10-22/alemania-aumentara-las-deportaciones-de-afganos-sin-antecedentes-penales.html)** · *2026-10-22*
+  - El acuerdo con los talibanes permite a Berlín retornar a Afganistán a más de 15.000 personas pese a la represión y la crisis humanitaria
+- **[La desconfianza militar hacia China crea inestabilidad en Asia](https://elpais.com/internacional/2026-10-22/la-desconfianza-militar-hacia-china-crea-inestabilidad-en-asia.html)** · *2026-10-22*
+  - La fuerte interdependencia económica y el temor al gigante chino afectan a las relaciones de los países de la zona con EE UU y desequilibran la región del Indo-Pacífico
 - **[La IA convierte las ‘midterms’ en un gran laboratorio electoral](https://elpais.com/us/2026-10-21/la-ia-convierte-las-midterms-en-un-gran-laboratorio-electoral.html)** · *2026-10-21*
   - El riesgo ya no son solo los bulos tradicionales, sino la automatización a gran escala de la manipulación política
-- **[El orden contra el caos, un marco que favorece a Le Pen](https://elpais.com/internacional/2026-10-20/el-orden-contra-el-caos-un-marco-que-favorece-a-le-pen.html)** · *2026-10-20*
-  - ¿Dónde queda la Francia intergeneracional que salió a la calle este domingo cuando el primer ministro Lecornu pide a los franceses elegir entre el bando de “las fuerzas del orden” y el de “los que tienen un proyecto violento contra la…
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Parthenon marbles loan to Greece is not a simple solution – who gets control over objects?](https://theconversation.com/parthenon-marbles-loan-to-greece-is-not-a-simple-solution-who-gets-control-over-objects-294712)** · *2026-10-21*
-  - Who should have control over not only how artefacts move but are understood?
-- **[What faces in paintings can tell us about how we perceive emotion](https://theconversation.com/what-faces-in-paintings-can-tell-us-about-how-we-perceive-emotion-290968)** · *2026-10-21*
-  - Complex emotions can be perceived in painted faces.
-- **[Wild fish are a precious resource – here’s how aquaculture can bolster food security](https://theconversation.com/wild-fish-are-a-precious-resource-heres-how-aquaculture-can-bolster-food-security-276701)** · *2026-10-21*
-  - Some farmed fish rely on wild fish for feed but aquaculture should not compromise food security of vulnerable communities.
-- **[Jackdaw approval: what a new North Sea gasfield means for UK energy security, bills and tax](https://theconversation.com/jackdaw-approval-what-a-new-north-sea-gasfield-means-for-uk-energy-security-bills-and-tax-291418)** · *2026-10-21*
-  - Jackdaw gasfield could contribute to security of supply but not protect the UK from high prices.
-- **[Hot days linked to fewer births, two new studies find](https://theconversation.com/hot-days-linked-to-fewer-births-two-new-studies-find-293640)** · *2026-10-21*
-  - Fewer babies are born nine to ten months after hot spells in France and Italy, and some missing births may never be made up, two new studies find.
+- **[Grattan on Friday: Politics reflects society, and our society is in poor shape on many fronts](https://theconversation.com/grattan-on-friday-politics-reflects-society-and-our-society-is-in-poor-shape-on-many-fronts-294864)** · *2026-10-22*
+  - As the national political conversation descended into fear and loathing after the attack on Helen Haines, two politicians stepped back from instances of offensive behaviour.
+- **[Shares in this data centre company are down 40% as investors lose faith in the AI story](https://theconversation.com/shares-in-this-data-centre-company-are-down-40-as-investors-lose-faith-in-the-ai-story-294871)** · *2026-10-22*
+  - While AI hype is strong, the business models are coming under increasing scrutiny.
+- **[A critical flaw affecting 70% of all websites has the cybersecurity world panicked](https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941)** · *2026-10-22*
+  - Millions of websites and online tools have relied on the PHP language for decades – but newly disclosed bugs could let hackers easily take them over.
+- **[Chiricahua is the nation’s newest national park – what does that mean?](https://theconversation.com/chiricahua-is-the-nations-newest-national-park-what-does-that-mean-293785)** · *2026-10-21*
+  - What comes next for Chiricahua, now that is has been officially redesignated as America’s 64th national park?
+- **[Corporate ‘orbital data centre’ proposals are dangerous for humanity](https://theconversation.com/corporate-orbital-data-centre-proposals-are-dangerous-for-humanity-293085)** · *2026-10-21*
+  - Orbital data centre proposals involve thousands of satellites, each one twice the size of the International Space Station.
 
 ## Nueva Sociedad
 
