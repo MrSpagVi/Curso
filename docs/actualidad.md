@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-10-27 11:18 UTC_
+_Última actualización: 2026-10-28 11:52 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[El desafío del "rey Bibi": cómo el legado del 7 de octubre define si Netanyahu logra un séptimo mandato como líder de Israel](https://www.bbc.com/mundo/articles/cjg473r01g73o?at_medium=RSS&at_campaign=rss)** · *2026-10-27*
-  - Es el primer ministro israelí que más tiempo ha estado en el cargo y espera conseguir otro mandato cuando Israel celebre elecciones parlamentarias este martes.
-- **[Los gráficos que explican la inédita remontada de Lula en las elecciones presidenciales de Brasil](https://www.bbc.com/mundo/articles/cr2ke8j4944po?at_medium=RSS&at_campaign=rss)** · *2026-10-26*
-  - Los datos oficiales muestran que el triunfo del aspirante a la reelección fue resultado de una mejora de su desempeño electoral en distintas regiones del país y de una ampliación de su ventaja en áreas clave.
-- **[Bolsonaro se presenta como líder de la oposición a Lula sin admitir la derrota pero su partido sí reconoce los resultados](https://www.bbc.com/mundo/articles/cm4g172l4k87o?at_medium=RSS&at_campaign=rss)** · *2026-10-26*
-  - El candidato derechista considera que Lula abusó del poder del Estado durante la campaña electoral, pero no pedirá la anulación de las elecciones.
-- **["Me pareció otra elección amañada": la reacción de Donald Trump ante la victoria de Lula en las presidenciales de Brasil](https://www.bbc.com/mundo/articles/cm0j05gd09jyo?at_medium=RSS&at_campaign=rss)** · *2026-10-26*
-  - El mandatario estadounidense sembró dudas sobre las elecciones en Brasil, pero sin aportar argumentos concretos.
-- **[El sencillo test que revela mucho sobre tu estado de salud](https://www.bbc.com/mundo/articles/crd6dxn11vpvo?at_medium=RSS&at_campaign=rss)** · *2026-10-27*
-  - El comportamiento de tu corazón después de hacer ejercicio puede ser clave para valorar tu salud.
+- **[Al menos 30 muertos y decenas de heridos en un choque de trenes de alta velocidad en España](https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss)**
+  - El accidente ocurrió en la localidad de Urda, en Toledo. El gobierno español teme que haya más fallecidos y sospecha de un error humano.
+- **[Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos](https://www.bbc.com/mundo/articles/crgj906pn4wdo?at_medium=RSS&at_campaign=rss)** · *2026-10-28*
+  - El presidente del gobierno español, Pedro Sánchez, se declaró "conmocionado" por el grave accidente ferroviario y dijo estar en contacto permanente con el ministro de Transportes.
+- **[Cómo las elecciones en Israel y EE.UU. tendrán consecuencias globales](https://www.bbc.com/mundo/articles/cmn8wzn7vd26o?at_medium=RSS&at_campaign=rss)** · *2026-10-28*
+  - En el margen de una semana se celebran dos importantes elecciones en continentes diferentes. Los resultados marcarán la geopolítica y la economía global.
+- **[Argentina confirmó que Flávio Bolsonaro cruzó desde Brasil y luego voló a Ecuador; el excandidato presidencial estaría camino a EE.UU.](https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss)** · *2026-10-28*
+  - El senador brasileño, que el domingo perdió las elecciones frente a Lula, está siendo investigado por presunta corrupción y lavado de dinero, acusaciones que él niega.
+- **[5 claves de la crisis por los militares de El Salvador secuestrados en Haití y el ultimátum de Bukele a las poderosas pandillas del país](https://www.bbc.com/mundo/articles/cwg7xe5gnvzeo?at_medium=RSS&at_campaign=rss)** · *2026-10-27*
+  - Integrantes de una fuerza multinacional, se les perdió la pista el 18 de octubre. Desde entonces las interrogantes sobre el caso no han dejado de multiplicarse.
 
 ## El País — Internacional
 
-- **[Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo](https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html)** · *2026-10-27*
-  - Israel celebra los primeros comicios desde el ataque de Hamás de 2023. El bloque judío de oposición es favorito en los sondeos frente a la coalición del primer ministro, pero ninguno obtendrá la mayoría
-- **[La ‘generación de Netanyahu’: 640.000 nuevos votantes a la derecha de sus padres](https://elpais.com/internacional/2026-10-27/la-generacion-de-netanyahu-640000-nuevos-votantes-a-la-derecha-de-sus-padres.html)** · *2026-10-27*
-  - Un 10% de israelíes acuden por primera vez a las urnas más radicales y religiosos que sus mayores. No conocen otro primer ministro ni un diálogo de paz con los palestinos
-- **[75.000 muertos después, Gaza es la gran ausente en las elecciones israelíes](https://elpais.com/internacional/2026-10-27/75000-muertos-despues-gaza-es-la-gran-ausente-en-las-elecciones-israelies.html)** · *2026-10-27*
-  - Los principales candidatos no han presentado un plan para el futuro de la Franja, devastada tras tres años de bombardeos, y se han centrado en las víctimas de Hamás
+- **[Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría](https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html)** · *2026-10-28*
+  - El bloque favorable al primer ministro lograría 54 escaños sobre 120, y la oposición judía, 49, una vez contabilizados más del 70% de los votos. Los partidos árabes serán claves en las negociaciones
+- **[Claves para formar Gobierno en Israel tras las elecciones o regresar a las urnas: consulta del presidente, negociación y votación](https://elpais.com/internacional/2026-10-28/claves-para-formar-gobierno-en-israel-tras-las-elecciones-o-regresar-a-las-urnas-consulta-del-presidente-negociacion-y-votacion.html)** · *2026-10-28*
+  - Los partidos israelíes abren una negociación que se prevé ardua, que durará semanas y en la que las formaciones árabes tendrán un papel clave
+- **[Los detractores de Netanyahu contienen su entusiasmo: “Ganó, aunque será difícil que siga siendo primer ministro”](https://elpais.com/internacional/2026-10-27/los-detractores-de-netanyahu-contienen-su-entusiasmo-gano-aunque-sera-dificil-que-siga-siendo-primer-ministro.html)** · *2026-10-27*
+  - Los israelíes contrarios al Gobierno celebran el avance de la oposición, pero les preocupa que el Likud sea la primera fuerza
 - **[Brasil y los dueños del algoritmo](https://elpais.com/america/2026-10-27/brasil-y-los-duenos-del-algoritmo.html)** · *2026-10-27*
   - La victoria de Lula pone sobre la mesa que es posible ganar en las urnas a los tecnoligarcas, pero también la necesidad de poner freno a su asalto a la democracia
 - **[Postres variados](https://elpais.com/internacional/2026-10-27/postres-variados.html)** · *2026-10-27*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Embrace lazy autumn gardening to protect wildlife](https://theconversation.com/embrace-lazy-autumn-gardening-to-protect-wildlife-294385)** · *2026-10-27*
-  - By simply doing less, we can promote habitat complexity and help increase species diversity.
-- **[Can your brain make you see ghosts? The science behind the Bloody Mary legend](https://theconversation.com/can-your-brain-make-you-see-ghosts-the-science-behind-the-bloody-mary-legend-290764)** · *2026-10-27*
-  - Your brain is perfectly capable of turning your own reflection into something monstrous.
-- **[Protein can help build and preserve muscle, but eating more has its limits](https://theconversation.com/protein-can-help-build-and-preserve-muscle-but-eating-more-has-its-limits-294802)** · *2026-10-27*
-  - Extra protein can support muscle growth, but its benefits depend on what you already eat and whether you challenge your muscles.
-- **[Brazil: Lula’s presidential win puts the brakes on the rise of the far right in Latin America](https://theconversation.com/brazil-lulas-presidential-win-puts-the-brakes-on-the-rise-of-the-far-right-in-latin-america-295219)** · *2026-10-27*
-  - President Lula’s spectacular reelection sends a clear a warning to the global far-right after seven conservative presidential wins in Latin America in 18 months.
-- **[Fries, cold spoons and eyebrow clamps: investigating the internet’s migraine remedies](https://theconversation.com/fries-cold-spoons-and-eyebrow-clamps-investigating-the-internets-migraine-remedies-294935)** · *2026-10-27*
-  - Strange Health explores the science behind viral migraine hacks with neuroscientist Amanda Ellison, who experiences migraine herself.
+- **[Eurovision 2027: Is Canada singing its way into the European Union?](https://theconversation.com/eurovision-2027-is-canada-singing-its-way-into-the-european-union-295040)** · *2026-10-28*
+  - Europeans and Canadians have always been friends; Canada’s Eurovision participation will only cement that. But historically, closer initial ties haven’t led to deeper integration over the long run.
+- **[The deep ocean’s protection against warming started to change in 2016. Nobody knows what happens now](https://theconversation.com/the-deep-oceans-protection-against-warming-started-to-change-in-2016-nobody-knows-what-happens-now-293088)** · *2026-10-28*
+  - Melting sea ice protects the deep ocean from warming – but when sea ice levels declined, the system began to break down.
+- **[Barcelona unrest: how to fabricate a protest in the age of TikTok](https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263)** · *2026-10-28*
+  - Looting in Barcelona on October 2024 was spurred by the anonymous ‘Blocus’ platform.
+- **[David Hockney: the celebrated artist is bigger in this immersive digital spectacle, but not closer](https://theconversation.com/david-hockney-the-celebrated-artist-is-bigger-in-this-immersive-digital-spectacle-but-not-closer-295148)** · *2026-10-28*
+  - Bigger and Closer (not smaller and further away) is a celebratory and spectacular portrait of the artist and his oeuvre but lacks depth and complexity.
+- **[Parents have one of Australia’s most important jobs, so why don’t we have policy for them?](https://theconversation.com/parents-have-one-of-australias-most-important-jobs-so-why-dont-we-have-policy-for-them-293334)** · *2026-10-28*
+  - Australia invests billions in children annually, but we still struggle to keep them safe, happy and healthy. It’s time to include the missing puzzle piece: parents.
 
 ## Nueva Sociedad
 
