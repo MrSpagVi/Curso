@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-01 12:23 UTC_
+_Última actualización: 2026-11-02 14:18 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["La pérdida de capacidad del Estado de bienestar en Europa es la clave para entender las protestas lideradas por los jóvenes"](https://www.bbc.com/mundo/articles/c3pwgp7jde1wo?at_medium=RSS&at_campaign=rss)** · *2026-11-01*
-  - España, Italia, Francia, Albania, Portugal... Una oleada de protestas llena Europa. BBC Mundo entrevistó a la experta Yanina Welp para entender qué hay detrás de estos movimientos.
-- **[Trump asegura que Flávio Bolsonaro puede permanecer "el tiempo que quiera" en EE.UU.](https://www.bbc.com/mundo/articles/cqg7x42xg9m8o?at_medium=RSS&at_campaign=rss)** · *2026-11-01*
-  - El presidente aclaró que no tiene previsto reunirse con Bolsonaro, quien huyó a Estados Unidos tras su derrota electoral.
-- **[Cómo el socialismo ha ganado peso en la política de EE.UU. y por qué plantea un dilema para los demócratas](https://www.bbc.com/mundo/articles/cm87zqgqq5l5o?at_medium=RSS&at_campaign=rss)** · *2026-10-31*
-  - En estas elecciones de mitad de periodo presidencial, la creciente popularidad de candidatos de los DSA plantea retos para los demócratas.
-- **[Por qué Trump se enfrenta al mismo problema económico que hundió a Biden](https://www.bbc.com/mundo/articles/cm89z5zp0zkzo?at_medium=RSS&at_campaign=rss)** · *2026-11-01*
-  - Donald Trump llega a las elecciones de mitad de mandato en Estados Unidos con un problema similar al del expresidente demócrata.
-- **["Nos abandonaron en bolsas cuando éramos bebés y décadas después descubrimos que éramos hermanos"](https://www.bbc.com/mundo/articles/ckq6njd0drp0o?at_medium=RSS&at_campaign=rss)** · *2026-11-01*
-  - David McBride pasó años buscando a su madre tras ser abandonado cuando era un bebé. En su lugar, encontró a una hermana y un hermano.
+- **["Cerró la frontera, pero vivimos peor": el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas](https://www.bbc.com/mundo/articles/c6y9315lrelzo?at_medium=RSS&at_campaign=rss)** · *2026-11-02*
+  - Trump logró en 2024 un apoyo histórico en el Valle del Río Grande, una región fronteriza con México que no había elegido a un republicano para la Casa Blanca en más de tres décadas. Hoy las encuestas las encabezan los demócratas.
+- **[Cuál es el futuro del bolsonarismo tras la salida de Flávio de Brasil y cómo será la oposición a Lula](https://www.bbc.com/mundo/articles/c3qjn8nr2p2ko?at_medium=RSS&at_campaign=rss)** · *2026-11-02*
+  - La salida del senador Flávio Bolsonaro de Brasil hacia Estados Unidos, tras la derrota electoral ante Luiz Inácio Lula da Silva, deja al bolsonarismo ante el desafío de reorganizar su liderazgo.
+- **["Era como si cayera un misil": 9 muertos al estrellarse un avión privado en un vecindario de Florida](https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss)** · *2026-11-02*
+  - La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse.
+- **[El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años](https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss)** · *2026-11-02*
+  - El aventurero británico culmina este lunes su travesía por el mundo. Un viaje que emprendió hace 28 años desde Chile para regresar a su hogar en Reino Unido.
+- **[Qué es la "cara de ferritina" y por qué no es tan sencillo detectar la carencia de hierro con solo observar el rostro](https://www.bbc.com/mundo/articles/cq23dyerrdpko?at_medium=RSS&at_campaign=rss)** · *2026-11-02*
+  - Videos en los que la gente afirma detectar los síntomas de la deficiencia de hierro han atraído millones de visitas en internet.
 
 ## El País — Internacional
 
-- **[La misión de la ONU en el Sáhara queda en el limbo mientras se dispara el riesgo de escalada bélica](https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html)** · *2026-11-01*
-  - El mandato de Naciones Unidas en el territorio de la antigua colonia española agoniza después de 35 años sin haber cumplido el encargo de organizar un referéndum de autodeterminación
-- **[La oposición israelí se atasca tras su victoria electoral](https://elpais.com/internacional/2026-11-01/la-oposicion-israeli-transforma-en-embrollo-su-victoria-sobre-netanyahu.html)** · *2026-11-01*
-  - Las negociaciones para formar Gobierno marchan paralelas a las señales de preparativos de un nuevo ataque de Netanyahu y Trump a Irán
-- **[Manual de demolición: cómo los estudiantes de Serbia derrotaron a Vucic sin violencia](https://elpais.com/internacional/2026-11-01/manual-de-demolicion-como-los-estudiantes-de-serbia-derrotaron-a-vucic-sin-violencia.html)** · *2026-11-01*
-  - Los universitarios preservaron la unidad pese a sus diferencias, mantuvieron dos años las protestas pacíficas y contagiaron a los ciudadanos la pérdida del miedo
+- **[António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”](https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html)** · *2026-11-01*
+  - El veterano político portugués y secretario general de Naciones Unidas, a punto de dejar el cargo, afirma sobre su reemplazo que le alegraría que fuera una mujer. “Un mundo sin reglas sería un desastre”, alerta
+- **[La triple paradoja de Ormuz: más barcos cruzando, más ataques y el petróleo por las nubes](https://elpais.com/internacional/2026-11-02/la-triple-paradoja-de-ormuz-mas-barcos-cruzando-mas-ataques-y-el-petroleo-por-las-nubes.html)** · *2026-11-02*
+  - La mayor porosidad del estrecho, sobre el que sigue pesando un doble bloqueo, no se traduce en una relajación en los precios
+- **[La crisis de la vivienda revive en las calles portuguesas el espíritu de la Revolución de Abril](https://elpais.com/internacional/2026-11-01/la-crisis-de-la-vivienda-revive-en-las-calles-portuguesas-el-espiritu-de-la-revolucion-de-abril.html)** · *2026-11-02*
+  - La represión policial de acampadas pacíficas, con decenas de heridos este fin de semana, provoca una tormenta política. Portugal es el país de la UE donde más ha subido el precio de las casas
+- **[¿Protestarán los jóvenes con su voto en Estados Unidos?](https://elpais.com/us/2026-11-02/protestaran-los-jovenes-con-su-voto-en-estados-unidos.html)** · *2026-11-02*
+  - Los menores de 30 años podrían aprovechar las ‘midterms’ para enviar un mensaje muy claro al presidente Donald Trump
 - **[El tambaleante trono del rey ‘Bibi’](https://elpais.com/internacional/2026-11-01/el-tambaleante-trono-del-rey-bibi.html)** · *2026-11-01*
   - Los votantes israelíes han hablado con claridad, pero al primer ministro israelí, Benjamín Netanyahu, aún le quedan cartas para perpetuarse en el poder hasta una repetición electoral
-- **[Brasil y los dueños del algoritmo](https://elpais.com/america/2026-10-27/brasil-y-los-duenos-del-algoritmo.html)** · *2026-10-27*
-  - La victoria de Lula pone sobre la mesa que es posible ganar en las urnas a los tecnoligarcas, pero también la necesidad de poner freno a su asalto a la democracia
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Algeria is sending troops to Niger for the first time in decades – what’s at stake](https://theconversation.com/algeria-is-sending-troops-to-niger-for-the-first-time-in-decades-whats-at-stake-295358)** · *2026-11-01*
-  - Can Algeria turn its military intervention in Niger into a tool for stabilisation in a volatile Sahel region?
-- **[China imports millions of donkey hides from Africa every year: new book traces the drivers and impact](https://theconversation.com/china-imports-millions-of-donkey-hides-from-africa-every-year-new-book-traces-the-drivers-and-impact-295173)** · *2026-11-01*
-  - According to some estimates, China imports around three million African hides a year, with 25%-35% taken from stolen animals.
-- **[Zombies are real – just ask the parasites taking over the bodies and brains of insects and rodents, leading them to their doom](https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955)** · *2026-10-30*
-  - Parasitic fungi, wasps, worms and amoeba can control the behavior of their hosts in various horrifying ways.
-- **[From 18th-century false ballots to the second JFK and double Dan Sullivans, a brief history of spoiler candidates and the unsuccessful legal challenges to them](https://theconversation.com/from-18th-century-false-ballots-to-the-second-jfk-and-double-dan-sullivans-a-brief-history-of-spoiler-candidates-and-the-unsuccessful-legal-challenges-to-them-295504)** · *2026-10-30*
-  - The spoiler candidate is one of the oldest tricks in the American campaign toolbox, and the law has rarely touched it.
-- **[South Sudan wants to hold elections in December: 3 major obstacles and some ways around them](https://theconversation.com/south-sudan-wants-to-hold-elections-in-december-3-major-obstacles-and-some-ways-around-them-295467)** · *2026-10-30*
-  - South Sudan has postponed elections several times since signing a 2018 peace agreement.
+- **[Forgotten flint tools in museum boxes reveal how Egypt’s early farmers paved the way for the pharaohs](https://theconversation.com/forgotten-flint-tools-in-museum-boxes-reveal-how-egypts-early-farmers-paved-the-way-for-the-pharaohs-294501)** · *2026-11-02*
+  - The flints reveal that villagers created local economies from their skills long before state enterprise began.
+- **[South Africans living through water cuts blame corruption and neglect, not just broken pipes – study](https://theconversation.com/south-africans-living-through-water-cuts-blame-corruption-and-neglect-not-just-broken-pipes-study-290385)** · *2026-11-02*
+  - After 15 years of water shortages, residents of Madibeng in South Africa make a moral judgment.
+- **[Not in a FEMA flood zone? Your home could still be at risk – and you could suffer more than your neighbor](https://theconversation.com/not-in-a-fema-flood-zone-your-home-could-still-be-at-risk-and-you-could-suffer-more-than-your-neighbor-293658)** · *2026-11-02*
+  - Your home’s true flood risk is far more complex than FEMA flood maps reflect.
+- **[Supreme Court decision on gerrymandering will wind back progress on racial justice](https://theconversation.com/supreme-court-decision-on-gerrymandering-will-wind-back-progress-on-racial-justice-295176)** · *2026-11-02*
+  - Both Democrat and Republican states are changing the boundaries of voting districts, often along racial llines.
+- **[I research Doctor Doom – here’s why he could be the unlikely hero of Avengers: Doomsday](https://theconversation.com/i-research-doctor-doom-heres-why-he-could-be-the-unlikely-hero-of-avengers-doomsday-293038)** · *2026-11-02*
+  - When Doctor Doom proclaims himself a genius and the only person who can save humanity, he’s usually right.
 
 ## Nueva Sociedad
 
