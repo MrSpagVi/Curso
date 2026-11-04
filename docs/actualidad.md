@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-03 13:19 UTC_
+_Última actualización: 2026-11-04 13:30 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[8 gráficos que muestran por qué las elecciones de medio mandato llegan en mal momento para Trump y qué hay en juego](https://www.bbc.com/mundo/articles/cq5ynzzkxeymo?at_medium=RSS&at_campaign=rss)** · *2026-11-03*
-  - Este es un análisis exhaustivo de las encuestas clave, las contiendas electorales más disputadas y los temas más importantes de cara a unos comicios que definirán los dos últimos años de Trump como presidente.
-- **[Muere Jesús de Miguel, futbolista del Tenerife español, tras un choque en el campo de juego con el arquero rival](https://www.bbc.com/mundo/articles/c64g1vx4vv3go?at_medium=RSS&at_campaign=rss)** · *2026-11-03*
-  - El delantero del Tenerife, Jesús de Miguel, falleció, este martes, tras sufrir una lesión grave durante un partido de segunda división española, el lunes.
-- **[La madre en Chile a la que obligaron a esperar que su bebé muriera en su vientre y ahora un fallo histórico le otorga una indemnización millonaria](https://www.bbc.com/mundo/articles/cm3el01qqeqxo?at_medium=RSS&at_campaign=rss)** · *2026-11-03*
-  - Luego de que su hija fuera diagnosticada a las 11 semanas de gestación de un grave cuadro médico, Catalina Pizarro intentó por distintas vías acceder al aborto por inviabilidad fetal, una de las causales legales en Chile, pero no lo logró.…
-- **[Quiénes son las 9 víctimas del fatal accidente del avión privado que se estrelló en Florida](https://www.bbc.com/mundo/articles/cx054q17vvezo?at_medium=RSS&at_campaign=rss)** · *2026-11-03*
-  - El accidente del domingo acabó con la vida de las nueve personas que iban a bordo, entre ellas un empresario tecnológico, su esposa y sus dos pequeños hijos.
-- **[Qué es el "zeptoverso", el mundo más pequeño jamás detectado en la naturaleza, y por qué es clave para entender el universo](https://www.bbc.com/mundo/articles/c60rldxq8k1ro?at_medium=RSS&at_campaign=rss)** · *2026-11-03*
-  - Investigadores de la Universidad de Cambridge detectaron señales procedentes de la escala más pequeña de la naturaleza jamás explorada.
+- **["Ola azul" en EE.UU.: los demócratas recuperan el control del Congreso y asestan un duro golpe a Trump en las elecciones de medio mandato; resultados y reacciones](https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss)**
+  - El presidente de EE.UU., Donald Trump, dice estar "dispuesto a aceptar" los resultados de unas elecciones descritas por nuestros analistas como una "derrota aplastante" que dificultará los últimos dos años de gobierno del republicano.
+- **[Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una "derrota aplastante" a Trump y sus aliados](https://www.bbc.com/mundo/articles/cv62y9278jz0o?at_medium=RSS&at_campaign=rss)** · *2026-11-04*
+  - Con el control del Senado y la Cámara de Representantes, los demócratas protagonizan una noche histórica en unas elecciones que marcarán los dos últimos años de mandato del presidente Donald Trump.
+- **["No lo considero un revés para mí": la reacción de Trump tras el aplastante triunfo de los demócratas en el Congreso](https://www.bbc.com/mundo/articles/ck62y4ql3wggo?at_medium=RSS&at_campaign=rss)** · *2026-11-04*
+  - Trump atribuyó la responsabilidad directamente a los propios candidatos republicanos, aunque reconoció que los elevados precios de la gasolina influyeron en el resultado.
+- **[Quiénes son los grandes vencedores de la triunfal noche demócrata](https://www.bbc.com/mundo/articles/cqe9lej2zpzno?at_medium=RSS&at_campaign=rss)** · *2026-11-04*
+  - Te presentamos algunas de las estrellas de la "ola azul" demócrata que obtuvo este martes una aplastante victoria en un duro revés contra las políticas de Trump.
+- **[Gina Hinojosa, la demócrata de ascendencia mexicana que será la primera latina en gobernar la conservadora Texas](https://www.bbc.com/mundo/articles/cqn06jxe3zexo?at_medium=RSS&at_campaign=rss)** · *2026-11-04*
+  - La legisladora estatal derrotó a Greg Abbott, uno de los gobernadores republicanos más destacados del país y fiel aliado del presidente Donald Trump.
 
 ## El País — Internacional
 
-- **[Estados Unidos ataca la isla iraní de Qeshm en la víspera de sus elecciones de medio mandato](https://elpais.com/internacional/2026-11-03/estados-unidos-ataca-la-isla-irani-de-qeshm-en-la-vispera-de-sus-elecciones-de-medio-mandato.html)** · *2026-11-03*
-  - Washington asegura que se trata de ataques “defensivos” que no implican un retorno inmediato a la guerra. Son los primeros bombardeos reconocidos desde septiembre
-- **[El durísimo editorial de ‘The New York Times’ pidiendo el voto contra Trump: “El país empieza a deslizarse hacia la autocracia”](https://elpais.com/internacional/2026-11-03/el-durisimo-editorial-de-the-new-york-times-pidiendo-el-voto-contra-trump-el-pais-empieza-a-deslizarse-hacia-la-autocracia.html)** · *2026-11-03*
-  - El diario estadounidense insta a los electores a frenar en los comicios de este martes la deriva de un Gobierno entregado a “la corrupción, la incompetencia y el abuso de poder”, y acusa al presidente de violar “la tradición y la ley”
-- **[Rusia anuncia que negociará con Ucrania, bajo mediación de Estados Unidos, la próxima semana en Abu Dabi](https://elpais.com/internacional/2026-11-03/rusia-anuncia-que-negociara-con-ucrania-bajo-mediacion-de-estados-unidos-la-proxima-semana-en-abu-dabi.html)** · *2026-11-03*
-  - Las nuevas conversaciones de paz a tres bandas, aún no confirmadas por Kiev, están previstas el 10 y el 11 de noviembre
-- **[El futuro ya no es lo que era antes](https://elpais.com/internacional/2026-11-02/el-futuro-ya-no-es-lo-que-era-antes.html)** · *2026-11-02*
-  - El escritor Juan Gabriel Vásquez despide la primera sesión del World in Progress reflexionando sobre los riesgos que afronta la humanidad, como la inteligencia artificial
-- **[¿Protestarán los jóvenes con su voto en Estados Unidos?](https://elpais.com/us/2026-11-02/protestaran-los-jovenes-con-su-voto-en-estados-unidos.html)** · *2026-11-02*
-  - Los menores de 30 años podrían aprovechar las ‘midterms’ para enviar un mensaje muy claro al presidente Donald Trump
+- **[Los demócratas arrasan en las ‘midterms’ a lomos del voto de castigo a la caótica presidencia de Trump](https://elpais.com/us/2026-11-04/los-democratas-arrasan-en-las-midterms-a-lomos-del-voto-de-castigo-a-la-caotica-presidencia-de-trump.html)** · *2026-11-04*
+  - El partido, triunfante en territorios profundamente republicanos, se hace con el Senado y la Cámara de Representantes, algo que solo había pasado seis veces en la historia
+- **[Trump admite la amarga derrota en las ‘midterms’: “Estoy un poco sorprendido. Pensé que lo haríamos mejor”](https://elpais.com/us/2026-11-04/trump-admite-la-amarga-derrota-en-las-midterms-estoy-un-poco-sorprendido-pense-que-lo-hariamos-mejor.html)** · *2026-11-04*
+  - El presidente de Estados Unidos trata de quitarse responsabilidad de la debacle republicana pese a que pidió votar como si él estuviera en la papeleta y recorrió 30 Estados
+- **[James Talarico pone fin a décadas de hegemonía republicana en Texas con su victoria en el Senado](https://elpais.com/us/2026-11-04/james-talarico-pone-fin-a-decadas-de-hegemonia-republicana-en-texas-con-su-victoria-en-el-senado.html)** · *2026-11-04*
+  - Con más de 50% de votos, el legislador logra la primera victoria de su partido a nivel estatal en más de tres décadas
+- **[Vance, ‘habibi’, ¿me ves ahora?](https://elpais.com/internacional/2026-11-04/vance-habibi-me-ves-ahora.html)** · *2026-11-04*
+  - La noche electoral en EE UU deja una fotografía histórica de diversidad, pero no borra el diagnóstico de una democracia maltrecha
+- **[Claves globales del giro en EE UU: ¿Qué significa para el mundo la humillación trumpista?](https://elpais.com/internacional/elecciones-usa/2026-11-04/claves-globales-del-giro-en-ee-uu-que-significa-para-el-mundo-la-humillacion-trumpista.html)** · *2026-11-04*
+  - El presidente mantiene amplios poderes en política exterior, pero la magnitud de la debacle en las ‘midterms’ altera cálculos geopolíticos y políticos a escala mundial
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Pediatric palliative care addresses the unique needs of seriously ill children and their families](https://theconversation.com/pediatric-palliative-care-addresses-the-unique-needs-of-seriously-ill-children-and-their-families-286905)** · *2026-11-03*
-  - This specialty offers healing and comfort where a cure is not possible, but many who need this care don’t have access to it.
-- **[Menopause can quietly weaken bones – here’s what research reveals about protecting them](https://theconversation.com/menopause-can-quietly-weaken-bones-heres-what-research-reveals-about-protecting-them-293648)** · *2026-11-03*
-  - Bone loss can accelerate before the final menstrual period. Understanding risk, exercise, nutrition and treatment options can help protect bone health.
-- **[As it gets harder to figure out what to eat, some Americans are turning to religion for answers](https://theconversation.com/as-it-gets-harder-to-figure-out-what-to-eat-some-americans-are-turning-to-religion-for-answers-291119)** · *2026-11-03*
-  - A scholar spent time with 4 alternative food movements to explore how religious Americans are choosing a ‘moral’ diet.
-- **[Nearly 7 in 10 professors report being bullied, often by students over grades](https://theconversation.com/nearly-7-in-10-professors-report-being-bullied-often-by-students-over-grades-244397)** · *2026-11-03*
-  - The rates are similar to high-stress workplaces like emergency services.
-- **[Andy Burnham at Prime Minister’s Questions: what’s he doing differently?](https://theconversation.com/andy-burnham-at-prime-ministers-questions-whats-he-doing-differently-295372)** · *2026-11-03*
-  - Viewers are often turned off by the traditional jibes and jeering at PMQs.
+- **[When social media no longer needs people, what does the ‘social’ part mean?](https://theconversation.com/when-social-media-no-longer-needs-people-what-does-the-social-part-mean-275936)** · *2026-11-04*
+  - The AI agents do not truly experience friendship, but their exchanges are coherent and resemble the way humans correspond.
+- **[Fireworks provide a few minutes of joy, but the economic and environmental costs last much longer](https://theconversation.com/fireworks-provide-a-few-minutes-of-joy-but-the-economic-and-environmental-costs-last-much-longer-295775)** · *2026-11-04*
+  - The consequences of lighting firework displays are spread among households, public services and wildlife.
+- **[Why so many British pubs are closing down](https://theconversation.com/why-so-many-british-pubs-are-closing-down-294079)** · *2026-11-04*
+  - Britain’s pubs are not just businesses, they are part of the country’s social infrastructure.
+- **[Why an Ebola outbreak in Africa doesn’t mean an epidemic in Britain](https://theconversation.com/why-an-ebola-outbreak-in-africa-doesnt-mean-an-epidemic-in-britain-295685)** · *2026-11-04*
+  - The DRC outbreak has passed 10,000 cases. Here is why UK health officials rate the risk to Britain as low, and how Ebola differs from COVID.
+- **[Why are Australians so interested in the US midterms?](https://theconversation.com/why-are-australians-so-interested-in-the-us-midterms-295866)** · *2026-11-04*
+  - It’s an election on the other side of the world that isn’t even about choosing a president. But Australians can’t get enough of it.
 
 ## Nueva Sociedad
 
