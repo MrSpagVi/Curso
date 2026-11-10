@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-09 14:46 UTC_
+_Última actualización: 2026-11-10 13:59 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["El progreso de una nación también se mide por la acogida que da a los discapacitados": por qué es tan simbólica la visita de León XIV al Pequeño Cottolengo Don Orione](https://www.bbc.com/mundo/articles/ck240e0n9z8yo?at_medium=RSS&at_campaign=rss)** · *2026-11-09*
-  - La histórica institución asistencial figura entre las entidades que se han visto afectadas por los recortes aplicados por el gobierno del libertario Javier Milei en los últimos años.
-- **[Por qué se archivó en Perú el caso de las esterilizaciones forzadas de 4.000 mujeres durante el gobierno de Fujimori y en qué situación quedan las víctimas](https://www.bbc.com/mundo/articles/cm4g13jxy7lwo?at_medium=RSS&at_campaign=rss)** · *2026-11-09*
-  - La Fiscalía ordenó el archivo del caso con base en una polémica ley que tiene enfrentados al Tribunal Constitucional y la Corte Suprema de Justicia.
-- **[Nvidia abre una investigación sobre la relación de su director ejecutivo con una presunta espía china](https://www.bbc.com/mundo/articles/ck20wv99nd81o?at_medium=RSS&at_campaign=rss)** · *2026-11-08*
-  - Jensen Huang admitió haber sido "infiel" a su esposa y afirmó que cooperará con la investigación de seguridad.
-- **[¿Te harías una prueba para saber si una enfermedad acortará tu vida? Yo me la hice, y eso me cambió por completo](https://www.bbc.com/mundo/articles/cqd0988j9vngo?at_medium=RSS&at_campaign=rss)** · *2026-11-09*
-  - Laura Sides se enfrentó al dilema de averiguar si heredaría la enfermedad de su padre.
-- **[Cómo el extraordinario crecimiento de la "escandalosamente barata" energía solar ha desafiado todas las proyecciones](https://www.bbc.com/mundo/articles/cr4g1ee27w6po?at_medium=RSS&at_campaign=rss)** · *2026-11-09*
-  - La energía solar, debido a sus costos bajos, se ha convertido en una principales fuentes de energía en varios países del mundo.
+- **["Epstein me violó más de 200 veces": los nuevos testimonios de mujeres que fueron reclutadas por un socio del financiero mediante una agencia de modelos](https://www.bbc.com/mundo/articles/cq0mem48n7yzo?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
+  - Una mujer afirma que el jefe de una agencia la envió a sesiones de fotos en la casa de playa del delincuente sexual.
+- **[Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)](https://www.bbc.com/mundo/articles/cm4g109r03npo?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
+  - México es de los países que menos recauda impuestos en América Latina, pero el gasto público es un motor de su consumo interno y arma clave contra la pobreza. Análisis de las “anomalías fiscales” mexicanas.
+- **[Qué presencia tienen los lefebvrianos en Argentina, el primer país de América Latina en el que se estableció el grupo que desafía a León XIV](https://www.bbc.com/mundo/articles/cwp8gg9e0nn7o?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
+  - La organización tradicionalista desembarcó en el país durante la dictadura militar y actualmente está presente en 11 de las 24 provincias.
+- **[Por qué la infidelidad del jefe de Nvidia con una supesta espía china tendrá repercusiones en EE.UU. y más allá](https://www.bbc.com/mundo/articles/c6p9g97x540jo?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
+  - Jensen Huang, director de Nvidia, está siendo investigado por su propia empresa por una relación extramatrimonial con una mujer señalada como una espía china.
+- **[Las personas que solo necesitan dormir 4 horas y cómo lo explica la genética](https://www.bbc.com/mundo/articles/c678pgk14kedo?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
+  - Hay personas a las que, en realidad, les basta con dormir muy poco. Pero puede resultar difícil saber si eres una de ellas.
 
 ## El País — Internacional
 
-- **[Nvidia abre una investigación a su consejero delegado sobre su relación con una presunta espía china](https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html)** · *2026-11-09*
-  - Jensen Huang ha reconocido haber sido infiel a su mujer en un comunicado a los empleados de la compañía tecnológica
-- **[Alice Huang, la espía china de pasado misterioso que llegó hasta el consejero delegado de Nvidia](https://elpais.com/internacional/2026-11-09/alice-huang-la-espia-china-de-pasado-misterioso-que-llego-hasta-el-consejero-delegado-de-nvidia.html)** · *2026-11-09*
-  - Pekín califica de “calumnias” las informaciones sobre el espionaje de la empresaria y rechaza que actuara a sueldo de sus servicios de inteligencia
-- **[El Papa defiende en Argentina a las víctimas de la motosierra de Milei: “La economía debe estar al servicio de la persona”](https://elpais.com/argentina/2026-11-09/el-papa-defiende-en-argentina-a-las-victimas-de-la-motosierra-de-milei-la-economia-debe-estar-al-servicio-de-la-persona.html)** · *2026-11-09*
-  - En su primer discurso en Buenos Aires, León XIV pide a las autoridades “reconocer los límites del poder” y reclama “especial atención” para personas enfermas y con discapacidades
-- **[‘Trumpazo’ económico, debacle política](https://elpais.com/internacional/2026-11-09/trumpazo-economico-debacle-politica.html)** · *2026-11-09*
-  - Los dos factores determinantes del disparo del coste de la vida, aranceles e Irán, han sido voluntarios y premeditados
-- **[Repudio de la autocracia y del poder del dinero](https://elpais.com/internacional/2026-11-08/repudio-de-la-autocracia-y-del-poder-del-dinero.html)** · *2026-11-08*
-  - El revés republicano en las urnas tiene consecuencias para Putin, Netanyahu y las extremas derechas europeas, además de cuestionar el poder de los multimillonarios tecnológicos
+- **[Pete Hegseth: “El juicio político es una farsa, y todos lo saben”](https://elpais.com/us/2026-11-10/hegseth-el-juicio-politico-es-una-farsa-y-todos-lo-saben.html)** · *2026-11-10*
+  - El secretario de Defensa ha ofrecido su primera rueda de prensa en seis meses para defender su gestión tras la apertura de un juicio político en el Congreso de EE UU contra él
+- **[Pete Hegseth, 22 meses de polémica en el Pentágono](https://elpais.com/us/2026-11-10/pete-hegseth-22-meses-de-polemica-en-el-pentagono.html)** · *2026-11-10*
+  - El mandato del expresentador de televisión al frente del Departamento de Defensa ha estado marcado por los ceses entre los altos mandos, los ataques a supuestas narcolanchas y la guerra contra Irán
+- **[Estados Unidos retira sus aviones de otra base del Reino Unido por presuntas amenazas de Irán](https://elpais.com/internacional/2026-11-10/estados-unidos-retira-sus-aviones-de-otra-base-del-reino-unido-por-presuntas-amenazas-de-iran.html)** · *2026-11-10*
+  - Varias aeronaves cisterna han sido desplazadas a Alemania y otras localizaciones, según ‘The Wall Street Journal’
+- **[Gaza: cuando el sonido de la lluvia da tanto miedo como el de las bombas](https://elpais.com/internacional/2026-11-10/gaza-cuando-el-sonido-de-la-lluvia-da-tanto-miedo-como-el-de-las-bombas.html)** · *2026-11-10*
+  - El camarógrafo palestino Ahmed Abu Kmail, de 39 años, describe la desesperación de su familia ante la lluvia que inunda en estos días su miserable tienda de campaña
+- **[Milei, el hombre a quien solo conmueven sus perros](https://elpais.com/internacional/2026-11-10/milei-el-hombre-a-quien-solo-conmueven-sus-perros.html)** · *2026-11-10*
+  - EL PAÍS adelanta un extracto del libro de Miguel González sobre el avance de la extrema derecha en el mundo
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[New blood test claims to detect 50-plus cancers before symptoms – but there’s no evidence it can reduce your risk of dying from cancer](https://theconversation.com/new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-but-theres-no-evidence-it-can-reduce-your-risk-of-dying-from-cancer-293409)** · *2026-11-09*
-  - A physician who devises screening guidelines for the American Cancer Society explains the pros and cons of the Galleri multicancer early detection test.
-- **[Paraguay’s bank collapse brought down a president – and exposed as myth the nation’s status as a ‘Dubai of South America’](https://theconversation.com/paraguays-bank-collapse-brought-down-a-president-and-exposed-as-myth-the-nations-status-as-a-dubai-of-south-america-296112)** · *2026-11-09*
-  - The collapse raises troubling questions about who benefits from financial modernization, who controls it and who bears the risks when it fails.
-- **[5 ways countries stymie climate negotiations without actually saying ‘no’](https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589)** · *2026-11-09*
-  - The methods can be subtle but effective at slowing progress, particularly when fossil fuels are involved. Here’s what to watch for as the latest global climate talks get underway.
-- **[How protection of public land shapes political strategies in the American West](https://theconversation.com/how-protection-of-public-land-shapes-political-strategies-in-the-american-west-295334)** · *2026-11-09*
-  - Americans are standing up to protect public lands and bringing concerns about conservation and management into broader public discussion.
-- **[Voters rejected data centers in dozens of communities, fueling the narrative that opposition to the AI infrastructure contributed to the 2026 blue wave](https://theconversation.com/voters-rejected-data-centers-in-dozens-of-communities-fueling-the-narrative-that-opposition-to-the-ai-infrastructure-contributed-to-the-2026-blue-wave-295950)** · *2026-11-09*
-  - For many Americans, opposition to data centers was a factor in their votes.
+- **[US national debt keeps rising after years of tax cuts – and this will make policymaking all the more difficult](https://theconversation.com/us-national-debt-keeps-rising-after-years-of-tax-cuts-and-this-will-make-policymaking-all-the-more-difficult-292099)** · *2026-11-10*
+  - National debt now equals the size of the US economy.
+- **[When a Walmart closes, what happens to nearby stores?](https://theconversation.com/when-a-walmart-closes-what-happens-to-nearby-stores-294847)** · *2026-11-10*
+  - A big retailer can be both a fierce competitor and a traffic-generating anchor for nearby businesses.
+- **[COP31: Governments are failing to rein in emissions from their own power plants](https://theconversation.com/cop31-governments-are-failing-to-rein-in-emissions-from-their-own-power-plants-295592)** · *2026-11-10*
+  - A new study compared power plants’ carbon emissions and found government-owned plants’ emissions were much higher and less responsive to climate policies.
+- **[Economic coercion once ousted Iran’s leader – but that was the 1950s; don’t expect a repeat today](https://theconversation.com/economic-coercion-once-ousted-irans-leader-but-that-was-the-1950s-dont-expect-a-repeat-today-294628)** · *2026-11-10*
+  - A two-year blockade imposed on Iran by Britain gave way to a coup and leadership change. But seven decades later, circumstances are very different.
+- **[RFK Jr. loosens access to unapproved peptides: A health law scholar explains what consumers need to know](https://theconversation.com/rfk-jr-loosens-access-to-unapproved-peptides-a-health-law-scholar-explains-what-consumers-need-to-know-295526)** · *2026-11-10*
+  - Compounding pharmacies will now be able to sell 6 popular peptides, despite the fact they have not been proved safe and effective.
 
 ## Nueva Sociedad
 
