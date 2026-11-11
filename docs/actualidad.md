@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-10 13:59 UTC_
+_Última actualización: 2026-11-11 13:16 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["Epstein me violó más de 200 veces": los nuevos testimonios de mujeres que fueron reclutadas por un socio del financiero mediante una agencia de modelos](https://www.bbc.com/mundo/articles/cq0mem48n7yzo?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
-  - Una mujer afirma que el jefe de una agencia la envió a sesiones de fotos en la casa de playa del delincuente sexual.
-- **[Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)](https://www.bbc.com/mundo/articles/cm4g109r03npo?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
-  - México es de los países que menos recauda impuestos en América Latina, pero el gasto público es un motor de su consumo interno y arma clave contra la pobreza. Análisis de las “anomalías fiscales” mexicanas.
-- **[Qué presencia tienen los lefebvrianos en Argentina, el primer país de América Latina en el que se estableció el grupo que desafía a León XIV](https://www.bbc.com/mundo/articles/cwp8gg9e0nn7o?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
-  - La organización tradicionalista desembarcó en el país durante la dictadura militar y actualmente está presente en 11 de las 24 provincias.
-- **[Por qué la infidelidad del jefe de Nvidia con una supesta espía china tendrá repercusiones en EE.UU. y más allá](https://www.bbc.com/mundo/articles/c6p9g97x540jo?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
-  - Jensen Huang, director de Nvidia, está siendo investigado por su propia empresa por una relación extramatrimonial con una mujer señalada como una espía china.
-- **[Las personas que solo necesitan dormir 4 horas y cómo lo explica la genética](https://www.bbc.com/mundo/articles/c678pgk14kedo?at_medium=RSS&at_campaign=rss)** · *2026-11-10*
-  - Hay personas a las que, en realidad, les basta con dormir muy poco. Pero puede resultar difícil saber si eres una de ellas.
+- **[Quién es Wilson "Lanmò San Jou" Joseph, el poderoso líder pandillero cuya casa en Haití Bukele dice haber destruido](https://www.bbc.com/mundo/articles/cmzx96kk0ly7o?at_medium=RSS&at_campaign=rss)** · *2026-11-11*
+  - Dirigente de 400 Mawozo, ha sido acusado formalmente por las autoridades estadounidenses de secuestro. Además, el FBI ofrece una recompensa de hasta US$1 millón por información que conduzca a su captura.
+- **[Bukele asegura que fuerzas de El Salvador han destruido el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití](https://www.bbc.com/mundo/articles/c98r7xd65z7ko?at_medium=RSS&at_campaign=rss)** · *2026-11-11*
+  - El presidente salvadoreño lo anunció en una publicación en la red social X en la que incluyó un vídeo que muestra un ataque aéreo a varias instalaciones.
+- **[3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)](https://www.bbc.com/mundo/articles/cmlyly7jwq24o?at_medium=RSS&at_campaign=rss)** · *2026-11-11*
+  - A menos de 20 días para las elecciones generales, los españoles están convocados a un parón masivo este miércoles para protestar por la crisis de la vivienda y el costo de la vida.
+- **[La inspiradora historia de Zaher, el niño que perdió sus dos piernas en Sudán y recibió el apoyo de su ídolo Vinicius Jr para volver a jugar al fútbol](https://www.bbc.com/mundo/articles/c69q8gxvp0pro?at_medium=RSS&at_campaign=rss)** · *2026-11-11*
+  - Zaher habló el año pasado con el Servicio Mundial de la BBC sobre su futbolista favorito y su sueño de poder volver a caminar y jugar a la pelota con sus amigos.
+- **[Por fin hay un tratamiento para la demencia de mi hijo de 5 años, pero tiene un costo de US$4 millones](https://www.bbc.com/mundo/articles/cxzd6dej1328o?at_medium=RSS&at_campaign=rss)** · *2026-11-11*
+  - El tratamiento para la demencia infantil está disponible en Estados Unidos, pero su costo es demasiado elevado para quien no vive allí.
 
 ## El País — Internacional
 
-- **[Pete Hegseth: “El juicio político es una farsa, y todos lo saben”](https://elpais.com/us/2026-11-10/hegseth-el-juicio-politico-es-una-farsa-y-todos-lo-saben.html)** · *2026-11-10*
-  - El secretario de Defensa ha ofrecido su primera rueda de prensa en seis meses para defender su gestión tras la apertura de un juicio político en el Congreso de EE UU contra él
-- **[Pete Hegseth, 22 meses de polémica en el Pentágono](https://elpais.com/us/2026-11-10/pete-hegseth-22-meses-de-polemica-en-el-pentagono.html)** · *2026-11-10*
-  - El mandato del expresentador de televisión al frente del Departamento de Defensa ha estado marcado por los ceses entre los altos mandos, los ataques a supuestas narcolanchas y la guerra contra Irán
-- **[Estados Unidos retira sus aviones de otra base del Reino Unido por presuntas amenazas de Irán](https://elpais.com/internacional/2026-11-10/estados-unidos-retira-sus-aviones-de-otra-base-del-reino-unido-por-presuntas-amenazas-de-iran.html)** · *2026-11-10*
-  - Varias aeronaves cisterna han sido desplazadas a Alemania y otras localizaciones, según ‘The Wall Street Journal’
+- **[Las negociaciones de Abu Dabi sobre Ucrania concluyen con un canje de prisioneros y sin progresos para la paz](https://elpais.com/internacional/2026-11-11/las-negociaciones-de-abu-dabi-sobre-ucrania-concluyen-con-un-canje-de-prisioneros-y-sin-progresos-para-la-paz.html)** · *2026-11-11*
+  - El Kremlin presiona para ligar su invasión de Ucrania con una revisión de la seguridad de toda Europa en las conversaciones entre Moscú, Kiev y Washington
+- **[Ucrania busca bajo los drones rusos a los desaparecidos en los escombros de la escuela de Komishuvaja](https://elpais.com/internacional/2026-11-11/ucrania-busca-bajo-los-drones-rusos-a-los-desaparecidos-en-los-escombros-de-la-escuela-de-komishuvaja.html)** · *2026-11-11*
+  - Una semana después del brutal ataque, uno de los más mortíferos de la guerra, los cuerpos recuperados son ya 55, y los equipos de rescate tratan de localizar otra veintena
+- **[Evacuadas alrededor de 300 escuelas de Italia por falsas amenazas de bomba](https://elpais.com/internacional/2026-11-11/evacuadas-alrededor-de-300-escuelas-de-italia-por-falsas-amenazas-de-bomba.html)** · *2026-11-11*
+  - Centenares de colegios de Irlanda, Irlanda del Norte y Escocia también han recibido correos que alertaban de un atentado. No se han encontrado explosivos
 - **[Gaza: cuando el sonido de la lluvia da tanto miedo como el de las bombas](https://elpais.com/internacional/2026-11-10/gaza-cuando-el-sonido-de-la-lluvia-da-tanto-miedo-como-el-de-las-bombas.html)** · *2026-11-10*
   - El camarógrafo palestino Ahmed Abu Kmail, de 39 años, describe la desesperación de su familia ante la lluvia que inunda en estos días su miserable tienda de campaña
 - **[Milei, el hombre a quien solo conmueven sus perros](https://elpais.com/internacional/2026-11-10/milei-el-hombre-a-quien-solo-conmueven-sus-perros.html)** · *2026-11-10*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[US national debt keeps rising after years of tax cuts – and this will make policymaking all the more difficult](https://theconversation.com/us-national-debt-keeps-rising-after-years-of-tax-cuts-and-this-will-make-policymaking-all-the-more-difficult-292099)** · *2026-11-10*
-  - National debt now equals the size of the US economy.
-- **[When a Walmart closes, what happens to nearby stores?](https://theconversation.com/when-a-walmart-closes-what-happens-to-nearby-stores-294847)** · *2026-11-10*
-  - A big retailer can be both a fierce competitor and a traffic-generating anchor for nearby businesses.
-- **[COP31: Governments are failing to rein in emissions from their own power plants](https://theconversation.com/cop31-governments-are-failing-to-rein-in-emissions-from-their-own-power-plants-295592)** · *2026-11-10*
-  - A new study compared power plants’ carbon emissions and found government-owned plants’ emissions were much higher and less responsive to climate policies.
-- **[Economic coercion once ousted Iran’s leader – but that was the 1950s; don’t expect a repeat today](https://theconversation.com/economic-coercion-once-ousted-irans-leader-but-that-was-the-1950s-dont-expect-a-repeat-today-294628)** · *2026-11-10*
-  - A two-year blockade imposed on Iran by Britain gave way to a coup and leadership change. But seven decades later, circumstances are very different.
-- **[RFK Jr. loosens access to unapproved peptides: A health law scholar explains what consumers need to know](https://theconversation.com/rfk-jr-loosens-access-to-unapproved-peptides-a-health-law-scholar-explains-what-consumers-need-to-know-295526)** · *2026-11-10*
-  - Compounding pharmacies will now be able to sell 6 popular peptides, despite the fact they have not been proved safe and effective.
+- **[As the UN adopts an equal world map, meet the three geographers who disputed how the Earth was charted 2000 years ago](https://theconversation.com/as-the-un-adopts-an-equal-world-map-meet-the-three-geographers-who-disputed-how-the-earth-was-charted-2000-years-ago-293297)** · *2026-11-11*
+  - The way a continent appears on the map can shape perceptions of its place in the world – so much is at stake in the depiction of its size and scale.
+- **[Going to the park once a week or more has a measurable impact on a child’s mental health  – new study](https://theconversation.com/going-to-the-park-once-a-week-or-more-has-a-measurable-impact-on-a-childs-mental-health-new-study-293376)** · *2026-11-11*
+  - Children who were taken to the park at least once a week throughout childhood scored 16.5% better on their mental health assessments compared to those who did not.
+- **[Clarissa: this bold and emotional retelling moves Virginia Woolf’s Mrs Dalloway to modern-day Lagos](https://theconversation.com/clarissa-this-bold-and-emotional-retelling-moves-virginia-woolfs-mrs-dalloway-to-modern-day-lagos-295595)** · *2026-11-11*
+  - The film follows Clarissa (Sophie Okonedo) as she prepares to host a party and finds herself revisiting the choices that have shaped her life.
+- **[Poems on the Underground at 40: how Shakespeare inspired one of London’s best-loved public art projects](https://theconversation.com/poems-on-the-underground-at-40-how-shakespeare-inspired-one-of-londons-best-loved-public-art-projects-295499)** · *2026-11-11*
+  - The London tube rumbles to rhythm of the best poetry in the world, and it’s all thanks to Orlando in As You Like It
+- **[Canada’s international student cap hit Atlantic universities hard. Here’s why it matters](https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649)** · *2026-11-11*
+  - Atlantic Canada’s experiences show that reducing international student numbers is not enough to judge whether a policy works. Its impacts on universities, students and communities matter too.
 
 ## Nueva Sociedad
 
