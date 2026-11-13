@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-12 14:20 UTC_
+_Última actualización: 2026-11-13 13:40 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[4 claves del escándalo de los supuestos "sexocontratos" por el que se investiga al expresidente de Colombia Gustavo Petro](https://www.bbc.com/mundo/articles/cr3wg62qwjz9o?at_medium=RSS&at_campaign=rss)** · *2026-11-12*
-  - Una mujer acusa al expresidente de haberle conseguido contratos con el estado a cambio de favores sexuales.
-- **["El papa León XIV es mi padrino de bautizo": la insólita historia de Mildred Camacho, la joven peruana que es ahijada del Sumo Pontífice](https://www.bbc.com/mundo/articles/cqly3jpmvvl9o?at_medium=RSS&at_campaign=rss)** · *2026-11-12*
-  - Hace 30 años, el joven sacerdote Robert Prevost Martínez aceptó ser el padrino de bautismo de una niña en Chulucanas, en la región de Piura. Ahora ella espera con ansiedad su visita a Perú como el papa León XIV.
-- **[Jensen Huang renuncia como director ejecutivo de Nvidia tras el escándalo por sus relaciones extramatrimoniales](https://www.bbc.com/mundo/articles/cq2d9pg47052o?at_medium=RSS&at_campaign=rss)** · *2026-11-12*
-  - El ejecutivo había admitido el domingo pasado haber sido "infiel" a su esposa y pidió disculpas por haberla lastimado a ella y a sus hijos.
-- **[¿Por qué mi familia blanca nunca me dijo que yo era negra?](https://www.bbc.com/mundo/articles/c6x2enpm544zo?at_medium=RSS&at_campaign=rss)** · *2026-11-12*
-  - Lacey Tezino fue criada como una niña blanca en un pueblo rural de Texas conocido por su pasado racista. Por eso, se sorprendió al descubrir que en realidad era negra.
-- **[Qué es el ejercicio incidental, la manera de mantenernos en forma y saludables sin intentarlo](https://www.bbc.com/mundo/articles/cqj6l2w1je7po?at_medium=RSS&at_campaign=rss)** · *2026-11-12*
-  - La actividad incidental puede reducir nuestro riesgo de padecer enfermedades cardiovasculares e incluso de morir. Puedes incorporar algunas formas sencillas de realizarla durante una reunión, en un vuelo o mientras lees este artículo.
+- **[Una falla en Microsoft deja fuera de servicio en todo el mundo el correo electrónico de Outlook y otras plataformas](https://www.bbc.com/mundo/articles/cm20v6ed340wo?at_medium=RSS&at_campaign=rss)** · *2026-11-13*
+  - La firma informó que registra fallas en sus servidores, luego de reportes de pérdida de conexión de servicios como Outlook, Microsoft 365 y Teams a nivel mundial.
+- **[Qué se sabe sobre la falla global que afectó Outlook y otros servicios de Microsoft](https://www.bbc.com/mundo/articles/c8dx192g5pn5o?at_medium=RSS&at_campaign=rss)** · *2026-11-13*
+  - Microsoft ha afirmado que la interrupción del servicio no fue causada por un incidente de ciberseguridad, pero los esfuerzos por solucionar los problemas hasta el momento no han tenido mucho éxito.
+- **[León XIV regresa por primera vez a Chiclayo, la ciudad de Perú que lanzó su carrera hacia el papado](https://www.bbc.co.uk/mundo/live/c62e8kkl9rlrt?at_medium=RSS&at_campaign=rss)**
+  - Tras recorrer Argentina y Uruguay, el Papa visita Perú y vuelve a Chiclayo, el lugar donde ejerció como obispo entre 2015 y 2023. A las 10:30 am locales da una misa en la explanada de las Pampas de Pimentel y allí está BBC Mundo.
+- **["Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella"](https://www.bbc.com/mundo/articles/cwe8rpg5mr9po?at_medium=RSS&at_campaign=rss)** · *2026-11-13*
+  - El documental "El juego de la vida" ha sido el más visto en salas de cine colombianas en los últimos cinco años. BBC Mundo habló con su autor.
+- **["Nací en España y un día me miré al espejo y me di cuenta de que era china"](https://www.bbc.com/mundo/articles/c962yy07y42go?at_medium=RSS&at_campaign=rss)** · *2026-11-13*
+  - Quan Zhou es una artista multidisciplinar nacida en Cádiz en 1989, de padres chinos, se dio a conocer hace unos años en España con su primera novela gráfica "Gazpacho agridulce".
 
 ## El País — Internacional
 
-- **[El ascenso de los hijos de Huang en Nvidia aviva las dudas por la gobernanza: de chef y barman a ejecutivos de la mayor compañía del mundo](https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html)** · *2026-11-12*
-  - El yerno, Nico Caprez, exmonitor de esquí en Suiza, ahora dirige una de las áreas más importantes del negocio
-- **[Una amenaza de bomba detiene la circulación de trenes en el norte de Francia y provoca retrasos en el Eurotúnel](https://elpais.com/internacional/2026-11-12/una-amenaza-de-bomba-detiene-la-circulacion-de-trenes-en-el-norte-de-francia-y-provoca-retrasos-en-el-eurotunel.html)** · *2026-11-12*
-  - El aviso en Calais se suma a la oleada de alertas falsas que desde hace dos semanas ha alcanzado a aviones, medios de comunicación y colegios en varios países europeos
-- **[Meloni ordena no evacuar colegios tras otra amenaza de bomba masiva en Italia por segundo día consecutivo](https://elpais.com/internacional/2026-11-12/1800-colegios-de-italia-reciben-amenazas-de-bomba-por-segundo-dia-consecutivo.html)** · *2026-11-12*
-  - Más de 1.800 centros escolares reciben un correo electrónico similar al del jueves pero el Gobierno pide hacer caso omiso, salvo que haya “elementos concretos” de alarma o lo aconseje la autoridad
+- **[Más de 450.000 combatientes del bando ruso han muerto desde el inicio de la guerra, según la base de datos oficial](https://elpais.com/internacional/2026-11-13/mas-de-450000-combatientes-del-bando-ruso-han-muerto-desde-el-inicio-de-la-guerra-segun-la-base-de-datos-oficial.html)** · *2026-11-13*
+  - Dos grupos de ‘hackers’ publican por primera vez las cifras de la agencia gubernamental de estadísticas. Entre los fallecidos hay un español y decenas de latinoamericanos
+- **[El enviado de Trump asegura que Putin acepta que Europa se sume a las negociaciones de paz sobre Ucrania](https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html)** · *2026-11-13*
+  - Los líderes de la UE debaten cómo estar representados en unas hipotéticas conversaciones, mientras Moscú pone condiciones
+- **[Europa rechaza la renovada presión rusa para modificar su sistema de seguridad](https://elpais.com/internacional/2026-11-12/europa-rechaza-la-renovada-presion-rusa-para-modificar-el-sistema-de-seguridad-de-europa.html)** · *2026-11-12*
+  - Los líderes europeos debaten cómo estar representados en las negociaciones sobre Ucrania si Rusia acepta su participación
 - **[Gaza: cuando el sonido de la lluvia da tanto miedo como el de las bombas](https://elpais.com/internacional/2026-11-10/gaza-cuando-el-sonido-de-la-lluvia-da-tanto-miedo-como-el-de-las-bombas.html)** · *2026-11-10*
   - El camarógrafo palestino Ahmed Abu Kmail, de 39 años, describe la desesperación de su familia ante la lluvia que inunda en estos días su miserable tienda de campaña
 - **[Milei, el hombre a quien solo conmueven sus perros](https://elpais.com/internacional/2026-11-10/milei-el-hombre-a-quien-solo-conmueven-sus-perros.html)** · *2026-11-10*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Extreme weather risk is scaring big corporations away from poorer countries – that hurts the companies, too](https://theconversation.com/extreme-weather-risk-is-scaring-big-corporations-away-from-poorer-countries-that-hurts-the-companies-too-295591)** · *2026-11-12*
-  - When floods, heat waves and other climate disasters cost companies money, the results can shape their willingness to invest there in the future.
-- **[Despite intense Islamophobia, Abdul El-Sayed and dozens of other Muslims elected representatives are breaking down barriers](https://theconversation.com/despite-intense-islamophobia-abdul-el-sayed-and-dozens-of-other-muslims-elected-representatives-are-breaking-down-barriers-296035)** · *2026-11-12*
-  - Three political scientists found that visible Muslim representation can make public institutions seem fairer and encourage Muslim Americans to participate in politics.
-- **[Rural women in Colorado and nationwide are at higher risk for cervical cancer – at-home test kits can help close the gap](https://theconversation.com/rural-women-in-colorado-and-nationwide-are-at-higher-risk-for-cervical-cancer-at-home-test-kits-can-help-close-the-gap-293083)** · *2026-11-12*
-  - At-home testing kits for cervical cancer, alongside HPV vaccines and mobile clinics, can help rural women get the care they need.
-- **[US demands that Iraq disarms brigades misread the nation’s complicated security landscape](https://theconversation.com/us-demands-that-iraq-disarms-brigades-misread-the-nations-complicated-security-landscape-293491)** · *2026-11-12*
-  - Washington has reportedly warned of consequences should Baghdad not rein in pro-Iranian groups.
-- **[While California’s wealth tax failed, states are taking other steps to collect more revenue from the rich](https://theconversation.com/while-californias-wealth-tax-failed-states-are-taking-other-steps-to-collect-more-revenue-from-the-rich-296103)** · *2026-11-12*
-  - Income tax increases and surcharges on high earners are cropping up around the country, along with taxes on the extra homes that the wealthiest Americans own.
+- **[Debate in New York City over city-run groceries is not just about food, but something bigger](https://theconversation.com/debate-in-new-york-city-over-city-run-groceries-is-not-just-about-food-but-something-bigger-291749)** · *2026-11-13*
+  - Many shoppers don’t realize how much of a role the government already plays in grocery markets, because it’s usually not visible.
+- **[MAHA suffered heavy losses in the 2026 midterms, but the movement is far from dead](https://theconversation.com/maha-suffered-heavy-losses-in-the-2026-midterms-but-the-movement-is-far-from-dead-296093)** · *2026-11-13*
+  - Much of the MAHA agenda is popular among the general public, across the political spectrum, and the frustrations that helped forge the movement have not gone away.
+- **[Republican gerrymandering worked pretty well in Texas and Florida, even if it backfired in North Carolina and Ohio](https://theconversation.com/republican-gerrymandering-worked-pretty-well-in-texas-and-florida-even-if-it-backfired-in-north-carolina-and-ohio-295944)** · *2026-11-13*
+  - With massive Democratic majorities poised to enter the 120th Congress, did Republican attempts to gerrymander actually end up costing them some seats in the US House? The answer is complicated.
+- **[Allegheny County has more license plate readers than any other Pa. county. Here’s what’s at stake](https://theconversation.com/allegheny-county-has-more-license-plate-readers-than-any-other-pa-county-heres-whats-at-stake-295948)** · *2026-11-13*
+  - Pennsylvania lawmakers are moving to rein in license plate readers. A criminal justice scholar explains where their proposals fall between public safety and privacy.
+- **[Lebanon’s power‑sharing formula was once a model for conflict resolution – now it is creaking](https://theconversation.com/lebanons-power-sharing-formula-was-once-a-model-for-conflict-resolution-now-it-is-creaking-293991)** · *2026-11-13*
+  - The Hezbollah-Israeli war, the displacement of people and unbalanced negotiations have put stress on an already fragile system.
 
 ## Nueva Sociedad
 
