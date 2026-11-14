@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-13 13:40 UTC_
+_Última actualización: 2026-11-14 12:45 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Una falla en Microsoft deja fuera de servicio en todo el mundo el correo electrónico de Outlook y otras plataformas](https://www.bbc.com/mundo/articles/cm20v6ed340wo?at_medium=RSS&at_campaign=rss)** · *2026-11-13*
-  - La firma informó que registra fallas en sus servidores, luego de reportes de pérdida de conexión de servicios como Outlook, Microsoft 365 y Teams a nivel mundial.
-- **[Qué se sabe sobre la falla global que afectó Outlook y otros servicios de Microsoft](https://www.bbc.com/mundo/articles/c8dx192g5pn5o?at_medium=RSS&at_campaign=rss)** · *2026-11-13*
-  - Microsoft ha afirmado que la interrupción del servicio no fue causada por un incidente de ciberseguridad, pero los esfuerzos por solucionar los problemas hasta el momento no han tenido mucho éxito.
-- **[León XIV regresa por primera vez a Chiclayo, la ciudad de Perú que lanzó su carrera hacia el papado](https://www.bbc.co.uk/mundo/live/c62e8kkl9rlrt?at_medium=RSS&at_campaign=rss)**
-  - Tras recorrer Argentina y Uruguay, el Papa visita Perú y vuelve a Chiclayo, el lugar donde ejerció como obispo entre 2015 y 2023. A las 10:30 am locales da una misa en la explanada de las Pampas de Pimentel y allí está BBC Mundo.
+- **[Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas miles de vuelos en todo el país](https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss)** · *2026-11-14*
+  - La FAA había ordenado este viernes suspender todos los despegues de vuelos en Estados Unidos, alegando "circunstancias extraordinarias" y motivos de seguridad.
+- **[Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S](https://www.bbc.com/mundo/articles/c5n4e274kdlro?at_medium=RSS&at_campaign=rss)** · *2026-11-14*
+  - Funcionarios estadounidenses señalan que la interrupción fue causada por la sobrecarga de equipos antiguos, y no por un ciberataque.
+- **[Un inflexible Putin eleva sus exigencias para alcanzar la paz con Ucrania](https://www.bbc.com/mundo/articles/crn80jqyw993o?at_medium=RSS&at_campaign=rss)** · *2026-11-14*
+  - En Moscú se considera una victoria que la seguridad europea figure ahora en las conversaciones, señala Steve Rosenberg, editor de asuntos de Rusia de la BBC.
+- **[Los momentos de la historia que más alteraron la estatura de los humanos](https://www.bbc.com/mundo/articles/cx4g1gnz1jmzo?at_medium=RSS&at_campaign=rss)** · *2026-11-14*
+  - Hoy somos unos 10 cm más altos que hace 100 años, pero no siempre ha sido un camino ascendente.
 - **["Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella"](https://www.bbc.com/mundo/articles/cwe8rpg5mr9po?at_medium=RSS&at_campaign=rss)** · *2026-11-13*
   - El documental "El juego de la vida" ha sido el más visto en salas de cine colombianas en los últimos cinco años. BBC Mundo habló con su autor.
-- **["Nací en España y un día me miré al espejo y me di cuenta de que era china"](https://www.bbc.com/mundo/articles/c962yy07y42go?at_medium=RSS&at_campaign=rss)** · *2026-11-13*
-  - Quan Zhou es una artista multidisciplinar nacida en Cádiz en 1989, de padres chinos, se dio a conocer hace unos años en España con su primera novela gráfica "Gazpacho agridulce".
 
 ## El País — Internacional
 
-- **[Más de 450.000 combatientes del bando ruso han muerto desde el inicio de la guerra, según la base de datos oficial](https://elpais.com/internacional/2026-11-13/mas-de-450000-combatientes-del-bando-ruso-han-muerto-desde-el-inicio-de-la-guerra-segun-la-base-de-datos-oficial.html)** · *2026-11-13*
-  - Dos grupos de ‘hackers’ publican por primera vez las cifras de la agencia gubernamental de estadísticas. Entre los fallecidos hay un español y decenas de latinoamericanos
-- **[El enviado de Trump asegura que Putin acepta que Europa se sume a las negociaciones de paz sobre Ucrania](https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html)** · *2026-11-13*
-  - Los líderes de la UE debaten cómo estar representados en unas hipotéticas conversaciones, mientras Moscú pone condiciones
-- **[Europa rechaza la renovada presión rusa para modificar su sistema de seguridad](https://elpais.com/internacional/2026-11-12/europa-rechaza-la-renovada-presion-rusa-para-modificar-el-sistema-de-seguridad-de-europa.html)** · *2026-11-12*
-  - Los líderes europeos debaten cómo estar representados en las negociaciones sobre Ucrania si Rusia acepta su participación
+- **[Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados](https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html)** · *2026-11-14*
+  - Problemas en el sistema informático que gestiona las comunicaciones provocaron la suspensión. Hay cientos de miles de personas afectadas por las cancelaciones y retrasos de sus viajes
+- **[Caos en los aeropuertos de EE UU por la suspensión de vuelos: “Nadie va a ir a ninguna parte”](https://elpais.com/us/2026-11-14/caos-en-los-aeropuertos-de-ee-uu-por-la-suspension-de-vuelos-nadie-va-a-ir-a-ninguna-parte.html)** · *2026-11-14*
+  - Miles de pasajeros en todo el país se quedaron varados en espera de información oficial sobre la reprogramación de sus vuelos
+- **[Rescatan a 180 personas tras el choque de un buque y un crucero en el río Misisipi a la altura de Nueva Orleans](https://elpais.com/us/2026-11-13/un-buque-choca-contra-un-crucero-con-129-personas-a-bordo-en-el-rio-misisipi.html)** · *2026-11-13*
+  - Se desconoce qué ocasionó la colisión en el puerto en el Estado sureño de Luisiana
 - **[Gaza: cuando el sonido de la lluvia da tanto miedo como el de las bombas](https://elpais.com/internacional/2026-11-10/gaza-cuando-el-sonido-de-la-lluvia-da-tanto-miedo-como-el-de-las-bombas.html)** · *2026-11-10*
   - El camarógrafo palestino Ahmed Abu Kmail, de 39 años, describe la desesperación de su familia ante la lluvia que inunda en estos días su miserable tienda de campaña
 - **[Milei, el hombre a quien solo conmueven sus perros](https://elpais.com/internacional/2026-11-10/milei-el-hombre-a-quien-solo-conmueven-sus-perros.html)** · *2026-11-10*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Debate in New York City over city-run groceries is not just about food, but something bigger](https://theconversation.com/debate-in-new-york-city-over-city-run-groceries-is-not-just-about-food-but-something-bigger-291749)** · *2026-11-13*
-  - Many shoppers don’t realize how much of a role the government already plays in grocery markets, because it’s usually not visible.
-- **[MAHA suffered heavy losses in the 2026 midterms, but the movement is far from dead](https://theconversation.com/maha-suffered-heavy-losses-in-the-2026-midterms-but-the-movement-is-far-from-dead-296093)** · *2026-11-13*
-  - Much of the MAHA agenda is popular among the general public, across the political spectrum, and the frustrations that helped forge the movement have not gone away.
-- **[Republican gerrymandering worked pretty well in Texas and Florida, even if it backfired in North Carolina and Ohio](https://theconversation.com/republican-gerrymandering-worked-pretty-well-in-texas-and-florida-even-if-it-backfired-in-north-carolina-and-ohio-295944)** · *2026-11-13*
-  - With massive Democratic majorities poised to enter the 120th Congress, did Republican attempts to gerrymander actually end up costing them some seats in the US House? The answer is complicated.
-- **[Allegheny County has more license plate readers than any other Pa. county. Here’s what’s at stake](https://theconversation.com/allegheny-county-has-more-license-plate-readers-than-any-other-pa-county-heres-whats-at-stake-295948)** · *2026-11-13*
-  - Pennsylvania lawmakers are moving to rein in license plate readers. A criminal justice scholar explains where their proposals fall between public safety and privacy.
-- **[Lebanon’s power‑sharing formula was once a model for conflict resolution – now it is creaking](https://theconversation.com/lebanons-power-sharing-formula-was-once-a-model-for-conflict-resolution-now-it-is-creaking-293991)** · *2026-11-13*
-  - The Hezbollah-Israeli war, the displacement of people and unbalanced negotiations have put stress on an already fragile system.
+- **[A new Democratic Congress will view Trump’s harsh Cuba policy skeptically – but that doesn’t mean a change is coming soon](https://theconversation.com/a-new-democratic-congress-will-view-trumps-harsh-cuba-policy-skeptically-but-that-doesnt-mean-a-change-is-coming-soon-296017)** · *2026-11-14*
+  - Cuba is unlikely to be a huge priority for incoming Democrats, and the Trump administration is unlikely to change its maximum pressure approach.
+- **[Why the Microsoft 365 outage is different and why it takes so long to restore email services](https://theconversation.com/why-the-microsoft-365-outage-is-different-and-why-it-takes-so-long-to-restore-email-services-296628)** · *2026-11-13*
+  - When one email service goes down, others don’t stop trying to send emails to users of the affected service. The result is snarled traffic that takes time to clear up.
+- **[Oceans and forests have absorbed roughly half our carbon emissions for decades, slowing climate change – but can they keep it up?](https://theconversation.com/oceans-and-forests-have-absorbed-roughly-half-our-carbon-emissions-for-decades-slowing-climate-change-but-can-they-keep-it-up-296498)** · *2026-11-13*
+  - A method for measuring the world’s crucial carbon sinks finds that the ocean’s so-far-increasing ability to help might taper off in the future.
+- **[The Microsoft outage is an urgent wake-up call for greater digital resilience](https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610)** · *2026-11-13*
+  - The infrastructure of the internet is more fragile than we’d like it to be.
+- **[Early changes linked to ovarian cancer may leave a trace in the blood – new study](https://theconversation.com/early-changes-linked-to-ovarian-cancer-may-leave-a-trace-in-the-blood-new-study-296527)** · *2026-11-13*
+  - An experimental test picked up a signal in stored blood samples from people with tiny patches of abnormal cells in their fallopian tubes.
 
 ## Nueva Sociedad
 
