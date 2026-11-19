@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-18 14:51 UTC_
+_Última actualización: 2026-11-19 14:57 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)](https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss)** · *2026-11-18*
-  - Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra…
-- **[Investigué el asesinato de mi padre y desafío la versión oficial de un episodio clave de la historia de Perú](https://www.bbc.com/mundo/articles/cmwyz0wj4xjeo?at_medium=RSS&at_campaign=rss)** · *2026-11-18*
-  - La matanza de varios periodistas en Uchuraccay es uno de los episodios más recordados de un pasado doloroso y de nuevo en discusión.
-- **[El raro encuentro con los indígenas aislados awá en Brasil que genera preocupación](https://www.bbc.com/mundo/articles/cmglry191y9xo?at_medium=RSS&at_campaign=rss)** · *2026-11-18*
-  - Unos 20 integrantes del pueblo awá se acercó a la tribu de los guajajara e intercambiaron alimentos, lo que disparó de inmediato las alarmas.
-- **[No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos](https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss)** · *2026-11-18*
-  - Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación.
-- **[Encuentran una falla crítica en Java, el lenguaje de programación del que dependen el 90% de las grandes compañías del mundo](https://www.bbc.com/mundo/articles/cwvg2enzxdm9o?at_medium=RSS&at_campaign=rss)** · *2026-11-18*
-  - La misma empresa tecnológica emergente que descubrió una vulnerabilidad en PHP utilizó inteligencia artificial para descubrir un fallo crítico de software en uno de los lenguajes de programación más populares del mundo.
+- **["Se están quedando encerradas en sus casas sin un futuro": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina](https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss)** · *2026-11-19*
+  - Familiares de personas con discapacidad han denunciado que la red de cuidados —que incluye terapeutas, hogares y transportistas— ha colapsado. Ahora una ley intenta cambiarlo.
+- **[China, Rusia y EE.UU. "deben dar ejemplo" y "mantener la paz": lo que Trump, Putin y Xi dijeron en su histórica cumbre](https://www.bbc.com/mundo/articles/cw1md5mzjj4vo?at_medium=RSS&at_campaign=rss)** · *2026-11-19*
+  - Donald Trump, Xi Jinping y Vladimir Putin celebraron en Shenzhen la primera reunión trilateral entre EE.UU., China y Rusia.
+- **[La ONU declara culpable de genocidio contra los rohingyas a Myanmar, el primer Estado condenado por este crimen](https://www.bbc.com/mundo/articles/cm782edd78ewo?at_medium=RSS&at_campaign=rss)** · *2026-11-19*
+  - El histórico veredicto se alcanzó tras nueve votos a favor y seis en contra.
+- **[5 formas sorprendentes de aumentar tu hierro (y no tienen nada que ver con la carne)](https://www.bbc.com/mundo/articles/c8e39l3kwv1wo?at_medium=RSS&at_campaign=rss)** · *2026-11-19*
+  - Nuestros niveles de este mineral esencial dependen no solo de la cantidad que consumamos, sino de cómo lo absorbamos.
+- **[Por qué la niebla está abandonando un excepcional bosque en Costa Rica y cambiando su ecosistema](https://www.bbc.com/mundo/articles/cqde1n5843yxo?at_medium=RSS&at_campaign=rss)** · *2026-11-19*
+  - El Bosque Nuboso de Monteverde, en Costa Rica, está perdiendo su niebla por el cambio climático, lo que pone en peligros numerosas especies endémicas.
 
 ## El País — Internacional
 
-- **[Trump y Putin se saludan tras ser recibidos por Xi Jinping a su llegada a China para participar en la cumbre del APEC](https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html)** · *2026-11-18*
-  - El líder chino inaugura el foro de cooperación Asia-Pacífico en Shenzhen con una defensa del libre comercio y una advertencia contra el “unilateralismo y el proteccionismo”. Su homólogo ruso critica el “declive humillante” de Europa
-- **[Rusia pasa a una nueva fase en su ofensiva en Europa: sabotajes a los fabricantes de armas](https://elpais.com/internacional/2026-11-18/rusia-pasa-a-una-nueva-fase-en-su-ofensiva-en-europa-sabotajes-a-los-fabricantes-de-armas.html)** · *2026-11-18*
-  - El número de ataques de baja intensidad contra productores de armamento con ventas en Ucrania, como el del sábado en Estonia, se ha multiplicado desde el verano. El Kremlin utiliza a agentes ocasionales o inmigrantes simpatizantes
-- **[Genocidio, la dificultad de probar el crimen de los crímenes](https://elpais.com/internacional/2026-11-18/genocidio-la-dificultad-de-probar-el-crimen-de-los-crimenes.html)** · *2026-11-18*
-  - El Tribunal Penal Internacional decide este jueves si condena a Myanmar por la limpieza étnica de los rohingyá, una sentencia que sentará un precedente en el caso contra Israel por Gaza
+- **[El máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra los rohinyás](https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html)** · *2026-11-19*
+  - Esta es la primera vez en su historia que el Tribunal Internacional de Justicia considera a un Estado responsable de ese gravísimo delito. La decisión puede repercutir en el caso iniciado por Sudáfrica contra Israel
+- **[Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”](https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html)** · *2026-11-19*
+  - Los líderes de las tres mayores potencias se comprometen a impulsar una reforma de la ONU y a garantizar la estabilidad de los flujos energéticos. El republicano, sobre el mandatario ruso: “Es mi amigo”
+- **[El triunvirato de Shenzhen y la rebelión del resto del mundo](https://elpais.com/internacional/2026-11-19/el-triunvirato-de-shenzhen-y-la-rebelion-del-resto-del-mundo.html)** · *2026-11-19*
+  - Xi, Trump y Putin envían un mensaje de convergencia y rechazo a un orden que les pueda constreñir. Los demás países harán bien en tomárselo en serio
 - **[De Yalta a Shenzhen](https://elpais.com/internacional/2026-11-18/de-yalta-a-shenzhen.html)** · *2026-11-18*
   - Xi ejerce de anfitrión de una cumbre que pidió Putin para dividir Europa y que Trump aceptó con la vista puesta en el Nobel de la Paz
 - **[Putin y Trump buscan un cambio de régimen en Europa](https://elpais.com/internacional/2026-11-15/putin-y-trump-buscan-un-cambio-de-regimen-en-europa.html)** · *2026-11-15*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Death by algorithm: the human cost of AI on the battlefield](https://theconversation.com/death-by-algorithm-the-human-cost-of-ai-on-the-battlefield-296080)** · *2026-11-18*
-  - Systems that were supposed to make war cleaner and more precise are taking a huge toll on civilians.
-- **[Curious Kids: What if the Earth stopped spinning?](https://theconversation.com/curious-kids-what-if-the-earth-stopped-spinning-290873)** · *2026-11-18*
-  - The weather would get wild and windy if one side of the planet was always cold and dark and the other side always hot and light.
-- **[Safe baby sleep advice: is it realistic for South African families?](https://theconversation.com/safe-baby-sleep-advice-is-it-realistic-for-south-african-families-295258)** · *2026-11-18*
-  - To reduce the risk of sleep-related deaths the American Academy of Pediatrics recommends that babies sleep on their backs, on a firm surface, without soft bedding.
-- **[Today’s Thanksgiving holiday was invented amid the Civil War to unite a divided country](https://theconversation.com/todays-thanksgiving-holiday-was-invented-amid-the-civil-war-to-unite-a-divided-country-289016)** · *2026-11-18*
-  - Thanksgiving as we know it today was created in the mid-1800s to unify a nation and was often used to assimilate new immigrants.
-- **[How the US power rivalry with Russia and China is turning outer space into the next battlefront](https://theconversation.com/how-the-us-power-rivalry-with-russia-and-china-is-turning-outer-space-into-the-next-battlefront-293414)** · *2026-11-18*
-  - After the recent US deployment of a weapon in Earth’s orbit, the space arms race looks increasingly less like something that can be prevented.
+- **[Brain stacking: an expert weighs in on whether this TikTok trend can really boost your brainpower](https://theconversation.com/brain-stacking-an-expert-weighs-in-on-whether-this-tiktok-trend-can-really-boost-your-brainpower-295488)** · *2026-11-19*
+  - Stacking up bursts of reading, puzzles and journalling is being promoted as a way to boost brainpower.
+- **[African glamour: the bold women who styled, wrote and read Drum magazine](https://theconversation.com/african-glamour-the-bold-women-who-styled-wrote-and-read-drum-magazine-294183)** · *2026-11-19*
+  - Drum’s male reporters are legendary, but women were far more involved in shaping the magazine’s content than many realise.
+- **[South Africa recycles only about one-fifth of its plastic waste. What’s holding it back?](https://theconversation.com/south-africa-recycles-only-about-one-fifth-of-its-plastic-waste-whats-holding-it-back-294328)** · *2026-11-19*
+  - South Africa has laws and policies to reduce plastic waste. But they need enforcement, local recycling centres and to involve waste reclaimers in planning.
+- **[US and Iran once practiced diplomacy through archaeology – that legacy need not lie in ruins](https://theconversation.com/us-and-iran-once-practiced-diplomacy-through-archaeology-that-legacy-need-not-lie-in-ruins-292886)** · *2026-11-19*
+  - Damage to heritage sites across Iran has been reported since the onset of war with Israel and the US in February.
+- **[Nvidia isn’t the first company to dump a misbehaving CEO – history shows it’s in the interest of corporate boards to act](https://theconversation.com/nvidia-isnt-the-first-company-to-dump-a-misbehaving-ceo-history-shows-its-in-the-interest-of-corporate-boards-to-act-296800)** · *2026-11-19*
+  - Board members are becoming more aware of the personal job consequences that stem from their performance and entanglement in misconduct.
 
 ## Nueva Sociedad
 
