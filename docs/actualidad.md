@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-21 13:56 UTC_
+_Última actualización: 2026-11-22 13:49 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["No quise negociar la sangre de mi hija": la madre de una adolescente muerta a tiros en las protestas en Irán exige justicia desde el exilio](https://www.bbc.com/mundo/articles/cwx28636mp5zo?at_medium=RSS&at_campaign=rss)** · *2026-11-21*
-  - Samira publica desde el extranjero los nombres de miembros de las fuerzas de seguridad iraníes que, según ella, son responsables de la muerte de los manifestantes.
-- **[La bolsa de Wall Street cae con fuerza en medio del desplome de las acciones de las tecnológicas y registra su peor semana desde la pandemia](https://www.bbc.com/mundo/articles/cm8791vvwelno?at_medium=RSS&at_campaign=rss)** · *2026-11-20*
-  - Las tecnológicas se han visto afectadas por la caída masiva del sector en los mercados bursátiles.
-- **[Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU.](https://www.bbc.com/mundo/articles/cq3dg820rre0o?at_medium=RSS&at_campaign=rss)** · *2026-11-20*
-  - Esta prolongada ejecución se produce semanas después de que Christa Pike sobreviviera a la inyección letal del mismo fármaco.
-- **["Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo": Jorge Drexler](https://www.bbc.com/mundo/articles/c6n90g8p3nlwo?at_medium=RSS&at_campaign=rss)** · *2026-11-21*
-  - El músico uruguayo ganó tres premios Latin Grammy la semana pasada y recibió ahora dos nominaciones al Grammy anglosajón.
+- **[Lo que podemos aprender de una antigua ciudad subterránea de Turquía sobre cómo escapar del calor y el frío extremos](https://www.bbc.com/mundo/articles/cq074g7x8915o?at_medium=RSS&at_campaign=rss)** · *2026-11-21*
+  - Hace siglos, los habitantes de la Capadocia, una región histórica en Turquía, se escondieron bajo tierra para escapar de sus enemigos. Allí también encontraron refugio frente a las condiciones climáticas extremas.
+- **["La utopía socialista" que llevó a un grupo de australianos idealistas a Paraguay hace más de 130 años (y en qué terminó la experiencia)](https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss)** · *2026-11-21*
+  - Decenas de australianos salieron de su país a finales del siglo XIX en busca de un mejor lugar para vivir. El país escogido fue Paraguay.
+- **[Cómo dos neveras abandonadas por el ejército de EE.UU. en Toscana dieron origen al helado italiano](https://www.bbc.com/mundo/articles/c3d3g9d1rk3o?at_medium=RSS&at_campaign=rss)** · *2026-11-22*
+  - El gelato es sinónimo de Italia, pero sus orígenes modernos se remontan a una humilde lechería de la Toscana y a un par de refrigeradores abandonados tras la Segunda Guerra Mundial.
+- **["Fui coaccionada para tener un hijo": cómo un multimillonario engañó a la exitosa DJ Liv Nervo para que quedara embarazada](https://www.bbc.com/mundo/articles/cqm2ly382ylxo?at_medium=RSS&at_campaign=rss)** · *2026-11-22*
+  - Durante años creyó vivir un amor de película. Hasta que, con seis meses de embarazo, descubrió la verdad. Ahora lucha porque eso sea castigado por la ley cuando le ocurra a otras.
 - **[Cómo una taza de té mal servida transformó la estadística y abrió el camino a la ciencia de los datos](https://www.bbc.com/mundo/articles/cpq0lv5p5vqo?at_medium=RSS&at_campaign=rss)** · *2026-11-21*
   - Un curioso desafío entre colegas terminó dando forma a las reglas que hoy sostienen casi cualquier experimento científico.
 
 ## El País — Internacional
 
-- **[La batalla interna en Europa sobre las negociaciones con Putin salpica a Kaja Kallas](https://elpais.com/internacional/2026-11-21/la-batalla-interna-en-europa-sobre-las-negociaciones-con-putin-salpica-a-kaja-kallas.html)** · *2026-11-21*
-  - La UE ha designado a un equipo negociador para hablar con el Kremlin, pero se mantiene la división sobre las conversaciones y el papel europeo
-- **[Periodistas, activistas y abogados rusos intentan resistir a la persecución: “La represión no cesa, es cada vez más severa”](https://elpais.com/internacional/2026-11-21/periodistas-activistas-y-abogados-rusos-intentan-resistir-a-la-persecucion-la-represion-no-cesa-es-cada-vez-mas-severa.html)** · *2026-11-21*
-  - Profesionales y ONG intentan continuar su trabajo en la sombra para evitar la prisión y las sanciones del Gobierno de Putin. En las cárceles hay más de 2.300 presos políticos
-- **[Resurge en Italia el misterio de las masacres de la Mafia de 1992 con el suicidio de un exjefe de policía](https://elpais.com/internacional/2026-11-21/resurge-en-italia-el-misterio-de-las-masacres-de-mafia-de-1992-con-el-suicidio-de-un-exjefe-de-policia.html)** · *2026-11-21*
-  - Gianni de Gennaro, investigado por el encubrimiento del asesinato de Borsellino, aparece muerto en su casa días después de ser acusado por la Fiscalía de entorpecer las pesquisas sobre la muerte del magistrado
+- **[La UE abraza la línea dura sobre migración al aceptar los centros de deportación en Ruanda que tachaba de inhumanos](https://elpais.com/internacional/2026-11-22/la-ue-abraza-la-linea-dura-sobre-migracion-al-aceptar-los-centros-de-deportacion-en-ruanda-que-tachaba-de-inhumanos.html)** · *2026-11-22*
+  - El acuerdo de cinco países con Kigali marca un cambio de paradigma en Europa, donde avanzan las políticas restrictivas a lomos de la extrema derecha
+- **[Del genocidio a las deportaciones: por qué Europa elige Ruanda para expulsar migrantes](https://elpais.com/internacional/2026-11-22/del-genocidio-a-las-deportaciones-por-que-europa-elige-ruanda-para-expulsar-migrantes.html)** · *2026-11-22*
+  - La cooperación judicial para perseguir a los sospechosos de la matanza de tutsis en 1994 ha estrechado los vínculos entre Kigali y varios países europeos, una relación que ayuda a entender el acuerdo
+- **[“Abuela” o “cabra”: los talibanes privan a las afganas de su nombre e imponen esos epítetos para dirigirse a ellas](https://elpais.com/internacional/2026-11-22/abuela-o-cabra-los-talibanes-privan-a-las-afganas-de-su-nombre-e-imponen-los-epitetos-para-dirigirse-a-ellas.html)** · *2026-11-22*
+  - Los fundamentalistas ordenan en una provincia de Afganistán que no se mencione en los documentos oficiales la identidad real de las mujeres
+- **[Ni Yalta, ni cumbre: la nada con sifón](https://elpais.com/internacional/2026-11-22/ni-yalta-ni-cumbre-la-nada-con-sifon.html)** · *2026-11-22*
+  - La inmensa y vacía mesa en la que se sentaron Xi, Putin y Trump es la metáfora de una reunión que apenas sirvió para escenificar el desplazamiento de poder en el mundo
 - **[El triunvirato de Shenzhen y la rebelión del resto del mundo](https://elpais.com/internacional/2026-11-19/el-triunvirato-de-shenzhen-y-la-rebelion-del-resto-del-mundo.html)** · *2026-11-19*
   - Xi, Trump y Putin envían un mensaje de convergencia y rechazo a un orden que les pueda constreñir. Los demás países harán bien en tomárselo en serio
-- **[De Yalta a Shenzhen](https://elpais.com/internacional/2026-11-18/de-yalta-a-shenzhen.html)** · *2026-11-18*
-  - Xi ejerce de anfitrión de una cumbre que pidió Putin para dividir Europa y que Trump aceptó con la vista puesta en el Nobel de la Paz
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Why fossil fuel-producing countries are stalling this crucial climate report](https://theconversation.com/why-fossil-fuel-producing-countries-are-stalling-this-crucial-climate-report-296997)** · *2026-11-21*
-  - Independent, expert climate science is critical to our future.
-- **[Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke](https://theconversation.com/whether-its-sister-or-your-own-sister-the-burden-that-caring-for-aging-parents-puts-on-women-is-no-joke-297041)** · *2026-11-20*
-  - About 1 in 4 US adults are family caregivers.
-- **[Alcohol addiction and eating disorders often go hand in hand – here’s why](https://theconversation.com/alcohol-addiction-and-eating-disorders-often-go-hand-in-hand-heres-why-294584)** · *2026-11-20*
-  - People receiving treatment for alcohol use problems are twice as likely to experience an eating disorder.
-- **[Your Mother Your Mother Your Mother: the sacred and profane collide in this off-kilter hitman drama](https://theconversation.com/your-mother-your-mother-your-mother-the-sacred-and-profane-collide-in-this-off-kilter-hitman-drama-297115)** · *2026-11-20*
-  - Tender moments in this affecting family drama about love and loss sit alongside scenes of jarringly brutal violence.
-- **[Why Taiwanese firms are reluctant to leave China, even as tensions rise](https://theconversation.com/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise-297000)** · *2026-11-20*
-  - For many Taiwanese entrepreneurs, staying in China is about keeping people on both sides of the strait in contact when government relations are strained.
+- **[Prescription drug coverage: Ontario post-secondary students are paying more for less](https://theconversation.com/prescription-drug-coverage-ontario-post-secondary-students-are-paying-more-for-less-295862)** · *2026-11-22*
+  - Shifting student coverage from the public to the private sector is likely to increase overall system costs and lead to higher premiums for students and their families.
+- **[Who gets to decide whether an AI data centre has a ‘social licence’ to operate?](https://theconversation.com/who-gets-to-decide-whether-an-ai-data-centre-has-a-social-licence-to-operate-295729)** · *2026-11-22*
+  - Community support is increasingly important to AI data centre development. But who gets to decide whether a project has earned it?
+- **[Fossil of the Day: Has Mark Carney made Canada a climate heretic?](https://theconversation.com/fossil-of-the-day-has-mark-carney-made-canada-a-climate-heretic-296908)** · *2026-11-22*
+  - The satirical award is given to countries and leaders seen as doing little to support efforts to tackle climate change.
+- **[Mark Carney’s fight against Donald Trump won’t make Canada stronger](https://theconversation.com/mark-carneys-fight-against-donald-trump-wont-make-canada-stronger-296186)** · *2026-11-22*
+  - Mark Carney’s ‘Projects of National Interest’ are more like ‘Projects of National Inequality and Environmental Destruction’ than measures that will promote Canada’s interests sustainably.
+- **[Serbia and Hungary show why playing East against West may no longer pay for small European states](https://theconversation.com/serbia-and-hungary-show-why-playing-east-against-west-may-no-longer-pay-for-small-european-states-296555)** · *2026-11-22*
+  - By breaking away from illiberal rule, Serbia and Hungary provide examples of states seeking the best of both worlds in their relations with China, Russia and the West.
 
 ## Nueva Sociedad
 
