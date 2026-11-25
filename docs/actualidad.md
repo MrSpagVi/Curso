@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-24 16:45 UTC_
+_Última actualización: 2026-11-25 16:31 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **["No creo que el narcotráfico sea invencible, pero en la práctica lo es para quienes hoy gobiernan": por qué la violencia persiste en Colombia 10 años después del acuerdo de paz](https://www.bbc.com/mundo/articles/cwzr53jr1xnpo?at_medium=RSS&at_campaign=rss)** · *2026-11-24*
-  - El acuerdo con las FARC, elogiado en el extranjero, es constantemente atacado dentro de Colombia y no termina de consolidarse, ¿Por qué? ¿Hay algo en la historia del país que explique la continua violencia?
-- **["Quiero destruir el capitalismo, no al país": así operan los grupos de ultraizquierda que impulsan las protestas violentas en Francia](https://www.bbc.com/mundo/articles/cmx27q3w9qjxo?at_medium=RSS&at_campaign=rss)** · *2026-11-24*
-  - El pasado sábado se cumplió el sexto fin de semana consecutivo de manifestaciones contra el aumento vertiginoso de precios, el deterioro de los servicios públicos y los presuntos casos de brutalidad policial.
-- **[El papa Francisco revela en su diario que vio al diablo 3 veces, así como "las puertas del infierno"](https://www.bbc.com/mundo/articles/cm5y1p3e5knvo?at_medium=RSS&at_campaign=rss)** · *2026-11-24*
-  - Según extractos publicados del diario del difunto pontífice, una de las visiones tuvo lugar "en el coro" durante la misa.
-- **[Cómo un adolescente aficionado a los videojuegos y su madre ayudaron a rescatar a una chica que llevaba más de un año desaparecida](https://www.bbc.com/mundo/articles/c6lywgreg77lo?at_medium=RSS&at_campaign=rss)** · *2026-11-24*
-  - Luego de que Landon Tresp, de 16 años, conociera a una adolescente en un juego en línea, él y su madre terminaron ayudando al FBI a rescatarla de un secuestro.
-- **[Dos hombres en mi vida: cómo un accidente de tráfico me enseñó nuevas formas de amar](https://www.bbc.com/mundo/articles/cx4gnrrqm61jo?at_medium=RSS&at_campaign=rss)** · *2026-11-23*
-  - Brandon era el amor de la adolescencia de Kris y su "Príncipe Azul", pero cuando él sufrió un catastrófico accidente automovilístico, ella tuvo que encontrar una nueva forma de amarlo.
+- **[Cómo China mantiene su influencia en América Latina en pleno pulso geopolítico con EE.UU.](https://www.bbc.com/mundo/articles/c32l5enge15go?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
+  - De distintas formas —y a veces con bajo perfil—, Pekín logra sostener una presencia trascendental en la región aunque Washington busca limitarla.
+- **[Las fuerzas especiales de Colombia rescatan a decenas de secuestrados en un supermercado y logran someter a los asaltantes](https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
+  - Según informó el gobierno, los hombres armados tomaron a los clientes y empleados del supermercado como rehenes, al ser sorprendidos por la Policía en medio de un intento de robo.
+- **["500.000 muertos": la filtración de datos que revela las abrumadoras cifras de soldados rusos fallecidos en la guerra de Ucrania](https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
+  - Las cifras obtenidas por unos hackers muestran cómo la invasión a gran escala de Ucrania ha transformado significativamente los patrones de mortalidad en Rusia.
+- **[La disputa entre matemáticos que aviva el temor de que la IA pueda socavar la ciencia](https://www.bbc.com/mundo/articles/cje36d6456vwo?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
+  - La IA ha realizado algunos descubrimientos científicos asombrosos. Pero ahora, se están planteando dudas sobre su precisión.
+- **["La chica del metro", la influencer que pasó 2 meses en una unidad psiquiátrica por error](https://www.bbc.com/mundo/articles/cwm25mze7950o?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
+  - Los vídeos que la creadora de contenido grabó bailando en el metro de Londres se hicieron virales en internet en 2023.
 
 ## El País — Internacional
 
-- **[El hundimiento de la corbeta ‘Merkury’ pone en evidencia las grietas de la defensa naval de Rusia](https://elpais.com/internacional/2026-11-24/el-hundimiento-de-la-corbeta-merkury-de-orgullo-de-la-flota-rusa-en-2023-a-ejemplo-de-la-vulnerabilidad-en-la-nueva-guerra-naval.html)** · *2026-11-24*
-  - El navío fue presentado por Vladímir Putin durante el Día de la Armada de hace tres años como ejemplo de la modernización de su flota. Varias embarcaciones de ataque ucranias lo llevaron al fondo del mar en la madrugada del domingo
-- **[Las ambulancias palestinas se convierten en “objetivo directo” en Cisjordania](https://elpais.com/internacional/2026-11-24/las-ambulancias-palestinas-se-convierten-en-objetivo-directo-en-cisjordania.html)** · *2026-11-24*
-  - Los relatos de sanitarios y un informe de una ONG israelí dan cuenta del “drástico” aumento de ataques y trabas a la atención médica de emergencia por parte de soldados y colonos
-- **[La futura presidenta de Alemania no quiere saber nada de los extremos](https://elpais.com/internacional/2026-11-24/la-futura-presidenta-de-alemania-no-quiere-saber-nada-ni-de-afd-ni-de-die-linke.html)** · *2026-11-24*
-  - Ilse Aigner, candidata para ser la próxima jefa de Estado alemana, descarta el diálogo con AfD y el partido de izquierdas que gobernará Berlín
+- **[Kilmar Abrego García, víctima de las deportaciones masivas de Trump, abandona Estados Unidos y llega a España](https://elpais.com/internacional/2026-11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html)** · *2026-11-25*
+  - El salvadoreño terminó por error en la megacárcel de Bukele en 2025 y corría el riesgo de ser enviado por la fuerza a Liberia. Según declararon sus abogados en el aeropuerto de Madrid, no pedirá asilo y viajará a varios países para…
+- **[EE UU propone nuevos aranceles contra 14 socios comerciales, entre ellos China y la UE](https://elpais.com/internacional/2026-11-25/ee-uu-anuncia-nuevos-aranceles-contra-14-socios-comerciales.html)** · *2026-11-25*
+  - Los gravámenes más altos los sufrirá Pekín, mientras que México queda exento
+- **[Merz defiende el apoyo militar de Alemania a Ucrania pese a la creciente oposición ciudadana](https://elpais.com/internacional/2026-11-25/merz-defiende-el-apoyo-militar-de-alemania-a-ucrania-pese-a-la-creciente-oposicion-ciudadana.html)** · *2026-11-25*
+  - Las encuestas advierten que una mayoría de alemanes está en contra de proseguir con la transferencia de ayuda armamentística a Kiev
+- **[Richard Posner, el juez que quería que las leyes tuvieran sentido](https://elpais.com/internacional/2026-11-25/richard-posner-el-juez-que-queria-que-las-leyes-tuvieran-sentido.html)** · *2026-11-25*
+  - El magistrado, fallecido el 10 de noviembre a los 87 años, ha sido el jurista más influyente de Estados Unidos en el último medio siglo
 - **[Ni Yalta, ni cumbre: la nada con sifón](https://elpais.com/internacional/2026-11-22/ni-yalta-ni-cumbre-la-nada-con-sifon.html)** · *2026-11-22*
   - La inmensa y vacía mesa en la que se sentaron Xi, Putin y Trump es la metáfora de una reunión que apenas sirvió para escenificar el desplazamiento de poder en el mundo
-- **[El triunvirato de Shenzhen y la rebelión del resto del mundo](https://elpais.com/internacional/2026-11-19/el-triunvirato-de-shenzhen-y-la-rebelion-del-resto-del-mundo.html)** · *2026-11-19*
-  - Xi, Trump y Putin envían un mensaje de convergencia y rechazo a un orden que les pueda constreñir. Los demás países harán bien en tomárselo en serio
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Flu and other winter viruses can hit older adults harder – here’s what you need to know](https://theconversation.com/flu-and-other-winter-viruses-can-hit-older-adults-harder-heres-what-you-need-to-know-296885)** · *2026-11-24*
-  - Spending more time together indoors helps viruses spread in winter, while dry air may make it harder for the nose to clear them.
-- **[Climate summits need radical reform – here’s how to transform global negotiations](https://theconversation.com/climate-summits-need-radical-reform-heres-how-to-transform-global-negotiations-297316)** · *2026-11-24*
-  - The collapse of Cop31 may become a historical opportunity for global climate governance to tackle its structural problems.
-- **[Jensen Huang, Nvidia and the risks that come with ‘boomerang bosses’](https://theconversation.com/jensen-huang-nvidia-and-the-risks-that-come-with-boomerang-bosses-297413)** · *2026-11-24*
-  - Getting back in the drivers’ seat is not always a straightforward move.
-- **[Ghost Town: a dream-like film about a Japanese community haunted by the 2011 tsunami](https://theconversation.com/ghost-town-a-dream-like-film-about-a-japanese-community-haunted-by-the-2011-tsunami-295612)** · *2026-11-24*
-  - Katherine Round’s film functions as a re-telling, a document, a memory and a reminder of the many individual lives that are affected by natural disasters.
-- **[Johannesburg has had 101 mayors over the last 140 years: new book reviews the good times and the bad](https://theconversation.com/johannesburg-has-had-101-mayors-over-the-last-140-years-new-book-reviews-the-good-times-and-the-bad-297313)** · *2026-11-24*
-  - An indirectly elected executive mayor for Johannesburg was quite successful in the first 15 or so years of post-apartheid rule. But not anymore.
+- **[What is Instagram poetry, and why are people arguing about who owns it?](https://theconversation.com/what-is-instagram-poetry-and-why-are-people-arguing-about-who-owns-it-295055)** · *2026-11-25*
+  - Nayyirah Waheed’s allegations against Rupi Kaur reopen questions of plagiarism, influence and whether any one writer can create a genre.
+- **[Canada’s December forecast: A ‘super’ El Niño and the polar vortex could mean a cold West and mild North](https://theconversation.com/canadas-december-forecast-a-super-el-nino-and-the-polar-vortex-could-mean-a-cold-west-and-mild-north-296905)** · *2026-11-25*
+  - December 2026 could remind us that winter is not just about how cold it gets, but how quickly the weather can change.
+- **[Recruiting new trustees for The Conversation UK](https://theconversation.com/recruiting-new-trustees-for-the-conversation-uk-297460)** · *2026-11-25*
+  - The Conversation Trust UK is the charity which operates the UK edition of The Conversation.
+- **[Eminem and Damien Hirst collaboration shows the relationship between art and music is alive and well](https://theconversation.com/eminem-and-damien-hirst-collaboration-shows-the-relationship-between-art-and-music-is-alive-and-well-295686)** · *2026-11-25*
+  - Art and music go together so well that they can be found sitting together on millions of shelves in millions of homes all over the world.
+- **[Grand Theft Auto 6: how gaming technology is helping everyone from scientists to filmmakers](https://theconversation.com/grand-theft-auto-6-how-gaming-technology-is-helping-everyone-from-scientists-to-filmmakers-297089)** · *2026-11-25*
+  - Game technology is becoming a serious tool for exploration, learning and problem-solving.
 
 ## Nueva Sociedad
 
