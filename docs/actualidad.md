@@ -6,36 +6,45 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-25 16:31 UTC_
+_Última actualización: 2026-11-26 16:05 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
 
 ## Real Instituto Elcano
 
-_Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.org/feed/](https://www.realinstitutoelcano.org/feed/)_
+- **[El otoño del descontento: soluciones europeas al malestar de su juventud](https://www.realinstitutoelcano.org/analisis/el-otono-del-descontento-soluciones-europeas-al-malestar-de-su-juventud/)** · *2026-11-26*
+  - Mensajes clave Análisis El fantasma no recorre Europa, sino el mundo entero. De Nepal y la India a Chile y Argentina; de la mitad oriental de Europa a la occidental. Una ola global de protestas con causas diversas, pero cuyos protagonistas…
+- **[América Latina y las elecciones en Brasil](https://www.realinstitutoelcano.org/analisis/america-latina-y-las-elecciones-en-brasil/)** · *2026-11-20*
+  - Mensajes clave Análisis Las elecciones en Brasil han cerrado el año electoral en América Latina. Tras el triunfo de Luiz Inácio “Lula” da Silva el balance implica dos victorias oficialistas, la otra en Costa Rica, y dos opositoras…
+- **[La UE busca asiento a la mesa de Ucrania](https://www.realinstitutoelcano.org/comentarios/la-ue-busca-asiento-a-la-mesa-de-ucrania/)** · *2026-11-18*
+  - A la espera de lo que salga de la inédita reunión entre Donald Trump, Xi Jinping y Vladimir Putin, los esfuerzos diplomáticos para alcanzar un acuerdo en el conflicto de Ucrania parecen recobrar cierto dinamismo. Una vez más, los enviados…
+- **[Trump, Putin, y Xi: la diplomacia de los “hombres fuertes”](https://www.realinstitutoelcano.org/comentarios/trump-putin-y-xi-la-diplomacia-de-los-hombres-fuertes/)** · *2026-11-17*
+  - La reunión que Donald Trump, Vladímir Putin y Xi Jinping celebran el 19 de noviembre en Shenzhen, al margen de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC), será la primera de los tres dirigentes en un formato…
+- **[La Unión Europea en el Ártico: una estrategia para la vecindad septentrional](https://www.realinstitutoelcano.org/analisis/la-union-europea-en-el-artico-una-estrategia-para-la-vecindad-septentrional/)** · *2026-11-16*
+  - Mensajes clave Introducción ¿Por qué y para qué una nueva estrategia europea para el Ártico? El 20 de octubre de 2026, la Comisión Europea y la Alta Representante de la Unión para Asuntos Exteriores y Política de Seguridad presentaron…
 
 ## BBC News Mundo
 
-- **[Cómo China mantiene su influencia en América Latina en pleno pulso geopolítico con EE.UU.](https://www.bbc.com/mundo/articles/c32l5enge15go?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
-  - De distintas formas —y a veces con bajo perfil—, Pekín logra sostener una presencia trascendental en la región aunque Washington busca limitarla.
-- **[Las fuerzas especiales de Colombia rescatan a decenas de secuestrados en un supermercado y logran someter a los asaltantes](https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
-  - Según informó el gobierno, los hombres armados tomaron a los clientes y empleados del supermercado como rehenes, al ser sorprendidos por la Policía en medio de un intento de robo.
-- **["500.000 muertos": la filtración de datos que revela las abrumadoras cifras de soldados rusos fallecidos en la guerra de Ucrania](https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
-  - Las cifras obtenidas por unos hackers muestran cómo la invasión a gran escala de Ucrania ha transformado significativamente los patrones de mortalidad en Rusia.
-- **[La disputa entre matemáticos que aviva el temor de que la IA pueda socavar la ciencia](https://www.bbc.com/mundo/articles/cje36d6456vwo?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
-  - La IA ha realizado algunos descubrimientos científicos asombrosos. Pero ahora, se están planteando dudas sobre su precisión.
-- **["La chica del metro", la influencer que pasó 2 meses en una unidad psiquiátrica por error](https://www.bbc.com/mundo/articles/cwm25mze7950o?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
-  - Los vídeos que la creadora de contenido grabó bailando en el metro de Londres se hicieron virales en internet en 2023.
+- **[Efecto BYD: por qué Brasil se ha convertido en un "laboratorio en América Latina" para las empresas chinas](https://www.bbc.com/mundo/articles/ck1ewnv46x70o?at_medium=RSS&at_campaign=rss)** · *2026-11-26*
+  - La enorme planta que se construye en el noreste de Brasil marca el ascenso de China al liderazgo del mercado automotriz global: Ford ocupó ese mismo predio hasta que cerró sus puertas en 2021.
+- **[La España de los (casi) 50 millones: cómo la inmigración ha transformado el país en la última década y se ha convertido en tema clave de las elecciones](https://www.bbc.com/mundo/articles/ckq5vgpwwq76o?at_medium=RSS&at_campaign=rss)** · *2026-11-26*
+  - Con casi 50 millones de habitantes y más muertes que nacimientos, España llega a las elecciones del 29 de noviembre en pleno debate sobre cómo gestionar la inmigración.
+- **["Pasé décadas como agente del FBI y este es el caso que no pude dejar atrás"](https://www.bbc.com/mundo/articles/c6174wy0l54eo?at_medium=RSS&at_campaign=rss)** · *2026-11-25*
+  - Jane Collins casi había perdido la esperanza de ver a Michael Donovan y Richard Moore comparecer ante la justicia. Entonces fueron acusados de robar al hermano de un autor de un tiroteo masivo.
+- **[Inés Gómez Mont, la exestrella de TV mexicana prófuga de la justicia cuya huida a España causó un roce diplomático entre los gobiernos de Trump y Sheinbaum](https://www.bbc.com/mundo/articles/crjeqy9ynvnyo?at_medium=RSS&at_campaign=rss)** · *2026-11-26*
+  - La presentadora aceptó salir de forma voluntaria de EE.UU. y fue enviada a España. México pidió su extradición en 2025.
+- **[El papa Francisco y el diablo: cómo el cristianismo moldeó la figura de satán para combatir a otras religiones](https://www.bbc.com/mundo/articles/c6zjrm77lrgwo?at_medium=RSS&at_campaign=rss)** · *2026-11-26*
+  - Desde los cuernos de Pan hasta el tridente de Poseidón: el cristianismo tomó símbolos de otras religiones para construir la imagen del diablo. Sin embargo, esa representación dista mucho de la figura que describió el fallecido papa…
 
 ## El País — Internacional
 
-- **[Kilmar Abrego García, víctima de las deportaciones masivas de Trump, abandona Estados Unidos y llega a España](https://elpais.com/internacional/2026-11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html)** · *2026-11-25*
-  - El salvadoreño terminó por error en la megacárcel de Bukele en 2025 y corría el riesgo de ser enviado por la fuerza a Liberia. Según declararon sus abogados en el aeropuerto de Madrid, no pedirá asilo y viajará a varios países para…
-- **[EE UU propone nuevos aranceles contra 14 socios comerciales, entre ellos China y la UE](https://elpais.com/internacional/2026-11-25/ee-uu-anuncia-nuevos-aranceles-contra-14-socios-comerciales.html)** · *2026-11-25*
-  - Los gravámenes más altos los sufrirá Pekín, mientras que México queda exento
-- **[Merz defiende el apoyo militar de Alemania a Ucrania pese a la creciente oposición ciudadana](https://elpais.com/internacional/2026-11-25/merz-defiende-el-apoyo-militar-de-alemania-a-ucrania-pese-a-la-creciente-oposicion-ciudadana.html)** · *2026-11-25*
-  - Las encuestas advierten que una mayoría de alemanes está en contra de proseguir con la transferencia de ayuda armamentística a Kiev
+- **[Una nueva investigación en Francia apuntala la veracidad de los mensajes antisemitas del delfín de Marine Le Pen](https://elpais.com/internacional/2026-11-26/una-nueva-investigacion-en-francia-apuntala-la-veracidad-de-los-mensajes-antisemitas-del-delfin-de-marine-le-pen.html)** · *2026-11-26*
+  - El diario ‘Le Monde’ publica más pruebas de las soflamas de Jordan Bardella, hoy presidente del Reagrupamiento Nacional, en 2013 en Facebook
+- **[La justicia francesa investiga la filtración de información confidencial para favorecer al partido de Le Pen](https://elpais.com/internacional/2026-11-26/un-caso-de-revelacion-de-secretos-judiciales-salpica-al-partido-de-le-pen.html)** · *2026-11-26*
+  - Un delegado del Gobierno dimite por su posible implicación en este escándalo que muestra los crecientes vínculos entre altos cargos y el partido ultraderechista
+- **[La crisis climática expulsa a miles de europeos de sus casas](https://elpais.com/internacional/2026-11-26/la-crisis-climatica-expulsa-a-miles-de-europeos-de-sus-casas.html)** · *2026-11-26*
+  - El impacto de desastres y fenómenos meteorológicos cada vez más extremos obliga a replantear dónde y cómo será posible vivir en el futuro, y confronta a Europa con una realidad que parecía ajena y acotada a otras partes del mundo
 - **[Richard Posner, el juez que quería que las leyes tuvieran sentido](https://elpais.com/internacional/2026-11-25/richard-posner-el-juez-que-queria-que-las-leyes-tuvieran-sentido.html)** · *2026-11-25*
   - El magistrado, fallecido el 10 de noviembre a los 87 años, ha sido el jurista más influyente de Estados Unidos en el último medio siglo
 - **[Ni Yalta, ni cumbre: la nada con sifón](https://elpais.com/internacional/2026-11-22/ni-yalta-ni-cumbre-la-nada-con-sifon.html)** · *2026-11-22*
@@ -47,16 +56,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[What is Instagram poetry, and why are people arguing about who owns it?](https://theconversation.com/what-is-instagram-poetry-and-why-are-people-arguing-about-who-owns-it-295055)** · *2026-11-25*
-  - Nayyirah Waheed’s allegations against Rupi Kaur reopen questions of plagiarism, influence and whether any one writer can create a genre.
-- **[Canada’s December forecast: A ‘super’ El Niño and the polar vortex could mean a cold West and mild North](https://theconversation.com/canadas-december-forecast-a-super-el-nino-and-the-polar-vortex-could-mean-a-cold-west-and-mild-north-296905)** · *2026-11-25*
-  - December 2026 could remind us that winter is not just about how cold it gets, but how quickly the weather can change.
-- **[Recruiting new trustees for The Conversation UK](https://theconversation.com/recruiting-new-trustees-for-the-conversation-uk-297460)** · *2026-11-25*
-  - The Conversation Trust UK is the charity which operates the UK edition of The Conversation.
-- **[Eminem and Damien Hirst collaboration shows the relationship between art and music is alive and well](https://theconversation.com/eminem-and-damien-hirst-collaboration-shows-the-relationship-between-art-and-music-is-alive-and-well-295686)** · *2026-11-25*
-  - Art and music go together so well that they can be found sitting together on millions of shelves in millions of homes all over the world.
-- **[Grand Theft Auto 6: how gaming technology is helping everyone from scientists to filmmakers](https://theconversation.com/grand-theft-auto-6-how-gaming-technology-is-helping-everyone-from-scientists-to-filmmakers-297089)** · *2026-11-25*
-  - Game technology is becoming a serious tool for exploration, learning and problem-solving.
+- **[‘That’s when the chaos began’: the fall of the Berlin Wall in the words of east and west Germans](https://theconversation.com/thats-when-the-chaos-began-the-fall-of-the-berlin-wall-in-the-words-of-east-and-west-germans-296018)** · *2026-11-26*
+  - Support for the Alternative für Deutschland (AfD) is roughly twice as high in east Germany than in the west.
+- **[To move across Arabia, stone-age humans needed both water and the right kinds of rock](https://theconversation.com/to-move-across-arabia-stone-age-humans-needed-both-water-and-the-right-kinds-of-rock-296900)** · *2026-11-26*
+  - An expedition through Arabia’s Rub’ al Khali desert uncovered abundant evidence of ancient lakes, but no sign of human occupation.
+- **[Russell Brand and the ‘blokeification’ of Christianity](https://theconversation.com/russell-brand-and-the-blokeification-of-christianity-297580)** · *2026-11-26*
+  - The ‘blokeification’ of Christianity describes an attempt to reshape Christian faith and religious identity through a masculine, often laddish, lens.
+- **[Behind the joy of Marc Chagall’s circus art is a story of loss and exile](https://theconversation.com/behind-the-joy-of-marc-chagalls-circus-art-is-a-story-of-loss-and-exile-297335)** · *2026-11-26*
+  - Marc Chagall: The Circus suggests that his dreamlike performers are really an exploration of the precarity of modern life.
+- **[Indonesia’s huge peat fires burn underground – so we still don’t know just how much carbon they have released](https://theconversation.com/indonesias-huge-peat-fires-burn-underground-so-we-still-dont-know-just-how-much-carbon-they-have-released-295732)** · *2026-11-26*
+  - These fires can emit more carbon than entire countries, but estimates remain uncertain. That’s why researchers are measuring how deeply they burn.
 
 ## Nueva Sociedad
 
