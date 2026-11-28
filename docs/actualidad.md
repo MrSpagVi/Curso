@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-11-27 15:52 UTC_
+_Última actualización: 2026-11-28 14:47 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,25 +17,25 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Elecciones en España: 4 datos que explican cómo está la economía del país tras 8 años de gobierno de Pedro Sánchez](https://www.bbc.com/mundo/articles/c3rrgd44kqk2o?at_medium=RSS&at_campaign=rss)** · *2026-11-27*
-  - Analizamos, de cara a las elecciones generales del 29 de noviembre, por qué el crecimiento del PIB y el récord de empleo en España conviven con salarios que han perdido poder adquisitivo y una de las tasas de pobreza infantil más altas de…
-- **[Los campesinos en Colombia que no dejan de recibir amenazas por un terreno que les devolvió el gobierno hace 6 meses](https://www.bbc.com/mundo/articles/cqevrxnk1p8po?at_medium=RSS&at_campaign=rss)** · *2026-11-27*
-  - Campesinos a los que les fueron cerca de 400 hectáreas en Colombia están recibiendo amenazas para que abandonen estos terrenos.
-- **[Los desesperados mensajes de mujeres que están en el corredor de la muerte en Irán por participar en protestas contra el gobierno](https://www.bbc.com/mundo/articles/cj62p7wv9qnxo?at_medium=RSS&at_campaign=rss)** · *2026-11-26*
-  - Según organizaciones de derechos humanos y la propia ONU, las mujeres disidentes están siendo condenadas a muerte en unos números sin precedentes en las últimas décadas.
-- **[La científica mexicana que ayudó a descubrir el origen de los murciélagos y por qué son inmunes a los virus que transmiten](https://www.bbc.com/mundo/articles/cm62y8017lxpo?at_medium=RSS&at_campaign=rss)** · *2026-11-27*
-  - Hay unas 1.500 especies de murciélagos y uno de los grandes misterios es por qué, si bien son reservorios de virus letales, ellos mismos no se enferman, explicó la bióloga Ariadna Morales a BBC Mundo.
-- **[4 movimientos que debes evitar para tener una columna saludable](https://www.bbc.com/mundo/articles/cqevr0l23e1vo?at_medium=RSS&at_campaign=rss)** · *2026-11-27*
-  - Nuestra columna es la estructura principal de nuestro cuerpo. Y, aun así, la mayor parte del tiempo le prestamos poca atención.
+- **[El país cuya revolución solar ha sido tan exitosa que su red eléctrica se está desmoronando](https://www.bbc.com/mundo/articles/c9y7rgpe5dp8o?at_medium=RSS&at_campaign=rss)** · *2026-11-28*
+  - La instalación de paneles solares por parte de los ciudadanos ha contribuido a aumentar la cuota de energía solar en la electricidad de Pakistán del 1% al 28%. Pero también hay serios problemas.
+- **[El Tribunal del Mar rechaza el reclamo de Argentina para frenar Sea Lion, el proyecto petrolero británico en las islas Malvinas/Falklands](https://www.bbc.com/mundo/articles/ck7v21npjpz5o?at_medium=RSS&at_campaign=rss)** · *2026-11-28*
+  - El gobierno de Javier Milei ha calificado el proyecto como un "peligro claro y urgente" que permitiría afianzar la "ocupación" de las islas.
+- **[De España a Uruguay, la herramienta interactiva que permite ver la crisis global de vivienda país por país (y las posibles soluciones)](https://www.bbc.com/mundo/articles/cjwy5vr4359xo?at_medium=RSS&at_campaign=rss)** · *2026-11-28*
+  - Analizamos por qué la vivienda se ha vuelto inaccesible para muchos a través de historias de España, Nigeria e India, entrevistas con expertos y datos interactivos.
+- **[Erika Cheung, la joven que creció en la pobreza y terminó exponiendo el fraude multimillonario de Elizabeth Holmes con Theranos](https://www.bbc.com/mundo/articles/c60qjwen98jdo?at_medium=RSS&at_campaign=rss)** · *2026-11-28*
+  - Recién graduada, empezó a trabajar en una pujante empresa tecnológica que prometía revolucionar la atención médica. Pero descubrió algo oscuro y se atrevió a denunciarlo.
+- **[¿Por qué la temperatura corporal de los humanos se ha reducido en los últimos 150 años?](https://www.bbc.com/mundo/articles/c62kek7gyy3qo?at_medium=RSS&at_campaign=rss)** · *2026-11-28*
+  - Al parecer, la temperatura corporal promedio de los seres humanos solía ser más alta que ahora. Los científicos aún investigan la razón exacta.
 
 ## El País — Internacional
 
-- **[La UE lucha por aprobar un presupuesto antes de la posible llegada de Le Pen al poder en Francia](https://elpais.com/internacional/2026-11-26/la-ue-lucha-por-aprobar-un-presupuesto-antes-de-la-posible-llegada-de-le-pen-al-poder-en-francia.html)** · *2026-11-26*
-  - El canciller alemán Merz exige solidaridad unánime en la ayuda a Ucrania pero cuatro países son reacios: Hungría, Eslovaquia, República Checa y Bulgaria
-- **[Una nueva investigación en Francia apuntala la veracidad de los mensajes antisemitas del delfín de Marine Le Pen](https://elpais.com/internacional/2026-11-26/una-nueva-investigacion-en-francia-apuntala-la-veracidad-de-los-mensajes-antisemitas-del-delfin-de-marine-le-pen.html)** · *2026-11-26*
-  - El diario ‘Le Monde’ publica más pruebas de las soflamas de Jordan Bardella, hoy presidente del Reagrupamiento Nacional, en 2013 en Facebook
-- **[La justicia francesa investiga la filtración de información confidencial para favorecer al partido de Le Pen](https://elpais.com/internacional/2026-11-26/un-caso-de-revelacion-de-secretos-judiciales-salpica-al-partido-de-le-pen.html)** · *2026-11-26*
-  - Un delegado del Gobierno dimite por su posible implicación en este escándalo que muestra los crecientes vínculos entre altos cargos y el partido ultraderechista
+- **[La tensión entre Francia y Alemania dificulta el acuerdo presupuestario en la UE](https://elpais.com/internacional/2026-11-27/la-tension-entre-francia-y-alemania-dificulta-el-acuerdo-presupuestario-en-la-ue.html)** · *2026-11-27*
+  - Macron y Merz muestran de nuevo falta de sintonía en el Consejo Europeo. El presidente, António Costa, confía en que la negociación fructifique en la próxima reunión a mediados de diciembre
+- **[Alemania aprueba el mayor gasto en defensa desde la Guerra Fría tras una dura batalla de Merz con los socialdemócratas](https://elpais.com/internacional/2026-11-27/alemania-aprueba-el-mayor-presupuesto-de-su-historia-tras-una-dura-batalla-de-merz-con-los-socialdemocratas.html)** · *2026-11-27*
+  - El canciller subraya con estos presupuestos, bajo la coyuntura de la guerra en Ucrania y una creciente amenaza rusa, la necesidad de que el país se pueda defender sin ayuda de terceros
+- **[El director de la agencia nuclear de la ONU designa a un alto cargo de Putin para dirigir un departamento clave de la organización](https://elpais.com/internacional/2026-11-28/el-director-de-la-agencia-nuclear-de-la-onu-designa-a-un-alto-cargo-de-putin-para-dirigir-un-departamento-clave-de-la-organizacion.html)** · *2026-11-28*
+  - Rafael Grossi, en plena carrera por liderar Naciones Unidas, desaira a Ucrania y la UE al elegir al ruso Alexei Ferapontov
 - **[Richard Posner, el juez que quería que las leyes tuvieran sentido](https://elpais.com/internacional/2026-11-25/richard-posner-el-juez-que-queria-que-las-leyes-tuvieran-sentido.html)** · *2026-11-25*
   - El magistrado, fallecido el 10 de noviembre a los 87 años, ha sido el jurista más influyente de Estados Unidos en el último medio siglo
 - **[Ni Yalta, ni cumbre: la nada con sifón](https://elpais.com/internacional/2026-11-22/ni-yalta-ni-cumbre-la-nada-con-sifon.html)** · *2026-11-22*
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Dreaming of better sleep? Personalised mathematical modelling may help turn that dream into reality](https://theconversation.com/dreaming-of-better-sleep-personalised-mathematical-modelling-may-help-turn-that-dream-into-reality-296324)** · *2026-11-27*
-  - Poor sleep is recognised as a public health epidemic but there’s no one solution to getting a better night’s kip. Could mathematical modelling help you through?
-- **[Should you correct a friend’s health myth? Ask yourself this question first](https://theconversation.com/should-you-correct-a-friends-health-myth-ask-yourself-this-question-first-296630)** · *2026-11-27*
-  - Some health myths are harmless. A nurse who studies misinformation explains how to tell which are worth challenging, and how to raise them kindly.
-- **[Once logging stops, recovery of Vietnam’s tropical forests isn’t guaranteed](https://theconversation.com/once-logging-stops-recovery-of-vietnams-tropical-forests-isnt-guaranteed-294965)** · *2026-11-27*
-  - Hiking up rivers and sleeping in hammocks, our team spent months in the dense jungles of central Vietnam to track forest recovery.
-- **[Lebanon facing uncertain future as UN peacekeepers prepare to depart](https://theconversation.com/lebanon-facing-uncertain-future-as-un-peacekeepers-prepare-to-depart-297693)** · *2026-11-27*
-  - The UN’s peacekeeping mission in Lebanon is ending after nearly 50 years.
-- **[England and Wales are in a winter drought – which could make next summer even drier](https://theconversation.com/england-and-wales-are-in-a-winter-drought-which-could-make-next-summer-even-drier-290074)** · *2026-11-27*
-  - There are measures that can help England and Wales prepare for drier and hotter summers.
+- **[View from The Hill: Victoria’s message to federal Labor – voters can turn on a dime](https://theconversation.com/view-from-the-hill-victorias-message-to-federal-labor-voters-can-turn-on-a-dime-297275)** · *2026-11-28*
+  - Victorians have delivered a savage indictment of a government they grew to hate, only four years after giving it an increased majority.
+- **[SpaceX plans to launch a million new satellites – but their environmental impact has barely been assessed](https://theconversation.com/spacex-plans-to-launch-a-million-new-satellites-but-their-environmental-impact-has-barely-been-assessed-297767)** · *2026-11-28*
+  - Satellites burning up in the atmosphere could soon release more material than meteorites, threatening the ozone layer.
+- **[Coalition wins thumping majority at Victorian election as Labor and Greens in contest for opposition status](https://theconversation.com/coalition-wins-thumping-majority-at-victorian-election-as-labor-and-greens-in-contest-for-opposition-status-297265)** · *2026-11-28*
+  - The state election has seen the 12-year Labor government decimated, while the Greens have picked up a slew of seats, especially in the inner city.
+- **[Who is Jess Wilson, Victoria’s new premier?](https://theconversation.com/who-is-jess-wilson-victorias-new-premier-296287)** · *2026-11-28*
+  - Deeply entrenched in the Liberal Party her whole life, the 36 year old has sometimes been hard to pin down on policy positions and political beliefs.
+- **[Victoria state election: results at a glance](https://theconversation.com/victoria-state-election-results-at-a-glance-296509)** · *2026-11-28*
+  - Follow live as Labor’s vies for a fourth term, with the Liberals and One Nation hoping to unseat them.
 
 ## Nueva Sociedad
 
